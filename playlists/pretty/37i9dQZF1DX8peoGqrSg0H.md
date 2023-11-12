@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: RedSpin
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,640 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,743 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
 | 2 | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 |
-| 3 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:44 |
+| 3 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:38 |
 | 4 | [เพื่อนกันไม่เลิกกัน \(Close Friend\)](https://open.spotify.com/track/7xfqTNAUFmbM1wlmCPxRmQ) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [bamm NEXT DOOR](https://open.spotify.com/album/4uem2B1Wez6SwW9lsRDWyF) | 4:00 |
 | 5 | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\)](https://open.spotify.com/track/75PNvxakeoKFP7dxdGDWLb) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\) \- Single](https://open.spotify.com/album/0GCaqJpZqxcszozlequwGC) | 3:18 |
 | 6 | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/track/7sBi5mkwgckfb68RDRWKMS) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/album/1fkjw8BqsMHwXc5gWzDGUo) | 3:35 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 33 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
 | 34 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
 | 35 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 |
-| 36 | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 |
-| 37 | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 |
+| 36 | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\) \- Single](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 |
+| 37 | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\) \- Single](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 |
 | 38 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 39 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 |
 | 40 | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/track/50xCjuk6rUUXNwqC6bQlrV) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/album/0vxLkG4IVsAQ7lU05QXRXA) | 3:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 | 65 | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 |
 
-Snapshot ID: `MCwyOWM4NTYyZTBmYzBlNjYwNzUxZmEwN2E3YmRjZTBjM2Q2NzFmODdm`
+Snapshot ID: `MCw4ZGI4NWJmNmYzZmQ5MmUxOWE5YTM4MTVmY2QyMzNiY2U3Y2NmOTk0`

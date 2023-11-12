@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,912 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,917 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 27 | [Seu](https://open.spotify.com/track/20uJrdNdBRS6L1SMlaWTyR) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 2:30 |
 | 28 | [Investidor de Sonhos](https://open.spotify.com/track/36hjUBVeXE16PDunTGE6X7) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:48 |
 | 29 | [Mortal Kombat](https://open.spotify.com/track/2FI8maDNpay1VrH4bUbn7l) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS) | [Mortal Kombat](https://open.spotify.com/album/4vtSF6XZ5UkwL6EPcmPkY2) | 3:59 |
-| 30 | [MAGRIN](https://open.spotify.com/track/2gaQBTnxxwC0CnlZiHiWH1) | [NORTRAGAMUS](https://open.spotify.com/artist/33ug2i6014guMI4zR9iwmc), [Dalsin](https://open.spotify.com/artist/6adUSunrDFWnfGXXVLEi7m), [Tudubom](https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV) | [MAGRIN](https://open.spotify.com/album/5L1VT45G8bQ6cpwlVMeKNS) | 2:28 |
+| 30 | [MAGRIN](https://open.spotify.com/track/2gaQBTnxxwC0CnlZiHiWH1) | [NORTRAGAMUS](https://open.spotify.com/artist/33ug2i6014guMI4zR9iwmc), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Tudubom](https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV) | [MAGRIN](https://open.spotify.com/album/5L1VT45G8bQ6cpwlVMeKNS) | 2:28 |
 | 31 | [MOMENTO NOVO](https://open.spotify.com/track/34MNeolydbEdU7rtZlh4n3) | [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [MOMENTO NOVO](https://open.spotify.com/album/5DL97yYUqKNcT5pZEr0i8B) | 1:59 |
 | 32 | [Platinado](https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Platinado](https://open.spotify.com/album/4E62XM9QVdCFVUuTcVFMPa) | 2:23 |
 | 33 | [Vitória Brindar](https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Vitória Brindar](https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
 | 75 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 
-Snapshot ID: `MCw4ODQ5Y2I4MjkwNDEyYzdhMDg3ZTJlNGVjZmNkY2U2ZWU3MzU5YTc4`
+Snapshot ID: `MCwwNDViMTI0OGY2ODA4NTZkZDYzZmE5ODY0ZjcxMGYzYjY5YWMzZjQ0`

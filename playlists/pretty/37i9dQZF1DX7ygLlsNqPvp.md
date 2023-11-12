@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP\-CdTqJ2D1Ing"> Reggie</a> and  <a href="https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie\_tw"> Kofi Mole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,619 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,628 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 50 | [Invoice \(feat\. JayBhad and Superwozzy\)](https://open.spotify.com/track/0OhBrDka6qnfgUAqJmVOep) | [Papisnoop](https://open.spotify.com/artist/4UhzXeD0cSxjMhsgqK1V01), [JayBhad](https://open.spotify.com/artist/7LpYKH08Y6lfbKwSrkv0xp), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Invoice \(feat\. JayBhad and Superwozzy\)](https://open.spotify.com/album/6x23A7be271sTaPRBnJelP) | 3:56 |
 | 51 | [ALA BEKE 2](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 |
 
-Snapshot ID: `MCw1Y2M5NjcyMGZiZjNjMzYyNjcyNThlYjZlY2NiY2RkZWQwNTE4ZWQ2`
+Snapshot ID: `MCw2ZTZiNmE2MDNkZjAxMzY3NzE3ZjhlY2NjYjExNDYyNDE1OWEyMjZl`

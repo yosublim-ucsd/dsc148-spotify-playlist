@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,809 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,819 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 8 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
 | 9 | [L'évadé](https://open.spotify.com/track/54IB5XhD35uEsApRWc7Rq4) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [L'évadé](https://open.spotify.com/album/2CFik6eV2jcB6H9LEP4y3U) | 4:03 |
 | 10 | [Your Life](https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Your Life](https://open.spotify.com/album/6BGRw9Kw9IJ67A5CLUJc5o) | 5:00 |
-| 11 | [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 |
+| 11 | [Rendez\-vous](https://open.spotify.com/track/5KYF2blNXgss2n0k04Fyzu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/3nQvTXgdKu3FHLFiuqwUky) | 3:01 |
 | 12 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
 | 13 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 |
 | 14 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCw2YmMzZjQxNjFiYzVkNGUyZTJjMzZhNjFkMmI2MzYwMWY2M2IxZjY1`
+Snapshot ID: `MCw2ZWUyYzA3YTcyMGRiYjNhZDVkNTU0NGE3MDVjZjkzOGYzNTAwODdj`

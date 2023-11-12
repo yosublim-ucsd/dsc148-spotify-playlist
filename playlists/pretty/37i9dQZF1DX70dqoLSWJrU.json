@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 68662,
+  "num_followers": 68702,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTBlNzZlMTkwM2ZjYmQ0MWY4ZTYyYThjMWE2YmQ5ZWE3YjlkOGI1",
+  "snapshot_id": "MCxkM2Q3NTc4ODNkYWI1NWI0NGU1ZDc3ZDNhMDY3ZGUxZjFiNTRhOGJi",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "May I Come In?",
         "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 129039,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1XhZW7xlUp5fc7ZueeouJw"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
+      "duration_ms": 186560,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "You Don't Know What Love Is - Remastered 2004",
-      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Ella Sings Gershwin",
         "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 197666,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "You Don't Know What Love Is - Remastered 2004",
+      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
       },
@@ -707,22 +727,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 297866,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Alexandria The Great",
         "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "There Must Be A Way",
-      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "There Must Be A Way",
+      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "It's All Over But The Swingin'",
-        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 231400,
       "name": "Spring Will Be A Little Late This Year",
       "url": "https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "It's All Over But The Swingin'",
+        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Smooth Songs",
-        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 216790,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 191000,
       "name": "No More",
       "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Smooth Songs",
+        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 216790,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
     },
     {
       "added_at": "2023-10-27 00:01:00",

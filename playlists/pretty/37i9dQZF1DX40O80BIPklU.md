@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Yoss Bones y Dharius en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,215 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,269 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 5 | [MAMITA](https://open.spotify.com/track/6ug0Fl5Hqq3vTzb161NZri) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/0cgEM3YLRPuYOd3MIMSoX9) | 3:03 |
 | 6 | [Triada](https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX), [Vicky MC](https://open.spotify.com/artist/2sF3CgV1tKubYGTUSKPenC), [Crismo VC](https://open.spotify.com/artist/3bsKe2QwZ3UOWugCtde85U) | [Triada](https://open.spotify.com/album/38CP274HAcOq0ajInkz2fH) | 4:29 |
 | 7 | [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 |
-| 8 | [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:14 |
+| 8 | [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:15 |
 | 9 | [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt) | 2:44 |
 | 10 | [Huéspedes](https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Jam Baxter](https://open.spotify.com/artist/6ST2sHlQoWYjxkIVnuW2mr) | [Huéspedes](https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk) | 4:36 |
 | 11 | [Melancólicos](https://open.spotify.com/track/08oK0PA2snKyuURSJq8cnP) | [Abram](https://open.spotify.com/artist/77JcIMJmNJpBchsYdXyeae), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [SIRIAN](https://open.spotify.com/artist/2VdT0FWo6kAW0UdNGSB9eF) | [Melancólicos](https://open.spotify.com/album/4CkNFb3361xzBBnlCh6TY0) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 | 100 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 |
 
-Snapshot ID: `MCw2NjI1MTdhMTUyMWY5OWM1ZTQ3OTY5NDZkZmM5YjY3NDNlMGU3NDMz`
+Snapshot ID: `MCw2MTlmYjk0YjQ3NGFmYjRmNzNmNWZkNjJlMWNhMDFkNmNhZjc5ODhi`

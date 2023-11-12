@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 263679,
       "name": "Carolina - En directo 2000",
       "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 219184,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ"
@@ -3922,6 +3922,24 @@
       "duration_ms": 174946,
       "name": "Me cuesta tanto olvidarte",
       "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
+    },
+    {
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
     },
     {
       "album": {
@@ -6684,7 +6702,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"

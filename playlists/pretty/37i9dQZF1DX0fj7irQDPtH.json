@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 26522,
+  "num_followers": 26548,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzIzNWEzMDM0YTVmOTlkZDg5YmIxNjgwZWZlZDc2OWM1N2UyOTg2",
+  "snapshot_id": "MCw5MmI0ODU3MTM4MTQzNDQ0Y2MyYjAxNDJhYTRjMjNkMDA0ODE5OWNm",
   "tracks": [
     {
       "added_at": "2021-12-16 01:15:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 220986,
       "name": "Choca",
       "url": "https://open.spotify.com/track/1hiKRqR0jox7OI7aweq7Sj"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2021-12-16 01:15:04",

@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-154 songs - 8 hr 59 min
+155 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 | 2023-07-06 | 2023-09-29 |
 | [Coupé Décalé SuperSonic](https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ) | [David Tayorault](https://open.spotify.com/artist/5fGgmiJ78nMM0AnnbdqBcO), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Coupé Décalé SuperSonic](https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q) | 3:26 | 2023-01-26 | 2023-03-25 |
 | [CPLM](https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Mozard Letagnroter](https://open.spotify.com/artist/6gpi6KpAKEKb5YBHLKxOEo) | [OMNI](https://open.spotify.com/album/7IdUJMA4X3IzzrQeWfMJJ4) | 3:07 | 2022-12-01 | 2023-06-16 |
-| [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 | 2023-11-09 |  |
+| [Côte d'Ivoire est Zo](https://open.spotify.com/track/2FHdjSKM2QJ4S1LJIaWHH1) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5I4B1XJgKp8k6HLm6RADCS) | 2:46 | 2023-11-09 |  |
+| [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 | 2023-11-09 | 2023-11-12 |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 | 2022-08-05 |
 | [Demain](https://open.spotify.com/track/3TQGj5SEtcmTDNo6bgRsd3) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Elus De Dieu \(Deluxe\)](https://open.spotify.com/album/2Jd8cTkftvmpqWUIIScr1x) | 3:56 | 2023-09-21 |  |

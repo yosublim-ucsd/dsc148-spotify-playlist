@@ -1,12 +1,12 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 96294,
+  "num_followers": 96307,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODQ2YjlhNDFhZDdjOTBlNmFmNmM5YTZjZjUwZDFmMGRiMGY4Zjk1",
+  "snapshot_id": "MCxjMTdjMDM4ODUxM2E2YTRiNzI3YjllNTBkNzMzZWQwNTAwOWRlMzAy",
   "tracks": [
     {
       "added_at": "2023-11-10 08:55:15",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-11-10 08:55:15",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": "2023-11-10 08:55:15",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2023-11-10 08:55:15",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "added_at": "2023-11-10 08:55:15",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-11-10 08:55:15",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2023-11-10 08:55:15",
+      "album": {
         "name": "Wake Up in the Sky",
         "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 204664,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
-    },
-    {
-      "added_at": "2023-11-10 08:55:15",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2023-11-10 08:55:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-10 08:55:15",
       "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+    },
+    {
+      "added_at": "2023-11-10 08:55:15",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -763,26 +779,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2023-11-10 08:55:15",
-      "album": {
-        "name": "SremmLife 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "Black Beatles",
-      "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
     },
     {
       "added_at": "2023-11-10 08:55:15",
@@ -811,34 +807,22 @@
     {
       "added_at": "2023-11-10 08:55:15",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+        "name": "SremmLife 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
-    {
-      "added_at": "2023-11-10 08:55:15",
-      "album": {
-        "name": "Cobra",
-        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
-      },
-      "artists": [
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 168932,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+      "duration_ms": 291893,
+      "name": "Black Beatles",
+      "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
     },
     {
       "added_at": "2023-11-10 08:55:15",
@@ -875,6 +859,22 @@
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "added_at": "2023-11-10 08:55:15",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2023-11-10 08:55:15",
@@ -919,22 +919,30 @@
     {
       "added_at": "2023-11-10 08:55:15",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "B4 The Storm",
+        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
         },
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 203786,
-      "name": "One, Two Step (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
+      "duration_ms": 195428,
+      "name": "Lemonade (feat. NAV)",
+      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
     }
   ],
   "unique_name": "Hip Hop Party",

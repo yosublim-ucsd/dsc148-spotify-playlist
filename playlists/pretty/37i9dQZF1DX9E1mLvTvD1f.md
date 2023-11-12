@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,055 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,179 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 6 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
 | 7 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
 | 8 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
-| 9 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 9 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
 | 10 | [Sliver](https://open.spotify.com/track/3BtHClmMmURD8UHF2fiyxt) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 2:16 |
-| 11 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
+| 11 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
 | 12 | [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 2:59 |
 | 13 | [Hunger Strike](https://open.spotify.com/track/0W7AbEauB7cP4pidLclApe) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog](https://open.spotify.com/album/63HdXCn0Xz1pRZc2GzMw7k) | 4:06 |
 | 14 | [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 23 | [All Over You](https://open.spotify.com/track/0sqE6XPi9VAaWl5NxDyMQK) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:59 |
 | 24 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
 | 25 | [Fell On Black Days](https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:43 |
-| 26 | [Beautiful Disaster](https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Transistor](https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx) | 3:58 |
-| 27 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 |
+| 26 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 |
+| 27 | [Beautiful Disaster](https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Transistor](https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx) | 3:58 |
 | 28 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 29 | [Never There](https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 2:44 |
 | 30 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 59 | [Is Anybody Home?](https://open.spotify.com/track/2QQ0lfEAu3ncUHM3C6Rkg3) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Happiness...Is Not a Fish That You Can Catch](https://open.spotify.com/album/6zlcEv6OCgGoVlF5Fm4cSd) | 3:38 |
 | 60 | [Teen Angst \(What The World Needs Now\)](https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Cracker](https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp) | 4:14 |
 
-Snapshot ID: `MCxmZGExMGFiM2JlNDUxNGYyZjk4OGJjZTdmYTc0ODZiMzU1YTJhNDM3`
+Snapshot ID: `MCxmNzRjNTI2ZDQ1MWNjNzE1MWQ4YjJmODQ3NGZjNTQxNzFmMzJhNmMx`

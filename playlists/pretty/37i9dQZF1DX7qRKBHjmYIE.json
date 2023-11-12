@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Danny Schiller.",
-  "num_followers": 761844,
+  "num_followers": 761837,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjU4ODczMWM1ODI5ZTMwMmQ4YTA5MjI5N2Q5MjA5MTVhNDk2OTQ2",
+  "snapshot_id": "MCw4ZmUwMzcwOGM3YWZlMjBlOGQ2OTAzNDRjMzdjODY2MmUwMjEwMWU2",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Coastin' (with Alem\u00e1n)",
         "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 244992,
       "name": "Coastin' (with Alem\u00e1n)",
       "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Canto a la Imaginaci\u00f3n",
         "url": "https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
       "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
     }
   ],
   "unique_name": "Mixto",

@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Rakky Ripper & Rizha",
-  "num_followers": 123122,
+  "num_followers": 123150,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2I2MzMzMWIyMGNkMjBhYjdlZTZlNDA0OTg3YTZiMmVhNWRhNWRk",
+  "snapshot_id": "MCxhOGVjMDQ4MjQzNDllOWQyNTQ3M2ZmZWNhNGFlN2M1MmQzOGM5ZDgw",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "ESPINAS",
-        "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
-      },
-      "artists": [
-        {
-          "name": "STRANGEL0VE",
-          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
-        },
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "ESPINAS",
-      "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "No puedo decirte que no",
-        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
+        "name": "ESPINAS",
+        "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
       },
       "artists": [
         {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+          "name": "STRANGEL0VE",
+          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+        },
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
         }
       ],
-      "duration_ms": 136293,
-      "name": "No puedo decirte que no",
-      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
+      "duration_ms": 153666,
+      "name": "ESPINAS",
+      "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "No puedo decirte que no",
+        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "No puedo decirte que no",
+      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Palante",
         "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "shichi",
-        "url": "https://open.spotify.com/album/2AGyrvbV1YyP5Ju6sV8YTY"
-      },
-      "artists": [
-        {
-          "name": "Japogang",
-          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
-        }
-      ],
-      "duration_ms": 124752,
-      "name": "shichi",
-      "url": "https://open.spotify.com/track/2zWcdtl80T8TWIwkpnyzVZ"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "MEJORES QUE AYER",
         "url": "https://open.spotify.com/album/7sgKcp5deTKBal1SRqTtRX"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 170269,
       "name": "MEJORES QUE AYER",
       "url": "https://open.spotify.com/track/3fcUglHHrcdv25dXNyTHWc"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "shichi",
+        "url": "https://open.spotify.com/album/2AGyrvbV1YyP5Ju6sV8YTY"
+      },
+      "artists": [
+        {
+          "name": "Japogang",
+          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
+        }
+      ],
+      "duration_ms": 124752,
+      "name": "shichi",
+      "url": "https://open.spotify.com/track/2zWcdtl80T8TWIwkpnyzVZ"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Anesthesia",
+        "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
+      },
+      "artists": [
+        {
+          "name": "Eflexx",
+          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
+        },
+        {
+          "name": "Paul Rox",
+          "url": "https://open.spotify.com/artist/69ewH3fCLlLLsA6RaqJPP4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "CRIMEN",
         "url": "https://open.spotify.com/album/1IDV0cip7OI5x3xMzkOK6d"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 136333,
       "name": "Mi Lady",
       "url": "https://open.spotify.com/track/0uV0AVcRD2KB4nkVTXJXZL"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Anesthesia",
-        "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
-      },
-      "artists": [
-        {
-          "name": "Eflexx",
-          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
-        },
-        {
-          "name": "Paul Rox",
-          "url": "https://open.spotify.com/artist/69ewH3fCLlLLsA6RaqJPP4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Anesthesia",
-      "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "El Terror Solo Es Amor",
+        "url": "https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe"
+      },
+      "artists": [
+        {
+          "name": "MU\u00d1EKI77A",
+          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "Dementores",
+      "url": "https://open.spotify.com/track/1Jwykvx2g4P2gSHUxho7bp"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "2035",
         "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 112428,
       "name": "2035",
       "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "El Terror Solo Es Amor",
-        "url": "https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe"
-      },
-      "artists": [
-        {
-          "name": "MU\u00d1EKI77A",
-          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
-        }
-      ],
-      "duration_ms": 155912,
-      "name": "Dementores",
-      "url": "https://open.spotify.com/track/1Jwykvx2g4P2gSHUxho7bp"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "BRAGUETA ABIERTA",
+        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "BRAGUETA ABIERTA",
+      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Es Un Placer Conocerte",
         "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
       },
@@ -1699,34 +1715,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+        "name": "TikTok",
+        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
       },
       "artists": [
         {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "BRAGUETA ABIERTA",
-        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
-      },
-      "artists": [
+          "name": "Ure",
+          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
+        },
         {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+          "name": "Autotune Angel",
+          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
         }
       ],
-      "duration_ms": 179250,
-      "name": "BRAGUETA ABIERTA",
-      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
+      "duration_ms": 128003,
+      "name": "TikTok",
+      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1751,6 +1755,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+      },
+      "artists": [
+        {
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+        }
+      ],
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "MENTERROTA",
         "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
       },
@@ -1763,6 +1783,22 @@
       "duration_ms": 180211,
       "name": "MENTERROTA",
       "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Tu capitto",
+        "url": "https://open.spotify.com/album/0wt1xhWFYu81yEb5ESKBX9"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 122128,
+      "name": "Tu capitto",
+      "url": "https://open.spotify.com/track/40fQIanIIxeAcFVlQKg2eT"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1783,22 +1819,6 @@
       "duration_ms": 135529,
       "name": "Club Mood",
       "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Tu capitto",
-        "url": "https://open.spotify.com/album/0wt1xhWFYu81yEb5ESKBX9"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 122128,
-      "name": "Tu capitto",
-      "url": "https://open.spotify.com/track/40fQIanIIxeAcFVlQKg2eT"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1879,26 +1899,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Mi Fan\u00e1tica",
-        "url": "https://open.spotify.com/album/0suXl1tjvBxawzChYzsSiU"
-      },
-      "artists": [
-        {
-          "name": "jury el lobo",
-          "url": "https://open.spotify.com/artist/3U2JlpaUN2Cl8Bui4r1qq3"
-        },
-        {
-          "name": "Owiizs",
-          "url": "https://open.spotify.com/artist/21gqiy23fO4YcUpjps8Zzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Mi Fan\u00e1tica",
-      "url": "https://open.spotify.com/track/451TLKK6c6DB9kG2ICcMBW"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Dolce",
         "url": "https://open.spotify.com/album/31yNlWCT20EtMIehxkK1fr"
       },
@@ -1935,22 +1935,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "TikTok",
-        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
+        "name": "Mi Fan\u00e1tica",
+        "url": "https://open.spotify.com/album/0suXl1tjvBxawzChYzsSiU"
       },
       "artists": [
         {
-          "name": "Ure",
-          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
+          "name": "jury el lobo",
+          "url": "https://open.spotify.com/artist/3U2JlpaUN2Cl8Bui4r1qq3"
         },
         {
-          "name": "Autotune Angel",
-          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+          "name": "Owiizs",
+          "url": "https://open.spotify.com/artist/21gqiy23fO4YcUpjps8Zzw"
         }
       ],
-      "duration_ms": 128003,
-      "name": "TikTok",
-      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
+      "duration_ms": 203076,
+      "name": "Mi Fan\u00e1tica",
+      "url": "https://open.spotify.com/track/451TLKK6c6DB9kG2ICcMBW"
     },
     {
       "added_at": "2023-10-13 06:00:00",

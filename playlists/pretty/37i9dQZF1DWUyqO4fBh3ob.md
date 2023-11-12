@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,053 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,066 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 |
 | 50 | [Mktifi Bhali](https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Mktifi Bhali](https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ) | 4:17 |
 
-Snapshot ID: `MCw4NTZlNzRjOGVlNzc5ZjY0NzcyM2E2N2I2NmRlZDYxMTc5ZjViYzAy`
+Snapshot ID: `MCxhYjQ3NWU2Njk1OTJkNTEzZjI0MjBhZDRhNGJhOGU1OGUyNmI0YTc4`

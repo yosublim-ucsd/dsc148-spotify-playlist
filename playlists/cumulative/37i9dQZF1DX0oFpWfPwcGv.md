@@ -4,7 +4,7 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-116 songs - 11 hr 22 min
+117 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,13 @@
 | [Love Hangover \- 12" Version](https://open.spotify.com/track/60ahYtHTWGhrA8LAUZfbhW) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [BIGGEST DISCO HITS](https://open.spotify.com/album/5Gn7ArvK8JYZI4VAbmpv0a) | 7:54 | 2022-09-12 | 2022-11-13 |
 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 | 2022-05-17 |  |
 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 | 2022-05-17 |  |
+| [Love Is You \(A Tom Moulton Mix\)](https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Lectric Lady](https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A) | 7:53 | 2023-09-18 |  |
 | [Love Is You \- A Tom Moulton Mix](https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | ['Lectric Lady](https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB) | 7:53 | 2022-05-17 | 2023-11-04 |
 | [Love Sensation \(A Tom Moulton Mix\)](https://open.spotify.com/track/1oQmOB5NuiBLjlESadKyLJ) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/46bWgJ0CY5IdtUdajmnDjP) | 6:34 | 2023-09-18 |  |
 | [Love Sensation \- A Tom Moulton Mix](https://open.spotify.com/track/14usFmu6ZuP3i5VBFMMSp5) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr) | 6:34 | 2022-05-17 | 2023-11-05 |
 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 | 2022-05-17 |  |
 | [MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise](https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 17:47 | 2022-05-17 |  |
-| [Make Love To Me](https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Reddy](https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI) | 6:39 | 2022-07-15 |  |
+| [Make Love To Me](https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Reddy](https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI) | 6:39 | 2022-07-15 | 2023-11-12 |
 | [Messages from the Stars](https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Going Up](https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f) | 4:14 | 2022-06-09 |  |
 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 | 2022-05-17 | 2023-08-04 |
 | [My Body Keeps Changing My Mind](https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA) | [Karen Carpenter](https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1) | [Karen Carpenter](https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ) | 3:45 | 2022-07-15 |  |

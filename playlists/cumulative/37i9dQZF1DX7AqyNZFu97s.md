@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Leonie Biney
 
-1,383 songs - 3 day 2 hr 5 min
+1,384 songs - 3 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Corner Store](https://open.spotify.com/track/6gEvdSbMccY3a6JGt9dNHm) | [Holler](https://open.spotify.com/artist/0jcEgJZvCkBiRYnXGit0qT) | [Corner Store](https://open.spotify.com/album/5EyST6CPWM8eM5aSKoeygp) | 3:13 | 2023-07-25 | 2023-08-30 |
 | [Cosmic Greentea](https://open.spotify.com/track/3BacHqGXdTJD3BAlpvdXy5) | [Layal](https://open.spotify.com/artist/0rxqySAJPQZJ2SJMBfTGyG) | [Cosmic Greentea](https://open.spotify.com/album/56PRhNEaCrlajR1VhkISFF) | 2:33 | 2022-07-13 | 2022-08-04 |
 | [Cosmic Love](https://open.spotify.com/track/1xVddG3Ho4rZxuZK2vEof7) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD) | [Cosmic Love](https://open.spotify.com/album/3HXfFHLy8dlFIGMPHgWchB) | 3:44 | 2023-07-18 | 2023-08-16 |
-| [Cosmosis](https://open.spotify.com/track/5zPUB3zakMtaPvICMck9LF) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Cosmosis](https://open.spotify.com/album/1YZE5TPI0RFFR2KA3v5UwR) | 5:28 | 2023-10-10 |  |
+| [Cosmosis](https://open.spotify.com/track/4eY2EW0PdSNapCNRSy793F) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Cosmosis](https://open.spotify.com/album/1CxF8owP6ssc9lbk36lxlT) | 5:28 | 2023-10-17 |  |
+| [Cosmosis](https://open.spotify.com/track/5zPUB3zakMtaPvICMck9LF) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Cosmosis](https://open.spotify.com/album/1YZE5TPI0RFFR2KA3v5UwR) | 5:28 | 2023-10-10 | 2023-11-12 |
 | [Cotton Wool](https://open.spotify.com/track/4QGnI2k0UTEGWP6gWPmUCV) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Cotton Wool](https://open.spotify.com/album/1HxiMPdUiPJJYfptLE50vm) | 3:15 | 2023-04-05 | 2023-05-11 |
 | [COULD U](https://open.spotify.com/track/3LA11tHKLPZB7aVTcBpvth) | [CANCEL CULTURE](https://open.spotify.com/artist/6hV3BCQYd06kNbRYcAAifx) | [COULD U](https://open.spotify.com/album/3BvsRIQnTRIvXjOiy72hCB) | 2:57 | 2023-06-07 | 2023-07-05 |
 | [Couldn't Help Myself](https://open.spotify.com/track/77zvSNmIShZWtLllpF1hI0) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Couldn't Help Myself](https://open.spotify.com/album/0GaNbEb7S6JUqeYl0VKcU4) | 2:32 | 2022-06-01 | 2023-03-09 |

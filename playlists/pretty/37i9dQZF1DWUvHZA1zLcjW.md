@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,628 likes - 110 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,748 likes - 110 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 25 | [3 Romanzen, Op\. 28: No\. 2 in F\-Sharp Major \(Einfach\)](https://open.spotify.com/track/7msmTNDbP3QWWuevPxcm48) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Schumann: 3 Romanzen, Op\. 28: No\. 2 in F\-Sharp Major \(Einfach\)](https://open.spotify.com/album/6htHyNPaA17MvKl3khcPyA) | 3:50 |
 | 26 | [Glassworks: Opening](https://open.spotify.com/track/2XYEu7Deyz20WeL6Py3XLc) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Philip Glass: Piano Works](https://open.spotify.com/album/4WMVFHCPiUEurlsWDF1Deq) | 7:44 |
 | 27 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 |
-| 28 | [Pavane pour un infante défunte, M\. 19](https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO) | [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Destination Paris \- Ravel: Pavane pour un infante défunte](https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4) | 4:12 |
+| 28 | [Pavane pour un infante défunte, M\. 19](https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Destination Paris \- Ravel: Pavane pour un infante défunte](https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4) | 4:12 |
 | 29 | [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 |
 | 30 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 31 | [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 109 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 110 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCwzZTA2OGUxMjk5MmFjMTEwZmRiMzU1ZmViNDk4NjJmMjEwYjk4OWU2`
+Snapshot ID: `MCxlOGYwZTIxMTg1Zjc2NzVlNWFlOTVhYzI2MGZmYzc2NTNhNDI4YmM3`

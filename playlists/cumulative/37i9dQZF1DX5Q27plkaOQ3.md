@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-454 songs - 1 day 1 hr 49 min
+455 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
 | [Lasers](https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Lasers](https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg) | 3:31 | 2022-01-07 | 2022-03-12 |
 | [Last One Standing \- Ace Aura Remix](https://open.spotify.com/track/0I0ZJ1IBED5wOAlm7RvRjP) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Last One Standing \(Ace Aura Remix\)](https://open.spotify.com/album/0oaPiQBOy6KkiwfCDTtMo8) | 3:53 | 2022-10-28 | 2023-10-14 |
-| [Legalize Nuclear Bombs](https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Legalize Nuclear Bombs](https://open.spotify.com/album/0tDknUXGhQ2i5dOZUU7VPz) | 2:48 | 2023-10-13 |  |
+| [Legalize Nuclear Bombs](https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Legalize Nuclear Bombs](https://open.spotify.com/album/0tDknUXGhQ2i5dOZUU7VPz) | 2:48 | 2023-10-13 | 2023-11-12 |
 | [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-28 | 2023-03-18 |
 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 |  |
 | [Let You Know](https://open.spotify.com/track/64GlbmPkapZqVmgOcnaziU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Let You Know](https://open.spotify.com/album/2eU57jKQamWytlwmcXvNAK) | 3:24 | 2021-12-17 | 2022-05-07 |
@@ -460,6 +460,7 @@
 | [Welcome to the Party](https://open.spotify.com/track/0LRwDYp3DGJBCEPLvOog40) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Welcome to the Party](https://open.spotify.com/album/5vLSvzvpAyKDilhEeqAuRu) | 2:44 | 2022-02-11 | 2022-11-18 |
 | [Who's In Charge](https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Who's In Charge](https://open.spotify.com/album/2cSO4UYABmZYQdFAZPVSIP) | 2:51 | 2022-03-18 | 2022-08-13 |
 | [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 | 2022-01-07 | 2022-01-12 |
+| [Your Shoes](https://open.spotify.com/track/6tssyzOMVjrQs8qj2NgmcP) | [GAWM](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [heydukeyousuck](https://open.spotify.com/artist/3qDYeLBAZEdBO1DuTTk8qz), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Your Shoes](https://open.spotify.com/album/4QmefR7H5kwn2L1Lyrc5xc) | 2:41 | 2023-11-10 |  |
 | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c) | 4:44 | 2023-11-03 |  |
 | [頭をかち割る \(Split 200 000\)](https://open.spotify.com/track/3zTqOlekJDI38osbQXT73z) | [Dizelkraft](https://open.spotify.com/artist/7M0riT0CRD7caslbS9CD0U) | [頭をかち割る \(Split 200 000\)](https://open.spotify.com/album/26IlNtkRFn0xP2r1Xz7K34) | 3:32 | 2022-05-27 | 2022-07-22 |
 

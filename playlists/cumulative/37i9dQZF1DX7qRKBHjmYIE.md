@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Danny Schiller.
 
-588 songs - 1 day 8 hr 3 min
+589 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-09-06 | 2023-02-17 |
 | [Angel](https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Angel](https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi) | 2:24 | 2022-05-06 | 2022-07-29 |
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-02-01 | 2023-02-17 |
+| [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 |  |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-25 | 2023-09-30 |
 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-01-10 | 2023-02-17 |
 | [ARRANCAME LA PIEL](https://open.spotify.com/track/5D9vx8rqAkjOsdcgFsAmJw) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:03 | 2022-01-24 | 2022-07-21 |
@@ -485,7 +486,7 @@
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-11 | 2023-02-17 |
 | [Softy](https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Underbelly](https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW) | 5:58 | 2023-06-02 | 2023-07-22 |
 | [Softy](https://open.spotify.com/track/6p23mXE5kvaF2fMBdjvcQz) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Softy](https://open.spotify.com/album/3s9R0yhIMRjegsIJahxPZL) | 5:58 | 2023-06-02 | 2023-06-14 |
-| [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 | 2023-08-25 |  |
+| [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 | 2023-08-25 | 2023-11-12 |
 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 | 2023-06-02 | 2023-08-26 |
 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 | 2023-02-17 | 2023-06-04 |
 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 | 2022-09-06 | 2023-02-17 |

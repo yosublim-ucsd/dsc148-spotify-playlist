@@ -16812,7 +16812,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 159000,
       "name": "Thank You, New Jersey",
       "url": "https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL"
@@ -19836,6 +19836,24 @@
       "duration_ms": 225838,
       "name": "Wyatt\u2019s Song (Your Name)",
       "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
+    },
+    {
+      "album": {
+        "name": "YEAH!",
+        "url": "https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182911,
+      "name": "YEAH!",
+      "url": "https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52"
     },
     {
       "album": {

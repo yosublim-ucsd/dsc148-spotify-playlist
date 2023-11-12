@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tourist
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,320 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,360 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 30 | [Forevermore](https://open.spotify.com/track/4aSwhF2daSyaCqUYPSbrqh) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Forevermore](https://open.spotify.com/album/1MJ8xDif5W7wGQIQz63Dhi) | 3:09 |
 | 31 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 32 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
-| 33 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 33 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 34 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 35 | [High Speed](https://open.spotify.com/track/3pZRNzVrubYhMEEFnsxwVN) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [One More City](https://open.spotify.com/album/36B9hGfl53tY0tXhpAnzA5) | 4:32 |
 | 36 | [Kalt](https://open.spotify.com/track/27xu8JgDvgX1G11edMrioE) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr), [Ira Atari](https://open.spotify.com/artist/6xh4CCUrcNmMuODz3OKduD) | [Kalt](https://open.spotify.com/album/4DRVuP4kHHH3ZnLX3mpFfq) | 5:00 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 41 | [Tratado](https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Tratado](https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0) | 4:14 |
 | 42 | [Miracle](https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Miracle](https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8) | 5:02 |
 | 43 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
-| 44 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
+| 44 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 45 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 |
 | 46 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 | 47 | [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Tell Me](https://open.spotify.com/track/7MCaMjjCH3TulSw4hIG3xx) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Prestige](https://open.spotify.com/album/3vAzZOMM1BvxtVfKjyQI78) | 3:57 |
 | 75 | [3 \(Home\)](https://open.spotify.com/track/6bNka8lcvgFTafgCZCIcHR) | [Say Yes Dog](https://open.spotify.com/artist/039HWymb5EJiSHhtlJctsi) | [3 \(Home\)](https://open.spotify.com/album/2X8CBofsFiVHa4OTf7W7vA) | 3:33 |
 
-Snapshot ID: `MCxkMDQ2YmI1ZmEzOWZlYzViOTczNWViMDE2ZjM0YmRmM2Q5YmVhOWI3`
+Snapshot ID: `MCxhYTI3M2NlYjY4MmI4YmFjZGI0OWFmODhhMTRlM2UxYzQ4MmI2MDMz`

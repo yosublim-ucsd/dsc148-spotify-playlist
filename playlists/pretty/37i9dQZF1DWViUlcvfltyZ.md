@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: TA GA DA
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,680 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,687 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 60 | [Ero troppo fatto](https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w) | [Il Cile](https://open.spotify.com/artist/70tOBioFUv8aswsBxNjCjS) | [Ero troppo fatto](https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f) | 3:29 |
 | 61 | [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 |
 
-Snapshot ID: `MCwxNTU5MmM5N2NmOTM1NTI2ZjIyODFlNDgzYzdlOTgzNDZhYjEzYmE5`
+Snapshot ID: `MCwyZTZlYzY3YzIwNjYyNDQzMmNjZTc4OTBjMmNjMDljYmQ4NWM0Nzkz`

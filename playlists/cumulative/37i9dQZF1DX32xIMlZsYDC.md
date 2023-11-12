@@ -4,7 +4,7 @@
 
 > Despierta poco a poco con la tranquilidad de las notas del piano.
 
-102 songs - 4 hr 45 min
+103 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2023-09-11 |  |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2023-09-11 | 2023-11-05 |
 | [Bellevue](https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:21 | 2023-09-11 |  |
-| [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2023-09-11 |  |
+| [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2023-09-11 | 2023-11-12 |
 | [Cessura](https://open.spotify.com/track/7uvey8m0ZfknE25sBVWoGY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 3:05 | 2023-09-11 |  |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-11 |  |
 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-09-11 |  |
@@ -45,6 +45,7 @@
 | [Hopelessly in Love](https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Hopelessly in Love](https://open.spotify.com/album/0pU42ES2MpgobwRjLE6Rib) | 3:00 | 2023-09-11 |  |
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2023-09-11 |  |
 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 | 2023-09-11 |  |
+| [I'll Be The One](https://open.spotify.com/track/1VhGpGEKywAKiCd3OmRev3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [I’ll Be The One](https://open.spotify.com/album/52bpQJrCO3rA3DqfwKOk5h) | 2:14 | 2023-09-11 |  |
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2023-09-11 |  |
 | [In Bloom](https://open.spotify.com/track/6UBUNOxmO5HloYRN3y4PPr) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [In Bloom](https://open.spotify.com/album/3YfYjGlD2ZGO5DEcgs3QOj) | 2:48 | 2023-09-11 |  |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2023-09-11 |  |

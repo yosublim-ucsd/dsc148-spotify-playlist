@@ -9,6 +9,326 @@
   "snapshot_id": "MTcyMyxmMmM4ZDNkMGNlZDJmY2UwYWQzNTdjM2JhYjk5NjJjMzBhNGNmNDkx",
   "tracks": [
     {
+      "added_at": "2023-11-10 00:25:15",
+      "album": {
+        "name": "Born to be XX",
+        "url": "https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 160386,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj"
+    },
+    {
+      "added_at": "2023-11-10 00:26:12",
+      "album": {
+        "name": "Cut-Out",
+        "url": "https://open.spotify.com/album/3Wzr75gYnFG8l9GbeAExkg"
+      },
+      "artists": [
+        {
+          "name": "WHIB",
+          "url": "https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5mYYrcjqLI6Ue42Mt8lkl8"
+    },
+    {
+      "added_at": "2023-11-10 00:26:56",
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
+    },
+    {
+      "added_at": "2023-11-10 00:25:50",
+      "album": {
+        "name": "ColoRise",
+        "url": "https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "VROOM VROOM",
+      "url": "https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy"
+    },
+    {
+      "added_at": "2023-10-31 03:01:04",
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
+    },
+    {
+      "added_at": "2023-10-31 03:02:33",
+      "album": {
+        "name": "side-B : memoirs of echo unseen",
+        "url": "https://open.spotify.com/album/0StHt9CZdb3lA5qXefa7tT"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "DANG! (hocus pocus)",
+      "url": "https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6"
+    },
+    {
+      "added_at": "2023-10-31 03:01:38",
+      "album": {
+        "name": "MACARONI CHEESE EP",
+        "url": "https://open.spotify.com/album/3maKjITApQfhgJ13DflK8e"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "duration_ms": 145550,
+      "name": "MACARONI CHEESE",
+      "url": "https://open.spotify.com/track/1CqMpf1w1IPWWq4Zxa2RxK"
+    },
+    {
+      "added_at": "2023-10-31 02:58:47",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+    },
+    {
+      "added_at": "2023-10-06 06:30:41",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
+    },
+    {
+      "added_at": "2023-10-06 06:32:12",
+      "album": {
+        "name": "EPEX 6th EP Album Prelude of Anxiety Chapter 2. \u2018Can We Surrender?\u2019",
+        "url": "https://open.spotify.com/album/5D8L3qM4Q9GA1bPDqtS4oK"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "FULL METAL JACKET",
+      "url": "https://open.spotify.com/track/3DdEFAs5UmTIYIoDXTjD5U"
+    },
+    {
+      "added_at": "2023-10-06 06:30:52",
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+    },
+    {
+      "added_at": "2023-10-06 06:32:28",
+      "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
+    },
+    {
+      "added_at": "2023-10-06 06:32:49",
+      "album": {
+        "name": "NEW TOMORROW",
+        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+      },
+      "artists": [
+        {
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "New Tomorrow",
+      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
+    },
+    {
+      "added_at": "2023-09-15 07:28:10",
+      "album": {
+        "name": "SUN SEEKER",
+        "url": "https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh"
+    },
+    {
+      "added_at": "2023-09-15 07:29:37",
+      "album": {
+        "name": "YOUR CITY",
+        "url": "https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Your City",
+      "url": "https://open.spotify.com/track/3nLUsvRPY4vQfTYFk9uEVp"
+    },
+    {
+      "added_at": "2023-09-15 07:29:02",
+      "album": {
+        "name": "Good Day (Special Daileee)",
+        "url": "https://open.spotify.com/album/5iTWeHExLbtaLJPPFFD3Xq"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 168920,
+      "name": "Good Day (Special Daileee)",
+      "url": "https://open.spotify.com/track/2bxQoEPkVPlCNTUACMnEbh"
+    },
+    {
+      "added_at": "2023-09-04 01:25:17",
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr"
+    },
+    {
+      "added_at": "2023-08-21 09:03:19",
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 179275,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
+    },
+    {
+      "added_at": "2023-08-21 09:03:13",
+      "album": {
+        "name": "LOVElution <\u2180>",
+        "url": "https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Girls\u2019 Capitalism",
+      "url": "https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH"
+    },
+    {
+      "added_at": "2023-08-21 09:03:04",
+      "album": {
+        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
+        "url": "https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "LIP GLOSS",
+      "url": "https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as"
+    },
+    {
       "added_at": "2023-08-21 09:02:55",
       "album": {
         "name": "HOUSE OF TRICKY : HOW TO PLAY",

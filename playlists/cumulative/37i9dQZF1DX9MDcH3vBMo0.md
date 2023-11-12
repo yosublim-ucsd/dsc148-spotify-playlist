@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-675 songs - 1 day 5 hr 19 min
+676 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2022-04-21 | 2022-07-20 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2022-04-21 | 2022-09-24 |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-21 | 2023-05-04 |
+| [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-06 |  |
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2022-04-21 |  |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-04-21 |  |
 | [Before the Storm](https://open.spotify.com/track/0nIO7JDajf45my855jiEl0) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [I Am Weary, Don't Let Me Rest](https://open.spotify.com/album/4onD8GBmY5H7o24RnDhDpo) | 2:44 | 2023-06-19 |  |
@@ -149,7 +150,7 @@
 | [Elixir](https://open.spotify.com/track/4XhMnxEzSOCuSMfOjHc1QF) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Elixir](https://open.spotify.com/album/6L5lu6k4cPjTgp9a2WdKPh) | 2:07 | 2023-03-20 |  |
 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 | 2022-04-21 | 2023-01-21 |
 | [Elysian](https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Oversoul](https://open.spotify.com/album/5GPrxmIXNWxWUirGs5GxSq) | 3:19 | 2022-04-21 | 2022-07-21 |
-| [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 | 2023-03-20 |  |
+| [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 | 2023-03-20 | 2023-11-12 |
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2022-04-21 | 2022-08-10 |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-21 |  |
 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 | 2022-04-21 |  |

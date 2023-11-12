@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,377 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,446 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 9 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 |
 | 10 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 |
 | 11 | [Firebreak](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 |
-| 12 | [Higher Power \(feat\. Magnus\)](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power \(feat\. Magnus\)](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
+| 12 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
 | 13 | [fault in the stars](https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [fault in the stars](https://open.spotify.com/album/1iOQat5AF7YwqkVBmHdcNt) | 3:10 |
 | 14 | [Feelings](https://open.spotify.com/track/18hbGUsN8W78410grd2LbA) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Feelings](https://open.spotify.com/album/1QgVcblEUZCamV97fxz2Hh) | 3:13 |
 | 15 | [Actor](https://open.spotify.com/track/0saVRavK1oWz7tFzEhPsEk) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Make Me Understand \- EP](https://open.spotify.com/album/5YPJ4w1SDfQ1pR8Kf80P1p) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Just Us](https://open.spotify.com/track/5dXKYalDeLV7IaO5OVw2ef) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Just Us](https://open.spotify.com/album/2Z0kbF35GK2ahzos4iBJfD) | 4:22 |
 | 100 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 |
 
-Snapshot ID: `MCwwMDcxMWVlOWRjODVhMjlkNWQ3YjVmNjI5YTNhMTU5MTc0ZDg3NGVh`
+Snapshot ID: `MCwwZTI1OWJiMmM5ZjFkNjM3NGM1NjgzNmFiZmE0MDlhOTEyNjc3ODk3`

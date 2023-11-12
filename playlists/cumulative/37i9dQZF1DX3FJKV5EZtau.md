@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-400 songs - 22 hr 54 min
+401 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Biscuit Funk](https://open.spotify.com/track/0TLIMvsdPmlAU8jMbTvHBd) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Biscuit Funk](https://open.spotify.com/album/0g5vyMMS9cmMdpYuIdInnP) | 4:09 | 2022-04-29 | 2023-03-10 |
 | [Bittersweet \- hirihiri Remix](https://open.spotify.com/track/5JhSzUTnom57twpLSeeedL) | [五寸釘きゃみ](https://open.spotify.com/artist/2JWoqgvRXwWIuK1PG8GAyz), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1) | [Bittersweet \(hirihiri Remix\)](https://open.spotify.com/album/5zZdPLLpXmoqvQQj4cPQPO) | 3:41 | 2022-01-07 | 2022-07-21 |
 | [Bleedin' Out](https://open.spotify.com/track/4QfVhHGCPVYLiQEnaeknJe) | [edIT](https://open.spotify.com/artist/3H6Js0rhywEhHda3UwuhGW), [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Come To Grips](https://open.spotify.com/album/02WgIpZ0Q22z3Xz0SzhQXD) | 3:43 | 2022-01-28 |  |
+| [Bloom](https://open.spotify.com/track/2Xdl6VLO40M9eM30HRq8Yr) | [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [Bloom](https://open.spotify.com/album/5PenbQsxKoTkKqLxsVMkwO) | 4:28 | 2023-11-10 |  |
 | [Blur \(feat\. Dacy\)](https://open.spotify.com/track/0ZttcfFpXraHVv00visCOK) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Dacy](https://open.spotify.com/artist/7fgYuoYmdlHrGWM3mRZJMp) | [Blur \(feat\. Dacy\)](https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [break // 1k](https://open.spotify.com/track/6mjveDmSzr5kAjwsC2KdYK) | [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [break // 1k](https://open.spotify.com/album/5K6ufDR0JQUq9ezOsRkzAr) | 1:37 | 2023-02-17 |  |
 | [BUBBLE TEA](https://open.spotify.com/track/4YMvlMYV3hD8emKCprfb4N) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI), [juu](https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw), [Cinders](https://open.spotify.com/artist/0S6MfM6u0vKuZl0Tjmp89A) | [BUBBLE TEA](https://open.spotify.com/album/4eG4nUx7xChZ6ushsNcd6J) | 4:03 | 2022-03-11 | 2022-12-15 |
@@ -58,7 +59,7 @@
 | [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 | 2022-01-28 |  |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2022-01-07 | 2022-11-12 |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2022-01-07 | 2023-03-01 |
-| [care about u](https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/7zMyMiXtQe4ZKn3Hkrsvom) | 3:21 | 2023-03-10 |  |
+| [care about u](https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/7zMyMiXtQe4ZKn3Hkrsvom) | 3:21 | 2023-03-10 | 2023-11-12 |
 | [cartrîdge](https://open.spotify.com/track/0lMfmKs4R0V9G1fpIO0JJw) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cartrîdge](https://open.spotify.com/album/7nO2jOgpYah46ziK8EOEaR) | 2:33 | 2022-01-07 | 2022-07-29 |
 | [Changa \- Blanke Remix](https://open.spotify.com/track/5TL9e2xgtvJFtNCBsq1CgX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Changa](https://open.spotify.com/album/5kwv2A2qAK8pN007hSA56t) | 3:08 | 2022-03-11 | 2022-12-01 |
 | [Changa \- Blanke Remix](https://open.spotify.com/track/6rQcfPSmfwiJWae8WhU5k8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [etcetc Yearbook: 2018](https://open.spotify.com/album/645zH9nKzaoo4KBbMtOaGG) | 3:08 | 2022-12-16 | 2023-05-13 |

@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-656 songs - 1 day 9 hr 13 min
+657 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Benzema](https://open.spotify.com/track/4UWIu1zX6REEUEuvOUymUJ) | [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Benzema](https://open.spotify.com/album/6Wb6ZTgtP6KHIR06UH0Jfb) | 2:42 | 2023-05-18 | 2023-08-11 |
 | [Better Now](https://open.spotify.com/track/6i1UomF0hghBwNP1gKh2YK) | [Ruben Carrington](https://open.spotify.com/artist/3lDKUl5VATxJBy1AH5W5xs) | [Better Now](https://open.spotify.com/album/5u0JvpC4Hx69et3I6RCKfC) | 3:52 | 2023-02-03 | 2023-04-07 |
 | [Big Poppa](https://open.spotify.com/track/3OvhDBI0Au2TDDsS02YcoN) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB) | [Big Poppa](https://open.spotify.com/album/6z7xEVu8UPNIUge2gSzdUH) | 3:36 | 2023-10-12 |  |
+| [Bixho \- Jersey Drill](https://open.spotify.com/track/4KOBYsQsXhVzu3lVmoOXIH) | [João Tamura](https://open.spotify.com/artist/3sPu1TUK3Sg53uMqMBvNzT), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Meireles](https://open.spotify.com/artist/580dOPH0y6qmSC2ZDUHVTp) | [Bixho](https://open.spotify.com/album/5ZaPdJ3EG9xAzUun8G4qY0) | 2:26 | 2023-11-10 |  |
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-08-25 | 2022-11-18 |
 | [Blocka](https://open.spotify.com/track/1x4EIQhc6HsEUPPIMeNip7) | [Kid Robinn](https://open.spotify.com/artist/1d6Yr0fkBLjrTW6bPHTzJd) | [Blocka](https://open.spotify.com/album/2PFJQSzCOGTpXrfJBVyYQ8) | 2:53 | 2022-10-27 | 2023-01-06 |
 | [Boo](https://open.spotify.com/track/2zIj8RmuZDSTaY9O8wSSjb) | [Aryy 2580](https://open.spotify.com/artist/26Nwezk8iJAeTqA9F0TrWJ), [CDB Music](https://open.spotify.com/artist/1JIXREqNmNQao8dGgQPeo9) | [Boo](https://open.spotify.com/album/08IlBrfYQTRzSkbclu5iVx) | 2:28 | 2023-06-22 | 2023-10-06 |

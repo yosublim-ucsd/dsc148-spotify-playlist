@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,369 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,366 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 49 | [I Wish I Was a Punk Rocker \(with Flowers in My Hair\)](https://open.spotify.com/track/4mnTMsp8Cgf9TNiQMhH11L) | [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Smile...It Confuses People](https://open.spotify.com/album/2vh0Lg3vwmArk6KI0m9eb5) | 2:31 |
 | 50 | [We No Speak Americano](https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 4:29 |
 | 51 | [Holiday](https://open.spotify.com/track/7rQEsMAmRB4KaXhx3xJM13) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Tongue N' Cheek](https://open.spotify.com/album/5nIyypNxytKxKZ0jOm6CEp) | 3:40 |
-| 52 | [Ghost](https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 3:33 |
-| 53 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
+| 52 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
+| 53 | [Ghost](https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 3:33 |
 | 54 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 |
 | 55 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 |
 | 56 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 79 | [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 |
 | 80 | [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 |
 
-Snapshot ID: `MCxkN2JiNGZlYzhiOGE1N2VmMDg2OWM2ZWZmZDQzZmU3M2NjMjQxOWMx`
+Snapshot ID: `MCxiOWE5YjJiMzNkMDMzY2NhNzYzZjhiYzcyYzlhZWNjYjU5YzU5YWRk`

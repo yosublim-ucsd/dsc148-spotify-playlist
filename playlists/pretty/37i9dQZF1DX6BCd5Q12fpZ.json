@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65709,
+  "num_followers": 65717,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
+  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "My Number One",
-        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
-      },
-      "artists": [
-        {
-          "name": "Helena Paparizou",
-          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "My Number One",
-      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Nana Banana / Toy / Bassa Sababa",
         "url": "https://open.spotify.com/album/3Z87e0ryNk12ICdj3XPoaj"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 180230,
       "name": "Toy",
       "url": "https://open.spotify.com/track/4v0VS33GYfTje16Q0ArRx6"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "My Number One",
+        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "My Number One",
+      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "La Det Swinge",
+        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "La Det Swinge",
+      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Rockefeller Street - Single",
         "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "La Det Swinge",
-        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "La Det Swinge",
-      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "A Million Voices",
         "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 182506,
       "name": "Ne Ver, Ne Boisia - Eurovision 2003 Version",
       "url": "https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Love Shine a Light (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Vive la vie (Edition sp\u00e9ciale)",
+        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Vive la vie (Edition sp\u00e9ciale)",
-        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
-      },
-      "artists": [
-        {
-          "name": "Twin Twin",
-          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
-        }
-      ],
-      "duration_ms": 169181,
-      "name": "Moustache",
-      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Requiem (Eurovision version)",
-        "url": "https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H"
-        }
-      ],
-      "duration_ms": 180538,
-      "name": "Requiem - Eurovision Version",
-      "url": "https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "It's Been a While",
         "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 172666,
       "name": "Runaway - Bonus Track",
       "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Requiem (Eurovision version)",
+        "url": "https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H"
+        }
+      ],
+      "duration_ms": 180538,
+      "name": "Requiem - Eurovision Version",
+      "url": "https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O"
     },
     {
       "added_at": "2023-05-05 17:20:54",

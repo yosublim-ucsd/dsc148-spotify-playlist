@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。The Kid LAROI, David Guetta, Kim Petras, Chris Brown and more! Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,720 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,795 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [Skin](https://open.spotify.com/track/43Q7fw693BnWNMBWuUtzi8) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Un/limited Love](https://open.spotify.com/album/60QrBH7P0Iyne4T999YL0F) | 2:38 |
 | 80 | [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 |
 
-Snapshot ID: `MCw1M2RhOTUwMmQ3MDE0MDIyOTg3Y2NkNGVjMjUyNjczMTg5M2JiOWRh`
+Snapshot ID: `MCw3ZTA3NTM5NTQ2ZDNkMzRiNjViZDU4MjYxMmY2NWQ3ZDQ2ZTYxY2Qx`

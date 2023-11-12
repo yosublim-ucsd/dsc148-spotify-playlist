@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: KIM YEO MYUNG\(김여명\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,970 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,018 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 43 | [그렇게 넌 나의 비밀이 되었고](https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars OST Part.3](https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X) | 4:11 |
 | 44 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
 | 45 | [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 |
-| 46 | [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 |
-| 47 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
+| 46 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
+| 47 | [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 |
 | 48 | [Starlight](https://open.spotify.com/track/6gxVNoinjJVVpGryxillDN) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/62JssOJCHZampb4T15GkP8) | 4:33 |
 | 49 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 |
 | 50 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 51 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
 | 52 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 
-Snapshot ID: `MCw4NDRiMDYzODEzN2YwNDk4MWMxM2E1YWVlN2ZiZTdkZDRiZjQ3MzAw`
+Snapshot ID: `MCxmMDAwNjBmMjE5NmNlMGQ5ZjRjZmZkZmQ1NTI3NzFiMjA0NDgxMjgz`

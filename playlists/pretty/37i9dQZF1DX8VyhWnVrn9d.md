@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,513 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,696 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 62 | [La Tabaquera](https://open.spotify.com/track/46fdZFOmWvg4zPzJqdBqUy) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [15 Éxitos Bailables](https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn) | 2:27 |
 | 63 | [Chingaracapunta](https://open.spotify.com/track/3Qz3F3S7y5iC8xcz3cn9of) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Tesoros De Coleccion](https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT) | 2:37 |
 | 64 | [Perro Aguayo](https://open.spotify.com/track/4mEEkChNvfWdu3J7QE87OC) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Perro Aguayo](https://open.spotify.com/album/4aTeaQhEGHLJlyITfgRLfo) | 3:15 |
-| 65 | [Candela Verde](https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [Candela Verde](https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm) | 2:51 |
-| 66 | [El Pato Asado](https://open.spotify.com/track/2TlEfB9ObkiXWLxwUIybnk) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [15 Éxitos Bailables](https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn) | 2:43 |
+| 65 | [El Pato Asado](https://open.spotify.com/track/2TlEfB9ObkiXWLxwUIybnk) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [15 Éxitos Bailables](https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn) | 2:43 |
+| 66 | [Candela Verde](https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [Candela Verde](https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm) | 2:51 |
 | 67 | [Orgullosa María](https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:27 |
 | 68 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
 | 69 | [Ven A Bailar](https://open.spotify.com/track/1asf9bx1OzvE8NaTXijT6V) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Ven A Bailar](https://open.spotify.com/album/4KHIwbQeJNifJj64VaVNso) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 74 | [El Perro De Mi Compadre](https://open.spotify.com/track/2mrBqGEkYb70SZPmvD2zLO) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [12 Favoritas](https://open.spotify.com/album/63KW9xfDO3QBLNMcbOWPFj) | 2:00 |
 | 75 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 |
 
-Snapshot ID: `MCwxYmRkYWFjYWViMDVkMTdmOWUzZjNiN2JiNjM2NTdmMmY4OGQ2MDhm`
+Snapshot ID: `MCwxN2EyNTBiZDMwNzI2OWVjNGY5ZGRjYTMyN2RjMjM2YjEwMGU5OTc0`

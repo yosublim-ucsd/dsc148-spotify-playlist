@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-754 songs - 1 day 21 hr 3 min
+755 songs - 1 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 | 2023-03-30 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-13 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-12 | 2023-07-31 |
+| [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 |  |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-16 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-24 | 2022-12-28 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-24 | 2022-05-31 |
@@ -401,7 +402,7 @@
 | [Tides](https://open.spotify.com/track/0OlHA7A5akwIIgFC0fVkaf) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Tides](https://open.spotify.com/album/4pl9NJKfTT5q9RQzA19Fgy) | 2:59 | 2021-05-13 | 2021-05-22 |
 | [Tides](https://open.spotify.com/track/3RbrcQSXMHp2UbhIdPw6OS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [SKY](https://open.spotify.com/album/0Mr9Rd4e1jvMMK9eDpUdp8) | 2:59 | 2021-05-22 | 2021-06-18 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-15 | 2023-07-14 |
-| [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-21 |  |
+| [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-21 | 2023-11-12 |
 | [Too Sad to Dance](https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:55 | 2023-11-04 | 2023-11-09 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-23 | 2022-09-09 |
 | [Trash Talk](https://open.spotify.com/track/36gzVLH9Bq0p544PdDu8WS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Trash Talk](https://open.spotify.com/album/7LNFEHBmTVb3MMrQxPyuHs) | 2:55 | 2021-04-15 | 2021-04-23 |
@@ -511,7 +512,7 @@
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2023-04-12 |
 | [勇气](https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj) | [棉子](https://open.spotify.com/artist/6Y4Ur76H9vh8gw4QADaUKp) | [勇气](https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU) | 4:01 | 2021-07-16 | 2022-09-03 |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2023-09-30 | 2023-10-06 |
-| [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2023-10-05 |  |
+| [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2023-10-05 | 2023-11-12 |
 | [勵志論 \(C’MON\)](https://open.spotify.com/track/2PHoNQCaWKVshZp2huRP2Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [勵志論 \(C’MON\)](https://open.spotify.com/album/47gHdmxuBmTlIgIQnWeSfM) | 3:00 | 2021-10-01 | 2021-10-14 |
 | [又到天黑](https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:49 | 2023-02-15 | 2023-03-04 |
 | [又到天黑](https://open.spotify.com/track/3uvoZKtpufJ9F2ETKGPlh5) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [又到天黑](https://open.spotify.com/album/0BJ6iLH2EvtD0ukvsReMAp) | 4:50 | 2023-02-01 | 2023-02-16 |
@@ -757,7 +758,7 @@
 | [青花瓷](https://open.spotify.com/track/479lquEL4Mzh3tQLtnHVfL) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 3:57 | 2022-07-09 | 2022-07-11 |
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-23 | 2022-09-01 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-08-15 |
-| [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 | 2023-08-31 |
+| [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 |  |
 | [飞鸟和蝉](https://open.spotify.com/track/7kdWPsM25PcBBB156FLrQK) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/6NMN6OEr4Qsoq5HyrFqAs5) | 4:56 | 2021-08-02 | 2021-08-08 |
 | [鲜花](https://open.spotify.com/track/35XxW360SO3puJQDfuaY4r) | [回春丹](https://open.spotify.com/artist/49x8WCVjNPZNepo3NmeMEi) | [鲜花](https://open.spotify.com/album/38Uvc9iDIDXru2BvKa1S8R) | 5:41 | 2023-11-10 |  |
 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 | 2021-08-14 | 2021-08-19 |

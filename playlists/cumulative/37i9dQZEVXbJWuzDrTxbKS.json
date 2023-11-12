@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/1SwmINnHRKk4RiZGdarOv1"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -3769,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "BLIND SPOT",
+      "url": "https://open.spotify.com/track/6uVpG6300TODQGjOAtXJjh"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -5504,6 +5522,24 @@
       "duration_ms": 310393,
       "name": "Come to Life",
       "url": "https://open.spotify.com/track/6DZz58CbF0AKw5PCKqNKcM"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "COMFLEX",
+      "url": "https://open.spotify.com/track/2Rz7TEBsIXbI1tKsfQOCjI"
     },
     {
       "album": {
@@ -11385,6 +11421,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -11592,6 +11646,24 @@
       "duration_ms": 243187,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF"
+    },
+    {
+      "album": {
+        "name": "HURTZ",
+        "url": "https://open.spotify.com/album/5UT09zUtQBA8bYvwGuxuVw"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104697,
+      "name": "HURTZ",
+      "url": "https://open.spotify.com/track/5AE763tJ5Wjs9HwxJfJfkh"
     },
     {
       "album": {
@@ -11944,7 +12016,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -14265,6 +14337,24 @@
     },
     {
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
         "name": "LAMBO URUS",
         "url": "https://open.spotify.com/album/1mFy4zMILnyEE2Eti0yV3M"
       },
@@ -15666,10 +15756,28 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
+    },
+    {
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "album": {
@@ -16779,6 +16887,24 @@
     },
     {
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "MEGAVERSE",
+      "url": "https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO"
+    },
+    {
+      "album": {
         "name": "Meitene",
         "url": "https://open.spotify.com/album/5jr5CGQ4TiSeMHC8UFTkRq"
       },
@@ -17448,7 +17574,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -22002,7 +22128,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -22184,7 +22310,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -23438,7 +23564,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -24882,7 +25008,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -25060,7 +25186,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -28526,6 +28652,24 @@
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
+    },
+    {
+      "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216997,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
     },
     {
       "album": {
@@ -32054,6 +32198,28 @@
       "duration_ms": 184623,
       "name": "\u041c\u042f\u0422\u041e\u0419 - remix 2010",
       "url": "https://open.spotify.com/track/0ZGHCIFlJWqwB4TpG8LFbe"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u0422\u0438\u0442\u0430\u043d\u0438\u043a\u0435",
+        "url": "https://open.spotify.com/album/1p7SjaE0vH1reh2BPzR7gW"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        },
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/5JdGGCCPo07UPcbg27cQXT"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153136,
+      "name": "\u041d\u0430 \u0422\u0438\u0442\u0430\u043d\u0438\u043a\u0435",
+      "url": "https://open.spotify.com/track/0SpJgmH4m68u1nc0DdGZzQ"
     },
     {
       "album": {

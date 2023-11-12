@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,614 likes - 66 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,740 likes - 66 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 65 | [Tua Presença Vale Mais \- Ao Vivo](https://open.spotify.com/track/5U8Sjfj3cnnilKUmfLy38F) | [Carol Barros](https://open.spotify.com/artist/1JEbXL9NPkO6OCqXuHZ1HF), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tua Presença Vale Mais \(Ao Vivo\)](https://open.spotify.com/album/5DXQQ2sbtEBbYUnIlBf5uy) | 8:22 |
 | 66 | [Inteiro](https://open.spotify.com/track/5b6mh3jQ9Fo1UGn6WYcsMB) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [FRAGMENTADO](https://open.spotify.com/album/44UeCTwnZhEnGCzD7cKmML) | 3:51 |
 
-Snapshot ID: `MCwzZjQ5Yzk2MjVkYjQxNDdkMjU0YjZkMzljN2MyY2Y3MDIwODE0Nzc3`
+Snapshot ID: `MCxlMzhkZGYyZWQ4YjFjOTI1MmExM2Y2ZGZkNzJiNGYzY2UwNDgxMWJk`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-787 songs - 1 day 15 hr 33 min
+788 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
 | [Milyoner](https://open.spotify.com/track/5k3Exf5ZlAtDUZnK9cTv3D) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Milyoner](https://open.spotify.com/album/5v7WVyZbgdp8pEwvVYMm5W) | 4:01 | 2021-04-18 | 2021-05-03 |
 | [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-02 | 2022-11-24 |
+| [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 | 2023-11-11 |  |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-31 | 2023-01-16 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-05 | 2021-12-07 |
 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-04-01 | 2023-04-09 |
@@ -611,7 +612,7 @@
 | [RUN RUN](https://open.spotify.com/track/52jqDrHbXT9nvE4GwlmViQ) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:07 | 2022-09-10 | 2022-09-25 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-11 | 2021-05-20 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-04 | 2022-07-10 |
-| [Rüya Gibi](https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Rüya Gibi](https://open.spotify.com/album/768mfmAJuwFne65w5xmGso) | 2:50 | 2023-11-07 |  |
+| [Rüya Gibi](https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Rüya Gibi](https://open.spotify.com/album/768mfmAJuwFne65w5xmGso) | 2:50 | 2023-11-07 | 2023-11-12 |
 | [Rüyamda Buluttum](https://open.spotify.com/track/4DIgXpNk216oU44hPmyxy6) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Demet Evgar](https://open.spotify.com/artist/5PZbAEIJg4YfrzvOIfdzbD) | [Rüyamda Buluttum / Acı Kiraz](https://open.spotify.com/album/6GuB5ytaOBqaiK4dFXc86C) | 3:26 | 2021-08-15 | 2021-10-03 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-10 |
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-25 | 2023-03-27 |

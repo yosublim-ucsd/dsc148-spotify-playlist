@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Peggy Gou, Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,698 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,725 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 68 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
 | 69 | [Move Like Shadows \(Digital Underground\)](https://open.spotify.com/track/19O8DSwLxkhJs4JQV603xH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Move Like Shadows \(Digital Underground\)](https://open.spotify.com/album/13cxZpUfCjTx7nD69yPtpy) | 3:31 |
 | 70 | [Fly Away XTC](https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fallen Angel](https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n) | 4:37 |
-| 71 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 71 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 72 | [An Amazing](https://open.spotify.com/track/2FcKjPu6Ni72VBQ2YSM0GF) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [An Amazing](https://open.spotify.com/album/1V66tjjOlamPoGxFIBhSuy) | 4:56 |
 | 73 | [Drift Into The Algorithm](https://open.spotify.com/track/0AwtLf2UOh0t44HsyYh7yE) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Drift Into The Algorithm](https://open.spotify.com/album/2EQtMCY4fIESQ6XR2Yi0Md) | 5:19 |
 | 74 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Oxytoxin](https://open.spotify.com/track/6dAnLQly7pimsgewp5AUyX) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Oxytoxin](https://open.spotify.com/album/4B2VFLoUOpoFyiKo6DgMLI) | 4:28 |
 | 100 | [What If \- Sensu Remix](https://open.spotify.com/track/6ORweSW1tcO9EZi4SVyLCj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:56 |
 
-Snapshot ID: `MCw4YmUyMDVlOTRjMmY2MzY2Y2JjN2ExNWVhOWEyODFmNTIwMTVhMzdj`
+Snapshot ID: `MCxlZWE1ODVlNDFlMWVkYzZkN2Y5Nzc2NzRhZTRmNzExMDRhNDg5ZmVi`

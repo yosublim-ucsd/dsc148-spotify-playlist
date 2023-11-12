@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Juvenile",
-  "num_followers": 506858,
+  "num_followers": 507071,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzY3YmMwNjI3ZjgwNzA5NTQ5MWYzYmQxOTg1NDQyNGE2MmU0NTg4",
+  "snapshot_id": "MCxkMGFmMDRmMzM0ZWMwNjkwZmQyZjY0YzY2ZDcyZjY5ZDZmM2I0N2Nl",
   "tracks": [
     {
       "added_at": "2023-11-03 20:00:50",
@@ -851,26 +851,18 @@
     {
       "added_at": "2023-11-03 20:00:50",
       "album": {
-        "name": "On Top Of Our Game",
-        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
+        "name": "The Inspiration",
+        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
       },
       "artists": [
         {
-          "name": "Dem Franchize Boyz",
-          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
-        },
-        {
-          "name": "Peanut",
-          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
-        },
-        {
-          "name": "Charlay",
-          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 229813,
-      "name": "Lean Wit It, Rock Wit It",
-      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+      "duration_ms": 240613,
+      "name": "I Luv It",
+      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
     },
     {
       "added_at": "2023-11-03 20:00:50",
@@ -899,18 +891,26 @@
     {
       "added_at": "2023-11-03 20:00:50",
       "album": {
-        "name": "The Inspiration",
-        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+        "name": "On Top Of Our Game",
+        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
       "artists": [
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
+        },
+        {
+          "name": "Peanut",
+          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
+        },
+        {
+          "name": "Charlay",
+          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
         }
       ],
-      "duration_ms": 240613,
-      "name": "I Luv It",
-      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+      "duration_ms": 229813,
+      "name": "Lean Wit It, Rock Wit It",
+      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
     },
     {
       "added_at": "2023-11-03 20:00:50",

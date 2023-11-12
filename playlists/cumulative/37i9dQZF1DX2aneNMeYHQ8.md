@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Grace Potter
 
-346 songs - 21 hr 2 min
+347 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dead Man's Dream](https://open.spotify.com/track/4UGNJoeYVM8oDd56dJv549) | [Painted Shield](https://open.spotify.com/artist/7kmm4Wi3pbsCHHIYqgYgX9) | [Dead Man's Dream](https://open.spotify.com/album/1UT4dX7eAFJU7coodDgzvR) | 3:26 | 2022-01-28 | 2022-07-29 |
 | [Death Wish](https://open.spotify.com/track/7pcI3En42dUc6HV6XmhbGx) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:30 | 2023-06-09 | 2023-08-27 |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 | 2023-06-12 |
-| [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2022-11-11 |  |
+| [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2022-11-11 | 2023-11-12 |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 | 2023-04-05 |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 | 2022-10-01 | 2023-02-11 |
 | [Do It Over](https://open.spotify.com/track/4BqKXZhbl6paNvkzk2YTa0) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Do It Over](https://open.spotify.com/album/1gtGLWjoZG824QeK0pSp54) | 3:50 | 2021-11-19 | 2022-07-29 |
@@ -241,6 +241,7 @@
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-04-04 |  |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-07-23 | 2023-04-05 |
 | [Ransom](https://open.spotify.com/track/2yy1jIbevVsuWJ32H6AfaP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Ransom](https://open.spotify.com/album/3tOPNT6jAqyikY9or6hKrz) | 3:56 | 2022-03-25 | 2022-07-29 |
+| [Ready Set Go](https://open.spotify.com/track/5ayfXfjt4dGMGb3QWoJo5c) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [Ready Set Go](https://open.spotify.com/album/1OaeLMcA8KyqpnZGWEOC7Q) | 2:30 | 2023-09-22 |  |
 | [Really Really Light](https://open.spotify.com/track/76Gx8ULHTaOMju0Sv3dkSk) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 3:21 | 2023-04-04 | 2023-06-04 |
 | [Red Run Cold](https://open.spotify.com/track/00j4raDRNX9J6nWkzqpJbB) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/0gUmdbR0yGRd6M59WGXFYm) | 3:43 | 2022-08-28 | 2022-10-22 |
 | [Red Run Cold](https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/5jeWTeLEEXFRb5YrOUUGW8) | 3:43 | 2021-01-29 | 2022-10-13 |

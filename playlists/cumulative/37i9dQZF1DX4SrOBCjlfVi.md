@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Jack Harlow, Kodak Black, Youngboy NBA, and more\. Cover: Meek Mill & Rick Ross
 
-3,952 songs - 7 day 16 hr 37 min
+3,952 songs - 7 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 | 2023-07-07 | 2023-07-15 |
 | [BABA](https://open.spotify.com/track/2qHdVNExsj55FceFa5S2H9) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [BABA](https://open.spotify.com/album/0ul94TyUxPe3jpBcZ1VUkS) | 3:12 | 2022-07-15 | 2022-07-23 |
 | [Baby Wyd \(Remix\) \(feat\. Latto & Lakeyah\)](https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 3:48 | 2022-07-22 | 2022-08-06 |
-| [Babymama Hero](https://open.spotify.com/track/5Qp4H665oXKCjXnHjFpuYR) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Babymama Hero](https://open.spotify.com/album/3fP1KZFDwZ36VCyscuWT9q) | 1:04 | 2023-11-10 |  |
+| [Babymama Hero](https://open.spotify.com/track/5Qp4H665oXKCjXnHjFpuYR) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Babymama Hero](https://open.spotify.com/album/3fP1KZFDwZ36VCyscuWT9q) | 1:40 | 2023-11-10 |  |
 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 | 2023-03-17 | 2023-03-25 |
 | [BACH TO BACH \(with Dave East\)](https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [BACH TO BACH](https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0) | 2:54 | 2022-09-23 | 2022-10-01 |
 | [Bachelor](https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bachelor](https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk) | 4:01 | 2023-11-03 |  |

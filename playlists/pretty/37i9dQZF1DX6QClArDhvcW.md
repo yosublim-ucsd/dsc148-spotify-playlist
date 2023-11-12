@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,824 likes - 245 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,905 likes - 245 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 244 | [early birds](https://open.spotify.com/track/0hAVPGHwhiaAfwEQaMVsbG) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [ghost & nature](https://open.spotify.com/album/4GYfLtvKi4R23EBOy2SsV8) | 2:22 |
 | 245 | [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 |
 
-Snapshot ID: `MCw1YzY4OGMwYWM4OTc1YTFmZTYwNjA5Y2UyOWRiZmQ3MDU3MTkzNTQy`
+Snapshot ID: `MCwwYjU2ZDBmNzYwOWM4NjcwYWE3NDdiZWZiYTZjYjE4MzE5NDQ4ZmU0`

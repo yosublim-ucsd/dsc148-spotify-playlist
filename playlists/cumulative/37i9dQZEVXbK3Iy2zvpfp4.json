@@ -1720,6 +1720,24 @@
     {
       "album": {
         "name": "AREAMATE MIZ",
+        "url": "https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX"
+      },
+      "artists": [
+        {
+          "name": "Imprviious",
+          "url": "https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80300,
+      "name": "AREAMATE MIZ",
+      "url": "https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc"
+    },
+    {
+      "album": {
+        "name": "AREAMATE MIZ",
         "url": "https://open.spotify.com/album/5DmTs2kudTKgi7Zw8JiNkJ"
       },
       "artists": [
@@ -4644,7 +4662,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 267000,
       "name": "Chapter 6",
       "url": "https://open.spotify.com/track/3wJ3m5oA7jsUbMlnJxY7Is"
@@ -11282,7 +11300,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 213701,
       "name": "How Do You Do",
       "url": "https://open.spotify.com/track/0KSvlZS1RbO0vAzHuVJaY6"
@@ -14730,10 +14748,36 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 189257,
       "name": "Liquor & Cigarettes (feat. ArrDee)",
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
+    },
+    {
+      "album": {
+        "name": "2 RUFF, Vol. 1",
+        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Liquor & Cigarettes (feat. ArrDee)",
+      "url": "https://open.spotify.com/track/5etN0BsaiQlp0D6ltU4BX7"
     },
     {
       "album": {
@@ -14954,7 +14998,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 125769,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
@@ -15132,7 +15176,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 189000,
       "name": "Luminary",
       "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
@@ -25745,6 +25789,32 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
         "name": "Finesa",
         "url": "https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q"
       },
@@ -28514,7 +28584,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 147054,
       "name": "VRSTVY",
       "url": "https://open.spotify.com/track/6Tr2b30ax6Yyd1xmTfXOXz"
@@ -28944,7 +29014,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

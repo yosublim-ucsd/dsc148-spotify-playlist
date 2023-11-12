@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-134 songs - 9 hr 19 min
+135 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [El Arbolito](https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2) | 3:30 | 2023-02-17 |  |
 | [El Arbolito](https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:35 | 2022-02-11 | 2023-03-13 |
 | [El Arbolito](https://open.spotify.com/track/1wr2LwsnmGTqxrOfiVrtQx) | [Grupo Néctar](https://open.spotify.com/artist/0SbJWWmxmXhDfactFxn4iG) | [Solo Éxitos](https://open.spotify.com/album/65HPZEpduQsWS3MufRLJlS) | 3:33 | 2023-03-31 | 2023-09-20 |
-| [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 | 2022-02-11 |  |
+| [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 | 2022-02-11 | 2023-11-12 |
 | [El Ritmo de Mi Corazon](https://open.spotify.com/track/2RFMVm8ox1fX27BJLFhvLz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazon](https://open.spotify.com/album/65waTGJFJw8XASFnrfgAKC) | 3:43 | 2022-02-11 | 2022-07-25 |
 | [El Ritmo de Mi Corazón](https://open.spotify.com/track/3SQRqRJ4xl2FZ8B5eswvvU) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazón](https://open.spotify.com/album/55mg4qE79gK6ZYCyihWYo6) | 3:40 | 2022-02-11 |  |
 | [El Solitario](https://open.spotify.com/track/3x7U7y8PQnFVpOXbamsMVj) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Los Reyes de la Cumbia](https://open.spotify.com/album/6ivsiewk1qzMavQqsisImi) | 4:11 | 2022-02-11 | 2022-07-28 |
@@ -118,6 +118,7 @@
 | [Si Supieras](https://open.spotify.com/track/5rTBTSxkCV2keoEaVGqFHQ) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas… Sigue la Moda](https://open.spotify.com/album/276eFq7IZTyldke1uhvnXz) | 4:00 | 2022-02-11 |  |
 | [Si Supieras](https://open.spotify.com/track/2cRSwtruzYvuCwg8rzbLIL) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas...sigue la Moda](https://open.spotify.com/album/6QW5tBaFCDcWnjCgaiKiSr) | 4:05 | 2022-02-11 | 2022-07-29 |
 | [Siempre Pierdo en el Amor](https://open.spotify.com/track/0YVUUyBOAKembHPXCSR8Lt) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 3:12 | 2022-02-11 | 2023-06-04 |
+| [Siempre Pierdo En El Amor](https://open.spotify.com/track/2Kd77oLlsoQawZSf9p8FGz) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Éxitos Solo Éxitos....](https://open.spotify.com/album/56iRDc7QIkDSJx0zt9k7Xe) | 3:13 | 2023-09-22 |  |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/5Ti64XuKfJ3WOEBtsmgQwo) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/4b8oxjXF5LqxnOD5nyTJ8j) | 3:14 | 2023-03-31 | 2023-09-20 |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/6mJObKwNw6bwuJcrvjoCA1) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj) | 3:14 | 2023-03-31 | 2023-09-03 |
 | [Siempre pierdo en el Amor](https://open.spotify.com/track/0jEaIweH6qBspoAjehVVHx) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Clásicos de Oro](https://open.spotify.com/album/0dLDoxUSEuj7vZvklIcqmh) | 3:15 | 2022-02-11 | 2022-07-29 |

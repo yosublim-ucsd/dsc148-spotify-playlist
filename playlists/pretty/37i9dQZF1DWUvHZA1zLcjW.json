@@ -1,12 +1,12 @@
 {
   "description": "Chilled classical tunes to help you relax and unwind.",
-  "num_followers": 533628,
+  "num_followers": 533748,
   "original_name": "Chilled Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTA2OGUxMjk5MmFjMTEwZmRiMzU1ZmViNDk4NjJmMjEwYjk4OWU2",
+  "snapshot_id": "MCxlOGYwZTIxMTg1Zjc2NzVlNWFlOTVhYzI2MGZmYzc2NTNhNDI4YmM3",
   "tracks": [
     {
       "added_at": "2023-10-20 12:48:42",
@@ -599,6 +599,10 @@
         "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
       },
       "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-663 songs - 1 day 11 hr 27 min
+664 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-06-25 | 2023-07-09 |
 | [BABY NUEVA](https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:00 | 2023-10-14 | 2023-10-16 |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-09-24 | 2022-12-12 |
-| [Bad Boy](https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Bad Boy](https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh) | 2:39 | 2023-10-23 |  |
+| [Bad Boy](https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Bad Boy](https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh) | 2:39 | 2023-10-23 | 2023-11-12 |
+| [Bad Boy](https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Controlando el Ki](https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I) | 2:39 | 2023-11-11 |  |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-07-20 |
 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 | 2021-07-11 | 2021-09-29 |
 | [BANDIDO](https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [BANDIDO](https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq) | 4:14 | 2022-05-30 | 2022-10-03 |

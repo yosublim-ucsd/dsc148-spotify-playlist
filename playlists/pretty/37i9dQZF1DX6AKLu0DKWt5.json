@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2I1YzU5OTkxM2FiMGQxZWQ4Njg1OWNkYzVlODQzOWExODVhNTI2",
+  "snapshot_id": "MCxkNTYwMjlkNDNmZGQ1OWQ3MGUyNzViM2Y1MTRjZGU4ZTlhM2M0NzA4",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -171,6 +171,26 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "Diwali Special Party Songs",
+        "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "duration_ms": 214207,
+      "name": "Naacho Naacho (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "The Fabelmans (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 168396,
       "name": "Ciao Papa",
       "url": "https://open.spotify.com/track/2R96PRe2nQz5nRSLyBDDDG"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Diwali Special Party Songs",
-        "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 214207,
-      "name": "Naacho Naacho (From \"Rrr\")",
-      "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
     },
     {
       "added_at": "2022-12-21 17:45:34",

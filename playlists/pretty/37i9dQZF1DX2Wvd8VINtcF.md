@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,277 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,317 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 27 | [Natural Habitat \(feat\. Ken Carson\)](https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Natural Habitat](https://open.spotify.com/album/4CkICP9DdEovx6lQdLpDj9) | 3:28 |
 | 28 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 29 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
-| 30 | [I Wanna Try Something New](https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT) | 3:41 |
+| 30 | [I Wanna Try Something New](https://open.spotify.com/track/0beqUiZartDGJjOp5H325v) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 3:41 |
 | 31 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 32 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 |
 | 33 | [Feel It](https://open.spotify.com/track/7MM6O0fZQbGrUvAa3gEftD) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/04dTBVDqxwHiYWMskDHQIc) | 5:55 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 85 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 86 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 |
 | 87 | [PIXAR](https://open.spotify.com/track/3K2AjofnBXR4IiKdI4jdWP) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [PIXAR](https://open.spotify.com/album/5K41VmBBw9UpuP2WCCuMLw) | 2:40 |
-| 88 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 88 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 89 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 |
 | 90 | [Everyday](https://open.spotify.com/track/2V94jAJE9mICI8n9ZP64OI) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [Everyday](https://open.spotify.com/album/6PYU9bNLqGC86S61RMuW75) | 2:46 |
 | 91 | [drunk a\*\* honeymoon](https://open.spotify.com/track/2JQlWnRIOG5uoCjPDINYBe) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [drunk a\*\* honeymoon](https://open.spotify.com/album/6mrpbimhRcotxq15F9jdpj) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [lady \(feat\. chlothegod\)](https://open.spotify.com/track/6qtJs5w3x7z0Z41im1TCT6) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:32 |
 | 100 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |
 
-Snapshot ID: `MCw4ZWQyYzQ5YTljYjBjZjE1NzIzNjhhNTMyOTMzYmRkYjNkMWYwYzFl`
+Snapshot ID: `MCxkOWE2NmFjZDJjZjljYjkzMWMyZjQ4ZTI2YTU4YmIyYjgwODBlNGEy`

@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Natasha Noorani
 
-232 songs - 13 hr 12 min
+233 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Tu Meray Qareeb Nahien](https://open.spotify.com/track/30L0ZGHNNfsQ3OMrL535tl) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK), [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Tassawur](https://open.spotify.com/album/143TqEMiZtnSFHnDsOC4dP) | 2:50 | 2023-03-01 | 2023-03-13 |
 | [tu.](https://open.spotify.com/track/1qfSMBorwvTksLLUoB6CT7) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [tu.](https://open.spotify.com/album/2OHu5h0VR4HG61oyGmW4ri) | 2:30 | 2021-12-06 | 2023-04-09 |
 | [Tum Kaafi Ho](https://open.spotify.com/track/05JZF9BFosGhj1VEOwBQPX) | [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Tum Kaafi Ho](https://open.spotify.com/album/3RSad5lC4GUToepucxTIca) | 2:44 | 2021-12-06 | 2022-12-01 |
-| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2022-11-30 |  |
+| [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-02 |  |
+| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2022-11-30 | 2023-11-12 |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-08-09 |  |
 | [Until We Meet](https://open.spotify.com/track/7j0YOebrohxBaXp0bCFbnK) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Until We Meet](https://open.spotify.com/album/3en5RU3ddo7fUZahK6rc1i) | 2:55 | 2022-01-28 | 2023-04-09 |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-03-15 | 2023-01-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,340 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,348 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 34 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 |
 | 35 | [Country Made](https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR) | 3:29 |
 | 36 | [Dirt Road Anthem \(Revisited\)](https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:38 |
-| 37 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
+| 37 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
 | 38 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 |
 | 39 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
-| 40 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
+| 40 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
 | 41 | [Bumpy Road](https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 2:50 |
 | 42 | [Jack in My Coke](https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949) | 3:52 |
 | 43 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
 
-Snapshot ID: `MCxkZTEzMDdjYzE2NDkyYjcxNTQ0MWE1YjhlZTRjN2EzN2IxOWY3ZmE4`
+Snapshot ID: `MCwzMjhhOTY0ZGIxYjU2NDU0ZGFhODkyZjYxOTVkZDhhMjNkMWNhN2U0`

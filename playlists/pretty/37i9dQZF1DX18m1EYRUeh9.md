@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Jonah Yano
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,528 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,658 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 22 | [Return To Centaurus](https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Return To Centaurus](https://open.spotify.com/album/259Nkot64XM40bU3tEyQFb) | 9:42 |
 | 23 | [I’m The President](https://open.spotify.com/track/7H8mxTjF6Dhgvgx0LlhACG) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [KNOWER FOREVER](https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L) | 4:07 |
 | 24 | [The Variety Show I](https://open.spotify.com/track/2oxVJd2ioFce3dGYpeNUb1) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [The Variety Show](https://open.spotify.com/album/20kiAYHqbTsOf59zvbIoVz) | 2:13 |
-| 25 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 25 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 26 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 |
 | 27 | [Nothing on Me](https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:44 |
 | 28 | [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 79 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 |
 | 80 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 
-Snapshot ID: `MCw1NDI2Zjk5MjExNjYwYTZlZjk2ZDRjZjg4OTVkZDc0MjYxZWNlNTcx`
+Snapshot ID: `MCxlZTFmZmFhMDk3ODg0ZTAzOTJkYjVhMzVhYmQ1YjNiN2Q3YThjZDc4`

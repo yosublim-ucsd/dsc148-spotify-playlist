@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-123 songs - 5 hr 58 min
+124 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:28 | 2022-01-03 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 2:55 | 2021-12-21 |  |
 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 | 2021-12-21 |  |
+| [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 | 2023-11-10 |  |
 | [Jolly old st Nicolas](https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Jolly old st Nicolas](https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5) | 1:44 | 2023-10-06 |  |
 | [Joy To The World](https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:24 | 2022-09-27 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 | 2021-12-21 |  |
@@ -108,7 +109,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1Dod14UwS8340KodbMsxiS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 2:53 | 2022-01-03 | 2022-11-25 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1n7vRaKzkwUERk2giYsqW5) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Esta Navidad La Pasamos Con Jazz](https://open.spotify.com/album/5nXui57Z9o9PmqeaA5KQVb) | 2:53 | 2022-11-09 | 2022-11-13 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/4QFV8KtVhzDsDvNcH4sUkr) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:18 | 2022-11-24 | 2023-09-14 |
-| [Santa Claus Is Coming To Town](https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa) | 2:21 | 2023-11-10 |  |
+| [Santa Claus Is Coming To Town](https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa) | 2:21 | 2023-11-10 | 2023-11-12 |
 | [Shake Hands With Santa Claus](https://open.spotify.com/track/43cikuYdx521QNlJxwpOx3) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:27 | 2021-12-21 | 2022-07-29 |
 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 | 2022-01-03 |  |
 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/73b41pbYVemYUQ27CVS6nW) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Traditional Christmas Music](https://open.spotify.com/album/0oBQNX8GpwyfVv9uPPBrSt) | 2:25 | 2022-11-09 | 2022-11-13 |

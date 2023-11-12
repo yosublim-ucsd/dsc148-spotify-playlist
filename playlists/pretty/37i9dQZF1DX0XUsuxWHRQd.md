@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Jack Harlow, Kodak Black and Meek Mill and Rick Ross.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,639,637 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,641,717 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 | 50 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
 
-Snapshot ID: `MCw4MTJkZWQ3OWYwZTg4OGJkZmJkZTQ5ZGQzOGExZmVlNDhlMGU5NzA3`
+Snapshot ID: `MCwxN2NhN2JjOTIxNjg3ZTM5MDc5YTZkMDgyMzk3YmUxZjU0YmJmYjZj`

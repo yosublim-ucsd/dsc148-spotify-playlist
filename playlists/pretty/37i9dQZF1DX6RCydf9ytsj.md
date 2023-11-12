@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,048 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,227 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 57 | [Seven Spanish Angels \(with Ray Charles\)](https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Friendship](https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g) | 3:51 |
 | 58 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
 | 59 | [Honky Tonk Man](https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm) | 2:47 |
-| 60 | [Meet Me In Montana](https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi), [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 3:56 |
+| 60 | [Drinkin' My Baby Goodbye](https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Me And The Boys](https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP) | 3:41 |
 | 61 | [Have Mercy](https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 3:23 |
-| 62 | [Drinkin' My Baby Goodbye](https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Me And The Boys](https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP) | 3:41 |
+| 62 | [Meet Me In Montana](https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi), [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 3:56 |
 | 63 | [Are the Good Times Really Over \(I Wish a Buck Was Still Silver\)](https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:13 |
 | 64 | [Theme from "The Dukes of Hazzard" \(Good Ol' Boys\)](https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Dukes Of Hazzard](https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq) | 2:06 |
 | 65 | [A Lesson In Leavin'](https://open.spotify.com/track/0ImxI6CSbQsrYdhv9C8eUO) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Special Delivery](https://open.spotify.com/album/7B0UmyvEgRMfLGgCOmtsER) | 3:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [We Believe In Happy Endings \(with Emmylou Harris\)](https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:35 |
 | 150 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 
-Snapshot ID: `MCw3YTg1ZTliZTY5MTNmY2IwZDUxMzdkNmUwMGE2ZmY4NTI0ZTNlZDY2`
+Snapshot ID: `MCw0MTcwYmRjZWFlMGNlNWQ4ZWViNjZhMmQ4ZDFmZDQwMDhhNTMyMzk4`

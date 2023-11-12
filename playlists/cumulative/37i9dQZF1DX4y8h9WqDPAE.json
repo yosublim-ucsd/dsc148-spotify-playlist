@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "STREETS SAY YOU MISS ME",
+        "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "30 FLOORS UP",
+      "url": "https://open.spotify.com/track/3jEKJ7b2ApQ5Lmwdqj20O1"
+    },
+    {
+      "album": {
         "name": "30 FLOORS UP",
         "url": "https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2"
       },
@@ -230,7 +248,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 144786,
       "name": "30 FLOORS UP",
       "url": "https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ"

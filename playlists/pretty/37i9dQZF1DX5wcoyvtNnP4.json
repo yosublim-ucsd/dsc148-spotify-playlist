@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 492767,
+  "num_followers": 492766,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWNmMjg5OWQ4NjNjZjllZTYzYzdkOWJkY2IwODIxYjIzOGMxZDFj",
+  "snapshot_id": "MCw4MjhlY2EzMjU3ODBlYmY2NzMyN2EwNGNjZWNlNzVhMzhjY2Y4Mzg0",
   "tracks": [
     {
       "added_at": "2023-11-10 11:00:00",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-11-10 11:00:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "added_at": "2023-11-10 11:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
       "artists": [
         {
@@ -332,13 +332,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -447,8 +447,8 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
       },
       "artists": [
         {
@@ -456,13 +456,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -491,26 +491,26 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
+      "duration_ms": 170261,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -535,26 +535,26 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         },
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 170261,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+      "duration_ms": 155076,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
+    },
+    {
+      "added_at": "2023-11-10 11:00:00",
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
-    },
-    {
-      "added_at": "2023-11-10 11:00:00",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-11-10 11:00:00",
-      "album": {
         "name": "Hopeless Heart",
         "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 151903,
       "name": "Hopeless Heart",
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
+    },
+    {
+      "added_at": "2023-11-10 11:00:00",
+      "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -1295,22 +1295,6 @@
       "duration_ms": 182750,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
-    },
-    {
-      "added_at": "2023-11-10 11:00:00",
-      "album": {
-        "name": "Sweet Goodbye",
-        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "Sweet Goodbye",
-      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
     },
     {
       "added_at": "2023-11-10 11:00:00",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
+        "name": "Sweet Goodbye",
+        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "Sweet Goodbye",
+      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
+    },
+    {
+      "added_at": "2023-11-10 11:00:00",
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-11-10 11:00:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
       },
       "artists": [
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 166856,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
+      "duration_ms": 170928,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
     }
   ],
   "unique_name": "Wochenende",

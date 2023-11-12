@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,808 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,825 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 47 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 |
 | 48 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 |
 | 49 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 |
-| 50 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
-| 51 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 |
+| 50 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 |
+| 51 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
 | 52 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 |
 | 53 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 |
 | 54 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 |
@@ -98,19 +98,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 88 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 |
 | 89 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 |
 | 90 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 |
-| 91 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 |
-| 92 | [Floating Time](https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Floating Time](https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm) | 2:50 |
+| 91 | [Floating Time](https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Floating Time](https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm) | 2:50 |
+| 92 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 |
 | 93 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 |
 | 94 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 |
-| 95 | [Neda](https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Neda](https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw) | 2:35 |
-| 96 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 |
+| 95 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 |
+| 96 | [Neda](https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Neda](https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw) | 2:35 |
 | 97 | [isolation](https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:45 |
 | 98 | [Rest Now](https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Rest Now](https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7) | 2:42 |
 | 99 | [Maja's Miracle](https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Maja's Miracle](https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk) | 2:03 |
 | 100 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 |
 | 101 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 |
-| 102 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
-| 103 | [Penumbra](https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Penumbra](https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw) | 4:20 |
+| 102 | [Penumbra](https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Penumbra](https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw) | 4:20 |
+| 103 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
 | 104 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 |
 | 105 | [Stars Above](https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1) | [Gazebo Clouds](https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx) | [Partly Cloudy](https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03) | 3:43 |
 | 106 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 109 | [Double Star](https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Calm Constellation](https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz) | 4:00 |
 | 110 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
 | 111 | [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 |
-| 112 | [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 |
-| 113 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 |
+| 112 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 |
+| 113 | [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 |
 | 114 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 |
 | 115 | [Afterglow](https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao) | [Mike Fields](https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8) | [Afterglow](https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb) | 2:55 |
 | 116 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 128 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 |
 | 129 | [Malin 1](https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe) | [Galaxy River](https://open.spotify.com/artist/368DFiSRV82OfD2QC0HUkC) | [Cygnus A](https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc) | 3:16 |
 | 130 | [Brise Apaisante](https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo) | [Cornlie Sourd](https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY) | [Brise Apaisante](https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp) | 3:21 |
-| 131 | [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 |
-| 132 | [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 |
+| 131 | [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 |
+| 132 | [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 |
 | 133 | [inteira](https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0) | [Gereo Luna](https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru) | [inteira](https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp) | 2:49 |
 | 134 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
 | 135 | [Well Spent](https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Well Spent](https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6) | 2:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 149 | [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 |
 | 150 | [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 |
 
-Snapshot ID: `MCxhYjYxNjA0MjRhMDM2YzcyY2I2OWFiZjBiZWJkMzU2YWRjODMyY2U3`
+Snapshot ID: `MCw0OWQ0Zjc3MGNiZWVkMjQ2NTU1ZGE4OGE5MWEzMDYwNmVlYTY0OTk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,994 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,070 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 54 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 |
 | 55 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
 | 56 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
-| 57 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 |
-| 58 | [Twinkle Twinkle](https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW) | 2:36 |
+| 57 | [Twinkle Twinkle](https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW) | 2:36 |
+| 58 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 |
 | 59 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 |
 | 60 | [Whispers](https://open.spotify.com/track/50wqN28Ca3fJGddi95GaSc) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:11 |
 | 61 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 79 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
 | 80 | [Weirdo](https://open.spotify.com/track/140FZc81yT89NfXsooPWWW) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S) | 3:45 |
 
-Snapshot ID: `MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0`
+Snapshot ID: `MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx`

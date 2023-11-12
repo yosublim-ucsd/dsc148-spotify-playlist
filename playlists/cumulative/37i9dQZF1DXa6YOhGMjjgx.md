@@ -4,7 +4,7 @@
 
 > The very best of the alternative rock scene\. Cover: Teenage Wrist
 
-339 songs - 19 hr 28 min
+341 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [In and Out](https://open.spotify.com/track/0y2DtDwPh9Y2lvvKHGMUof) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [In and Out](https://open.spotify.com/album/5l04evsrVLWqMkz4T9e7BB) | 3:19 | 2021-03-31 | 2022-04-27 |
 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 | 2021-03-31 | 2022-03-01 |
 | [It's A Trip!](https://open.spotify.com/track/6IY3cC281mz9q0bViUEldz) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Content](https://open.spotify.com/album/5RKLyPZ4P8WhO1uxDMXGe7) | 3:03 | 2021-03-31 | 2022-04-29 |
-| [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-03-01 |  |
+| [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-03-01 | 2023-11-12 |
+| [Joiner](https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:59 | 2023-09-08 |  |
 | [Journey of the Prairie King](https://open.spotify.com/track/6tzuQuosgeRizkqLzfOXzr) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/3wL067SoyL83W04AcNwb8x) | 3:28 | 2021-04-09 | 2022-03-01 |
 | [July](https://open.spotify.com/track/01uJ0nx8ks1MZuaO03Ql5Q) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [July](https://open.spotify.com/album/2youEDf8Vvnm9GunBVMSsG) | 3:27 | 2021-03-31 | 2022-07-29 |
 | [July](https://open.spotify.com/track/2b0G006xcIUoqvRDDaCT8E) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Feels Like We’ve Been Here Before](https://open.spotify.com/album/3oDmsU4EhxfrPOBYycOyEO) | 3:27 | 2022-04-29 | 2023-03-01 |
@@ -212,7 +213,8 @@
 | [More Than This](https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/4xENjLbcy7IdEHA3JQzYRx) | 3:02 | 2023-01-27 | 2023-06-02 |
 | [More Than This](https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:02 | 2023-05-19 |  |
 | [Mother \- Single Version](https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Mother](https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2) | 5:05 | 2021-03-31 | 2023-07-01 |
-| [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-06-30 |  |
+| [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-06-30 | 2023-11-12 |
+| [Mountains At Midnight](https://open.spotify.com/track/63V2LU9M9pLkimultjujl5) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:06 | 2023-09-08 |  |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-05-05 | 2023-09-10 |
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2022-04-29 | 2023-01-28 |
 | [My Honest Face](https://open.spotify.com/track/0UB9FchcGKnQ7GCDl9dJjF) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/07ZR3JqB2j0tAMc8bPRLan) | 4:34 | 2021-03-31 | 2022-07-29 |

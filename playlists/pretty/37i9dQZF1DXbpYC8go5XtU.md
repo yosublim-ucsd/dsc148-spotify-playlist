@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,557 likes - 132 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,578 likes - 132 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 131 | [Dawn](https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT) | [The Green Kingdom](https://open.spotify.com/artist/4EOmRRSrO3mMPt9W4knkJO) | [Residence on Earth](https://open.spotify.com/album/2E93vwKg4VcQZaN8fBKaWB) | 2:48 |
 | 132 | [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 |
 
-Snapshot ID: `MCwxMTkwMGVmM2MzMTQ2ZTI2ZjViMzExMzg4OTIzYTg1MWYxN2MxY2Yz`
+Snapshot ID: `MCwzYTA3MDM1ZDdkYWY2Y2I4YTcwYTI1NDFmMDgwMjRkN2Q1NDgyNDg0`

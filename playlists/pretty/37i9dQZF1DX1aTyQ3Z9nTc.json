@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 130372,
+  "num_followers": 130388,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj",
+  "snapshot_id": "MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 182265,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/7Au4cKPo9CYhtP4fByzYeq"
-    },
-    {
       "added_at": "2023-06-16 06:53:32",
       "album": {
         "name": "Grudges",
@@ -575,6 +559,22 @@
       "duration_ms": 213987,
       "name": "Gone (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182265,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7Au4cKPo9CYhtP4fByzYeq"
     },
     {
       "added_at": "2023-10-06 05:19:16",
@@ -651,22 +651,6 @@
       "duration_ms": 195415,
       "name": "Dollar $hort",
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -761,6 +745,22 @@
       "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
     },
     {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "EXTC",
@@ -801,26 +801,6 @@
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Inhale / Exhale (with Sabrina Claudio)",
-        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Inhale / Exhale (with Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Intimidated",
@@ -839,6 +819,26 @@
       "duration_ms": 183773,
       "name": "$payforhaiti (feat. Mach-Hommy)",
       "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Inhale / Exhale (with Sabrina Claudio)",
+        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Inhale / Exhale (with Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -881,42 +881,6 @@
       "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Breathless (with Alina Baraz)",
-        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Breathless (with Alina Baraz)",
-      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
-    },
-    {
       "added_at": "2023-10-20 05:37:48",
       "album": {
         "name": "FACETS",
@@ -931,6 +895,22 @@
       "duration_ms": 192278,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+    },
+    {
+      "added_at": "2023-06-16 06:53:32",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -951,6 +931,26 @@
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Breathless (with Alina Baraz)",
+        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathless (with Alina Baraz)",
+      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },
     {
       "added_at": "2023-08-04 15:55:51",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
-      "album": {
-        "name": "Breathwork",
-        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "On + On (with Justine Skye)",
-      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Raven",
@@ -1135,6 +1115,26 @@
       "duration_ms": 214285,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
+    },
+    {
+      "added_at": "2023-06-16 06:53:32",
+      "album": {
+        "name": "Breathwork",
+        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "On + On (with Justine Skye)",
+      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
     },
     {
       "added_at": "2023-10-20 05:37:48",
@@ -1473,6 +1473,22 @@
       "url": "https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2"
     },
     {
+      "added_at": "2022-07-29 04:11:59",
+      "album": {
+        "name": "PHASE",
+        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
+      },
+      "artists": [
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "2MANYTHINGS",
+      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
+    },
+    {
       "added_at": "2023-10-06 05:19:16",
       "album": {
         "name": "Angel",
@@ -1491,22 +1507,6 @@
       "duration_ms": 179006,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
-    },
-    {
-      "added_at": "2022-07-29 04:11:59",
-      "album": {
-        "name": "PHASE",
-        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
-      },
-      "artists": [
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "2MANYTHINGS",
-      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
     },
     {
       "added_at": "2023-03-31 06:27:27",
@@ -1597,26 +1597,6 @@
       "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Say Yes",
@@ -1635,30 +1615,6 @@
       "duration_ms": 233658,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "HYDROPONICS",
-        "url": "https://open.spotify.com/album/1EvPq6LiKfCGFB1i0cytOf"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6ckW3AsQAhpVynQaYw3h2q"
     },
     {
       "added_at": "2022-08-26 04:23:37",
@@ -1683,6 +1639,50 @@
       "duration_ms": 163655,
       "name": "Comfy",
       "url": "https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "HYDROPONICS",
+        "url": "https://open.spotify.com/album/1EvPq6LiKfCGFB1i0cytOf"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6ckW3AsQAhpVynQaYw3h2q"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1769,22 +1769,6 @@
       "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
-    },
-    {
       "added_at": "2023-06-16 06:53:32",
       "album": {
         "name": "crave you",
@@ -1803,6 +1787,22 @@
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": "2022-07-30 02:24:25",

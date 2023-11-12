@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,645 likes - 105 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,665 likes - 105 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 104 | [Is there anyone?](https://open.spotify.com/track/51f9Ic7JApQQT7k0Q8FkSX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [Is there anyone?](https://open.spotify.com/album/3O962c8Votg9xPr4umHdiZ) | 4:09 |
 | 105 | [Moon](https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Moon](https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL) | 3:36 |
 
-Snapshot ID: `MCw0MWJkNjIxMjg4MTdiNDFkMDc2ZTVjZTE1NGNlYjNkNWIyZmEwNTZk`
+Snapshot ID: `MCw3MTc2YjIwYjMyZDFkMGI5OTVjOTU4NDhhMTc0YjFiNjUyY2Q0YTNk`

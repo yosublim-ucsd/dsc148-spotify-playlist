@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-130 songs - 8 hr 45 min
+131 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Dormir Juntitos \- 2022 Remastered](https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Esperandote \(2022 Remastered\)](https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW) | 4:42 | 2021-12-16 |  |
 | [A Dormir Juntitos \- 2022 Remastered](https://open.spotify.com/track/5iR655ZT2hDAJRtNMV2Ogh) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Lo Mejor De Mi \(2022 Remastered\)](https://open.spotify.com/album/5akHQsXp2No5kRry6bSqo5) | 4:45 | 2021-12-16 | 2023-06-15 |
 | [Adios Amor](https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 1](https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6) | 4:19 | 2021-12-16 |  |
+| [Adonay](https://open.spotify.com/track/6aMhENDm72fgzbg3HkGExn) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Triunfo en Triunfo](https://open.spotify.com/album/5pefwZ3srZQo7kBZgIBnkk) | 3:09 | 2021-12-16 |  |
 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 | 2021-12-16 |  |
 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 | 2021-12-16 |  |
 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 | 2021-12-16 | 2023-08-22 |
@@ -122,7 +123,7 @@
 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 | 2021-12-16 |  |
 | [Tabajo y Ron](https://open.spotify.com/track/7tTwwjaTdFMLUsrPM9jIZs) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 4:02 | 2021-12-16 | 2023-07-19 |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2021-12-16 |  |
-| [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2021-12-16 |  |
+| [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2021-12-16 | 2023-11-12 |
 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 | 2021-12-16 |  |
 | [Te Llevaré](https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Sus Más Grandes Exitos](https://open.spotify.com/album/0WDHvpTdzU8urEhBDCJjKD) | 4:14 | 2021-12-16 | 2023-08-20 |
 | [Te Va A Doler](https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:52 | 2021-12-16 |  |

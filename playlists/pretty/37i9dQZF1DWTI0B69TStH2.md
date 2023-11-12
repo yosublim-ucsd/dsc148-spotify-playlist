@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0JIgW2OFhm0hH8UdCMU5SU">Jan Marczewski</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,827 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,823 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 56 | [Ostatni](https://open.spotify.com/track/2hr21R3xgCyz9z8Mvk1i3e) | [Wrzoska](https://open.spotify.com/artist/3LmKEB28qVaQaYwfcav541) | [Ostatni](https://open.spotify.com/album/3TLfh7yygvsxOVmwt8Ml3x) | 3:45 |
 | 57 | [Też To Znasz](https://open.spotify.com/track/4u1uEusBj1J68p5MI1bjN5) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Też To Znasz](https://open.spotify.com/album/1dYCfJ1JDIsuqZhLKifUlU) | 4:01 |
 | 58 | [Ja i Ty](https://open.spotify.com/track/3YJZrcUgt0eKpPvSl8egcn) | [Nastia](https://open.spotify.com/artist/6oIfNczfkOoCFHWIdRZO88) | [Ja i Ty](https://open.spotify.com/album/7G1rxJFZcoYr0chmUBFPgr) | 3:10 |
-| 59 | [we just broke up](https://open.spotify.com/track/5GfjD7WfBWPHbLdAEA7Nqa) | [Filip Sterniuk](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw), [Daniel Hawes](https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH) | [we just broke up](https://open.spotify.com/album/10fBs9Habs0hoMiSqJXszX) | 3:42 |
+| 59 | [we just broke up](https://open.spotify.com/track/5GfjD7WfBWPHbLdAEA7Nqa) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw), [Daniel Hawes](https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH) | [we just broke up](https://open.spotify.com/album/10fBs9Habs0hoMiSqJXszX) | 3:42 |
 | 60 | [Feelin' Good Ain't Cheap](https://open.spotify.com/track/5fa9E3UhHHFfHpfaw0UDzY) | [The Bullseyes](https://open.spotify.com/artist/4VrvRbGxs71Cs797ThTy6f) | [Feelin' Good Ain't Cheap](https://open.spotify.com/album/5IbDdxWzPsxssYbh2cg8R2) | 2:48 |
 | 61 | [River](https://open.spotify.com/track/56UFOGVz5Mbop54gVZCY27) | [Zuza Baum](https://open.spotify.com/artist/5rE76NUNypiHO6zb9pU6C8), [LoftY](https://open.spotify.com/artist/4O0AgjvVrqKbaFUe9uzTph), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [River](https://open.spotify.com/album/06Xosu6yqqFN3TPEUQwBeU) | 3:46 |
 | 62 | [Nic nie zmieni się w ciszy](https://open.spotify.com/track/0u9DTtjM83RMOXX9B2s2Rx) | [Justyna Biedrawa](https://open.spotify.com/artist/2jonFoAFilDQI0GmJJu3qE) | [Nic nie zmieni się w ciszy](https://open.spotify.com/album/3Rie2wqsxElWuyoR0P3poQ) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Night Shift](https://open.spotify.com/track/5maaJbXHaGM6RiTTF4qEFx) | [Utracki.Obwn](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6) | [Night Shift](https://open.spotify.com/album/33iJEYDBjyZhWQaI44jbBn) | 2:47 |
 | 100 | [bb blue](https://open.spotify.com/track/1TKX1bepB71PU6uyQOCCdv) | [Patrick Rubin](https://open.spotify.com/artist/1S5Xe2Czvc3Ec3DQOumXht), [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [bb blue](https://open.spotify.com/album/6EiTawrxy5PAwIHjcuAe5x) | 2:20 |
 
-Snapshot ID: `MCxjMzFmODJjNGRmNzczZWU1ZWI2MzJhOTViNWRlMzVlZDc0YzQ3ZTRh`
+Snapshot ID: `MCwxNzMyMjQ0ZjM5Zjc1OTQzZGE0Yjg1NjQ1YTE3MDRlZmY1Njk2NDBl`

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 260241,
+  "num_followers": 260484,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjgxY2ZlM2JkZmEwMmI4MzljM2ZiZTRiMGI5ZTk2YWQwOTkxMTY3",
+  "snapshot_id": "MCxmZmQ0NWIxMjI3YjUwM2M5Y2RlZTNhYjE3YWJlYmYyYzEwZTlhY2Q2",
   "tracks": [
     {
       "added_at": "2023-10-27 13:54:52",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 149826,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "It's Always You - Vocal Version",
-      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 179373,
       "name": "Misty",
       "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 146040,
-      "name": "Like Someone In Love - Vocal Version",
-      "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "The Very Thought Of You (Expanded Edition)",
         "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 228693,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 146040,
+      "name": "Like Someone In Love - Vocal Version",
+      "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 320773,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Some Nice Things I've Missed",
-        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "What Are You Doing The Rest Of Your Life?",
-      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184720,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "Some Nice Things I've Missed",
+        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "What Are You Doing The Rest Of Your Life?",
+      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 521200,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Vaughan And Violins",
-        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "That's All",
-      "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -1299,8 +1283,24 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 219506,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
+      "duration_ms": 119000,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
       },
       "artists": [
         {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 132840,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
+      "duration_ms": 211133,
+      "name": "That's All",
+      "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 119000,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
+      "duration_ms": 219506,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "You Are Free",
         "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 125946,
       "name": "Have You Met Miss Jones",
       "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
     },
     {
       "added_at": "2023-10-27 13:54:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-27 13:54:52",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 337706,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
-    },
-    {
-      "added_at": "2023-10-27 13:54:52",
-      "album": {
         "name": "A Day At The Movies",
         "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 187040,
       "name": "With A Song In My Heart - 78 rpm Version",
       "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
+    },
+    {
+      "added_at": "2023-10-27 13:54:52",
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 337706,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
     },
     {
       "added_at": "2023-10-27 13:54:52",

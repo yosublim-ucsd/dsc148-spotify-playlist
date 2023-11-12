@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,156 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,212 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Farside Bathroom](https://open.spotify.com/track/1uMvIrnZ1FVEDsdaSR6DHz) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [Siiick Days](https://open.spotify.com/album/1X44oHV9hIf1yOqjUccwJx) | 2:36 |
 | 100 | [Sigalert](https://open.spotify.com/track/3x49mtF8OR0OBOSTMZF3m3) | [Flat Worms](https://open.spotify.com/artist/5Ssue4NKgXFwte9xe6azsu) | [Sigalert](https://open.spotify.com/album/17rwGp1v4SgBeVWJIwnth1) | 2:29 |
 
-Snapshot ID: `MCw2ZmVlZDU1YmIwZjYyMGUxN2QwZGIzNTA5MzQ4MWU0MDVhYjBlOWZm`
+Snapshot ID: `MCwyZDRhMWI4NzAxYzExODY3YjFiOGNlYWQ5M2Q5MmFkZGYyNGJjMmE5`

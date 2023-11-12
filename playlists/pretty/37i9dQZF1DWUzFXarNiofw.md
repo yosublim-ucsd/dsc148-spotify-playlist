@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: BJ The Chicago Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,890 likes - 174 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,956 likes - 174 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 10 | [Fine By Myself](https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Fine By Myself](https://open.spotify.com/album/4tBU38rdZK9rGZDDnaoVvs) | 2:43 |
 | 11 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 |
 | 12 | [4am](https://open.spotify.com/track/1yM0dE07jBAkAYKQHzaInk) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [4am](https://open.spotify.com/album/6JEJjc8OLNOPzUnc8AkfVR) | 3:33 |
-| 13 | [My Obsession](https://open.spotify.com/track/3IAwlkQsspsv7RgQVRCiZI) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [My Obsession](https://open.spotify.com/album/3NDZZyF7pebV2dQwZ0mEFk) | 3:39 |
+| 13 | [My Obsession](https://open.spotify.com/track/3IAwlkQsspsv7RgQVRCiZI) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [My Obsession](https://open.spotify.com/album/3NDZZyF7pebV2dQwZ0mEFk) | 2:47 |
 | 14 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
 | 15 | [Mad Apology \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/4oGeqwrGh4qPlzupcNxh29) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Mad Apology \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/3PonvAjbXmUnlCyCtXUbLg) | 3:00 |
 | 16 | [Sorry](https://open.spotify.com/track/4ev5OuBWzNaIXRhuKQ6LUt) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [CLOSURE](https://open.spotify.com/album/2P6igT720bydbT6u1Cbrih) | 2:58 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 173 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 |
 | 174 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCxmYTk5Zjg3YmU4Mjk3YWNkYTU5NDVlNjQ5NDcxYTM0ODFkNmZmM2Nj`
+Snapshot ID: `MCw3ZjJhYTU5OTIzZGNmNDIyNDYzYWY2NzYwMDJmZWMzYjc4NDUzYjZm`

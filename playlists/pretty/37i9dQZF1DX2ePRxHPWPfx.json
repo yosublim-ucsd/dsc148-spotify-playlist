@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 1093,
+  "num_followers": 1305,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWZiYmM4MDhlNTA2MTg3YTE0ZWY0YzAwOThiZjFiYmI0MmNkMDIz",
+  "snapshot_id": "MCw1ZDQwZmU2OWY1ODAxMDM3NDI4ZmY1NGZmOTk0OWM0YTcyMjI2NzQ2",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:01",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 250186,
       "name": "rimas del verbo amar",
       "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 202359,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
         "name": "Mujer El\u00e9ctrica",
         "url": "https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 214887,
       "name": "Brisita de Fe",
       "url": "https://open.spotify.com/track/0b6ZPwVVvdvbISavKgQco3"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 202359,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
     },
     {
       "added_at": "2023-11-10 04:59:01",

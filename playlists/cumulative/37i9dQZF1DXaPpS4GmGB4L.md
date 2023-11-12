@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-182 songs - 10 hr 31 min
+183 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 | 2022-09-23 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2022-01-28 |  |
 | [Choo Ma Gum](https://open.spotify.com/track/6pTovnxQRzYQ6DlJO18sGf) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Choo Ma Gum](https://open.spotify.com/album/5h1Z15QryGdZRCdLZsD8WE) | 4:20 | 2023-08-18 |  |
+| [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 | 2023-10-13 |  |
 | [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 | 2023-11-06 |
 | [Confessin' The Blues](https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:55 | 2022-11-17 |  |
 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 | 2021-12-20 |  |
@@ -156,7 +157,7 @@
 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 | 2022-10-10 |  |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-07-01 |  |
 | [Sounds Like The Road](https://open.spotify.com/track/3sMTG1l0htXEgzf7vaQEOY) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 4:10 | 2022-04-08 |  |
-| [Statesboro Blues](https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Statesboro Blues](https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU) | 3:59 | 2023-08-18 |  |
+| [Statesboro Blues](https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Statesboro Blues](https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU) | 3:59 | 2023-08-18 | 2023-11-12 |
 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 | 2021-12-20 |  |
 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 | 2022-05-27 |  |
 | [Stormy Monday Blues \- Remastered 2022](https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:51 | 2023-08-18 |  |

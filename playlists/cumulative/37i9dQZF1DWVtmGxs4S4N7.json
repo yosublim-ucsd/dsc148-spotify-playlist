@@ -434,10 +434,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 127226,
       "name": "Cancion del Mariachi",
       "url": "https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU"
+    },
+    {
+      "album": {
+        "name": "Mexico and Mariachis",
+        "url": "https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju"
+      },
+      "artists": [
+        {
+          "name": "Antonio Banderas/los Lobos",
+          "url": "https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127226,
+      "name": "Cancion Del Mariachi",
+      "url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls"
     },
     {
       "album": {
@@ -1078,10 +1096,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 209186,
       "name": "La Pistola y el Corazon",
       "url": "https://open.spotify.com/track/0113SDiIkRuKckSPmHuTvx"
+    },
+    {
+      "album": {
+        "name": "La Pistola Y El Corazon",
+        "url": "https://open.spotify.com/album/30kfddnchGyZepcTfJuAyV"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "La Pistola Y El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0y7nguDRPWfKZGIZPRCE5q"
     },
     {
       "album": {

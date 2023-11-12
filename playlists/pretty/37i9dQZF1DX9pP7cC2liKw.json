@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 180709,
+  "num_followers": 180796,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmExOWE1NWQ1YmVhYmY2ODk2MjBjYjQ0NjM4MzY3ZmNkYzllYWQx",
+  "snapshot_id": "MCw3M2I1MWE0ZDMxOWYwNTUwMTE3ODhlZmJjNDk2YmFlYzAwNGIxMzQz",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-09-30 04:03:44",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-11-03 18:27:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/6gFDKmJvvj3Sgs4dkq6KrU"
       },
@@ -651,22 +635,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
         }
       ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -687,6 +667,26 @@
       "duration_ms": 429913,
       "name": "Teu Sorriso - Jex Opolis Remix",
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -939,26 +939,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Caf\u00e9 Com Leite (Boog\u00e1t Remix)",
-        "url": "https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe"
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         },
         {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        },
-        {
-          "name": "Boog\u00e1t",
-          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 254033,
-      "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
-      "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -987,22 +983,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+        "name": "Caf\u00e9 Com Leite (Boog\u00e1t Remix)",
+        "url": "https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
         },
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        },
+        {
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+      "duration_ms": 254033,
+      "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
+      "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
     },
     {
       "added_at": "2022-11-17 23:06:29",
@@ -1061,24 +1061,20 @@
       "url": "https://open.spotify.com/track/2hT92797LxyO6oZsQ6zaC9"
     },
     {
-      "added_at": "2023-08-01 03:48:42",
+      "added_at": "2023-02-02 00:29:46",
       "album": {
-        "name": "Amores Pasajeros",
-        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 145062,
-      "name": "Real Luv",
-      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
       "added_at": "2022-11-17 23:06:29",
@@ -1105,20 +1101,24 @@
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
-      "added_at": "2023-02-02 00:29:46",
+      "added_at": "2023-08-01 03:48:42",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
         }
       ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+      "duration_ms": 145062,
+      "name": "Real Luv",
+      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1213,6 +1213,22 @@
       "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
+    },
+    {
       "added_at": "2022-09-19 13:45:43",
       "album": {
         "name": "Fiera",
@@ -1231,38 +1247,6 @@
       "duration_ms": 170329,
       "name": "Pacifico Soy",
       "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Dubamerica",
-        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Chichera",
-      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1287,22 +1271,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "R\u00fambala (Jiony Remix)",
-        "url": "https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN"
+        "name": "Dubamerica",
+        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
         }
       ],
-      "duration_ms": 231764,
-      "name": "R\u00fambala - Jiony Remix",
-      "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
+      "duration_ms": 336373,
+      "name": "Chichera",
+      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1319,6 +1299,26 @@
       "duration_ms": 457053,
       "name": "Malunguinho",
       "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "R\u00fambala (Jiony Remix)",
+        "url": "https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 231764,
+      "name": "R\u00fambala - Jiony Remix",
+      "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
     },
     {
       "added_at": "2022-06-15 04:26:09",

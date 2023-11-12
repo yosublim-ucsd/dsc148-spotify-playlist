@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,951 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,987 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 30 | [Causa y Efecto](https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Metamorfosis](https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6) | 4:56 |
 | 31 | [Juré](https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6) | [Contigo](https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN) | 3:36 |
 | 32 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:16 |
-| 33 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
-| 34 | [El Breve Espacio en Que No Estás \- Live](https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Pablo Milanés: Un Concierto para América \(Live\)](https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ) | 4:28 |
+| 33 | [El Breve Espacio en Que No Estás \- Live](https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Pablo Milanés: Un Concierto para América \(Live\)](https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ) | 4:28 |
+| 34 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
 | 35 | [Coincidir](https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8) | [Mexicanto](https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc) | [Coincidir](https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH) | 2:43 |
 | 36 | [Por Ti](https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 2:52 |
 | 37 | [El Manual de Lo Prohibido \- Acoustic Live Version](https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo, Ni Tan Sólo, Vol\. 2 \(Acoustic Live Version\)](https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ) | 4:05 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 89 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 4:13 |
 | 90 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
 | 91 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
-| 92 | [Sembrando Amor](https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/3sQMu1OkfzkOvxMWwRDRtV) | 4:30 |
-| 93 | [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/3o3C8LS7yWWnsAzaUam15K) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/7HLQ5ZFtSAReHF5veBMO6d) | 3:09 |
+| 92 | [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/3o3C8LS7yWWnsAzaUam15K) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/7HLQ5ZFtSAReHF5veBMO6d) | 3:09 |
+| 93 | [Sembrando Amor](https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/3sQMu1OkfzkOvxMWwRDRtV) | 4:30 |
 | 94 | [Prefiero amar](https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Aire](https://open.spotify.com/album/3eiUKyEarSxAvjZLqIJ1M6) | 3:32 |
 | 95 | [Cuéntame](https://open.spotify.com/track/6jOoHhton9c8rzgfyUht7A) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F) | 3:53 |
 | 96 | [Oxígeno](https://open.spotify.com/track/31u3gKruZEyc8Sz7fAASbM) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 100 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCxjMWNlYTc0OGYxOWUxMDVkNTkyMjUxM2JiMTJiNGU3MGNhY2FlMmU5`
+Snapshot ID: `MCwwMTVmNTdlNmRmM2NiZDk5NDIzOTY1ZDUxNTA2MzI4MzQyYzAxZTJk`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moritz Hofbauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,697 likes - 88 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,840 likes - 88 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
-| 2 | [Higher Power \(feat\. Magnus\)](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power \(feat\. Magnus\)](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
+| 2 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
 | 3 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 |
 | 4 | [Take A Look Around](https://open.spotify.com/track/3jCI6zoF6nIz9LtPNU9ApO) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [MARTIN K4RMA](https://open.spotify.com/artist/728yYZBKoJYPrgx4UYonej) | [Doppelgänger](https://open.spotify.com/album/2V4E8FIACLnA9sRWDVL10H) | 6:36 |
 | 5 | [LAY ME DOWN](https://open.spotify.com/track/50SJaoPsOsvhwxUCRP4WxD) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [LAY ME DOWN](https://open.spotify.com/album/7Idybtn5vFMu6O9FBZIpPa) | 3:28 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 69 | [Hate](https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Hate](https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq) | 10:02 |
 | 70 | [Night Ride](https://open.spotify.com/track/1DcGChFmYbGkTjSjFeJQ8d) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Night Ride](https://open.spotify.com/album/27gc1ZmAw2gbs9b7Za1PaX) | 5:30 |
 | 71 | [Exited](https://open.spotify.com/track/187VhQwN2cm3iwgni4T2L3) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Exited](https://open.spotify.com/album/2ws4ocsDTsbdkioTBmbluh) | 6:42 |
-| 72 | [One Hour \- Radio\-Edit](https://open.spotify.com/track/4RJmPtkBapcI5o9qY1ORe2) | [TIWEA](https://open.spotify.com/artist/4qpycLwFvhnR0o3U9GsmwW) | [One Hour \(Radio\-Edit\)](https://open.spotify.com/album/6v5ZRKXjxU5CbLcCTOJNxA) | 3:39 |
+| 72 | [One Hour](https://open.spotify.com/track/4RJmPtkBapcI5o9qY1ORe2) | [TIWEA](https://open.spotify.com/artist/4qpycLwFvhnR0o3U9GsmwW) | [One Hour](https://open.spotify.com/album/6v5ZRKXjxU5CbLcCTOJNxA) | 3:39 |
 | 73 | [Hold On](https://open.spotify.com/track/16dydtFuYqGuRfQX8svixK) | [Bebetta](https://open.spotify.com/artist/1UGUF4voyBXt5wXrLjvS5s), [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP) | [Hold On](https://open.spotify.com/album/2cXyb5f3i0ctDsvvmei7cB) | 6:52 |
 | 74 | [Turn On](https://open.spotify.com/track/08070PmdYYZt0QUjJrVsnV) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Danger](https://open.spotify.com/album/7ssZV0Eq5dbde3N5HB3Cl3) | 5:09 |
 | 75 | [Vision](https://open.spotify.com/track/4qR93LMtQH160vEEoxegTD) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Vision](https://open.spotify.com/album/4nsRDOpMJaj9KO4mz1bnoW) | 4:02 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [DDG Talk](https://open.spotify.com/track/4I6p213xGciXe0Euyl6rUI) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [DDG Talk](https://open.spotify.com/album/113qnKo8Hy83Dh0yiXSPCB) | 5:59 |
 | 88 | [Create\-A\-Dance \- Radio Edit](https://open.spotify.com/track/3BOYe3nARvUMqmmnMoUta1) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Create\-A\-Dance](https://open.spotify.com/album/02L5fOvPVQcqe59P0vvXz2) | 2:53 |
 
-Snapshot ID: `MCwyNzJmZTIxZmUxNjIwOWJjZjk3ODBkYmQwZWZjNmYxMzE0YzQ3MDUy`
+Snapshot ID: `MCxmMGY1YjY3YzllMjE2YjE5OTRlNDEzOTYwMzE5MjEyYjhiOTIzMmU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Jack Harlow, Kodak Black, Youngboy NBA, and more\. Cover: Meek Mill & Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,674 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,803 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 38 | [First Day Out](https://open.spotify.com/track/11gBdPjQUxn7zcDhHIDcRV) | [Ralo](https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi) | [First Day Out](https://open.spotify.com/album/5XzTP7choYl1jUIo11NjGr) | 3:08 |
 | 39 | [10 Bands](https://open.spotify.com/track/0tsRMGLVQ3MrcntLCdCOJk) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [10 Bands](https://open.spotify.com/album/7FAjEdJ4st3ywzA84MnNlo) | 2:03 |
 | 40 | [GUNSHY](https://open.spotify.com/track/0We0xZsKHRpCd4r8cuMTXP) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt) | [GUNSHY](https://open.spotify.com/album/4Pb1VAoIs7HsNqD3ShHZXl) | 3:15 |
-| 41 | [Babymama Hero](https://open.spotify.com/track/5Qp4H665oXKCjXnHjFpuYR) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Babymama Hero](https://open.spotify.com/album/3fP1KZFDwZ36VCyscuWT9q) | 1:04 |
+| 41 | [Babymama Hero](https://open.spotify.com/track/5Qp4H665oXKCjXnHjFpuYR) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Babymama Hero](https://open.spotify.com/album/3fP1KZFDwZ36VCyscuWT9q) | 1:40 |
 | 42 | [Chosen One](https://open.spotify.com/track/2Q5FoIA0q59nRE9Ojn2LuK) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [After The Storm](https://open.spotify.com/album/5VoaHLD4AVVu2JN5Tkb2NO) | 3:30 |
 | 43 | [Dead Off](https://open.spotify.com/track/3tTcosbe4gXD0yglErOvRl) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Dead Off](https://open.spotify.com/album/12zc9jcRL6jkjo1HnNQ3r6) | 2:48 |
 | 44 | [Perfect Timing](https://open.spotify.com/track/36cELkpUcScvCioevAugBf) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Perfect Timing](https://open.spotify.com/album/2C8Sytf5bnoAwJeARoz0sg) | 2:51 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [No Complaining](https://open.spotify.com/track/06RXYYPfPRnwfwAPsk11Zf) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Might Forgive](https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU) | 3:06 |
 | 49 | [Big Dog \(with Lil Wayne\)](https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Big Dog](https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM) | 4:13 |
 
-Snapshot ID: `MCw1MDEyYjUyMzRmZWNhN2E3NzZhODA0YzhlNGM1N2FhZjI4ZDUzYjhh`
+Snapshot ID: `MCw1OWFiZTNhZTY5MDEzYTAwNjUxMmFjZDUzYTRkMDA5MWU5MzE1OTUw`

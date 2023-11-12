@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-251 songs - 14 hr 48 min
+252 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 | 2023-02-24 |  |
 | [Love Is A Drug](https://open.spotify.com/track/58y6xP2i8ZqOOESY07JVgQ) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Love Is A Drug / I Wish It Would Rain](https://open.spotify.com/album/7gbG82sQF8gfbnCFXFpJS7) | 2:58 | 2023-04-07 |  |
 | [Make It Til Summertime](https://open.spotify.com/track/2t5m1jQhBn9IKziKQwFUc7) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Every Road](https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq) | 3:04 | 2021-10-15 |  |
-| [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 |  |
+| [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 | 2023-11-12 |
+| [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-10 |  |
 | [Memory](https://open.spotify.com/track/40Ny9MMawUKcdNJyERWODH) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Memory](https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa) | 5:04 | 2021-10-15 | 2022-09-21 |
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
 | [My Maria \- with Thomas Rhett](https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:29 | 2021-10-15 |  |

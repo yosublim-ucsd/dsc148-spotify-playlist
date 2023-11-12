@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -15460,7 +15460,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -21768,7 +21768,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 154023,
       "name": "Mil Veces",
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
@@ -26020,6 +26020,24 @@
       "duration_ms": 119736,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
+    },
+    {
+      "album": {
+        "name": "Oruam & Xamuel (Para de Mentir)",
+        "url": "https://open.spotify.com/album/1Wb71rlMfHJK1aeXZBLYuE"
+      },
+      "artists": [
+        {
+          "name": "pr\u00e9vias br",
+          "url": "https://open.spotify.com/artist/3BM9K0G2UnaLTD1hGxRmPA"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Oruam & Xamuel (Para de Mentir)",
+      "url": "https://open.spotify.com/track/47vdPYXXu0URd2vH6FuF07"
     },
     {
       "album": {
@@ -35340,7 +35358,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 192320,
       "name": "Tras De M\u00ed",
       "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"
@@ -37594,7 +37612,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

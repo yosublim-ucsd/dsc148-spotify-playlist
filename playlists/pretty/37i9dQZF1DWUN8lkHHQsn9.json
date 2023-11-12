@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6735,
+  "num_followers": 6731,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjQ5Y2NiYTFmMWI0MjU1MzUwMWE5M2M0N2M5YzdmMmIyMWRjOTI2",
+  "snapshot_id": "MCw1OThhNGY1ZWVkNTUxZDE2MjRmZGZkYWZmYTFlOTNhMWM4OTljMjIy",
   "tracks": [
     {
       "added_at": "2023-10-20 09:12:18",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Gdzie spa\u0142a\u015b?",
-        "url": "https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU"
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
       "artists": [
         {
-          "name": "DZIWNE SNY",
-          "url": "https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Gdzie spa\u0142a\u015b?",
-      "url": "https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx"
+      "duration_ms": 181823,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+        "name": "Gdzie spa\u0142a\u015b?",
+        "url": "https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU"
       },
       "artists": [
         {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+          "name": "DZIWNE SNY",
+          "url": "https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo"
+        },
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+      "duration_ms": 267986,
+      "name": "Gdzie spa\u0142a\u015b?",
+      "url": "https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Wracam",
         "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 168387,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
         "name": "DOM",
         "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Gus\u0142a (Human Rites)",
+        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 305869,
+      "name": "Nieludzie (Ignorance Ha)",
+      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1207,22 +1223,6 @@
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Gus\u0142a (Human Rites)",
-        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
-      },
-      "artists": [
-        {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
-        }
-      ],
-      "duration_ms": 305869,
-      "name": "Nieludzie (Ignorance Ha)",
-      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     }
   ],
   "unique_name": "GLOW Polska",

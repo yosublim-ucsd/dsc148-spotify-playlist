@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,703,780 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,704,173 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 75 | [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 |
 | 76 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 77 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
-| 78 | [Lullaby](https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Lullaby](https://open.spotify.com/album/2cVJ0gO2QyBC5o2A1DVFuk) | 3:20 |
-| 79 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
+| 78 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
+| 79 | [Lullaby](https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Lullaby](https://open.spotify.com/album/2cVJ0gO2QyBC5o2A1DVFuk) | 3:20 |
 | 80 | [This Way \- From SUPERFLY \- Original Soundtrack](https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [This Way \(From SUPERFLY \- Original Soundtrack\)](https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW) | 3:31 |
 | 81 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 82 | [Losing](https://open.spotify.com/track/20E9JE3J8dHNDj9saOeNgu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 97 | [You Can't Save Me](https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:54 |
 | 98 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 99 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 |
-| 100 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
+| 100 | [Self Love](https://open.spotify.com/track/5jT6jENoyDH8YwvKT2NlnC) | [Jayson Lyric](https://open.spotify.com/artist/2CtJ90yJjxn0nL4a2lH0SA), [Nevaeh](https://open.spotify.com/artist/7s4lEl1dbB4TuDBoxIh9nC) | [Outer Body Experience](https://open.spotify.com/album/2Hy41x1FoKyTaiohizUAZ4) | 2:39 |
 
-Snapshot ID: `MCwxZTc3YWE3NGE5MGJhNmRiZGExMzU3YmU3NWIzZTRmZjVlNTBiYWJh`
+Snapshot ID: `MCw2NmQ2NTQ1YTY2ZjMzOTlmZDk5NDgzNWNjOTE3MDMyMjgzY2M4OTA5`

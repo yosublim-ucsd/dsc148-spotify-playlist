@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2224,6 +2224,24 @@
       "duration_ms": 188354,
       "name": "Banksy",
       "url": "https://open.spotify.com/track/3k7gRqP7vcOSMaHcYxaHq2"
+    },
+    {
+      "album": {
+        "name": "Bara brudar",
+        "url": "https://open.spotify.com/album/6OIv1sgz6XPGqMyYsCl5p1"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169309,
+      "name": "Bara brudar",
+      "url": "https://open.spotify.com/track/7AYv5Mn95cZm0JtGdQWRtm"
     },
     {
       "album": {
@@ -5726,7 +5744,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 165252,
       "name": "Den sista s\u00e5ngen",
       "url": "https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN"
@@ -10775,6 +10793,28 @@
     },
     {
       "album": {
+        "name": "GRISARNA TILL BACON",
+        "url": "https://open.spotify.com/album/3iXqX8HmJPT7cjRGZq3yBq"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "GRISARNA TILL BACON",
+      "url": "https://open.spotify.com/track/6QfNgAVv0QpsmBcd51Alfw"
+    },
+    {
+      "album": {
         "name": "GRUSV\u00c4G",
         "url": "https://open.spotify.com/album/7cIz4GR8YnKmJtU6dckxYi"
       },
@@ -10822,7 +10862,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 194394,
       "name": "Gr\u00e4t",
       "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
@@ -11362,7 +11402,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 202954,
       "name": "Har Dig",
       "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
@@ -12470,6 +12510,24 @@
       "duration_ms": 194733,
       "name": "Hotel Amigo (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "album": {
@@ -15257,6 +15315,32 @@
     },
     {
       "album": {
+        "name": "Konny",
+        "url": "https://open.spotify.com/album/1j0j3RIunywJBwhiXgfR9F"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        },
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "Konny",
+      "url": "https://open.spotify.com/track/2pWrojGsUxdleTdcQdmPok"
+    },
+    {
+      "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
@@ -15294,7 +15378,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 150040,
       "name": "Konstn\u00e4rer",
       "url": "https://open.spotify.com/track/65UYDPpevMJa6zmrEufj4T"
@@ -16859,6 +16943,24 @@
     },
     {
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
         "name": "The Only Wan",
         "url": "https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3"
       },
@@ -18318,7 +18420,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 175979,
       "name": "Minns ikv\u00e4ll",
       "url": "https://open.spotify.com/track/4VCvC5CL6vKbi7wMaY3G9j"
@@ -20254,7 +20356,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -21626,6 +21728,24 @@
       "duration_ms": 181672,
       "name": "P\u00e5 riktigt",
       "url": "https://open.spotify.com/track/0TEGBVIMIyQ6wW52Kwagxx"
+    },
+    {
+      "album": {
+        "name": "Que Pasa?",
+        "url": "https://open.spotify.com/album/6YoQO2lhDjISo3XmzD2Kos"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140596,
+      "name": "Que Pasa?",
+      "url": "https://open.spotify.com/track/3ZGxEFPmgKtrGXzCWCb04l"
     },
     {
       "album": {
@@ -25062,7 +25182,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/6oEfLCekbv7T0ERha5IQO9"
@@ -25612,7 +25732,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/2FZax4rYTOkcnG02PrJDzk"
@@ -27158,7 +27278,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -30104,7 +30224,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -30180,6 +30300,28 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

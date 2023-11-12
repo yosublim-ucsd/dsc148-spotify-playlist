@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: AJR
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,183 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,209 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Again & Again](https://open.spotify.com/track/1iyKspP2iddREZXUMNPUcb) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Again & Again](https://open.spotify.com/album/0PaNomHi1PHG4urXQuFqgs) | 2:43 |
 | 100 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 |
 
-Snapshot ID: `MCw5MmI4MmRmMDZhZTllZDY4NzdjYTc1ZmQ5NDgwYjY3ZGU5MzNkOGY3`
+Snapshot ID: `MCxmM2I1NmRiOTEzNWQ0ZjE5ZGQ2ZWRlNDNlOGM5MTI1OTcxMmQ1NzQx`

@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 621517,
+  "num_followers": 621502,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjg2ZTYxM2YzZWRlYTgwNjdjNGFhZmExMmJjZmUzY2U3YTc4NDg0",
+  "snapshot_id": "MCxhY2UwYTFkNTkzZTA1NzY2ZjNlOTY2MGYyMjQyMWRlYTYxYzNkNDhk",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -531,6 +531,34 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -567,34 +595,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -611,30 +611,6 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -663,6 +639,30 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -707,6 +707,26 @@
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -771,26 +791,6 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Live in the Moment",
+        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193507,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
         "url": "https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq"
       },
@@ -1451,42 +1467,6 @@
       "duration_ms": 166264,
       "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
       "url": "https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Live in the Moment",
-        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193507,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
-      },
-      "artists": [
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 185104,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1515,6 +1495,26 @@
       "duration_ms": 212307,
       "name": "Rueda - Remix",
       "url": "https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Make It Hot",
         "url": "https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 168397,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
     },
     {
       "added_at": "2023-02-17 03:00:00",

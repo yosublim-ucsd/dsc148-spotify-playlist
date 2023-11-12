@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Leonie Biney
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,184 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,200 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 67 | [Alina](https://open.spotify.com/track/7gclf1vrwlMLAtb2yZEiqL) | [Enny Owl](https://open.spotify.com/artist/2uecsLEOt63rmrWey4J1JF) | [Alina](https://open.spotify.com/album/4bOeaTfu13AG8ir53qO1MS) | 3:21 |
 | 68 | [Greyhound](https://open.spotify.com/track/31JgkeYLMlgzZgmFBStbeG) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Greyhound](https://open.spotify.com/album/2R457N9XlrnMJdnvZE4q2V) | 2:15 |
 | 69 | [G.O.M \(Gyallie On Me\)](https://open.spotify.com/track/2fOUw4bFi0Z6FRyGcui8dx) | [Bemz](https://open.spotify.com/artist/2mDgS5iDj9A8snbNmtt9Ei) | [G.O.M \(Gyallie On Me\)](https://open.spotify.com/album/5CGyyGgBqmCopxuwp2tXA7) | 2:02 |
-| 70 | [Cosmosis](https://open.spotify.com/track/5zPUB3zakMtaPvICMck9LF) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Cosmosis](https://open.spotify.com/album/1YZE5TPI0RFFR2KA3v5UwR) | 5:28 |
+| 70 | [Cosmosis](https://open.spotify.com/track/4eY2EW0PdSNapCNRSy793F) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Cosmosis](https://open.spotify.com/album/1CxF8owP6ssc9lbk36lxlT) | 5:28 |
 | 71 | [tattooed on my heart](https://open.spotify.com/track/4oT6vVoQRzY6EVtDvE64nM) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm), [No Cash Refunds](https://open.spotify.com/artist/3YvTjqqONkdbCbjKIdCbFD) | [tattooed on my heart](https://open.spotify.com/album/0RE9gEimruV5JkitdBdRaQ) | 2:14 |
 | 72 | [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 |
 | 73 | [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Better Lay Low](https://open.spotify.com/track/1FDVWvo1RzjnYiQ0wvNLZq) | [Rebel Bunny](https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [Better Lay Low](https://open.spotify.com/album/79kiS9QDvw6BZXAkHADA2l) | 2:41 |
 | 80 | [PANIC!](https://open.spotify.com/track/2VVY57zmz52jAJzVTjyuDK) | [montykeates](https://open.spotify.com/artist/5aOWIYpB1ato7lLGn4jtpl) | [PANIC!](https://open.spotify.com/album/53FJsFhVT7SzACeuRmWaV1) | 3:11 |
 
-Snapshot ID: `MCxhNDExMzlkYTgwYjFhMWFmNDAxNjdhODIxN2MzODYyZjk3NTdkYWFh`
+Snapshot ID: `MCw4OGE0ZDM1ZDIzN2NiNzE2Mzc2ZGM3MDE1MDc4NmI1ZjcxOTBkZDE5`

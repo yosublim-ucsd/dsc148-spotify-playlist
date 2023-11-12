@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,820 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,831 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 40 | [Daybreak Age](https://open.spotify.com/track/12wfryAax6OKqO5Y7lXLcI) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 3:43 |
 | 41 | [BRIGHTEST WHITE](https://open.spotify.com/track/06TMFKm1kw8QymT6XGMIll) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS "CANVAS" 01](https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w) | 4:07 |
 | 42 | [千夜アリア](https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5) | [白瀬咲耶 \(CV.八巻アンナ\)](https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:34 |
-| 43 | [Damascus Cocktail](https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP) | [有栖川夏葉 \(CV.涼本あきほ\)](https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 |
+| 43 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
 | 44 | [青とオレンジ](https://open.spotify.com/track/1Cpk6loUsHtZmSrzu25ips) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS "CANVAS" 06](https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd) | 4:11 |
-| 45 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
+| 45 | [Damascus Cocktail](https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP) | [有栖川夏葉 \(CV.涼本あきほ\)](https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 |
 | 46 | [Unsung Heroes](https://open.spotify.com/track/78hYc1DvsAEQSMWJLpQcuR) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:46 |
 | 47 | [VOY@GER](https://open.spotify.com/track/1XpmPaXl4Hct0ZTtTZnEPb) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [VOY@GER](https://open.spotify.com/album/7A4Smsvs75oTc1uHBwzlF4) | 5:39 |
 | 48 | [夢見鳥](https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq) | [樋口円香 \(CV.土屋李央\)](https://open.spotify.com/artist/4nzTh0EGvqoTb8P1KsmcVX) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:21 |
 | 49 | [FELICE](https://open.spotify.com/track/4dWeVQoerTUVrp6af7KxOb) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 02](https://open.spotify.com/album/4CSSUlAhyx3mbZmwRLSMQj) | 3:45 |
 | 50 | [プラスチック・アンブレラ \- 2022 Version](https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0) | [三峰結華 \(CV.希水しお\)](https://open.spotify.com/artist/0dQIFp0S9pK2pAZF4MkxhN) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 4:22 |
 
-Snapshot ID: `MCw1YjYzMTYwOGU5YjExZjQ0NGVjMmNjYTAwYmMxZWRlOGQ3M2M0ZmY3`
+Snapshot ID: `MCxlNzc0MTZlZTZmNWNlOTI0ZGI5ZjM5YTYxOWFlNjAwMjFmZDA5ZDQ5`

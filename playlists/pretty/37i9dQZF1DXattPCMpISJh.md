@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,907 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,931 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 |
 | 100 | [Ticket to the Moon](https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy) | [Carvel'](https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf) | [Ticket to the Moon](https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz) | 2:42 |
 
-Snapshot ID: `MCw1MjExZGI2OGU4MTNkNDlhODIzYmY4MDVmNzBjM2RjOWE2NGViZTgz`
+Snapshot ID: `MCwyMDNlOTk1NGQxNTM0ODk1ZDNjOGMxNDBkOTc1ODYwZDJlYWY2ODQ5`

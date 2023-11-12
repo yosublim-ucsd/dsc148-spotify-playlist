@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Arriola en portada.",
-  "num_followers": 58251,
+  "num_followers": 58261,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGFmMDRlYmY2ODA1NjY3ZTVmMWY5NWU0NjFjNjQ1YTljZjU0MzQ5",
+  "snapshot_id": "MCw0OWE3NTNiNGFmZWYwZjRmMjY2NmVlNTBlMmMwYTlmNjkyYmUzNDdm",
   "tracks": [
     {
       "added_at": "2023-11-10 15:27:32",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Belicamente De Accion",
         "url": "https://open.spotify.com/album/51Cw0W3OkWD4RAiqfIkG97"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 194066,
       "name": "Todo Todo",
       "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 154632,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Alucin-ando",
-        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
-      },
-      "artists": [
-        {
-          "name": "Alain Manases",
-          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
-        }
-      ],
-      "duration_ms": 163317,
-      "name": "Alucin-ando",
-      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Me Estoy Quemando por Tomar",
         "url": "https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 146532,
       "name": "Me Estoy Quemando por Tomar",
       "url": "https://open.spotify.com/track/38aTdubvt5HwDMVaoxoYAY"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Alucin-ando",
+        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
+      },
+      "artists": [
+        {
+          "name": "Alain Manases",
+          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
+        }
+      ],
+      "duration_ms": 163317,
+      "name": "Alucin-ando",
+      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Me Estoy Quemando por Tomar",
+        "url": "https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI"
+      },
+      "artists": [
+        {
+          "name": "La Bertiniza De Culiacan",
+          "url": "https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J"
+        }
+      ],
+      "duration_ms": 175837,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/5ZFk83GnBDgpzKpXGPllCg"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Me Estoy Quemando por Tomar",
-        "url": "https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI"
-      },
-      "artists": [
-        {
-          "name": "La Bertiniza De Culiacan",
-          "url": "https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J"
-        }
-      ],
-      "duration_ms": 175837,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/5ZFk83GnBDgpzKpXGPllCg"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Te Cre\u00ed",
-        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 237953,
-      "name": "Te Cre\u00ed",
-      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 256885,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Te Cre\u00ed",
+        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 237953,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -759,6 +759,30 @@
       "duration_ms": 219160,
       "name": "TRANQUILE\u00d3N",
       "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Fumando Mota",
+        "url": "https://open.spotify.com/album/1jlpTCmPcTZ6BmFEyrLtsx"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Fumando Mota",
+      "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -943,26 +967,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/4GJxnawlts3HizXeVb7Fye"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        },
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/43m5eJ9Ln6AqcuDJvEtN33"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Los Billetes Ponen La Edad \"JRE\"",
         "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
       },
@@ -975,6 +979,26 @@
       "duration_ms": 183106,
       "name": "Billetes Y Armas",
       "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Las Palomitas",
+        "url": "https://open.spotify.com/album/1uyjI7gRAggblCvDdOHbEm"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "Las Palomitas",
+      "url": "https://open.spotify.com/track/0Go9m9tz5BiV6EmjiNoctc"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1011,38 +1035,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Las Palomitas",
-        "url": "https://open.spotify.com/album/1uyjI7gRAggblCvDdOHbEm"
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/4GJxnawlts3HizXeVb7Fye"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         },
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
         }
       ],
-      "duration_ms": 184767,
-      "name": "Las Palomitas",
-      "url": "https://open.spotify.com/track/0Go9m9tz5BiV6EmjiNoctc"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+      "duration_ms": 228706,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/43m5eJ9Ln6AqcuDJvEtN33"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1063,6 +1071,22 @@
       "duration_ms": 167629,
       "name": "Cumbiecitas Elegantes",
       "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+      },
+      "artists": [
+        {
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+        }
+      ],
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1139,6 +1163,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
         "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
       },
@@ -1171,22 +1211,6 @@
       "duration_ms": 187263,
       "name": "Tranquilo Y Sencillo",
       "url": "https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1287,22 +1311,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Si Dej\u00f3 de Quererte",
-        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 200864,
-      "name": "Si Dej\u00f3 de Quererte",
-      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "TQM (feat. Grupo Doble G)",
         "url": "https://open.spotify.com/album/0sObnYlV4voPzH97IYq2hw"
       },
@@ -1319,6 +1327,42 @@
       "duration_ms": 162215,
       "name": "TQM (feat. Grupo Doble G)",
       "url": "https://open.spotify.com/track/7n2SBXYBxaWWrPXRCZQwVq"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Morrito (Remix)",
+        "url": "https://open.spotify.com/album/5VZTVTe2FcDkVY72KRpGQv"
+      },
+      "artists": [
+        {
+          "name": "VADHIR",
+          "url": "https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Morrito - Remix",
+      "url": "https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1391,6 +1435,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 194766,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Quiero Abrazarte Tanto",
         "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
       },
@@ -1419,22 +1479,6 @@
       "duration_ms": 154033,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 194766,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1523,6 +1567,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Tepito Buffa",
+        "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
+      },
+      "artists": [
+        {
+          "name": "Proceder Elegante",
+          "url": "https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO"
+        }
+      ],
+      "duration_ms": 172822,
+      "name": "Tepito Buffa",
+      "url": "https://open.spotify.com/track/4YMUY0CX1Atj0w4gxyEbVg"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Toro Relajo",
         "url": "https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q"
       },
@@ -1539,6 +1599,38 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Lujos Flamantes",
+        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Supr3me",
+          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Lujos Flamantes",
+      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Ll\u00f3rame M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Ll\u00f3rame M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "D\u00c9JENME TOMAR",
         "url": "https://open.spotify.com/album/5c5y9U97aVoJKcGXZ8Dx91"
       },
@@ -1551,82 +1643,6 @@
       "duration_ms": 145779,
       "name": "D\u00c9JENME TOMAR",
       "url": "https://open.spotify.com/track/40SkbtGWQyvLpuve5bPfO2"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Pa La Amanecida (En Vivo)",
-        "url": "https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX"
-      },
-      "artists": [
-        {
-          "name": "Oscar Calin",
-          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
-        }
-      ],
-      "duration_ms": 234424,
-      "name": "Si Quieres - En Vivo",
-      "url": "https://open.spotify.com/track/0iRkOUNC7mMnpx7C4vYgi7"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Fumando Mota",
-        "url": "https://open.spotify.com/album/1jlpTCmPcTZ6BmFEyrLtsx"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Fumando Mota",
-      "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Morrito (Remix)",
-        "url": "https://open.spotify.com/album/5VZTVTe2FcDkVY72KRpGQv"
-      },
-      "artists": [
-        {
-          "name": "VADHIR",
-          "url": "https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Morrito - Remix",
-      "url": "https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
-      },
-      "artists": [
-        {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1651,34 +1667,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Tepito Buffa",
-        "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
       },
       "artists": [
         {
-          "name": "Proceder Elegante",
-          "url": "https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO"
+          "name": "Los Del Momento",
+          "url": "https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS"
         }
       ],
-      "duration_ms": 172822,
-      "name": "Tepito Buffa",
-      "url": "https://open.spotify.com/track/4YMUY0CX1Atj0w4gxyEbVg"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Ll\u00f3rame M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Ll\u00f3rame M\u00e1s Fuerte",
-      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
+      "duration_ms": 177640,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1699,34 +1699,34 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
+        "name": "Pa La Amanecida (En Vivo)",
+        "url": "https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX"
       },
       "artists": [
         {
-          "name": "Los Del Momento",
-          "url": "https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS"
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX"
+      "duration_ms": 234424,
+      "name": "Si Quieres - En Vivo",
+      "url": "https://open.spotify.com/track/0iRkOUNC7mMnpx7C4vYgi7"
     },
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Lujos Flamantes",
-        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
       },
       "artists": [
         {
-          "name": "Grupo Supr3me",
-          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
         }
       ],
-      "duration_ms": 148653,
-      "name": "Lujos Flamantes",
-      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

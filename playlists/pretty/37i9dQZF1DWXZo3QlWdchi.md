@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,574 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,649 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 22 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
 | 23 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 |
 | 24 | [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 |
-| 25 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
-| 26 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST) | 3:42 |
+| 25 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST) | 3:42 |
+| 26 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
 | 27 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
 | 28 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
 | 29 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 2:31 |
 
-Snapshot ID: `MCwxZTRlZGQ5NjI5MzQ3OGE2ZjkxNmFmYTY3NGYzYWYyYjJiMjk1NzU0`
+Snapshot ID: `MCwwNzY1Y2EwNzUxNjk1NTM0N2IxODBiM2M5NjA3ZjczOWJjYzNiNzVl`

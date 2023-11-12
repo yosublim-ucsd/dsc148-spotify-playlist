@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,992 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,982 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 18 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
 | 19 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
 | 20 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 |
-| 21 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 |
-| 22 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
+| 21 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
+| 22 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 |
 | 23 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
 | 24 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
 | 25 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [Father Comes Home](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 | 56 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MCwxYWQzOTgzMTg1Zjk4NGY2OGZmNzc5M2U1NmM5NWNmMTYzYjJiMDMx`
+Snapshot ID: `MCxhOGZkNjBiMjM3ZDA3MDc3Yzc3NDc2ZmI2MTk0M2Q4ZDFmYzlmNGQ0`

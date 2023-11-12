@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,580 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,613 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 52 | [The Doomed](https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm) | 4:41 |
 | 53 | [Mirrors](https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:06 |
 | 54 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 |
-| 55 | [Capital G](https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Year Zero](https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN) | 3:49 |
+| 55 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI) | [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 3:25 |
 | 56 | [Hate Conquers All](https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:46 |
-| 57 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 |
-| 58 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI) | [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 3:25 |
+| 57 | [Capital G](https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Year Zero](https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN) | 3:49 |
+| 58 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 |
 | 59 | [Walking In My Shoes](https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:51 |
 | 60 | [We Fight](https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:24 |
 | 61 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
 | 75 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 |
 
-Snapshot ID: `MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk`
+Snapshot ID: `MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj`

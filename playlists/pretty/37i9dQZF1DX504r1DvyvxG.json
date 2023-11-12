@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2656239,
+  "num_followers": 2656483,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmJiNzc4ODc1OGIwN2JhNWM5NDhjZTAzNThkMmQxNGVmMzg5ODM2",
+  "snapshot_id": "MCwyYjAwMmNmZWI5ZDFjOTgxMzQ1MDNhM2Q5Y2M0YWEzZDFkOWFiN2Zi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Uh-HUH!",
-        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 283666,
-      "name": "Pink Houses",
-      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Uh-HUH!",
+        "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 283666,
+      "name": "Pink Houses",
+      "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Best of Bread",
-        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
+        "name": "The Original Albums\u2026Plus",
+        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+      "duration_ms": 182240,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/0T0wSag4yiG1UB3jc2Z5Px"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Best of Bread",
+        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 388800,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "The Original Albums\u2026Plus",
-        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/0T0wSag4yiG1UB3jc2Z5Px"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Original Albums\u2026Plus",
+        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "Walkin\u2019 Back to Georgia",
+      "url": "https://open.spotify.com/track/54CS1nBt6zyxEiUWORTXmz"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Good Times! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 214960,
       "name": "Ooh La La - 2004 Remaster",
       "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "The Original Albums\u2026Plus",
-        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "Walkin\u2019 Back to Georgia",
-      "url": "https://open.spotify.com/track/54CS1nBt6zyxEiUWORTXmz"
     },
     {
       "added_at": "2023-03-31 04:00:00",

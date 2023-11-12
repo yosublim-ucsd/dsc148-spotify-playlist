@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 160512,
+  "num_followers": 160574,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzIwYjEzNDg3NDkxZWYzNGJhMTg2ZmJmMzQzMjkxMGE0N2FmY2Mw",
+  "snapshot_id": "MCw0YmQ5NDIwZjQzMTkyNWY5Mzk3MWRmYmY2MzRjNWRhMWYzMWM5MDk0",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 235025,
-      "name": "Hills and Valleys",
-      "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 222546,
       "name": "I Need A Miracle",
       "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 235025,
+      "name": "Hills and Valleys",
+      "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
     },
     {
       "added_at": "2020-07-23 14:38:16",

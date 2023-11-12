@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-651 songs - 1 day 9 hr 47 min
+652 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2023-09-01 | 2023-09-23 |
 | [Gimme More \- Spotify Singles](https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Spotify Singles](https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL) | 2:52 | 2023-05-31 | 2023-07-01 |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2022-10-07 |  |
-| [Give It To Me](https://open.spotify.com/track/1S4HPRUxROzKH5fVenmN9t) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Give It To Me](https://open.spotify.com/album/46xzbUFY7h7vDG4ZdLHaqx) | 2:52 | 2023-08-25 |  |
+| [Give It To Me](https://open.spotify.com/track/1S4HPRUxROzKH5fVenmN9t) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Give It To Me \- Single](https://open.spotify.com/album/46xzbUFY7h7vDG4ZdLHaqx) | 2:52 | 2023-08-25 |  |
 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 | 2022-05-27 | 2023-08-12 |
 | [Glide \- cover](https://open.spotify.com/track/7K3oVOub8m4XQr54pcOhqr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Glide \(cover\)](https://open.spotify.com/album/7ocua9hYnh95mgXEibBKmc) | 3:41 | 2022-06-03 | 2022-06-18 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 | 2023-09-02 |
@@ -274,7 +274,7 @@
 | [House We Share](https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [House We Share](https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa) | 2:47 | 2022-10-07 | 2023-04-01 |
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-29 | 2022-10-15 |
 | [how to love](https://open.spotify.com/track/0yo9larsomF52ozr81jCEm) | [JEN Z](https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b) | [how to love](https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD) | 3:33 | 2022-12-02 | 2023-07-20 |
-| [HSB](https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [HSB](https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ) | 2:34 | 2023-08-18 |  |
+| [HSB](https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [HSB](https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ) | 2:34 | 2023-08-18 | 2023-11-12 |
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2022-05-27 | 2022-08-16 |
 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-05 | 2023-10-04 |
 | [Hurricanes](https://open.spotify.com/track/4XH87UjBYFtVYar8CNmoTJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:22 | 2022-09-23 | 2022-10-08 |
@@ -547,6 +547,7 @@
 | [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 | 2023-09-22 | 2023-10-11 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-14 |  |
 | [Sweetness and Light](https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 5:17 | 2023-09-01 | 2023-09-23 |
+| [symphony \(feat\. JEY\)](https://open.spotify.com/track/75HlF3Lupjc6TMwmYR7kjN) | [Highvyn](https://open.spotify.com/artist/1HlyA7Fg1HymDUmG0xaB13), [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG) | [symphony \(feat\. JEY\)](https://open.spotify.com/album/1mFibFEygJopmsvcmW9Wtj) | 3:08 | 2023-11-10 |  |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-05-27 | 2022-06-11 |
 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 | 2023-07-14 | 2023-10-14 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2023-05-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 44806,
+  "num_followers": 44838,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjdiODJmZDA1YjViYzYxYWMwMDgyMDVlNDlmZmMyNmIyN2VkNTVm",
+  "snapshot_id": "MCxkZjMyYzA5ODA1NTY2NjQ4MmU1ODI2NjlhZDM3YmJiMjhjNmQ5Zjdi",
   "tracks": [
     {
       "added_at": "2023-11-10 02:53:33",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2023-11-10 02:53:33",
-      "album": {
         "name": "Viridian",
         "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 126093,
       "name": "Su Prabhat",
       "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
+    },
+    {
+      "added_at": "2023-11-10 02:53:33",
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 212164,
+      "name": "Cattle in the Cane",
+      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 212164,
-      "name": "Cattle in the Cane",
-      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
-    },
-    {
-      "added_at": "2023-11-10 02:53:33",
-      "album": {
         "name": "Song Up In Her Head",
         "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 171266,
       "name": "Mansinneedof",
       "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
+    },
+    {
+      "added_at": "2023-11-10 02:53:33",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
+        "name": "The David Grisman Quintet",
+        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
+      },
+      "artists": [
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Blue Midnite",
+      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
+    },
+    {
+      "added_at": "2023-11-10 02:53:33",
+      "album": {
         "name": "Double Banjo Bluegrass Spectacular",
         "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 287934,
       "name": "Carl\u2019s Breakdown",
       "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
-    },
-    {
-      "added_at": "2023-11-10 02:53:33",
-      "album": {
-        "name": "The David Grisman Quintet",
-        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
-      },
-      "artists": [
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Blue Midnite",
-      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2023-11-10 02:53:33",
-      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -1331,18 +1315,34 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Updraft",
-        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
       "artists": [
         {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
         }
       ],
-      "duration_ms": 356561,
-      "name": "Updraft",
-      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2023-11-10 02:53:33",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+        "name": "Updraft",
+        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2023-11-10 02:53:33",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2023-11-10 02:53:33",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2023-11-10 02:53:33",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-11-10 02:53:33",
       "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+    },
+    {
+      "added_at": "2023-11-10 02:53:33",
+      "album": {
         "name": "Weevils in the Grits",
         "url": "https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 221061,
       "name": "Weevils in the Grits",
       "url": "https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs"
-    },
-    {
-      "added_at": "2023-11-10 02:53:33",
-      "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2023-11-10 02:53:33",

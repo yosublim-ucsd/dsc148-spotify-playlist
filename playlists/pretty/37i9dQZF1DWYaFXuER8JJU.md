@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,270 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,318 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 40 | [Mi Luna, Mi Estrella](https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Desde Las Vegas](https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB) | 3:03 |
 | 41 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 |
 | 42 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:21 |
-| 43 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
-| 44 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 |
+| 43 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 |
+| 44 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 | 45 | [Con Olor a Hierba \- En Vivo](https://open.spotify.com/track/6mYckaSv04ZVmdsnYq347A) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:49 |
 | 46 | [Tragos Amargos \- Live At Nuevo León México/2009](https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 2:58 |
 | 47 | [Corazón de Oro \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1z23S5YZhteXztItJpblPV) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Un Desengaño \- En Vivo](https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [En Vivo Desde la Fogata](https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk) | 3:20 |
 | 75 | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/5IUjnIZr3LH26AhkKBPCS2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Supieran \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/1pPMfmXLCEtPWOdcBVmeB0) | 3:07 |
 
-Snapshot ID: `MCwwNzQ4YWQ4OTE2MjE2ZGJiZGJjZGEzY2RjYTExYzU3ZGZmZGQ3YjYx`
+Snapshot ID: `MCxhMDhlOTYyZThkN2FiM2UxMWM4YjFhZWYwZjMyODY2NmE2ZDRkOWRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,006 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,028 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 15 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
 | 16 | [Third Degree \- Remastered](https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 6:35 |
 | 17 | [Lonesome Bedroom Blues](https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Blowin' Like Hell](https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp) | 5:45 |
-| 18 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
-| 19 | [Sound Of A Broken Man](https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 4:51 |
+| 18 | [Sound Of A Broken Man](https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 4:51 |
+| 19 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
 | 20 | [Your Love Is Like A Cancer](https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 4:36 |
 | 21 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |
 | 22 | [If You Love Me Like You Say](https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:08 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 48 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 |
 | 49 | [Don't Take Advantage Of Me \- Remastered](https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x) | 5:23 |
 | 50 | [Born Under a Bad Sign](https://open.spotify.com/track/7au83e4LJnF9ckB3fPAGkT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Alligator Records Years](https://open.spotify.com/album/13MRYxSCSqfyJ1xvTE6TqI) | 4:56 |
-| 51 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
-| 52 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
+| 51 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
+| 52 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 
-Snapshot ID: `MCw1MzZkNjU2ODIyMzg5ODE5N2YzZTlhODQ0ODg2N2ZlZGNhOTlhZGUw`
+Snapshot ID: `MCxkNWZkN2YyOTRlODQ0ODU0Yzc2MDg2ZWNmMzA5Njk2NmQwNTU3ZTY2`

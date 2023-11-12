@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,494 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,590 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 63 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
 | 64 | [Bundelele](https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Bundelele](https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5) | 3:25 |
 | 65 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 |
-| 66 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
-| 67 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
+| 66 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
+| 67 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 68 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 | 69 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 70 | [Azonto Ghost](https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Thanks Giving](https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s) | 3:40 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 74 | [Simple](https://open.spotify.com/track/1ZneNgmfcgGBGshd7VgqBf) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Simple](https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh) | 4:13 |
 | 75 | [Ahayede](https://open.spotify.com/track/1zcxIb6URuZV1GAFpmc9OE) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/54tIGXCVvEV7V71w8XnxrB) | 5:00 |
 | 76 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 |
-| 77 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
-| 78 | [The Thing](https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu) | [Drumz](https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s) | [The Thing](https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n) | 4:52 |
-| 79 | [Igwe](https://open.spotify.com/track/3o015gK1MraodVKH1DKGBQ) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG) | 5:10 |
+| 77 | [Igwe](https://open.spotify.com/track/3o015gK1MraodVKH1DKGBQ) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG) | 5:10 |
+| 78 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
+| 79 | [The Thing](https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu) | [Drumz](https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s) | [The Thing](https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n) | 4:52 |
 | 80 | [Amorawa \- Bonus Track](https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL) | 4:02 |
 
-Snapshot ID: `MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj`
+Snapshot ID: `MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4`

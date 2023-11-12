@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Tr\u00e9 Burt",
-  "num_followers": 413394,
+  "num_followers": 413415,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGEyNzdiMjZlNjlkMDEyN2VmNTczOGRiNDI1YjQwNDg1NDY1ZDlm",
+  "snapshot_id": "MCw3OGU4YTg0ZmE5ZTc2ZWRkMzJjZjdjODAwNmNjMTBmZWNlYWVjZWRi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -531,18 +547,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "Another Friday Night / Hot Heavy Summer / Sister",
+        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+      "duration_ms": 229291,
+      "name": "Hot Heavy Summer",
+      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Slugeye",
+        "url": "https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -567,22 +603,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Slugeye",
-        "url": "https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Another Friday Night / Hot Heavy Summer / Sister",
-        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 229291,
-      "name": "Hot Heavy Summer",
-      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Mermaid Salt",
         "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 335859,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
       "artists": [
         {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+      "duration_ms": 229906,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 229906,
-      "name": "Saying Goodbye",
-      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 168000,
       "name": "August",
       "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Nick Waterhouse",
+        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "I Feel an Urge Coming On",
+      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Desert Woman",
         "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
@@ -2267,18 +2283,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nick Waterhouse",
-        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
       "artists": [
         {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 200813,
-      "name": "I Feel an Urge Coming On",
-      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2383,22 +2399,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
@@ -2411,6 +2411,22 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/3UQKlahxsfacw8vKmTYSzb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2431,18 +2447,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Thrilled To Be Here",
-        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
       "artists": [
         {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 194853,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/3UQKlahxsfacw8vKmTYSzb"
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/55RwdXfVSWCReqDBioMxVV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2507,22 +2523,6 @@
       "duration_ms": 196666,
       "name": "Blue Over Blue",
       "url": "https://open.spotify.com/track/5l8hwRyvvAqTpwhzbaSr8l"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Shepherd in a Sheepskin Vest",
-        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "What Comes After Certainty",
-      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
     }
   ],
   "unique_name": "Modern Eclectic",

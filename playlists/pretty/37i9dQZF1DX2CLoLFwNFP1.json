@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30998,
+  "num_followers": 31040,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGM3OGZmMjNlYTM0NjQzM2UyNDRjYjgyMTZjYTA1NjVmNzcwYTk1",
+  "snapshot_id": "MCwyNmJlNDkyYTE2MGVlZDU1ZTUwYTE3NjJkMDcwY2I5OGU1ZjE3NmEw",
   "tracks": [
     {
       "added_at": "2023-11-03 05:32:22",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "Think (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 231222,
+      "name": "Think (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "B.A.R.S (Vol. 1)",
         "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 164250,
       "name": "Sho Nuff (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "Think (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 231222,
-      "name": "Think (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "Everybody Sucks",
+        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 178442,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "B.A.R.S (Vol. 1)",
         "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 180811,
       "name": "Came Up (feat. Jay Park)",
       "url": "https://open.spotify.com/track/36iOyLIlGimlYeGmXgRZ5R"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "Everybody Sucks",
-        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
-      },
-      "artists": [
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 178442,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 236919,
+      "name": "The Truth Is",
+      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 225026,
       "name": "ALL IN (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "The Truth Is",
-      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
     },
     {
       "added_at": "2023-11-03 05:32:22",

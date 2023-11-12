@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,569 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,585 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 4 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 5 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 6 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
-| 7 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
-| 8 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 |
+| 7 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 |
+| 8 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
 | 9 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 10 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 11 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 45 | [All I Need](https://open.spotify.com/track/66stDprhtsjuhwS5oxg7ft) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:36 |
 | 46 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
 | 47 | [Normal](https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Normal](https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u) | 2:59 |
-| 48 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
-| 49 | [Hallucinate](https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Toward a Never Ending New Beginning](https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS) | 2:59 |
+| 48 | [Hallucinate](https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Toward a Never Ending New Beginning](https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS) | 2:59 |
+| 49 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
 | 50 | [She Pretends](https://open.spotify.com/track/6B8GIRuUKgN7CHx0yAHw6K) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Isaac Delusion](https://open.spotify.com/album/53NFdlmnX8Mqd9cW5Nzv2w) | 4:05 |
 
-Snapshot ID: `MCw5YjgwMjIzNjkwMDg0ZjcwYjEwY2M1OTA4YzAzM2U1Y2Y4N2Y4ZjY4`
+Snapshot ID: `MCxiMWFjYjk1ZGQzZjI5MDhhOGI0N2E2YjQ5OTU2Yjg0Mjg4OTY1MDJl`

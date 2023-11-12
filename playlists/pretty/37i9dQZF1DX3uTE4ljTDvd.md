@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,493 likes - 60 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,541 likes - 60 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 10 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 |
 | 11 | [Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/1fLVegrXjjxyZywzrxu7Gp) | [Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP) | 5:23 |
 | 12 | [Incomparável](https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Incomparável](https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0) | 5:00 |
-| 13 | [Aviva\-nos](https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Aviva\-nos](https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs) | 5:24 |
-| 14 | [Ver Além](https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Ver Além](https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH) | 4:49 |
+| 13 | [Ver Além](https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Ver Além](https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH) | 4:49 |
+| 14 | [Aviva\-nos](https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Aviva\-nos](https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs) | 5:24 |
 | 15 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [Tua Presença Vale Mais \(Ao Vivo\)](https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49) | 7:41 |
 | 16 | [Graça](https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Graça](https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47) | 5:41 |
 | 17 | [Só Faz Ajudar](https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Só Faz Ajudar](https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv) | 4:27 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 34 | [Pra Que Eu Fosse Livre](https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH) | [Klev](https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC) | [Pra Que Eu Fosse Livre](https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ) | 4:48 |
 | 35 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 |
 | 36 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
-| 37 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
-| 38 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
+| 37 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
+| 38 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
 | 39 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
 | 40 | [Meu Grande Amor \- Ao Vivo](https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Ao Vivo\)](https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI) | 10:34 |
 | 41 | [Basta Uma Palavra](https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Basta Uma Palavra](https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N) | 4:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [Em uma só voz](https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Kethelen Baittinger](https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5) | 6:06 |
 | 60 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
 
-Snapshot ID: `MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx`
+Snapshot ID: `MCxhODAzZDQ5ODgwZTY5NTQ4NzY1MDkwNmE0Y2QyYjE1ZjA2NjExYzUw`

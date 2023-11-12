@@ -4013,6 +4013,32 @@
     },
     {
       "album": {
+        "name": "Don Julio",
+        "url": "https://open.spotify.com/album/4RNTKkB0aPb3kNy52FwTr0"
+      },
+      "artists": [
+        {
+          "name": "Dyce Payso",
+          "url": "https://open.spotify.com/artist/2m1Dl2eo3Lg9z1fB7j5Hin"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175536,
+      "name": "Don Julio",
+      "url": "https://open.spotify.com/track/2YskGOje50wDnCR7CCL3DQ"
+    },
+    {
+      "album": {
         "name": "Jim Jones Presents Byrdgang 2.0",
         "url": "https://open.spotify.com/album/1EAT0YG3HgkgGEdMs9HkCL"
       },
@@ -4032,7 +4058,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 175536,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/6ieZa4v2pCBJmpSJYtkjk5"

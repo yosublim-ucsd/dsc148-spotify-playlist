@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 263575,
       "name": "Bloom In The Cold",
       "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
@@ -1776,6 +1776,32 @@
       "duration_ms": 397906,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7FhS0WDdcyWPQYzfagOp6n"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5uOJ0S5jLGpu9ELcUQTUmu"
+      },
+      "artists": [
+        {
+          "name": "Rob Hes",
+          "url": "https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu"
+        },
+        {
+          "name": "Joey White",
+          "url": "https://open.spotify.com/artist/29XdGiX6IB3Kj8NRdFxTtQ"
+        },
+        {
+          "name": "Fenna Day",
+          "url": "https://open.spotify.com/artist/3lwsAlLu8e5Vo67CgeM5NL"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290731,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7x0hW2ffqsVytFrBAKfDBX"
     },
     {
       "album": {
@@ -3467,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/79LUBKzBOTvjpbiG8VyPM8"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307552,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1u07aInE0YbotTqwvct90R"
+    },
+    {
+      "album": {
         "name": "First Contact",
         "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
       },
@@ -3926,7 +3970,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 225120,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9"
@@ -4397,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Heal My Mind",
+        "url": "https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Heal My Mind",
+      "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
+    },
+    {
+      "album": {
         "name": "HEART ATTACK / VAULTS",
         "url": "https://open.spotify.com/album/0SrZP210qeRNZd2G3ciNVt"
       },
@@ -4442,6 +4504,28 @@
       "duration_ms": 374274,
       "name": "Heart Breaker",
       "url": "https://open.spotify.com/track/4WVuuNGFq9CusXUdaviYPd"
+    },
+    {
+      "album": {
+        "name": "Heart on Hold",
+        "url": "https://open.spotify.com/album/4i5PRWBoNmWwV4YcWboLy9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224662,
+      "name": "Heart on Hold",
+      "url": "https://open.spotify.com/track/7klqcPyFmka0E9aqTsul7t"
     },
     {
       "album": {
@@ -4650,7 +4734,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 414600,
       "name": "Holocene, Pt. II",
       "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
@@ -4724,7 +4808,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
@@ -5088,7 +5172,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
@@ -5230,6 +5314,32 @@
       "duration_ms": 240860,
       "name": "In Our Hearts",
       "url": "https://open.spotify.com/track/2WK0vNlEM3pWOMpe4UIoMm"
+    },
+    {
+      "album": {
+        "name": "In The Dust",
+        "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
+      },
+      "artists": [
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        },
+        {
+          "name": "Jelen",
+          "url": "https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT"
+        },
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191570,
+      "name": "In The Dust",
+      "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
     },
     {
       "album": {
@@ -8064,7 +8174,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 208642,
       "name": "Prisma - Klanglos Remix - Radio Edit",
       "url": "https://open.spotify.com/track/512m11L55vWoUbqrkObdCz"
@@ -8514,6 +8624,24 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/6Wu82RRKxyysWofgHcfUlD"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447863,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/4YJ5mIkrwtMyZknV2uqx3z"
     },
     {
       "album": {
@@ -9307,6 +9435,28 @@
     },
     {
       "album": {
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "album": {
         "name": "Smiling Birds",
         "url": "https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ"
       },
@@ -9742,6 +9892,32 @@
       "duration_ms": 468816,
       "name": "Stone Flower - Original",
       "url": "https://open.spotify.com/track/1QrxggFof36TcpeREbDAXI"
+    },
+    {
+      "album": {
+        "name": "Subterranean",
+        "url": "https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Subterranean",
+      "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
     },
     {
       "album": {
@@ -10988,7 +11164,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -11956,7 +12132,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 210000,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8"
@@ -12116,6 +12292,24 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "album": {
+        "name": "You\u2019re So High (10 Years On)",
+        "url": "https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272573,
+      "name": "You\u2019re So High (10 Years On)",
+      "url": "https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP"
     },
     {
       "album": {

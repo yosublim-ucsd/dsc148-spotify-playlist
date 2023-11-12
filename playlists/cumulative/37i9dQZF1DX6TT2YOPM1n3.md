@@ -4,7 +4,7 @@
 
 > Current Pakistani hits under one roof\. Cover: AUR
 
-82 songs - 5 hr 4 min
+83 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-16 |  |
 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 | 2023-10-11 | 2023-10-21 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2023-05-04 | 2023-05-23 |
-| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-05-04 |  |
+| [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-06 |  |
+| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-05-04 | 2023-11-12 |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-07-31 |  |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-11 | 2023-09-30 |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2023-09-11 |  |

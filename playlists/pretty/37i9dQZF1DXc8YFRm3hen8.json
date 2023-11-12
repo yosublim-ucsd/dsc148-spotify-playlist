@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 162637,
+  "num_followers": 162679,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDI5NTJiODk2MWY5OWU0NTdjMWY0MjYzNzc4YTM1OWQ0ZTkwZGI1",
+  "snapshot_id": "MCw5NWE4NjhiYjBhYzBiNTc2ZTJiNjYyZGE5NjVhNmE3NmFiNzEyNmJl",
   "tracks": [
     {
       "added_at": "2023-11-10 15:21:05",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-10 15:21:05",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2023-11-10 15:21:05",
-      "album": {
         "name": "Voragine",
         "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 281386,
       "name": "Cae el Sol",
       "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "added_at": "2023-11-10 15:21:05",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2023-11-10 15:21:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-10 15:21:05",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
-    },
-    {
-      "added_at": "2023-11-10 15:21:05",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2023-11-10 15:21:05",
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2023-11-10 15:21:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-10 15:21:05",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
-    },
-    {
-      "added_at": "2023-11-10 15:21:05",
-      "album": {
         "name": "Caminos Br\u00edos",
         "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 337538,
       "name": "DOCTORA II",
       "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
+    },
+    {
+      "added_at": "2023-11-10 15:21:05",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
     },
     {
       "added_at": "2023-11-10 15:21:05",

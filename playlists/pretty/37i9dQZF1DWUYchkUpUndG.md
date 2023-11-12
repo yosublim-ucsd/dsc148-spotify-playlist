@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=GVqGYFNWQFuwsvEfuvEQtg">Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,252 likes - 116 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,281 likes - 116 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 115 | [Mercy](https://open.spotify.com/track/5jgCF840WwF57wL0DiINY7) | [Ayrton Young](https://open.spotify.com/artist/1Hlr9epllzC8pWq1jkvhBi) | [Gospel for the Lost](https://open.spotify.com/album/4HMTREHpCSTlVjNoaXItod) | 3:16 |
 | 116 | [We Join The Elders \(Spontaneous\)](https://open.spotify.com/track/3oIZO0wO1FdJXsPM590JfK) | [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK) | [Worship Alignment Revival \(W.A.R\)](https://open.spotify.com/album/0lsM2qhwx4hq1QKU0mHYa8) | 2:41 |
 
-Snapshot ID: `MCxkYjQyMjM5NmYwMThhZjdhMWQyZmNmYzA4NGNlNjMzNjgwZmFiMDlm`
+Snapshot ID: `MCwwYjY1ZTgwNjlmZDZjODdiNDEzZmQ4MWQzZTBkZGM2NjU0ODEwNDIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,279 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,322 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 79 | [III](https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz) | [Marco Giubileo](https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Kim Stone](https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3), [Roberto Soggetti](https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r), [Simone Boffa](https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR) | [III](https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU) | 3:51 |
 | 80 | [Del Mar](https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Del Mar](https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p) | 3:59 |
 | 81 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 |
-| 82 | [BE](https://open.spotify.com/track/3G0u0AWzgnwgJpkmGpxLgX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/21fHWfuOmJnpYGozQo9LCK) | 3:10 |
+| 82 | [BE](https://open.spotify.com/track/1ANBQN9O3eh7BWxAPD8VHs) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/5z07OB4UMfagVNpQOAErSU) | 3:10 |
 | 83 | [I'm Good \- radio single](https://open.spotify.com/track/5nSWbNXMgZZbVf16wiCp0f) | [Charles A\. Kelly](https://open.spotify.com/artist/61e513QSeet2Fwz8XvFegM) | [I'm Good](https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1) | 3:48 |
 | 84 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 |
 | 85 | [Stick It Out](https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV), [Eric Dubose](https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK) | [Stick It Out](https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCxjNjc2Yjg0NDgzODFmZWJjZDdmOGNkNWY0OWQxMDIyZDU2OWU5OGQ0`
+Snapshot ID: `MCxjNjY0ZThjMDM1MTIxOWJlZTdhM2E5OWRlYmE1ZGQ4Y2RjNTNjZTc4`

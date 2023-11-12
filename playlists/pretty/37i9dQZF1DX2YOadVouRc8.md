@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,160 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,185 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 54 | [imagine \(feat\. Aitch\)](https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:46 |
 | 55 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 |
 | 56 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 |
-| 57 | [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 |
-| 58 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
-| 59 | [BLESSING$](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSING$](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 |
+| 57 | [BLESSING$](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSING$](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 |
+| 58 | [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 |
+| 59 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
 | 60 | [Confident](https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Confident](https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23) | 3:05 |
 | 61 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 62 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 68 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 |
 | 69 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 |
 | 70 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 |
-| 71 | [Your Body \(feat\. Bnxn\)](https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Your Body \(feat\. Bnxn\)](https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK) | 2:10 |
-| 72 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
+| 71 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
+| 72 | [Your Body \(feat\. Bnxn\)](https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Your Body \(feat\. Bnxn\)](https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK) | 2:10 |
 | 73 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 |
 | 74 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 |
 | 75 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
 | 80 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
 
-Snapshot ID: `MCxjYjE4NzljZWQ5N2Y0YTM1MmM1ZmYyNWY3OWFmZDk2YTJkNDlkNjZk`
+Snapshot ID: `MCwwYmQ4ZTdmMWI0ZjNlMTJiY2M2ZTVjNTM3NzU3YzliYTA4ZGE4YjEy`

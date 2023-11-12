@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Ivana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,310 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,319 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 |
 | 50 | [OK](https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [OK](https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E) | 4:17 |
 
-Snapshot ID: `MCxkNzgwOGRjYzU1ZDQ0NTgzNjA5YWZjMTI4M2I4ZDQzNTFhMjgyMDBm`
+Snapshot ID: `MCwwMDY5NWZlYzk0MWVmNTgyZmIyZDgwNzZhNDc3NTU3NDA3YzQwMTQw`

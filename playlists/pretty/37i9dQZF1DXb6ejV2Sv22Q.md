@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,065 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,113 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 2 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
-| 3 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
+| 3 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
 | 4 | [WILLY WONKA](https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [WILLY WONKA](https://open.spotify.com/album/2Os3QmxdbApg0ejnSeF8pY) | 2:23 |
-| 5 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
+| 5 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
 | 6 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 7 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 |
 | 8 | [Mi Kryptonita](https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento De Vida](https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv) | 3:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 39 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 |
 | 40 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
 | 41 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
-| 42 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
-| 43 | [ABRE LAS PATOTAS](https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [ABRE LAS PATOTAS](https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI) | 2:49 |
+| 42 | [ABRE LAS PATOTAS](https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [ABRE LAS PATOTAS](https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI) | 2:49 |
+| 43 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
 | 44 | [Kerosene \- Slowed](https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX) | 2:22 |
 | 45 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 |
 | 46 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 59 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
 | 60 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 |
 
-Snapshot ID: `MCw3NTBmMWM3NTFjYTlkZDJmYzg3OWY0OWNmODI3OTQyY2JmMmUzMDQ2`
+Snapshot ID: `MCwzZjhjYmQ1NTk5N2MxOWFlYjk0NTBmMGQwNjI2MzllMjJlY2VhYTMx`

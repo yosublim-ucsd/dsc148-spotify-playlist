@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 39839,
+  "num_followers": 39871,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDJmMjJjNGVmMTk5Y2UyYjY3OWMzZGY2OWIxZDI1ZjYxNDBlZWUx",
+  "snapshot_id": "MCxlOTA0NjZlMDk4NDExZWE0OTgyMzJhMjE3YmUyOTRmZDgzMWJmMzYx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 197888,
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Las Flores De La Vida",
         "url": "https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 366200,
       "name": "Sofrito",
       "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 197888,
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
-      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Velvet Salsa All Stars",
         "url": "https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
     },
     {
       "added_at": "2023-02-13 22:55:50",

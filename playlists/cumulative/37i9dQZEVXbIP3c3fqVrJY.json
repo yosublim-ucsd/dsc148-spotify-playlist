@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 163636,
       "name": "Amsterdam (feat. Calin)",
       "url": "https://open.spotify.com/track/3Nw0MqRDVlJVuT7XGqObkZ"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 228000,
       "name": "Ban\u00e1ny (feat. Yzomandias)",
       "url": "https://open.spotify.com/track/2O8NHyMqPLRvbjt9wGZZBT"
@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -5400,7 +5400,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 204179,
       "name": "Domov m\u016fj",
       "url": "https://open.spotify.com/track/732l7cwEzEDiliwJfAm9fa"
@@ -6478,6 +6478,32 @@
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+    },
+    {
+      "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        },
+        {
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Fel\u00edme u auta",
+      "url": "https://open.spotify.com/track/6LUjtLAQofnSiuCL1krQKU"
     },
     {
       "album": {
@@ -8741,6 +8767,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
         "name": "R\u00c1DIO RYCHL\u00cd KLUCI",
         "url": "https://open.spotify.com/album/0Gom93YXvwf9pBtfxrjsCE"
       },
@@ -9818,6 +9862,28 @@
       "duration_ms": 156000,
       "name": "Jednou nohou tam",
       "url": "https://open.spotify.com/track/2EQ3fUf1zjUXmGAg5pnaWK"
+    },
+    {
+      "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Jej\u00ed pu$$y best",
+      "url": "https://open.spotify.com/track/05mmfY9uF3YPBShnatBQoo"
     },
     {
       "album": {
@@ -11289,6 +11355,24 @@
     },
     {
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
         "name": "Mumie",
         "url": "https://open.spotify.com/album/2lUOLdq8wcQyVwOwxls0vK"
       },
@@ -12194,7 +12278,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 176000,
       "name": "Lows",
       "url": "https://open.spotify.com/track/2CUSISoJHsVlanxEfaRn7k"
@@ -13376,6 +13460,28 @@
       "duration_ms": 133746,
       "name": "Mlha nad Jord\u00e1nem",
       "url": "https://open.spotify.com/track/3EaTpVCWVjZjna79S24hUG"
+    },
+    {
+      "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "MMA",
+      "url": "https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU"
     },
     {
       "album": {
@@ -14677,6 +14783,24 @@
     },
     {
       "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "NELITUJU",
+      "url": "https://open.spotify.com/track/3Q007eDfFeZenPt74o7pOj"
+    },
+    {
+      "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
       },
@@ -14722,6 +14846,24 @@
       "duration_ms": 222352,
       "name": "Nemusim m\u00edt v\u0161echno",
       "url": "https://open.spotify.com/track/2jq88uKJARyw1CDcAlM3bI"
+    },
+    {
+      "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Nemusim nic",
+      "url": "https://open.spotify.com/track/5an6AXqBokCZHSnOiXejPt"
     },
     {
       "album": {
@@ -16702,6 +16844,28 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "Perignon",
+      "url": "https://open.spotify.com/track/5ok9KhdS8YFt4FKcTnfVFm"
     },
     {
       "album": {
@@ -20964,7 +21128,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21054,7 +21218,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 111000,
       "name": "S\u00e1m proti sob\u011b",
       "url": "https://open.spotify.com/track/5piKQybO9jiWwRADTjUNbz"
@@ -23198,7 +23362,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 140326,
       "name": "Vitej",
       "url": "https://open.spotify.com/track/7EaJ7n3cuFmjtq2nLkRVrQ"
@@ -24926,6 +25090,28 @@
       "duration_ms": 170582,
       "name": "ZP\u00c1TKY NA SVOJ\u00cd PLANETU",
       "url": "https://open.spotify.com/track/5aPDg8Lt6Ci8gtD1VFPuWx"
+    },
+    {
+      "album": {
+        "name": "ZV\u00cd\u0158E",
+        "url": "https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "ZV\u00cd\u0158E",
+      "url": "https://open.spotify.com/track/58ypt23bFLHKBYPsKYPKXI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 526445,
+  "num_followers": 526495,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWQ3MzU1OTMwZjQ4NjgxMThlMDQyOTRkMGMxODM5YjkwMDJjMTA3",
+  "snapshot_id": "MCw4ZDRjYWZmMGMxYTRmZWNlMDhlM2JiYTQzODM3NmVmMDUyYmQ2ZDlj",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -814,10 +814,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "duration_ms": 232625,
@@ -947,22 +943,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Stay Flo",
-      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -975,6 +955,22 @@
       "duration_ms": 178066,
       "name": "Two Worlds Apart",
       "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Stay Flo",
+      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1015,22 +1011,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "EVERYTHING",
         "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
       },
@@ -1051,6 +1031,22 @@
       "duration_ms": 252778,
       "name": "Long Beach",
       "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1307,22 +1303,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -1347,6 +1327,22 @@
       "duration_ms": 311000,
       "name": "Shadow Man",
       "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1463,6 +1459,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1499,22 +1511,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Something For Your M.I.N.D.",
         "url": "https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP"
       },
@@ -1527,6 +1523,22 @@
       "duration_ms": 165391,
       "name": "Something For Your M.I.N.D.",
       "url": "https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1559,22 +1571,6 @@
       "duration_ms": 252797,
       "name": "Nothing Works",
       "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m"
     },
     {
       "added_at": "2023-09-16 00:49:46",

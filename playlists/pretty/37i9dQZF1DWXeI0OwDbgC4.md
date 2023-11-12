@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,594 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,618 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 15 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
 | 16 | [Broken](https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Broken](https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa) | 3:35 |
 | 17 | [The Breakup Song](https://open.spotify.com/track/5U4zBRfVdqaL1kOULNtZ1T) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 3:24 |
-| 18 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
-| 19 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 |
+| 18 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 |
+| 19 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
 | 20 | [Busted Heart \(Hold On To Me\)](https://open.spotify.com/track/3p6xfj47lt8TfOax2oB2Mr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Crave](https://open.spotify.com/album/6UoU5gg48va0GbZchRK1pw) | 3:18 |
 | 21 | [Safe](https://open.spotify.com/track/55s8YHBut1n9rtE44jAHxJ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 3:40 |
 | 22 | [fast forward](https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [fast forward](https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 50 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
 
-Snapshot ID: `MCxhMjE0MGYxZGRlODg5NjYxNWVhNTlkZDBmZDNhOTlkZjg5NzUyZWJk`
+Snapshot ID: `MCw0YWM5ZTAxNThmYzAwMWE5ZjA2NzhhYTMzZWNmZDEzZjg0NDZhMjIw`

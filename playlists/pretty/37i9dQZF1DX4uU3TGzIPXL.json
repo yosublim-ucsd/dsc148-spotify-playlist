@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 552384,
+  "num_followers": 552442,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTRjYzM2ZWNjOTMwNDZhNDE2ZmZkYzNmNGVkZTRiYjU4OWE1ZWY5",
+  "snapshot_id": "MCw3YjdhYzExNjljMGEyMDdiMmNlYjQ1NDgyMmI3NTllMmQ3YjNjZGM5",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Best of Big Mountain",
-        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 198066,
       "name": "(You Drive Me) Crazy",
       "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "The Best of Big Mountain",
+        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 212133,
       "name": "Ecuador - Original Radio Edit",
       "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
-      },
-      "artists": [
-        {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     }
   ],
   "unique_name": "Summer Hits of the 90s",

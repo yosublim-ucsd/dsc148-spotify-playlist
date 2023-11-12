@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,124 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,205 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 31 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
 | 32 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
 | 33 | [Wee \(Allen's Alley\)](https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Ultimate Stan Getz](https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm) | 8:27 |
-| 34 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
-| 35 | [Nutville](https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Best Of Horace Silver](https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT) | 7:15 |
-| 36 | [Super Jet](https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:53 |
-| 37 | [Toy](https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean?](https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS) | 5:06 |
+| 34 | [Nutville](https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Best Of Horace Silver](https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT) | 7:15 |
+| 35 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
+| 36 | [Toy](https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean?](https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS) | 5:06 |
+| 37 | [Super Jet](https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:53 |
 | 38 | [Now's the Time \- Remastered Version](https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird \(Remastered Version\)](https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh) | 3:16 |
 | 39 | [Donna Lee](https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 6:17 |
 | 40 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 | 65 | [Just One Of Those Things](https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py) | 7:16 |
 
-Snapshot ID: `MCxiNTY0Y2FiZjUyNGYwOTk1Y2U2OWJlYWQ5MzIwZDQ1M2E0MWUwNzg3`
+Snapshot ID: `MCwxMjAyMzk3YmE0YzAzMjcxMjc2M2NlYjBlYjY3YzNhMzNjNzdkNTBm`

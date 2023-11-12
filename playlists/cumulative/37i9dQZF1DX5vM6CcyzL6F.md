@@ -4,7 +4,7 @@
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-192 songs - 15 hr 23 min
+195 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/7zO3aqpeehg2MF0zNecM5U) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Salsa para dedicar](https://open.spotify.com/album/4tPn2hQbiGfGo7wNN0AhEr) | 4:32 | 2022-08-02 | 2022-12-16 |
 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 | 2022-08-02 |  |
 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 | 2022-08-02 |  |
-| [Gitana](https://open.spotify.com/track/7z6B88iQ5xxMZNR2QeTbsr) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Clásicos de la Salsa](https://open.spotify.com/album/5RYIz4wklu0p2lLs6obluI) | 6:54 | 2022-08-02 |  |
+| [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 | 2022-08-02 |  |
+| [Gitana](https://open.spotify.com/track/7z6B88iQ5xxMZNR2QeTbsr) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Clásicos de la Salsa](https://open.spotify.com/album/5RYIz4wklu0p2lLs6obluI) | 6:54 | 2022-08-02 | 2023-11-12 |
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2022-08-02 |  |
 | [Gracias Amor](https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N) | [Matecana Orquesta](https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl) | [Que Bueno](https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St) | 4:49 | 2022-08-02 |  |
 | [Hasta Aquí Te Fui Fiel](https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [30 Exitos Insuperables](https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2) | 4:24 | 2022-08-02 |  |
@@ -106,7 +107,8 @@
 | [Las Caleñas Son Como las Flores \(Remix\)](https://open.spotify.com/track/1g6ecQMjIB8t9LOBETovrs) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Se Pega, Se Pega](https://open.spotify.com/album/7Arrg2rSiToFErzU1kyb80) | 3:53 | 2022-08-02 | 2022-11-13 |
 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 | 2022-08-02 |  |
 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 | 2022-08-02 |  |
-| [Lluvia](https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Sabrosa](https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt) | 4:56 | 2022-08-02 |  |
+| [Lluvia](https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Sabrosa](https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt) | 4:56 | 2022-08-02 | 2023-11-12 |
+| [Lluvia](https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:57 | 2022-08-02 |  |
 | [Mala Mujer](https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Colección de Oro](https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh) | 3:52 | 2022-08-02 |  |
 | [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 | 2022-08-02 |  |
 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2022-08-02 | 2023-03-04 |
@@ -180,7 +182,8 @@
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2022-08-02 |  |
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/7qn83bgVfVBISsISKIdILC) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [Greatest Salsa Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/3k5FHIHUumKgyMTteH4ckq) | 4:45 | 2022-08-02 | 2022-11-13 |
 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 | 2022-08-02 |  |
-| [Tú Con Él](https://open.spotify.com/track/7zd2nvoRYOOp8Laqh6HfM4) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Yo me quedo en casa Salsa](https://open.spotify.com/album/2cYjBkFDCEzmkz4UPso2GM) | 5:02 | 2022-08-02 |  |
+| [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 | 2022-08-02 |  |
+| [Tú Con Él](https://open.spotify.com/track/7zd2nvoRYOOp8Laqh6HfM4) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Yo me quedo en casa Salsa](https://open.spotify.com/album/2cYjBkFDCEzmkz4UPso2GM) | 5:02 | 2022-08-02 | 2023-11-12 |
 | [Tú Me Haces Falta](https://open.spotify.com/track/7zYbsxjRlZgJO2H6HJzgvC) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Buenaza](https://open.spotify.com/album/0JHeYGXv7slRTTRcBr6jl6) | 4:39 | 2022-08-02 |  |
 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 | 2022-08-02 |  |
 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:55 | 2022-08-02 | 2023-09-15 |

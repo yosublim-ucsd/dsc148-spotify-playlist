@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-245 songs - 20 hr 2 min
+246 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Walk In The Park \- Moodymann Remix](https://open.spotify.com/track/4L1cTkm5pw0OluxjVVYZF9) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [A Walk In The Park \(Moodymann Remix\)](https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u) | 5:22 | 2023-08-25 |  |
 | [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 | 2022-07-29 | 2023-04-05 |
 | [All I Want \- Original Mix](https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M) | [The Archer](https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU) | [All I Want](https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz) | 4:03 | 2022-08-19 | 2023-03-19 |
+| [Alley Rave](https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq) | 6:04 | 2023-11-10 |  |
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 | 2023-11-06 |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 | 2023-07-15 |
 | [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 | 2023-08-18 |  |
@@ -97,7 +98,7 @@
 | [Hyper](https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Hyper](https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8) | 3:43 | 2022-07-15 |  |
 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 | 2022-06-03 |  |
 | [Inertia](https://open.spotify.com/track/6kcysA1uaHhFBv9vu1Lt3f) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg), [Made of Oak](https://open.spotify.com/artist/6dWVt38ueCw46cGnWDbTl8) | [Inertia](https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I) | 3:32 | 2022-07-08 | 2022-07-29 |
-| [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 |  |
+| [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 | 2023-11-12 |
 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 | 2023-09-22 |  |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 | 2023-10-15 |
 | [Jump Ship](https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC) | 6:21 | 2023-10-27 |  |

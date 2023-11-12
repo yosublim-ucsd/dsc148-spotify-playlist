@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,493 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,573 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 37 | [Hands Up To The Sky](https://open.spotify.com/track/0WExP6ei2lDqW6WDPlfYOq) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Hands Up To The Sky](https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6) | 3:24 |
 | 38 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 |
 | 39 | [Tacones Rojos \- With John Legend](https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tacones Rojos \(With John Legend\)](https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO) | 3:08 |
-| 40 | [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 |
+| 40 | [Caroline](https://open.spotify.com/track/5HbMIVh2Knh6iSLEXkTyi2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 3:43 |
 | 41 | [End Of Us](https://open.spotify.com/track/2SYl3bvRgD7lLWh7r5I4Cy) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [End Of Us](https://open.spotify.com/album/4zeUvrcjEQx4wv4phJSjVK) | 2:53 |
 | 42 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 43 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
 | 75 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 |
 
-Snapshot ID: `MCwxMDNjNGVmM2U4YTRlNGMzYmE4NDM4NzI5NGY0ODdiYWJiNjdiNGVh`
+Snapshot ID: `MCxiMGJmNDZmN2RmMWM5ODRjYWIyMGVhMDgzMzM4NWJjYmJmNThhMWZh`

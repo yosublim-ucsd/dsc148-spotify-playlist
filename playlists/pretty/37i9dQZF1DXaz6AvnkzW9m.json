@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Tomas Ballardo en portada.",
-  "num_followers": 110324,
+  "num_followers": 110437,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGI4ZTIyZTBlZGM0MTM3ZTMzM2FkMGY0MjU2MzI4OTE5MTliODBk",
+  "snapshot_id": "MCxmNTkyNjc3MzM4ZDQwMDdmYWQ5MTdkYTA0NzcxY2VjYTBlNmY3ZmE0",
   "tracks": [
     {
       "added_at": "2023-11-10 15:24:01",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
+        "name": "Modo DND",
+        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Modo DND",
+      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
+    },
+    {
+      "added_at": "2023-11-10 15:24:01",
+      "album": {
         "name": "Negro Como La Pantera",
         "url": "https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr"
       },
@@ -359,22 +379,6 @@
       "duration_ms": 129953,
       "name": "Negro Como La Pantera",
       "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
-    },
-    {
-      "added_at": "2023-11-10 15:24:01",
-      "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2023-11-10 15:24:01",
@@ -443,22 +447,18 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
-        "name": "Modo DND",
-        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 220298,
-      "name": "Modo DND",
-      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2023-11-10 15:24:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
-        "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
-        "url": "https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v"
-      },
-      "artists": [
-        {
-          "name": "Jared Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
-        }
-      ],
-      "duration_ms": 161378,
-      "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
-      "url": "https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY"
-    },
-    {
-      "added_at": "2023-11-10 15:24:01",
-      "album": {
         "name": "Modo Insano",
         "url": "https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 196551,
       "name": "Modo Insano",
       "url": "https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi"
+    },
+    {
+      "added_at": "2023-11-10 15:24:01",
+      "album": {
+        "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
+        "url": "https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v"
+      },
+      "artists": [
+        {
+          "name": "Jared Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
+        }
+      ],
+      "duration_ms": 161378,
+      "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
+      "url": "https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY"
     },
     {
       "added_at": "2023-11-10 15:24:01",

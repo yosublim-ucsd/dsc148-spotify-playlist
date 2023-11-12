@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Danny Schiller.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,844 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,837 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 12 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 |
 | 13 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
 | 14 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
-| 15 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 |
-| 16 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
+| 15 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
+| 16 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 |
 | 17 | [911](https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:17 |
 | 18 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 19 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 44 | [egodeath](https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [egodeath](https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU) | 3:14 |
 | 45 | [estrella](https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:46 |
 | 46 | [Garden \- SIDE A](https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 1:12 |
-| 47 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 |
-| 48 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 |
-| 49 | [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 |
-| 50 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
+| 47 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 |
+| 48 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 |
+| 49 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 |
+| 50 | [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 |
 
-Snapshot ID: `MCw4NjU4ODczMWM1ODI5ZTMwMmQ4YTA5MjI5N2Q5MjA5MTVhNDk2OTQ2`
+Snapshot ID: `MCw4ZmUwMzcwOGM3YWZlMjBlOGQ2OTAzNDRjMzdjODY2MmUwMjEwMWU2`

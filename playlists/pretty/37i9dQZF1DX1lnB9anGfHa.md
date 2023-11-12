@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,299 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,340 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 15 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
 | 16 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 |
 | 17 | [Viconian Cycles](https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sin Maldita](https://open.spotify.com/artist/1HkwulQDUEiddSaIqlWTFJ) | [Accela](https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX) | 3:19 |
-| 18 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
+| 18 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 |
 | 19 | [Knitting night](https://open.spotify.com/track/3W2O2Ysw9OhT39hVWyTmpU) | [Babi](https://open.spotify.com/artist/7Kuucb5jItOXxUA4AG6wKt) | [Hotori](https://open.spotify.com/album/1xDVA6oSMgse7hqqKoSFiP) | 2:52 |
 | 20 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 |
-| 21 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 |
+| 21 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 22 | [Inquietum](https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Sigillata Luce](https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva) | 5:09 |
 | 23 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 |
 | 24 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 25 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
 | 26 | [Shake well before use](https://open.spotify.com/track/6JnPiDL5e9Z56jWahzGWMY) | [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj) | [Sway](https://open.spotify.com/album/6XplDOCrKwqK9MzH7HZQvN) | 5:40 |
-| 27 | [Twist](https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 7:03 |
-| 28 | [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 |
+| 27 | [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 |
+| 28 | [Twist](https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 7:03 |
 | 29 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
 | 30 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
 | 31 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 37 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 38 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 |
 | 39 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
-| 40 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
-| 41 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 |
+| 40 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 |
+| 41 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
 | 42 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
 | 43 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 44 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 |
 | 45 | [Dicen](https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:44 |
 | 46 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
-| 47 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
-| 48 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 |
+| 47 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 |
+| 48 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
 | 49 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 50 | [Teeth Agape](https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:35 |
 
-Snapshot ID: `MCxiNzI2YWRlYTJjN2M1Yzk4M2Q2YjhiNWIyMzllMWY1YzMwNWQwNDM3`
+Snapshot ID: `MCxmYzIxYmNmYjIwMmI4YzRlMWRiN2FiZjdlZDZmNDg1Y2FmMGIzOTg3`

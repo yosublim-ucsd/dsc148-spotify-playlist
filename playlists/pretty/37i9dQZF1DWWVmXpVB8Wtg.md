@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,002 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 23 | [Puppet](https://open.spotify.com/track/0ehGrMuw8VqVK3wz5xCk5s) | [Cream](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr) | [Puppet](https://open.spotify.com/album/0FtiUhuWshUIS6mB0h90C9) | 2:11 |
 | 24 | [All Night](https://open.spotify.com/track/7rKGvXnpU864MlZBrqM8P2) | [DJ CONAN](https://open.spotify.com/artist/5embnPI6kgIoUo47TzSfk5), [Sawnboy](https://open.spotify.com/artist/3XP2WAwVCQTNWPP39DLAo6) | [All Night](https://open.spotify.com/album/0VvR01R52Uy6lCFDr0cTYb) | 2:55 |
 | 25 | [Maybe I](https://open.spotify.com/track/151QJmJUuopi0h6zbABYlX) | [DJ KEIKO](https://open.spotify.com/artist/0Xi1WX8JNayhDKMoDxJX6g) | [Maybe I](https://open.spotify.com/album/0uttTlQtihX8o1JOBgH8oH) | 3:04 |
-| 26 | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/track/2vonFHQE4R9VsEktEH6kNQ) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/album/4vcpZ5tZDmXUcSZAVkOke5) | 2:46 |
+| 26 | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/track/1ytGwhHbITRNT1NFjKbWsB) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/album/6qMr7pvLpgTwdQ2hdzV3CN) | 2:46 |
 | 27 | [Unstoppable](https://open.spotify.com/track/1ChzSWl0Pb4jFShtmDf6MK) | [39 Kingdom](https://open.spotify.com/artist/2JnQtHnHjylFjCDkYAiH1E), [DJ Tiara](https://open.spotify.com/artist/3d6DPNGqyror7qe0EI8sbk) | [Unstoppable](https://open.spotify.com/album/7y681bknYU29B9Z4sX6Uz3) | 2:33 |
 | 28 | [HIGHER](https://open.spotify.com/track/4oGZCvLL7bk8dico4GeQlF) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [COLORS](https://open.spotify.com/album/4g9zqr1nUB5QFzUAxvabvi) | 3:39 |
 | 29 | [Underworld](https://open.spotify.com/track/3L7zm4Oxg8UOr0Q7vYGyAc) | [Cream](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr) | [Underworld](https://open.spotify.com/album/7jMKWla0HcIxnaFMusH5tV) | 2:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 47 | [Be Strong](https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Be Strong / Feel So Alive](https://open.spotify.com/album/56MfOl25QadLcpTnGND4p0) | 3:20 |
 | 48 | [Matured Gentility](https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk) | [Dj Void](https://open.spotify.com/artist/53Cd2RdnIpJIjiSNBSz7GQ) | [Matured Gentility](https://open.spotify.com/album/37ew4eBhDg3RXKCOHlr2Zn) | 12:55 |
 
-Snapshot ID: `MCxkN2JlM2U2ZGVkYjA0OTdhOGUxMmUzZGIwZWZjZjZmYWVhYzBhMWRl`
+Snapshot ID: `MCxiZTBmNzdlYmI3MmQ3MWVkM2JiZDdlOTc1Mjk5ODA4ODkxMDk0YjBl`

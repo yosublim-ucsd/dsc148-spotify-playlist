@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: NIJI",
-  "num_followers": 300321,
+  "num_followers": 300419,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmU5ZjVkN2RkNzY0NzEwYWVjN2JlMjI3NTI0NGFmZjIyMTJhNzM5",
+  "snapshot_id": "MCw0ZTU3NWM1MmFlOTEzYjViNzhkMTc5NDQwZTBjZTFjMDM3ODQ5NTQ4",
   "tracks": [
     {
       "added_at": "2023-11-10 00:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Rust (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "Did It Yesterday",
         "url": "https://open.spotify.com/album/0m6WGHrwytB2bwuREPC7uR"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 188401,
       "name": "Did It Yesterday",
       "url": "https://open.spotify.com/track/1CB55jCLNOG1Ch11sttXJa"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Mountains, Trees and Seas",
-        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
+        "name": "High",
+        "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
       },
       "artists": [
         {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
         }
       ],
-      "duration_ms": 306093,
-      "name": "Mountains, Trees and Seas",
-      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
+      "duration_ms": 176611,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
+        "name": "Mountains, Trees and Seas",
+        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
       },
       "artists": [
         {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
         }
       ],
-      "duration_ms": 176611,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
+      "duration_ms": 306093,
+      "name": "Mountains, Trees and Seas",
+      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Stings",
-        "url": "https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Corey Fonville",
-          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Magnolia II",
-      "url": "https://open.spotify.com/track/5P7SWP6NrHNmWcvLCfmwkk"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "STR4TASFEAR Remixes",
         "url": "https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL"
       },
@@ -1091,6 +1067,30 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
+        "name": "Stings",
+        "url": "https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Magnolia II",
+      "url": "https://open.spotify.com/track/5P7SWP6NrHNmWcvLCfmwkk"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
         "name": "Voice Notes",
         "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 277026,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
-        "name": "Far Too Much (Edit)",
-        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 195945,
-      "name": "Far Too Much - Edit",
-      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1139,8 +1123,8 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
       },
       "artists": [
         {
@@ -1148,9 +1132,25 @@
           "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "Far Too Much (Edit)",
+        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 195945,
+      "name": "Far Too Much - Edit",
+      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Freudian Slips",
-        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+        "name": "The Morning Side of Love",
+        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 163516,
-      "name": "Freudian Slips",
-      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+      "duration_ms": 233120,
+      "name": "The Morning Side of Love",
+      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "The Morning Side of Love",
-        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 233120,
-      "name": "The Morning Side of Love",
-      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
       "artists": [
         {
@@ -1328,17 +1328,13 @@
           "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         },
         {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 237507,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1419,18 +1415,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "angel numbers",
-        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
       "artists": [
         {
-          "name": "MaZz",
-          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 149968,
-      "name": "angel numbers",
-      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     }
   ],
   "unique_name": "Jazz UK",

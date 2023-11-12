@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: CHAI
 
-1,016 songs - 2 day 12 hr 22 min
+1,017 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [HERO](https://open.spotify.com/track/2BfCg6kP5lhQq1Pq71lcZu) | [SHACHI](https://open.spotify.com/artist/7cbMeZ6uWpXjamJTYM5KFy) | [HERO](https://open.spotify.com/album/7ryfO5tIUkRaRQxc8sr0HE) | 3:14 | 2022-02-01 | 2022-03-08 |
 | [High \(feat\. Campanella\)](https://open.spotify.com/track/3TMHpzaiMmou90bOIWnetM) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [翡翠 \( hisui \)](https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8) | 4:16 | 2022-10-04 | 2022-11-09 |
 | [Higher](https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Higher](https://open.spotify.com/album/33puTLfeTdH7qtYckm305L) | 3:54 | 2022-07-05 | 2022-08-03 |
-| [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud) | 3:21 | 2023-10-03 |  |
+| [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud) | 3:21 | 2023-10-03 | 2023-11-12 |
+| [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/0Q85VZZG5tdNZMS0XyI55z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/0XSYmRn68wPGVdhjwzz3Jb) | 3:24 | 2023-11-07 |  |
 | [Highway Star, Speed Star](https://open.spotify.com/track/24mssXlFWI2yqDxIKyxdOz) | [Cymbals](https://open.spotify.com/artist/6SMP2z9rViDs6YNCXtCj29), [内田晴元](https://open.spotify.com/artist/0tyFs1AR7CN6SJktxcE11Z), [小泉一郎](https://open.spotify.com/artist/2kTBUEN2ycoPRCxkfR1mVo), [米山美弥子](https://open.spotify.com/artist/1RY91WE9NFfgt9eqPYINLB) | [Mr.Noone Special（通常盤）](https://open.spotify.com/album/44fNzdefeOROF0CrZkGTqI) | 4:21 | 2023-08-01 | 2023-09-06 |
 | [Hikari](https://open.spotify.com/track/2FA1QEFGkhIXXPj6OnoP53) | [Princess Ketamine](https://open.spotify.com/artist/2VRJCeIzOtfUI3mZnEmfqy), [CVN](https://open.spotify.com/artist/19W7Iq71CaCJpLRiYp55rr), [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Hikari](https://open.spotify.com/album/5vYseIVfkkBnBXj9nbdyU7) | 3:34 | 2023-02-01 | 2023-03-01 |
 | [Hitotsuyane no Shita feat\. Kyoko Koizumi](https://open.spotify.com/track/034AV3t5HvIo7R6v2xHmHe) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Duets](https://open.spotify.com/album/5KRokKlLam580G33c38UvD) | 5:43 | 2023-09-05 | 2023-11-08 |

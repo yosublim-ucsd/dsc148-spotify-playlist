@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123402,
+  "num_followers": 123428,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRiMmNkMzEyZjdiNDMxOGM3OGJlZjEzMmVhNWI4MmRiNzBiZGI0",
+  "snapshot_id": "MCxiZTE0OTFlYzJiMWI4ZGE5ZmU5ZTU1ZjZkZjFlMmMzMTBjOGRjMmU4",
   "tracks": [
     {
       "added_at": "2023-11-09 16:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 238336,
-      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
-      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
         "name": "\u660e\u5ba4",
         "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 259308,
       "name": "\u660e\u5ba4",
       "url": "https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 238336,
+      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
+      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
     },
     {
       "added_at": "2023-11-09 16:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
-        "name": "\u5728\u5e55\uff08Moods\uff09",
-        "url": "https://open.spotify.com/album/1QCNUNNdjWn7gR0wgLbnWX"
-      },
-      "artists": [
-        {
-          "name": "Hubert Wu",
-          "url": "https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5"
-        }
-      ],
-      "duration_ms": 178692,
-      "name": "\u611b\u662f\u60f3\u89f8\u78b0\u537b\u6536\u56de\u624b",
-      "url": "https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
         "name": "\u84cb\u4e16\u82f1\u96c4",
         "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
       },
@@ -703,22 +687,6 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
-        "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
-        "url": "https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY"
-      },
-      "artists": [
-        {
-          "name": "W.M.L",
-          "url": "https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
-      "url": "https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "\u5728\u5e55\uff08Moods\uff09",
+        "url": "https://open.spotify.com/album/1QCNUNNdjWn7gR0wgLbnWX"
+      },
+      "artists": [
+        {
+          "name": "Hubert Wu",
+          "url": "https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5"
+        }
+      ],
+      "duration_ms": 178692,
+      "name": "\u611b\u662f\u60f3\u89f8\u78b0\u537b\u6536\u56de\u624b",
+      "url": "https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
+        "url": "https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY"
+      },
+      "artists": [
+        {
+          "name": "W.M.L",
+          "url": "https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
+      "url": "https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM"
     },
     {
       "added_at": "2023-11-09 16:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
+        "name": "\u534a\u719f\u7406\u60f3",
+        "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 265694,
+      "name": "\u88dd\u98fe\u97f3",
+      "url": "https://open.spotify.com/track/7iC1d22Q9zG0XQZvITqetB"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

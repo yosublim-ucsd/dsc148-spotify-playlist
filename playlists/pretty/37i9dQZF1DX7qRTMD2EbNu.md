@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew?si=EJ4N\-5N0TK\-u\-Q6bI2WdLQ"> Amerado</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,085 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,106 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Kai Me](https://open.spotify.com/track/0rJa955M9QtlA6tNOSBDzy) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4) | [Kai Me](https://open.spotify.com/album/2ATGjmkksfDn9WY1VJ9MX5) | 2:28 |
 | 70 | [Wossop](https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KWW](https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:50 |
 
-Snapshot ID: `MCwxODMxYjNkYmE5Nzk2M2M3M2U1YjhkMjU0ODM5ZjUyNjE1NjRlOWU4`
+Snapshot ID: `MCxiYjcxOGViZTYyZjQ2YWEyY2VlMWQ4YjE5ZDM1ZDk0N2Y2OGMzNTZk`

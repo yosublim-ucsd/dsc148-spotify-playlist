@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 286783,
+  "num_followers": 286804,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmFjMDEzYzVmMzlmMDQyOWZlZDg3ODRmNTI3NjI5MjFkZjgyODlk",
+  "snapshot_id": "MCw4NzljZGEzNmIwMTgzYTliMTE1YWY3ZjE5ZGMyMDRhYTJjZTk1OGM4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -27,18 +27,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
       "artists": [
         {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        },
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+      "duration_ms": 269333,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
       "added_at": "2023-11-08 23:01:54",
@@ -59,22 +63,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
       "artists": [
         {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
         }
       ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 269952,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 269952,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "I'm on Fire",
         "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 158620,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 180093,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
         }
       ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 171315,
       "name": "Cooking",
       "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Can I Call You Tonight? / Quarterback",
-        "url": "https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX"
-      },
-      "artists": [
-        {
-          "name": "Cal in Red",
-          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Can I Call You Tonight? / Quarterback",
-      "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Can I Call You Tonight? / Quarterback",
+        "url": "https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX"
+      },
+      "artists": [
+        {
+          "name": "Cal in Red",
+          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Can I Call You Tonight? / Quarterback",
+      "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
       },
@@ -1271,26 +1271,6 @@
       "duration_ms": 187333,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Broken Glass, Vol. 6",
-        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        },
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "He Thinks He'll Keep Her",
-      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1311,6 +1291,26 @@
       "duration_ms": 280086,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Broken Glass, Vol. 6",
+        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Attack of the Ghost Riders",
-        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Attack of the Ghost Riders",
+        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Stolen Time Deluxe",
-        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Stolen Time Deluxe",
+        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I Kissed a Boy",
-        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "I Kissed a Boy",
-      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 199062,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "I Kissed a Boy",
+        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "I Kissed a Boy",
+      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
     }
   ],
   "unique_name": "Indie Covers",

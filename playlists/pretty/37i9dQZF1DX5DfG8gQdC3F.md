@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Dua Lipa, Keys N Krates & Ciara, Chris Stapleton, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,992 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,027 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 81 | [Montagna](https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Goosebytheway](https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh) | [Montagna](https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9) | 2:54 |
 | 82 | [call me when you get this](https://open.spotify.com/track/2wNETTvrNQr9TWxDuQNUAa) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [call me when you get this](https://open.spotify.com/album/6dT5rwpc4E9cBA1eEBDtzb) | 2:46 |
 | 83 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 |
-| 84 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/4nRmveNzuC92Hv021si5q6) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
+| 84 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 | 85 | [Breakfast](https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Breakfast](https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc) | 2:25 |
 | 86 | [Come Home](https://open.spotify.com/track/0SMOkDI3SOR7ZCxtVX9wz0) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Come Home](https://open.spotify.com/album/6Br906z423NOea2hctNWEg) | 4:53 |
 | 87 | [Stop](https://open.spotify.com/track/4qCAui1JUDvvGQMC2pTprq) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Stop](https://open.spotify.com/album/7FyYkRnLgNJY018Pn2o38c) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Rover](https://open.spotify.com/track/1YP0n7aiiVMLcfabNU81Pc) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Rover](https://open.spotify.com/album/18rfNijDjPfVOeqSo9t212) | 3:39 |
 | 100 | [forever](https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [forever](https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye) | 4:00 |
 
-Snapshot ID: `MCwyOGUwY2Y3ZTIzMDQ5MWQ0ZWNlMmRhMjk1M2RjNWI3MTk1MTI0NmY3`
+Snapshot ID: `MCxjYzU3ZDBmYzE3ZjM2OTQzNzI4YjI2ZTI3NzViMWM2Zjc2ZGZlYTg2`

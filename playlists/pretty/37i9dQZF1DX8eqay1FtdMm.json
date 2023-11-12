@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bRothy(\ub85c\uc2dc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326201,
+  "num_followers": 326221,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzg5NDczYzBjOWIxOTA1MTU5MDdjYjYxZjZlMDMyY2ZiZDBmZmQ3",
+  "snapshot_id": "MCxjZTkzY2YxZDIzODllNWZkOTI1MWEzZmMwYjA3NTNjMTYyZGM1YTNm",
   "tracks": [
     {
       "added_at": "2023-11-10 09:44:47",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 264678,
-      "name": "Will Last Forever",
-      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Stay Here",
         "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 228615,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 264678,
+      "name": "Will Last Forever",
+      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        },
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 214355,
-      "name": "Time Spent Walking Through Memories (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1319,6 +1299,22 @@
       "duration_ms": 221333,
       "name": "You&I",
       "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 213275,
+      "name": "comedy",
+      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1375,22 +1371,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "love",
-        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 213275,
-      "name": "comedy",
-      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 214355,
+      "name": "Time Spent Walking Through Memories (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
-      },
-      "artists": [
-        {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Chosen One",
-      "url": "https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Can Love Be Fair",
         "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1627,42 +1627,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "RETRO",
-        "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
-      },
-      "artists": [
-        {
-          "name": "JUNGKEY",
-          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 258112,
-      "name": "Anymore (Feat. Whee In of MAMAMOO)",
-      "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
@@ -1675,6 +1639,22 @@
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1695,6 +1675,26 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "RETRO",
+        "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 258112,
+      "name": "Anymore (Feat. Whee In of MAMAMOO)",
+      "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
     }
   ],
   "unique_name": "v o K a l",

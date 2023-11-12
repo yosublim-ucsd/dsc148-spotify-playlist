@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,348 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,412 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 27 | [Al Ritmo De La Lluvia](https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:20 |
 | 28 | [Ahora estoy Solo](https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:09 |
 | 29 | [Ángel de Mi Vida \- Angel of the Morning](https://open.spotify.com/track/3yETnVVPXdCOs9k8cNChPA) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [15 Exitos De Enrique Guzman Vol\. ll](https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y) | 2:46 |
-| 30 | [Cosas](https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E) | [Oscar Madrigal](https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 2:22 |
-| 31 | [Pólvora](https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Pólvora](https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a) | 1:56 |
+| 30 | [Noches y Dias Perdidos](https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:47 |
+| 31 | [Cosas](https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E) | [Oscar Madrigal](https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 2:22 |
 | 32 | [Presumida \- High Class Baby \[Remasterizado\]](https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:08 |
-| 33 | [Noches y Dias Perdidos](https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:47 |
+| 33 | [Pólvora](https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Pólvora](https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a) | 1:56 |
 | 34 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
 | 35 | [Mi Primer Amor](https://open.spotify.com/track/0aVecUM3N6lZ70vOgCp3eG) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2) | 2:17 |
 | 36 | [Cuando Era un Jovencito](https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 2:45 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 88 | [Señor Apache](https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 4:43 |
 | 89 | [El Primer Beso](https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:42 |
 | 90 | [Corre Sanson Corre](https://open.spotify.com/track/66kD4Idn0Fva7IaavpoB5I) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:22 |
-| 91 | [A Través De Los Años](https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:42 |
+| 91 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
 | 92 | [El Tigre](https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 2:12 |
 | 93 | [Por Eso Estamos Como Estamos](https://open.spotify.com/track/3SmJd4t4lu5Dn0LCuIcuWw) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:30 |
 | 94 | [Las Cerezas](https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Los Grandes Éxitos del Rock & Roll \(En Español\), Vol\. 1](https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV) | 2:55 |
 | 95 | [Dile Adios](https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J) | 2:17 |
-| 96 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
+| 96 | [A Través De Los Años](https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:42 |
 | 97 | [Matilda](https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:46 |
 | 98 | [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 |
 | 99 | [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 |
 | 100 | [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 |
 
-Snapshot ID: `MCwwZDZjN2VhMTMyODM5ZTYyNTE3YTg2ZDAyMzA5NmUwNGUwNTczODE2`
+Snapshot ID: `MCw0YjE4MjIyM2JjNTEwMTlhNDZlOWM1M2RmNDljMzA5YjgxMmU2NjMz`

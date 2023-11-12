@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 718732,
+  "num_followers": 718982,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTBjYzFkNTAwOTRiYzZlN2VmYTJlYzBkZmI4NmU2MjNhZjljNTVk",
+  "snapshot_id": "MCxkYTM1ZmUyYzYwY2NmNTg5MjI1ZmE4MzAwZWZiMjJhNWUwYzFmMDM2",
   "tracks": [
     {
       "added_at": "2023-11-10 11:30:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "Push Up (Original Mix)",
-        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 240059,
-      "name": "Push Up - Original Mix",
-      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "Push Up (Original Mix)",
+        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 240059,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
+        "name": "Bongo Remix",
+        "url": "https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk"
+      },
+      "artists": [
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "Bongo Remix",
+      "url": "https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
         "name": "Shockwave (with Afrojack)",
         "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 122578,
       "name": "Shockwave (with Afrojack)",
       "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
-        "name": "Bongo Remix",
-        "url": "https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk"
-      },
-      "artists": [
-        {
-          "name": "Max + Johann",
-          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "Bongo Remix",
-      "url": "https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6"
     },
     {
       "added_at": "2023-11-10 11:30:00",

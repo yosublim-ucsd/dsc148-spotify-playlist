@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 
 > Our editorial picks for the best gaming tracks of the year\. Cover: Lil Nas X \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,179 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,187 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 16 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
 | 17 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
 | 18 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
-| 19 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 |
-| 20 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
+| 19 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
+| 20 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 |
 | 21 | [Wrath](https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:53 |
 | 22 | [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 |
 | 23 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 49 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 | 50 | [Before U](https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Before U](https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC) | 2:34 |
 
-Snapshot ID: `MCw3NTM1ZDYwZDc2ZDBhY2FkMTQ3OWVlZDcwZGExYjBmZDUyYTEyY2Ez`
+Snapshot ID: `MCw1NmVkMjcyZDgzZjAyNDNlNWU4NTA3ZThjZDMzYmE1MjZkZDFjY2I3`

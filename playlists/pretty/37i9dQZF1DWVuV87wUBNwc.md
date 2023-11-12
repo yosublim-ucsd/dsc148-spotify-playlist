@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > David Guetta x Zara Larsson au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,815 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,197,195 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
 | 50 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 
-Snapshot ID: `MCxhN2MzMzQ2NDYyYjc5NGEyMWFhMjRhYTUwOGVmODlkOTgyNTAyMWFk`
+Snapshot ID: `MCwwNDYyZmMzNmM4NmFmMDIzNzg1NWQ0OTUyMTIyYWZlMDhhOGRkZDdk`

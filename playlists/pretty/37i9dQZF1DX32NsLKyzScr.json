@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2519185,
+  "num_followers": 2519647,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjY4YTRhNDVhOWUzNmM3NDAwMjZkZTQ4MzkxNTRkZmI1YThlZWNk",
+  "snapshot_id": "MCw2NjNhN2M2NjhmZTNiNzNmZjZkM2JkOGVjZmNkZDBkM2U0NDdkMmIy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "21 Reasons (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 155253,
-      "name": "21 Reasons (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "21 Reasons (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 155253,
+      "name": "21 Reasons (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Ray Of Solar",
-        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 241793,
-      "name": "Ray Of Solar",
-      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 166569,
       "name": "Rainfall (Praise You)",
       "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Ray Of Solar",
+        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 241793,
+      "name": "Ray Of Solar",
+      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 239585,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1607,26 +1627,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Metro",
-        "url": "https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 239585,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Believe (feat. Goodboys)",
         "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 242880,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 190217,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2195,50 +2195,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        },
-        {
-          "name": "BELLA X",
-          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
-        },
-        {
-          "name": "LRMEO",
-          "url": "https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu"
-        }
-      ],
-      "duration_ms": 156985,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
@@ -2263,6 +2219,50 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        },
+        {
+          "name": "LRMEO",
+          "url": "https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu"
+        }
+      ],
+      "duration_ms": 156985,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2335,6 +2335,26 @@
       "duration_ms": 240000,
       "name": "I Remember - John Summit Remix",
       "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2463,26 +2483,6 @@
       "duration_ms": 210853,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
     },
     {
       "added_at": "2023-10-20 04:01:00",

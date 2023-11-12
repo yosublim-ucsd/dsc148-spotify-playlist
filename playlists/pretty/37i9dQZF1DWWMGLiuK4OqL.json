@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 202561,
+  "num_followers": 202644,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGUwY2U2Njg5YTk1ZDRjNmZhNGY5OTU4NDI1NGQwNWUzZTYzZmYx",
+  "snapshot_id": "MCwxOGFjMTRiZGJhNDAzOGI3OGIwNWE1NzQyYjY3YjYzNDcxM2NkODZl",
   "tracks": [
     {
       "added_at": "2023-10-25 11:41:03",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Worrisome Heart",
-        "url": "https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Worrisome Heart",
-      "url": "https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Moon Lover",
         "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 180000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Worrisome Heart",
+        "url": "https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Worrisome Heart",
+      "url": "https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Dreamers Do",
-        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 129127,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Dreamers Do",
+        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Isn't it Romantic: The Standards Album",
-        "url": "https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Frank (US Clean e-Version)",
         "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 128933,
       "name": "(There Is) No Greater Love",
       "url": "https://open.spotify.com/track/4VbqUDBWyK15pTal9THtFu"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Isn't it Romantic: The Standards Album",
+        "url": "https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -951,6 +951,22 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "My Heart Belongs to Daddy",
+      "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -987,22 +1003,6 @@
       "duration_ms": 462306,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/7skpOVKLMC9oUwVcG6mZQ6"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "My Heart Belongs to Daddy",
-      "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 198346,
       "name": "Don't Cry Baby",
       "url": "https://open.spotify.com/track/5hLiMgK0oIx8t9AwO3Pm3P"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 210346,
       "name": "Our Love Will Always Be There",
       "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 274945,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 157133,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along",
       "url": "https://open.spotify.com/track/6XiTocvILURpEtGL6NWW7i"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
-      },
-      "artists": [
-        {
-          "name": "Rosie Frater-Taylor",
-          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
-        },
-        {
-          "name": "Chris Hyson",
-          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "It Had To Be You",
         "url": "https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 158875,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        },
+        {
+          "name": "Chris Hyson",
+          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2043,6 +2043,26 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        },
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 227867,
+      "name": "Why Should I Care?",
+      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
         "name": "At Long Last Love (Live)",
         "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 171760,
       "name": "At Long Last Love - Live",
       "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        },
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 227867,
-      "name": "Why Should I Care?",
-      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Language of Love (Version with Orchestra)",
         "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
       },
@@ -2183,22 +2167,6 @@
       "duration_ms": 248469,
       "name": "Language of Love (Version with Orchestra)",
       "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 342773,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5Wui6ed7mrft89DjGnffJ9"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2231,6 +2199,38 @@
       "duration_ms": 185239,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 342773,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5Wui6ed7mrft89DjGnffJ9"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Her Very Best So Far",
         "url": "https://open.spotify.com/album/769kAlgamFR5WMLGMfoHio"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 262453,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/4iyqobj3767rBvX0bHxEfL"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Wish You Were Gay",
-        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Wish You Were Gay",
-      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 207333,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Wish You Were Gay",
+        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Wish You Were Gay",
+      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
+        "name": "Love for Connoisseurs",
+        "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
+      },
+      "artists": [
+        {
+          "name": "Angela Verbrugge",
+          "url": "https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Twentieth Century Fox",
+      "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
         "name": "It's Only a Paper Moon",
         "url": "https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p"
       },
@@ -2819,22 +2835,6 @@
       "duration_ms": 265706,
       "name": "It's Only a Paper Moon",
       "url": "https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "Love for Connoisseurs",
-        "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
-      },
-      "artists": [
-        {
-          "name": "Angela Verbrugge",
-          "url": "https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Twentieth Century Fox",
-      "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2883,6 +2883,22 @@
       "duration_ms": 188893,
       "name": "Sascha",
       "url": "https://open.spotify.com/track/1E3CX8oFjpHceDtSp5Fhq5"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Black Acid Soul",
+        "url": "https://open.spotify.com/album/1FIfikFt7bZQb2Y23YEyDY"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Five Feet Tall",
+      "url": "https://open.spotify.com/track/07vEpZ3j37sDZN0Pmy2tsd"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -2959,6 +2975,22 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "So Sorry For Your Love",
+      "url": "https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2983,22 +3015,6 @@
       "duration_ms": 393984,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "So Sorry For Your Love",
-      "url": "https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -3091,22 +3107,6 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6uQ7ls8RWxnZ2wbe7rJr8G"
-      },
-      "artists": [
-        {
-          "name": "Dasha Beets",
-          "url": "https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
         "name": "Lady Sings the Blues",
         "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
       },
@@ -3119,6 +3119,22 @@
       "duration_ms": 158480,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6uQ7ls8RWxnZ2wbe7rJr8G"
+      },
+      "artists": [
+        {
+          "name": "Dasha Beets",
+          "url": "https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -3167,18 +3183,18 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
-        "name": "Black Acid Soul",
-        "url": "https://open.spotify.com/album/1FIfikFt7bZQb2Y23YEyDY"
+        "name": "Give My Charlest (A Tribute to the Charleston)",
+        "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
       },
       "artists": [
         {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+          "name": "Jazzy Sky",
+          "url": "https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Five Feet Tall",
-      "url": "https://open.spotify.com/track/07vEpZ3j37sDZN0Pmy2tsd"
+      "duration_ms": 170875,
+      "name": "Give My Charlest (A Tribute to the Charleston)",
+      "url": "https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -3195,22 +3211,6 @@
       "duration_ms": 201294,
       "name": "My Revelation",
       "url": "https://open.spotify.com/track/5bQKVSY0RDbMBatfy9YEOE"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "Give My Charlest (A Tribute to the Charleston)",
-        "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
-      },
-      "artists": [
-        {
-          "name": "Jazzy Sky",
-          "url": "https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3"
-        }
-      ],
-      "duration_ms": 170875,
-      "name": "Give My Charlest (A Tribute to the Charleston)",
-      "url": "https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -3351,6 +3351,26 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
+        "name": "Back Home in Kansas City",
+        "url": "https://open.spotify.com/album/1HxUWVcuyaeA0hP824M17k"
+      },
+      "artists": [
+        {
+          "name": "Bobby Watson",
+          "url": "https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ"
+        },
+        {
+          "name": "Carmen Lundy",
+          "url": "https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL"
+        }
+      ],
+      "duration_ms": 326133,
+      "name": "Our Love Remains",
+      "url": "https://open.spotify.com/track/7rch4tA20nJHicdvSSFahf"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
@@ -3371,26 +3391,6 @@
       "duration_ms": 236980,
       "name": "Grey Season",
       "url": "https://open.spotify.com/track/3YV2Cyh7vwDXeQYMmqrwf9"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "Back Home in Kansas City",
-        "url": "https://open.spotify.com/album/1HxUWVcuyaeA0hP824M17k"
-      },
-      "artists": [
-        {
-          "name": "Bobby Watson",
-          "url": "https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ"
-        },
-        {
-          "name": "Carmen Lundy",
-          "url": "https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL"
-        }
-      ],
-      "duration_ms": 326133,
-      "name": "Our Love Remains",
-      "url": "https://open.spotify.com/track/7rch4tA20nJHicdvSSFahf"
     },
     {
       "added_at": "2023-10-25 11:41:03",
@@ -3519,6 +3519,22 @@
     {
       "added_at": "2023-10-25 11:41:03",
       "album": {
+        "name": "Disclosure",
+        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 287041,
+      "name": "Disclosure",
+      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
+    },
+    {
+      "added_at": "2023-10-25 11:41:03",
+      "album": {
         "name": "AURORA BOREALIS",
         "url": "https://open.spotify.com/album/1oAE9OBFqOn0ZJbSkEVynT"
       },
@@ -3555,22 +3571,6 @@
       "duration_ms": 296306,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7"
-    },
-    {
-      "added_at": "2023-10-25 11:41:03",
-      "album": {
-        "name": "Disclosure",
-        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 287041,
-      "name": "Disclosure",
-      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
     },
     {
       "added_at": "2023-10-25 11:41:03",

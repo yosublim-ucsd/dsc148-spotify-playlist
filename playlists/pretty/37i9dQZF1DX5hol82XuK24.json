@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 418761,
+  "num_followers": 418849,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWIyMzg2NTExNDcwYjYwY2UwMGZiMjUzMDFiOTAxZjQ0MDc0NDg5",
+  "snapshot_id": "MCwzNWNjNTJhMDQ0YmQxZmQ0YTIzZGM5ZWJjYTcyZjcxNTE1OGU1ZDJk",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "A Different Arrangement",
-        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
-      },
-      "artists": [
-        {
-          "name": "Black Marble",
-          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "MSQ No-Extra",
-      "url": "https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Schlagenheim",
         "url": "https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 296746,
       "name": "bmbmbm",
       "url": "https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "A Different Arrangement",
+        "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "MSQ No-Extra",
+      "url": "https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Anyone's Ghost",
-      "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Services",
         "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 250211,
       "name": "Strange Harvest",
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Anyone's Ghost",
+      "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1107,34 +1107,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Fire Leap",
-        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
-      },
-      "artists": [
-        {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        },
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        },
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "Sarah Meth",
-          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
-        }
-      ],
-      "duration_ms": 171098,
-      "name": "Fire Leap",
-      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Ex:Re",
         "url": "https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw"
       },
@@ -1167,6 +1139,34 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Fire Leap",
+        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
+      },
+      "artists": [
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        },
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "Sarah Meth",
+          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
+        }
+      ],
+      "duration_ms": 171098,
+      "name": "Fire Leap",
+      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 264746,
       "name": "L'Inconnue",
       "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Treat Her Strangely",
-        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
-      },
-      "artists": [
-        {
-          "name": "doubleVee",
-          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Your Love Is It Real?",
-      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Treat Her Strangely",
+        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
+      },
+      "artists": [
+        {
+          "name": "doubleVee",
+          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Your Love Is It Real?",
+      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Sleeping In Your Garden",
         "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 204029,
       "name": "Sleeping In Your Garden",
       "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Somebody Told Me",
-        "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
       "artists": [
         {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
         }
       ],
-      "duration_ms": 231242,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1291,6 +1275,22 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 231242,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
     },
     {
       "added_at": "2023-11-03 23:08:22",

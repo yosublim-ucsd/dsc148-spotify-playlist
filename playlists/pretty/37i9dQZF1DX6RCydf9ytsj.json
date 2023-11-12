@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 589048,
+  "num_followers": 589227,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTg1ZTliZTY5MTNmY2IwZDUxMzdkNmUwMGE2ZmY4NTI0ZTNlZDY2",
+  "snapshot_id": "MCw0MTcwYmRjZWFlMGNlNWQ4ZWViNjZhMmQ4ZDFmZDQwMDhhNTMyMzk4",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+        "name": "Me And The Boys",
+        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
       "artists": [
         {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        },
-        {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 236626,
-      "name": "Meet Me In Montana",
-      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+      "duration_ms": 221706,
+      "name": "Drinkin' My Baby Goodbye",
+      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Me And The Boys",
-        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        },
+        {
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Drinkin' My Baby Goodbye",
-      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
+      "duration_ms": 236626,
+      "name": "Meet Me In Montana",
+      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
     },
     {
       "added_at": "2023-08-21 19:29:52",

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 51219,
+  "num_followers": 51319,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTQ5YTIwNjE2ODBiN2ZmMjk1ZGZmOGEwNWE3YjY1Y2EzZDVkODIz",
+  "snapshot_id": "MCxjOGZkZTg0MmNjYmE0ZjUwODUzOTE0NmZmMTQ3ZmE4NzAyZTc4NDVk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Eyes Closed And Traveling",
-        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
-      },
-      "artists": [
-        {
-          "name": "Peter Broderick",
-          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
-        }
-      ],
-      "duration_ms": 219549,
-      "name": "Eyes Closed And Traveling",
-      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Eyes Closed And Traveling",
+        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
+      },
+      "artists": [
+        {
+          "name": "Peter Broderick",
+          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "Eyes Closed And Traveling",
+      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Deux Pens\u00e9es",
-        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
       "artists": [
         {
-          "name": "Darker In Vine",
-          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
         }
       ],
-      "duration_ms": 169366,
-      "name": "Deux Pens\u00e9es",
-      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Deux Pens\u00e9es",
+        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
+      },
+      "artists": [
+        {
+          "name": "Darker In Vine",
+          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Deux Pens\u00e9es",
+      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "A Lifetime Rolls By (annasara Rework)",
         "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 176120,
       "name": "A Lifetime Rolls By - annasara Rework",
       "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Triptych III for Piano",
-        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Triptych III for Piano",
-      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+        "name": "Triptych III for Piano",
+        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
       },
       "artists": [
         {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
         }
       ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+      "duration_ms": 201013,
+      "name": "Triptych III for Piano",
+      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "lodges",
+        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 231921,
+      "name": "lodges",
+      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Still / Sound \u2014 piano reworks",
         "url": "https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "lodges",
-        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 231921,
-      "name": "lodges",
-      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Riverscape",
-        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 154041,
-      "name": "Riverscape",
-      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 350974,
       "name": "Current",
       "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Riverscape",
+        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 154041,
+      "name": "Riverscape",
+      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
-      },
-      "artists": [
-        {
-          "name": "Simon Folwar",
-          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
-        }
-      ],
-      "duration_ms": 159594,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
+      },
+      "artists": [
+        {
+          "name": "Simon Folwar",
+          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
+        }
+      ],
+      "duration_ms": 159594,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Escape (Hania Rani Remix)",
+        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 267330,
+      "name": "Escape - Hania Rani Remix",
+      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1307,22 +1327,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Escape (Hania Rani Remix)",
-        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
       },
       "artists": [
         {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
         }
       ],
-      "duration_ms": 267330,
-      "name": "Escape - Hania Rani Remix",
-      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 266840,
       "name": "Steep Hills of Vicodin Tears",
       "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Nomadland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 305691,
       "name": "As I Was - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-10-20 04:00:00",

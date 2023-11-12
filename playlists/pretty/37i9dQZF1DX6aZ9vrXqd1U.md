@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,435 likes - 130 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,469 likes - 130 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 9 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 |
 | 10 | [あんなに一緒だったのに](https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Dream Field](https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH) | 4:49 |
 | 11 | [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 |
-| 12 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
+| 12 | [Line of sight](https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc) | 3:36 |
 | 13 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
 | 14 | [Days of Birth](https://open.spotify.com/track/7hyh4lMONUqCxVGWylqxbT) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [Days of Birth](https://open.spotify.com/album/1LaoRmMtteqQYQcWVaMwax) | 4:11 |
 | 15 | [Timeless Universe \(feat\. ShishiGami\)](https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | ["SD GUNDAM BATTLE ALLIANCE" Theme Songs](https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv) | 4:29 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 129 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 130 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCwzNDZmMzA2MjU2YjRkZjkyNDViZjVhNGQ4MDExMjdkMTI1MjYxY2Yz`
+Snapshot ID: `MCwwNWM4NjVlNTYyMzkzNmEwMDkyZjcxMGYyOTRiZTU5ZDBiNmI4MTZi`

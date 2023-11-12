@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Lectric Lady",
+        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
+      },
+      "artists": [
+        {
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473240,
+      "name": "Love Is You (A Tom Moulton Mix)",
+      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
+    },
+    {
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 399200,
       "name": "Make Love To Me",
       "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"

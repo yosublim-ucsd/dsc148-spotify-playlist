@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : USKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,313 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,317 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [LONELY](https://open.spotify.com/track/2SyJqs8ZvjZ6hcKSBi44RQ) | [Yugz](https://open.spotify.com/artist/5FieS6IBaxZgxYgfqtjqnP) | [LONELY](https://open.spotify.com/album/4VtuAtLL1GxCVfq24z91Qv) | 2:36 |
 | 40 | [GRANDIR ET RAJEUNIR](https://open.spotify.com/track/0qXgwDS6MQzM4FHgoS0eLp) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [AHBON MIXTAPE](https://open.spotify.com/album/5s5MPCy39ktuAFfewT2xSk) | 2:19 |
 
-Snapshot ID: `MCw1YTgxZmE0NGIxMzIyMmMzMDYyNWM1OTM1YTBkZjgzNmZmOTFkNDgz`
+Snapshot ID: `MCw0OTFhODI3MjIwODM3ZWU4M2JiNDYyOTI2MTIwZTg5ODVjMTMxMzk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Los Wálters\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,734 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,735 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [Bossa y Goza](https://open.spotify.com/track/3PCqnL6Vh1ODPA16eQipl0) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Bossa y Goza](https://open.spotify.com/album/0svjC2x6RPUV92RDLHkGnz) | 2:49 |
 | 31 | [hola bb](https://open.spotify.com/track/5x33Y41pVO5zJT8eAgS35u) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [hola bb](https://open.spotify.com/album/1fkR4uAUXPeTpiZ2lECvNc) | 1:54 |
 | 32 | [te esta pasando todo a la vez](https://open.spotify.com/track/5QX7cQHoXOW75HwhB6e6wj) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [dame algo que no exista](https://open.spotify.com/album/5dloFFPqQbmoDKSSMYOTnI) | 2:54 |
-| 33 | [Onlyfans](https://open.spotify.com/track/4ODgZ9g5mSv2RGDVkq8gME) | [Hot Butter](https://open.spotify.com/artist/39JuxW6yZZ9YtyleGlyvLF) | [Onlyfans](https://open.spotify.com/album/0lKttOwVob1URCmIp58Ehb) | 2:32 |
-| 34 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
+| 33 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
+| 34 | [Onlyfans](https://open.spotify.com/track/4ODgZ9g5mSv2RGDVkq8gME) | [Hot Butter](https://open.spotify.com/artist/39JuxW6yZZ9YtyleGlyvLF) | [Onlyfans](https://open.spotify.com/album/0lKttOwVob1URCmIp58Ehb) | 2:32 |
 | 35 | [Palomita](https://open.spotify.com/track/4REEvg9YX5GW0YsmAf9ff7) | [Luna Cantora](https://open.spotify.com/artist/0Vl5gCM2nzVUnGTzBBNNBW), [La La](https://open.spotify.com/artist/5GpiU04iVZyNrUl66esrFB) | [Palomita](https://open.spotify.com/album/77oOcVDKIFswlR6pfDqvL0) | 4:26 |
-| 36 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 |
-| 37 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
+| 36 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
+| 37 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 |
 | 38 | [Apocalíptico](https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Apocalíptico](https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn) | 3:17 |
 | 39 | [¿Quién Fue?](https://open.spotify.com/track/7BSxbFNHZr4Zl5GXb2d8dy) | [Calisur](https://open.spotify.com/artist/26qAmOvljJQWP1TK2zK7qS) | [¿Quién Fue?](https://open.spotify.com/album/0pnIgEH1xMkp1RB1BBKi2H) | 2:38 |
 | 40 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 |
 | 41 | [Hungry](https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl) | [Olivia Bec](https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6) | [Hungry](https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc) | 3:48 |
 | 42 | [Track 001](https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Track 001](https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi) | 3:07 |
 | 43 | [You Heal Me](https://open.spotify.com/track/1jt4FpcaJAjuky9Fja6NmE) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [You Heal Me](https://open.spotify.com/album/7JsgogkFYD6RkBQA1Ugi53) | 3:21 |
-| 44 | [Mientras sienta que existo](https://open.spotify.com/track/0WPwcStCX2wESnLdpfaAVP) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Mientras sienta que existo](https://open.spotify.com/album/2hwdP0aclrUiyrqHgF6770) | 3:55 |
-| 45 | [Him](https://open.spotify.com/track/2GjCreY9QSPTY22SwfuZOU) | [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Little Glass Houses](https://open.spotify.com/album/75UtY1DEtXctRpAAIYs4Wb) | 4:30 |
+| 44 | [Him](https://open.spotify.com/track/2GjCreY9QSPTY22SwfuZOU) | [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Little Glass Houses](https://open.spotify.com/album/75UtY1DEtXctRpAAIYs4Wb) | 4:30 |
+| 45 | [Mientras sienta que existo](https://open.spotify.com/track/0WPwcStCX2wESnLdpfaAVP) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Mientras sienta que existo](https://open.spotify.com/album/2hwdP0aclrUiyrqHgF6770) | 3:55 |
 | 46 | [Adiós](https://open.spotify.com/track/6cOViibnJu9JZdJXUE9RG1) | [Lala Moré](https://open.spotify.com/artist/0z5FIYdXQFbwyRkliO8HsK), [Daniel Jaller](https://open.spotify.com/artist/7AnxLOIrMXQoNLZwGCgJF5) | [Adiós](https://open.spotify.com/album/6PbjdQATsNZ1g1NXSgwMtN) | 2:56 |
 | 47 | [Yo nunca te dejo de amar](https://open.spotify.com/track/2vpJ7cjkfTf6hBFEZmRtr6) | [Mueres en el mar](https://open.spotify.com/artist/7nDRCrPWyorRS27T7fMJKe), [SCD](https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ) | [El Canto de Todas \- Concurso Scottie Scott, Vol\. 5](https://open.spotify.com/album/7ow3h7qhk2HFNvKAAfiVfO) | 3:23 |
 | 48 | [Siento una Pena](https://open.spotify.com/track/7mjDK5cQT1qcQUW3XWA0vB) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Siento Una Pena](https://open.spotify.com/album/5pKJCDonrVICh2G78hruAt) | 3:02 |
 | 49 | [Esa Mirada](https://open.spotify.com/track/4yi0kfcsQ2rmv80YmPjeEz) | [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Esa Mirada](https://open.spotify.com/album/7zduZ2xm5zwl6EN4ZgqvWs) | 3:18 |
 | 50 | [Dancing On My Own](https://open.spotify.com/track/3TjbbftuoUzgLTEO9PQZNC) | [Nikki Fölk](https://open.spotify.com/artist/1IqDQ0QXIztvieg3qzs3l8) | [Dancing On My Own](https://open.spotify.com/album/5ssQifWkrp5GngAIX7Of6A) | 3:32 |
 
-Snapshot ID: `MCxjNmViMzllODkwNTBmMDI3YWQ0M2M2YzdjYjMwZjU1NzllZGY1NTZk`
+Snapshot ID: `MCxjMzYwMjdkMjM3MDNiYmFlNDMzMDhjYTc5NjNhYjJmODk1MGY5ZDJh`

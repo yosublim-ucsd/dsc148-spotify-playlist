@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,327 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,341 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 27 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 28 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
 | 29 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
-| 30 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
-| 31 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
+| 30 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
+| 31 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 32 | [Tres Veces Te Engañe](https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz) | [Sarah La Morena](https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ) | [Tres Veces Te Engañe](https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw) | 3:35 |
 | 33 | [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 |
 | 34 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
 | 35 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
-| 36 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
-| 37 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 |
+| 36 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 |
+| 37 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
 | 38 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 | 39 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
 | 40 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [Jodida En Este Bar \- En Vivo](https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Jodida En Este Bar \(En Vivo\)](https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw) | 2:52 |
 | 65 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 
-Snapshot ID: `MCwxN2M1ZTUwYjUyYTcyOWU3MDU3ZDk0MTM5MmQzYWIxNDNjMDNjMjEz`
+Snapshot ID: `MCw0NzkxZmU0YTQ0Zjc4MWY1ZmY5Mzg3NWFlY2ZmNjA3MDAyMjBjMjRk`

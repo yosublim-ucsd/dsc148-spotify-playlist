@@ -4,7 +4,7 @@
 
 > Sumérgete a lo más profundo de tu mente con el sonido del mar.
 
-252 songs - 12 hr 52 min
+253 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Northern California Wind and Waves](https://open.spotify.com/track/1sWk6YnvIbxza7un39VPyj) | [California Coast Sound Recordings](https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V) | [Coastal Relaxation](https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL) | 2:48 | 2023-07-03 |  |
 | [Ocean Foam](https://open.spotify.com/track/5CzdfvJBSwRG5s56RuXVTG) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 | 2023-07-03 |  |
 | [Ocean Sounds For relaxing](https://open.spotify.com/track/0cDQ3SqNWg87FTsEv5k8Pm) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/10Ax8DSgxhf1bhIwXMrEa2) | 2:33 | 2023-07-03 |  |
+| [Ocean Sunset Tide](https://open.spotify.com/track/6XBqAyN43UglCHM0sWZLS3) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 | 2023-10-11 |  |
 | [Ocean Surf At Night](https://open.spotify.com/track/3QRxs1QK0HogeLB6b4Z4KT) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:08 | 2023-07-03 |  |
 | [Ocean Talking](https://open.spotify.com/track/0oqibPXlwdz6hbI7cthPcN) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 3:59 | 2023-07-03 |  |
 | [Ocean Tranquility](https://open.spotify.com/track/6ssIEDSndneQgDbIlmRqqz) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Ocean Tranquility](https://open.spotify.com/album/4geX0rk2bvLyaToAuai8IT) | 3:50 | 2023-07-03 |  |
@@ -230,7 +231,7 @@
 | [Waves Crashing on Rocks](https://open.spotify.com/track/1orDQvwwaBsGbsxMNeiWZa) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Peaceful Rivers, Rains, Waves](https://open.spotify.com/album/4G0FQMpqDIYcEiXL2X4AVv) | 2:44 | 2023-07-03 |  |
 | [Waves Crashing Relax](https://open.spotify.com/track/4M1nbhmkmAVyptAnd8dc8c) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:18 | 2023-07-03 |  |
 | [Waves Crashing The Beach](https://open.spotify.com/track/4JPAibfVEbNIDncwz2IEfG) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves Vol\. 2](https://open.spotify.com/album/7crlUClPdjmLLhvxOpQkSk) | 3:13 | 2023-07-03 |  |
-| [Waves for Relaxation](https://open.spotify.com/track/7CxFjP8i6McIwI4lNFwPD5) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 2:59 | 2023-07-03 |  |
+| [Waves for Relaxation](https://open.spotify.com/track/7CxFjP8i6McIwI4lNFwPD5) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 2:59 | 2023-07-03 | 2023-11-12 |
 | [Waves from the Outlook](https://open.spotify.com/track/3HneefmTTrhPH9VHsuY5KO) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:14 | 2023-07-03 |  |
 | [Waves from the South](https://open.spotify.com/track/3zQ2nhWajBddajUQXYSXDz) | [Nature 101](https://open.spotify.com/artist/6eu6iTsysW1wIPR23xq8BB) | [Deep Ocean](https://open.spotify.com/album/22Ceilw9Kxk2xMVbqpqkWt) | 2:45 | 2023-07-03 |  |
 | [Waves In A Small Cove 2](https://open.spotify.com/track/0P9kqZymGXK95D6TIbccr7) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Waves In A Small Cove](https://open.spotify.com/album/0awUNlc3YJ8KrTV9pbYmpx) | 2:02 | 2023-07-03 |  |

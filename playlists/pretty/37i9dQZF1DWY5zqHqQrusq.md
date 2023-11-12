@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,978 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,989 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 |
 | 50 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 |
 
-Snapshot ID: `MCw1MTZkZjQyYzQ1Yjk4OTU3YmRmZjc2MzgwYTlmYTkzOTY0MGQxMjdk`
+Snapshot ID: `MCw2YjhlMTE1MjQzNzNjNDlmNDZlZGFjYzVmOTc5NWQxNjZkMGRhZDY3`

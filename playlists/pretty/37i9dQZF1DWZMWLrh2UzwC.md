@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,061 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,075 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 100 | [Moon](https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Moon](https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL) | 3:36 |
 | 101 | [Where Did I Lost It?](https://open.spotify.com/track/5yrXUrVPICyPJ226hWNk27) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf) | [Where Did I Lost It?](https://open.spotify.com/album/5eBwmkDCFycdIy3ZKVhrer) | 4:02 |
 
-Snapshot ID: `MCw3ODA0NGIwNTlmMmZkMDcxZmZmNjBiMGNkMDdmMGM0ODE5NjI2NTMx`
+Snapshot ID: `MCxkY2VkNTY4NTZjNjMwMzRkMDA1ZGJkMjVhNjY5MTg5MTRkZjk0YjU0`

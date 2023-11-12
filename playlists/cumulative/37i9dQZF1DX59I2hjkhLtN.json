@@ -1537,6 +1537,32 @@
     },
     {
       "album": {
+        "name": "Bixho",
+        "url": "https://open.spotify.com/album/5ZaPdJ3EG9xAzUun8G4qY0"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Tamura",
+          "url": "https://open.spotify.com/artist/3sPu1TUK3Sg53uMqMBvNzT"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        },
+        {
+          "name": "Meireles",
+          "url": "https://open.spotify.com/artist/580dOPH0y6qmSC2ZDUHVTp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Bixho - Jersey Drill",
+      "url": "https://open.spotify.com/track/4KOBYsQsXhVzu3lVmoOXIH"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP"
       },

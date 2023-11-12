@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pink Pablo\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,316 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,350 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6FzUPASAASb5r58dnOIdzg) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/2xbgOQbCLuitXr5M5C8mV6) | 2:31 |
 | 100 | [Check Me](https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Check Me](https://open.spotify.com/album/47ykXljyBCF6mgCpSaM5C1) | 1:52 |
 
-Snapshot ID: `MCxjNTYxMjE0M2VhNzg4NjljZDdiZDA1NDIxYzQyMzhiMTA0YjA2MGVk`
+Snapshot ID: `MCwwOTlkOGQ1OTczYzUwODQ3ZDY4YTFhMWVlN2QwZjg4ZTFjYjYzY2I5`

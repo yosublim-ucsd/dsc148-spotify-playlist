@@ -4,7 +4,7 @@
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-100 songs - 5 hr 23 min
+101 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 | 2023-09-20 |  |
 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 | 2023-09-20 |  |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-09-20 |  |
-| [FORMULA](https://open.spotify.com/track/383FsUoOEqgBRcttGMeoLs) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [FORMULA](https://open.spotify.com/album/1w5hIOpx82t0XRLcVwerRb) | 2:54 | 2023-09-20 |  |
+| [FORMULA](https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [WRECKED](https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF) | 2:53 | 2023-10-06 |  |
+| [FORMULA](https://open.spotify.com/track/383FsUoOEqgBRcttGMeoLs) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [FORMULA](https://open.spotify.com/album/1w5hIOpx82t0XRLcVwerRb) | 2:54 | 2023-09-20 | 2023-11-12 |
 | [fuera de vista \(feat\. Baco Exu Do Blues\) \(TROOKO’s Versión\)](https://open.spotify.com/track/1UHsGZoNGOROg2ZIiJYEjL) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [RTJ CU4TRO](https://open.spotify.com/album/0Yu5v3c5K0tXG6HFKZdyek) | 4:04 | 2023-10-06 |  |
 | [fuera de vista \(feat\. Baco Exu Do Blues\) \- TROOKO's Versión](https://open.spotify.com/track/4tS1IvkIue4frsyOmZmb1W) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [RTJ CU4TRO](https://open.spotify.com/album/1wJ0AElY0PY4pbzvKZw8io) | 4:04 | 2023-09-20 | 2023-11-04 |
 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 | 2023-09-20 |  |

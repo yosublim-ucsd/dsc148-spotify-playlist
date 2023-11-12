@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-445 songs - 23 hr 5 min
+446 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2023-01-12 | 2023-01-19 |
 | [3 Words \(Message To My Ex\)](https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Message From My Ex / 3 Words \(Message To My Ex\)](https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V) | 3:06 | 2023-01-12 | 2023-11-10 |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g) | 2:40 | 2023-03-01 | 2023-04-04 |
+| [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-09 |  |
 | [5EVER](https://open.spotify.com/track/2RGBEXic4VNloxU1PPa6K8) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [Silver Spoons](https://open.spotify.com/album/5AVrwKZ7nMhmVTOr6DibIU) | 2:47 | 2022-07-22 | 2023-01-13 |
 | [5EVER](https://open.spotify.com/track/7wnnnbsAcvA4cpR9Bs9U3k) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [5EVER](https://open.spotify.com/album/6BJ9pXWmezQlJP1KuNDm2n) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [90 percent](https://open.spotify.com/track/3sBwYK7ShSdnBS6EECgs5F) | [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [90 percent](https://open.spotify.com/album/5XQ1765TIYIa0slsGcR8re) | 3:53 | 2021-12-16 | 2023-01-13 |
@@ -203,7 +204,7 @@
 | [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2023-01-12 | 2023-02-17 |
 | [If Pretty Was A Person](https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo) | [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [If Pretty Was A Person](https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T) | 2:36 | 2023-01-12 | 2023-03-23 |
 | [If You Leave](https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [If You Leave](https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m) | 3:09 | 2023-09-14 | 2023-10-13 |
-| [ily2](https://open.spotify.com/track/1aCi1np6otYE894Gwpxjoj) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Mother, I'm Not Here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 2:14 | 2023-11-09 |  |
+| [ily2](https://open.spotify.com/track/1aCi1np6otYE894Gwpxjoj) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Mother, I'm Not Here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 2:14 | 2023-11-09 | 2023-11-12 |
 | [Imperfections](https://open.spotify.com/track/6il4WwS3efuv7GZ15g4ZQ8) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Imperfections](https://open.spotify.com/album/7BwQeu6XotauNon9gAKf84) | 1:30 | 2023-10-12 | 2023-11-10 |
 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 | 2023-08-31 |  |
 | [In My Mind](https://open.spotify.com/track/6083WenmOXoQBYL40Ql4Ey) | [Rick Lips](https://open.spotify.com/artist/3VeAjIuiNPkOgtlHvxCVff) | [In My Mind](https://open.spotify.com/album/5jgCLTEVOLfgrjEa6g8tTo) | 2:58 | 2021-12-16 | 2022-03-26 |

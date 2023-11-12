@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 434063,
+  "num_followers": 434082,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTBmOGY3ZjI0N2RkMTU0ZDQ3YWY4NGUzNGZmYjg4NzU5MTg0NmVm",
+  "snapshot_id": "MCw1NDgwZmVkY2E0NWJmNGY5NjhiNjNmODMxYzc2OTUxNzNjMDA3YmZj",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "solo (vol. 1)",
-        "url": "https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q"
-      },
-      "artists": [
-        {
-          "name": "Junior Lima",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "de volta pra casa",
-      "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "e se for pra ser sincera:",
         "url": "https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 194583,
       "name": "e se for pra ser sincera:",
       "url": "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "solo (vol. 1)",
+        "url": "https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q"
+      },
+      "artists": [
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/0OllCB8jre2XE6LnWXQKp4"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "de volta pra casa",
+      "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "n\u00f3sdois",
         "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 163815,
       "name": "Juntin",
       "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "sempre com voc\u00ea",
         "url": "https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 191862,
       "name": "sempre com voc\u00ea",
       "url": "https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Casa Comigo?",
         "url": "https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr"
       },
@@ -1051,26 +1067,6 @@
       "duration_ms": 159500,
       "name": "Casa Comigo?",
       "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Samba Azul",
-        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 182004,
-      "name": "Samba Azul",
-      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Ideias Sobre Voc\u00ea",
         "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 152346,
       "name": "Incompar\u00e1vel",
       "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Samba Azul",
+        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 182004,
+      "name": "Samba Azul",
+      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Desejos",
         "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 177000,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Amanheceu Assim",
+        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9fano Ferraz",
+          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
+        }
+      ],
+      "duration_ms": 204935,
+      "name": "Amanheceu Assim",
+      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
     },
     {
       "added_at": "2023-11-10 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 91513,
+  "num_followers": 91574,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGFkZGE1ZDNhZGMyNjA5NGNhMjExNjdkMzIwNjBmNWQ3MWVjZDUx",
+  "snapshot_id": "MCwzMmJlNjk3YjMzNzBlOTBmMGFjMGM0YTcyYTEwYWFlYzgyMTE4YTE3",
   "tracks": [
     {
       "added_at": "2023-11-01 22:01:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "TRAPHOUSE",
         "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1159,6 +1159,54 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
+        "name": "Glory Days EP",
+        "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 222968,
+      "name": "Blueface (feat. Izi, Tedua)",
+      "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "J",
+        "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 183027,
+      "name": "ALYX (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
         "name": "Suave (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
       },
@@ -1187,26 +1235,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "J",
-        "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 183027,
-      "name": "ALYX (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
       },
@@ -1223,34 +1251,6 @@
       "duration_ms": 152440,
       "name": "Twerk (con Boro)",
       "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
-        "name": "Glory Days EP",
-        "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Vaz T\u00e8",
-          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 222968,
-      "name": "Blueface (feat. Izi, Tedua)",
-      "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1555,50 +1555,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "Michelle Pfeiffer (feat. Tony Effe)",
-        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Michelle Pfeiffer (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
-        "name": "MI AMI O NO (feat. Capo Plaza)",
-        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
-      },
-      "artists": [
-        {
-          "name": "Giaime",
-          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
-        },
-        {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 145085,
-      "name": "MI AMI O NO (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1627,6 +1583,50 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Dylan, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "MI AMI O NO (feat. Capo Plaza)",
+        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
+      },
+      "artists": [
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 145085,
+      "name": "MI AMI O NO (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "Michelle Pfeiffer (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Michelle Pfeiffer (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
     },
     {
       "added_at": "2023-11-01 22:01:00",

@@ -4,7 +4,7 @@
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-124 songs - 6 hr 59 min
+125 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Dandole Sabor al Caldo](https://open.spotify.com/track/3Rsqt2Xp7uKDmEKddvQPu6) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:12 | 2021-12-29 |  |
 | [Dandole Sabor al Caldo](https://open.spotify.com/track/3oEIZgr8nQ7xe0sVB4S9kC) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Peerless 80 Aniversario \- 24 Exitos Bailables](https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY) | 3:12 | 2021-12-29 | 2022-07-29 |
 | [El Baile de la Princesa](https://open.spotify.com/track/2u090bKl5zlp9UN8K1g5Gs) | [Marimba Sonora GC](https://open.spotify.com/artist/1f1CzvHnAWZaOgYDP4qdSM) | [Luna de Plata](https://open.spotify.com/album/5zsYxrTgEVPdO24SKoaMbv) | 4:01 | 2021-12-29 | 2023-11-04 |
-| [El Baile de la Princesa](https://open.spotify.com/track/36AR3ghzqyfXjmaYEeiR8b) | [Marimba Sonora GC Internacional](https://open.spotify.com/artist/22vItlO5n9HydKwR9Eft4d) | [Luna de Plata](https://open.spotify.com/album/7teVcUz0zoKFhGuriNt45n) | 4:01 | 2021-12-29 |  |
+| [El baile de la princesa](https://open.spotify.com/track/47MhagmDxnVzAvvQoRCZcD) | [Marimba Sonora GC](https://open.spotify.com/artist/1f1CzvHnAWZaOgYDP4qdSM) | [Luna De Plata](https://open.spotify.com/album/5uqxycnvcPcni1HxiXyB03) | 4:01 | 2021-12-29 |  |
+| [El Baile de la Princesa](https://open.spotify.com/track/36AR3ghzqyfXjmaYEeiR8b) | [Marimba Sonora GC Internacional](https://open.spotify.com/artist/22vItlO5n9HydKwR9Eft4d) | [Luna de Plata](https://open.spotify.com/album/7teVcUz0zoKFhGuriNt45n) | 4:01 | 2021-12-29 | 2023-11-12 |
 | [El bikini](https://open.spotify.com/track/2OrXy4Q4dY3EplIUMLuum1) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Jorge Cristian](https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Marimbas Y Regional Vol\. 2](https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c) | 1:58 | 2021-12-29 |  |
 | [El Foco, Marimba de Guatemala](https://open.spotify.com/track/2lL3r55kICkmzNb7voNIoM) | [Marimba Orquesta Alma Tuneca](https://open.spotify.com/artist/4IxbZ8BGjDKoHWX67SdqEv) | [Tunecazos Marimba Alma Tuneca](https://open.spotify.com/album/1U7twlJTRa1nMGpYMJgst0) | 3:53 | 2021-12-29 |  |
 | [El Gato Pachucon](https://open.spotify.com/track/3BFWplkj1TVG0vgYpoPsfV) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 2:54 | 2021-12-29 |  |

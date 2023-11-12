@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 168640,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
@@ -2440,6 +2440,24 @@
       "duration_ms": 200219,
       "name": "In a Stranger's Arms",
       "url": "https://open.spotify.com/track/5Tl8bvgo5shLODXiT9ckva"
+    },
+    {
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201391,
+      "name": "In a Stranger's Arms",
+      "url": "https://open.spotify.com/track/00K0B8nvfmTif7poYsk378"
     },
     {
       "album": {

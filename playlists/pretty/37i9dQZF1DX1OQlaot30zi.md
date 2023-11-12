@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Niky Savage, Rondodasosa, Don Pero, Nello Taver e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,098 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,141 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 6 | [La Zona \(feat\. Néza, ASHE 22 & 3dnan\)](https://open.spotify.com/track/2C1jzRQhFgsbYDI4KLsn4O) | [SHB](https://open.spotify.com/artist/4uiEeT7dw0guTJ5CPMsX83), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz) | [La Zona \(feat\. Néza, ASHE 22 & 3dnan\)](https://open.spotify.com/album/69mTgcq0CndvT7lb7Iatnw) | 3:16 |
 | 7 | [Di Natale](https://open.spotify.com/track/4dohdUk070ypXysL37PbB6) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [Di Natale](https://open.spotify.com/album/2XsJPF7ARDvcIdinl5WB5P) | 2:22 |
 | 8 | [Nun M Piac](https://open.spotify.com/track/3sjBNn9CaNoYsgUjNsDhGR) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Fallimento](https://open.spotify.com/album/6UNrFhCWIluSg7ohTmtg4M) | 2:35 |
-| 9 | [MR\. Komparema](https://open.spotify.com/track/7w1GKWfLUH2D1Vulpfj39v) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [MR\. Komparema](https://open.spotify.com/album/5tyllTKb9B39wOIHbGEKEz) | 2:02 |
+| 9 | [Mr\. Komparema](https://open.spotify.com/track/7w1GKWfLUH2D1Vulpfj39v) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Mr\. Komparema](https://open.spotify.com/album/5tyllTKb9B39wOIHbGEKEz) | 2:02 |
 | 10 | [POLO \(feat\. Geolier\)](https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IERI, OGGI E DOMANI](https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5) | 2:30 |
 | 11 | [Eddie Guerrero \(feat\. Side Baby\)](https://open.spotify.com/track/7e9GiSZmiY6LwNd3P2Tt4Z) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [Eddie Guerrero \(feat\. Side Baby\)](https://open.spotify.com/album/08tQCu8deb5VDYe5NkFOy3) | 3:15 |
 | 12 | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/track/4kiqhvWcwNRsVqVvJgRnMw) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/album/5PFZTJevhf66nTd6R1Pewz) | 2:44 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 17 | [Harlem](https://open.spotify.com/track/7vhsMlVPv4fLIII9JCLWXN) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Murad](https://open.spotify.com/artist/7EzXR09A6dIhmZOVsAGdkV) | [Harlem](https://open.spotify.com/album/5dxqpk77RI8xgFtLDvSEfC) | 1:48 |
 | 18 | [SUD ITALIAN DREAM](https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [SUD ITALIAN DREAM](https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut) | 3:06 |
 | 19 | [TUTT' APPOST'](https://open.spotify.com/track/1x4c3uX52ae6HDhRjbLbyK) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [TUTT' APPOST'](https://open.spotify.com/album/5NrcqBcTO44gZq6hoNJucN) | 2:18 |
-| 20 | [MARIONETTA](https://open.spotify.com/track/46WNUCRiNAAdBLlxMsnPTF) | [Bl4ir](https://open.spotify.com/artist/75be7XA6WPIE5UWcBzEYIx), [Vinz Turner](https://open.spotify.com/artist/0dohNRmjEE6N4WVFLQrIWd) | [MARIONETTA](https://open.spotify.com/album/34tujN2HpcVZnBWzJyRKEn) | 2:47 |
+| 20 | [MARIONETTA](https://open.spotify.com/track/46WNUCRiNAAdBLlxMsnPTF) | [Bl4ir](https://open.spotify.com/artist/75be7XA6WPIE5UWcBzEYIx), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [MARIONETTA](https://open.spotify.com/album/34tujN2HpcVZnBWzJyRKEn) | 2:47 |
 | 21 | [Broke](https://open.spotify.com/track/1zemNOmuQYptCtCc3QQbph) | [Dow](https://open.spotify.com/artist/4NsfATMFuftiYl9rWEEuYE) | [Broke](https://open.spotify.com/album/1dyaNG80ysasdkNS4E2K3q) | 1:53 |
 | 22 | [Moltisanti](https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T), [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [Gifted](https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs) | 3:23 |
 | 23 | [NOIA\-ADRENALINA](https://open.spotify.com/track/6RAvw794vTi7l5aRJmrRmX) | [Madblow](https://open.spotify.com/artist/4XDTqFFJjnACvhFlRgUOae) | [AURORA](https://open.spotify.com/album/77DZzEZ9nJOIBH2K686D6t) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Battle Royale](https://open.spotify.com/track/71DslySNgv6dXKutbPlqsx) | [Faser](https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z) | [Smetto quando voglio](https://open.spotify.com/album/5knZxih0JUHM43QEoOZcF0) | 2:16 |
 | 100 | [Violento](https://open.spotify.com/track/3H7V7JQJGSyRyo98vW0V0d) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [Violento](https://open.spotify.com/album/57OEK02UVUZbhTPCTakzBN) | 2:50 |
 
-Snapshot ID: `MCw4MmU4MmZjY2JiMThjYzM1MmRmZmU1MThkZmI1M2U3YjViNGE0MTFl`
+Snapshot ID: `MCxhZDU3ZDQzMzc4YzE2ZDYzNjliYjY2MmIxMDhmZDUzYWY5MWM0N2E2`

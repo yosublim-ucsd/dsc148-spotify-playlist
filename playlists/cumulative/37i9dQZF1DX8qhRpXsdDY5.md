@@ -4,7 +4,7 @@
 
 > Latin classics to get you in the Christmas spirit\. Cover: José Feliciano
 
-235 songs - 14 hr 0 min
+236 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [24 de Diciembre](https://open.spotify.com/track/4NRHORueJPu3Cql7yTwTEW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 3:30 | 2021-12-17 | 2022-12-19 |
 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 | 2022-12-18 | 2022-12-20 |
 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 | 2021-12-17 | 2022-12-20 |
+| [5 Pa´ Las 12](https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi) | [Rondalla Y Coro Infantil Suarez](https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q) | [Ring, Ring Villancicos Navideños Con Rondalla Y Coro Infantil Suarez](https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19) | 3:03 | 2023-11-02 |  |
 | [A Los Santos Reyes](https://open.spotify.com/track/4vsK1bmXUad3pPlvxJXtEO) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Navidades En Puerto Rico](https://open.spotify.com/album/7393KrSbVXe5SMHJ5xazf0) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [A los Santos Reyes](https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Navidades En Puerto Rico](https://open.spotify.com/album/6FdVveHqsMNEPXFjvw18wZ) | 3:02 | 2021-12-17 | 2022-11-13 |
 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 | 2022-12-19 |  |
@@ -55,7 +56,7 @@
 | [Cantemos Todos Cantemos](https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Navidad \- Canta Gallo, Canta](https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS) | 4:17 | 2021-12-17 | 2022-12-19 |
 | [Christmas in California \(Latin Version\)](https://open.spotify.com/track/61UqDZ19KPdYj60nbVG7br) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Raff Pylon](https://open.spotify.com/artist/6XuPqTcx9G6F1Y5q0n9oB1), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Christmas in California \(Latin Version\)](https://open.spotify.com/album/73h5RtUWFdShegRwqZgTJJ) | 3:52 | 2021-12-17 | 2022-11-17 |
 | [Christmas Through Your Eyes](https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 5:00 | 2021-12-17 | 2022-12-19 |
-| [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 | 2022-12-19 |  |
+| [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 | 2022-12-19 | 2023-11-12 |
 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 | 2022-12-13 | 2022-12-20 |
 | [Cómo Poder Olvidar \- Spotify Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-16 | 2022-12-20 |
 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 | 2022-12-19 |  |

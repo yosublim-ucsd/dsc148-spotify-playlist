@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,456 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,498 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 28 | [Nevar](https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 6:40 |
 | 29 | [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 |
 | 30 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
-| 31 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
-| 32 | [Astral](https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Niña indigo](https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9) | [Astral](https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh) | 5:48 |
+| 31 | [Astral](https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Niña indigo](https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9) | [Astral](https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh) | 5:48 |
+| 32 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
 | 33 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 |
 | 34 | [Pura Flor \(El Búho Remix\)](https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Aurora Remixed](https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb) | 4:14 |
 | 35 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 49 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 |
 | 50 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
 | 51 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
-| 52 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
-| 53 | [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 |
+| 52 | [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 |
+| 53 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 54 | [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 |
 | 55 | [El Quemado](https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 3:16 |
 | 56 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
 | 57 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
 | 58 | [Sueño Marino](https://open.spotify.com/track/0ajaJkoPOJwT3Ks3GlKQ8G) | [Khromatik](https://open.spotify.com/artist/6eCeb68g0FYtyhBxInbFnm), [Chaska Paucar](https://open.spotify.com/artist/3JqFAeIYsQ87PG5J8mC5bv) | [Sueño Marino](https://open.spotify.com/album/4Zum2b4dCeuUviiWKKMMdS) | 3:01 |
-| 59 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
-| 60 | [El Mago Georges](https://open.spotify.com/track/7aNo1mzQehEj0K8SBsMAVp) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/2sYEdoLqzCfNjVJysNB2vN) | 3:55 |
+| 59 | [El Mago Georges](https://open.spotify.com/track/7aNo1mzQehEj0K8SBsMAVp) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/2sYEdoLqzCfNjVJysNB2vN) | 3:55 |
+| 60 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
 
-Snapshot ID: `MCwyM2FkZDllNzRiOWJmMmMwN2ZiNTBjNThmNWM4ZWQzNjdlNTRiZDQ3`
+Snapshot ID: `MCxiYTI0ODg0YmI2NjM0MTIzOTcxYzczZWIxNWE1ZDg2ZjEwOWE2MDE1`

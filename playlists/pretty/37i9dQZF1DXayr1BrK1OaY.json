@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 195732,
+  "num_followers": 195863,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGU0NmI2YTZkYmNhZTRiYjliY2M0YzI0YmQ3NWM5NDFhZTQzMTIw",
+  "snapshot_id": "MCw2Y2RmZDdmNGQyOTNlNzEwOGQ1ZTFiOTA0MjA5YjA5YmY3NjI1MTVi",
   "tracks": [
     {
       "added_at": "2023-11-10 17:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2023-11-10 17:00:00",
+      "album": {
         "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 175748,
       "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
-    },
-    {
-      "added_at": "2023-11-10 17:00:00",
-      "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2023-11-10 17:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
-    },
-    {
-      "added_at": "2023-11-10 17:00:00",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 226791,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
+    },
+    {
+      "added_at": "2023-11-10 17:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
     },
     {
       "added_at": "2023-11-10 17:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2023-11-10 17:00:00",
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2023-11-10 17:00:00",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2023-11-10 17:00:00",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-11-10 17:00:00",
@@ -899,22 +895,22 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+      "duration_ms": 214546,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
     },
     {
       "added_at": "2023-11-10 17:00:00",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "added_at": "2023-11-10 17:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
-        "name": "Dancing With A Ghost",
-        "url": "https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 153904,
-      "name": "Dancing With A Ghost",
-      "url": "https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc"
-    },
-    {
-      "added_at": "2023-11-10 17:00:00",
-      "album": {
         "name": "A Girl Between Two Worlds",
         "url": "https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
+        "name": "Dancing With A Ghost",
+        "url": "https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "Dancing With A Ghost",
+      "url": "https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc"
+    },
+    {
+      "added_at": "2023-11-10 17:00:00",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-10 17:00:00",
       "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 195757,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
-    },
-    {
-      "added_at": "2023-11-10 17:00:00",
-      "album": {
         "name": "Lone Raver",
         "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+    },
+    {
+      "added_at": "2023-11-10 17:00:00",
+      "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
     },
     {
       "added_at": "2023-11-10 17:00:00",

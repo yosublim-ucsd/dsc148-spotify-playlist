@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,744 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,773 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
 | 50 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
 
-Snapshot ID: `MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2`
+Snapshot ID: `MCxmNzUxMjhiNTJkNjdmZTE3N2E3ZTgzOTc3Y2I2N2Q2NWE1YjZhZmZl`

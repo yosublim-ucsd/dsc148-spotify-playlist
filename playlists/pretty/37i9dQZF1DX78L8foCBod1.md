@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,731 likes - 90 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,756 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 89 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 |
 | 90 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び!\~](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `MCwxMTEwZDVmNzllNDQxNGY4Y2M1ZmVlMWNiN2VlMTNkYzE0Y2VlMjJj`
+Snapshot ID: `MCxkMzk0YTU5NTI4OTY2YTk5OWJkY2VlODk1OGUyNmMxMzI2N2Q4M2Mz`

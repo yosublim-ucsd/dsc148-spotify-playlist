@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-568 songs - 2 day 5 hr 30 min
+569 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Stokers Motor](https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR) | [7 Hurtz](https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP) | [Audiophiliac](https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4) | 3:38 | 2022-04-13 | 2023-02-21 |
 | [Stor Eiglass](https://open.spotify.com/track/6grswoSfD7igOq7BXNsUPI) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Damogen Furies](https://open.spotify.com/album/6g7mrQCnCgS6lp2ZNFzkIU) | 4:32 | 2022-04-13 | 2022-07-15 |
 | [Striffle](https://open.spotify.com/track/0327v8BnZjCViV6EOgp4YK) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [Rojo\. Esee](https://open.spotify.com/album/39m6TRtoJjmEuyipbOsGoV) | 7:06 | 2022-04-13 | 2022-07-29 |
+| [Swurlk \(snarlfingercroak mix\)](https://open.spotify.com/track/5JfeCTGBcVxeGiCffd1HvM) | [EOD](https://open.spotify.com/artist/1Tq2a9YUspYALPbsIr1jcr) | [Swurlk EP](https://open.spotify.com/album/5QKKqgFFNXyDDXaNMwl8RK) | 5:21 | 2022-04-13 |  |
 | [Swurlk \(snarlfingercroak mix\)](https://open.spotify.com/track/6rFCSylpc7uX3lGDLVdtP3) | [EOD](https://open.spotify.com/artist/1Tq2a9YUspYALPbsIr1jcr) | [Swurlk EP](https://open.spotify.com/album/28hMJ7aimprzfRpgvE4yML) | 5:21 | 2022-04-13 | 2023-11-11 |
 | [Symmetry](https://open.spotify.com/track/3pByYwU3YJCJ8Fbd3RfAPq) | [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Artificial Intelligence II](https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R) | 6:07 | 2022-04-13 |  |
 | [Symmetry](https://open.spotify.com/track/4zDCKxKDtcZwY5rFTRn4lh) | [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Artificial Intelligence II](https://open.spotify.com/album/76RSvTjwI1rjqnqBb2TUXq) | 6:07 | 2022-04-13 | 2023-02-03 |
@@ -524,7 +525,7 @@
 | [UT1\-Dot](https://open.spotify.com/track/3FjwCHx55r5j7gAa2brXGo) | [Polygon Window](https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w) | [Surfing On Sine Waves](https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7) | 5:20 | 2022-04-13 |  |
 | [Utuba](https://open.spotify.com/track/2xKwuAoNOAQ71dRYDT1mhB) | [Beaumont Hannant](https://open.spotify.com/artist/6DvcKNW1Fs3B4aAktmpb2S) | [Artificial Intelligence II](https://open.spotify.com/album/76RSvTjwI1rjqnqBb2TUXq) | 8:12 | 2022-04-13 | 2023-02-02 |
 | [Utuba](https://open.spotify.com/track/5vMD2TirEeF6CzPwy6Bq3Q) | [Beaumont Hannant](https://open.spotify.com/artist/6DvcKNW1Fs3B4aAktmpb2S) | [Artificial Intelligence II](https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R) | 8:12 | 2022-04-13 |  |
-| [Vacetious Blooms](https://open.spotify.com/track/0K3PRZFyz9MQ04ANNYZh0a) | [Neotropic](https://open.spotify.com/artist/0J7MEv1kdBkTE4HzW7FtoH) | [Funkungfusion](https://open.spotify.com/album/1Jt4U6fyDbmypPeOjfipQU) | 4:30 | 2022-04-13 |  |
+| [Vacetious Blooms](https://open.spotify.com/track/0K3PRZFyz9MQ04ANNYZh0a) | [Neotropic](https://open.spotify.com/artist/0J7MEv1kdBkTE4HzW7FtoH) | [Funkungfusion](https://open.spotify.com/album/1Jt4U6fyDbmypPeOjfipQU) | 4:30 | 2022-04-13 | 2023-11-12 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-04-13 |  |
 | [Vatstep Dsp](https://open.spotify.com/track/4qBckLhKUqDhgUOI0eWCYu) | [Hrvatski](https://open.spotify.com/artist/0Li1NnItMz6nHmW1rHS744) | [Swarm & Dither](https://open.spotify.com/album/1BWcr5O78mwjGdqTJlbMrK) | 5:59 | 2022-04-13 | 2022-07-13 |
 | [Vatstep Dsp](https://open.spotify.com/track/6AWnylHYhAFyHaiQCkLQZ7) | [Hrvatski](https://open.spotify.com/artist/0Li1NnItMz6nHmW1rHS744) | [Swarm & Dither](https://open.spotify.com/album/1zj5fneHRoNF11WeK4G8c8) | 5:59 | 2022-04-13 | 2023-02-04 |

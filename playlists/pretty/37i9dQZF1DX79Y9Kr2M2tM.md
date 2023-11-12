@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,774 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,820 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 83 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
 | 84 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
 | 85 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
-| 86 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
-| 87 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
-| 88 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
-| 89 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
-| 90 | [Everyone's Moving Out East](https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:12 |
-| 91 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 |
-| 92 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
-| 93 | [To Each His Own](https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:10 |
-| 94 | [Dreamer](https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:46 |
+| 86 | [Everyone's Moving Out East](https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:12 |
+| 87 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
+| 88 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
+| 89 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 90 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
+| 91 | [To Each His Own](https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:10 |
+| 92 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 |
+| 93 | [Don't Go Far](https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 3:39 |
+| 94 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
 | 95 | [I Still Remain](https://open.spotify.com/track/5Q1Bjrgo3VqdyyojOkpXvW) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX) | 4:29 |
-| 96 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
+| 96 | [Dreamer](https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:46 |
 | 97 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
-| 98 | [Don't Go Far](https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 3:39 |
+| 98 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
 | 99 | [Society](https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u) | 3:53 |
-| 100 | [Overlook](https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt) | [Jack Bradley Vaught](https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED) | [Overlook](https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd) | 2:41 |
+| 100 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 
-Snapshot ID: `MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4`
+Snapshot ID: `MCxlYjI4MjY4MjI0OWUxNjY5ZmZjMTA4MTQwZjZjZmY2OGNhYTIwYTNj`

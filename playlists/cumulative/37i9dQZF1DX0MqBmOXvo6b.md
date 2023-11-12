@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-590 songs - 1 day 1 hr 6 min
+591 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-06-07 |  |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2022-06-07 |  |
+| [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2022-06-07 | 2023-08-16 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-04-06 |
 | [Bientôt](https://open.spotify.com/track/5BCjakwTtgiYjWU8eJTngo) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Bientôt](https://open.spotify.com/album/1Mr8xQQzTysGvHXRmS8O0N) | 1:58 | 2022-06-07 | 2022-09-24 |
@@ -518,7 +519,7 @@
 | [There and Then](https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [There and Then](https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF) | 1:57 | 2022-06-07 | 2023-07-25 |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2022-06-07 |  |
 | [Thrones](https://open.spotify.com/track/1NHvSdiYTx5KMUgu4hTQoA) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Sleepwalker](https://open.spotify.com/album/5WTzeQpQUQXwWQFDsgei3o) | 1:59 | 2022-06-07 | 2022-09-24 |
-| [Tinamou](https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Tinamou](https://open.spotify.com/album/5OjbY0PN6lQmDdaXWMiPJM) | 2:35 | 2022-06-07 |  |
+| [Tinamou](https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Tinamou](https://open.spotify.com/album/5OjbY0PN6lQmDdaXWMiPJM) | 2:35 | 2022-06-07 | 2023-11-12 |
 | [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2022-06-07 |  |
 | [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2022-06-07 | 2023-01-05 |
 | [Tout a un sens](https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Tout a un sens](https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE) | 2:15 | 2023-05-03 | 2023-11-04 |

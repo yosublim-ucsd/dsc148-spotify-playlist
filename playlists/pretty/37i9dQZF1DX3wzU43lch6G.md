@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,349 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,352 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 26 | [Aldatıldık](https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Aldatıldık](https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s) | 3:06 |
 | 27 | [Unuttum Derdimi](https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Unuttum Derdimi](https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s) | 3:49 |
 | 28 | [Yalnız Ölmek](https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO) | [Can Güngör](https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN) | [Yalnız Ölmek](https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh) | 3:47 |
-| 29 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
-| 30 | [Tutamıyorum Zamanı](https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Ex Aşkım](https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL) | 3:57 |
+| 29 | [Tutamıyorum Zamanı](https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Ex Aşkım](https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL) | 3:57 |
+| 30 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
 | 31 | [Tatlım Tatlım](https://open.spotify.com/track/3Aom5X5c2JynUHtSpnqNIG) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/7qU1wsdRbnLXCkNEjotc2p) | 3:35 |
 | 32 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |
 | 33 | [Nara](https://open.spotify.com/track/11m3VyqxqUiiviJnwEzwBb) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Şehir Yalnızlığı](https://open.spotify.com/album/5MgGccROaHVkJQJaR8Ok1r) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Ben Her Zaman Sana Aşıktım](https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 2:57 |
 | 50 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
 
-Snapshot ID: `MCw0YTRjZmE2NzUzYzAzMTliNGRkY2M5ZTE3ZTdkZDE4Yzk4ZmRjM2U4`
+Snapshot ID: `MCw1YjEyZjk4N2NlNGMxNDZkZTEyMzVjZjhhMTMyNzJlMTk3NzkwZGFj`

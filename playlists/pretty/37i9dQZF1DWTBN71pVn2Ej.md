@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,340 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,418 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Hypernormalisation](https://open.spotify.com/track/2J0rZv5OT6Sop5M52ezhwO) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Hypernormalisation](https://open.spotify.com/album/2Meh2es5kGWqM1CcqgLt3i) | 3:27 |
 | 50 | [Victim](https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 3:44 |
 
-Snapshot ID: `MCxjOWNjNjkwYjgxMWJhYmQ5MWQyNWU1MGVkZTQ4OTEyZDA2ZTA5NGUy`
+Snapshot ID: `MCwxNTI1MDgyNzgwMTBiZDQwODJjMzk2MWMyOTUxNjQ3MDU4MzA2Nzc3`

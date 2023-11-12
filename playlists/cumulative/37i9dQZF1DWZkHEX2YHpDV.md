@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,068 songs - 2 day 8 hr 26 min
+1,069 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,7 +894,7 @@
 | [TELL ME SOMETHING](https://open.spotify.com/track/14H0nxeKjs053w9hQo7XJk) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [TELL ME SOMETHING](https://open.spotify.com/album/173wMqOzorgtnFnseokb1W) | 2:45 | 2022-12-07 | 2023-04-11 |
 | [Tell Me You're Sorry](https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Tell Me You're Sorry](https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N) | 2:48 | 2022-02-11 |  |
 | [Temper](https://open.spotify.com/track/7LadUBljqx0uNKq9gOctUo) | [Hidden In Plain View](https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4) | [Temper](https://open.spotify.com/album/6DtVGqzADtenexnMDQ0Sso) | 2:27 | 2022-04-08 | 2022-07-29 |
-| [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-23 |  |
+| [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-23 | 2023-11-12 |
 | [Thanks, I Hate It](https://open.spotify.com/track/1DVPl37UU468V6RK8fMJPX) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Thanks, I Hate It](https://open.spotify.com/album/5maB3BSB7Lo0ykXq0ihbSR) | 2:57 | 2021-12-10 | 2022-05-20 |
 | [THAT ONE SONG](https://open.spotify.com/track/1f8JpHrCJpqYUyT4DSzz20) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [THAT ONE SONG](https://open.spotify.com/album/1W9zc0MZLktpJKsj27iKb7) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 | 2023-06-09 | 2023-07-15 |
@@ -1057,6 +1057,7 @@
 | [Wrong One](https://open.spotify.com/track/6zQqkXYG54BDVEYfFP33wX) | [A Better Hand](https://open.spotify.com/artist/47xNUgLIu6skUOgb8PEuEI) | [Wrong One](https://open.spotify.com/album/08TunwZX7r700eeKguWyF8) | 2:54 | 2021-12-10 | 2022-07-20 |
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2igMBTs1a8cwHkwIXOmtBq) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/album/7oQO6rAWUCj7lQ5W7p96wz) | 3:45 | 2022-06-24 | 2022-08-03 |
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:45 | 2022-09-30 |  |
+| [YEAH!](https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [YEAH!](https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc) | 3:02 | 2023-11-10 |  |
 | [You](https://open.spotify.com/track/0cB71XryMznWQ6klBUovgm) | [Storyteller](https://open.spotify.com/artist/2bhEQqmUj9qtDOcqj8AZzB) | [You](https://open.spotify.com/album/4SXc5fzefGaZE4WRdyf3hB) | 3:31 | 2022-03-25 | 2022-04-18 |
 | [You and Me \(Forever\)](https://open.spotify.com/track/4UoCW9HNxMWqHDDMQsXKL4) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [You and Me \(Forever\)](https://open.spotify.com/album/3xgU7O3LWEPPGFWXfmVq8k) | 2:29 | 2021-12-10 | 2022-06-19 |
 | [you broke me first](https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [you broke me first](https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf) | 2:48 | 2021-12-10 | 2023-04-11 |

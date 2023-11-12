@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,538 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,601 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 21 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 |
 | 22 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
 | 23 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 |
-| 24 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
+| 24 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
 | 25 | [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 |
-| 26 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
+| 26 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 27 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
 | 28 | [Loser \- Edit](https://open.spotify.com/track/40Q0U7FEgv7ZVo4T9YSv2R) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Loser](https://open.spotify.com/album/0jwuVql8QMl6RxFopURjAc) | 2:53 |
 | 29 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 50 | [Hayling](https://open.spotify.com/track/5ewsTJzfU5eiBLcGlaSrpG) | [FC Kahuna](https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg), [Hafdis Huld](https://open.spotify.com/artist/49gtDVpCBqLszTPkOy8idU) | [Machine Says Yes](https://open.spotify.com/album/2IHhaQat5XDDqjlU57CRPo) | 6:47 |
 
-Snapshot ID: `MCxiMDVkYmFhNDhjYTAyOTVjNDFhYzc5YTMxMTFiYWZjZDBkNmRlNTA4`
+Snapshot ID: `MCxmNzFmYjBiZGU4NDU2NDYwOGVhNDI3ZDU3OTgyZWU5ZjFkMTE1NDcz`

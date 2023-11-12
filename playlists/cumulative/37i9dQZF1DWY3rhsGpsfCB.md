@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-434 songs - 22 hr 52 min
+436 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 | 2023-09-25 |
 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-10-06 | 2023-11-05 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-06-23 |
+| [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-10 |  |
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 | 2023-11-03 |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-13 | 2023-02-17 |
 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 | 2023-06-02 |  |
@@ -108,7 +109,7 @@
 | [Evergreen](https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT) | [Evergreen](https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB) | 2:44 | 2023-04-14 | 2023-05-27 |
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-06-24 | 2023-02-11 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-12 | 2023-02-17 |
-| [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-02 |  |
+| [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-02 | 2023-11-12 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-06-24 | 2023-02-24 |
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-20 | 2023-10-13 |
 | [Fan](https://open.spotify.com/track/5IDvV5y6vl4Xcj6p4gAMfV) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:09 | 2023-03-13 | 2023-03-25 |
@@ -202,7 +203,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-12 | 2023-02-17 |
 | [Let me go](https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Let me go](https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS) | 3:20 | 2023-03-30 | 2023-04-26 |
 | [Let Me Love You Now](https://open.spotify.com/track/1RDtcptsGUwhOgL58GYtTC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Let Me Love You Now](https://open.spotify.com/album/5puHhqrH1Bgnhj86KpdhOW) | 3:47 | 2022-12-02 | 2022-12-09 |
-| [Lethal](https://open.spotify.com/track/1wSCqDsbq40qjABlTj9e9G) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Lethal](https://open.spotify.com/album/34L0y1MMn3tvxZilI8ZUAH) | 2:52 | 2023-11-03 |  |
+| [Lethal](https://open.spotify.com/track/1wSCqDsbq40qjABlTj9e9G) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Lethal](https://open.spotify.com/album/34L0y1MMn3tvxZilI8ZUAH) | 2:52 | 2023-11-03 | 2023-11-12 |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-06-24 | 2023-02-24 |
 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-06-24 | 2022-10-19 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-06-24 | 2023-02-17 |
@@ -396,6 +397,7 @@
 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-10-13 | 2023-10-18 |
 | [To You \(ft\. Ogranya\)](https://open.spotify.com/track/6MSMIDVpizkkdMMhKU082Y) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [To You](https://open.spotify.com/album/3pStwpL31q7JJaeQJH6VFZ) | 2:58 | 2023-07-20 | 2023-07-29 |
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-06-24 | 2023-06-03 |
+| [Touch Me Back](https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Touch Me Back](https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL) | 2:44 | 2023-11-10 |  |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 | 2023-05-14 |
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 |  |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-21 |  |

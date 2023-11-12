@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,845 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,923 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 10 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 11 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 12 | [Ella Se Fue](https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [La Sangre Nunca Muere](https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ) | 4:47 |
-| 13 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 |
-| 14 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
+| 13 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
+| 14 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 |
 | 15 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 |
 | 16 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
 | 17 | [Hey Si Me Ven](https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Volumen Prohibido](https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 50 | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP) | [Tha Mexakinz](https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN) | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7) | 3:47 |
 
-Snapshot ID: `MCw0NDlkM2MxODhiNTI5ZWI4NzhiOWI5MWFhOTYzYzMwMmYyMGE4N2Nj`
+Snapshot ID: `MCw1MzM3ZWUwZDJlMzE1MGU5ZDQyMmNmNjU4Yzg2NWMwMmYxYzM5YTQy`

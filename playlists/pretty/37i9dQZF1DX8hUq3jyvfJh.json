@@ -1,12 +1,12 @@
 {
   "description": "PRISCILLA e mais mulheres poderosas para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 153929,
+  "num_followers": 153958,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDIxN2QyOTdiNWRhMTA2ZWFlMWUxYjI4M2I3MGMxZDVhZDU1Mjdk",
+  "snapshot_id": "MCwxMWQ3MGZlYWEyY2VhNmNmZTI3OGRmOGFkYWYzZDRhYjE4YzIxNjg2",
   "tracks": [
     {
       "added_at": "2023-11-08 03:00:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-11-08 03:00:00",
       "album": {
-        "name": "No Escuro",
-        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 238384,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
-    },
-    {
-      "added_at": "2023-11-08 03:00:00",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 133517,
       "name": "Pensamentos Intrusivos",
       "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "added_at": "2023-11-08 03:00:00",
+      "album": {
+        "name": "No Escuro",
+        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 238384,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
     },
     {
       "added_at": "2023-11-08 03:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-11-08 03:00:00",
       "album": {
-        "name": "Sonhos & Ilus\u00f5es (acoustic)",
-        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Sonhos & Ilus\u00f5es - acoustic",
-      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
-    },
-    {
-      "added_at": "2023-11-08 03:00:00",
-      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2023-11-08 03:00:00",
+      "album": {
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
+        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
+      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
     },
     {
       "added_at": "2023-11-08 03:00:00",

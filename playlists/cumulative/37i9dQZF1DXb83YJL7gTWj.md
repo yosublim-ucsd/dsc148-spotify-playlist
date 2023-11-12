@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-287 songs - 16 hr 57 min
+288 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Home](https://open.spotify.com/track/3Fd1DPWahuBsv7HvcM36qG) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Home](https://open.spotify.com/album/2dCC5EFElFDCuxRaWCaZtp) | 3:35 | 2021-11-05 | 2022-03-19 |
 | [Homesick](https://open.spotify.com/track/5WyB2G0ecrM2qK3FJCkoUD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Homesick](https://open.spotify.com/album/5Rr8zvYPZpdrSoPxNH3q2h) | 3:02 | 2021-11-05 | 2022-03-18 |
 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 | 2021-11-05 |  |
-| [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 | 2021-11-05 |  |
+| [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 | 2021-11-05 | 2023-11-12 |
 | [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 | 2022-10-28 | 2022-11-13 |
 | [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 | 2021-11-05 | 2022-07-29 |
 | [I Do](https://open.spotify.com/track/5mpCx2nbXtAbnzd342Mwrb) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Do](https://open.spotify.com/album/5FGa9dsx41t70tKh0roFsm) | 3:37 | 2021-11-05 | 2022-03-19 |
@@ -139,6 +139,7 @@
 | [If You Need Me](https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If You Need Me](https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq) | 3:36 | 2021-11-05 | 2022-03-19 |
 | [Imagine](https://open.spotify.com/track/7d8j25luWxaBiYP19McSGG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 3:08 | 2022-02-11 | 2022-03-18 |
 | [In a Stranger's Arms](https://open.spotify.com/track/5Tl8bvgo5shLODXiT9ckva) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [In a Stranger's Arms](https://open.spotify.com/album/5fc9yi6CWLJltzalAhLOQg) | 3:20 | 2021-11-05 | 2022-07-29 |
+| [In a Stranger's Arms](https://open.spotify.com/track/00K0B8nvfmTif7poYsk378) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:21 | 2023-09-03 |  |
 | [In a Stranger's Arms](https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:21 | 2022-07-22 | 2023-11-06 |
 | [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-07-29 |
 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2021-11-05 |  |

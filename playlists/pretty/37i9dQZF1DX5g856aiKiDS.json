@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 480418,
+  "num_followers": 480482,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjY4NzM4MDc4NmJhZjViY2Q3NTYyMmNlZTVmOWQ5MzdmYTI2ZGQ5",
+  "snapshot_id": "MCxlYjc5MmU2N2JlOWFlZWRkYzk5MGFmMGI2ZjNiNDJlYWU3MDM1OWJl",
   "tracks": [
     {
       "added_at": "2023-11-04 06:03:46",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-11-04 06:03:46",
       "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2023-11-04 06:03:46",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-11-04 06:03:46",
-      "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2023-11-04 06:03:46",
@@ -771,8 +771,8 @@
     {
       "added_at": "2023-11-04 06:03:46",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2023-11-04 06:03:46",
@@ -875,8 +875,8 @@
     {
       "added_at": "2023-11-04 06:03:46",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2023-11-04 06:03:46",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-381 songs - 21 hr 53 min
+382 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,8 +275,9 @@
 | [Red Room \- Nick Hakim Remix](https://open.spotify.com/track/57VDhn2DUPl1rXuQF3bvgs) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 4:59 | 2022-10-27 |  |
 | [Respeck Due](https://open.spotify.com/track/0z1LNJ0w1XgsWuyqXpuAIO) | [Richie Brains](https://open.spotify.com/artist/5pN0ASHgOUkN3sSj6GMwfq), [Rider Shafique](https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq) | [Who Is Richie Brains](https://open.spotify.com/album/5vy59j7Lxx1VTGP35vRRjX) | 3:56 | 2022-02-04 | 2022-10-28 |
 | [RESPECT](https://open.spotify.com/track/1SZNl9ghP3M7nvkki8rzCu) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A), [LGP Qua](https://open.spotify.com/artist/3mCVZUKS4SXMHf7QdyKQFz) | [RESPECT](https://open.spotify.com/album/5au4sCWtFcJ70S74ABl9QZ) | 2:49 | 2022-04-26 |  |
-| [Rhodes Island](https://open.spotify.com/track/0E4mi5uLF3ekA5Y3qtZRtS) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/12KfWjfzBPV6ka9DgjSoXh) | 6:01 | 2023-03-08 |  |
+| [Rhodes Island](https://open.spotify.com/track/0E4mi5uLF3ekA5Y3qtZRtS) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/12KfWjfzBPV6ka9DgjSoXh) | 6:01 | 2023-03-08 | 2023-11-12 |
 | [Rhodes Island](https://open.spotify.com/track/0N9swinqUb8x2jLvlVtRLB) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/0yKfh88KH5q4cH4IS1Exyc) | 6:01 | 2023-03-08 | 2023-06-20 |
+| [Rhodes Island](https://open.spotify.com/track/6Wm0zHFswApxEBtvdK3sbt) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/3pVQXGj2QwUFpaDvQFzS3K) | 6:01 | 2023-10-24 |  |
 | [Rhodes Island](https://open.spotify.com/track/7lZRdAzjThgOBGWzEYCymj) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/0poEv0fHiNUAt6Nlnjrxai) | 6:01 | 2022-10-27 | 2023-04-09 |
 | [RIDE WITH ME](https://open.spotify.com/track/0Cl6B1TKMcwaSPFHcitZkf) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5LWlWvZX4MHdxD6BFMRdJ3) | 2:57 | 2023-03-08 |  |
 | [RIDE WITH ME](https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5tY1nlCQNEqmtXmTxgblRc) | 2:57 | 2022-12-05 | 2023-04-30 |

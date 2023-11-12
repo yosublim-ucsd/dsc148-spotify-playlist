@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-299 songs - 1 day 1 hr 54 min
+300 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Fire](https://open.spotify.com/track/0bnNVbXfCqJHjoJZ4r5dOD) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [Fire](https://open.spotify.com/album/6littGm4Q5kOOsirkJf21S) | 5:30 | 2021-12-23 | 2022-06-21 |
 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 | 2022-04-04 |  |
 | [Fjord](https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Fjord](https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS) | 4:10 | 2022-10-07 | 2022-10-20 |
-| [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 | 2022-09-09 |  |
+| [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 | 2022-09-09 | 2023-11-12 |
 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 | 2021-12-23 | 2022-11-09 |
 | [Follow the Light \- Monkey Safari Remix](https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp), [VARS](https://open.spotify.com/artist/7dqsxiqiRG5upZhT4bTBd1), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Follow the Light](https://open.spotify.com/album/6EHwa2mEEpPHZKrp12IBWN) | 6:07 | 2021-12-23 | 2022-07-28 |
 | [Fool's Gold \- ARPS Mix](https://open.spotify.com/track/3sN4ihJMrBfOZAU3PqlLc3) | [Karol XVII & MB Valence](https://open.spotify.com/artist/00LIVantW8SMg38JskHPbj), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [ARPS](https://open.spotify.com/artist/1wSPM7Q7HYvFPLFk2Ei3nk) | [Fool's Gold](https://open.spotify.com/album/6o5F69DTHxW2YlzeJwrjl8) | 7:00 | 2022-01-14 | 2022-07-29 |
@@ -261,6 +261,7 @@
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-12-23 | 2023-07-15 |
 | [The Atmospheric Halo Fades Into The Blackness Of Space](https://open.spotify.com/track/0dTHoB1jnkFBRzUqix7Iae) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Atmospheric Halo Fades Into The Blackness Of Space](https://open.spotify.com/album/18uvI78u8uUjsQzOd46KEJ) | 4:00 | 2022-03-08 | 2022-04-18 |
 | [The Center Will Not Hold](https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [The Center Will Not Hold](https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S) | 3:50 | 2021-12-23 | 2023-07-16 |
+| [The Center Will Not Hold](https://open.spotify.com/track/6bWj1Lr2CVhwzshkp42As8) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:50 | 2023-09-28 |  |
 | [The Dawn \- Sequenza Version](https://open.spotify.com/track/4bL7Tqc9ulHOijZs1d5J1r) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 7:28 | 2021-12-23 | 2022-04-29 |
 | [The Endless Fall](https://open.spotify.com/track/336URfYYD0JkrbM5LSHAhC) | [Illusory](https://open.spotify.com/artist/0Kj3KkhBr9jUjE88mdTPFa) | [The Endless Fall](https://open.spotify.com/album/1SpXh9yQWxUE61SdVA942r) | 7:36 | 2022-04-04 | 2022-07-14 |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2021-12-23 | 2022-10-01 |

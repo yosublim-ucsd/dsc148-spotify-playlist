@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: Mai Davika
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,632 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,648 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 42 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 |
 | 43 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
 | 44 | [เพื่อใคร \- Young Play Project](https://open.spotify.com/track/37nTmLlO3b6x7rqpAsjIOO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เพื่อใคร \- Young Play Project](https://open.spotify.com/album/51Rw7tcvPFoW5jB24DXnby) | 3:02 |
-| 45 | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี](https://open.spotify.com/track/2C5J9uFIOCN2XiMKJlSSTH) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี](https://open.spotify.com/album/5kMZzGZPmzR1p5X8O67fSu) | 4:40 |
+| 45 | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี](https://open.spotify.com/track/2C5J9uFIOCN2XiMKJlSSTH) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี \- Single](https://open.spotify.com/album/5kMZzGZPmzR1p5X8O67fSu) | 4:40 |
 | 46 | [X](https://open.spotify.com/track/2OejZp2MEF54O0JNJxeaOp) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [X](https://open.spotify.com/album/2hR0TzlsA0qff4R3DV3KYP) | 3:23 |
 | 47 | [เสื้อมือสาม \- Surprise Gift](https://open.spotify.com/track/3VcHXLA856rRARnDW49fCn) | [PAWAE](https://open.spotify.com/artist/0phCZmKiRPoDuLUBL7SaSZ) | [เสื้อมือสาม \(Surprise Gift\)](https://open.spotify.com/album/0lqV6ZsDdUmqS1A1PwRS4L) | 4:14 |
 | 48 | [Gone](https://open.spotify.com/track/1eiB2fGBIrOd1LiFdPTf0c) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [Gone](https://open.spotify.com/album/7aYaLTeGdD5L5k1hRkQkJx) | 3:38 |
 | 49 | [ใจเหลือเหลือ](https://open.spotify.com/track/5etlu2WUvdziSYZQAtBZmW) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ใจเหลือเหลือ](https://open.spotify.com/album/1l7zA5dsfIpWVh3EgUsT5R) | 3:33 |
 | 50 | [Closer \(Clothes Off\)](https://open.spotify.com/track/69PNolzZo5U1k73cZzvcVq) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [ANGELOGY](https://open.spotify.com/album/3EgQMtDdT3dEXhus3ZglOe) | 3:15 |
 
-Snapshot ID: `MCw5OGU0NmQ5Y2UxMGY1ZWVhZTA3NDQwM2YzOTE3OGU1MDQ2OGFjZDUy`
+Snapshot ID: `MCw0MTUwOWM2N2MwNGNjMzVlODdmOGI5MTA0NTZjNzMxM2FjNmNiMzI4`

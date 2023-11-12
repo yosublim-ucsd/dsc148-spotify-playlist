@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 230103,
+  "num_followers": 230120,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj",
+  "snapshot_id": "MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx",
   "tracks": [
     {
       "added_at": "2023-10-24 20:37:41",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "El Castillo",
         "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 282037,
       "name": "24/7",
       "url": "https://open.spotify.com/track/5OXU3FmTNq8scG4SZ7bWap"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
     },
     {
       "added_at": "2023-10-24 20:37:41",

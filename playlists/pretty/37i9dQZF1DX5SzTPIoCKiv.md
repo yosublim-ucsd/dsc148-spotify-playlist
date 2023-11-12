@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,145 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,213 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 |
 | 100 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 
-Snapshot ID: `MCw4NTNjYTcwNTYwNGIwZWNmZDRjOGNmY2ZlM2Y2OWRkMTM1OGVjN2Y5`
+Snapshot ID: `MCxlNGI2NTIwZjEwMDc4ZjkxODhjNGNiMjdkNzEyMTViY2QwMjI3MWQw`

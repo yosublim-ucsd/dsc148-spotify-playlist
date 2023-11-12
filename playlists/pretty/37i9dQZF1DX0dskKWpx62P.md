@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,813 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,852 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 44 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 |
 | 45 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
 | 46 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
-| 47 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
-| 48 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 47 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 48 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
 | 49 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
 | 50 | [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 |
 | 51 | [Soy Provinciano](https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf) | [Pumita Cazador](https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks) | [Soy Provinciano](https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt) | 6:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 60 | [Para Ti Pucarinita](https://open.spotify.com/track/4aoxRYIWNE4uLg5VKa23I8) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:47 |
 
-Snapshot ID: `MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk`
+Snapshot ID: `MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3`

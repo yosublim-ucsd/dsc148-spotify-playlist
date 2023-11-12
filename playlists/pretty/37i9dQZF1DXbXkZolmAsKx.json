@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 6927,
+  "num_followers": 6936,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGU2MmVmZGJiZmY2ZWI2N2EwZDljYjc4OTYwNDcyNDY5YjYyNWMy",
+  "snapshot_id": "MCxhZDNjNTEzN2Y5YjJkZjFlYjFkM2NjZmQ3ODFiM2IxOTczNGYzOTEz",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Replica",
-        "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 230759,
-      "name": "Submersible",
-      "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Void VIII",
         "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
         }
       ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -335,6 +319,22 @@
       "duration_ms": 563427,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 210118,
-      "name": "Semena Mertvykh",
-      "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Talk To The Sea",
         "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 199000,
       "name": "First Time Ruth Saw The Sea - Original Mix",
       "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 210118,
+      "name": "Semena Mertvykh",
+      "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 748623,
-      "name": "Walking in a spiral towards the house: Side D",
-      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Nightmare Ending",
         "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Low Distance",
-        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 227458,
-      "name": "Faded Earth",
-      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
+      "duration_ms": 748623,
+      "name": "Walking in a spiral towards the house: Side D",
+      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1315,6 +1299,22 @@
       "duration_ms": 134382,
       "name": "Bridgets' Theme",
       "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Low Distance",
+        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 227458,
+      "name": "Faded Earth",
+      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Breaks My Heart Each Time",
-        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
-      },
-      "artists": [
-        {
-          "name": "Leyland Kirby",
-          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
-        }
-      ],
-      "duration_ms": 558877,
-      "name": "Diminishing Emotion",
-      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+        "name": "Breaks My Heart Each Time",
+        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
       },
       "artists": [
         {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+          "name": "Leyland Kirby",
+          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
         }
       ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
+      "duration_ms": 558877,
+      "name": "Diminishing Emotion",
+      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Curious Things",
-        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "Ogives / Redistributed",
-      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1443,6 +1411,22 @@
       "duration_ms": 212839,
       "name": "LUX 1.4",
       "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Curious Things",
+        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "Ogives / Redistributed",
+      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Bring Me The Head of Kyle Bobby Dunn",
         "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 489535,
       "name": "An Evening With Dusty",
       "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        }
+      ],
+      "duration_ms": 373003,
+      "name": "Imprint (Bonus Track)",
+      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+        "name": "The Last of Our Time Together",
+        "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+          "name": "Hakobune",
+          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
         }
       ],
-      "duration_ms": 373003,
-      "name": "Imprint (Bonus Track)",
-      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
+      "duration_ms": 962000,
+      "name": "The Last of Our Time Together",
+      "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Last of Our Time Together",
-        "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
-      },
-      "artists": [
-        {
-          "name": "Hakobune",
-          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
-        }
-      ],
-      "duration_ms": 962000,
-      "name": "The Last of Our Time Together",
-      "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Drifters / Love Is the Devil",
         "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
       },
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
       },
       "artists": [
         {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Leandro Fresco",
-          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 464874,
-      "name": "Without Motion - Leandro Fresco Remix",
-      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1611,18 +1607,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Leandro Fresco",
+          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+      "duration_ms": 464874,
+      "name": "Without Motion - Leandro Fresco Remix",
+      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 348750,
-      "name": "Further Away - Beno\u00eet Pioulard Rework",
-      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "21 Exoticism ESCAP",
         "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 296133,
       "name": "Living Lens",
       "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "Further Away - Beno\u00eet Pioulard Rework",
+      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
     }
   ],
   "unique_name": "Ambient 2010s",

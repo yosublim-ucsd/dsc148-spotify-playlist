@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-619 songs - 1 day 10 hr 59 min
+620 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2021-05-01 | 2022-04-14 |
 | [Stay Together for the Kids](https://open.spotify.com/track/5E4BjzIU8Ci87Tr9oXZcNV) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Stay Together for the Kids](https://open.spotify.com/album/4O3HK2VsK8Byx6K8N0SiUf) | 2:34 | 2021-05-01 | 2022-04-14 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-04-13 |  |
-| [Stockholm](https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stockholm](https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0) | 3:17 | 2023-10-13 |  |
+| [Stockholm](https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stockholm](https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0) | 3:17 | 2023-10-13 | 2023-11-12 |
 | [Stop Sign](https://open.spotify.com/track/0rUy5il8xc12tbAkpHaubN) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/7FLYPQ543VVhvyrC1qIBH1) | 3:01 | 2023-01-11 | 2023-01-18 |
 | [Stop Sign](https://open.spotify.com/track/58EybRsv2eC0iUfiYTmw8a) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/39IWUYaXBd6p1DaBRq4UDO) | 3:01 | 2023-05-26 | 2023-09-30 |
 | [Stories](https://open.spotify.com/track/2RZZTpMYCpb86ZMmrnAbe9) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/4OuC5XWbbEuuo1Q7RetSLV) | 3:39 | 2021-05-01 | 2022-04-13 |
@@ -612,6 +612,7 @@
 | [Why You Gotta Do It](https://open.spotify.com/track/4gH3bjEbVBaWOJVikk7JPv) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Why You Gotta Do It](https://open.spotify.com/album/07eI2xGfn3TmIZTYY0UkQd) | 3:38 | 2021-05-01 | 2022-04-13 |
 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-26 |  |
 | [Wish We Could Be Friends](https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl) | 2:31 | 2023-05-26 | 2023-11-02 |
+| [Wish We Could Be Friends](https://open.spotify.com/track/0pIGVspjZpNrKNcwvYW16P) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:33 | 2023-10-13 |  |
 | [Wonderful Life \- Edit](https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/22fUT9dL0jQhBB5c05h4pj) | 3:05 | 2022-07-22 | 2022-07-28 |
 | [Yeah](https://open.spotify.com/track/6WtYaLMrdr2CKmUL59IRcz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH](https://open.spotify.com/album/4Dgtsf0LqQz9YO5Yxm8qlk) | 2:55 | 2021-05-01 | 2022-04-13 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/32giR6EjJXyPBPS83p3o48) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Yeah Yeah Yeah](https://open.spotify.com/album/4GqoyJCF14Wb3OjUBy3HOD) | 3:25 | 2021-05-01 | 2022-07-29 |

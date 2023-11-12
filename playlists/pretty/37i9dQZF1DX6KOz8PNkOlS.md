@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,166 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,336 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 16 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
 | 17 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 |
 | 18 | [Can't Fight](https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:10 |
-| 19 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
+| 19 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 |
 | 20 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 21 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
-| 22 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 |
+| 22 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
 | 23 | [Low](https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:34 |
 | 24 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 25 | [Thin Line](https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Duncan Bellamy](https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 34 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 |
 | 35 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 36 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 |
-| 37 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
-| 38 | [Move into Me](https://open.spotify.com/track/5PBIfafBl1Rw9XfrfGWa7z) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Move into Me](https://open.spotify.com/album/7n1dgpn5WHNm41zhxreu0D) | 4:18 |
+| 37 | [Move into Me](https://open.spotify.com/track/5PBIfafBl1Rw9XfrfGWa7z) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Move into Me](https://open.spotify.com/album/7n1dgpn5WHNm41zhxreu0D) | 4:18 |
+| 38 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
 | 39 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
 | 40 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 41 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 65 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
 | 66 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 | 67 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 |
-| 68 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
-| 69 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 |
+| 68 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 |
+| 69 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
 | 70 | [Spotlight \- Single Edit](https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Spotlight](https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u) | 4:12 |
 | 71 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
 | 72 | [Trouble](https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Trouble / In My Head](https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja) | 3:06 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 94 | [Ocean](https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 4:21 |
 | 95 | [Awake](https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST) | [Rosehip](https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT) | [Awake](https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK) | 3:06 |
 | 96 | [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 |
-| 97 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
-| 98 | [Baby Blu](https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 4:41 |
+| 97 | [Baby Blu](https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 4:41 |
+| 98 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
 | 99 | [Je t'aime encore](https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Je t'aime encore](https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ) | 3:37 |
 | 100 | [Jalisco](https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:42 |
 
-Snapshot ID: `MCw2MjMwOTdhYjQyODJlMDAxM2U2YTAwNDM2ZGEzOGUxYTA3OTdiMzM0`
+Snapshot ID: `MCw3YzkwYzMwZmRhYzI1YjA4NDZkZDVhZGNiYmI4MTU5NTBlZGIzMjk1`

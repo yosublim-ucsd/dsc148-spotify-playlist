@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,266 likes - 61 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,293 likes - 61 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 12 | [Boohoo \(feat\. Jeremih\)](https://open.spotify.com/track/14DdH1KiZPFBccrJvaXYhz) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:10 |
 | 13 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
 | 14 | [STRAWBERRY LOUIS VUITTON ft\. Thundercat and Maeta](https://open.spotify.com/track/1oX9O8hD9vysbWAINsTOLo) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Victor](https://open.spotify.com/album/5f6ffbksy06LKlWIfTc45g) | 2:38 |
-| 15 | [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 |
+| 15 | [30 FLOORS UP](https://open.spotify.com/track/3jEKJ7b2ApQ5Lmwdqj20O1) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:24 |
 | 16 | [SIDEKICK \(with Joyce Wrice\) \- BONUS](https://open.spotify.com/track/3vHyRGuJDnZ5IqK4BwjWXW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [moreward\(FORWARD\)](https://open.spotify.com/album/4dz4CiyJKCoHWyA7MuHbBx) | 2:14 |
 | 17 | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/5rgBgO4HZfem8Pdf6j9d3y) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/3VQJA4yTdEPDe8konqav6f) | 3:17 |
 | 18 | [Got Me Hot](https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Got Me Hot](https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j) | 2:50 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 60 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 | 61 | [Love Is Long](https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Love Is Long](https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM) | 3:19 |
 
-Snapshot ID: `MCxkMWZmNWM3ZDVhMGYxMTcxN2ZkNzg4MTRkODQ3ZTkyMjQ1ZTM2NTQ5`
+Snapshot ID: `MCxhZWY3ZGVlNGIwMGE1MDI1YjE3YWNmMjhkZWU3NTU2ZGZmNmExYzFk`

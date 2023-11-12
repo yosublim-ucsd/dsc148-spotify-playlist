@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1980s.
 
-323 songs - 23 hr 52 min
+324 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All This Love](https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 5:52 | 2022-01-10 | 2022-04-21 |
 | [All This Time](https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Hold An Old Friend's Hand](https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x) | 4:21 | 2022-01-10 |  |
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2021-02-02 | 2023-11-09 |
+| [Alone \- Remastered](https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Greatest Hits 1985\-1995](https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5) | 3:39 | 2023-01-24 |  |
 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 5:16 | 2022-05-25 | 2022-09-05 |
 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/3qgKTEfSdipwvnhbtoFLvY) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/6H8nIzTVjZNGYppJmDHDnO) | 5:16 | 2021-02-02 | 2022-07-26 |
 | [Angel Of The Morning](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 4:10 | 2022-01-10 |  |
@@ -107,7 +108,7 @@
 | [Heaven](https://open.spotify.com/track/4LOgi2TAAoKU9ImfzRrCPO) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/1DCI0mQQdf0LYoXheONDXi) | 4:03 | 2021-02-02 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 | 2022-05-25 |  |
 | [Hello](https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 4:06 | 2021-02-02 | 2022-07-29 |
-| [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 | 2022-05-25 |  |
+| [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 | 2022-05-25 | 2023-11-12 |
 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2022-01-10 |  |
 | [Hold Me Now](https://open.spotify.com/track/7KG1uA3O9cqahhVt5atWnB) | [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc) | [The Best Of Johnny Logan](https://open.spotify.com/album/5GlpiY5o7gbgAJQrVnYduA) | 3:03 | 2021-02-02 | 2022-07-24 |
 | [Hold Me Now](https://open.spotify.com/track/3xkoUGbf11dLvsfIdgfmIp) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [The Best of Thompson Twins Greatest Mixes](https://open.spotify.com/album/518KEiiREhbb0ks7rA6ACM) | 7:09 | 2022-01-10 | 2022-04-19 |

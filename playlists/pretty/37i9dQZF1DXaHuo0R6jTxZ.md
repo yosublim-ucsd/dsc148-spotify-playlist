@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,419 likes - 40 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,482 likes - 40 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 22 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
 | 23 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
 | 24 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
-| 25 | [Efred](https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Efred](https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI) | 4:52 |
-| 26 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
+| 25 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
+| 26 | [Efred](https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Efred](https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI) | 4:52 |
 | 27 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 | 28 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
 | 29 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [Lola El Saher](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
 | 40 | [مالي صبر](https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 5:22 |
 
-Snapshot ID: `MCw2ZGEyYWUwOWM3OWQxYTY5OWZiZWMxM2NmNzkxMDIwYjY3OWFhZDRk`
+Snapshot ID: `MCw0NzRhOTMzNGQwNzA5ZTlhNGI2ZGY3MjMwOWU0ZDRkODRhMjMwNjM3`

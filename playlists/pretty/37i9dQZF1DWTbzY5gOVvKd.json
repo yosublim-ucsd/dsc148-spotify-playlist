@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1203271,
+  "num_followers": 1203440,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzBhYmQ0NzU1ZTU5MDg0YWM0YmNjNTJmYjExMGI2MTg2NjQxMGE4",
+  "snapshot_id": "MCw4MDkwNDU0MzBmMzAzMWIyZmYwZWU5YTcxYzMwNDQ2OTY0NmM1YTg4",
   "tracks": [
     {
       "added_at": "2023-10-25 08:47:16",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Date With A Dream",
         "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 367453,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "It's Always You",
-      "url": "https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "It's Always You",
+      "url": "https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 331141,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 331141,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 276013,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1607,22 +1623,6 @@
       "duration_ms": 348740,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "This Life",
-        "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "Keep Me From The Cold",
-      "url": "https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Every Star Above",
         "url": "https://open.spotify.com/album/3XQQdLH50xIKm7uCDbUxRo"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 173360,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/6hg5wTCoUfUW8YBWThmpsK"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "Keep Me From The Cold",
+      "url": "https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE"
     },
     {
       "added_at": "2023-10-25 08:47:16",

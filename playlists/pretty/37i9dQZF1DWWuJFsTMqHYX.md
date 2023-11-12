@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,414 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,519 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 21 | [Tadieu Bone](https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/4mIsprnNBBsFjR8xPu60TT) | 4:23 |
 | 22 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
 | 23 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
-| 24 | [Haiyu](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
-| 25 | [Ruby](https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 5:55 |
+| 24 | [Ruby](https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 5:55 |
+| 25 | [Haiyu](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
 | 26 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
 | 27 | [Assossamagh](https://open.spotify.com/track/0AF7pSauVPUBhJbKlSbxwm) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:44 |
 | 28 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 40 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
 | 41 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 |
 | 42 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
-| 43 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
-| 44 | [Mimoun Marhaba](https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Marhaba](https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow) | 8:18 |
-| 45 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
-| 46 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
+| 43 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 5:28 |
+| 44 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
+| 45 | [Mimoun Marhaba](https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Marhaba](https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow) | 8:18 |
+| 46 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 | 47 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/7JhZnctUOHoRVXZnKP9cSB) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/6OUmsPAH0w42g1NCQYe5Qv) | 6:07 |
 | 48 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
-| 49 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 5:28 |
+| 49 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
 | 50 | [Manden Mandinkadenou \(Chant de griot\)](https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 4:41 |
 
-Snapshot ID: `MCwyNWU3MWM5OTAwYjQ4NjZlNzk1NjdhMTg3NTgyYTJhOGI3MjlhYzQ4`
+Snapshot ID: `MCxiYTg1NDQ0MmNkNGJhMWQ5MDdhZTJhYWMyMjJmNzk5MWU5MjJmMTMw`

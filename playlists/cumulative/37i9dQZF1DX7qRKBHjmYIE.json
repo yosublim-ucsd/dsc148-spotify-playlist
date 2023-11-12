@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Te Espero",
         "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
@@ -9338,7 +9356,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 169000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"

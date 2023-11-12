@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:2Ggj5XNlIb4Lnbqe307FyB">Lola Brooke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,468 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,465 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
 | 99 | [Love Bites](https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [Love Bites](https://open.spotify.com/album/2WOuUAtBrDEJOiDUnorXqL) | 2:58 |
 
-Snapshot ID: `MCxjZjc5YmI2YmQ1ZDE5OWY1NGJiYTg3NjBjZWJhOTY0ODcyYzVjYzVl`
+Snapshot ID: `MCxkMWIwZmE5ODRjNDYxM2Q4YmI5MDliMDA0MmMzOGM0Nzc1ZmJlM2E1`

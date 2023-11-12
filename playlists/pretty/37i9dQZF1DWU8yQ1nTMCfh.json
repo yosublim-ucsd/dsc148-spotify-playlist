@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Bruses",
-  "num_followers": 282462,
+  "num_followers": 282474,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTg5YjA0YzE3NTdiNTRlMWYyYjM2ODVkYjFiM2VlMmZiMGViNWQ0",
+  "snapshot_id": "MCxlMTk0ZGUwNDJhYjAyMDFmOGMyNDVkNDNmM2ZjMWQwZmM5MzQxNjUx",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
+      "duration_ms": 160986,
+      "name": "Las Dudas",
+      "url": "https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -191,22 +195,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 160986,
-      "name": "Las Dudas",
-      "url": "https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8"
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -467,8 +467,8 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Algo Me Dice",
-        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
       },
       "artists": [
         {
@@ -476,13 +476,13 @@
           "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         },
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 257008,
-      "name": "Algo Me Dice",
-      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
+      "duration_ms": 213371,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Greta Garbo",
         "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
+        "name": "Algo Me Dice",
+        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         },
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 213371,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
+      "duration_ms": 257008,
+      "name": "Algo Me Dice",
+      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "S\u00f3lo Eres T\u00fa",
         "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 233885,
       "name": "S\u00f3lo Eres T\u00fa",
       "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 187076,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 173499,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Si Te Quieres Quedar",
+        "url": "https://open.spotify.com/album/0zyd0kCgRJrxTwWswbvlo8"
+      },
+      "artists": [
+        {
+          "name": "NANO Mz",
+          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
+        },
+        {
+          "name": "NAVN",
+          "url": "https://open.spotify.com/artist/5MBNydlGFjLevRAAYCCQ3v"
+        }
+      ],
+      "duration_ms": 151525,
+      "name": "Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/2lkMkD3UsyAdkbFrG6Arzg"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "DESEO INMORTAL",
         "url": "https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv"
       },
@@ -1071,22 +1091,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Bajo Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 247947,
-      "name": "Bajo Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "M\u00e1s Tuyo",
         "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
@@ -1099,6 +1103,22 @@
       "duration_ms": 179891,
       "name": "M\u00e1s Tuyo",
       "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1131,26 +1151,6 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Si Te Quieres Quedar",
-        "url": "https://open.spotify.com/album/0zyd0kCgRJrxTwWswbvlo8"
-      },
-      "artists": [
-        {
-          "name": "NANO Mz",
-          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
-        },
-        {
-          "name": "NAVN",
-          "url": "https://open.spotify.com/artist/5MBNydlGFjLevRAAYCCQ3v"
-        }
-      ],
-      "duration_ms": 151525,
-      "name": "Si Te Quieres Quedar",
-      "url": "https://open.spotify.com/track/2lkMkD3UsyAdkbFrG6Arzg"
     },
     {
       "added_at": "2023-11-10 05:00:00",

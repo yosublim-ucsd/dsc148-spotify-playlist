@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,144 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,161 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 44 | [Los Besos](https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos](https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs) | 3:22 |
 | 45 | [Tu Foto Del DNI](https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8) | 2:59 |
 | 46 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
-| 47 | [High](https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [High](https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2) | 3:07 |
-| 48 | [Una Foto en Blanco y Negro](https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Una Foto en Blanco y Negro](https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI) | 3:32 |
+| 47 | [Una Foto en Blanco y Negro](https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Una Foto en Blanco y Negro](https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI) | 3:32 |
+| 48 | [High](https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [High](https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2) | 3:07 |
 | 49 | [Si por mi fuera](https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Si por mi fuera](https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ) | 3:28 |
 | 50 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
 | 51 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 | 60 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 
-Snapshot ID: `MCw0ZjQ2ZjNmMWFlYjliNDMxOWQzZWI2OTk4MWJhY2M1MWFkMTcyYTQ3`
+Snapshot ID: `MCw5MmJmYWVmYWJmMmY1OTg5YjIwZWMyNzlmMzBmMTE1Mzg2N2M4ZWM3`

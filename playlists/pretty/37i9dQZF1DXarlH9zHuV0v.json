@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 240694,
+  "num_followers": 240670,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
+  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -143,22 +143,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 175200,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -311,22 +311,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
-        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
-      },
-      "artists": [
-        {
-          "name": "The City of Prague Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "The Addams Family",
-      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 214960,
       "name": "Runnin' with the Devil - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
+        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -591,22 +591,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 313453,
-      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
         "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 202333,
       "name": "This is Halloween - Pop Version",
       "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
     },
     {
       "added_at": "2019-10-09 15:02:50",

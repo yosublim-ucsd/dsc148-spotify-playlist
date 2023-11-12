@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,976,665 likes - 100 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,983,853 likes - 100 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 54 | [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 |
 | 55 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 |
 | 56 | [Oppa](https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Oppa](https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig) | 1:27 |
-| 57 | [AREAMATE MIZ](https://open.spotify.com/track/0jFVh6ZKnTa7YeXhegoizc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5zjPzj6uBC7cKbBehDtsqc) | 1:20 |
+| 57 | [AREAMATE MIZ](https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX) | 1:20 |
 | 58 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 |
 | 59 | [COWBELL WARRIOR!](https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4) | 2:29 |
 | 60 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
 | 100 | [Phonk Bachi Bachi](https://open.spotify.com/track/4hx1w2XDXdS7w7cQ4NJxIj) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Phonk Bachi Bachi](https://open.spotify.com/album/6w26U8IiuMeNYdMAfX52W6) | 1:44 |
 
-Snapshot ID: `MCw1YWMwNGNkNGYzMmRhMmY0NjBjNGU0NmNmYjUwOTE3NzcyNTc0NWRh`
+Snapshot ID: `MCw5NTRkMjRkZDE3ZDdmNDg2YzFjOTFhYjgxZjM0NmY5NGJiMzYzNjM4`

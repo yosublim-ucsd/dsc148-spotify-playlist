@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,302 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,354 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 37 | [Open My Heart \- Live](https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Experience](https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz) | 7:45 |
 | 38 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Playlist: The Very Best Of Byron Cage](https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa) | 5:17 |
 | 39 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
-| 40 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 |
-| 41 | [Never Seen The Righteous \- Live](https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:41 |
+| 40 | [Never Seen The Righteous \- Live](https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:41 |
+| 41 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 |
 | 42 | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA) | 5:45 |
 | 43 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
 | 44 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Ooh Wee Another Blessing](https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc) | [Melvin Williams](https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 4:13 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MCw2NjNjMDY0N2M5ODMyOWU1ZDczYTQ0ZTM1YjU1MzU4ZmVkOTFhZDFk`
+Snapshot ID: `MCw0YWMxYThjOTRkNDUxNTNhMGIxNWY4Y2E0Y2IwYTI2MDI4MzZiZmIw`

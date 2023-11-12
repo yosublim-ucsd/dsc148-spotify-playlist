@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 94698,
+  "num_followers": 94742,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NkN2IwNjljM2JmYmI3YTJhMmY4NmNhNzAwZDJkNzNlZTI0ZjUy",
+  "snapshot_id": "MCw5YTAzOTYzMWIwNDdlNzI4ZjFlM2E4NmRiMWE0ZDhkMjdlZjMzMTVj",
   "tracks": [
     {
       "added_at": "2023-10-20 06:09:14",
@@ -743,18 +743,26 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
+        "name": "Seoul Vibes Pt.1",
+        "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
       },
       "artists": [
         {
-          "name": "imzoo",
-          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
         }
       ],
-      "duration_ms": 188749,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
+      "duration_ms": 182062,
+      "name": "Sad Love Song (feat. slchld & Rheehab)",
+      "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -779,26 +787,18 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "Seoul Vibes Pt.1",
-        "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
       },
       "artists": [
         {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Rheehab",
-          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+          "name": "imzoo",
+          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
         }
       ],
-      "duration_ms": 182062,
-      "name": "Sad Love Song (feat. slchld & Rheehab)",
-      "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
+      "duration_ms": 188749,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
     },
     {
       "added_at": "2023-10-20 06:09:14",

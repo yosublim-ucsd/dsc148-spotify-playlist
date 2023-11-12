@@ -561,6 +561,32 @@
     },
     {
       "album": {
+        "name": "WRECKED",
+        "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
+      },
+      "artists": [
+        {
+          "name": "Dumb Buoys Fishing Club",
+          "url": "https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D"
+        },
+        {
+          "name": "Merlyn Wood",
+          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
+        },
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173535,
+      "name": "FORMULA",
+      "url": "https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl"
+    },
+    {
+      "album": {
         "name": "FORMULA",
         "url": "https://open.spotify.com/album/1w5hIOpx82t0XRLcVwerRb"
       },
@@ -580,7 +606,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 174830,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/383FsUoOEqgBRcttGMeoLs"

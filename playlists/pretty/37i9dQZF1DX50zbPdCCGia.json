@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 225002,
+  "num_followers": 225132,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTkyNTA1ZTI0ODI2YWU3ZDNmODNmNjEzYjcwMWRhMTQ1NGMxZDU3",
+  "snapshot_id": "MCw5MTcwZDU3OTMwZWIwMmZmYWJjNzQ2MzY0ODdhNTVkNWMyMWY3NjA1",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Georgy Porgy",
-      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "Georgy Porgy",
+      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Original Albums\u2026Plus",
         "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 148586,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Doctor Hook",
         "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 228333,
       "name": "Sylvia's Mother",
       "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "\u521d\u590f\u4e4b\u6200",
+        "url": "https://open.spotify.com/album/1SlXTGrq3PAkRlCFQUJkAl"
+      },
+      "artists": [
+        {
+          "name": "Ekin Cheng",
+          "url": "https://open.spotify.com/artist/2DNe29u3NiB7u8k8RS5IuD"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "I'll Have to Say I Love You in a Song",
+      "url": "https://open.spotify.com/track/6UcbxO3C7bgwkjjVdFxqim"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Worlds Away",
         "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 176800,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "\u521d\u590f\u4e4b\u6200",
-        "url": "https://open.spotify.com/album/1SlXTGrq3PAkRlCFQUJkAl"
-      },
-      "artists": [
-        {
-          "name": "Ekin Cheng",
-          "url": "https://open.spotify.com/artist/2DNe29u3NiB7u8k8RS5IuD"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "I'll Have to Say I Love You in a Song",
-      "url": "https://open.spotify.com/track/6UcbxO3C7bgwkjjVdFxqim"
     },
     {
       "added_at": "2023-03-29 17:34:27",

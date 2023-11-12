@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,622 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,742 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 55 | [Yes I Will](https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will](https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz) | 3:54 |
 | 56 | [Breathe \- Live](https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 6:00 |
 | 57 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
-| 58 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
-| 59 | [My Hallelujah](https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 4:06 |
+| 58 | [My Hallelujah](https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 4:06 |
+| 59 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 | 60 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
 | 61 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 |
 | 62 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 86 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 87 | [Glory to Glory](https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 6:05 |
 | 88 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
-| 89 | [Liberator \- Live](https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Annalise Bush](https://open.spotify.com/artist/5U7PKEYEqGUnP3SYoj17ek) | [Songs of the House \(Live\)](https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg) | 5:12 |
-| 90 | [Stir a Passion \- Live](https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt) | [Stir a Passion](https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9) | 8:19 |
+| 89 | [Stir a Passion \- Live](https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt) | [Stir a Passion](https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9) | 8:19 |
+| 90 | [Liberator \- Live](https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Annalise Bush](https://open.spotify.com/artist/5U7PKEYEqGUnP3SYoj17ek) | [Songs of the House \(Live\)](https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg) | 5:12 |
 | 91 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
 | 92 | [Is He Worthy?](https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Is He Worthy?](https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m) | 4:31 |
 | 93 | [No Other](https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Clarity](https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup) | 3:52 |
 | 94 | [Nobody Like You \(Live\)](https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Nobody Like You \(Live\)](https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1) | 7:22 |
 | 95 | [The More of You I See](https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:15 |
-| 96 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
-| 97 | [Heroes](https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 4:17 |
+| 96 | [Heroes](https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 4:17 |
+| 97 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
 | 98 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 | 99 | [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 |
 | 100 | [God That Saves](https://open.spotify.com/track/4hc1BN1CfwlAcw2iP5oYYy) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [God That Saves](https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C) | 4:49 |
 
-Snapshot ID: `MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy`
+Snapshot ID: `MCwxMGJjZGU3MWM3NzkwYTY4YmNhZGRiM2JjY2FkNTY0OGYxNjFjZWMz`

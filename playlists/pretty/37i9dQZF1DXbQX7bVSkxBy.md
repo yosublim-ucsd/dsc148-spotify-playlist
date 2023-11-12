@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY?si=unqyudnhQ6aeNXYZIeX0aQ">Rehmahz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,039 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,082 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 36 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 37 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 38 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 |
-| 39 | [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 |
+| 39 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 | 40 | [You are Great](https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 6:23 |
-| 41 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
-| 42 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
+| 41 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
+| 42 | [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 |
 | 43 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 |
 | 44 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
 | 45 | [Congratulations](https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 |
 | 50 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 |
 
-Snapshot ID: `MCw4MzcwNTIzY2Q5NmE2M2YzNjE2MjQ5NjUxZjk5MzI5OTgzOTE4NjZk`
+Snapshot ID: `MCw4MzUxOTFkYTNkNDkwMzBkZjhmYTM5YTFjNmNlMzQzNzE1NjdmZTI2`

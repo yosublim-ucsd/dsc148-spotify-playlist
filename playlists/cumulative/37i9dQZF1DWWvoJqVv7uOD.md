@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Sia
 
-609 songs - 1 day 9 hr 14 min
+610 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Can't Fight This Feeling](https://open.spotify.com/track/2B2XU2qh7WXzieDeGpNbAE) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Can't Fight This Feeling](https://open.spotify.com/album/2jaybF3VltBSzF8LduPa7e) | 3:01 | 2022-10-14 | 2023-03-04 |
 | [Can't Give Up](https://open.spotify.com/track/24bUSn4O0HA8c3Y2mi5NqS) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Give Up](https://open.spotify.com/album/3ToJTvBVx2Zg8VU0UELM52) | 2:43 | 2022-07-25 | 2022-10-01 |
 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 | 2023-03-24 | 2023-04-01 |
-| [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 | 2023-07-07 |  |
+| [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 | 2023-07-07 | 2023-11-12 |
+| [Caroline](https://open.spotify.com/track/5HbMIVh2Knh6iSLEXkTyi2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 3:43 | 2023-11-10 |  |
 | [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2022-11-04 | 2023-03-04 |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2022-06-10 | 2022-09-03 |
 | [Catch You When You Fall](https://open.spotify.com/track/4YJ4LyVaICt6O32gZ45w4b) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Catch You When You Fall](https://open.spotify.com/album/3r3y1v9oCalBtpNIUz54FU) | 3:12 | 2023-03-18 | 2023-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 161483,
+  "num_followers": 161611,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjUxOWNlYWY0ZjFmMjg2ZDg4M2Q3YjAwZWE1NzMxZGU1NzZkYmJj",
+  "snapshot_id": "MCw4ODcxNTczMmM2NDcyMzg3NjgxODI3OTQ1NjY3NGJhMjI2ZGMzMzgx",
   "tracks": [
     {
       "added_at": "2023-10-16 19:34:42",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -291,50 +291,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
         }
       ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -359,18 +327,34 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -387,6 +371,22 @@
       "duration_ms": 219093,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "This Warm December, A Brushfire Holiday Vol. 2",
         "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 227173,
       "name": "Christmas Must Be Tonight",
       "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 296673,
+      "name": "Mama It's Christmas",
+      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 296673,
-      "name": "Mama It's Christmas",
-      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -907,22 +907,6 @@
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "O\u2019Holy Night",
-        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
       "artists": [
         {
-          "name": "Kat Cunning",
-          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 173402,
-      "name": "O\u2019Holy Night",
-      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+      "duration_ms": 187750,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -975,6 +959,22 @@
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "O\u2019Holy Night",
+        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+      },
+      "artists": [
+        {
+          "name": "Kat Cunning",
+          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "O\u2019Holy Night",
+      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Linus n' Lucy (Theme from Peanuts)",
-        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Linus n' Lucy (Theme from Peanuts)",
-      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Linus n' Lucy (Theme from Peanuts)",
+        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Linus n' Lucy (Theme from Peanuts)",
+      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
-      },
-      "artists": [
-        {
-          "name": "Mimicking Birds",
-          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
-        }
-      ],
-      "duration_ms": 257842,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
         "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+        "name": "Walking in the Air",
+        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Mimicking Birds",
+          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
         }
       ],
-      "duration_ms": 149080,
-      "name": "It's Beginning to Look a Lot Like Christmas",
-      "url": "https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn"
+      "duration_ms": 257842,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "It's Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Tinsel Dresses",
         "url": "https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 124406,
       "name": "Tinsel Dresses",
       "url": "https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Christmas Songs Vol. 1",
-        "url": "https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5"
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1219,22 +1203,34 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "We Should Be Together",
-        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
+        "name": "Christmas Songs Vol. 1",
+        "url": "https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5"
       },
       "artists": [
         {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 211946,
-      "name": "We Should Be Together",
-      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+      "duration_ms": 284906,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
+      },
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+        }
+      ],
+      "duration_ms": 167837,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
     },
     {
       "added_at": "2023-10-16 19:34:42",

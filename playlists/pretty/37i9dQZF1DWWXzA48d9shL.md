@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,993 likes - 122 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,216 likes - 122 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 121 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 122 | [GOD MODE!](https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/2zHlG0i6QwyFox9mhxynMO) | 2:43 |
 
-Snapshot ID: `MCxlNDU1OWU0NTRhMDQzMDVjZDIyNTY3YWQ4Njc3NDJlZjhhODE3ZGUz`
+Snapshot ID: `MCxlYWZkMWFkNTQxNTgxZjU1YjI0ZmZhMzdjZTc4OWExNTRjNzBlNDM1`

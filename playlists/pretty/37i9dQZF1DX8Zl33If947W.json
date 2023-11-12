@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 148683,
+  "num_followers": 148788,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NhNmE5YzYxNDI1ZDhjNjE1NzA3NzBlNWI2ZDY1ZjAzNGY0MTBj",
+  "snapshot_id": "MCwwZTY1OWVlY2UwM2ZlOTUxZDEyNGZmNGI3ODQyMTQ3Y2NkM2ZlOTBl",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Vermissen (feat. Henning May)",
         "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Muttersprache (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 190186,
       "name": "Lieblingsmensch",
       "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liebeskummerparty",
-        "url": "https://open.spotify.com/album/0u5DLCi7p5AED8y7vxNqQY"
-      },
-      "artists": [
-        {
-          "name": "ROTE M\u00dcTZE RAPHI",
-          "url": "https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L"
-        },
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "Tag ein Tag aus",
-      "url": "https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Liebeskummerparty",
+        "url": "https://open.spotify.com/album/0u5DLCi7p5AED8y7vxNqQY"
+      },
+      "artists": [
+        {
+          "name": "ROTE M\u00dcTZE RAPHI",
+          "url": "https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L"
+        },
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Tag ein Tag aus",
+      "url": "https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn"
     }
   ],
   "unique_name": "Liebeslieder",

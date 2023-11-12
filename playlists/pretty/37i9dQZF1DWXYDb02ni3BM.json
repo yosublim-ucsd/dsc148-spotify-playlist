@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 154892,
+  "num_followers": 154969,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjQ4MTAzNWU5MDNjNmJkNTJlZmZjZjNlY2FiOWZhNzBiMjA4Mjlm",
+  "snapshot_id": "MCw2MzJlNGY1MzMxODUyNDZmNjdiNzRjMjA2MzIzN2YzYjQ5NDM5Nzli",
   "tracks": [
     {
       "added_at": "2023-10-26 18:51:21",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-10-26 18:51:21",
@@ -371,38 +371,6 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -443,6 +411,22 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 178693,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
     },
     {
       "added_at": "2023-10-26 18:51:21",
@@ -511,70 +511,6 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
-        "name": "Enferma de Ti",
-        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
-      },
-      "artists": [
-        {
-          "name": "Valen Madanes",
-          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Enferma de Ti",
-      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -615,18 +551,50 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         }
       ],
-      "duration_ms": 247760,
-      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
+        "name": "Enferma de Ti",
+        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
+      },
+      "artists": [
+        {
+          "name": "Valen Madanes",
+          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Enferma de Ti",
+      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
     },
     {
       "added_at": "2023-10-26 18:51:21",
@@ -651,6 +619,38 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2023-10-26 18:51:21",
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Suerte (Whenever, Wherever)",
+      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 194106,
-      "name": "Suerte (Whenever, Wherever)",
-      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2023-10-26 18:51:21",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Pies Descalzos, Sue\u00f1os Blancos",
-      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
-    },
-    {
-      "added_at": "2023-10-26 18:51:21",
-      "album": {
         "name": "A las Cinco en el Astoria",
         "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-10-26 18:51:21",
       "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
+      "duration_ms": 205800,
+      "name": "Pies Descalzos, Sue\u00f1os Blancos",
+      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
     },
     {
       "added_at": "2023-10-26 18:51:21",
@@ -939,6 +923,22 @@
       "duration_ms": 206440,
       "name": "Eternamente Bella",
       "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+    },
+    {
+      "added_at": "2023-10-26 18:51:21",
+      "album": {
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2023-10-26 18:51:21",

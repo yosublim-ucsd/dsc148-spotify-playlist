@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=rglqV64oS9e6bc4u2r43iw">Omah Lay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,799 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,961 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 50 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 |
 
-Snapshot ID: `MCxiZjdkODM4MDcwZjc5NjE1OTI0Y2RjNjViYmExZjRjNmQ4ZDEyNjk2`
+Snapshot ID: `MCxmNWZmOWU2YmIxYTk3MDhjMWRhNTFmMjljNzM0OTVmNjJkMGNhMDIx`

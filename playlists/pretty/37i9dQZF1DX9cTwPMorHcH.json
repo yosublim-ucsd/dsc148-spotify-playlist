@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 79577,
+  "num_followers": 79650,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZThlODNhN2EyOGI4MDQ3NTk3OGRjNGM2ZTUwNDBlZDY3OTA5Y2Ji",
+  "snapshot_id": "MCw2YjlkZmUyMmMzMjM4OTU0NGIzYzZjYTJhZTFiZmYzY2I2OTE1YjA2",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -365,26 +365,6 @@
       "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "Riding With the King",
-      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
-    },
-    {
       "added_at": "2021-12-07 19:02:16",
       "album": {
         "name": "Deuces Wild",
@@ -403,6 +383,26 @@
       "duration_ms": 190373,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Riding With the King",
+      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 412960,
       "name": "Have You Ever Loved A Woman?",
       "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Baby, Please Come Home (Bonus Version)",
         "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177066,
       "name": "Just a Game",
       "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 196426,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Nick Of Time",
-      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
     },
     {
       "added_at": "2021-03-03 17:28:10",

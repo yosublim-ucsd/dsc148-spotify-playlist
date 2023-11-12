@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,495 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,521 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 43 | [This Is Freedom \(Ain't No Rock\) \- Live](https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [This Is Freedom \(Ain't No Rock\) \[Live\]](https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v) | 5:44 |
 | 44 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 |
 | 45 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 |
-| 46 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 |
+| 46 | [Alive](https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:19 |
 | 47 | [Come Home \- Warehouse Mix](https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Come Home \(Warehouse Mix\)](https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr) | 2:38 |
 | 48 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |
-| 49 | [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 |
+| 49 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 |
 | 50 | [Help Me Let Go](https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 2:37 |
-| 51 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 |
+| 51 | [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 |
 | 52 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 |
 | 53 | [Unashamed](https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Unashamed](https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey) | 2:58 |
 | 54 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
-| 55 | [Alive](https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:19 |
+| 55 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 |
 | 56 | [I'm Not Lucky, I'm Blessed](https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 3:31 |
 | 57 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
 | 58 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 69 | [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 |
 | 70 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
 | 71 | [More Than Halfway](https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [More Than Halfway](https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n) | 3:41 |
-| 72 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
-| 73 | [Nothing But The Truth](https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 3:24 |
-| 74 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
+| 72 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
+| 73 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
+| 74 | [Nothing But The Truth](https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 3:24 |
 | 75 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 | 76 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 |
 | 77 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 |
 | 80 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 
-Snapshot ID: `MCw3YmUwYmQ2MDdmYmJlOGRlZDI5YWY0NmU2YzA3ZTcyOTM0ZGIzZWYx`
+Snapshot ID: `MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl`

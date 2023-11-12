@@ -1,12 +1,12 @@
 {
   "description": "HoCo 2023 edition.",
-  "num_followers": 4134,
+  "num_followers": 4145,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQ1NWU4YmNiMWJmNjY0NDlmMTExNTM2NTYzM2U2YjU4NmY5ZTlj",
+  "snapshot_id": "MCw3MTgwMjM2Y2MzYjkzMjEwYzhjMDkzZWUwMWQ5OGRkYzdhNjNjOWVj",
   "tracks": [
     {
       "added_at": "2023-10-20 21:28:28",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
+      "added_at": "2023-10-21 17:22:38",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
       "added_at": "2023-10-20 21:28:28",
       "album": {
         "name": "SET IT OFF",
@@ -559,22 +575,6 @@
       "duration_ms": 188333,
       "name": "WORTH IT (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
-    },
-    {
-      "added_at": "2023-10-21 17:22:38",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2023-06-16 05:16:25",
@@ -749,26 +749,6 @@
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
-      "added_at": "2023-06-16 05:16:25",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
       "added_at": "2023-10-20 21:28:28",
       "album": {
         "name": "Barbie",
@@ -799,6 +779,26 @@
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
+    },
+    {
+      "added_at": "2023-06-16 05:16:25",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2023-06-16 05:16:25",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-10-20 21:28:28",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+        "name": "Soak City (Do it)",
+        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
         }
       ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+      "duration_ms": 123547,
+      "name": "Soak City (Do it)",
+      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
       "added_at": "2023-10-21 17:22:38",
@@ -885,24 +885,20 @@
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
-      "added_at": "2023-06-16 05:16:25",
+      "added_at": "2023-10-20 21:28:28",
       "album": {
-        "name": "Put It On Da Floor Again (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 185748,
-      "name": "Put It On Da Floor Again (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     }
   ],
   "unique_name": "We Outside!",

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,197 songs - 9 day 18 hr 50 min
+6,198 songs - 9 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2329,6 +2329,7 @@
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-18 | 2023-07-28 |
 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 | 2023-04-20 | 2023-05-19 |
 | [Helecho](https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Helecho](https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC) | 2:17 | 2022-01-07 | 2022-07-08 |
+| [Hello](https://open.spotify.com/track/55kBQKbWwzMmEafQYjvhQe) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Hello](https://open.spotify.com/album/6NtOlKsDjrApcJtdH4T6jn) | 1:51 | 2023-11-10 |  |
 | [Hello](https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Hello](https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b) | 2:04 | 2020-06-29 | 2021-10-02 |
 | [Hello](https://open.spotify.com/track/3GgrWTVMTQSqDZ94S6BlL3) | [Spaceman](https://open.spotify.com/artist/2HSbbwNAPsfbr2xqHuiUiL) | [Hello](https://open.spotify.com/album/7f2BKXCwDHNR47xz3365K9) | 2:12 | 2022-10-28 |  |
 | [Hello](https://open.spotify.com/track/6HBwVaNPWUWBSRXJyKwzY2) | [Treewind](https://open.spotify.com/artist/4byI3GpeyNiSfD8XOy0Kg6) | [Hello](https://open.spotify.com/album/2tXoyZT2eOTPvO7YpCtBEG) | 2:10 | 2022-07-15 | 2022-10-28 |
@@ -5409,7 +5410,7 @@
 | [The Girl With The Red Bag](https://open.spotify.com/track/6eH3pJEDNeBQ6apkXqK6SW) | [Staysea](https://open.spotify.com/artist/6gxc5HErxRvWbXZBU9feZr) | [Every cloud has a silver lining](https://open.spotify.com/album/2SWv8WfgppJaHJ9VBnXrG8) | 1:34 | 2022-07-29 | 2022-11-11 |
 | [The Good Life](https://open.spotify.com/track/33SDsMNYWdtxuIPlQ0Oymv) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [The Good Life](https://open.spotify.com/album/0pVvqFscRYrMQsQ5uNiFDS) | 1:57 | 2022-08-26 | 2022-11-25 |
 | [The Great Unknown](https://open.spotify.com/track/44PR0jT2nkWaA2etHWcZX3) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [The Great Unknown](https://open.spotify.com/album/7hfC4oUNcCwSi4BfWp0ik0) | 2:37 | 2022-05-27 | 2022-09-16 |
-| [The Gun](https://open.spotify.com/track/2x8GXjKZNlbLsmySLYQVzD) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Gun](https://open.spotify.com/album/1N7P0kebtRpS3Xh0yYZgKG) | 2:43 | 2023-11-10 |  |
+| [The Gun](https://open.spotify.com/track/2x8GXjKZNlbLsmySLYQVzD) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Gun](https://open.spotify.com/album/1N7P0kebtRpS3Xh0yYZgKG) | 2:43 | 2023-11-10 | 2023-11-12 |
 | [the healing](https://open.spotify.com/track/1dZ8rvYtm7MK5qFnbiuXbd) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [the healing](https://open.spotify.com/album/3ebcqeOwYcKh2WQ5ip1Wdk) | 2:22 | 2022-12-02 | 2022-12-11 |
 | [the healing](https://open.spotify.com/track/27f51YZ0CpuZGbmcFnnFr5) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [the healing](https://open.spotify.com/album/5iZDsCyOGaqlSb18nl1gZQ) | 2:22 | 2022-12-09 | 2023-01-20 |
 | [The Highlights Of Summer](https://open.spotify.com/track/1IAJXPxB0Dzx8pCi8RLjQw) | [Breaksky](https://open.spotify.com/artist/52h0l4myM9HU2UZAbUWsBt) | [The Highlights Of Summer](https://open.spotify.com/album/63laRgpx0gIHolR9DDQ4lR) | 2:42 | 2023-01-20 |  |

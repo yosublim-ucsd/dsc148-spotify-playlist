@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nelson Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,932 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,963 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Efforts](https://open.spotify.com/track/5KYNYSKA5CA6HUtngTzn9g) | [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Efforts](https://open.spotify.com/album/2jX9y7I5BHNjQF3OhO54NA) | 2:32 |
 | 50 | [High Fashion](https://open.spotify.com/track/3VwmjJMWdJ2PEiMpag8g6E) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Son Of The Soil](https://open.spotify.com/album/2bpVooaqPufHWqA4d414fX) | 2:21 |
 
-Snapshot ID: `MCxiN2YwZGZjNmJjZGY2Njc3MDlhYTBjNDQyMTQzNWQ3MDgzZDNlNDY4`
+Snapshot ID: `MCwxMGRmNWVhNzU4NzkzY2RjZDdkMDAyOGUxNWJkOTA3NzVjNDJhYjNk`

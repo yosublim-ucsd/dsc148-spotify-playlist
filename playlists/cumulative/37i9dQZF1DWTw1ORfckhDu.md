@@ -4,7 +4,7 @@
 
 > 100 Suomi 💶 Kannessa DAVI ja Joalin.
 
-161 songs - 7 hr 44 min
+162 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [DNA](https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [DNA](https://open.spotify.com/album/2BD6tw7q1we7e7uleDNIK9) | 2:40 | 2023-11-09 |  |
 | [Ei oo enää meit](https://open.spotify.com/track/46bqUeYsiyYED0DSKNGFQd) | [BIMI](https://open.spotify.com/artist/5o5lDAHXkNPWOLEjDzLoka) | [Ei oo enää meit](https://open.spotify.com/album/5x0z3cHrgrw4dxAFcu59JJ) | 3:07 | 2023-11-09 |  |
 | [EN MAINDAA](https://open.spotify.com/track/00ssF7TTgdRhmNCHpeKWVS) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9) | [16 \(Sixteen\) \- EP](https://open.spotify.com/album/6dRpDP8oFF3aYztoo35zC8) | 3:17 | 2023-11-02 |  |
-| [Ennen vanhaan](https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Ennen vanhaan](https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p) | 3:25 | 2023-09-21 |  |
+| [Ennen vanhaan](https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Ennen vanhaan](https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p) | 3:25 | 2023-09-21 | 2023-11-12 |
 | [Et oo räppäri](https://open.spotify.com/track/0nSb6lDdpVjcm2hhV8CJFA) | [Seksikäs\-Suklaa](https://open.spotify.com/artist/2o2qKwPkfo0vDnyXnfgk0W), [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Et oo räppäri](https://open.spotify.com/album/1C7VaPTxV3zjkG4paKhwpQ) | 2:15 | 2023-09-21 | 2023-09-29 |
 | [Everyday](https://open.spotify.com/track/0ywzYbY0bayTTwL8Ldg7WD) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Traveller](https://open.spotify.com/album/0YmXsxNobUAYohMk3qFSea) | 2:49 | 2023-09-21 | 2023-09-29 |
 | [EVOR](https://open.spotify.com/track/2SzeRTpq343iWChg4KQYw9) | [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [EVOR](https://open.spotify.com/album/6bdtBsGNkB03Z7boQukTby) | 2:39 | 2023-10-26 |  |
@@ -91,6 +91,7 @@
 | [Mama sano](https://open.spotify.com/track/3TIUyJEDQStx0ZweySjCC2) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mama sano](https://open.spotify.com/album/3zfAYcqEcUxolb0CDRgvx0) | 2:14 | 2023-09-21 | 2023-11-03 |
 | [Marraskuu](https://open.spotify.com/track/6LmE87Pw29ZoHM4wge8YTf) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Marraskuu](https://open.spotify.com/album/16ny8eOJfXDt8FD4aYjdBx) | 3:11 | 2023-10-19 | 2023-10-27 |
 | [Menetän mun järjen](https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Menetän mun järjen](https://open.spotify.com/album/6em8daieCMwCluji0mAkRZ) | 2:39 | 2023-10-05 |  |
+| [MILJOONII](https://open.spotify.com/track/3tikbLyxxOoXhSlJDhf5oc) | [JÄNÖKLUBI](https://open.spotify.com/artist/1pbxlp8DwtJROYvnt5PmRN), [Ghosti](https://open.spotify.com/artist/7e6kAM665pteBgJahEOisr), [Armas](https://open.spotify.com/artist/2qMX0BkNbPIsSdgC70ue9s), [Cozie](https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO), [Noitatohtori](https://open.spotify.com/artist/0iVzVqpZiYK46ssXx7nqj9), [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs), [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7), [pikkuprinssi](https://open.spotify.com/artist/4adCYLwUNtncXNpTAq1mkq), [Neal low](https://open.spotify.com/artist/35iNct4qRvi6dSqP1I7U0A) | [MILJOONII](https://open.spotify.com/album/60IS1bGVL6bS7b0hXTqtdk) | 7:02 | 2023-11-11 |  |
 | [Minimi \(feat\. Purplape\)](https://open.spotify.com/track/3YS6ps8C4Dh3DbizRvgpjc) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Minimi \(feat\. Purplape\)](https://open.spotify.com/album/65xRptwAW4alJtexDzKfci) | 2:59 | 2023-10-19 |  |
 | [Missaat Mut](https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Missaat Mut](https://open.spotify.com/album/59uIb8lpgwKm9c9DJznS0y) | 1:54 | 2023-09-21 |  |
 | [MMM \(feat\. Fabe\)](https://open.spotify.com/track/0Hc5xVRukKIIAzjM5m3O1p) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [MMM \(feat\. Fabe\)](https://open.spotify.com/album/5jKLbI1oC5hVhwiqK0EhxZ) | 2:07 | 2023-09-28 |  |

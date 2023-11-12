@@ -6195,6 +6195,24 @@
     },
     {
       "album": {
+        "name": "Cringowy Lovesong",
+        "url": "https://open.spotify.com/album/1fkoUozkkQHFSp3lvvpYvh"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "Cringowy Lovesong",
+      "url": "https://open.spotify.com/track/4RglJQMuFuC06tiqN5rRU0"
+    },
+    {
+      "album": {
         "name": "Cudowna",
         "url": "https://open.spotify.com/album/7lsmQiZpz8Dql9lMU2JlIo"
       },
@@ -6712,7 +6730,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "D I A B L E",
       "url": "https://open.spotify.com/track/0K0r4umLd6ssfXIu1MjjYI"
@@ -11185,6 +11203,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
         "name": "Huragan",
         "url": "https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb"
       },
@@ -11450,7 +11486,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -14839,6 +14875,24 @@
     },
     {
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
       },
@@ -15890,6 +15944,24 @@
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/5GjZXNj68pNeQrGMLDCUHs"
+    },
+    {
+      "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
     },
     {
       "album": {
@@ -26608,7 +26680,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -27230,7 +27302,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 146526,
       "name": "Taka sama",
       "url": "https://open.spotify.com/track/0Ys2kSfWVriB10t17eHqm4"
@@ -27816,7 +27888,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -31860,7 +31932,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 207000,
       "name": "ztb",
       "url": "https://open.spotify.com/track/7vXWyqGHBqZi8oec17wYIl"

@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 127277,
+  "num_followers": 127317,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWQyYzQ5YTljYjBjZjE1NzIzNjhhNTMyOTMzYmRkYjNkMWYwYzFl",
+  "snapshot_id": "MCxkOWE2NmFjZDJjZjljYjkzMWMyZjQ4ZTI2YTU4YmIyYjgwODBlNGEy",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -548,7 +548,7 @@
       "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Hotel Surrender (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT"
+        "url": "https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX"
       },
       "artists": [
         {
@@ -558,7 +558,7 @@
       ],
       "duration_ms": 221997,
       "name": "I Wanna Try Something New",
-      "url": "https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg"
+      "url": "https://open.spotify.com/track/0beqUiZartDGJjOp5H325v"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1562,10 +1562,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "duration_ms": 194962,

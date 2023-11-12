@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,424 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,436 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 |
 | 60 | [Obsession](https://open.spotify.com/track/68QPAQP4IqF1cedu2jwk5H) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 4:29 |
 
-Snapshot ID: `MCxhNjUwNjI2ZjhlMGQyZTRmNTBhNmQwMjRhODc3ZTI2ZjI3MzZlOGI1`
+Snapshot ID: `MCwyYWE0MjFhNzEzOWEwMjYwYjVhN2NlZDExYzM0NjEwYTdiMWU4NTZh`

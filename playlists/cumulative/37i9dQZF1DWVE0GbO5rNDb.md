@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-335 songs - 16 hr 26 min
+336 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Kiss and Tell](https://open.spotify.com/track/7zAmki6tuarcnPsGxH3sc3) | [Salasnich](https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2), [Rhett Fisher](https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA) | [Kiss and Tell](https://open.spotify.com/album/34oVzbvx2v99lf8qoXRyD1) | 3:33 | 2022-05-17 | 2022-07-28 |
 | [Kissed by the Sun](https://open.spotify.com/track/58mNefoSsSkSC15ly4ZEMu) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [Kissed by the Sun](https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE) | 2:47 | 2022-05-30 | 2023-05-16 |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2022-05-06 | 2022-07-29 |
-| [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-05-06 |  |
+| [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-05-06 | 2023-11-12 |
 | [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 |  |
 | [Let Go \- Radio Edit](https://open.spotify.com/track/0oYBG9S6VAKLlNZm3TH0LH) | [Roken](https://open.spotify.com/artist/4D1p1yzMg6CpJYkV4m9999), [BLANE](https://open.spotify.com/artist/301wVPignZNHLb3h8zdCmJ) | [Let Go](https://open.spotify.com/album/4clFGkkOCBeF0YYzMoIvxx) | 3:12 | 2022-06-24 | 2023-05-05 |
 | [Let the Sun Shine \- Purple Disco Machine Remix](https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Let the Sun Shine \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh) | 2:46 | 2022-05-06 | 2022-07-29 |
@@ -269,6 +269,7 @@
 | [Shadow](https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Shadow](https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0) | 2:46 | 2022-08-26 |  |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-10-13 |  |
 | [Slow Hand](https://open.spotify.com/track/5IcAEt3huUimJHA4IDAVwb) | [Maja Kristina](https://open.spotify.com/artist/5YEeY9cyouvDvUa8SJVaj2) | [Slow Hand](https://open.spotify.com/album/5GHd3AeEtih6PKWekRnLBz) | 2:42 | 2022-05-06 | 2022-07-29 |
+| [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 | 2023-11-10 |  |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 | 2023-11-11 |
 | [So Close](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [So Close \(feat\. Georgia Ku\)](https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6) | 3:10 | 2022-07-22 |  |
 | [So Sick](https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [So Sick](https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB) | 2:31 | 2022-05-06 | 2022-07-29 |

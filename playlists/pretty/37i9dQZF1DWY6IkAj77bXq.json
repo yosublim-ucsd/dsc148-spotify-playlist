@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 65054,
+  "num_followers": 65062,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzg2MWQ5M2RiMzNhYTM3ZWUwODRkODgzMzU5ZmQwODk5ODRkNWUw",
+  "snapshot_id": "MCw4MjZjZjkzODU1MmJkZjNhNmE5YjkyOTQ2ODg1ZmNkZWE1MjQ3MmRm",
   "tracks": [
     {
       "added_at": "2023-10-06 13:11:56",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Reasons For Being",
+        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
+      },
+      "artists": [
+        {
+          "name": "Deep Watch",
+          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
+        }
+      ],
+      "duration_ms": 176390,
+      "name": "Reasons For Being",
+      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Moonchild's First Flight",
         "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 142595,
       "name": "The Sun Will Rise Again",
       "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
-        "name": "Reasons For Being",
-        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
-      },
-      "artists": [
-        {
-          "name": "Deep Watch",
-          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
-        }
-      ],
-      "duration_ms": 176390,
-      "name": "Reasons For Being",
-      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Air in the Morning",
-        "url": "https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF"
-      },
-      "artists": [
-        {
-          "name": "Wind Speaks",
-          "url": "https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "Air in the Morning",
-      "url": "https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Air in the Morning",
+        "url": "https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF"
+      },
+      "artists": [
+        {
+          "name": "Wind Speaks",
+          "url": "https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "Air in the Morning",
+      "url": "https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Calm Waves",
         "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 166250,
       "name": "Calm Waves",
       "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
       "artists": [
         {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
       },
       "artists": [
         {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
         }
       ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1259,6 +1243,22 @@
       "duration_ms": 145524,
       "name": "Prieks",
       "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 238192,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 211443,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 238192,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Quiet Stars",
         "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 190147,
       "name": "Quiet Stars",
       "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 304952,
+      "name": "Solace - Meditation",
+      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
     },
     {
       "added_at": "2023-10-06 13:11:56",

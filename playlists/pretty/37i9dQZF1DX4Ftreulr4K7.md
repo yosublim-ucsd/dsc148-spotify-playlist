@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ftreulr4K7.md) - [plain]
 
 > Eladio Carrion takes over Fuego! Featuring Beny Jr, Neutro Shorty, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,134 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,143 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ftreulr4K7.md) - [plain]
 | 24 | [QEPDC](https://open.spotify.com/track/0UJX0BfJE5kapTdI1E7qc5) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [QEPDC](https://open.spotify.com/album/4TcbSKJUzuOm68FDEKziMq) | 3:52 |
 | 25 | [Brillando Sin Luz](https://open.spotify.com/track/5rz37f8yrSWGR1arwxq9Kb) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Brillando Sin Luz](https://open.spotify.com/album/3uFtc07N3dShu4jpnNFMoW) | 3:00 |
 
-Snapshot ID: `MCxjOGQyZGM3NjNjMWQyYzQ5N2U4YTJkNGEzMjhhYWEyZmYxYWNiMzYy`
+Snapshot ID: `MCxmOWU2OTdhOTgwMmEwYjEyODIzYTM1NjMxZTEzODQyYmZiZjQzODYz`

@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 52081,
+  "num_followers": 52113,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTJhMDJiMDEwNWE2OTAzZTZlOGE3Yzc5MzE3M2NkYWQ3MTk3NGVj",
+  "snapshot_id": "MCw3MDc2MTQ2MDNlMGRiMzIzNjE5MTY3NzFjZTI4NDY0MmQ4ODc4ZDY1",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Vestido Vermelho",
         "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 173677,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Sede",
+        "url": "https://open.spotify.com/album/79vUuqDZJBkGZiY17zTbC5"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Sede",
+      "url": "https://open.spotify.com/track/6btHns78ZYe8iGoZz3uhpA"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Hip Hop Machine #13",
         "url": "https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Sede",
-        "url": "https://open.spotify.com/album/79vUuqDZJBkGZiY17zTbC5"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Sede",
-      "url": "https://open.spotify.com/track/6btHns78ZYe8iGoZz3uhpA"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -571,6 +571,30 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Ondina",
         "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+        "name": "reconectar",
+        "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
       "artists": [
         {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        },
+        {
+          "name": "Gaza OG",
+          "url": "https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+      "duration_ms": 168275,
+      "name": "reconectar",
+      "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
     }
   ],
   "unique_name": "su\u00edte.",

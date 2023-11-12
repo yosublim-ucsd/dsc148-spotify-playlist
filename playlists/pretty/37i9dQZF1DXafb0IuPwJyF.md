@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,046 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,224 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
 | 50 | [Identify](https://open.spotify.com/track/7eHQ769Mbys4ALmMnpDE2p) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Identify](https://open.spotify.com/album/66ZFlm59P8mAeHRsnQ0BpA) | 3:36 |
 
-Snapshot ID: `MCxkNTYzNmQzMmE5NzVmYjE4M2Q4YjczMzVhZWQ1YjU0NTJkNzc1NGNm`
+Snapshot ID: `MCwyNTk3YWVhNTI4OGI0YTljMzU3ZGIxNzQ3ZGE5MjE4ZTY2MzdmYmM2`

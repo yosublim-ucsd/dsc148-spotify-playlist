@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,253 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,320 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Blink Twice \- If You Feel Me](https://open.spotify.com/track/4pBHmfF7Kh2Ylu31CdzmE5) | [Lex](https://open.spotify.com/artist/0oI3w63aSJPWFVS5tPFP7g) | [Zissou Mentality](https://open.spotify.com/album/5smSjjSrDtHkmWEUejTV6E) | 6:03 |
 | 93 | [Glow](https://open.spotify.com/track/5MckA3kQHCdxK8ds3spKz7) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Eternal Tiare](https://open.spotify.com/album/0XtfBpk9aU5If0XXfM8tIv) | 2:33 |
 
-Snapshot ID: `MCxkZDBhMDljMmM5ZmIxZDcyZDYxNzkxYWM5YjY1ZGI4ZGQ0YzFlOTdm`
+Snapshot ID: `MCxhNzlmMzllYzY0OWVkN2MzZjMzM2RlZDI0M2Q5N2JhNTZjMzMyZGRj`

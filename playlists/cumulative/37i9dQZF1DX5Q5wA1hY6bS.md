@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-451 songs - 1 day 3 hr 26 min
+452 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Highwomen](https://open.spotify.com/track/7aGpNpXbk0gIfZUe1mWoKK) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Highwomen / Redesigning Women / Crowded Table](https://open.spotify.com/album/0Uwv4WEMv2lX0QDkVLGWg1) | 3:32 | 2020-03-09 | 2020-09-05 |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2019-06-21 | 2019-10-26 |
 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 | 2019-05-26\* | 2022-07-28 |
+| [Hold On Tight](https://open.spotify.com/track/16AefybWxoNF6pM2jzZ2ka) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb) | 3:48 | 2023-09-29 |  |
 | [Hold On Tight](https://open.spotify.com/track/2xytFpmHqcz6UHp1sh0SoR) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hold On Tight](https://open.spotify.com/album/6eMzSSQiwu5O6D1tVNNdSr) | 3:48 | 2020-09-05 | 2022-07-29 |
 | [Hold On Tight](https://open.spotify.com/track/3nM3w8zepUEPTN8WbOccjz) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:48 | 2022-05-27 | 2023-11-05 |
 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 | 2019-05-26\* | 2020-07-10 |
@@ -307,7 +308,7 @@
 | [Passengers](https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:32 | 2023-04-12 |  |
 | [Passengers](https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:32 | 2022-05-27 | 2023-05-01 |
 | [Pay Gap](https://open.spotify.com/track/1IHb1MeYTP0cwpcdGevmMy) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 3:53 | 2020-03-09 | 2020-07-10 |
-| [Peach Fuzz](https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Peach Fuzz](https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP) | 3:44 | 2019-07-25 |  |
+| [Peach Fuzz](https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Peach Fuzz](https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP) | 3:44 | 2019-07-25 | 2023-11-12 |
 | [Penny, Heads Up](https://open.spotify.com/track/1a01Toe3uKNRhqLmW9x3Ar) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Penny, Heads Up](https://open.spotify.com/album/3gMHXQbvGp5xsM1lMhm4xv) | 3:27 | 2019-05-26\* | 2022-07-29 |
 | [People Change](https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4) | 3:32 | 2019-05-26\* | 2020-06-12 |
 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 | 2022-05-27 |  |

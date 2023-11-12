@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Jos\u00e9 Alfredo Jim\u00e9nez en portada.",
-  "num_followers": 326229,
+  "num_followers": 326301,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTQwZTA4YmUwNThkMzVkYTM1YWZhMWY3MDMwYmNiYzZkOGIyMjQ2",
+  "snapshot_id": "MCxlOTI4ODg0NjJlNGFiZmUzZmNkZGFiMzA2ZDc2ODFkZWE2M2JmNGMz",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Veracruz Son y Huapango",
-        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
+        "name": "Boleros 20\u00b0 Aniversario",
+        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
       },
       "artists": [
         {
-          "name": "Tlen Huicani",
-          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
-        },
-        {
-          "name": "Lino Chavez",
-          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 268000,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4hM0H2SupXsTkcQnSchNz5"
+      "duration_ms": 176200,
+      "name": "Respeta Mi Dolor",
+      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Boleros 20\u00b0 Aniversario",
-        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
+        "name": "Veracruz Son y Huapango",
+        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Tlen Huicani",
+          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
+        },
+        {
+          "name": "Lino Chavez",
+          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Respeta Mi Dolor",
-      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
+      "duration_ms": 268000,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4hM0H2SupXsTkcQnSchNz5"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "A 10 a\u00f1os....un recuerdo permanente",
-        "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Paloma negra",
-      "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 244133,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "A 10 a\u00f1os....un recuerdo permanente",
+        "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Paloma negra",
+      "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
     },
     {
       "added_at": "2023-10-17 06:00:00",

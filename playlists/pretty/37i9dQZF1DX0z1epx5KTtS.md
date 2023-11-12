@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,918 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,972 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 |
+| 1 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/2FHdjSKM2QJ4S1LJIaWHH1) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5I4B1XJgKp8k6HLm6RADCS) | 2:46 |
 | 2 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
 | 3 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 4 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Abidjan Est Doux](https://open.spotify.com/track/4qR40v3cDfonhumDnEMbZF) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Abidjan Est Doux](https://open.spotify.com/album/6ILXeDfNlfiHuf7FS46ad4) | 3:44 |
 | 40 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 |
 
-Snapshot ID: `MCxjOTZhNTliMGRiNGZjZTEwNmU5NjQzNmY2YTQwNDI4NDE5Y2U1Mzli`
+Snapshot ID: `MCxiNDk5ZTdlNGNiNGE4OGYwNGNiZmFiNmZmMjg3OTMzN2YyMmUyMGJj`

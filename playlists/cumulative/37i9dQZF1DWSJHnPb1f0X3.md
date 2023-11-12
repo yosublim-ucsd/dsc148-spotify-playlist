@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-620 songs - 1 day 6 hr 58 min
+621 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Home](https://open.spotify.com/track/388KEbT8ZXJBwtbw3ZS7s1) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/3x6AIVoG1mHw3ay0BzDN8Y) | 3:16 | 2022-04-01 | 2022-04-21 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-28 | 2023-10-28 |
 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-10-27 |  |
+| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2021-12-17 |  |
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-03-11 | 2022-07-23 |
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2021-12-17 | 2023-08-06 |
@@ -409,7 +410,7 @@
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-15 |  |
 | [On My Mind](https://open.spotify.com/track/0jvORRuoIg2HRJXLa794hW) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [Heather Janssen](https://open.spotify.com/artist/0MlsoNIUS9y5LyqqSrvHTb) | [On My Mind](https://open.spotify.com/album/1hqSMFY9sGJCw5SjfdE0zj) | 2:58 | 2022-03-25 | 2022-04-17 |
 | [On My Way](https://open.spotify.com/track/6XEsyYactnjQEDarbVmnvR) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [On My Way](https://open.spotify.com/album/5sXChSJlFm7pPo6XGVzhjc) | 2:06 | 2022-03-25 | 2022-04-18 |
-| [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2022-07-08 |  |
+| [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2022-07-08 | 2023-11-12 |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-05 |  |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-07-28 |  |
 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 | 2022-09-28 | 2023-08-10 |

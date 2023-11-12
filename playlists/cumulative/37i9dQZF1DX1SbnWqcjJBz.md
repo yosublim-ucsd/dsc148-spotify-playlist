@@ -4,7 +4,7 @@
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-332 songs - 19 hr 47 min
+333 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 | 2022-01-27 |  |
 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 | 2022-04-16 |  |
 | [Leave Get Out](https://open.spotify.com/track/1bYubJyLO1fCa6umTXpUeJ) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Jojo](https://open.spotify.com/album/0XbKmjY4paSzQsCvHZS30y) | 4:01 | 2022-01-27 | 2022-07-29 |
-| [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 | 2022-01-27 |  |
+| [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 | 2022-01-27 | 2023-11-12 |
 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 | 2022-01-27 | 2022-07-26 |
 | [Let You](https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Let You](https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE) | 2:46 | 2022-01-27 | 2022-11-13 |
 | [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 | 2022-01-27 | 2022-07-29 |
@@ -239,6 +239,7 @@
 | [On Your Side](https://open.spotify.com/track/7mTgsbq7n8jgnwLswpgugB) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [On Your Side](https://open.spotify.com/album/0yQlLL2AKwGelZkortyujO) | 2:51 | 2022-01-27 | 2022-11-13 |
 | [One Night Only \- Disco Version](https://open.spotify.com/track/5PiMzitNSsfRUn2BEmb98H) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Sharon Leal](https://open.spotify.com/artist/4PiUI5tfxk1ECzVLQCksAA), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Dreamgirls \(Music from the Motion Picture\) \[Deluxe Edition\]](https://open.spotify.com/album/7x0K2KoVdoFy192loas5Sp) | 3:09 | 2022-01-27 | 2022-07-10 |
 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 | 2022-01-27 | 2022-12-08 |
+| [Ooh La La](https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx) | 3:24 | 2023-08-05 |  |
 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2022-01-27 | 2023-11-04 |
 | [Out of Your Mind \(feat\. Victoria Beckham\) \- Radio Edit](https://open.spotify.com/track/06nOKhJsiMBsN5F6HCOzLC) | [True Steppers](https://open.spotify.com/artist/3p9WryxYXLd0We8X84VC0U), [Dane Bowers](https://open.spotify.com/artist/4yYht262DZEzFPdagA6kIw), [Victoria Beckham](https://open.spotify.com/artist/54w1dJI7MTjkRGNfGuu2fc) | [Out of Your Mind \(feat\. Victoria Beckham\) \[Radio Edit\]](https://open.spotify.com/album/0MXtHFQIGDtW7AjLKbPh5C) | 3:24 | 2022-03-24 | 2022-06-28 |
 | [Paradise](https://open.spotify.com/track/5KdOSPHsnzx6kT08AJCMVn) | [Kaci Battaglia](https://open.spotify.com/artist/7HCPm8AkZIqGjQdAJR2ltC) | [I'm Not Anybody's Girl](https://open.spotify.com/album/6h2HaediR9Uqw3YAmdEl0P) | 4:02 | 2022-03-24 | 2022-04-21 |

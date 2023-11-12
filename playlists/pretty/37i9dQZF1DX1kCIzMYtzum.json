@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 199038,
+  "num_followers": 199233,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTJmZTJiODMxZTcyZjdmZjVmMzBlNDcyY2Q4YzQ2NWFhZGEwZDZm",
+  "snapshot_id": "MCwzNTI3MTM2OGVlMDIwYzcxNmU2ZWI1MzlkMzAxZDYwYWM1NWFiODc5",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -699,22 +699,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
         }
       ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+      "duration_ms": 155409,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1001,6 +1001,26 @@
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Sunglasses At Night",
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 147180,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
       },
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Pink",
         "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
       },
@@ -1123,6 +1143,30 @@
       "duration_ms": 180213,
       "name": "One with the Wolves",
       "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Better Off (Alone, Pt. III)",
+        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1195,30 +1239,6 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Better Off (Alone, Pt. III)",
-        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        }
-      ],
-      "duration_ms": 151702,
-      "name": "Better Off (Alone, Pt. III)",
-      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 163451,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
       },
@@ -1487,6 +1487,42 @@
       "duration_ms": 153508,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Beyond the Fire",
+        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 228620,
+      "name": "Beyond the Fire",
+      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1539,22 +1575,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Beyond the Fire",
-        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 228620,
-      "name": "Beyond the Fire",
-      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 155409,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Shotgun (It Ain't Over)",
-        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 155909,
-      "name": "Shotgun (It Ain't Over)",
-      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1715,26 +1715,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
-        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
+        "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
       },
       "artists": [
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Space Ducks",
-          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
         }
       ],
-      "duration_ms": 202204,
-      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
-      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1759,6 +1755,30 @@
       "duration_ms": 144360,
       "name": "Tsunami (Gabry Ponte Remix)",
       "url": "https://open.spotify.com/track/3wgHsBRNmHDI94vJf5ivpC"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
+        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Space Ducks",
+          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
+      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1795,26 +1815,6 @@
       "duration_ms": 148086,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -1975,6 +1995,22 @@
       "duration_ms": 131538,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2087,50 +2123,6 @@
       "duration_ms": 203255,
       "name": "Bright Lights (feat. AR/CO)",
       "url": "https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 146285,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4sIj4kb8FYCvImEYrzJc0h"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 160887,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
     }
   ],
   "unique_name": "EDM 2023",

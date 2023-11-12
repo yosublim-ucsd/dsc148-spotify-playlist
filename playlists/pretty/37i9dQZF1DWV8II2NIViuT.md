@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,878 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,879 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 28 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/0qIrnnYpLIysIjlJHJbl94) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/album/6vFfPLuYgXwticExvhxOmY) | 3:03 |
 | 29 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:36 |
 | 30 | [As \- Luxury Remix](https://open.spotify.com/track/6NHKQJwZ7ilHb7HTh3C2Aw) | [Natty Bong](https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN), [Michelle Simonal](https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al), [Ronan](https://open.spotify.com/artist/3e8TWuBQYgKBa6feub25D7) | [As \(Luxury Remix\)](https://open.spotify.com/album/18ssQlAidlY6beziKGqcXx) | 3:13 |
-| 31 | [Jesus Children](https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 5:29 |
+| 31 | [Jesus Children](https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Black Radio 2 \(Deluxe\)](https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX) | 5:29 |
 | 32 | [Buttercup](https://open.spotify.com/track/2JVVxCYTyZ8KA9PnxUx5ic) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Tony Momrelle](https://open.spotify.com/artist/4tw6cyhpVCq4wRHcM5o8XN) | [Retroflection](https://open.spotify.com/album/5RYnv55grDphbkhM7YPLkt) | 5:04 |
 | 33 | [Superstition](https://open.spotify.com/track/4UCWKwvKwcyUQagaD85X0I) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 4:16 |
 | 34 | [The Real Thing](https://open.spotify.com/track/3Ql5gAACwGaSpZshJM5ePe) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [All In One](https://open.spotify.com/album/3AsYWD9dam70RGg00LCC3o) | 4:33 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 37 | [Visions](https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Conception \- An Interpretation Of Stevie Wonder's Songs](https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q) | 5:34 |
 | 38 | [I Love Every Little Thing About You](https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:56 |
 
-Snapshot ID: `MCwyZWI2NzQ1OTBmMzJkOWU5NWNkNzY4Nzc3MDFjY2RhNDdhYjY1Y2U3`
+Snapshot ID: `MCxkMThhNjVhN2Y1NDYxM2ExM2M4MGExYTliZDk5OTA1Y2Q5YjUzMGNl`

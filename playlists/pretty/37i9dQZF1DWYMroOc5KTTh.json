@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 447196,
+  "num_followers": 447463,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjJhMWE4OTc2MmRhNGEzNTI1YWQwODg3YWJhMmVjZmRiODhjZjcy",
+  "snapshot_id": "MCw1N2FhYmZiYjU3NTdiNDk3YTgxMmJhOWY1ZDI0MGQyYjk4MTM3Nzc5",
   "tracks": [
     {
       "added_at": "2023-10-20 15:30:52",
@@ -406,10 +406,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "duration_ms": 232625,
@@ -534,10 +530,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "duration_ms": 194962,
@@ -839,26 +831,6 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Currents B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 556924,
-      "name": "Let It Happen - Soulwax Remix",
-      "url": "https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
         "name": "Let It Go (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
       },
@@ -883,6 +855,26 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
+        "name": "Currents B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 556924,
+      "name": "Let It Happen - Soulwax Remix",
+      "url": "https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
         "name": "Diana (You Don't Even Know)",
         "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
       },
@@ -899,18 +891,26 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Michael Lange",
+          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
         }
       ],
-      "duration_ms": 160127,
-      "name": "Good Lies",
-      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+      "duration_ms": 278000,
+      "name": "Sing It Back (Boris Musical Mix) (Edit)",
+      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI"
     }
   ],
   "unique_name": "Serotonin",

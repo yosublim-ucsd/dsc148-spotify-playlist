@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 10071,
+  "num_followers": 10078,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1",
+  "snapshot_id": "MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Rojo Rub\u00ed (Rompiendo La Cadera)",
+        "url": "https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "For Real (feat. Kemba)",
         "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
       },
@@ -655,26 +671,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Acurrucao",
-        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sofia LaSanta",
-          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Acurrucao",
-      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
@@ -739,6 +735,26 @@
       "duration_ms": 176000,
       "name": "Come",
       "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Acurrucao",
+        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sofia LaSanta",
+          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Acurrucao",
+      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Saque Otro Tema",
-        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Saque Otro Tema",
-      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 187914,
       "name": "Maya",
       "url": "https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Saque Otro Tema",
+        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Saque Otro Tema",
+      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "94",
-        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "94",
-      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Trucki",
         "url": "https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv"
       },
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Champion Ninz",
-        "url": "https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31"
+        "name": "94",
+        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
       },
       "artists": [
         {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        },
-        {
-          "name": "Mystro",
-          "url": "https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4"
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
         }
       ],
-      "duration_ms": 139603,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
+      "duration_ms": 153680,
+      "name": "94",
+      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
     }
   ],
   "unique_name": "Latin Frequency",

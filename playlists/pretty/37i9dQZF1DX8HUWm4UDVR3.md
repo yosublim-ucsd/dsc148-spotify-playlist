@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Lancelot
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,097 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,112 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [CHAVIRE](https://open.spotify.com/track/7Dz7FQgW6Wkr5hfxMKneFa) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [CHAVIRE](https://open.spotify.com/album/01iCU2e0KQI7b1FUhCbqWa) | 2:47 |
 | 50 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 |
 
-Snapshot ID: `MCxjZmNkZmQ3YmJkNjlkNzBiZTRkNjNhMDExZGJhNTgyYjE0NThkYWI5`
+Snapshot ID: `MCwwOGI0ZTNjZjAzMmQyODM3ZDZiYmU2OTRiNTU3ZGQwNTA1ODdjZjQ5`

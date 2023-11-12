@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 31881,
+  "num_followers": 31886,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy",
+  "snapshot_id": "MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Hope Dealers",
         "url": "https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+        "name": "Evensong: Canticles for the Earth",
+        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
       },
       "artists": [
         {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+          "name": "Meg Bowles",
+          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
         }
       ],
-      "duration_ms": 280000,
-      "name": "dana\u00efdes",
-      "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+      "duration_ms": 351493,
+      "name": "Berceuse for a Star Child",
+      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Evensong: Canticles for the Earth",
-        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
       "artists": [
         {
-          "name": "Meg Bowles",
-          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
         }
       ],
-      "duration_ms": 351493,
-      "name": "Berceuse for a Star Child",
-      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
+      "duration_ms": 280000,
+      "name": "dana\u00efdes",
+      "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Eyes Set Against The Sun",
-        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 78373,
-      "name": "A Cereus Night",
-      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Fountainhead",
         "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
       },
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Berlin Atonal: More Light",
-        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
-      },
-      "artists": [
-        {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
-        }
-      ],
-      "duration_ms": 399346,
-      "name": "Aralkum",
-      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Blink a Few Times to Clear Your Eyes",
         "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
       },
@@ -1627,6 +1595,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Berlin Atonal: More Light",
+        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "duration_ms": 399346,
+      "name": "Aralkum",
+      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Laurus",
         "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 245296,
       "name": "Laurus I",
       "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Eyes Set Against The Sun",
+        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 78373,
+      "name": "A Cereus Night",
+      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
     },
     {
       "added_at": "2023-09-08 14:04:07",

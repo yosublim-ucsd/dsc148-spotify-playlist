@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 140526,
+  "num_followers": 140538,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDJkZjg2Zjg0ZDRmNTgyNmQ3ODNjN2MwMzgwZDc5OTlkOWM0NjEx",
+  "snapshot_id": "MCxhODJhNDZkYzJiMzEwYzZiNWEzMTY0NGNhMmJhNzEyNzNiYTFjM2Y1",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
-      },
-      "artists": [
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Seven Nation Army (feat. KOYSINA)",
         "url": "https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Menage A Trois",
         "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 168508,
       "name": "Menage A Trois",
       "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Exotica (Deluxe)",
+        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
-      },
-      "artists": [
-        {
-          "name": "Bancali",
-          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 135499,
       "name": "So What",
       "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
+      },
+      "artists": [
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
     },
     {
       "added_at": "2023-09-11 15:59:41",

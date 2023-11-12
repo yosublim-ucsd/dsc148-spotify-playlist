@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 155888,
+  "num_followers": 155932,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmY4NjlkY2VmNjhhODQ2N2IwNDU5MThlNTA2MjUyNDEzNDNjMmI4",
+  "snapshot_id": "MCw2ZjRkODk3Y2M0MTA2Yjg5OTYwMDgyOWUyZTc4Nzc2NmQxNjdlNDZk",
   "tracks": [
     {
       "added_at": "2023-11-06 03:36:17",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
         "name": "IT'S YOU (feat. keshi)",
         "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 173427,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -427,8 +427,8 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 212496,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
         "name": "The Slow Rush B-Sides & Remixes",
         "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "always",
+      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
         "name": "Watching Movies with the Sound Off (10th Anniversary)",
         "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
         "name": "((( 2 )))",
         "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
         "name": "Based On A Feeling",
         "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 215117,
       "name": "Better Version",
       "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -939,6 +923,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -1539,6 +1539,30 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
+        "name": "It's Not This",
+        "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
+      },
+      "artists": [
+        {
+          "name": "Bearson",
+          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
+        },
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "It's Not This",
+      "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
         "name": "Me In Dat Blue",
         "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
       },
@@ -1567,30 +1591,6 @@
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
-        "name": "It's Not This",
-        "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
-      },
-      "artists": [
-        {
-          "name": "Bearson",
-          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
-        },
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "It's Not This",
-      "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
     },
     {
       "added_at": "2023-11-06 03:36:17",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-11-06 03:36:17",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2023-11-06 03:36:17",
-      "album": {
         "name": "Gone 2 Long",
         "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2023-11-06 03:36:17",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2023-11-06 03:36:17",

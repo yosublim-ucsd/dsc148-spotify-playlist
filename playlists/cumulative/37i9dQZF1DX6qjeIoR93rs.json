@@ -82,7 +82,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 255066,
       "name": "Al Rozana",
       "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 326387,
       "name": "NAS",
       "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
@@ -1277,6 +1277,124 @@
     },
     {
       "album": {
+        "name": "Rajieen (feat. Saif Safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, A5rass - \u0627\u0644\u0627\u062e\u0631\u0633, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo & Dafencii)",
+        "url": "https://open.spotify.com/album/12tSNxIeH5kpAcfcRSJ3xs"
+      },
+      "artists": [
+        {
+          "name": "Rajieen",
+          "url": "https://open.spotify.com/artist/5d3WMs0Lj3wZCOsHkOZTx2"
+        },
+        {
+          "name": "Saif safadi",
+          "url": "https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74"
+        },
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        },
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        },
+        {
+          "name": "Shroof",
+          "url": "https://open.spotify.com/artist/3tPp17iDBNUmISlc1KaiDW"
+        },
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        },
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        },
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        },
+        {
+          "name": "Wessam Qutob",
+          "url": "https://open.spotify.com/artist/1SPocxtvn6FfdFayQ8DBO2"
+        },
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "Bataineh",
+          "url": "https://open.spotify.com/artist/2dCGCGq8Q1u0ku3SMPqUx4"
+        },
+        {
+          "name": "Omar Rammal",
+          "url": "https://open.spotify.com/artist/0KYZFXPx8PlT2TdhHpmoIJ"
+        },
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        },
+        {
+          "name": "Randar",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        },
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        },
+        {
+          "name": "Fuad Gritli",
+          "url": "https://open.spotify.com/artist/1HvRb1MP3fwXI4MhLPDR4j"
+        },
+        {
+          "name": "Donia Wael",
+          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
+        },
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        },
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499881,
+      "name": "Rajieen (feat. Saif Safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, A5rass - \u0627\u0644\u0627\u062e\u0631\u0633, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo & Dafencii)",
+      "url": "https://open.spotify.com/track/5ltxZlXp4kBQHSPjqbjJ8Q"
+    },
+    {
+      "album": {
         "name": "Raka W Raka",
         "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
       },
@@ -1344,7 +1462,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"

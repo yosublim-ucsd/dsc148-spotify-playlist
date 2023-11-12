@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 304,361 likes - 222 songs - 12 hr 38 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 304,352 likes - 222 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 187 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 |
 | 188 | [MOVE \(T5\)](https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [MOVE \(T5\)](https://open.spotify.com/album/3KDNE3XSLZWqHo1OVq55Ge) | 3:28 |
 | 189 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 |
-| 190 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 |
+| 190 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 |
 | 191 | [Cheese](https://open.spotify.com/track/5GCSN4N9KzycSf5FD0wtWF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:12 |
 | 192 | [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 |
 | 193 | [Heaven](https://open.spotify.com/track/0CcYIv8yC8odKLGWnSyYfA) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Heaven](https://open.spotify.com/album/3BOhjypjGHVWP1SuE0o8el) | 4:58 |

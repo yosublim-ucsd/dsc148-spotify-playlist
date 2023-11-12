@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,642 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,670 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 69 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 70 | [Sweet Relief](https://open.spotify.com/track/12BAxMbHzksw2xiq05gKtT) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:41 |
 
-Snapshot ID: `MCwyNDJhNWY5NmU0NzY1NjRjMzk0NGRhZWQxNDhmNGJkZmJjMWFhZDA2`
+Snapshot ID: `MCwxNmNlNTBiM2Y0MTEzODNkNTcyMmFjMTNmZDAzYTkzMjA5YjkyODJj`

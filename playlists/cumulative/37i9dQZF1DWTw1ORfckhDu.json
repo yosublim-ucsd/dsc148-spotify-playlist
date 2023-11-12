@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 205715,
       "name": "Ennen vanhaan",
       "url": "https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h"
@@ -1732,6 +1732,56 @@
       "duration_ms": 159260,
       "name": "Menet\u00e4n mun j\u00e4rjen",
       "url": "https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5"
+    },
+    {
+      "album": {
+        "name": "MILJOONII",
+        "url": "https://open.spotify.com/album/60IS1bGVL6bS7b0hXTqtdk"
+      },
+      "artists": [
+        {
+          "name": "J\u00c4N\u00d6KLUBI",
+          "url": "https://open.spotify.com/artist/1pbxlp8DwtJROYvnt5PmRN"
+        },
+        {
+          "name": "Ghosti",
+          "url": "https://open.spotify.com/artist/7e6kAM665pteBgJahEOisr"
+        },
+        {
+          "name": "Armas",
+          "url": "https://open.spotify.com/artist/2qMX0BkNbPIsSdgC70ue9s"
+        },
+        {
+          "name": "Cozie",
+          "url": "https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO"
+        },
+        {
+          "name": "Noitatohtori",
+          "url": "https://open.spotify.com/artist/0iVzVqpZiYK46ssXx7nqj9"
+        },
+        {
+          "name": "Kullervo",
+          "url": "https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7"
+        },
+        {
+          "name": "pikkuprinssi",
+          "url": "https://open.spotify.com/artist/4adCYLwUNtncXNpTAq1mkq"
+        },
+        {
+          "name": "Neal low",
+          "url": "https://open.spotify.com/artist/35iNct4qRvi6dSqP1I7U0A"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422493,
+      "name": "MILJOONII",
+      "url": "https://open.spotify.com/track/3tikbLyxxOoXhSlJDhf5oc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
-  "num_followers": 1173503,
+  "num_followers": 1173874,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjBmZWMzNDA2ZDAwNDgzOWE1OWQ5NzA2M2ZmOWQwMDdjNDc0ZDA4",
+  "snapshot_id": "MCwzMTYyNWM0YzM1OTI0MGYwNzA5OWI4YTk2NGJlZTFlM2JlOTY4M2Y4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 206546,
       "name": "To Hell and Back",
       "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 236000,
       "name": "Stormtroopers",
       "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Party in My Head",
-        "url": "https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 188111,
-      "name": "Party in My Head",
-      "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Images and Words",
         "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 493933,
       "name": "Pull Me Under",
       "url": "https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Party in My Head",
+        "url": "https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 188111,
+      "name": "Party in My Head",
+      "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Once More 'Round the Sun",
-        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "The Motherload",
-      "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 296626,
       "name": "Davidian",
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "The Motherload",
+      "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Slaughterhouse (feat. Bryan Garris Of Knocked Loose)",
         "url": "https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 263947,
       "name": "Slaughterhouse (feat. Bryan Garris)",
       "url": "https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "See What\u2019s On The Inside",
+        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Welcome To The Circus",
         "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
       },
@@ -1719,18 +1735,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "See What\u2019s On The Inside",
-        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+        "name": "You Will Be the Death of Me",
+        "url": "https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "Light The Torch",
+          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
         }
       ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+      "duration_ms": 207844,
+      "name": "Let Me Fall Apart",
+      "url": "https://open.spotify.com/track/2NT3vBkWwhfob1dtxY68uV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "You Will Be the Death of Me",
-        "url": "https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO"
+        "name": "Keeper of the Seven Keys, Pts. I & II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5"
       },
       "artists": [
         {
-          "name": "Light The Torch",
-          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 207844,
-      "name": "Let Me Fall Apart",
-      "url": "https://open.spotify.com/track/2NT3vBkWwhfob1dtxY68uV"
+      "duration_ms": 280213,
+      "name": "I Want Out",
+      "url": "https://open.spotify.com/track/5ObemyuL5dhT67hyz1iWlA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Keeper of the Seven Keys, Pts. I & II (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "I Want Out",
-      "url": "https://open.spotify.com/track/5ObemyuL5dhT67hyz1iWlA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Circus Of Doom",
+        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 246990,
+      "name": "Wings of Light",
+      "url": "https://open.spotify.com/track/69Tm9WdAS2Y74e99YBfZOE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
       },
@@ -1927,18 +1943,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Circus Of Doom",
-        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
+        "name": "Helloween",
+        "url": "https://open.spotify.com/album/1I2USdbvrmhAsEAJz0NuXD"
       },
       "artists": [
         {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 246990,
-      "name": "Wings of Light",
-      "url": "https://open.spotify.com/track/69Tm9WdAS2Y74e99YBfZOE"
+      "duration_ms": 215757,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/7yzZRuAzfIJw7Ebqt7DsKy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1999,38 +2015,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Helloween",
-        "url": "https://open.spotify.com/album/1I2USdbvrmhAsEAJz0NuXD"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/7yzZRuAzfIJw7Ebqt7DsKy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Circus Of Doom",
-        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 236326,
-      "name": "Where Angels Fear to Fly",
-      "url": "https://open.spotify.com/track/1DhSJCZarZvqHt1f2BN0Ch"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Damnation Flame",
         "url": "https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 344933,
       "name": "The Last in Line",
       "url": "https://open.spotify.com/track/6LUGAFpbYVek4rRY0G9dV0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Circus Of Doom",
+        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 236326,
+      "name": "Where Angels Fear to Fly",
+      "url": "https://open.spotify.com/track/1DhSJCZarZvqHt1f2BN0Ch"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Fabulous Disaster",
-        "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "The Toxic Waltz",
-      "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Pawns & Kings",
         "url": "https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 258786,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/5uNazTJV7Rpd8zAtWDiSiG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Fabulous Disaster",
+        "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "The Toxic Waltz",
+      "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -2315,6 +2299,38 @@
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 290586,
+      "name": "The Number of the Beast (2015 Remaster)",
+      "url": "https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2379,22 +2395,6 @@
       "duration_ms": 243520,
       "name": "Immortal Rites",
       "url": "https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "The Number of the Beast (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 290586,
-      "name": "The Number of the Beast (2015 Remaster)",
-      "url": "https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Horns For A Halo",
-        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
-      },
-      "artists": [
-        {
-          "name": "Elegant Weapons",
-          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
-        }
-      ],
-      "duration_ms": 321440,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Legends from Beyond the Galactic Terrorvortex",
         "url": "https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 300320,
       "name": "Gloryhammer",
       "url": "https://open.spotify.com/track/4vyrKBuBfgv390ItIC75Sw"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Horns For A Halo",
+        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
+      },
+      "artists": [
+        {
+          "name": "Elegant Weapons",
+          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
+        }
+      ],
+      "duration_ms": 321440,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2663,6 +2663,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
+      },
+      "artists": [
+        {
+          "name": "Edguy",
+          "url": "https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Tears of a Mandrake",
+      "url": "https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Shed My Skin",
         "url": "https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA"
       },
@@ -2679,22 +2695,6 @@
       "duration_ms": 270479,
       "name": "Shed My Skin (feat. Annisokay)",
       "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
-      },
-      "artists": [
-        {
-          "name": "Edguy",
-          "url": "https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Tears of a Mandrake",
-      "url": "https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2720,7 +2720,7 @@
       },
       "artists": [
         {
-          "name": "Rhapsody of Fire",
+          "name": "Rhapsody",
           "url": "https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY"
         }
       ],
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Atonement",
-      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Chaosphere (Reloaded)",
         "url": "https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw"
       },
@@ -2779,18 +2763,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 300013,
-      "name": "Crow Killer Blues",
-      "url": "https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy"
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2807,6 +2791,22 @@
       "duration_ms": 158200,
       "name": "Scum",
       "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 300013,
+      "name": "Crow Killer Blues",
+      "url": "https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Denim and Leather",
+        "url": "https://open.spotify.com/album/4ZeBGn0FbyUHL4Xf6Qn2lh"
+      },
+      "artists": [
+        {
+          "name": "Saxon",
+          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Princess of the Night",
+      "url": "https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY"
       },
@@ -2955,22 +2971,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Satanist",
-        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Blow Your Trumpets Gabriel",
-      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Grinding Wheel",
         "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
       },
@@ -2983,6 +2983,22 @@
       "duration_ms": 449786,
       "name": "Mean, Green, Killing Machine",
       "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Satanist",
+        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Blow Your Trumpets Gabriel",
+      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -3003,22 +3019,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Denim and Leather",
-        "url": "https://open.spotify.com/album/4ZeBGn0FbyUHL4Xf6Qn2lh"
-      },
-      "artists": [
-        {
-          "name": "Saxon",
-          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
-        }
-      ],
-      "duration_ms": 242453,
-      "name": "Princess of the Night",
-      "url": "https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "How's The Heart?",
         "url": "https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ"
       },
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Heartless Madness",
-        "url": "https://open.spotify.com/album/7hi1CYcnOAGlg0lVJCO3Bu"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Heartless Madness",
-      "url": "https://open.spotify.com/track/6syHCS66oykczN2ZN7zQPX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Straight Out Of Hell (2020 Remaster)",
         "url": "https://open.spotify.com/album/7yZlkj19iiyt1PndidNtur"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 235213,
       "name": "Waiting For The Thunder - 2020 Remaster",
       "url": "https://open.spotify.com/track/6y83RRW0DtYFtGwIBQFSzl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Heartless Madness",
+        "url": "https://open.spotify.com/album/7hi1CYcnOAGlg0lVJCO3Bu"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Heartless Madness",
+      "url": "https://open.spotify.com/track/6syHCS66oykczN2ZN7zQPX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "M\u00e6re",
-        "url": "https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK"
-      },
-      "artists": [
-        {
-          "name": "Harakiri for the Sky",
-          "url": "https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq"
-        }
-      ],
-      "duration_ms": 324170,
-      "name": "Song to Say Goodbye",
-      "url": "https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Aeronautics (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3YW6V9pyJxnZhwuXZ5jCll"
       },
@@ -3215,6 +3199,22 @@
       "duration_ms": 674854,
       "name": "The Raven Child",
       "url": "https://open.spotify.com/track/76zg1a9DvGpEHVVQh7Yuv1"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "M\u00e6re",
+        "url": "https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK"
+      },
+      "artists": [
+        {
+          "name": "Harakiri for the Sky",
+          "url": "https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq"
+        }
+      ],
+      "duration_ms": 324170,
+      "name": "Song to Say Goodbye",
+      "url": "https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx"
     },
     {
       "added_at": "2023-10-27 04:00:00",

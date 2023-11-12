@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-399 songs - 23 hr 9 min
+400 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2023-09-15 | 2023-11-11 |
 | [Redcup](https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Redcup](https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx) | 2:41 | 2022-11-25 |  |
 | [Remparts](https://open.spotify.com/track/07AEDh8Ad6Ss60K1sWY15w) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 3:20 | 2022-05-06 | 2022-10-08 |
-| [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 | 2023-10-27 |  |
+| [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 | 2023-10-27 | 2023-11-12 |
+| [Rendez\-vous](https://open.spotify.com/track/5KYF2blNXgss2n0k04Fyzu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/3nQvTXgdKu3FHLFiuqwUky) | 3:01 | 2023-11-10 |  |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-03-25 | 2022-04-09 |
 | [RICH BUM$](https://open.spotify.com/track/6TT7xeVp0uBEuETDioNz6M) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [RICH BUM$](https://open.spotify.com/album/2EPJbDQIfwTlIB5dOYngHZ) | 4:10 | 2022-07-22 | 2022-10-01 |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-17 |  |

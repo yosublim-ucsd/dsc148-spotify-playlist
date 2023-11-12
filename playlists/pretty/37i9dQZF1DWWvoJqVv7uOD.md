@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,545 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,622 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 79 | [I Choose You](https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Choose You](https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR) | 3:00 |
 | 80 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 |
 | 81 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
-| 82 | [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 |
+| 82 | [Caroline](https://open.spotify.com/track/5HbMIVh2Knh6iSLEXkTyi2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 3:43 |
 | 83 | [Woman](https://open.spotify.com/track/68yPzDDlSwmZQ30m6sE54I) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/173IyxzOdHpenFKug42nGh) | 3:22 |
 | 84 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 85 | [Kissing Strangers](https://open.spotify.com/track/0HDT8RYiXpvc5G1u3RG9vL) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Kissing Strangers](https://open.spotify.com/album/1DYhbM9VgjsIRigZLF5iLe) | 2:27 |
 
-Snapshot ID: `MCxjZWJlMDU0MjU3NTRkMDhlYmY5ZjExYWM2YWNlMGQ0ZmVlMTNmMDFm`
+Snapshot ID: `MCw1M2VjZGY1ZjBiNzAwMjU2ZDAyMmUyY2U3M2ZmZDc0NmRjMzA3OTVk`

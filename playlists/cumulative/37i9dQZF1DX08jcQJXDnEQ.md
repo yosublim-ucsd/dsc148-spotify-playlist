@@ -4,7 +4,7 @@
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-268 songs - 21 hr 1 min
+270 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 | 2021-09-09 |  |
 | [People of the Lie](https://open.spotify.com/track/6WDMOh0LJY9EHO4aIE7dPh) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Coma of Souls](https://open.spotify.com/album/1S7SXhbh0x64DyXQVfACJk) | 3:15 | 2021-09-09 | 2022-11-14 |
 | [Phoenix Rising](https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Set The World On Fire](https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt) | 3:48 | 2021-09-09 | 2023-01-23 |
-| [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 | 2022-07-13 |  |
+| [Powertrip](https://open.spotify.com/track/2FqDEb5wkhtwSl8H2erumv) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L) | 3:31 | 2023-03-01 |  |
+| [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 | 2022-07-13 | 2023-11-12 |
 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 | 2021-09-09 |  |
 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 | 2021-09-09 | 2023-01-30 |
 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 | 2021-09-09 |  |
@@ -212,7 +213,8 @@
 | [Snot](https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:21 | 2021-09-09 | 2023-01-30 |
 | [Sober](https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:06 | 2021-09-09 |  |
 | [Souls of Black](https://open.spotify.com/track/5zAN2OQJsmcBVG1oO5QroD) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Souls of Black](https://open.spotify.com/album/3CFswsRArMIduymEMdBaHi) | 3:22 | 2022-07-13 | 2023-01-30 |
-| [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 | 2021-09-09 |  |
+| [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 | 2021-09-09 | 2023-11-12 |
+| [Space Lord](https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L) | 5:55 | 2023-03-01 |  |
 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 | 2022-07-13 | 2023-01-30 |
 | [Spit It Out](https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:39 | 2021-09-09 |  |
 | [Stinkfist](https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 5:12 | 2021-09-09 |  |

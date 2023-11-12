@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 155380,
       "name": "Black Truck",
       "url": "https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 166291,
       "name": "Canoozled",
       "url": "https://open.spotify.com/track/5eGjpQHXVR2gpwPhiWv3zZ"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 134373,
       "name": "Dead Homies (feat. Veeze)",
       "url": "https://open.spotify.com/track/2B6sniX8LKlpUkiXLEyenF"
@@ -9565,6 +9565,24 @@
     },
     {
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
         "name": "LOW KEY (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/46auY5dDnGZO3YoIKUVMHq"
       },
@@ -10824,6 +10842,28 @@
       "duration_ms": 141983,
       "name": "New Benz",
       "url": "https://open.spotify.com/track/3VT3Dt9OAfZbLSiySkUd2g"
+    },
+    {
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Nice to meet you (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
     },
     {
       "album": {
@@ -14544,6 +14584,28 @@
       "duration_ms": 117073,
       "name": "SOLVED THE PROBLEM",
       "url": "https://open.spotify.com/track/3P9P3Lq1IGsyhmNrnank0v"
+    },
+    {
+      "album": {
+        "name": "Somethin Bout U",
+        "url": "https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172839,
+      "name": "Somethin Bout U",
+      "url": "https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w"
     },
     {
       "album": {

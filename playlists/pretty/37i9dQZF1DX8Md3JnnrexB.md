@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,193 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,289 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Love, Need and Want You](https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Beautiful Ballads](https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8) | 5:00 |
 | 100 | [Wish That You Were Mine](https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [There's No Me Without You \(Expanded Edition\)](https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr) | 4:20 |
 
-Snapshot ID: `MCxjNWI1Zjc3ZjE1NTU5ODc1ZmFiZTJmNjU2Mzk2Mzk0ZjNlYjBmMTRi`
+Snapshot ID: `MCw0OWEyNDAzZTdhMWZhNmYxYjI3ODdhOTY5YWRmM2M3MzZjYzVmNmQz`

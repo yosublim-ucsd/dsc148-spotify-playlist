@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-453 songs - 1 day 3 hr 37 min
+454 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2022-03-08 |  |
 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 | 2022-03-08 |  |
 | [Best I Ever Had](https://open.spotify.com/track/4yYixO4SqiqqWqWA9uSXDq) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Best I Ever Had](https://open.spotify.com/album/0sGQtJGb7Sz4AbsSvUYmcW) | 4:03 | 2021-09-03 | 2022-07-29 |
+| [Better Distractions](https://open.spotify.com/track/3CmcswzHOACDjooV1KLULN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 4:09 | 2023-03-08 |  |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-09-03 | 2022-07-29 |
 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 | 2021-09-03 | 2022-07-29 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2023-03-02 |  |
@@ -186,7 +187,7 @@
 | [Hunter](https://open.spotify.com/track/5AxmkkmUSGjEOqYYU5RlNb) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/3sgLYw5U3KArFr36kFCyEr) | 2:49 | 2021-09-03 | 2022-07-26 |
 | [I Don't Even Smoke Weed](https://open.spotify.com/track/4AcjZoKIpV3s1jWdkSGWnJ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Us](https://open.spotify.com/album/30bFyVsboSI6Nb7roQCgq8) | 3:26 | 2021-09-03 | 2022-07-20 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2021-09-03 | 2023-02-19 |
-| [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 | 2023-03-08 |  |
+| [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 | 2023-03-08 | 2023-11-12 |
 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 | 2021-09-03 | 2023-09-07 |
 | [I Don't Wanna Miss You](https://open.spotify.com/track/6Ib60kjsTqniNRCNsFprK1) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [I Don't Wanna Miss You](https://open.spotify.com/album/13z9h8lqAhioB5if1Scepx) | 3:12 | 2022-03-08 | 2022-04-21 |
 | [I Feel Alive](https://open.spotify.com/track/5BL5JIhruwOhrRZd3Djoqs) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [I Feel Alive](https://open.spotify.com/album/0aFqZJGOa5R2wETNRQPW8m) | 2:34 | 2022-03-08 | 2022-07-28 |
@@ -358,7 +359,7 @@
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2022-03-08 | 2022-07-28 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-03-08 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2021-09-03 |  |
-| [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2021-09-03 |  |
+| [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2021-09-03 | 2023-11-12 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-09-03 | 2022-07-29 |
 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 | 2021-09-03 | 2022-07-29 |
 | [something in the water](https://open.spotify.com/track/2FASgvVbjF7fnz7Hv5IK9F) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Adolescence](https://open.spotify.com/album/6vRutTOvIdvoSgoIBuB2X8) | 3:47 | 2022-02-09 | 2022-07-29 |
@@ -388,7 +389,7 @@
 | [The Barrel](https://open.spotify.com/track/3s71tbgmSN9TfJLj4D18Mt) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 4:59 | 2022-03-08 | 2022-04-21 |
 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2021-09-03 |  |
 | [The Mother We Share](https://open.spotify.com/track/3PvzvltQZLIKk9YgoMP3Yq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/54IMJ8S0redmP6krSlKZLD) | 3:10 | 2022-03-08 | 2022-04-20 |
-| [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 | 2022-03-08 | 2023-11-06 |
+| [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 | 2022-03-08 |  |
 | [The Mother We Share](https://open.spotify.com/track/2pE0CMK1fE3mfU0eEOHhKw) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/7mYtNRrdUIZZymc5epjYHE) | 3:11 | 2022-03-08 | 2022-10-13 |
 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2023-03-02 |  |
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2022-03-08 | 2022-07-29 |

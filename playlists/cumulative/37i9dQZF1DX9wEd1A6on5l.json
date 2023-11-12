@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
@@ -1206,6 +1206,28 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "album": {
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "album": {
@@ -2840,7 +2862,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
@@ -4158,6 +4180,24 @@
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
+    },
+    {
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
     },
     {
       "album": {

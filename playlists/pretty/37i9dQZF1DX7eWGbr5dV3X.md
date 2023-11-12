@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,687 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,689 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 44 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
 | 45 | [Safe](https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI) | 3:23 |
 
-Snapshot ID: `MCxmOTNiZDhmZmFiODhhZWE1YmIwMjFiZWEwMDU3MDJkODdiZjNiYTg2`
+Snapshot ID: `MCw5MTdmYTU4ZWFkY2JlOWQ4YjhkMzc0YjQ1MDJiM2NlYzg4ZjhiMDVl`

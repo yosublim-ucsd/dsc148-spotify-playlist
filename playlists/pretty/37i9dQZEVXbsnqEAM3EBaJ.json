@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMjY0MjAsMDAwMDAwMDAyZDc4NWExZWZlNDA2M2Y5N2E3MWJiY2YzMmVhZGNlYQ==",
+  "snapshot_id": "MjgzMjY0MjAsMDAwMDAwMDA3NTZjMzM4OTc1YjM1YzM1NDIwMjQ1ODkzMTRkODBjZg==",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "1982",
+        "url": "https://open.spotify.com/album/41vrCbXFyOwLTHls46ugCV"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Witching Metal",
+      "url": "https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Screams (Live)",
         "url": "https://open.spotify.com/album/3p4CRzUioxQfCVOz9ROmsc"
       },
@@ -99,6 +115,50 @@
       "duration_ms": 187408,
       "name": "Screams - Live",
       "url": "https://open.spotify.com/track/6IL4Ev4bnsUbwLIWrSvJKo"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/5tztvIqV2iaAPQOs47BMcc"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mart\u00e8n LeGrand",
+          "url": "https://open.spotify.com/artist/0HWKrys9THXRANUN2eZH2C"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Swan Lake, op. 20",
+      "url": "https://open.spotify.com/track/7ohCWZyiY8IZ5Q8YdDQ25B"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Already Over (Fort Minor Mix) [feat. Dom McLennon]",
+        "url": "https://open.spotify.com/album/0IRqCSzSbRllF7hI0pT5OJ"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Dom McLennon",
+          "url": "https://open.spotify.com/artist/2gvHN6YzZW0bPpmyjeD6V9"
+        },
+        {
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Already Over (Fort Minor Mix) - feat. Dom McLennon",
+      "url": "https://open.spotify.com/track/21FONObbqlF5Dfrx2fau0n"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -123,70 +183,6 @@
       "duration_ms": 178905,
       "name": "Real Love - 33 Below Remix",
       "url": "https://open.spotify.com/track/1kmWZGrZwy8yOalxNJ0DUs"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Already Over (feat. Dom McLennon) [Fort Minor Mix]",
-        "url": "https://open.spotify.com/album/0IRqCSzSbRllF7hI0pT5OJ"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Dom Mclennon",
-          "url": "https://open.spotify.com/artist/3HexcCIsWUPlduqW6OKzxd"
-        },
-        {
-          "name": "Fort Minor",
-          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Already Over (feat. Dom McLennon) - Fort Minor Mix",
-      "url": "https://open.spotify.com/track/21FONObbqlF5Dfrx2fau0n"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "1982",
-        "url": "https://open.spotify.com/album/41vrCbXFyOwLTHls46ugCV"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Witching Metal",
-      "url": "https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Tchaikovsky: The Nutcracker, Op. 71a, TH 35: III. Waltz Of The Flowers",
-        "url": "https://open.spotify.com/album/5LM4WtMBl0H49sCpfIpHvZ"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        },
-        {
-          "name": "William Steinberg",
-          "url": "https://open.spotify.com/artist/3oLKocKU2vgprWeskj53Fo"
-        }
-      ],
-      "duration_ms": 342893,
-      "name": "The Nutcracker (Suite), Op. 71a, TH 35: III. Waltz Of The Flowers",
-      "url": "https://open.spotify.com/track/66tlngZh8zONq6vfqlamNK"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -216,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 169644,
-      "name": "I Won't Back Down (Live in St Paul, 9/2/2023)",
-      "url": "https://open.spotify.com/track/5GBrB2R1sXEvCwhtrogzt3"
+      "duration_ms": 308258,
+      "name": "Release (Live in Chicago 9/5/2023)",
+      "url": "https://open.spotify.com/track/43VK7Okrq79cxXGuxvAIh3"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -619,22 +615,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
-        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
-      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Ice Nine Kills, Asking Alexandria, From Ashes To New) [Acoustic]",
         "url": "https://open.spotify.com/album/426F7edvwDBldhLL4UfVLg"
       },
@@ -659,6 +639,22 @@
       "duration_ms": 248083,
       "name": "The Retaliators Theme (21 Bullets) (feat. Ice Nine Kills, Asking Alexandria, From Ashes To New) - Acoustic",
       "url": "https://open.spotify.com/track/0nluh04rCNhjqVdPsQpjDq"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
+        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -731,26 +727,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        },
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
-      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "What Christmas Means To Me (with Stevie Wonder)",
         "url": "https://open.spotify.com/album/76Oe3S7KYq7yPVdVn1kmSG"
       },
@@ -767,6 +743,26 @@
       "duration_ms": 155360,
       "name": "What Christmas Means To Me (with Stevie Wonder)",
       "url": "https://open.spotify.com/track/1wGNUfqEyjEHmZATDVf6LB"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
+      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
     },
     {
       "added_at": "2023-11-10 03:00:00",

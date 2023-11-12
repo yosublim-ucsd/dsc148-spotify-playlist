@@ -4,7 +4,7 @@
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-244 songs - 16 hr 47 min
+245 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Inside Out](https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Inside Out](https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE) | 3:46 | 2021-03-29 | 2023-02-25 |
 | [Is There Anybody out There?](https://open.spotify.com/track/25xREK7GqfuUWvqEumOVK3) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody out There?](https://open.spotify.com/album/0IalnI5Z5nOfqOt9HusTCx) | 4:32 | 2021-03-29 | 2022-07-29 |
 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 | 2021-03-29 |  |
-| [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-09-14 |  |
+| [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-09-14 | 2023-11-12 |
 | [Jotun](https://open.spotify.com/track/3wfjxKLWPVm7SXHtXnTeY1) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Whoracle \(Reissue 2014\)](https://open.spotify.com/album/3KXb9Mu6857q52N437b6VV) | 3:54 | 2022-01-17 | 2022-07-28 |
 | [Kai Tangata](https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 6:35 | 2021-03-29 | 2023-05-13 |
 | [Keep Your Distance](https://open.spotify.com/track/02p1jKVOK2yzCBvRP3DCzX) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe) | [Keep Your Distance](https://open.spotify.com/album/5a4uSrrtQF7USsbNxtQr5r) | 2:51 | 2021-03-29 | 2022-07-29 |
@@ -166,6 +166,7 @@
 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 | 2021-03-29 | 2023-05-04 |
 | [Over It](https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:47 | 2023-04-04 |  |
 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 | 2022-03-16 | 2023-11-04 |
+| [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 | 2023-11-09 |  |
 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 | 2021-03-29 |  |
 | [Painless](https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 3:59 | 2021-03-29 | 2023-11-10 |
 | [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 | 2021-03-29 | 2023-08-31 |

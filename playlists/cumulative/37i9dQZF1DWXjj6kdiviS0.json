@@ -819,6 +819,32 @@
     },
     {
       "album": {
+        "name": "Eternal Heaven",
+        "url": "https://open.spotify.com/album/5UKz7nutxbtKprq1lnmA17"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3fZW6CQtgSQhNddt8P0QaE"
+        },
+        {
+          "name": "Thomas Dunford",
+          "url": "https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343680,
+      "name": "Handel: Suite No. 4 in D Minor, HWV 437: III. Sarabande",
+      "url": "https://open.spotify.com/track/4mM9vOokngB17s8UMv2AYP"
+    },
+    {
+      "album": {
         "name": "Eternal Heaven - Handel: Suite No. 4 in D Minor: III. Sarabande",
         "url": "https://open.spotify.com/album/62vVr1NM52Ml0FgR8iH15S"
       },
@@ -838,7 +864,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 343680,
       "name": "Handel: Suite No. 4 in D Minor, HWV 437: III. Sarabande",
       "url": "https://open.spotify.com/track/5Mwvwi4Zb4CbQAExqLsz5f"

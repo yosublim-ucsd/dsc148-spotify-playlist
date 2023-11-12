@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,750 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,806 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 24 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 |
 | 25 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
 | 26 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 |
-| 27 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 |
+| 27 | [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 |
 | 28 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
 | 29 | [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 |
 | 30 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 49 | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB) | 3:09 |
 | 50 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 
-Snapshot ID: `MCxkNzhmODE1ZmFhOTlhNjc2NTIyZDFiZDliMjkwZTEyOGMxYzEwMmEw`
+Snapshot ID: `MCw3YzgwM2RiMWI2ZTYxNzIyYjdmYzVhYjhhN2M5MzQ3Njg2ZmQxMWE0`

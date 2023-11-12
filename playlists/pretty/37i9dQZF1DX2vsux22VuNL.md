@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Budah, Lourena
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,728 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,740 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 74 | [Tudo bem](https://open.spotify.com/track/6hEzYlDMj0Fqfq7dMQql1v) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Tudo bem](https://open.spotify.com/album/6wp7vBZbqGKdFyJc7iaY98) | 2:37 |
 | 75 | [Sacada](https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sacada](https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7) | 2:41 |
 
-Snapshot ID: `MCwwNjllNTA3OGI1MjRiNWM3ZmEyYTI2ZmM0ODMxODVmZGMzNzAyZDdi`
+Snapshot ID: `MCxlZmVlMjE2ZGM0NmY4YzI4NDNkYTAwZGY3NDk4ZWZlMmI2MzAyZDhh`

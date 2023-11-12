@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,894 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,911 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCxlMzFkZDk1NDY1YTdkYzIwNDkzMGZiN2UxODAzYjhlZTNlMGI3Mjlj`
+Snapshot ID: `MCxiNzFhYzJlYTFkMDhiYjA0NTc3ZDU1ZGNiZTI3MWI1Y2ZhZmZlZDAz`

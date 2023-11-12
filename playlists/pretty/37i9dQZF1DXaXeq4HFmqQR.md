@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Ambar Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,903 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,908 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [Seres Libres](https://open.spotify.com/track/3rnuK41IR6XHQRh2l4Ru9A) | [Gloria Allel](https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX) | [Aiel](https://open.spotify.com/album/0icOUbtkQwSnIy8q3MMqY5) | 2:13 |
 | 18 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
 | 19 | [CÁLLENSE](https://open.spotify.com/track/6BazBla5m49evarfU6L92l) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [CÁLLENSE](https://open.spotify.com/album/4YwUgqConCsg73VfRwaRwm) | 3:52 |
-| 20 | [En el Mar](https://open.spotify.com/track/0FJQe95Z0xX4ItGN7cscB7) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4), [Piel Canela](https://open.spotify.com/artist/0e5SVFdm66Goq3LfJt64Ex) | [En el Mar](https://open.spotify.com/album/3MltROQcdQb7GkBRjUbecP) | 2:54 |
-| 21 | [Carahue](https://open.spotify.com/track/3oei9xdu82adCVSgzrkxVK) | [Carmen Lienqueo](https://open.spotify.com/artist/3PN1SYp2N3RVacxJQcMvYj) | [Canto para Siempre](https://open.spotify.com/album/1gwDgkshlJLlFHLlZx0e2W) | 4:16 |
+| 20 | [Carahue](https://open.spotify.com/track/3oei9xdu82adCVSgzrkxVK) | [Carmen Lienqueo](https://open.spotify.com/artist/3PN1SYp2N3RVacxJQcMvYj) | [Canto para Siempre](https://open.spotify.com/album/1gwDgkshlJLlFHLlZx0e2W) | 4:16 |
+| 21 | [En el Mar](https://open.spotify.com/track/0FJQe95Z0xX4ItGN7cscB7) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4), [Piel Canela](https://open.spotify.com/artist/0e5SVFdm66Goq3LfJt64Ex) | [En el Mar](https://open.spotify.com/album/3MltROQcdQb7GkBRjUbecP) | 2:54 |
 | 22 | [Nunca Fue](https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5) | [Una Típica Francisca](https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Nunca Fue](https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG) | 4:42 |
 | 23 | [Mi Matria \(feat\. Emaflu & DJ Cidtronyck\)](https://open.spotify.com/track/0peJkeERCaAQA76PgkpUos) | [La Deyabu](https://open.spotify.com/artist/0lGEierpxyPwtani40A4N6), [DJ Cidtronyck](https://open.spotify.com/artist/6Cjoe6OAPXUgtbggfHNSLq), [EmaFlu](https://open.spotify.com/artist/0vYlWENPOfFPy9Ijl8d5dS) | [Matria](https://open.spotify.com/album/6P4WQdBxz7JYbggmCp0CRm) | 4:05 |
 | 24 | [Que Va a Pasar Mañana](https://open.spotify.com/track/63o8Pbo6BRJruT3c49u7O9) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Zeidah](https://open.spotify.com/artist/1O9mz0prX39vdd3lsmhtXm), [Gonem Beats](https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ) | [Que Va a Pasar Mañana](https://open.spotify.com/album/4bxIImUZF5qvGIaopVfzwU) | 3:16 |
 | 25 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
 | 26 | [P.A.V](https://open.spotify.com/track/6cDOXthhtIxWb0nSlerHNZ) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Knom](https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:32 |
-| 27 | [Love Yourself](https://open.spotify.com/track/5o0YZOyNI1SPdZ43YURZJ3) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:31 |
-| 28 | [En Paz](https://open.spotify.com/track/63k28SPq02CplOq9pZHhrz) | [Michu MC](https://open.spotify.com/artist/0aGeXTq3yd9xoAIJajDNbc) | [En Paz](https://open.spotify.com/album/2T8UUebWfuNTCN0mqRVaRB) | 3:57 |
+| 27 | [En Paz](https://open.spotify.com/track/63k28SPq02CplOq9pZHhrz) | [Michu MC](https://open.spotify.com/artist/0aGeXTq3yd9xoAIJajDNbc) | [En Paz](https://open.spotify.com/album/2T8UUebWfuNTCN0mqRVaRB) | 3:57 |
+| 28 | [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 |
 | 29 | [Contrabando](https://open.spotify.com/track/728lajhL7SHX5kytHyANdU) | [Vunbeats](https://open.spotify.com/artist/0NBSz8jDx66uHWBr3jnB9v), [Lamisty](https://open.spotify.com/artist/3hopHPeDSyx6VwRGsYLbsK) | [Contrabando](https://open.spotify.com/album/6Y5AmjPH3HSTkjxbdwvKut) | 2:56 |
 | 30 | [Lucha](https://open.spotify.com/track/7aebFEUEPcQWTrvrXX1pP5) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Cupido](https://open.spotify.com/album/0TEdJd353hOnypz4ewVMQt) | 3:26 |
 
-Snapshot ID: `MCxmZWIxYTVjMjAzOTdiODA2M2UzMzNkZmExMzJhODdhNzYxYWI1NmY1`
+Snapshot ID: `MCxmMDMyMzAxOTg3YmY4YmUzZGNjMDVmNzZhMTQ2YTdiZjU5YjkzMjQw`

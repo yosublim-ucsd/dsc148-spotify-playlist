@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 20395,
+  "num_followers": 20412,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzlhZjQzMGViM2I5MmJlM2U2OTg1Y2FiZWNhMGEwMWFiNGNjZDkw",
+  "snapshot_id": "MCw5NWYxYTFhZDQ1NzJmNGI0OGYwYzYxODNlYjAzM2U4YTQyOTliMDA1",
   "tracks": [
     {
       "added_at": "2023-11-10 14:50:48",
@@ -431,18 +431,26 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Nuevos miedos - Nadie va a decidir por vos",
-        "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
+        "name": "333",
+        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
       "artists": [
         {
-          "name": "Mujer Cebra",
-          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Tomy Sainz",
+          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
         }
       ],
-      "duration_ms": 221516,
-      "name": "Nadie va a decidir por vos",
-      "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
+      "duration_ms": 192389,
+      "name": "CABEZAS DEL TIEMPO",
+      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -459,6 +467,22 @@
       "duration_ms": 195117,
       "name": "Aproximaci\u00f3n",
       "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Nuevos miedos - Nadie va a decidir por vos",
+        "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "duration_ms": 221516,
+      "name": "Nadie va a decidir por vos",
+      "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -511,22 +535,6 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
         "name": "Comprensi\u00f3n1",
         "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
@@ -539,6 +547,22 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -579,22 +603,6 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -615,6 +623,22 @@
       "duration_ms": 225833,
       "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
       "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -667,26 +691,18 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
+        "name": "Evil Dead",
+        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
       },
       "artists": [
         {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Tomy Sainz",
-          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
+          "name": "Justo Antes de la Guerra con los Esquimales",
+          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
         }
       ],
-      "duration_ms": 192389,
-      "name": "CABEZAS DEL TIEMPO",
-      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
+      "duration_ms": 175046,
+      "name": "Evil Dead",
+      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Evil Dead",
-        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
-      },
-      "artists": [
-        {
-          "name": "Justo Antes de la Guerra con los Esquimales",
-          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Evil Dead",
-      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 271451,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
       "artists": [
         {
-          "name": "Pretoria",
-          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 194937,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -811,6 +795,22 @@
       "duration_ms": 222435,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
+      },
+      "artists": [
+        {
+          "name": "Pretoria",
+          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+        }
+      ],
+      "duration_ms": 194937,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
+        "name": "Si No Hubiera Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Conf\u00edn Dorado",
+      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -931,22 +951,50 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Si No Hubiera Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
+        "name": "Todo de mi (Todo de vos)",
+        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
       },
       "artists": [
         {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Conf\u00edn Dorado",
-      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
+      "duration_ms": 173914,
+      "name": "Todo de mi (Todo de vos)",
+      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Anclado",
+        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Anclado",
+      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -983,22 +1031,6 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
         "name": "Habladur\u00edas",
         "url": "https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W"
       },
@@ -1011,22 +1043,6 @@
       "duration_ms": 189231,
       "name": "Habladur\u00edas",
       "url": "https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
-        "name": "14:14",
-        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
-      },
-      "artists": [
-        {
-          "name": "MOY",
-          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
-        }
-      ],
-      "duration_ms": 191078,
-      "name": "14:14",
-      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Anclado",
-        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
+        "name": "14:14",
+        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
       },
       "artists": [
         {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+          "name": "MOY",
+          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
         }
       ],
-      "duration_ms": 264500,
-      "name": "Anclado",
-      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
+      "duration_ms": 191078,
+      "name": "14:14",
+      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     },
     {
       "added_at": "2023-11-10 14:50:48",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Todo de mi (Todo de vos)",
-        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
-      },
-      "artists": [
-        {
-          "name": "Mauro Conforti & La Vida Marciana",
-          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
-        }
-      ],
-      "duration_ms": 173914,
-      "name": "Todo de mi (Todo de vos)",
-      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
         "name": "No Est\u00e1 Mal Volar",
         "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-10 14:50:48",
       "album": {
-        "name": "Esp\u00eda del Arte",
-        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
-      },
-      "artists": [
-        {
-          "name": "La Vida en Familia",
-          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
-        }
-      ],
-      "duration_ms": 290458,
-      "name": "Esp\u00eda del Arte",
-      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
-    },
-    {
-      "added_at": "2023-11-10 14:50:48",
-      "album": {
         "name": "atr\u00e1s de los \u00e1rboles",
         "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 146734,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
+    },
+    {
+      "added_at": "2023-11-10 14:50:48",
+      "album": {
+        "name": "Esp\u00eda del Arte",
+        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
+      },
+      "artists": [
+        {
+          "name": "La Vida en Familia",
+          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
+        }
+      ],
+      "duration_ms": 290458,
+      "name": "Esp\u00eda del Arte",
+      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
     },
     {
       "added_at": "2023-11-10 14:50:48",

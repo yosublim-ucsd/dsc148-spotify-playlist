@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 
 > for hiking through nature's playground 🏔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,434 likes - 164 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,320 likes - 164 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 | 163 | [Diamonds & Gasoline](https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:54 |
 | 164 | [Walking Song](https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Walking Song](https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2) | 3:04 |
 
-Snapshot ID: `MCxlM2I1YTUyMDA5N2YzMWY1N2VlYjA5ZWM1ZWMxOWI0NDk2YTg2Y2Vh`
+Snapshot ID: `MCw4YjU5ODVlNTI4MWJhNDA4ZjA3NWE1MjI2N2M0YTk2MGY1Y2MyNGZj`

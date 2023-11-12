@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196240,
+  "num_followers": 196235,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjJlMzNhODQ0ZmRiMWM5OTFmMmRiZmRmNDUwNmQyYjEwNGU2M2Ex",
+  "snapshot_id": "MCw1NWE5N2IwZmNhYTBmN2I0M2Y0ZTU0ODZmN2E0NWIxMDZiNzBjNGUx",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Fan va dyrt",
-        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Fan va dyrt",
-      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Pistol - Spotify Singles",
         "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 218181,
       "name": "Pistol - Spotify Singles",
       "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Fan va dyrt",
+        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Fan va dyrt",
+      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 218719,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "The Way You Had Me",
         "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Hey mom, don\u2019t worry I\u2019m fine",
         "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Worst Mom",
-        "url": "https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau"
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Worst Mom",
-      "url": "https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd"
+      "duration_ms": 173437,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -755,6 +755,22 @@
       "duration_ms": 194900,
       "name": "Losing a Friend",
       "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Worst Mom",
+        "url": "https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Worst Mom",
+      "url": "https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 221489,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Youth And Why It Ends",
+        "url": "https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 160058,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Youth And Why It Ends",
-        "url": "https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 160058,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/2jVBHTvi0UbTzSEnqua7zM"
       },
@@ -903,6 +903,38 @@
       "duration_ms": 190871,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4Q9sJipq22mVAHpOnoWprj"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Springer",
+        "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 203504,
+      "name": "Springer",
+      "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Konsten att fly",
+        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "M\u00f6rkret \u00e4r min b\u00e4sta v\u00e4n",
+      "url": "https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -923,22 +955,6 @@
       "duration_ms": 256548,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Konsten att fly",
-        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "M\u00f6rkret \u00e4r min b\u00e4sta v\u00e4n",
-      "url": "https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -979,34 +995,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "LESS",
-        "url": "https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
         }
       ],
-      "duration_ms": 193565,
-      "name": "LESS",
-      "url": "https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "don't look at the moon...",
-        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
-      },
-      "artists": [
-        {
-          "name": "Zikai",
-          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Come Get Me Out",
-      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
+      "duration_ms": 221489,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "LESS",
+        "url": "https://open.spotify.com/album/5W7XuGuj82QHTEBds6DO6X"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 193565,
+      "name": "LESS",
+      "url": "https://open.spotify.com/track/08p0RXW7VhUlAVNmjfRsk9"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Tracksuit Pants",
         "url": "https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G"
       },
@@ -1047,34 +1063,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "N\u00e5n annans s\u00e4ng",
-        "url": "https://open.spotify.com/album/63rEMPx6dcCOO5s22kI4Ke"
+        "name": "don't look at the moon...",
+        "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
       },
       "artists": [
         {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
         }
       ],
-      "duration_ms": 163200,
-      "name": "N\u00e5n annans s\u00e4ng",
-      "url": "https://open.spotify.com/track/4aVGpY7xdFsdESoPT2sP9H"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Famlande fingrar",
-        "url": "https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 161407,
-      "name": "Famlande fingrar",
-      "url": "https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ"
+      "duration_ms": 202293,
+      "name": "Come Get Me Out",
+      "url": "https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "N\u00e5n annans s\u00e4ng",
+        "url": "https://open.spotify.com/album/63rEMPx6dcCOO5s22kI4Ke"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "N\u00e5n annans s\u00e4ng",
+      "url": "https://open.spotify.com/track/4aVGpY7xdFsdESoPT2sP9H"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Hj\u00e4rtan i sanden",
         "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Fooled by September",
-        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
+        "name": "Famlande fingrar",
+        "url": "https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
         }
       ],
-      "duration_ms": 173720,
-      "name": "Fooled by September",
-      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
+      "duration_ms": 161407,
+      "name": "Famlande fingrar",
+      "url": "https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1171,6 +1187,22 @@
       "duration_ms": 186530,
       "name": "Explosion",
       "url": "https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Fooled by September",
+        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Fooled by September",
+      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1207,22 +1239,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Tr\u00e4ffa andra",
-        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
-      },
-      "artists": [
-        {
-          "name": "Sebbe Hauta",
-          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Tr\u00e4ffa andra",
-      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Still Got the Blues fr\u00e5n Sverige",
         "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
       },
@@ -1235,6 +1251,22 @@
       "duration_ms": 248893,
       "name": "Still Got the Blues fr\u00e5n Sverige",
       "url": "https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Tr\u00e4ffa andra",
+        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
+      },
+      "artists": [
+        {
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Tr\u00e4ffa andra",
+      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1271,6 +1303,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Du har fel",
+        "url": "https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "duration_ms": 164155,
+      "name": "Du har fel",
+      "url": "https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
@@ -1287,18 +1335,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Du har fel",
-        "url": "https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH"
+        "name": "December",
+        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rn Holmgren",
-          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+          "name": "Anders Robert",
+          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
         }
       ],
-      "duration_ms": 164155,
-      "name": "Du har fel",
-      "url": "https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge"
+      "duration_ms": 183375,
+      "name": "December",
+      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1339,54 +1387,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Tiotusen",
-        "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Tiotusen",
-      "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
-      },
-      "artists": [
-        {
-          "name": "Anders Robert",
-          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "December",
-      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Stupid Little Party Girl",
-        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 179936,
-      "name": "Stupid Little Party Girl",
-      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "SVAG",
         "url": "https://open.spotify.com/album/1yxQP0h71Da7mv2tqvMhD6"
       },
@@ -1407,6 +1407,38 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Stupid Little Party Girl",
+        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 179936,
+      "name": "Stupid Little Party Girl",
+      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Tiotusen",
+        "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Tiotusen",
+      "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Cold Turkey",
         "url": "https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc"
       },
@@ -1423,6 +1455,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "When You're Not Mine",
         "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
       },
@@ -1435,6 +1483,26 @@
       "duration_ms": 190459,
       "name": "When You're Not Mine",
       "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Allt eller inget",
+        "url": "https://open.spotify.com/album/0nVlBIFa13okHGHBcOtnR1"
+      },
+      "artists": [
+        {
+          "name": "Jakob Karlberg",
+          "url": "https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1"
+        },
+        {
+          "name": "INGA-BELL",
+          "url": "https://open.spotify.com/artist/3JHG9IX0gaqigpBcq65Rrn"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Allt eller inget",
+      "url": "https://open.spotify.com/track/2OqSyq3EM2IqsKPVavdy1t"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1475,22 +1543,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 173434,
-      "name": "I Wish I Was Someone Else",
-      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Both Ways",
         "url": "https://open.spotify.com/album/7lrIOVjFYRKTIDPFufwfJF"
       },
@@ -1503,26 +1555,6 @@
       "duration_ms": 151500,
       "name": "Both Ways",
       "url": "https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Allt eller inget",
-        "url": "https://open.spotify.com/album/0nVlBIFa13okHGHBcOtnR1"
-      },
-      "artists": [
-        {
-          "name": "Jakob Karlberg",
-          "url": "https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1"
-        },
-        {
-          "name": "INGA-BELL",
-          "url": "https://open.spotify.com/artist/3JHG9IX0gaqigpBcq65Rrn"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Allt eller inget",
-      "url": "https://open.spotify.com/track/2OqSyq3EM2IqsKPVavdy1t"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1547,6 +1579,22 @@
       "duration_ms": 202734,
       "name": "h4msterb0y <3 Canada",
       "url": "https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Historier och liv",
+        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Historier och liv",
+      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1647,54 +1695,6 @@
       "duration_ms": 166117,
       "name": "Beh\u00f6ver inte dig",
       "url": "https://open.spotify.com/track/5RSiyTwpksCU6D6l68Nwd8"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Blommorna p\u00e5 min tapet",
-        "url": "https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe"
-      },
-      "artists": [
-        {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
-        }
-      ],
-      "duration_ms": 176223,
-      "name": "Blommorna p\u00e5 min tapet",
-      "url": "https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 202686,
-      "name": "A Bowl of Unripe Fruit",
-      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "I Got It All",
-        "url": "https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg"
-      },
-      "artists": [
-        {
-          "name": "Nicole Saboun\u00e9",
-          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
-        }
-      ],
-      "duration_ms": 245247,
-      "name": "I Got It All",
-      "url": "https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras
 
-726 songs - 1 day 12 hr 37 min
+728 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 | 2023-08-19 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-14 | 2023-08-05 |
 | [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 | 2023-08-18 |  |
-| [Everybody Wants a Piece of You](https://open.spotify.com/track/1yhYXmpBFTT1uTJS49qokx) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Everybody Wants a Piece of You](https://open.spotify.com/album/1ihklD60pvx4cvuCKhZXII) | 2:55 | 2023-10-13 |  |
+| [Everybody Wants a Piece of You](https://open.spotify.com/track/1yhYXmpBFTT1uTJS49qokx) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Everybody Wants a Piece of You](https://open.spotify.com/album/1ihklD60pvx4cvuCKhZXII) | 2:55 | 2023-10-13 | 2023-11-12 |
+| [Everybody Wants a Piece of You](https://open.spotify.com/track/2rogCtPxeWPNcO4ED4vzmw) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Everybody Wants a Piece of You](https://open.spotify.com/album/7kjnDAINZ4T9h2XOPytzbm) | 2:55 | 2023-11-10 |  |
 | [Everybody Wants It](https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg), [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Everybody Wants It](https://open.spotify.com/album/2W6n5qvGnLQjSZuvIfb85T) | 3:24 | 2022-07-08 | 2022-09-03 |
 | [Everybody’s Gay](https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:35 | 2022-07-15 | 2022-09-17 |
 | [EX EX EX \(Whoops\)](https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:23 | 2023-10-20 |  |
@@ -315,6 +316,7 @@
 | [Hot One](https://open.spotify.com/track/67PQixUitGVgI9x0zfbqVB) | [Mandy Rose](https://open.spotify.com/artist/5ocRt6hgJ7Nq01vzjf4jBb) | [Hot One](https://open.spotify.com/album/0VKHwE6XlsTvBsmufd5lE5) | 1:47 | 2023-11-10 |  |
 | [Hot One](https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ) | 1:50 | 2023-06-30 | 2023-08-04 |
 | [Hot One](https://open.spotify.com/track/6FWWJsGO4CuQY3vWtOlBys) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/2A4cjpxbVEXHpvWPIjhJZb) | 1:50 | 2023-07-07 | 2023-10-07 |
+| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-08 | 2023-01-28 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-15 | 2022-06-25 |
 | [HOW TO RUIN EVERYTHING](https://open.spotify.com/track/5la3wv8OeqvdP8vxKLXHfC) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [HOW TO RUIN EVERYTHING](https://open.spotify.com/album/17Ffbtd43DVCRkkhQ6Ry7N) | 2:53 | 2023-09-29 | 2023-10-14 |

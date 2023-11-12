@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,287 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,367 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 36 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
 | 37 | [Follow Your Bliss](https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Classical Soul](https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72) | 5:08 |
 | 38 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
-| 39 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
-| 40 | [Charisma](https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 3:41 |
-| 41 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
-| 42 | [Easy Street](https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Easy Street](https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74) | 5:17 |
+| 39 | [Charisma](https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 3:41 |
+| 40 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
+| 41 | [Easy Street](https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Easy Street](https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74) | 5:17 |
+| 42 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
 | 43 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
 | 44 | [I Just Can't Stop Thinking About You](https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Better Days](https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5) | 5:20 |
 | 45 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
 | 60 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 
-Snapshot ID: `MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx`
+Snapshot ID: `MCw5MDc5OGExNGQzODAwYjkwMDE4ZDM5ODgwZmNlYmRiNjlhMzc5ZDBm`

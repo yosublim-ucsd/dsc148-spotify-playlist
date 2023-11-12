@@ -4,7 +4,7 @@
 
 > when bass music was life
 
-59 songs - 4 hr 31 min
+60 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Fire \(feat\. Ms Dynamite\)](https://open.spotify.com/track/0ECBHbZZgrzTt1SRCQixN4) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:39 | 2022-08-31 |  |
 | [Frisky \(feat\. Labrinth\) \- TC Remix](https://open.spotify.com/track/5XVrGQyE6pYEZmVyPqiDHO) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Frisky](https://open.spotify.com/album/22d8wD00z2me9Ike0YmJYs) | 4:01 | 2022-08-31 |  |
 | [Get Down \- Vip](https://open.spotify.com/track/1nv3meN1rqF7JM2GtUHaaw) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW) | [The Big Bundle](https://open.spotify.com/album/0jdoD5tlw6hevMrdiDgPc1) | 4:46 | 2022-08-31 |  |
-| [Ginger Pubes](https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK) | 5:09 | 2022-08-31 |  |
+| [Ginger Pubes](https://open.spotify.com/track/0xp0U9YtEv0u58gr3JZdgE) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/54RmCOwOUlWLkZQbbG1zcq) | 5:09 | 2022-08-31 |  |
+| [Ginger Pubes](https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK) | 5:09 | 2022-08-31 | 2023-11-12 |
 | [Guilt](https://open.spotify.com/track/4TYywuf1tdUdbEuDI1nqsg) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:44 | 2022-08-31 |  |
 | [Hard \- Caspa & The Others Police Takeover Remix](https://open.spotify.com/track/13KiwHRxAzZRf3DfLXrMVx) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5), [David Rodigan](https://open.spotify.com/artist/3Ecj5Hl1oHo9V7XKXdursh), [Newham Generals](https://open.spotify.com/artist/4uvxuGejwpYNsKHUkNNtc7) | [Hard](https://open.spotify.com/album/6rMGF4B3a2YAMn3TrLlWoH) | 5:05 | 2022-08-31 |  |
 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 | 2022-08-31 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,491 songs - 3 day 8 hr 45 min
+1,492 songs - 3 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 | 2023-01-10 | 2023-01-29 |
 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 | 2022-10-01 | 2023-01-16 |
 | [365](https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx) | [Los Reales Del Río](https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV) | [365](https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL) | 3:08 | 2022-09-19 | 2022-10-02 |
-| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-17 |  |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-17 | 2023-11-12 |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-27 | 2022-10-05 |
 | [6 A.M.](https://open.spotify.com/track/5axSTOstQDAbVdq4fUTJdP) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo), [Kontax](https://open.spotify.com/artist/3Gm9VUAvppr5ROz0u73tMi) | [6 A.M.](https://open.spotify.com/album/0smv8Q6YbBf6takvymTyad) | 3:03 | 2023-04-15 | 2023-04-19 |
 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 | 2022-03-18 | 2022-04-17 |
@@ -331,6 +331,7 @@
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-27 | 2023-07-26 |
 | [Dembow Zumba La Srt](https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB) | [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Dembow Zumba La Srt](https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz) | 3:00 | 2023-11-07 |  |
 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 | 2022-06-22 | 2022-07-06 |
+| [Demo 5 Nostalgia Intro \- Remix](https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj) | [Renzo Pianciola](https://open.spotify.com/artist/5gll5A4o6CPtrF4Vzk6KTQ) | [Demo 5 Nostalgia Intro \(Remix\)](https://open.spotify.com/album/0ZbmoD40C6v3C0E9OA2yEw) | 3:35 | 2023-11-11 |  |
 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2022-08-17 | 2022-09-05 |
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 | 2022-11-24 | 2022-11-30 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-04-17 | 2022-05-10 |

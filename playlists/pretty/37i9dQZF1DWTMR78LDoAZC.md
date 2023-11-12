@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,559 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,623 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 60 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
 | 61 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
 | 62 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
-| 63 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 |
-| 64 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
-| 65 | [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 |
+| 63 | [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 |
+| 64 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 |
+| 65 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
 | 66 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |
 | 67 | [death proof](https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:56 |
 | 68 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 75 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 |
 
-Snapshot ID: `MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy`
+Snapshot ID: `MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk`

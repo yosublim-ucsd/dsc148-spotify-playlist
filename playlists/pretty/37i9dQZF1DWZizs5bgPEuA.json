@@ -1,12 +1,12 @@
 {
   "description": "Music by our 2023 Artists To Watch. Cover: Fuerza Regida",
-  "num_followers": 3759,
+  "num_followers": 3764,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2I2ZGUzZThjMjU2MGVjODQxZTVjMjJjMThhNTFjZTRiZDFkMjA4",
+  "snapshot_id": "MCw2OWVlZWU0NWMwNWI1MGYzMWRiODljOGZkMjk2Mjc3OTc5Y2UwZDZj",
   "tracks": [
     {
       "added_at": "2023-11-07 22:40:19",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-11-07 22:40:19",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
-    },
-    {
-      "added_at": "2023-11-07 22:40:19",
-      "album": {
         "name": "Donde Est\u00e1s",
         "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 249040,
       "name": "Donde Est\u00e1s",
       "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "added_at": "2023-11-07 22:40:19",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2023-11-07 22:40:19",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-11-07 22:40:19",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad - Deluxe",
-      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2023-11-07 22:40:19",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-11-07 22:40:19",
       "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
+      "duration_ms": 216000,
+      "name": "La Curiosidad - Deluxe",
+      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
     },
     {
       "added_at": "2023-11-07 22:40:19",

@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 247272,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
@@ -2160,6 +2160,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Waka Waka",
+        "url": "https://open.spotify.com/album/7HGP96lEH5assiam9DokmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125856,
+      "name": "Waka Waka",
+      "url": "https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,659 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,703 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 43 | [Fuiste Mía un Verano](https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 2:55 |
 | 44 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 |
 | 45 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 |
-| 46 | [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 |
-| 47 | [Acaríciame](https://open.spotify.com/track/22mBFQDC3JJvJAahX7hOmH) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [O Ella o Yo](https://open.spotify.com/album/0Xy14kGbjkFXjijXR5UhWt) | 4:15 |
+| 46 | [Acaríciame](https://open.spotify.com/track/22mBFQDC3JJvJAahX7hOmH) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [O Ella o Yo](https://open.spotify.com/album/0Xy14kGbjkFXjijXR5UhWt) | 4:15 |
+| 47 | [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 |
 | 48 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 49 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
 | 50 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 81 | [Volveré](https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0) | [Sergio Facheli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. Y Amores](https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc) | 3:31 |
 | 82 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
 | 83 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
-| 84 | [Fresa Salvaje](https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Solo un Hombre](https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1) | 2:38 |
-| 85 | [Esa Pared](https://open.spotify.com/track/2XMFsuzOo9jWX4LZfs7iwg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Tesoros de Colección](https://open.spotify.com/album/4OXDMYOuLNW4kcRzbviEfn) | 3:02 |
+| 84 | [Esa Pared](https://open.spotify.com/track/2XMFsuzOo9jWX4LZfs7iwg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Tesoros de Colección](https://open.spotify.com/album/4OXDMYOuLNW4kcRzbviEfn) | 3:02 |
+| 85 | [Fresa Salvaje](https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Solo un Hombre](https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1) | 2:38 |
 | 86 | [Esa Triste Guitarra](https://open.spotify.com/track/0OA9C6PLBsWYA3LDljB0E3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:59 |
 | 87 | [Qué Ironía](https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 3:12 |
 | 88 | [Cenizas](https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7) | 3:12 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 100 | [Castillos en el aire](https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [Castillos en el aire](https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw) | 3:18 |
 | 101 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 |
 | 102 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
-| 103 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 |
-| 104 | [Todo Con Él](https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj) | [Sonia Rivas](https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K) | [Sonia Rivas](https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc) | 3:35 |
+| 103 | [Todo Con Él](https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj) | [Sonia Rivas](https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K) | [Sonia Rivas](https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc) | 3:35 |
+| 104 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 |
 | 105 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
 | 106 | [A Tu Recuerdo](https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Lo Más Romántico De](https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ) | 3:21 |
 | 107 | [Una Lágrima \(Una Lacrima\)](https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Estela Nuñez..\. Sus Primeras E Inolvidables Grabaciones](https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode) | 3:53 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 113 | [Me Muero por Estar Contigo](https://open.spotify.com/track/2rmlXDjM5bV6yL2mhljg7K) | [Silvana Di Lorenzo](https://open.spotify.com/artist/0jmWbTDAKk9k593xUr6Exe) | [Souvenirs](https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k) | 3:52 |
 | 114 | [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 |
 | 115 | [Por Las Calles De México](https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
-| 116 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
-| 117 | [El cariño que perdí](https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 3:26 |
+| 116 | [El cariño que perdí](https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 3:26 |
+| 117 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 | 118 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
 | 119 | [Estoy Soñando \- Spanish Version](https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 4:38 |
 | 120 | [A Quién](https://open.spotify.com/track/2wBsfuJt6NnbmiaogcfFRe) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:40 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 124 | [Total](https://open.spotify.com/track/32vg03zWdgSxMiNj6Xzm5I) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Canciones De Amor](https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8) | 3:29 |
 | 125 | [Niña Qué Tienen Tus Ojos](https://open.spotify.com/track/47z5NWmoHrC5q7aKsXtCy4) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Niña Qué Tienen Tus Ojos / Qué Cosa Linda Mi Amor](https://open.spotify.com/album/2IgPfbDrKDdzEd9tnw4pR0) | 3:14 |
 
-Snapshot ID: `MCxkNTliMjMwYjhiZGI2OWY0ZmNiMzA1MWI1OGI1MmRiYmU4YWFmNGJh`
+Snapshot ID: `MCxmYmJjYmJjNTdlNmFiNmRlNzQ1ZjAxZDQ1ZTlkMWUxYjQ5MzNlNDE2`

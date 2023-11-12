@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:4ctoRm4PSfS4v7YdoHgIen">Macadamia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,627 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,631 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Curami](https://open.spotify.com/track/3sKJ4KHTFqbMD0MT6t0DYM) | [SAFENA](https://open.spotify.com/artist/4JIHzAJnavEqDFNJtafWMf) | [Curami](https://open.spotify.com/album/12Q4OOuHdn7UwFuNEgHoTY) | 3:30 |
 | 55 | [Splenderò](https://open.spotify.com/track/3deYxvbyqmeJkV7NV2LgBE) | [Guayota](https://open.spotify.com/artist/71BVmpmb7W3zGyDIv2ScZZ) | [Splenderò](https://open.spotify.com/album/1Dj64PdyyTZRouXVhdDtZA) | 3:21 |
 
-Snapshot ID: `MCw5YWJlMjFmOTAxZDgwOTZmY2JhYWRmZTM1ZGRhYzVhOGNjNmUyZjZl`
+Snapshot ID: `MCw1ODkwYTJjNzIzM2FiZGE2NWZiZDdmZDdjN2M3MjQ4ZWU3OTg3MjNj`

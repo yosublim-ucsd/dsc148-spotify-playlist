@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 178020,
       "name": "ACAPULCO GOLD",
       "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 216204,
       "name": "Affaire de Colecci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0"
@@ -344,6 +344,24 @@
       "duration_ms": 179612,
       "name": "Arde",
       "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152453,
+      "name": "Autopoi\u00e9tica",
+      "url": "https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH"
     },
     {
       "album": {
@@ -995,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "coraz\u00f3n dinamita",
+        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181532,
+      "name": "coraz\u00f3n dinamita",
+      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
+    },
+    {
+      "album": {
         "name": "Cuando la Luna Caiga",
         "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
       },
@@ -1289,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Chae Sol\u00e9",
+          "url": "https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193149,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
+    },
+    {
+      "album": {
         "name": "Pasar\u00e1",
         "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
       },
@@ -1478,7 +1536,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 185429,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/3s9DwqX5OKIWoqynT0F1sn"
@@ -2881,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Nueva forma",
+        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Nueva forma",
+      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
+    },
+    {
+      "album": {
         "name": "Nunca Estuvo en Ti el Litoral",
         "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
@@ -3230,7 +3306,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 232342,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp"

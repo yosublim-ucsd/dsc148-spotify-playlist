@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 334037,
+  "num_followers": 334336,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTc0MmUwN2RlY2MzNDgyNDdjMWE2OTJmNWIzYjdhYTBkMmY1Nzlm",
+  "snapshot_id": "MCxhY2JkOWU5ZWE0YjE4YmFiNDJjNmQxYmMxM2Y3NzcyNDJhZWFkM2Vm",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
         "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1245,20 +1245,20 @@
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         }
       ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+      "duration_ms": 199706,
+      "name": "Doctor My Eyes - 1997 Remaster",
+      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1277,20 +1277,20 @@
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Doctor My Eyes - 1997 Remaster",
-      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Kung Fu Fighter",
+        "url": "https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2"
+      },
+      "artists": [
+        {
+          "name": "Carl Douglas",
+          "url": "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Kung Fu Fighting",
+      "url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Raspberries",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Kung Fu Fighter",
-        "url": "https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2"
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
       },
       "artists": [
         {
-          "name": "Carl Douglas",
-          "url": "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 197935,
-      "name": "Kung Fu Fighting",
-      "url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1711,22 +1727,6 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
       "added_at": "2022-08-11 07:51:07",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1911,6 +1895,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
         "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
       },
@@ -1923,6 +1923,22 @@
       "duration_ms": 628546,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Original Albums\u2026Plus",
+        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/0T0wSag4yiG1UB3jc2Z5Px"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2005,22 +2021,6 @@
       "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "The Original Albums\u2026Plus",
-        "url": "https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/0T0wSag4yiG1UB3jc2Z5Px"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "If You Knew Suzi\u2026 (2017 Remaster)",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 203866,
-      "name": "Sing a Song",
-      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
+      "duration_ms": 339946,
+      "name": "In the Navy - Original Version 1979",
+      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 339946,
-      "name": "In the Navy - Original Version 1979",
-      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+      "duration_ms": 203866,
+      "name": "Sing a Song",
+      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
       "added_at": "2021-09-08 13:31:49",

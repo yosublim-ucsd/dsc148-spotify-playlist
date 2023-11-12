@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,039 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,084 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 | 50 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 |
 
-Snapshot ID: `MCwxNGIyOWEwZDIyZTY5MGFmZGNjNWE2YTg0MDNlNzgzYmNiMDljMjgw`
+Snapshot ID: `MCw2OTZhZmZmOTAwNjFjYTllYTkwZjVmYmM1NGJiMDVhNjg1ZDFkY2Fh`

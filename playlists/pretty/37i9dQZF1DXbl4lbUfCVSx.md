@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,600 likes - 40 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,627 likes - 40 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 23 | [Kimbé sa nan rinw](https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [Turbulan's Kompa, Vol\. 2 \(Special Gouyad Mixed by DJ Mayass\)](https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn) | 2:45 |
 | 24 | [Wet the hell map vini \- Zouk](https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Mete'm alez](https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep) | 4:53 |
 | 25 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 |
-| 26 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
+| 26 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
 | 27 | [Mwen bouke](https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Diferan](https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9) | 4:57 |
-| 28 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
+| 28 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
 | 29 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 |
 | 30 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
 | 31 | [Kilot](https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Kilot](https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl) | 5:09 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 39 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 |
 | 40 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
 
-Snapshot ID: `MCxiMjNjZDA0ZDU1MTY3MDRjZWNmZTQyZDMyYTMyNGZlYWZlNTM4Njc0`
+Snapshot ID: `MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk`

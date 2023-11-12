@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Dove Cameron
 
-1,791 songs - 3 day 15 hr 4 min
+1,792 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-07-10 | 2021-09-14 |
 | [Hotel Bed \(feat\. Swae Lee\)](https://open.spotify.com/track/1STkjkaPuvmfJPFU8V1pNm) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hotel Bed \(feat\. Swae Lee\)](https://open.spotify.com/album/5sToBIdjlSDEDWInJ7PfRw) | 3:22 | 2021-04-24 | 2021-05-29 |
 | [Hotel Room](https://open.spotify.com/track/2pxPyZopqt8UHeopkoQMql) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Hotel Room](https://open.spotify.com/album/5RTKA4rotAXJhtQ3XalzHe) | 2:59 | 2021-07-31 | 2021-08-14 |
+| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 |  |
 | [House On Fire](https://open.spotify.com/track/2arUPf0itcdIqtG0nUvM3A) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [House On Fire](https://open.spotify.com/album/1SMq5Zk0H2wJX5nXKNCROP) | 3:13 | 2021-06-12 | 2021-08-07 |
 | [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 | 2022-07-30 |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2022-10-21 | 2022-11-19 |

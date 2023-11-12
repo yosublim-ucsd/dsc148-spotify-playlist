@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,527 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,565 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 62 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
 | 63 | [Time To Realize](https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 3:30 |
 | 64 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
-| 65 | [One Out Of Two \- Oliver Remix](https://open.spotify.com/track/4KoSPXHZJX6XHwpQTwYZaW) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Olivier](https://open.spotify.com/artist/1OHSjggNzVef5cSnSN0H4R) | [One Out Of Two](https://open.spotify.com/album/2272o56pJTeBGVqXvMdoJw) | 4:17 |
-| 66 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
+| 65 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
+| 66 | [One Out Of Two \- Oliver Remix](https://open.spotify.com/track/4KoSPXHZJX6XHwpQTwYZaW) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Olivier](https://open.spotify.com/artist/1OHSjggNzVef5cSnSN0H4R) | [One Out Of Two](https://open.spotify.com/album/2272o56pJTeBGVqXvMdoJw) | 4:17 |
 | 67 | [Roman](https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9) | [Housse de Racket](https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj) | [Alésia](https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km) | 3:07 |
 | 68 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 69 | [La musique \(JBAG's Boomboxed Re\-Edit\) \- Mixed](https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf) | [Riot In Belgium](https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G), [JBAG](https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R) | [Kitsuné Boombox Mixed by Jerry Bouthier](https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7) | 4:11 |
-| 70 | [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder \(Deluxe Version\)](https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7) | 6:40 |
-| 71 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 70 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 71 | [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder \(Deluxe Version\)](https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7) | 6:40 |
 | 72 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
 | 73 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 74 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
 | 75 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 
-Snapshot ID: `MCw5MzA1ODc5NmM5MjA2N2MxODQ1MWM3MjI4MDQ0ZWFmNjIyOTFkNTVh`
+Snapshot ID: `MCw3MjA1ZmJkNzA0MmY2MTMzYzNjYzQ1MWYxMDhjZDcxY2E5MjM2YjYz`

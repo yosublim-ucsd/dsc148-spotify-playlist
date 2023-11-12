@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Bou
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,789 likes - 55 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,863 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 47 | [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 |
 | 48 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
 | 49 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
-| 50 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 |
-| 51 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 |
+| 50 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 |
+| 51 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 |
 | 52 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
 | 53 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
 | 54 | [Do It Like Me](https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Do It Like Me](https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR) | 3:24 |
 | 55 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
 
-Snapshot ID: `MCxmMjgzMjJjNjlkYTMxN2IzNTE1MTFhOTFkOGE5NTJiYWFhNzJlMjFl`
+Snapshot ID: `MCxkYzc1YWIxY2JkYWFmOTdhNGE4Y2UyMTE3OGQ1NmRmNzgzNGJlNTZh`

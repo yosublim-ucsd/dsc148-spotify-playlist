@@ -4,7 +4,7 @@
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-39 songs - 2 hr 34 min
+40 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [I Was Made to Love Her](https://open.spotify.com/track/2UP48WBw40vfggp53fWQ1Y) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:41 | 2023-08-03 |  |
 | [If It's Magic](https://open.spotify.com/track/0F6HC5P6b4D3GASp8SFKw1) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Gemini](https://open.spotify.com/album/70YZ1zflBKeWZs9tgP5hif) | 3:50 | 2023-08-03 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/4bKXnz3kB9zMjeCKpIUz2V) | [Pinky Dread](https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ) | [From a Reggae Point of View](https://open.spotify.com/album/12wOS02zmIrvmWDXOo7X3N) | 2:19 | 2023-08-03 |  |
-| [Jesus Children](https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 5:29 | 2023-08-03 |  |
+| [Jesus Children](https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 5:29 | 2023-08-03 | 2023-11-12 |
+| [Jesus Children](https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Black Radio 2 \(Deluxe\)](https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX) | 5:29 | 2023-08-03 |  |
 | [Jesus Children of America \(feat\. Israel Houghton\)](https://open.spotify.com/track/1oh77sYqkISM5alFlIS1vf) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Iconic: Message 4 America](https://open.spotify.com/album/7v4kVMcNhP3C1xC2kd2qqi) | 5:35 | 2023-08-03 |  |
 | [Living For The City](https://open.spotify.com/track/7jXioMosXXfNvRn8IWwWnA) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 5:46 | 2023-08-03 |  |
 | [Living For The City](https://open.spotify.com/track/1h5J5e36zMAdxtkYgYK1NC) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Soul Speak](https://open.spotify.com/album/303s5fPq9OuEkNG1E1ue11) | 4:59 | 2023-08-03 |  |

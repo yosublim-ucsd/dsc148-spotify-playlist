@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: EIKO starring 96猫
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,375 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,485 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 25 | [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 |
 | 26 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
 | 27 | [Answer to Extreme](https://open.spotify.com/track/5dPzG4Qv2hAPV60adG25UC) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Answer to Extreme](https://open.spotify.com/album/4OpXV7tSWTnMRwNlLInW6R) | 2:33 |
-| 28 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 |
+| 28 | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/0l49ZGMryYreBuCYjb9v5q) | [Yuiko Ohara](https://open.spotify.com/artist/6Ms9K6GofUbmyph3tETnp5), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/6dIi4IChOkvoc4UDv1kp2S) | 2:28 |
 | 29 | [ひとりじゃないよ](https://open.spotify.com/track/2P95rrQ5wUiU7uvv1vPZU6) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [ひとりじゃないよ](https://open.spotify.com/album/7hXNUkElCgqvqCaSayR459) | 4:10 |
 | 30 | [大大大大大好きな君へ♡](https://open.spotify.com/track/4tWEjnu8wb58t8Do4iWVzj) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/3tsN6ioIH52vw6ObxJJRPs) | 3:47 |
 | 31 | [Super moon](https://open.spotify.com/track/67kIO6t0RAXrtDnOpfYkQj) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Super moon](https://open.spotify.com/album/0V9mhL26kn9cHji8KBcAjE) | 3:13 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 36 | [Our Song](https://open.spotify.com/track/30d5c9lJkmkyqZBDBApVxh) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Our Song](https://open.spotify.com/album/2GbTEPQ5qmD4aHfevXkzoa) | 3:40 |
 | 37 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
 | 38 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
-| 39 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
+| 39 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
 | 40 | [Koi! Koi Koi](https://open.spotify.com/track/4HbCJpVZ12gsYf3aNdsOy6) | [Nene Yashiro\(CV:Akari Kito\)](https://open.spotify.com/artist/77VxZhzSfnxHOwV0iEWv64), [mokke\(CV:Yuuri Yoshida, Chitose Morinaga, Mai Kanazawa\)](https://open.spotify.com/artist/7ApP60cc6Ji7e1doiKh4iI) | [Koi! Koi Koi](https://open.spotify.com/album/1iNtcsA0N8ips7q9X1QjbO) | 3:29 |
-| 41 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
+| 41 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 42 | [HANANOHI](https://open.spotify.com/track/2vNumlJCeRKsSbN9Jwol4g) | [リリィ（CV：雨宮 天）](https://open.spotify.com/artist/25WMgI8NXBdpkjStYXT3Nd) | [SONG FROM TV SERIES ”SPY CLASSROOM”](https://open.spotify.com/album/6SkJ1mBlJGYiTHa7UlkJuC) | 3:51 |
 | 43 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
 | 44 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 48 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 |
 | 49 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 |
-| 50 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
+| 50 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
 
-Snapshot ID: `MCxjNDk5NGY5ZTAxMjU2YTY4YWE1OTc2OWRmOGJkNWQ0NDFmNjhjMzhm`
+Snapshot ID: `MCwwYjJlNGMzMjdmNTRlOGVhMTRmMDBkYzZkN2E5NzQ1Y2FlZTM2ZGFj`

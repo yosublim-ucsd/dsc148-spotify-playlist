@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 93489,
+  "num_followers": 93530,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjFiNzMwOWExZTE2NTdjODNhMGVjMTczOWEwOGVlMTQyNGRkYmYw",
+  "snapshot_id": "MCw1YTYzY2MxMGI1NzA2MmQ5NDVlYzc1YjkwNjJhODE0MjliYmVmMTU4",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Steady Light",
-        "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
+        "name": "TAYA",
+        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
       },
       "artists": [
         {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 283885,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/49gozhH6p55OJaH6s1zk2c"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "TAYA",
-        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
+        "name": "Steady Light",
+        "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
       },
       "artists": [
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
         }
       ],
-      "duration_ms": 210066,
-      "name": "For All My Life",
-      "url": "https://open.spotify.com/track/49gozhH6p55OJaH6s1zk2c"
+      "duration_ms": 283885,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 186483,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 186483,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "If The Lord Builds The House",
-        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "If The Lord Builds The House",
-      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Heart of God",
         "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 233146,
       "name": "Heart of God",
       "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 238757,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Show Up Choose Love",
         "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
         }
       ],
-      "duration_ms": 238757,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1167,22 +1183,6 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 228068,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 278119,
       "name": "Burial",
       "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
       "artists": [
         {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
         }
       ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1499,6 +1483,22 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
-        }
-      ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "God Thing",
         "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
       },
@@ -1647,22 +1647,6 @@
       "duration_ms": 215800,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "I Met Jesus In Miami",
-        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "I Came Home",
-      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 278001,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
+      "duration_ms": 230506,
+      "name": "I Came Home",
+      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+      },
+      "artists": [
+        {
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+        }
+      ],
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     }
   ],
   "unique_name": "Sing A New Song",

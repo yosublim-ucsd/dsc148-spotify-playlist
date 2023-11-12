@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Beckoning",
+        "url": "https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120795,
+      "name": "Beckoning",
+      "url": "https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT"
+    },
+    {
+      "album": {
         "name": "Before We Leave",
         "url": "https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd"
       },
@@ -4982,6 +5000,24 @@
       "duration_ms": 205275,
       "name": "From Here to Eternity",
       "url": "https://open.spotify.com/track/64IBUAyeOxHHtV2VNl6CQ3"
+    },
+    {
+      "album": {
+        "name": "From the Seas and the Streams",
+        "url": "https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149800,
+      "name": "From the Seas and the Streams",
+      "url": "https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP"
     },
     {
       "album": {
@@ -11654,7 +11690,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 136591,
       "name": "Rianmarsi",
       "url": "https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn"
@@ -15262,7 +15298,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 170573,
       "name": "two wheels north",
       "url": "https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,961 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,971 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
 | 50 | [Keep Your Light on Mama](https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2) | 2:54 |
 
-Snapshot ID: `MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4`
+Snapshot ID: `MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz`

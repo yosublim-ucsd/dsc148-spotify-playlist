@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+    },
+    {
+      "album": {
         "name": "10:10",
         "url": "https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN"
       },
@@ -333,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165318,
+      "name": "333",
+      "url": "https://open.spotify.com/track/49D0dUFzPxmOWWmn0FoR48"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
       },
@@ -348,7 +388,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 165318,
       "name": "333",
       "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
@@ -512,7 +552,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -1468,7 +1508,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 252145,
       "name": "Airplane Lesson",
       "url": "https://open.spotify.com/track/2SxeNZphx2bH5kju5Ntu8P"
@@ -2840,10 +2880,32 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
+    },
+    {
+      "album": {
+        "name": "Controlando el Ki",
+        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159101,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
     },
     {
       "album": {
@@ -6600,6 +6662,24 @@
       "duration_ms": 463530,
       "name": "DEMO #4: BellaK.O.",
       "url": "https://open.spotify.com/track/6TJLSxPjVk9AL5WHcpJ4T1"
+    },
+    {
+      "album": {
+        "name": "Demo 5 Nostalgia Intro (Remix)",
+        "url": "https://open.spotify.com/album/0ZbmoD40C6v3C0E9OA2yEw"
+      },
+      "artists": [
+        {
+          "name": "Renzo Pianciola",
+          "url": "https://open.spotify.com/artist/5gll5A4o6CPtrF4Vzk6KTQ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215055,
+      "name": "Demo 5 Nostalgia Intro - Remix",
+      "url": "https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj"
     },
     {
       "album": {
@@ -11952,6 +12032,24 @@
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+    },
+    {
+      "album": {
+        "name": "idyll",
+        "url": "https://open.spotify.com/album/5SrwygCxFLQtFY1NNWJuPA"
+      },
+      "artists": [
+        {
+          "name": "Jonjthan",
+          "url": "https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73624,
+      "name": "idyll",
+      "url": "https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI"
     },
     {
       "album": {
@@ -17998,7 +18096,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 196231,
       "name": "No Me Salgas Con Esa (MJ Cris)",
       "url": "https://open.spotify.com/track/7sACkXjjfzWdagFnEehPYS"
@@ -29002,7 +29100,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 125062,
       "name": "WHAT U KNOW BOUT LOVE - SHISHI RMX",
       "url": "https://open.spotify.com/track/4KVb9XgRT17hTiCfoGmZka"
@@ -29994,7 +30092,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 183400,
       "name": "\u00bfCu\u00e1l Es Su Nombre?",
       "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"

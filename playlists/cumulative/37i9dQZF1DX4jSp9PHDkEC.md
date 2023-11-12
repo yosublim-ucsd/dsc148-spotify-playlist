@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-340 songs - 22 hr 47 min
+341 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Fade Into You](https://open.spotify.com/track/2bjdtN4Ju1HcceRI7A7cq2) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Covers](https://open.spotify.com/album/0jwuOY0u0VJ283tDVW8gT1) | 4:44 | 2023-01-17 |  |
 | [Falling Ashes](https://open.spotify.com/track/4EocLlVV582YshaT7aXZxR) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 8:00 | 2023-01-17 |  |
 | [Feels Like We're Dying](https://open.spotify.com/track/0IvaKmBYBLVcdP0Ft8Dwik) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Far Away](https://open.spotify.com/album/00Yc9nnL6ODCkfqC7iV9lq) | 3:05 | 2023-01-17 |  |
-| [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2023-01-17 |  |
+| [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2023-01-17 | 2023-11-12 |
 | [Felt](https://open.spotify.com/track/4ZYMSm3o3AO9U2fUPfrU6f) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Cloth](https://open.spotify.com/album/1wjACzJBtfygdPfQbTAwQi) | 3:58 | 2023-06-27 |  |
 | [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 | 2023-01-17 | 2023-11-10 |
 | [Fire in Cairo](https://open.spotify.com/track/71Znjl8mUrHfSg38OQU8bb) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [A Sentimental Education](https://open.spotify.com/album/4jviCKhoJB3Y2F3MA6vLoD) | 3:29 | 2023-01-17 |  |
@@ -251,6 +251,7 @@
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 |  |
 | [Savior Complex](https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:01 | 2023-01-17 |  |
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 |  |
+| [See Me](https://open.spotify.com/track/3Pvv1THse5T4dAa2niaFYv) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:50 | 2023-01-17 |  |
 | [See Us](https://open.spotify.com/track/6dmvic5s3LHMDgT3S13A2W) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/4sIVjY70KXkT3JKFJ6ySQI) | 2:10 | 2023-01-17 |  |
 | [Self Proclaimed](https://open.spotify.com/track/7K2JPgaNkqwBpySfK5C0Lm) | [WADLEY](https://open.spotify.com/artist/15JDX4IGnsAAoy8SOkzTVu) | [Self Proclaimed](https://open.spotify.com/album/7phLBqCwADj7iNStjVY3xs) | 3:16 | 2023-01-17 | 2023-09-21 |
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2023-01-17 |  |

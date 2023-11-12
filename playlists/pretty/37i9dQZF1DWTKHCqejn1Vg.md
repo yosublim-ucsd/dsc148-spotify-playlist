@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,083 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,108 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 35 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 |
 | 36 | [FALL IN LUST](https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [FALL IN LUST](https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8) | 3:19 |
 | 37 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
-| 38 | [Like The First Time](https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Like The First Time](https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji) | 2:20 |
-| 39 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
+| 38 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
+| 39 | [Like The First Time](https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Like The First Time](https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji) | 2:20 |
 | 40 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
 | 41 | [More](https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:27 |
 | 42 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 60 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 
-Snapshot ID: `MCxhZmY5NjIzYTZhYjYwYmVmYWFiMjA4NzhkNmUxMjVhMGYxNTY2NDU2`
+Snapshot ID: `MCxhM2M3MWI5NmM5NmY1Y2JlZDM2OGFlZTIyNTYxOGYxNzllM2JiZWY3`

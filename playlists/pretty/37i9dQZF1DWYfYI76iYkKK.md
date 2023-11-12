@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,402 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,428 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 34 | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N) | 3:12 |
 | 35 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
 | 36 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 |
-| 37 | [忘了說，你已經很好了](https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:58 |
-| 38 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
+| 37 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
+| 38 | [忘了說，你已經很好了](https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:58 |
 | 39 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
 | 40 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
-| 41 | [愛是想觸碰卻收回手](https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [在幕（Moods）](https://open.spotify.com/album/1QCNUNNdjWn7gR0wgLbnWX) | 2:58 |
-| 42 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
-| 43 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
-| 44 | [我還要走多遠](https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我還要走多遠](https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY) | 2:36 |
-| 45 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
+| 41 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
+| 42 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
+| 43 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
+| 44 | [愛是想觸碰卻收回手](https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [在幕（Moods）](https://open.spotify.com/album/1QCNUNNdjWn7gR0wgLbnWX) | 2:58 |
+| 45 | [我還要走多遠](https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我還要走多遠](https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY) | 2:36 |
 | 46 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
 | 47 | [鳥獸散 \- 電影《他馬克老闆》插曲](https://open.spotify.com/track/5vUDLud67TpjMSVwSE4LtR) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [《他馬克老闆》電影原聲帶 \(Kiss My Ass Boss O.S.T.\)](https://open.spotify.com/album/0JVmiTua73t1Vf2NP7Glou) | 1:02 |
 | 48 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
-| 49 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
-| 50 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
+| 49 | [裝飾音](https://open.spotify.com/track/7iC1d22Q9zG0XQZvITqetB) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:25 |
+| 50 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 
-Snapshot ID: `MCw5MDRiMmNkMzEyZjdiNDMxOGM3OGJlZjEzMmVhNWI4MmRiNzBiZGI0`
+Snapshot ID: `MCxiZTE0OTFlYzJiMWI4ZGE5ZmU5ZTU1ZjZkZjFlMmMzMTBjOGRjMmU4`

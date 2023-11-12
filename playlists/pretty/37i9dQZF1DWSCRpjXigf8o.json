@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 85750,
+  "num_followers": 85756,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTlmNThiMTJhYjY2ZDAwYmExYjhkMGM1OGRkMWJiMGIwNzBjNzg0",
+  "snapshot_id": "MCxmOTJhNzAyODA1NDU2OWNkN2RjZTJkZTQwNTFhYzEzNzJjMzMwYmIz",
   "tracks": [
     {
       "added_at": "2023-11-10 21:39:43",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-10 21:39:43",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185675,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
-    },
-    {
-      "added_at": "2023-11-10 21:39:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 243804,
       "name": "Girl Crush - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2023-11-10 21:39:43",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
     },
     {
       "added_at": "2023-11-10 21:39:43",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 230036,
+  "num_followers": 230084,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDc4NDJjOTBiMjExNWYyYTAxOWMzODY5ODJlZDQ1NTU0MTRiZTRk",
+  "snapshot_id": "MCw0NDRlMjNmOTBjMDFkM2M5YzJjZWJlYTQzOGU5NDhlY2QxOTRjNzc0",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 445426,
+      "name": "El Cuarto de Tula",
+      "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Suma y Resta",
         "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 188364,
       "name": "Suma y Resta",
       "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 445426,
-      "name": "El Cuarto de Tula",
-      "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+        }
+      ],
+      "duration_ms": 398893,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Live In The USA",
         "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
       },
@@ -619,26 +635,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Qu\u00e9 Sorpresa",
         "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
       },
@@ -655,18 +651,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
       "artists": [
         {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1"
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
       "artists": [
         {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 398893,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p"
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -739,22 +739,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
       "artists": [
         {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         },
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -775,22 +775,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
         },
         {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+      "duration_ms": 168866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
     },
     {
       "added_at": "2022-12-30 18:20:45",

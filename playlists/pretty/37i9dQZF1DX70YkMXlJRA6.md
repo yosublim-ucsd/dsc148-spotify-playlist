@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,485 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,501 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 20 | [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 |
 | 21 | [Ojos Negros](https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6) | [Ojos Negros](https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe) | 3:44 |
 | 22 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 23 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 |
-| 24 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
+| 23 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
+| 24 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 |
 | 25 | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 |
 | 26 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 |
 | 27 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 42 | [Elelu Tomassita](https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [El Baile de las Arañas](https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw) | 6:44 |
 | 43 | [Conexión Total](https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tierra](https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J) | 3:35 |
 | 44 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
-| 45 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 |
-| 46 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
+| 45 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
+| 46 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 |
 | 47 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 |
-| 48 | [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 |
+| 48 | [Venimos](https://open.spotify.com/track/4RZ6HrfPP5ML2L3D7bsPXW) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Carolina Camacho](https://open.spotify.com/artist/0yIk2w5fMTibMpkEUKaaLA) | [Venimos](https://open.spotify.com/album/6LVxpWNwPBJBfZSIotbjJ1) | 3:31 |
 | 49 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
-| 50 | [Desconocidos](https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [Mula](https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml) | [Caribe Express](https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8) | 3:01 |
+| 50 | [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 |
 
-Snapshot ID: `MCwwMDFiOTU2ZjM4YThkZDc0YTE4NTM0NjgyZDA4YjA0ZThlOTMzZGYx`
+Snapshot ID: `MCwwMGFlM2VjYzQzOGY1ZWYwZTM0ZjllMTM3NjhiZjBiZTU2NWI5MTVm`

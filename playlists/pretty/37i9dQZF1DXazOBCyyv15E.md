@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,569 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,616 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
 | 85 | [Dance & Go](https://open.spotify.com/track/1XJnPs7UweoYZSZnkoW9CP) | [The Umlauts](https://open.spotify.com/artist/2LwlVrqI7U4WS448GpAozT) | [Slags](https://open.spotify.com/album/7HDxKgUjOb3rbzFMVPNxpP) | 4:03 |
 
-Snapshot ID: `MCxmM2YwMzRlNzY4NjY0YjM3MTEwNWQwMTZhMDcwN2NhNWQ5Zjg5MjAx`
+Snapshot ID: `MCw1MjBkZDY5YTQ1MmVlNmJhOGQxMTg5OTNiYzNlYmFlYzU5ODViY2M5`

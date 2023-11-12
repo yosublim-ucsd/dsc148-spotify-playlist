@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,271 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,325 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 34 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 35 | [Tracks](https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Backbone](https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku) | 3:22 |
 | 36 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
-| 37 | [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 |
-| 38 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
+| 37 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
+| 38 | [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 |
 | 39 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
 | 40 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
 | 41 | [Monsters \- Acoustic \- Live From Lockdown](https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Monsters \(Acoustic \- Live From Lockdown\)](https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis) | 3:03 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 69 | [In the End](https://open.spotify.com/track/5E6Gb7lBgkbtmK97EAL9OO) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:01 |
 | 70 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
 | 71 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
-| 72 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
-| 73 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
-| 74 | [Take My Breath Away](https://open.spotify.com/track/4AjIe5cBvHyFrvIi9yvDEd) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4) | 3:54 |
+| 72 | [Take My Breath Away](https://open.spotify.com/track/4AjIe5cBvHyFrvIi9yvDEd) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4) | 3:54 |
+| 73 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
+| 74 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
 | 75 | [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 |
 
-Snapshot ID: `MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi`
+Snapshot ID: `MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl`

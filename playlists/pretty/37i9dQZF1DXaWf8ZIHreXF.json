@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 172237,
+  "num_followers": 172398,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzcyMjE1MWE5MDVhMTcwOTUxMGRlOTQwYWIzOGQ1MjMzNTA5MmI3",
+  "snapshot_id": "MCw3YTFjMzYzYWQ2OWVlODFlZjY3OGQ0YWFlMzEyYmQ4OTBjYmNmMWVm",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Animals - Radio Edit",
+      "url": "https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 254653,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Animals - Radio Edit",
-      "url": "https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Janieck Devy",
+          "url": "https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "Reality (feat. Janieck Devy) - Radio Edit",
+      "url": "https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Janieck Devy",
-          "url": "https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Reality (feat. Janieck Devy) - Radio Edit",
-      "url": "https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "I Wanna Know (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV"
       },
@@ -1803,34 +1819,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
       },
       "artists": [
         {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         }
       ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1859,22 +1863,18 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1891,26 +1891,6 @@
       "duration_ms": 190295,
       "name": "REMEDY",
       "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1935,6 +1915,46 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 213135,
       "name": "Say Something - Zac Samuel Remix",
       "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Girls Like (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/0EUrNFkbVL5kokjQbzHxl3"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Girls Like (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/0rHVd8h0cFwgLgPFem6S60"
     }
   ],
   "unique_name": "Dance Hits 2010s",

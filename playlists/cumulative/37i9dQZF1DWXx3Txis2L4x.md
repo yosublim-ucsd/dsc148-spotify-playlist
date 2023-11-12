@@ -4,7 +4,7 @@
 
 > Don't use these shoes to run, they just look nice for the playlist cover\. Use real running shoes, please.
 
-189 songs - 10 hr 55 min
+190 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 | 2023-07-04 |  |
 | [Get on Top](https://open.spotify.com/track/0GcWf1Cc4ixN35D3O9VdcP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:18 | 2023-03-08 | 2023-03-23 |
 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 | 2022-04-08 | 2022-04-20 |
-| [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-07-25 |  |
+| [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-07-25 | 2023-11-12 |
 | [Glazed Over](https://open.spotify.com/track/5MF8AmnvhY7uW3fgxKOVFf) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Violent Picture / Violent Sound](https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT) | 2:58 | 2023-10-16 |  |
 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 | 2022-04-08 |  |
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2022-03-09 | 2023-03-08 |
@@ -114,6 +114,7 @@
 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 | 2021-12-09 | 2022-04-20 |
 | [Miss Alissa](https://open.spotify.com/track/1dlgaGdQXmsYKMRuewIZkF) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/1lFroSL8x6KELMkLOS07DT) | 2:38 | 2022-10-25 | 2023-07-26 |
 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-07-25 | 2023-11-09 |
+| [Mountains At Midnight](https://open.spotify.com/track/63V2LU9M9pLkimultjujl5) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:06 | 2023-10-19 |  |
 | [Movies](https://open.spotify.com/track/1SoW6gSGu8dZDIYQQDHONU) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What’s It Like Over There?](https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj) | 3:22 | 2022-04-08 | 2022-04-20 |
 | [Movies](https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 3:22 | 2022-06-02 | 2023-10-17 |
 | [My God Is the Sun](https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 | 2022-06-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 82994,
+  "num_followers": 83070,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0",
+  "snapshot_id": "MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "I Love You But I Love Me More (feat. Beach Bunny)",
         "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 222786,
       "name": "I Love You But I Love Me More (feat. Beach Bunny)",
       "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso"
     },
     {
       "added_at": "2022-11-15 00:54:21",

@@ -2972,10 +2972,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 197637,
       "name": "Mama He's Crazy",
       "url": "https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD"
+    },
+    {
+      "album": {
+        "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197637,
+      "name": "Mama He\u2019s Crazy",
+      "url": "https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE"
     },
     {
       "album": {

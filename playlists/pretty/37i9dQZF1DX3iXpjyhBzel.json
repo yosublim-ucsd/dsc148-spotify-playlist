@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Fernandinho, Paula Santos",
-  "num_followers": 1006376,
+  "num_followers": 1006736,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI1NDUzMzAzMzE4ZmMwOGM4MDViMDZkNmU5OGEwZTQzNTE0YWVh",
+  "snapshot_id": "MCw5YjY2YWFjZGE2MDQwNTZiNDE4ZDYyYmZiY2UyODRmMDU5NjUwNjU4",
   "tracks": [
     {
       "added_at": "2023-11-03 04:23:05",
@@ -583,18 +583,22 @@
     {
       "added_at": "2023-11-03 04:23:05",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Est\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs"
       },
       "artists": [
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+      "duration_ms": 352502,
+      "name": "Est\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf"
     },
     {
       "added_at": "2023-11-03 04:23:05",
@@ -631,6 +635,22 @@
     {
       "added_at": "2023-11-03 04:23:05",
       "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+    },
+    {
+      "added_at": "2023-11-03 04:23:05",
+      "album": {
         "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 266086,
       "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
-    },
-    {
-      "added_at": "2023-11-03 04:23:05",
-      "album": {
-        "name": "Est\u00e1 Tudo Bem",
-        "url": "https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 352502,
-      "name": "Est\u00e1 Tudo Bem",
-      "url": "https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf"
     },
     {
       "added_at": "2023-11-03 04:23:05",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-03 04:23:05",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
-    },
-    {
-      "added_at": "2023-11-03 04:23:05",
-      "album": {
         "name": "O Amor Tem Um Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 427444,
       "name": "O Amor Tem Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
+    },
+    {
+      "added_at": "2023-11-03 04:23:05",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2023-11-03 04:23:05",

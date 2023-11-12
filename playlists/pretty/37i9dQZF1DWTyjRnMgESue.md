@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,266 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,334 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 79 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
 | 80 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
 | 81 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 |
-| 82 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 |
+| 82 | [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 |
 | 83 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 |
-| 84 | [Bed I Made \- ft\. Alessia Cara](https://open.spotify.com/track/370wRdlSnMviWrX6Emc0D2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 3:00 |
-| 85 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
-| 86 | [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 |
+| 84 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 |
+| 85 | [Bed I Made \- ft\. Alessia Cara](https://open.spotify.com/track/370wRdlSnMviWrX6Emc0D2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 3:00 |
+| 86 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
 | 87 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
 | 88 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
 | 89 | [Maid of Honor](https://open.spotify.com/track/0LiWTHB05mfS4iEWPFp70n) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Maid of Honor](https://open.spotify.com/album/24Uj9QfozTixf7CoWRJ9aU) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
 | 100 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
 
-Snapshot ID: `MCxjNzU5OWM2NzUwNWIyOTgzYzEzMmNmZDc1NjA1NjJiMjUzODgzYTE4`
+Snapshot ID: `MCwxZDhkMjJjZWMyNThkZWQyNzczYmI1MTM1ZWFiY2Q1YzE3OTg2NDky`

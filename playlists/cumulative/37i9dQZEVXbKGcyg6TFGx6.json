@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 149443,
       "name": "2 Germans (feat. Gzuz)",
       "url": "https://open.spotify.com/track/4rSmXn2TIKt6iBeBDM4uOs"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -5050,7 +5050,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 148000,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/3bY23N5NSjVYqIPJ2b0Qo6"
@@ -7813,6 +7813,28 @@
     },
     {
       "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/17wWRcFcinDfiwPptmTkYC"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/3T33so3escAbwbrgcIqyRa"
+    },
+    {
+      "album": {
         "name": "Die zwei kenn ich",
         "url": "https://open.spotify.com/album/7d7rkLtS6qUfZ2xqFb9d1h"
       },
@@ -9654,6 +9676,28 @@
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
+    },
+    {
+      "album": {
+        "name": "Familia (feat. Morad)",
+        "url": "https://open.spotify.com/album/3Xd5N7vlVRGAZ4XkAZCwBf"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Familia (feat. Morad)",
+      "url": "https://open.spotify.com/track/5jGcOhXpPE07vrSe23198B"
     },
     {
       "album": {
@@ -12532,6 +12576,24 @@
       "duration_ms": 60719,
       "name": "hotline (edit)",
       "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "album": {
@@ -16173,6 +16235,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
         "name": "Lose My Kool",
         "url": "https://open.spotify.com/album/2Il4ooGhLsCdADtiM5G20Y"
       },
@@ -16460,6 +16540,24 @@
       "duration_ms": 241970,
       "name": "Love Tonight - Edit",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
+    },
+    {
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "album": {
@@ -18100,7 +18198,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -20158,6 +20256,28 @@
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "On My Love (Sped Up)",
+        "url": "https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
     },
     {
       "album": {
@@ -22968,7 +23088,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
@@ -28563,6 +28683,24 @@
     },
     {
       "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216997,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -30290,7 +30428,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 137985,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6SxsBgvdf8Wkc8DQGnSLEr"

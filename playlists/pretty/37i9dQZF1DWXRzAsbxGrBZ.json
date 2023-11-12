@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 33449,
+  "num_followers": 33544,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yjk2NmFjM2I0OTYzNmVkYWU0MTdiYmM4OTcyNzYyN2YzMDZlMThj",
+  "snapshot_id": "MCxlMjNkNzliYWM2ODQ3OGU3ZjdiZmRhZTBlN2YwOGQ1YTFhZTQwZjQ4",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Joker EP",
-        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
-      },
-      "artists": [
-        {
-          "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
-        }
-      ],
-      "duration_ms": 323245,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Joker EP",
+        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
+      },
+      "artists": [
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        }
+      ],
+      "duration_ms": 323245,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Joyful Music, Vol. 1 (Compiled)",
         "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -943,26 +943,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Dark Snow",
-        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
+        "name": "Those Times",
+        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
       },
       "artists": [
         {
-          "name": "The Rudeman",
-          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
-        },
-        {
-          "name": "Keegs Bantom",
-          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
-        },
-        {
-          "name": "Bones",
-          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
         }
       ],
-      "duration_ms": 367124,
-      "name": "Dark Snow - Bones Remix",
-      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
+      "duration_ms": 465288,
+      "name": "Those Times",
+      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
     }
   ],
   "unique_name": "Deep House Session",

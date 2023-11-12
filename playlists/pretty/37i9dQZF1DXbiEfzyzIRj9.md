@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,433 likes - 104 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,450 likes - 104 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 81 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
 | 82 | [Never Seen You Dance \- Massimiliano Pagliara Remix](https://open.spotify.com/track/6db9QGjrb6NlUW9qkqnw2j) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 6:21 |
 | 83 | [Groove Guide](https://open.spotify.com/track/6oX5YDpjCLooteZlDBuoeX) | [STVNS](https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi), [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Groove Guide](https://open.spotify.com/album/3fDXxHqTyRPunYqLWwnz6D) | 3:03 |
-| 84 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 84 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 85 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 |
 | 86 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
 | 87 | [Golden Leaves](https://open.spotify.com/track/4kgAtYwG7vkQIiJ6BaUvzZ) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Golden Leaves](https://open.spotify.com/album/2d0pcvKiUVCjUe9f4zSp2x) | 3:07 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 100 | [Badders](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Badders](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 |
 | 101 | [Dog Sleeper](https://open.spotify.com/track/6tH312WZnrIRWyrvLoOkC9) | [Fetus](https://open.spotify.com/artist/4fb3tegVhFiF0C8hFWMCBA) | [Mitite EP](https://open.spotify.com/album/7blEONYQDpuLNKnd3nkafD) | 4:48 |
 | 102 | [RIGHT TRACK \- voquote VIP REMIX](https://open.spotify.com/track/50geQlz3wV9qzn8KAfHk5e) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [RIGHT TRACK \(voquote VIP REMIX\)](https://open.spotify.com/album/6zeYY3Rb8bn1SEuTNR6zbT) | 4:05 |
-| 103 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
+| 103 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 104 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 |
 
-Snapshot ID: `MCxhM2JiMzc3Mjg0NDNjZTc0ZjZhNmI0ODk5NzYyNTY4NjAzZmQ4NDIw`
+Snapshot ID: `MCw1ODYyYzNlYTkwNjgzOGRjZTNjMmZiOTk2ZjQzZmZmOGI1OTZiODFi`

@@ -4184,7 +4184,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 170995,
       "name": "Closer to You (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
@@ -8841,6 +8841,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -11182,6 +11200,24 @@
       "duration_ms": 214500,
       "name": "Lagi",
       "url": "https://open.spotify.com/track/2aw9gph33z3qCtAD6pmTPx"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
     },
     {
       "album": {
@@ -16464,7 +16500,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -18172,7 +18208,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 167246,
       "name": "Shot Glass of Tears",
       "url": "https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p"
@@ -18748,7 +18784,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 168599,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/5KfJvZ0PZzRdwFRaTUDAA7"
@@ -21136,7 +21172,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
@@ -23708,7 +23744,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 235833,
       "name": "\u0643\u0644\u0627\u0645 \u0639\u064a\u0646\u064a\u0647",
       "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"

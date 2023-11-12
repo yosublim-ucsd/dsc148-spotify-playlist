@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:3zSrc5vUlUxyDdS0KrxFJO">Hulvey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,894 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,989 likes - 99 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Rescued](https://open.spotify.com/track/0JbnRJjLOuM5fCO1lK6Gc5) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Rescued](https://open.spotify.com/album/6HRJBgzN5liP0zXwpSiVx7) | 2:45 |
 | 99 | [Pray For Me](https://open.spotify.com/track/6CinFilifLHPP711UIiMfH) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Pray For Me](https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ) | 3:44 |
 
-Snapshot ID: `MCwwMWQwYzc4MzQ5ZDVkZjk4ODZjMDEwZGRjZDcwZDMxY2MzYWFiZDE5`
+Snapshot ID: `MCw1OGEzZDM5NzIxYzY2M2Q4MjUwYjg4NTc4ZmZjMWIzYmY5NjRmYjE0`

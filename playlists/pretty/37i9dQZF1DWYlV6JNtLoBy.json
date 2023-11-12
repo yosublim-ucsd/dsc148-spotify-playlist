@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3540,
+  "num_followers": 3558,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWI0OGZhMTU0NWRiOGYxODQwYzkxZWY2OGViNWIyYzA2YTNlN2Qx",
+  "snapshot_id": "MCwyNDQ4NDU5M2RhZjA3OGVmNWMxMjBkMTEwOTUxMGY0ZTcxMTc2NmEy",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Narudisha",
+        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
+      },
+      "artists": [
+        {
+          "name": "Gloria Muliro",
+          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
+        }
+      ],
+      "duration_ms": 269688,
+      "name": "Narudisha",
+      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 152622,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Narudisha",
-        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
-      },
-      "artists": [
-        {
-          "name": "Gloria Muliro",
-          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
-        }
-      ],
-      "duration_ms": 269688,
-      "name": "Narudisha",
-      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Sisi Ni Wale",
+        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "Sisi Ni Wale",
+      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "Hapa Nilipo",
         "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 261355,
       "name": "Upendo Wa Yesu",
       "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
-        }
-      ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-11-03 00:01:00",

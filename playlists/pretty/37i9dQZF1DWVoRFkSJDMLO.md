@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Moonshine 🌍
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,055 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,074 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 36 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 37 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 38 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
-| 39 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/4nRmveNzuC92Hv021si5q6) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
+| 39 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 | 40 | [Saudade](https://open.spotify.com/track/1llG3YwQkKqr2b7GXsA3gh) | [MELO\-T](https://open.spotify.com/artist/01FyVQ33X6fGz8W7ttHaDL), [Monkey Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Saudade](https://open.spotify.com/album/7y9VaAWDn9IvsnG4N7LEQU) | 3:14 |
 | 41 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 |
 | 42 | [So Cold \- Edit](https://open.spotify.com/track/7jPTIz7jJwqpYlNp3YYmbV) | [Neto Yuth](https://open.spotify.com/artist/25Uj5cijZH1GujWEa9dbUd), [Turbulence](https://open.spotify.com/artist/071vBgcrWSy5w3RmhMZpOb), [Wayne J](https://open.spotify.com/artist/7apNIuNMajUbUcgFYyiTjG) | [So Cold \(Edit\)](https://open.spotify.com/album/2hKoQWJC97lsUEjkNqbAK1) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Party Girls \(feat\. Buju Banton\) \- Michaël Brun Dancehall Remix](https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Party Girls \(feat\. Buju Banton\) \[Michaël Brun Dancehall Remix\]](https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU) | 3:19 |
 | 100 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
 
-Snapshot ID: `MCwyZGYxNWFlNTRjYjg3NWQ1NTM4Mjc4YWU1MTNhNGE5NmY2Mjk1ZDlm`
+Snapshot ID: `MCxhMjM1YjhjZjhlMGQzNTIwN2ViMjU1ZTIwMTVhNWFmZDQ3NTgzN2Q4`

@@ -376,10 +376,36 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 329560,
       "name": "Jesus Children",
       "url": "https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK"
+    },
+    {
+      "album": {
+        "name": "Black Radio 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Malcolm Jamal Warner",
+          "url": "https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329560,
+      "name": "Jesus Children",
+      "url": "https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY"
     },
     {
       "album": {

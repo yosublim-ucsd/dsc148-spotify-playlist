@@ -4,7 +4,7 @@
 
 > Canciones chill para ayudarte a bajar.
 
-79 songs - 4 hr 22 min
+80 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2023-10-17 |  |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-10-17 |  |
 | [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 | 2023-10-17 |  |
-| [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 | 2023-10-17 |  |
+| [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 | 2023-10-17 | 2023-11-12 |
 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 | 2023-10-17 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2023-10-17 |  |
+| [Carta para no llorar](https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta para no llorar](https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw) | 2:58 | 2023-11-10 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-10-17 |  |
 | [Como vos \- En vivo](https://open.spotify.com/track/2On90QefesETPtJw7LePV2) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Vitali Sessions](https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y) | [Vitali Sessions \#3 \(En vivo\)](https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1) | 3:18 | 2023-10-17 |  |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2023-10-17 |  |

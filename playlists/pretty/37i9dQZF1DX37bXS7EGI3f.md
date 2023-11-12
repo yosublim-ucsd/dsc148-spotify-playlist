@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,044 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,157 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 25 | [A Desert Throne](https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:18 |
 | 26 | [Pure Life Unfolds](https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy) | 5:05 |
 | 27 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
-| 28 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody of Fire](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
+| 28 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
 | 29 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
 | 30 | [New Evil](https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Daughters Of The Night](https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J) | 4:25 |
 | 31 | [Opus of the Night \(Ghost Requiem\) \(feat\. Tina Guo\)](https://open.spotify.com/track/08yNiukGEc21at2TakEvQT) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 5:47 |
 | 32 | [Reborn](https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 5:12 |
-| 33 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
-| 34 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
+| 33 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
+| 34 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
 | 35 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 36 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 37 | [Beneath \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Dark Waters](https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs) | 4:59 |
 | 38 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
-| 39 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 |
-| 40 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
-| 41 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
+| 39 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
+| 40 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
+| 41 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 |
 | 42 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
 | 43 | [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 |
 | 44 | [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 69 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
 | 70 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
 | 71 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 |
-| 72 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 |
-| 73 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
+| 72 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
+| 73 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 |
 | 74 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
 | 75 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 |
 | 76 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 | 80 | [Drink with the Gods](https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Drink with the Gods](https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW) | 4:10 |
 
-Snapshot ID: `MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz`
+Snapshot ID: `MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3`

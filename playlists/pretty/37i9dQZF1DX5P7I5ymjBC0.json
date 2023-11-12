@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 66337,
+  "num_followers": 66357,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODg2ZjNiMGMyNmRhNTM3ZDBlOWY5N2EyMDljMWVmOWUwZTI5MGJl",
+  "snapshot_id": "MCw2OWIxYTRhMGJkNjBhNzk4MzIyNGI1OTVkOGZmYjA2NGZiOWM4YTYz",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
+        "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Shafqat Ali Khan",
+          "url": "https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU"
+        }
+      ],
+      "duration_ms": 440999,
+      "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
+      "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Jogiya",
         "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 196901,
       "name": "Jogiya",
       "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
-        "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
-      },
-      "artists": [
-        {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
-        },
-        {
-          "name": "Shafqat Ali Khan",
-          "url": "https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU"
-        }
-      ],
-      "duration_ms": 440999,
-      "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
-      "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Palkan",
         "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
       },
       "artists": [
         {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
         }
       ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+      "duration_ms": 261010,
+      "name": "Kinaray",
+      "url": "https://open.spotify.com/track/0SoxxwwefLwKnzK8byFyje"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -927,22 +943,6 @@
       "duration_ms": 348000,
       "name": "Padharo Mhare Des - Folk Fusion",
       "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Coke Studio: Season 8",
-        "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
-      },
-      "artists": [
-        {
-          "name": "Mekaal Hasan Band",
-          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
-        }
-      ],
-      "duration_ms": 261010,
-      "name": "Kinaray",
-      "url": "https://open.spotify.com/track/0SoxxwwefLwKnzK8byFyje"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Kaa Karoon Sajni (Thumri Jazz)",
-        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
-      },
-      "artists": [
-        {
-          "name": "Kshitij Tarey",
-          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
-        },
-        {
-          "name": "Ruslan Sirota",
-          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
-        }
-      ],
-      "duration_ms": 223409,
-      "name": "Kaa Karoon Sajni - Thumri Jazz",
-      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Purvayi",
         "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Kaa Karoon Sajni (Thumri Jazz)",
+        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        }
+      ],
+      "duration_ms": 223409,
+      "name": "Kaa Karoon Sajni - Thumri Jazz",
+      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
     },
     {
       "added_at": "2023-10-18 08:13:47",

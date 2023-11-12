@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,642 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,706 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 69 | [TRiPPPY](https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiPPPY](https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ) | 5:30 |
 | 70 | [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 |
 
-Snapshot ID: `MCwwOGQ0MDBmNmRiNzUwODM5ZDc4NWI4YWU4MWYxNDAzZTg0OWM5Yzc3`
+Snapshot ID: `MCxmMjE0MTE3OGU1Mzk0YTBkZGIzNzliZDJkNGZmZmU5NWUwYzFmYmI2`

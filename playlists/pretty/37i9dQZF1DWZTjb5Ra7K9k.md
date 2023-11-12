@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,620 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,626 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 58 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
 | 59 | [I Want to Know](https://open.spotify.com/track/3PLN4aXK0A8B76p0OYUDFd) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:55 |
 | 60 | [Beautiful Day](https://open.spotify.com/track/7MpEUigVg8fKHyyEKM1WNT) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Move By Yourself](https://open.spotify.com/album/5dZKE378q8mx9ZpE8pg0CG) | 3:26 |
-| 61 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
+| 61 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 |
 | 62 | [The Three Of Us](https://open.spotify.com/track/1VD8kfTLRwQErMZkLtHjcP) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 2:35 |
-| 63 | [Bad News](https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Poetry In Motion](https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK) | 3:49 |
-| 64 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 |
-| 65 | [California](https://open.spotify.com/track/4h2qaSvNfb9d4SoEaMu7Rf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:10 |
+| 63 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
+| 64 | [California](https://open.spotify.com/track/4h2qaSvNfb9d4SoEaMu7Rf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:10 |
+| 65 | [Bad News](https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Poetry In Motion](https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK) | 3:49 |
 | 66 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 |
 | 67 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 68 | [Life, Love & Laughter](https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Pass It Around](https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 | 75 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
 
-Snapshot ID: `MCw2MDRkNzk0NGMxZmRjMjgzNWJmNjg5OGNhNTcxMWI0N2I0ZjlkMTZm`
+Snapshot ID: `MCwyNTE2OTRkMmM5NDVhZTMwOGUyMjNkOGViMTRhYzM5ODdiMWJhZGJk`

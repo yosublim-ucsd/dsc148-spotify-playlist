@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,662 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,700 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 36 | [Quintessence](https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:44 |
 | 37 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
 | 38 | [The Tearjerker Returns](https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX) | 3:32 |
-| 39 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 |
-| 40 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 |
-| 41 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |
-| 42 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
+| 39 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 |
+| 40 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 |
+| 41 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
+| 42 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |
 | 43 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
 | 44 | [Interlude No\. 3](https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Mourning of a Star](https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP) | 1:17 |
 | 45 | [It Never Entered My Mind](https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 6:32 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 49 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
 | 50 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 |
 | 51 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 |
-| 52 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 |
-| 53 | [I'm A Fool To Want You \- 2006 Digital Remaster](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |
-| 54 | [My Wish](https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:32 |
-| 55 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 |
+| 52 | [I'm A Fool To Want You \- 2006 Digital Remaster](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |
+| 53 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 |
+| 54 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 |
+| 55 | [My Wish](https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:32 |
 | 56 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 | 57 | [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 |
 | 58 | [Rhapsody in Blue](https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Rhapsody in Blue](https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 |
 | 75 | [Last Ride Home](https://open.spotify.com/track/22QZgO76vLjdpZY161iF72) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [The Gotland Session](https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA) | 3:13 |
 
-Snapshot ID: `MCw5YjlmOTk0YTk1NDU1YmVmOTIzOGExZDUyZjVlMTk2Mjc4NTRmOGM3`
+Snapshot ID: `MCxmNDM4ODI5OWYxNzgwNTQ2YWNlNWE1MGFiZGM3YWUyYzcyNmYwOGZh`

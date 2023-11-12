@@ -4,7 +4,7 @@
 
 > Shout ¡Viva México! with these classics.
 
-127 songs - 7 hr 1 min
+129 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2021-12-08 | 2022-09-13 |
 | [Bésame Mucho](https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 2:36 | 2021-12-08 | 2023-04-15 |
 | [Cachito](https://open.spotify.com/track/68XbEHDqjefcO6fVfNssfb) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:50 | 2021-12-08 | 2023-01-11 |
-| [Cancion del Mariachi](https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU) | [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 2:07 | 2021-12-08 |  |
+| [Cancion del Mariachi](https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU) | [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 2:07 | 2021-12-08 | 2023-11-12 |
+| [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 | 2023-06-09 |  |
 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 | 2021-12-08 |  |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-03-04 |  |
 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 | 2021-12-08 |  |
@@ -63,7 +64,8 @@
 | [La Célula Que Explota](https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 3:35 | 2021-12-08 |  |
 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 | 2021-12-08 |  |
 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 | 2021-12-08 |  |
-| [La Pistola y el Corazon](https://open.spotify.com/track/0113SDiIkRuKckSPmHuTvx) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 3:29 | 2021-12-08 |  |
+| [La Pistola y el Corazon](https://open.spotify.com/track/0113SDiIkRuKckSPmHuTvx) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 3:29 | 2021-12-08 | 2023-11-12 |
+| [La Pistola Y El Corazón](https://open.spotify.com/track/0y7nguDRPWfKZGIZPRCE5q) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Pistola Y El Corazon](https://open.spotify.com/album/30kfddnchGyZepcTfJuAyV) | 3:27 | 2023-06-09 |  |
 | [La Raspa](https://open.spotify.com/track/28Jl8MxjxLZMvwkT84zTrl) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [20 Éxitos](https://open.spotify.com/album/4MF8urxgLWiJXDctu2ZNJJ) | 2:17 | 2021-12-08 | 2022-07-29 |
 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 | 2021-12-08 | 2022-09-13 |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 |  |

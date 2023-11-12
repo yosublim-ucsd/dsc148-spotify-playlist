@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 53900,
+  "num_followers": 53982,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmVhYzVlZDRhYmVmMjZlNmI4MTNjMDA1Y2JiNzNjYjlhMTJhZTVk",
+  "snapshot_id": "MCxjMTQ1OTMyZmY0MjNjMGFiYmNkNjY5N2UzNDRjMjg2YjM0MTQ1ZDY1",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Ex Convict",
-        "url": "https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 202605,
-      "name": "Ex Convict",
-      "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -1167,8 +1135,40 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
       "artists": [
         {
@@ -1176,25 +1176,29 @@
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
     },
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1223,6 +1227,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -1239,28 +1259,8 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Walking Dead",
-        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 150863,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Forever (Remix)",
         "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 201600,
       "name": "Forever (Remix)",
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Walking Dead",
+        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 150863,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1399,54 +1399,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Backside",
-        "url": "https://open.spotify.com/album/5fEsoOUMPpfLxmJTNZTYGo"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 143439,
-      "name": "Backside",
-      "url": "https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -1467,6 +1419,54 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Backside",
+        "url": "https://open.spotify.com/album/5fEsoOUMPpfLxmJTNZTYGo"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 143439,
+      "name": "Backside",
+      "url": "https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 158399,
-      "name": "Oshe (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

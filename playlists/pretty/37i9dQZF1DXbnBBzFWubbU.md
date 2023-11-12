@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,666 likes - 85 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,712 likes - 85 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 84 | [Dua](https://open.spotify.com/track/4u92oAH7FQXEeoXTOFZjRr) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dua](https://open.spotify.com/album/72JN1BC0jTu6H8Dnrw8txu) | 3:46 |
 | 85 | [channo](https://open.spotify.com/track/2sPwFSESO5uF4h013k1RTo) | [Maraasim](https://open.spotify.com/artist/7stUMpaIH3pVscxYmlcvqv) | [channo](https://open.spotify.com/album/6INyQJqdMPQ8DJXpnx4QMm) | 1:36 |
 
-Snapshot ID: `MCxkZjQ2M2YyM2UyYTY0NjlmY2I0ZDBmMGNjZDZhZjE4OTYxZDUxZWIy`
+Snapshot ID: `MCw5ZjYzMDg0YzlkMWQ0ZDQ5NDJiYWVlYzgxZWNiOTcwNzM0ZDBjMDQ4`

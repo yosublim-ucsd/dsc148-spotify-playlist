@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,721 likes - 80 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,847 likes - 80 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 39 | [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
 | 40 | [Go](https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 3:37 |
 | 41 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
-| 42 | [Past](https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ) | [Sub Sub](https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm) | [Full Fathom Five](https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL) | 2:55 |
-| 43 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
+| 42 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
+| 43 | [Past](https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ) | [Sub Sub](https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm) | [Full Fathom Five](https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL) | 2:55 |
 | 44 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 |
 | 45 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
 | 46 | [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 52 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/4u88MrYJ8ZCnmUdjITNGKz) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7) | [The Age Of Love \(Radio Edit\)](https://open.spotify.com/album/5h1Jeu9UoNEITNYcWd4BTF) | 6:48 |
 | 53 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 |
 | 54 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 55 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
-| 56 | [Deep Inside](https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/58gDcsComtrCGQGzSuD031) | 6:32 |
+| 55 | [Deep Inside](https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/58gDcsComtrCGQGzSuD031) | 6:32 |
+| 56 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 57 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 |
 | 58 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 |
 | 59 | [Strings of Life](https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 6:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [A Dream's A Dream](https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Volume II \- 1990 A New Decade](https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF) | 5:38 |
 | 80 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 
-Snapshot ID: `MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz`
+Snapshot ID: `MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5`

@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 217513,
+  "num_followers": 217696,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRkYWFjYWViMDVkMTdmOWUzZjNiN2JiNjM2NTdmMmY4OGQ2MDhm",
+  "snapshot_id": "MCwxN2EyNTBiZDMwNzI2OWVjNGY5ZGRjYTMyN2RjMjM2YjEwMGU5OTc0",
   "tracks": [
     {
       "added_at": "2023-06-19 22:57:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Candela Verde",
-        "url": "https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm"
-      },
-      "artists": [
-        {
-          "name": "Ranchero Band",
-          "url": "https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Candela Verde",
-      "url": "https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "15 \u00c9xitos Bailables",
         "url": "https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 163693,
       "name": "El Pato Asado",
       "url": "https://open.spotify.com/track/2TlEfB9ObkiXWLxwUIybnk"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Candela Verde",
+        "url": "https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm"
+      },
+      "artists": [
+        {
+          "name": "Ranchero Band",
+          "url": "https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Candela Verde",
+      "url": "https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM"
     },
     {
       "added_at": "2023-06-19 22:57:24",

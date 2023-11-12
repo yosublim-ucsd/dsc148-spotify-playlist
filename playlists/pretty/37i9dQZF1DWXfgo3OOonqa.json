@@ -1,12 +1,12 @@
 {
   "description": "HIPHOP 50!",
-  "num_followers": 320795,
+  "num_followers": 320843,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzJiODQxNmVjNGZkOTRkMjZjOGEwMTlmN2Y3NGQyMDcyNzZiNGVl",
+  "snapshot_id": "MCw3ZDY3NjljYjg5NjE5ZTZkZWNhYjlkMTQ0OTQyMTZlMzIxZTRmMTM1",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1190,6 +1190,10 @@
         {
           "name": "Yocee",
           "url": "https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6"
+        },
+        {
+          "name": "TUSEN",
+          "url": "https://open.spotify.com/artist/5Xa0kycdTNgDwB6IbMry3R"
         }
       ],
       "duration_ms": 121000,

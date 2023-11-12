@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-123 songs - 8 hr 18 min
+124 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Downtown](https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 3:05 | 2022-01-24 | 2023-11-05 |
 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 | 2022-01-24 | 2022-11-13 |
 | [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 | 2022-01-24 | 2023-04-04 |
+| [Downtown](https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8) | 3:07 | 2023-08-14 |  |
 | [Downtown \- 64 Original Release With Petula Clark](https://open.spotify.com/track/5ixPfNV1Sx1HCuxdmBnbmE) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Downtown](https://open.spotify.com/album/0R9IY9LOH0uP2ibtPjfut5) | 3:05 | 2020-05-13 | 2022-07-29 |
 | [Downtown Train](https://open.spotify.com/track/3fPqUl4lPDUQmY0T7dKUv2) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:50 | 2020-05-13 | 2023-07-16 |
 | [Downtown Train \- 2023 Remaster](https://open.spotify.com/track/1kQToxrczVpLtYdssdOsrr) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs \(2023 Remaster\)](https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx) | 3:52 | 2022-01-24 |  |
@@ -124,7 +125,7 @@
 | [Theme From New York, New York \- 2008 Remastered](https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:24 | 2022-01-24 |  |
 | [Theme From New York, New York \- Remastered \) \[The Frank Sinatra Collection\]](https://open.spotify.com/track/4bBgZTIRQ2PHonaRwnn3jf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \[The Frank Sinatra Collection\]](https://open.spotify.com/album/48ijda2pd3B1CcrqN9sgdV) | 3:24 | 2020-05-13 | 2022-07-29 |
 | [Tompkins Square Park](https://open.spotify.com/track/5DmWOVaWBbIWKQnk6bMdwu) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 5:11 | 2020-05-13 | 2022-10-14 |
-| [Tompkins Square Park](https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 5:11 | 2022-01-24 |  |
+| [Tompkins Square Park](https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 5:11 | 2022-01-24 | 2023-11-12 |
 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2023-08-14 | 2023-09-30 |
 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 | 2022-01-24 |  |
 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 | 2020-05-13 | 2022-07-28 |

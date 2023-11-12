@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。11月9日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,185 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,236 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Yozora](https://open.spotify.com/track/33R9K1FOX38TIA3hSgWF4l) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/2nCX6mYqdaV3CydVYn407Y) | 2:56 |
 | 50 | [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 |
 
-Snapshot ID: `MCw1YjQwYjc4NzM4YjJkNDdmNzUzNTgxYzlhNzRlZWU1MWY1NGU2ODA4`
+Snapshot ID: `MCw0ZDk4MzM0M2RhMjlmNjk2OGQ5YzJmOWFlOWM3OTc5MjBlOGZiZDhm`

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1532188,
+  "num_followers": 1532369,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGE4NDlmYTY3YzBhZjQ2ZjI3ZTU1MGEwYTY1NTY3ZTA0ODU4YTBk",
+  "snapshot_id": "MCw1YjA4MDk0MTgyMTU5NjJlOWRiMjc2OTY1YmQ3MDcwY2MxNjBmYjNl",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 232245,
-      "name": "Silenced",
-      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Fire With Fire",
         "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 188799,
       "name": "Fire With Fire",
       "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Ready For More",
         "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 156795,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
+      "duration_ms": 156795,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Desire (with Sam Smith) [Cedric Gervais Remixes]",
-        "url": "https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 259351,
-      "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
-      "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Desire (with Sam Smith) [Cedric Gervais Remixes]",
+        "url": "https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 259351,
+      "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
+      "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1643,42 +1643,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Further Away",
-        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1703,6 +1667,42 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Further Away",
+        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1719,6 +1719,26 @@
       "duration_ms": 161904,
       "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "Just The Kinda Feeling",
+      "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1767,26 +1787,6 @@
       "duration_ms": 189102,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "Just The Kinda Feeling",
-      "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
     },
     {
       "added_at": "2023-11-10 05:00:00",

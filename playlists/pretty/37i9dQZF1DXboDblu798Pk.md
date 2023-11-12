@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Peach PRC
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,498 likes - 78 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,520 likes - 78 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 77 | [Upgraded](https://open.spotify.com/track/2dS7bENqIUpJzF5d2TpEbl) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:33 |
 | 78 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 
-Snapshot ID: `MCxkZGY1MjAwMWQ4NDQ3MjE3ODMwNzI1MWU3ZjQ1NjIzMjNhNDBlNDJj`
+Snapshot ID: `MCw3ZWMyZGE2ZWZmNTk1YjMyNzM0ZGE2YjM1NTYyYmJmMzZmNDAzMGY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,927 likes - 60 songs - 3 hr 14 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,926 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-115 songs - 6 hr 25 min
+116 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,12 @@
 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 | 2021-10-08 | 2023-11-11 |
 | [Bate](https://open.spotify.com/track/5XqlAVM4qxMBhLg3Kz3SBd) | [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Space Fear](https://open.spotify.com/artist/6IXNeDq3vqabaZwqpnYIql) | [Bate](https://open.spotify.com/album/1G1Belfj7e8SYLbF9YSWHu) | 5:15 | 2023-11-10 |  |
 | [Benjamín Carrión](https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Alterego](https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2) | 2:57 | 2023-11-10 |  |
+| [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 | 2023-11-10 |  |
 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 | 2021-10-08 | 2023-11-11 |
 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 | 2023-11-10 |  |
 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 | 2021-10-08 | 2023-11-11 |
 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 | 2021-10-08 | 2022-11-13 |
-| [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 | 2023-11-10 |  |
+| [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 | 2023-11-10 | 2023-11-12 |
 | [Chakachaka](https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Chakachaka](https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv) | 2:40 | 2023-11-10 |  |
 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 | 2023-11-10 |  |
 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 | 2021-10-29 | 2023-03-26 |

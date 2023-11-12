@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 116788,
+  "num_followers": 116845,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWRlODUyYWI1NzYyNTBjMzQxYjE5YmEyZDAyZTVjYjFhM2IyZTZm",
+  "snapshot_id": "MCw2YzI4OTAyYmM0YjQ0YjM3OWViNmUyNzk5NjM0ZTFiYWQ1NzE0NzJj",
   "tracks": [
     {
       "added_at": "2023-11-03 04:45:01",
@@ -143,6 +143,26 @@
     {
       "added_at": "2023-11-03 04:45:01",
       "album": {
+        "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
+        "url": "https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
+      "url": "https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4"
+    },
+    {
+      "added_at": "2023-11-03 04:45:01",
+      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
-    },
-    {
-      "added_at": "2023-11-03 04:45:01",
-      "album": {
-        "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
-        "url": "https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
-      "url": "https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4"
     },
     {
       "added_at": "2023-11-03 04:45:01",
@@ -259,26 +259,18 @@
     {
       "added_at": "2023-11-03 04:45:01",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2023-11-03 04:45:01",
@@ -299,22 +291,6 @@
       "duration_ms": 243750,
       "name": "S\u00f3 o Come\u00e7o - Remix",
       "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
-    },
-    {
-      "added_at": "2023-11-03 04:45:01",
-      "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2023-11-03 04:45:01",
@@ -359,6 +335,30 @@
       "duration_ms": 159640,
       "name": "Controle (Remix)",
       "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+    },
+    {
+      "added_at": "2023-11-03 04:45:01",
+      "album": {
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
     },
     {
       "added_at": "2023-11-03 04:45:01",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-11-03 04:45:01",
       "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2023-11-03 04:45:01",
+      "album": {
         "name": "Balada do Senhor (Remixes)",
         "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 178663,
       "name": "Balada do Senhor (Slap House Gospel)",
       "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
-    },
-    {
-      "added_at": "2023-11-03 04:45:01",
-      "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2023-11-03 04:45:01",
@@ -1319,26 +1319,18 @@
     {
       "added_at": "2023-11-03 04:45:01",
       "album": {
-        "name": "Se Tu Creres (Remix)",
-        "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
       "artists": [
         {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Xote Santo",
-          "url": "https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Se Tu Creres - Remix",
-      "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2023-11-03 04:45:01",
@@ -1371,18 +1363,26 @@
     {
       "added_at": "2023-11-03 04:45:01",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+        "name": "Se Tu Creres (Remix)",
+        "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Xote Santo",
+          "url": "https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE"
         }
       ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+      "duration_ms": 171428,
+      "name": "Se Tu Creres - Remix",
+      "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
     },
     {
       "added_at": "2023-11-03 04:45:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,509 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,546 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 8 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 |
 | 9 | [Innocence](https://open.spotify.com/track/31BPnapcrlqpPxMx2GRabp) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 5:08 |
 | 10 | [Cockney Thug](https://open.spotify.com/track/5hHSZZuCCuBlY5eZoNubHq) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Babylon, Vol\. 1](https://open.spotify.com/album/2CNQ67P0mbL0ZECsESspO3) | 4:06 |
-| 11 | [Ginger Pubes](https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK) | 5:09 |
+| 11 | [Ginger Pubes](https://open.spotify.com/track/0xp0U9YtEv0u58gr3JZdgE) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/54RmCOwOUlWLkZQbbG1zcq) | 5:09 |
 | 12 | [Starry Eyed \- Jakwob Remix](https://open.spotify.com/track/4ZIm2UpFU9vP3LURrjOMwL) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71) | [Starry Eyed \(Remixes\)](https://open.spotify.com/album/1ytQtvRshj5i8NFNH8Tse9) | 4:35 |
 | 13 | [Where's My Money \- Caspa Remix](https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Where's My Money \(Caspa Remix\) / Tron](https://open.spotify.com/album/0og95zcha0fmiJCMgTfjAV) | 4:58 |
 | 14 | [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MCxlMGIxMzZkYjBhOTU0NDIzMTM0YjJhYWE1OTA0ZjI3NjUxNjAwNTY1`
+Snapshot ID: `MCw0YmQwZDFhN2Q3ZmFlNzgxYzcwNTgzZjk1MDQ5MTA5ODY3YjQwYTBl`

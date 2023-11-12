@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,136 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,301 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 30 | [Volevi Una Hit \- Extended Version](https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V) | [Cristalli Liquidi](https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D) | [Volevi Una Hit](https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg) | 5:28 |
 | 31 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 |
 | 32 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 |
-| 33 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 |
-| 34 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
+| 33 | [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 |
+| 34 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 |
 | 35 | [Testa](https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Testa / Caracalla Dub](https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp) | 3:20 |
-| 36 | [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 |
+| 36 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 37 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
 | 38 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
-| 39 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
+| 39 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
-| 41 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonight / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
-| 42 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
+| 41 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
+| 42 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonight / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
 | 43 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
 | 44 | [Pantalón](https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Radio Koko](https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT) | 4:21 |
 | 45 | [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1b0TK4bq3WCqrw9WLTArF5) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6ZqQ9hv1XAhLr8iQBeoWTD) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 |
 | 75 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 
-Snapshot ID: `MCw1NzY1ZDM5OTMyZmY4YjUyMWZmNTYxZjY0YzY0MzlhNjhjNDliMjkx`
+Snapshot ID: `MCw0OWVlMjU3MTIyOTdlZjA5ZmE2MjZlMWFhNTVjNDMxOTk3ZmY4YzVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Bellakath
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,529 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,509 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 30 | [Stand Up \(From Harriet\)](https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Stand Up \(From Harriet\)](https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C) | 5:03 |
 | 31 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
 | 32 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 |
-| 33 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
-| 34 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
+| 33 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
+| 34 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
 | 35 | [Syntymäpäivä! \(Vielä KRRAN jee\)](https://open.spotify.com/track/558Lsb6twiXsgxhaHxyEoh) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:06 |
 | 36 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 |
 | 37 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 46 | [Internet Love](https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Internet Love](https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB) | 3:39 |
 | 47 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
-| 48 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
-| 49 | [Me Sabe Mal](https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Me Sabe Mal](https://open.spotify.com/album/11BHSuw2pCt1zj8U9oTFHy) | 3:16 |
+| 48 | [Me Sabe Mal](https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Me Sabe Mal](https://open.spotify.com/album/11BHSuw2pCt1zj8U9oTFHy) | 3:16 |
+| 49 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
 | 50 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 |
 | 51 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
 | 52 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
 | 53 | [Beni Yanlış Bırak](https://open.spotify.com/track/6wyeHLKjp7guulm1nqBs8X) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Beni Yanlış Bırak](https://open.spotify.com/album/2cmLNe0FXyf0NVaOrGfhwL) | 4:44 |
-| 54 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3yKzLSeR9NTwCTg9HvQkcJ) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4gdijoRorJWWUUYlWcb5oJ) | 5:02 |
-| 55 | [Cure For Me \(feat\. Silvana Estrada\) \- Live](https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cure For Me \(feat\. Silvana Estrada\) \[Live\]](https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI) | 3:51 |
+| 54 | [Cure For Me \(feat\. Silvana Estrada\) \- Live](https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cure For Me \(feat\. Silvana Estrada\) \[Live\]](https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI) | 3:51 |
+| 55 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3yKzLSeR9NTwCTg9HvQkcJ) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4gdijoRorJWWUUYlWcb5oJ) | 5:02 |
 | 56 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
 | 57 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 |
 | 58 | [Gelatai](https://open.spotify.com/track/3Wx807nizmqn4rU0esPC33) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Gelatai](https://open.spotify.com/album/7ro4CirH2GXfXnAZVHZ6f1) | 2:56 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 67 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 68 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 69 | [Miami \- From Miami Bici 2 The Movie](https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Miami \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT) | 2:20 |
-| 70 | [Nieba nie ma](https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Nieba nie ma](https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn) | 2:58 |
-| 71 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 |
-| 72 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
+| 70 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 |
+| 71 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
+| 72 | [Nieba nie ma](https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Nieba nie ma](https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn) | 2:58 |
 | 73 | [This Is My Time](https://open.spotify.com/track/3bPYk86DnyeFLRJ1GRzKWB) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [This Is My Time](https://open.spotify.com/album/4L3OuInIKurYcCeU8l2VIV) | 3:02 |
 | 74 | [berlin U5](https://open.spotify.com/track/6S3oslrDkG9vyTDrtyjokA) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 3:39 |
-| 75 | [Günaydın](https://open.spotify.com/track/1arbDclvD2t0JeXiFS7270) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [Günaydın](https://open.spotify.com/album/4Vfz915grZkHvHW7V9rdBR) | 2:03 |
+| 75 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 |
 
-Snapshot ID: `MCw3ZWYwMzlmM2NhZmQ2NzkxODc4YmE3MTQ5MDBmODhiYmI4ZmJiZTUx`
+Snapshot ID: `MCxhNWJmZjQ4YzYwOGY5NDYzOWU2MzAxODM4ZTliYjU5OTVlOTk5ZTYy`

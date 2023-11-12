@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,995 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,002 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 53 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 |
 | 54 | [２〇４５](https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [２〇４５](https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU) | 3:41 |
 | 55 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 |
-| 56 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 |
-| 57 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
-| 58 | [わたしの宇宙](https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [わたしの宇宙](https://open.spotify.com/album/31466iOJPJaJ0ufRHpPkce) | 4:59 |
-| 59 | [aaa](https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:31 |
+| 56 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
+| 57 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 |
+| 58 | [aaa](https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:31 |
+| 59 | [わたしの宇宙](https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [わたしの宇宙](https://open.spotify.com/album/31466iOJPJaJ0ufRHpPkce) | 4:59 |
 | 60 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
 | 61 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 | 62 | [夏が来るたび](https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 3:59 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 66 | [no future](https://open.spotify.com/track/49GZ0C0nN3kixGDD4zUS7s) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [no future](https://open.spotify.com/album/2SxIh4v9x8fGvezGfGLWGH) | 3:21 |
 | 67 | [ルージュの伝言](https://open.spotify.com/track/5WAbPoq187MvAYExnuxPTM) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:18 |
 | 68 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 |
-| 69 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
-| 70 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
+| 69 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
+| 70 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 
-Snapshot ID: `MCw0ZTUwNDExZDdhOGE2M2RiMDU0OTBhM2VhMjYwMDVjMTVmOTU5OTll`
+Snapshot ID: `MCxlN2RkZmNiZDlkYzUyNDhhM2MwNTA2M2ZhZTRhYTdkYWFlODM4MWJl`

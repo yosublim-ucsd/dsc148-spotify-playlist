@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Offset",
-  "num_followers": 208108,
+  "num_followers": 208146,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTY2OGVmOWNkNTdkNjkwNWNjNThmODIzYjZlZjJlNmNkMjk0MDM1",
+  "snapshot_id": "MCw2YmIyMWI5M2Y2NzdmM2Y1MTMxYzYyMTllNTE2MDYxNzI0NWViY2Ey",
   "tracks": [
     {
       "added_at": "2023-11-10 17:41:56",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2023-11-10 17:41:56",
+      "album": {
         "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",
         "url": "https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 242983,
       "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",
       "url": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO"
-    },
-    {
-      "added_at": "2023-11-10 17:41:56",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1287,18 +1287,26 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "Rien 100 Rien",
-        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+        "name": "AT THE PARTY",
+        "url": "https://open.spotify.com/album/0kXRXezhirr0900HvfPYHV"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 160893,
-      "name": "La bandite",
-      "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+      "duration_ms": 238026,
+      "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
+      "url": "https://open.spotify.com/track/11BbPUv7NlzlcbY7AmHHKy"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1315,6 +1323,22 @@
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
+    },
+    {
+      "added_at": "2023-11-10 17:41:56",
+      "album": {
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "La bandite",
+      "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1391,30 +1415,6 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2023-11-10 17:41:56",
-      "album": {
-        "name": "AT THE PARTY",
-        "url": "https://open.spotify.com/album/0kXRXezhirr0900HvfPYHV"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 238026,
-      "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
-      "url": "https://open.spotify.com/track/11BbPUv7NlzlcbY7AmHHKy"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "Hope You Know",
-        "url": "https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2"
+        "name": "Pelele",
+        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 227184,
-      "name": "Hope You Know",
-      "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
+      "duration_ms": 216827,
+      "name": "Pelele",
+      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "Pelele",
-        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Pelele",
-      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
-    },
-    {
-      "added_at": "2023-11-10 17:41:56",
-      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+    },
+    {
+      "added_at": "2023-11-10 17:41:56",
+      "album": {
+        "name": "Hope You Know",
+        "url": "https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 227184,
+      "name": "Hope You Know",
+      "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "Dead or Alive",
-        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
-    },
-    {
-      "added_at": "2023-11-10 17:41:56",
-      "album": {
         "name": "ISSA PARTY (feat. BabyDrill)",
         "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 176133,
       "name": "ISSA PARTY (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "added_at": "2023-11-10 17:41:56",
+      "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-11-10 17:41:56",
-      "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 160858,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+    },
+    {
+      "added_at": "2023-11-10 17:41:56",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "ILL WHAT I BLEED",
-        "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "ILL WHAT I BLEED",
-      "url": "https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn"
-    },
-    {
-      "added_at": "2023-11-10 17:41:56",
-      "album": {
         "name": "Latest Trends",
         "url": "https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 158117,
       "name": "Latest Trends",
       "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
+    },
+    {
+      "added_at": "2023-11-10 17:41:56",
+      "album": {
+        "name": "ILL WHAT I BLEED",
+        "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "ILL WHAT I BLEED",
+      "url": "https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -2263,18 +2263,30 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "B4 BOA",
-        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+        "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Her Birthday",
-      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+      "duration_ms": 224042,
+      "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5LKIZ4UTKebSE5VFbLSQnr"
     },
     {
       "added_at": "2023-11-10 17:41:56",
@@ -2295,22 +2307,18 @@
     {
       "added_at": "2023-11-10 17:41:56",
       "album": {
-        "name": "Moonwalking in Calabasas (feat. Blueface) [Remix]",
-        "url": "https://open.spotify.com/album/1z02WpEdAuImwfySk43owY"
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 170232,
-      "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
-      "url": "https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz"
+      "duration_ms": 154800,
+      "name": "Her Birthday",
+      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
     }
   ],
   "unique_name": "Rap Internazionale",

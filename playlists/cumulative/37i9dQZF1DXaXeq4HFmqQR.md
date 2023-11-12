@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. Foto: Ambar Luna
 
-769 songs - 1 day 18 hr 50 min
+770 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Los Ratones](https://open.spotify.com/track/1OnYZmDpkP8cZvcZWm6WCM) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Evelyn Cornejo](https://open.spotify.com/album/0GnlmDKT9xzZGMnsshTDEt) | 2:58 | 2022-07-06 | 2022-08-04 |
 | [Los Ratones](https://open.spotify.com/track/6KMkOWxozHdJcH2zYo7R43) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Evelyn Cornejo](https://open.spotify.com/album/7mhBpBLrBxUnnPwBce8v7R) | 2:58 | 2022-07-06 | 2022-07-28 |
 | [Los Ríos I](https://open.spotify.com/track/0kbxP2tL8VAzRfuGX3K3X6) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [1000KAOS](https://open.spotify.com/album/6QWojXsM23qvEQtMlSIx1S) | 2:48 | 2022-02-02 | 2022-07-19 |
-| [Love Yourself](https://open.spotify.com/track/5o0YZOyNI1SPdZ43YURZJ3) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:31 | 2023-07-05 |  |
+| [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 | 2023-11-08 |  |
+| [Love Yourself](https://open.spotify.com/track/5o0YZOyNI1SPdZ43YURZJ3) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:31 | 2023-07-05 | 2023-11-12 |
 | [Luces](https://open.spotify.com/track/4jfsxJSwR3h9kPTPOlGV54) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 3:38 | 2023-04-05 | 2023-06-06 |
 | [Lucha](https://open.spotify.com/track/7aebFEUEPcQWTrvrXX1pP5) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Cupido](https://open.spotify.com/album/0TEdJd353hOnypz4ewVMQt) | 3:26 | 2022-02-02 |  |
 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 | 2022-01-05 | 2022-02-03 |

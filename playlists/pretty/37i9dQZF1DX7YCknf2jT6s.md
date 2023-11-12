@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: J\-Rod Sullivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,716 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,793 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Look To The Hills](https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Kings Highway](https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac) | 4:20 |
 | 100 | [Cosmic Changes](https://open.spotify.com/track/6dD48wXYlHT5sX11wHr4eO) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Instrumentals JID019](https://open.spotify.com/album/3naPexauBSI1rjOU0jsmEq) | 3:47 |
 
-Snapshot ID: `MCxiNzQxYzhjYjIxMDU4OWU2N2ZhYzE4OWM3NTAxZDZjMTI1YzY5NTcw`
+Snapshot ID: `MCxkOWIxOWI1ZWU0YmRlYWQ2NTY4YTc0YTk2MmRmYTU5Mzc5ZGFmN2Rl`

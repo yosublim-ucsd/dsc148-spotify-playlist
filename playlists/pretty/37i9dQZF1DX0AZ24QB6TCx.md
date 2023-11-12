@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,047 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,102 likes - 70 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 35 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 |
 | 36 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 37 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
-| 38 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
-| 39 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
+| 38 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
+| 39 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 40 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
 | 41 | [3AMStillAlive Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
 | 42 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 57 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
 | 58 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
 | 59 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
-| 60 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
-| 61 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
+| 60 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
+| 61 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
 | 62 | [Far Behind \- Jeremy Olander Remix](https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [A Radiant Sign \(Remixed\)](https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM) | 3:47 |
 | 63 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 64 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 67 | [Just Breathe](https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [Just Breathe](https://open.spotify.com/album/5jLJSvxYN0MF0T7ObeMtjs) | 3:56 |
 | 68 | [Sunset](https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:22 |
 | 69 | [Best of Me \- Album Mix](https://open.spotify.com/track/79PRSXNzO80F9REh1zVPUh) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Diving for Lost Treasure](https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie) | 3:12 |
-| 70 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 |
+| 70 | [The Center Will Not Hold](https://open.spotify.com/track/6bWj1Lr2CVhwzshkp42As8) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:50 |
 
-Snapshot ID: `MCw3MWE4MzdkM2NkZWVkMDFkNWUwMDE3YmJhMTJjMjRmYzI1ZTViZGU5`
+Snapshot ID: `MCwwNTE1MjUzZTY4YTc0NDkwMzY3OTJkZWRkMmRjYTBiODFhMTNiYjQ1`

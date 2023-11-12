@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Natasha Noorani
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,544 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,579 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 40 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 41 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 |
 | 42 | [Duur Se](https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:04 |
-| 43 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 |
+| 43 | [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 |
 | 44 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 |
 | 45 | [Farda](https://open.spotify.com/track/6z9YgNd6u3k7eSLAR7Nsom) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:29 |
 | 46 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 74 | [Casanova](https://open.spotify.com/track/1n1U7pyRfc5dV7143oKleX) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Casanova](https://open.spotify.com/album/3LJ37HFYXGrP2rwPmJxX5e) | 2:12 |
 | 75 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
 
-Snapshot ID: `MCxkYTk1NjU2Mzc4ZTIzNzM3ZTIzOGNhNGE4ZDljMmE1NDIwMzdlZTNj`
+Snapshot ID: `MCxjNzA2MGEwZWJjNmM0YzhkMTkzZWM1OTdmNGYwNjg1ZjhkZjIyOTVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,277 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,337 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 31 | [Asi Fue](https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Esencial](https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb) | 5:24 |
 | 32 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:15 |
 | 33 | [Mañana, Mañana \- Primera Fila \- Live Version](https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:59 |
-| 34 | [Amor Eterno](https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS) | 5:33 |
+| 34 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 35 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
-| 36 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
+| 36 | [Amor Eterno](https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS) | 5:33 |
 | 37 | [Costumbres](https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 4:44 |
 | 38 | [Amor Eterno](https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:33 |
 | 39 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 | 40 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 | 41 | [Lo Pasado, Pasado](https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:11 |
 | 42 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:14 |
-| 43 | [La Muerte del Palomo](https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:25 |
-| 44 | [La Diferencia \- En Vivo](https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:00 |
+| 43 | [La Diferencia \- En Vivo](https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:00 |
+| 44 | [La Muerte del Palomo](https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:25 |
 | 45 | [Ya No Me Interesas](https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:23 |
 | 46 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
 | 47 | [No Tengo Dinero](https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:13 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 82 | [Caray](https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:43 |
 | 83 | [Frente a Frente](https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Frente a Frente](https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX) | 4:26 |
 | 84 | [Déjame Vivir](https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU) | [Ernesto Barajas](https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP), [Natalia Aguilar](https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV) | [Déjame Vivir](https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh) | 4:10 |
-| 85 | [Siempre en Mi Mente](https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:04 |
-| 86 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:00 |
+| 85 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:00 |
+| 86 | [Siempre en Mi Mente](https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:04 |
 | 87 | [La Farsante](https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Canciones Que Recuerdo](https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj) | 2:55 |
 | 88 | [Solo Se Que Fue En Marzo](https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:53 |
 | 89 | [El Noa Noa](https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MCxmYzIzYWZmMDBlNjYzOWJiOThkOGMyYmFkZGVjYzVjOTQ4NWZhOGRk`
+Snapshot ID: `MCw5MWU1ODUzNTY1ZmMzMjdmYWUxNzFiY2VkN2JhN2ZkZWJlNzVjYjc1`

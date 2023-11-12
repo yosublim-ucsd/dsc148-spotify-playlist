@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Green Day au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,696 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,763 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 |
 | 50 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 |
 
-Snapshot ID: `MCwzMTM3ZjVjMTE5Mjk4ZTMxMGYxYzgwYTgwNDM3YTdmNDk0MWZmZDNm`
+Snapshot ID: `MCw0MmQzODY3YzQwOWExYTg4ZGMyYTliNWEwMjFjMGJjZjEzNThlYTdk`

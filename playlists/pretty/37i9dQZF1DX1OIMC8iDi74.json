@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: G Jones",
-  "num_followers": 892790,
+  "num_followers": 892828,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWFiMDBjNWMyNDFlNzc2OTY0MTMyNmJlY2NhMzk3NDZlNzVlOThj",
+  "snapshot_id": "MCwwOWM0ZjM0N2NlN2Y2OTI3ZGZiNzM2MTA2MGU3MGY0YjU2ZWIxM2Qx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Starman",
         "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 211875,
       "name": "Kaleidoscope (Feat. Crystalline)",
       "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Red // Blue",
+        "url": "https://open.spotify.com/album/0K7Og050SbKXSKXijCofik"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Dallas Koehlke",
+          "url": "https://open.spotify.com/artist/3tfGFqEhPNqf3mr5AetSVk"
+        }
+      ],
+      "duration_ms": 254879,
+      "name": "Crash 2.0",
+      "url": "https://open.spotify.com/track/7coX3jc5vGpywMWEZ8X8Mq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Leisure Season Vol. 1",
         "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
       },
@@ -1593,58 +1613,6 @@
       "url": "https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Red // Blue",
-        "url": "https://open.spotify.com/album/0K7Og050SbKXSKXijCofik"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Dallas Koehlke",
-          "url": "https://open.spotify.com/artist/3tfGFqEhPNqf3mr5AetSVk"
-        }
-      ],
-      "duration_ms": 254879,
-      "name": "Crash 2.0",
-      "url": "https://open.spotify.com/track/7coX3jc5vGpywMWEZ8X8Mq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Issa Bounce",
-        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
-      },
-      "artists": [
-        {
-          "name": "UpsideDown",
-          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Issa Bounce",
-      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Visions",
@@ -1667,6 +1635,38 @@
       "duration_ms": 163607,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3xY1Z0W0UO1itJoa5wpA95"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Issa Bounce",
+        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Issa Bounce",
+      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1863,18 +1863,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3EhdaJvRBADR4RKhY7jpsg"
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/46SVWbWMuVMgT2sjzCB6hR"
       },
       "artists": [
         {
-          "name": "Eprom",
-          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
         }
       ],
-      "duration_ms": 173350,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3kJ4a4eMZ6pg51DW7lhZyO"
+      "duration_ms": 216363,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/2yaNaFyZsZSWLI5evzKlGK"
     },
     {
       "added_at": "2023-10-27 04:00:00",

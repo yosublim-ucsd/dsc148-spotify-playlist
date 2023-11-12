@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 128934,
+  "num_followers": 129053,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTFjNzE5ZDFjZjhjYjdiNWE1NmMwZTQyY2E2ZTVkMjg3YzM4YTEz",
+  "snapshot_id": "MCw4ZDU3YmUzZTczNjllZWY5MTAxNmJlZTlhOTQ5MDMwZjE3YjQ4MmU4",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 234933,
       "name": "He Renunciado a Ti - Remasterizado",
       "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 132773,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
     },
     {
       "added_at": "2021-12-29 23:33:57",

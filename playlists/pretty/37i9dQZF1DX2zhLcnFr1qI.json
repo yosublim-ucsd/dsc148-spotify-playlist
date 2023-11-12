@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 54421,
+  "num_followers": 54528,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGJlMmIzMDgzM2ZlMjBkZWExZGMwMmIzMTAzMGY0NTllOTliMTk3",
+  "snapshot_id": "MCw2M2I1M2UwYzFjMGYxYThiOWNjMjk4YWE4ZTYzZmRkOWIzODI4ZTI4",
   "tracks": [
     {
       "added_at": "2023-10-26 20:40:56",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "LOL (International version)",
-        "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
-      },
-      "artists": [
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 165959,
-      "name": "Jingle Bells - Bass",
-      "url": "https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
         "name": "I Wish (feat. Mabel) [Christmas Version]",
         "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 200595,
       "name": "I Wish (feat. Mabel) - Christmas Version",
       "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
+        "name": "LOL (International version)",
+        "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "duration_ms": 165959,
+      "name": "Jingle Bells - Bass",
+      "url": "https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
+        "name": "Christmas Bounce",
+        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Christmas Bounce",
+      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
         "name": "Caro\u0308l Von Holz",
         "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 254971,
       "name": "Caro\u0308l Von Holz",
       "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "Christmas Bounce",
-        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "Christmas Bounce",
-      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -539,6 +539,30 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
+        "name": "All I Want for Christmas",
+        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "JeLa",
+          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "All I Want for Christmas",
+      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
       },
@@ -551,22 +575,6 @@
       "duration_ms": 150021,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "2020 Christmas",
-        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
-      },
-      "artists": [
-        {
-          "name": "Dominique",
-          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "2020 Christmas",
-      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -615,22 +623,18 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "A Very Very Decent Christmas",
-        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
+        "name": "2020 Christmas",
+        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Jesse Slayter",
-          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Rock Them Bells",
-      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
+      "duration_ms": 125454,
+      "name": "2020 Christmas",
+      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -667,6 +671,26 @@
       "duration_ms": 199866,
       "name": "Santa Baby (feat. Jane X\u00d8)",
       "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
+        "name": "A Very Very Decent Christmas",
+        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Jesse Slayter",
+          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Rock Them Bells",
+      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -723,22 +747,6 @@
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"
-      },
-      "artists": [
-        {
-          "name": "Roman Messer",
-          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP"
     }
   ],
   "unique_name": "Electronic Christmas",

@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8183968,
+  "num_followers": 8185793,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWQ0MTJiNDE4MDYxMGJkOGY1ZTA0MTJhMzhlMDE4YjgxZDAyMDg0",
+  "snapshot_id": "MCw0NmY4ZmRkNjBiYTgxYjJjYTBlNTlkNzY2YTczMzhiMzIxZjllNGU1",
   "tracks": [
     {
       "added_at": "2023-10-27 09:29:45",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
-        "name": "Bootlegs And B-Sides",
-        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Check Yo Self - Remix",
-      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
         "name": "No Way Out (2014 Remaster)",
         "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 306560,
       "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Hard Knock Life (Ghetto Anthem)",
-      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
         "name": "E. 1999 Eternal",
         "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 223546,
       "name": "Tha Crossroads",
       "url": "https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
+        "name": "Creepin on Ah Come Up",
+        "url": "https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Thuggish Ruggish Bone",
+      "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
-        "name": "Creepin on Ah Come Up",
-        "url": "https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Thuggish Ruggish Bone",
-      "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 161400,
       "name": "Shimmy Shimmy Ya",
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -1095,6 +1095,22 @@
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
+        "name": "The Low End Theory",
+        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Check the Rhime",
+      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1315,38 +1331,6 @@
       "duration_ms": 216040,
       "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
       "url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
-        "name": "The Low End Theory",
-        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Check the Rhime",
-      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
-        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
-        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Feel Me Flow",
-      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -1383,6 +1367,22 @@
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
+        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
+        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Feel Me Flow",
+      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
       "artists": [
         {
           "name": "A Tribe Called Quest",
           "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-10-27 09:29:45",
@@ -1671,6 +1675,42 @@
     {
       "added_at": "2023-10-27 09:29:45",
       "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "N 2 Gether Now",
+      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+    },
+    {
+      "added_at": "2023-10-27 09:29:45",
+      "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
       },
@@ -1691,46 +1731,6 @@
       "duration_ms": 309773,
       "name": "Can I Get A...",
       "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Trugoy The Dove",
-          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2023-10-27 09:29:45",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "N 2 Gether Now",
-      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
     },
     {
       "added_at": "2023-10-27 09:29:45",

@@ -2,7 +2,7 @@
 
 ### [I Love My West Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DX9sQDbOMReFI)
 
-> The best side! Cover: Nipsey Hussle
+> The best side! Cover: Snoop Dogg
 
 131 songs - 9 hr 43 min
 
@@ -28,7 +28,7 @@
 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [N.W.A\. And The Posse](https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy) | 5:39 | 2020-05-04 | 2022-02-12 |
 | [Cali Iz Active](https://open.spotify.com/track/1n7CcZ5x0IbCW0FDzbJW0j) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Cali Iz Active](https://open.spotify.com/album/4BxPE4VcF5W6JVfL8Kvq2n) | 4:44 | 2021-08-27 | 2022-02-12 |
 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 | 2020-05-04 |  |
-| [Checc Me out \(feat\. Cobby Supreme & Dom Kennedy\)](https://open.spotify.com/track/4ohNJqDAicClVSgUXyeBP3) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Cobby Supreme](https://open.spotify.com/artist/1INyasBYh5SudQTfTXVkl7), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 4:13 | 2023-09-29 |  |
+| [Checc Me out \(feat\. Cobby Supreme & Dom Kennedy\)](https://open.spotify.com/track/4ohNJqDAicClVSgUXyeBP3) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Cobby Supreme](https://open.spotify.com/artist/1INyasBYh5SudQTfTXVkl7), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 4:13 | 2023-09-29 | 2023-11-12 |
 | [Check Yo Self \- Remix](https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Bootlegs And B\-Sides](https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo) | 4:33 | 2020-06-15 |  |
 | [Dancing In The Rain](https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Below the Heavens](https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe) | 4:25 | 2021-08-27 | 2022-01-29 |
 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 | 2022-02-11 |  |
@@ -91,7 +91,7 @@
 | [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 | 2021-08-27 | 2023-08-29 |
 | [Money Trees](https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 6:26 | 2022-10-25 |  |
 | [More Than A Player](https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1) | [2nd II None](https://open.spotify.com/artist/1rlHVdoyfG6pQkzcMWI4dr) | [2nd II None](https://open.spotify.com/album/0xwxoALWTPNBxB6Xq9Fy66) | 3:16 | 2022-02-11 | 2022-10-01 |
-| [Murder Was The Case](https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:38 | 2023-03-10 | 2023-07-01 |
+| [Murder Was The Case](https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:38 | 2023-03-10 |  |
 | [Murder Was The Case \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/1wb83NCHLygI2dofCeVP2c) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 3:38 | 2022-02-11 | 2022-07-29 |
 | [My Opinion](https://open.spotify.com/track/5mQZ5pln1nychtPCtG88em) | [Mac Mall](https://open.spotify.com/artist/18jS3V7OkXYfDu3CEK6a0T) | [Illegal Business?](https://open.spotify.com/album/1byFE0b9hm2AhQa2mtHRIp) | 4:04 | 2022-01-29 | 2022-02-07 |
 | [New York, New York](https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Hip\-Hop Legacy, Vol\. 8](https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb) | 4:50 | 2020-05-04 | 2023-03-11 |

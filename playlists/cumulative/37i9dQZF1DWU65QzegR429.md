@@ -4,7 +4,7 @@
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-170 songs - 9 hr 1 min
+171 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Párrafo 8](https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:14 | 2022-06-02 | 2023-02-11 |
 | [Que Tengo Que Hacer](https://open.spotify.com/track/1tkwIX1dhNQZmkFKgucIgI) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Que Tengo Que Hacer](https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF) | 3:48 | 2022-02-18 | 2023-02-11 |
 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 | 2022-02-18 | 2022-05-24 |
+| [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 | 2023-07-24 |  |
 | [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk) | 3:25 | 2023-07-24 | 2023-11-10 |
 | [Rosa Melo](https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Rosa Melo](https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX) | 2:44 | 2023-02-10 |  |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2022-02-18 | 2022-06-03 |
@@ -151,7 +152,7 @@
 | [Sister 2 Sister](https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:15 | 2022-06-02 | 2023-02-11 |
 | [Sky Walker \- Spanish Version](https://open.spotify.com/track/4Jyv7sW01crlVLoNbbBhOg) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sky Walker \(Spanish Version\)](https://open.spotify.com/album/10mIDi29wQw0dbRH83seWe) | 3:10 | 2022-02-18 | 2022-06-03 |
 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 | 2022-02-18 |  |
-| [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 | 2023-02-27 |  |
+| [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 | 2023-02-27 | 2023-11-12 |
 | [Solo $exo](https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Icy Hot](https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG) | 3:09 | 2023-02-27 |  |
 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 | 2023-07-24 |  |
 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 | 2022-06-02 | 2023-02-11 |

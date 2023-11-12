@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,039 songs - 2 day 17 hr 36 min
+1,040 songs - 2 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Numbness like a ginger](https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Ninth Peel](https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR) | 3:34 | 2023-04-11 | 2023-07-12 |
 | [Nyamboree de Moffy!!](https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Nyamboree de Moffy!!](https://open.spotify.com/album/3gvmGoa0ePBbM7EdF0p7io) | 3:03 | 2023-04-08 | 2023-07-19 |
 | [odd:I](https://open.spotify.com/track/1MnJPiY2LT0noxGco8UsRC) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [odd:I](https://open.spotify.com/album/0QoFTpJ94Rz6PaHsdPj5zl) | 2:57 | 2023-08-08 | 2023-10-04 |
+| [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/0l49ZGMryYreBuCYjb9v5q) | [Yuiko Ohara](https://open.spotify.com/artist/6Ms9K6GofUbmyph3tETnp5), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/6dIi4IChOkvoc4UDv1kp2S) | 2:28 | 2023-11-07 |  |
 | [One Room Adventure](https://open.spotify.com/track/3aNuaXYvHbzke2iYmzLlF6) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [One Room Adventure](https://open.spotify.com/album/5Ots8MVbrOlpOvB5ww1Drv) | 3:49 | 2023-07-04 | 2023-08-11 |
 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 | 2022-08-16 | 2022-09-09 |
 | [Only](https://open.spotify.com/track/5kFMZ6Gp58RSxlKpiJ0s58) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Only](https://open.spotify.com/album/37I1ix9wcndJwxwjvLkyMP) | 4:22 | 2023-04-20 | 2023-06-14 |
@@ -921,7 +922,7 @@
 | [恋愛ミリフィルム](https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム](https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM) | 3:27 | 2023-07-11 | 2023-10-04 |
 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 | 2022-07-12 | 2022-10-19 |
 | [悪魔の子 \- KOHTA YAMAMOTO Remix](https://open.spotify.com/track/3iGgTjzoA6tFUD1KPTbdJQ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Rearrangement Reaction](https://open.spotify.com/album/2vPvV6BqCafISrQFtYQ1gu) | 4:04 | 2022-06-28 | 2022-07-29 |
-| [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 | 2023-10-24 |  |
+| [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 | 2023-10-24 | 2023-11-12 |
 | [愛してしまえば](https://open.spotify.com/track/6jkK5p4lb9qpyqYSfKbmnk) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [愛してしまえば](https://open.spotify.com/album/0vPEjOHMirZ5EtXtqzjThq) | 4:38 | 2023-07-04 | 2023-07-19 |
 | [愛は心の仕事です](https://open.spotify.com/track/3WvRH0s72oqOHQsBuUWotX) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Memories of Romance in Driving](https://open.spotify.com/album/7ItGfR7FpS07xlAeJWhwlC) | 4:20 | 2022-09-27 | 2022-10-28 |
 | [愛を知っている](https://open.spotify.com/track/6rkN5ursVvVLzsrbjZLwq1) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l) | [愛を知っている](https://open.spotify.com/album/0T51jMLLQlZvlVJjJkCLkz) | 3:03 | 2023-02-09 | 2023-03-22 |

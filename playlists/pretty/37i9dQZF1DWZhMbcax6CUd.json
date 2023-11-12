@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 54571,
+  "num_followers": 54591,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWY2OTIxNGM3Njk4ZTNiYzYzMGY4ZjExNGM1MjIyOGMzZjEyZWJk",
+  "snapshot_id": "MCw5ODMwNTE4NTI3NjViMjFjMTFmNTRlN2ZmM2RlMWE4ZmUwZWFhMGYz",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -92,30 +92,6 @@
       },
       "artists": [
         {
-          "name": "Laurent Naouri",
-          "url": "https://open.spotify.com/artist/0dvT9QPXJHEzUmAZtcA7mH"
-        },
-        {
-          "name": "David Abramovitz",
-          "url": "https://open.spotify.com/artist/4lvmZz7tMJRQwPczmMb0DZ"
-        },
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "Sur L'herbe",
-      "url": "https://open.spotify.com/track/37vCG50piSFnHGVxwovlHC"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Chansons",
-        "url": "https://open.spotify.com/album/4M9YTbLpPqvFT0OvUpEByC"
-      },
-      "artists": [
-        {
           "name": "David Abramovitz",
           "url": "https://open.spotify.com/artist/4lvmZz7tMJRQwPczmMb0DZ"
         },
@@ -131,6 +107,30 @@
       "duration_ms": 85666,
       "name": "Reves",
       "url": "https://open.spotify.com/track/1IwZPU3wcu7zQDZfHbaNYc"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Chansons",
+        "url": "https://open.spotify.com/album/4M9YTbLpPqvFT0OvUpEByC"
+      },
+      "artists": [
+        {
+          "name": "Laurent Naouri",
+          "url": "https://open.spotify.com/artist/0dvT9QPXJHEzUmAZtcA7mH"
+        },
+        {
+          "name": "David Abramovitz",
+          "url": "https://open.spotify.com/artist/4lvmZz7tMJRQwPczmMb0DZ"
+        },
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "Sur L'herbe",
+      "url": "https://open.spotify.com/track/37vCG50piSFnHGVxwovlHC"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -443,6 +443,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: Piano Concerto in G; Gaspard de la Nuit; Sonatine",
+        "url": "https://open.spotify.com/album/6J1hCTGDIUwP4kSQVCQWxu"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Sonatine, M. 40: III. Anim\u00e9",
+      "url": "https://open.spotify.com/track/2q0eEwj3Eq82Yhg7Doxost"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 2",
         "url": "https://open.spotify.com/album/26uix8RvkE257KT3AYuiDO"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 189866,
       "name": "Le tombeau de Couperin (version for orchestra): No. 4. Rigaudon",
       "url": "https://open.spotify.com/track/5tMZQGL2HQlWI1rVtjb999"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Piano Concerto in G; Gaspard de la Nuit; Sonatine",
-        "url": "https://open.spotify.com/album/6J1hCTGDIUwP4kSQVCQWxu"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Sonatine, M. 40: III. Anim\u00e9",
-      "url": "https://open.spotify.com/track/2q0eEwj3Eq82Yhg7Doxost"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
-        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Ravel: String Quartet, M. 35: IV. Vif et agit\u00e9",
-      "url": "https://open.spotify.com/track/24woomxv6bct8nFOayjN3F"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 208173,
       "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
       "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Ravel: String Quartet, M. 35: IV. Vif et agit\u00e9",
+      "url": "https://open.spotify.com/track/24woomxv6bct8nFOayjN3F"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -771,6 +771,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel/Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Trio Mondrian",
+          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+        }
+      ],
+      "duration_ms": 554386,
+      "name": "Piano trio in a minor: Mode\u0301re\u0301",
+      "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel l'exotique",
         "url": "https://open.spotify.com/album/6wQUYcXQNxUZIxw95pzG3i"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 159445,
       "name": "Rapsodie espagnole, M. 54: III. Habanera",
       "url": "https://open.spotify.com/track/2SXOplH0bS340faU0B34gI"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel/Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Trio Mondrian",
-          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
-        }
-      ],
-      "duration_ms": 554386,
-      "name": "Piano trio in a minor: Mode\u0301re\u0301",
-      "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
-      "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+      "duration_ms": 593000,
+      "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
+      "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
         }
       ],
-      "duration_ms": 593000,
-      "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
-      "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
+      "duration_ms": 188000,
+      "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
+      "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 476173,
       "name": "Daphnis et Chlo\u00e9, M. 57: I. Introduction et Danse Religieuse",
       "url": "https://open.spotify.com/track/3VKEZVixRO5GF92scMk2q0"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2022-06-27 09:54:23",

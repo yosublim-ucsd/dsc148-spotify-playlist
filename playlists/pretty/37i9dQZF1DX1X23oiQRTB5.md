@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Zokush au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,228 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467,555 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Une Autre](https://open.spotify.com/track/3XuOt3wEdc1tgYlCigX1xS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Une Autre](https://open.spotify.com/album/6yDRuuonLZsQyOF6PhbaHG) | 2:46 |
 | 40 | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/track/0QqP2jJFb8RhGjugYSbFxf) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᚷ\. INSPIRÉ DE FAITS RÉELS \#6](https://open.spotify.com/album/4HqxQlBSI8N5u9OnPCRXNZ) | 2:49 |
 
-Snapshot ID: `MCw3NDMxYTEwNDY5Y2U1NzUwOTVjZGVjY2ZhMjQzN2E3NDU1MzE4OTk5`
+Snapshot ID: `MCw4ZDE5MWQ5MmVjYTgyOGRhMmRjODE4MGZhNmQ3MTM3MTYwYzI4ZDMx`

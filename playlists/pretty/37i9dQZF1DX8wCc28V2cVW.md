@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,760 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,786 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [FFVII REMAKE: ヘリガンナー \(The Valkyrie\)](https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj) | [Keiki Kobayashi](https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 8:50 |
 | 75 | [World Map](https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 0:53 |
 
-Snapshot ID: `MCxjMzVhZTBhNGM1NGNkYTBlN2Q0Nzg2NGNjOWU5NDA0ZjI1MDg2MDg3`
+Snapshot ID: `MCw5MDA2ZGQ2OTk4ZTdmMzU5NTFiYjhlZTcxZmU4ODZiOTQ2M2Q2MGM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,982 likes - 146 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,112 likes - 146 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 145 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 |
 | 146 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
 
-Snapshot ID: `MCwxODQ2OTA5MDg3YTkyYzM0MzY1YWY1M2EzNGUzZGQwZDIzYWI5NmU4`
+Snapshot ID: `MCxhOGNmOTNmNmIyYjU1YzhiZmI3OGMyNTg2YTBiOWE2ZGE5MTEzZTVj`

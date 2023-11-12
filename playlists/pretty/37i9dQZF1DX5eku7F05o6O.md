@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,681 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,683 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 15 | [La mort des étoiles](https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063) | 4:19 |
 | 16 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 |
 | 17 | [J’espère de pas tomber en amour avec toi](https://open.spotify.com/track/5JOzQOsTPEbyXc0BNpD37H) | [Fred Pellerin](https://open.spotify.com/artist/4mmbxcnICvLE3Z3FC3YFh9) | [Plus tard qu'on pense](https://open.spotify.com/album/1OZOYHMEITu3Lg4HtBh4Op) | 4:27 |
-| 18 | [Élodie](https://open.spotify.com/track/1zo6gBnXUXdzcWeCLEejE3) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:13 |
-| 19 | [Je veux de la lumière](https://open.spotify.com/track/5W7sHs6RBdwjgHbw4svh50) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'été](https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC) | 4:28 |
+| 18 | [Je veux de la lumière](https://open.spotify.com/track/5W7sHs6RBdwjgHbw4svh50) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'été](https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC) | 4:28 |
+| 19 | [Élodie](https://open.spotify.com/track/1zo6gBnXUXdzcWeCLEejE3) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:13 |
 | 20 | [Le repère tranquille](https://open.spotify.com/track/5LfohBLHNOqSCGEOKpsMFf) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le repère tranquille](https://open.spotify.com/album/7o5ciM3GFGniUcvpxHlG0O) | 3:23 |
 | 21 | [dans ma main](https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [Dans ma main](https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v) | 4:12 |
 | 22 | [L'éloge des dernières fois](https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Tokyo](https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW) | 3:21 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 39 | [Super ordinaire](https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Tricot machine](https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe) | 3:23 |
 | 40 | [Je redeviens le vent](https://open.spotify.com/track/7pQriJcTGD2fsMCEF55CCs) | [Martin Léon](https://open.spotify.com/artist/51SMAYhZKYFb6aKxwxHuXY) | [Les Atomes](https://open.spotify.com/album/70PjrmmSUclywQfx6DvaFv) | 3:54 |
 | 41 | [Le cœur de l'océan](https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Dire combien je t'aime](https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf) | 4:07 |
-| 42 | [Once Every Billion Years](https://open.spotify.com/track/3Vq3qqSI2PWNBcV0v4WyvK) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 2:54 |
-| 43 | [Perséides](https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous Les Sens](https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE) | 5:21 |
+| 42 | [Perséides](https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous Les Sens](https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE) | 5:21 |
+| 43 | [Once Every Billion Years](https://open.spotify.com/track/3Vq3qqSI2PWNBcV0v4WyvK) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 2:54 |
 | 44 | [Vers le sud](https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [27 fois l'aurore](https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT) | 3:11 |
 | 45 | [Un monstre](https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Le treizième étage](https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl) | 6:29 |
 | 46 | [Blanche](https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B) | 2:36 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 61 | [Le nouveau vocabulaire](https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Les Ombres Longues](https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX) | 3:08 |
 | 62 | [Je ne veux pas savoir](https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS) | [Béatrice Keeler](https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK) | [Bygone](https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2) | 3:42 |
 | 63 | [Si tu restes](https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Himalaya mon amour](https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb) | 2:44 |
-| 64 | [Ciel](https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Stella](https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo) | 4:17 |
-| 65 | [Cabin \(VF\)](https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay) | [Groenland](https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC) | [A Wider Space, B\-Sides](https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx) | 3:42 |
+| 64 | [Cabin \(VF\)](https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay) | [Groenland](https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC) | [A Wider Space, B\-Sides](https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx) | 3:42 |
+| 65 | [Ciel](https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Stella](https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo) | 4:17 |
 | 66 | [J'irai là](https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD) | 4:06 |
 | 67 | [Le loup \- Version Vingt](https://open.spotify.com/track/7FZkU5hT76JMpnIlztIrTX) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Vingt](https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH) | 4:49 |
 | 68 | [One Final Drink, One Final Smoke](https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh) | 4:47 |
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 80 | [Le plein de réconfort](https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Le plein de réconfort](https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd) | 3:35 |
 | 81 | [Pour Le Reste De Ma Vie](https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Volcano](https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj) | 4:45 |
 | 82 | [Madame \(Version douce\)](https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [EP de malade](https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH) | 3:26 |
-| 83 | [Ta Chance](https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Ta Chance](https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T) | 4:28 |
-| 84 | [Les derniers jours](https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Fleur](https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh) | 5:04 |
+| 83 | [Les derniers jours](https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Fleur](https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh) | 5:04 |
+| 84 | [Ta Chance](https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Ta Chance](https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T) | 4:28 |
 | 85 | [Rien ne se perd, rien ne se crée](https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Une Version Améliorée De La Tristesse](https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr) | 3:06 |
 | 86 | [Nord\-est](https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0) | 4:03 |
-| 87 | [L'hiver](https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Alexe](https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL) | 4:33 |
-| 88 | [La pluie entre nous](https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [La pluie entre nous](https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN) | 3:40 |
+| 87 | [La pluie entre nous](https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [La pluie entre nous](https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN) | 3:40 |
+| 88 | [L'hiver](https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Alexe](https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL) | 4:33 |
 | 89 | [Pour ce que valent tes larmes](https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Politesses](https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800) | 4:38 |
 | 90 | [Je ne t'oublie pas \- Bonus](https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 3:31 |
 | 91 | [Jamais seule](https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop) | [Joëlle Saint\-Pierre](https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7) | [Et toi, tu fais quoi?](https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX) | 3:09 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 101 | [Poisson d'abysse](https://open.spotify.com/track/0LR8ALW0z4Spd58XNvKuQe) | [Gaële](https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj) | [Télescope](https://open.spotify.com/album/5Ku7Xs7EaxBsm83Z9DZqCO) | 4:44 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MCwwN2VmZDZhMzA0MDE4OTg1ZTUyZWMyZDQwMmEzNWI1MzgwZDE0MTQ2`
+Snapshot ID: `MCwwYjkxM2FhM2UyOWQzY2ZjM2NmOGVjMTNlYjA2M2VhNTQwNTRkYWNj`

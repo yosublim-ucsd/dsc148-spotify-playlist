@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9\">KB</a>",
-  "num_followers": 141283,
+  "num_followers": 141354,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTRkMzYyZDAyM2EwNzFiYzM5NDc3NjA4M2RkMTU3NDkzNWY5YWY5",
+  "snapshot_id": "MCw0ZGVmNjhhMzEyZjU2ZTg4OWJlZTFiN2EyMmEwNmQ0MTYyN2M1YzBm",
   "tracks": [
     {
       "added_at": "2023-08-25 12:34:43",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "WAY MAKER",
+        "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
+      },
+      "artists": [
+        {
+          "name": "Kkah$o",
+          "url": "https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp"
+        },
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "WAY MAKER",
+      "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "Texas Pete",
         "url": "https://open.spotify.com/album/62WzdvhBaPr65ZIybdCldT"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 244539,
       "name": "Texas Pete",
       "url": "https://open.spotify.com/track/2e0ojUm7RKbYyjMISSSYSI"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "WAY MAKER",
-        "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
-      },
-      "artists": [
-        {
-          "name": "Kkah$o",
-          "url": "https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp"
-        },
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "WAY MAKER",
-      "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -591,30 +591,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Respect My Team",
-        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        },
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Respect My Team",
-      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "Respect My Team",
+        "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Respect My Team",
+      "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 154970,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1019,6 +1019,22 @@
       "duration_ms": 144000,
       "name": "MAD 2 THE MAX",
       "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "IF I RAN AWAY",
+        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 153418,
+      "name": "IF I RAN AWAY",
+      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1051,26 +1067,6 @@
       "duration_ms": 137380,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "IF I RAN AWAY",
-        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
       },
       "artists": [
         {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 153418,
-      "name": "IF I RAN AWAY",
-      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "MMA FREESTYLE",
+        "url": "https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "MMA FREESTYLE",
+      "url": "https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "bounce back.",
         "url": "https://open.spotify.com/album/748L8OCoABosEZF41AzgtM"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "MMA FREESTYLE",
-        "url": "https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "MMA FREESTYLE",
-      "url": "https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
-        {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        }
-      ],
-      "duration_ms": 248215,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/4sbRvjSf9MBMtdTkvHjneL"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1631,6 +1611,26 @@
       "duration_ms": 235404,
       "name": "In My Bible, In My Bag - Remix",
       "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        }
+      ],
+      "duration_ms": 248215,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4sbRvjSf9MBMtdTkvHjneL"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "His Side",
         "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "Reality Checks",
+        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+      },
+      "artists": [
+        {
+          "name": "Dru Bex",
+          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Reality Checks",
+      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
       },
@@ -1799,18 +1815,18 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Reality Checks",
-        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
       },
       "artists": [
         {
-          "name": "Dru Bex",
-          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Reality Checks",
-      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1831,22 +1847,6 @@
       "duration_ms": 161538,
       "name": "NO FRIENDS",
       "url": "https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2023-08-25 12:34:43",

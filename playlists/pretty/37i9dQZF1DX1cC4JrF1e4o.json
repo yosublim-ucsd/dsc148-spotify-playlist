@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 377911,
+  "num_followers": 378149,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTM5ODAxNmM4Y2E2MDRhNTk1YjY4MWE1YmFhYTQ0NDFjNGJlNmQw",
+  "snapshot_id": "MCxkMmE5MTIwZGJmYTk3ZjYwNzUyODdlMWE5M2U4ZWRhYjg3MDg4NjUy",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 162893,
-      "name": "Moon River (From \"Breakfast at Tiffany's\")",
-      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 149826,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 216573,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
     },
     {
       "added_at": "2023-10-24 04:44:54",

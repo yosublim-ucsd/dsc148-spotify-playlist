@@ -8499,6 +8499,24 @@
     },
     {
       "album": {
+        "name": "Demo 5 Nostalgia Intro (Remix)",
+        "url": "https://open.spotify.com/album/0ZbmoD40C6v3C0E9OA2yEw"
+      },
+      "artists": [
+        {
+          "name": "Renzo Pianciola",
+          "url": "https://open.spotify.com/artist/5gll5A4o6CPtrF4Vzk6KTQ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215055,
+      "name": "Demo 5 Nostalgia Intro - Remix",
+      "url": "https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
@@ -9410,7 +9428,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 249040,
       "name": "Donde Est\u00e1s",
       "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
@@ -20878,7 +20896,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 199946,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
@@ -34900,7 +34918,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 163133,
       "name": "That's Texas",
       "url": "https://open.spotify.com/track/5mFA1iOWP5GXdIEhN0ub40"
@@ -35978,7 +35996,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 389280,
       "name": "The Wreck of the Edmund Fitzgerald",
       "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
@@ -36958,6 +36976,32 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/100fbGocyqbBPQkTDchi2g"
     },
     {
       "album": {

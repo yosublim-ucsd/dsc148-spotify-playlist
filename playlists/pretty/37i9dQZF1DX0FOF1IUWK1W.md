@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Simone Mendes e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,991,798 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,995,833 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 50 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 |
 
-Snapshot ID: `MCwwYTBkNWNkYTQ3ZTlmZDBmZjFiYzEyY2VlOTIwMDdkZTU1MTUyMGEy`
+Snapshot ID: `MCw0NWI2NzM1OTRlZmE1MTYxMjliN2JlMTg1MGEzNDQ2MjA3NWE5YWE4`

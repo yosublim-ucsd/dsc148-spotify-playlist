@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 176223,
       "name": "Blommorna p\u00e5 min tapet",
       "url": "https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl"
@@ -3078,6 +3078,24 @@
       "duration_ms": 165045,
       "name": "Din l\u00e5t",
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
+    },
+    {
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218719,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
     },
     {
       "album": {
@@ -6039,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "Historier och liv",
+        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Historier och liv",
+      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
+    },
+    {
+      "album": {
         "name": "Hit and Run",
         "url": "https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR"
       },
@@ -6582,7 +6618,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 245247,
       "name": "I Got It All",
       "url": "https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC"
@@ -12514,6 +12550,24 @@
       "duration_ms": 168437,
       "name": "space",
       "url": "https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI"
+    },
+    {
+      "album": {
+        "name": "Springer",
+        "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203504,
+      "name": "Springer",
+      "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
     },
     {
       "album": {

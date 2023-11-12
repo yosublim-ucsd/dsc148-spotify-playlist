@@ -4,7 +4,7 @@
 
 > When you know, you know\. Eclectic love songs with delicate lyrics that say it best.
 
-193 songs - 12 hr 41 min
+194 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [I Never](https://open.spotify.com/track/29gtJmxbICNuUU3kaWB38w) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:31 | 2021-02-05 | 2022-07-28 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-30 |  |
 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 | 2021-02-05 |  |
-| [Japanese Posters](https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN) | 2:36 | 2023-09-18 |  |
+| [Japanese Posters](https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN) | 2:36 | 2023-09-18 | 2023-11-12 |
 | [Japanese Posters](https://open.spotify.com/track/4EKD6FGZOQQmKWXZiZx3fh) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Japanese Posters](https://open.spotify.com/album/2RsHKX2dgI6GAN9UNPkIGZ) | 2:36 | 2023-02-01 | 2023-04-23 |
 | [Julia \(deep diving\)](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:34 | 2022-08-22 | 2023-02-01 |
 | [Just Kids](https://open.spotify.com/track/199ydjP4O3NR8wgRLLcUNE) | [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Just Kids](https://open.spotify.com/album/55rDGt7Ik5fxPoOpG9Mh0m) | 4:29 | 2021-02-05 | 2022-07-24 |
@@ -146,6 +146,7 @@
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2022-07-01 |  |
 | [Say It First](https://open.spotify.com/track/67aDq4Z8lErpWQ0Ky0xaJo) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 4:07 | 2021-02-05 | 2022-11-13 |
 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2021-02-05 | 2023-02-01 |
+| [Say Yes](https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:19 | 2023-09-18 |  |
 | [Sea of Love](https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/5FbcUqv44TZnt8Ox6bzzZT) | 2:19 | 2021-02-05 | 2022-07-29 |
 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 | 2022-07-01 |  |
 | [Seeds](https://open.spotify.com/track/6rQwwRNAjzr1fCXViQC8dO) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2wx27M3XscOvGRtT4X1Yw5) | 4:44 | 2021-02-05 | 2022-06-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,934 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,996 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 22 | [All Of Me](https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Gently With Nelson](https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG) | 3:22 |
 | 23 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
 | 24 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
-| 25 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
-| 26 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
+| 25 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
+| 26 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
 | 27 | [It Might as Well Be Spring](https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [It Might as Well Be Spring](https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG) | 4:52 |
 | 28 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 29 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 66 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
 | 67 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
 | 68 | [Have You Met Miss Jones?](https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Along With Me](https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT) | 2:31 |
-| 69 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
-| 70 | [Wishing Well](https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:44 |
+| 69 | [Wishing Well](https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:44 |
+| 70 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
 | 71 | [People Will Say We're In Love](https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:16 |
 | 72 | [On a Clear Day](https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [New Orleans Jazz Orchestra](https://open.spotify.com/artist/6OcKkFl60cJU7Tmru46mMK) | [Petite Fleur](https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2) | 3:48 |
 | 73 | [If I Were a Bell \- 2004 Remaster](https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Shirley / Let's Face the Music](https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6) | 2:54 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Lulu's Back in Town \(2012 \- Remaster\)](https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Mel Tormé with The Marty Paich Dek\-Tette \(2012 \- Remaster\)](https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM) | 3:05 |
 | 87 | [Nice Work If You Can Get It \(2012 \- Remaster\)](https://open.spotify.com/track/2WMksdlzNvs5O8EdwFWw4b) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:08 |
 
-Snapshot ID: `MCwzZTQzODc4ZDg5Mjc0YmIwYjY4NjE0MTQzYzI0MzkxNzFjN2E2ZDdi`
+Snapshot ID: `MCw4ZDZmMzFiMTNhYjcyMTIyN2Q1Mjk5NzdhM2Y3MzczMzljYWVkNTlm`

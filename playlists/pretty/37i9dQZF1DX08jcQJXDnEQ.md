@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,453 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,882 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 81 | [How The Gods Kill](https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig III: How The Gods Kill](https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53) | 5:56 |
 | 82 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
 | 83 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 11:15 |
-| 84 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 |
-| 85 | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 7:18 |
-| 86 | [Say Just Words](https://open.spotify.com/track/1yrquRdZk965GKv2kDHGpL) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [One Second](https://open.spotify.com/album/6xf27M8BHlFb0xqH17k0tD) | 4:02 |
+| 84 | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 7:18 |
+| 85 | [Say Just Words](https://open.spotify.com/track/1yrquRdZk965GKv2kDHGpL) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [One Second](https://open.spotify.com/album/6xf27M8BHlFb0xqH17k0tD) | 4:02 |
+| 86 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 | 87 | [More Human Than Human](https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O) | 4:28 |
-| 88 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
-| 89 | [Bleed](https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Soulfly](https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc) | 4:06 |
-| 90 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 |
-| 91 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 |
-| 92 | [Ashes to Ashes](https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Album of the Year](https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6) | 3:37 |
-| 93 | [Violent & Funky](https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Groove Family Cyco / Snapped Lika Mutha](https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M) | 4:16 |
-| 94 | [Suite\-Pee](https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:31 |
-| 95 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 |
-| 96 | [Descent](https://open.spotify.com/track/32IeMAhxo8nhUTVdFGwh0x) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete](https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0) | 4:36 |
-| 97 | [Wasting Love \(2015 Remaster\)](https://open.spotify.com/track/5VR7R8L5MivClO1VxZdZFx) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 5:51 |
-| 98 | [The Gentle Art of Making Enemies \- 2016 Remaster](https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [King for a Day, Fool for a Lifetime \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW) | 3:28 |
-| 99 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
-| 100 | [Bring Your Daughter...To the Slaughter \(2015 Remaster\)](https://open.spotify.com/track/3kCbJ8yQuj0kAQBP7E4GTB) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/2uMfzU12ioMp5zqQwhvt8g) | 4:43 |
+| 88 | [Bleed](https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Soulfly](https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc) | 4:06 |
+| 89 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 |
+| 90 | [Violent & Funky](https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Groove Family Cyco / Snapped Lika Mutha](https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M) | 4:16 |
+| 91 | [Ashes to Ashes](https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Album of the Year](https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6) | 3:37 |
+| 92 | [Suite\-Pee](https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:31 |
+| 93 | [Wasting Love \(2015 Remaster\)](https://open.spotify.com/track/5VR7R8L5MivClO1VxZdZFx) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 5:51 |
+| 94 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 |
+| 95 | [Descent](https://open.spotify.com/track/32IeMAhxo8nhUTVdFGwh0x) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete](https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0) | 4:36 |
+| 96 | [Space Lord](https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L) | 5:55 |
+| 97 | [The Gentle Art of Making Enemies \- 2016 Remaster](https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [King for a Day, Fool for a Lifetime \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW) | 3:28 |
+| 98 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
+| 99 | [Bring Your Daughter...To the Slaughter \(2015 Remaster\)](https://open.spotify.com/track/3kCbJ8yQuj0kAQBP7E4GTB) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/2uMfzU12ioMp5zqQwhvt8g) | 4:43 |
+| 100 | [Powertrip](https://open.spotify.com/track/2FqDEb5wkhtwSl8H2erumv) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L) | 3:31 |
 
-Snapshot ID: `MCw1ZGQ4MDlmZGY1Zjc3MTBiNjhjYjcyODYyNGM3ZGQzM2UwYjUxNDlk`
+Snapshot ID: `MCw2NGE2ZTZlNDRjODM2ODBmOTJiNDUwZDk3NzZhMGYyYzcyNzdkNTk1`

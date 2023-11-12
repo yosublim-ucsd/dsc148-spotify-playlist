@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 
 > Crackling and popping sounds of fireplaces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,423 likes - 86 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,517 likes - 86 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 | 85 | [Llamas Calmantes](https://open.spotify.com/track/1vjWahaOQYYNc2fjyWJLdS) | [Calor Malvado](https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK) | [Ruido de Chimenea](https://open.spotify.com/album/24uCwkr3AxyqxWRJXDnWP9) | 3:05 |
 | 86 | [Warming The House](https://open.spotify.com/track/1pDUKdTTVxwTwzaZXckxiz) | [Fire Creator](https://open.spotify.com/artist/3OwwaGqOstYK4uADW3dCN9) | [Fire & Sparks](https://open.spotify.com/album/4Gnmhcic8ODRmyk3UIUL1k) | 2:42 |
 
-Snapshot ID: `MCwxOTQ3NTVmOGJlZDZkZDc5OGY5ZThlOWRlNTdkZmI3Y2ZhZjNhN2Zm`
+Snapshot ID: `MCwzY2Q3OGQ3YTMxNTFlOTdhM2JiZmY2YTcyMzFiMmFhOTkyMDgzOTA4`

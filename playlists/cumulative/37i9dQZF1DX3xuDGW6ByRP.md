@@ -4,7 +4,7 @@
 
 > as novas de pop rock br / Foto: Carol & Vitoria
 
-124 songs - 6 hr 18 min
+126 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 | 2023-10-20 | 2023-11-11 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2023-07-21 |  |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-07-21 |  |
-| [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 | 2023-07-21 |  |
+| [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 | 2023-07-21 | 2023-11-12 |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-10-20 |  |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2023-07-21 | 2023-10-21 |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-07-21 |  |
@@ -72,7 +72,7 @@
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2023-10-20 | 2023-11-11 |
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-07-21 |  |
 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 | 2023-07-21 |  |
-| [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 | 2023-07-21 |  |
+| [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 | 2023-07-21 | 2023-11-12 |
 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 | 2023-11-10 |  |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2023-07-21 |  |
 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 | 2023-07-21 | 2023-10-21 |
@@ -95,6 +95,7 @@
 | [puro osso](https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso](https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0) | 3:37 | 2023-10-13 | 2023-11-11 |
 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 | 2023-10-20 | 2023-11-11 |
 | [Rebel Rebel](https://open.spotify.com/track/3bdEtobvgxJNoV8kiNGObK) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Reality](https://open.spotify.com/album/13uBd1FnzOOHgWXmcgaYr6) | 3:10 | 2023-10-20 | 2023-11-11 |
+| [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 |  |
 | [SAUDADE DE MIM :\(](https://open.spotify.com/track/776Pu6WRVJgr1UVu2ub0J1) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8), [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [SAUDADE DE MIM :\(](https://open.spotify.com/album/33TVGzMe4QEkVCGFhwHZ6g) | 2:29 | 2023-07-21 | 2023-10-07 |
 | [sempre estrago tudo](https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE](https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK) | 3:08 | 2023-07-21 |  |
 | [sen\(ti\)r perdeu a graça](https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [sen\(ti\)r perdeu a graça](https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA) | 2:45 | 2023-07-21 |  |
@@ -119,6 +120,7 @@
 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 | 2023-07-21 |  |
 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 | 2023-07-21 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2023-07-21 |  |
+| [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 |  |
 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 | 2023-09-15 | 2023-10-21 |
 | [vc já falou pra ela?](https://open.spotify.com/track/5PiqaMiXx7OcayzCbC9yn6) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [vc já falou pra ela?](https://open.spotify.com/album/7E0MY7RLTWs1kViG6FTFYP) | 2:21 | 2023-07-21 | 2023-10-14 |
 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 | 2023-07-21 |  |

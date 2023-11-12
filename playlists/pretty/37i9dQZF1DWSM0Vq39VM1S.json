@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 154697,
+  "num_followers": 154800,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM5OTk1Zjk2ZWYxZDA2NTU5Y2UzNTUxMWI3NTFhNTFlNGU3NWMz",
+  "snapshot_id": "MCw1YTM3ODZkNTA5NDBiMzliMDg3YTMyMzczY2IxMDljYzk2Mjc1ZDZi",
   "tracks": [
     {
       "added_at": "2023-10-12 14:53:53",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-10-12 14:53:53",
       "album": {
-        "name": "folklore (deluxe version)",
-        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 285640,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2023-10-12 14:53:53",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-10-12 14:53:53",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+      "duration_ms": 285640,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
     },
     {
       "added_at": "2023-10-12 14:53:53",

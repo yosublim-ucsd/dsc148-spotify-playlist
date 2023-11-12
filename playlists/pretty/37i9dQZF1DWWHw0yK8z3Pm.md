@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,604 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,690 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 22 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 |
 | 23 | [Black Creek](https://open.spotify.com/track/4jB3Mw900goYibsFAueHph) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [No Place Left to Leave \(2006\)](https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K) | 3:32 |
 | 24 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 |
-| 25 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 |
-| 26 | [Dancing in the Sky](https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:06 |
+| 25 | [Dancing in the Sky](https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:06 |
+| 26 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 |
 | 27 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
 | 28 | [Way of the Triune God \- Hallelujah Version](https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:28 |
 | 29 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 36 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 37 | [Ghost Town](https://open.spotify.com/track/1wpANfPJEzSKc5JhEIGYQ1) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 2:48 |
 | 38 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 |
-| 39 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
-| 40 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
+| 39 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
+| 40 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 41 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
 | 42 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 |
 | 43 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 78 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
 | 79 | [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 |
 | 80 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 |
-| 81 | [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 |
-| 82 | [Working On My Tan](https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Working On My Tan](https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc) | 4:23 |
+| 81 | [Working On My Tan](https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Working On My Tan](https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc) | 4:23 |
+| 82 | [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 |
 | 83 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 |
 | 84 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 |
 | 85 | [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 93 | [Better Off High](https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:30 |
 | 94 | [Eye For An Eye](https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Eye For An Eye](https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD) | 3:01 |
 | 95 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 |
-| 96 | [Peacemaker](https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Peacemaker](https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ) | 3:53 |
-| 97 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 |
+| 96 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 |
+| 97 | [Peacemaker](https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Peacemaker](https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ) | 3:53 |
 | 98 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
 | 99 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
 | 100 | [Talkin' to Myself](https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:46 |
 
-Snapshot ID: `MCxiY2M1OTMyN2YxMTUxM2I3OWRhMzM5NjRlNmE2ZjEyMWY1NmRjODI1`
+Snapshot ID: `MCw1NzA5MmViNGQxMjYyNTk4ZDcyN2YyZDc0YTRmNmQzNTY0OGQ1ZjQ1`

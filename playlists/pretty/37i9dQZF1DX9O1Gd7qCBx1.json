@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 218928,
+  "num_followers": 218885,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjFlMDk1MjVmMDA5NjE1YWEyYWI3MThkYTFjZjFjOGUyZmQwMDhm",
+  "snapshot_id": "MCxhY2VhODA0ZDNkMDM4MTYzOWJmNGMwZjE0ODdlOGUwYTU2Nzk3OWFi",
   "tracks": [
     {
       "added_at": "2023-11-08 15:57:38",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 349160,
+      "name": "Muerte",
+      "url": "https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "El Diablito Loco",
         "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 147906,
       "name": "El Diablito Loco",
       "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 349160,
-      "name": "Muerte",
-      "url": "https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA"
+      "duration_ms": 207253,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 380023,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "La Enamorada",
         "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 141493,
       "name": "Mis Muertos",
       "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 380023,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -531,6 +531,38 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Trece Cielos (Con Cerveza Victoria)",
+        "url": "https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Trece Cielos (Con Cerveza Victoria)",
+      "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -551,38 +583,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Trece Cielos (Con Cerveza Victoria)",
-        "url": "https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2"
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Coronel",
-          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Trece Cielos (Con Cerveza Victoria)",
-      "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 276133,
+      "name": "No Es Serio Este Cementerio",
+      "url": "https://open.spotify.com/track/7a5MYTqTgUEzVJmbrejLtn"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Vivir Muriendo",
         "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
       },
@@ -739,6 +755,22 @@
       "duration_ms": 172643,
       "name": "Uy que miedo",
       "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -775,38 +807,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Boda Negra (El Enterrador)",
-      "url": "https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 276133,
-      "name": "No Es Serio Este Cementerio",
-      "url": "https://open.spotify.com/track/7a5MYTqTgUEzVJmbrejLtn"
+      "duration_ms": 226866,
+      "name": "Boda Negra (El Enterrador)",
+      "url": "https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
+      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Pel\u00edcula Muda (Primera Parte)",
         "url": "https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 235773,
       "name": "Vamos a Morir",
       "url": "https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
-        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
-      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 232037,
-      "name": "Pan de Muertos",
-      "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Ajenos / El D\u00eda de tu Muerte",
         "url": "https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 163815,
       "name": "El D\u00eda de Tu Muerte",
       "url": "https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 232037,
+      "name": "Pan de Muertos",
+      "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Ruego",
+        "url": "https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 220684,
+      "name": "Ruego",
+      "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 240613,
       "name": "Antes Paso por la Gloria",
       "url": "https://open.spotify.com/track/6aEXuG2SnDuZLZiEJuW952"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Ruego",
-        "url": "https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Ruego",
-      "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
     },
     {
       "added_at": "2023-11-08 15:57:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: G Nako
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,768 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,821 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 18 | [Mi Nawe](https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mi Nawe](https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2) | 2:45 |
 | 19 | [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 |
 | 20 | [Ndembe Ndembe](https://open.spotify.com/track/6j2HEYoVmkqzyaAqs6sopH) | [Bytar Beast](https://open.spotify.com/artist/5uCIQxTHZlW51VhsXAZ6P4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Ndembe Ndembe](https://open.spotify.com/album/6D8BUghs6xR4dnjD2Mjbcq) | 4:02 |
-| 21 | [Kwamanati \(feat\. Fire Mlilo\)](https://open.spotify.com/track/32fb4HP1AP8w62zH8bl6rf) | [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH), [Fire Mlilo](https://open.spotify.com/artist/5gYlE5i1uZ0Xwbkeb9b6fB) | [Kwamanati \(feat\. Fire Mlilo\)](https://open.spotify.com/album/2ASHOZok5TARAAzK0xcYJ2) | 2:44 |
+| 21 | [Kwamanati \(feat\. Fire Mlilo\)](https://open.spotify.com/track/32fb4HP1AP8w62zH8bl6rf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Fire Mlilo](https://open.spotify.com/artist/5gYlE5i1uZ0Xwbkeb9b6fB) | [Kwamanati \(feat\. Fire Mlilo\)](https://open.spotify.com/album/2ASHOZok5TARAAzK0xcYJ2) | 2:44 |
 | 22 | [Sitaki](https://open.spotify.com/track/3VciOIAAH9bqNPmsqOhVod) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Sitaki](https://open.spotify.com/album/0Yz6waiDwKXzskayIAFtnM) | 3:36 |
 | 23 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 |
 | 24 | [Shem](https://open.spotify.com/track/3h79qNlIy82yBRBsNZzz0X) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Shem](https://open.spotify.com/album/207IYo6buHozAMNN4lp98r) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \- Remix](https://open.spotify.com/track/5X0Y53r6h3CDzTl7nsbdPA) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \[Remix\]](https://open.spotify.com/album/2MIMHlmrVh5RpxUsIlwaqi) | 3:38 |
 | 70 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
 
-Snapshot ID: `MCxmYTY2M2I5OGI4ZTllNWZiMTczNzZkNzE5MDVmNjdmNmM2YTQ4ODAy`
+Snapshot ID: `MCxkZmQ4ZTdmMzI1YjczZDFiODg4YTdmZWRhMmVkZWVhMzFiYjk2OTQ1`

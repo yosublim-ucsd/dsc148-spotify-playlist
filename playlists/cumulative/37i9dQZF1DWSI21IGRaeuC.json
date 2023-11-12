@@ -94,6 +94,24 @@
     {
       "album": {
         "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
+    },
+    {
+      "album": {
+        "name": "Alley Rave",
         "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
       },
       "artists": [
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"

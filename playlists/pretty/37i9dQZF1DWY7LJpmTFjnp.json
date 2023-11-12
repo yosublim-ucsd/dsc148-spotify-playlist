@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Cecilia Toussaint en portada. ",
-  "num_followers": 1009624,
+  "num_followers": 1009700,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTY1YjBjZDYzZTAzN2MzMTE2YTAwYjZhN2FiMDEzZTM1ODg5ODBm",
+  "snapshot_id": "MCxkM2VmNmNmNDA3YTYxY2VkNDNiYTUwZjUwMWExYzNmNDg3MjBmNzM3",
   "tracks": [
     {
       "added_at": "2023-10-23 22:33:28",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Elemento (Noches De Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 223990,
-      "name": "Elemento - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Un Segundo MTV Unplugged",
         "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 326146,
       "name": "Las Batallas/Rarotonga - MTV Unplugged",
       "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Elemento (Noches De Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 223990,
+      "name": "Elemento - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Yo Tomo",
-        "url": "https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Gustavo Cordera",
-          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Estoy Perdiendo La Raz\u00f3n",
         "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 202556,
       "name": "Estoy Perdiendo La Raz\u00f3n",
       "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Yo Tomo",
+        "url": "https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Gustavo Cordera",
+          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX"
     },
     {
       "added_at": "2023-10-23 22:33:28",

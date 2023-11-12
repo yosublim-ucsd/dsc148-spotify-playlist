@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Primos del Este en portada.",
-  "num_followers": 429460,
+  "num_followers": 429548,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWI0ZjIxYjJjMGE2ZDk0MDk1MzNkODA5N2I0MTMxMzY3OTAwYjBk",
+  "snapshot_id": "MCwxM2Y0ODI0YjMzMzlkMmQzNjVlYmNiMTljZTljZjA1NmI3YTQ2NmU2",
   "tracks": [
     {
       "added_at": "2023-10-21 07:06:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "LE VA DOLER",
-        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "LE VA DOLER",
-      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "LE VA DOLER",
+        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "LE VA DOLER",
+      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Cosas Claras, Cosas Buenas (En Vivo)",
-        "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Cosas Claras, Cosas Buenas (En Vivo)",
-      "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Cosas Claras, Cosas Buenas (En Vivo)",
+        "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Cosas Claras, Cosas Buenas (En Vivo)",
+      "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "John Wick",
         "url": "https://open.spotify.com/album/54ocTUzlLDrjdP07uq40Lh"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 139458,
       "name": "John Wick",
       "url": "https://open.spotify.com/track/6qpkbNq4GA8m4bOz9iqt5m"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -1747,18 +1763,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Trilog\u00eda, Vol. 2",
-        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
         }
       ],
-      "duration_ms": 157645,
-      "name": "Un Amor Bonito",
-      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+      "duration_ms": 186125,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1779,26 +1799,6 @@
       "duration_ms": 141386,
       "name": "B\u00e9lica Como Ninguna",
       "url": "https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        }
-      ],
-      "duration_ms": 186125,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1955,18 +1955,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 238779,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
+      "duration_ms": 240128,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1987,22 +1991,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
       },
       "artists": [
         {
-          "name": "Conjunto Relincho",
-          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 240128,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
     },
     {
       "added_at": "2023-10-21 07:06:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Jay Rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,358 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,409 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 80 | [Knockout Freestyle](https://open.spotify.com/track/7AS9apzc9bQ4Koq7jJx0Ax) | [The SameOlds](https://open.spotify.com/artist/5WX48obE0WEcKFzvJfE9QR) | [Knockout Freestyle](https://open.spotify.com/album/1OlzP8mp61u7YemKnWUQcT) | 2:22 |
 | 81 | [TRUTH OR DARE](https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [TRUTH OR DARE](https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8) | 4:05 |
 | 82 | [My Own Lane](https://open.spotify.com/track/4Vp0ivRVcWXrPrxZA7w7gi) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [My Own Lane](https://open.spotify.com/album/4Pct0jmajIPalLfYBY2ghD) | 2:17 |
-| 83 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 |
+| 83 | [Let The Sample Work](https://open.spotify.com/track/4vyA2HBhmv5g0qCLaXWjOJ) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4itu4bSGKI6xiq7RYJmbXH) | 2:31 |
 | 84 | [1Train \(feat\. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.\)](https://open.spotify.com/track/1eLU27PPFxBhbp1CBjPh9J) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 6:12 |
 | 85 | [Jazzy Belle](https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:11 |
 | 86 | [Class](https://open.spotify.com/track/3IwTfr5BZ9Wiz9dmgp5ITm) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Class](https://open.spotify.com/album/7ySRtcBS3aaEv7myWwMPKN) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 |
 | 100 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
 
-Snapshot ID: `MCw5MjhmODkwM2IwODgzZjI3YmUyYmFlZjEzZGExNmFmMzcyMzQ3YWZl`
+Snapshot ID: `MCw2ZGE2ZjhhNDFkNTZjYTFjNDVkYjM0NzRkNjAyZDI1N2NmMTg2YzQ4`

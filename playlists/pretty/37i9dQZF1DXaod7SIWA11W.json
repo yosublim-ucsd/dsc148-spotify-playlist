@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:46CCmeVLrgc6MnyVpVMOzp\">Erica Campbell</a> ",
-  "num_followers": 63803,
+  "num_followers": 63855,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjNmMTYyMjVmMjI5YTI4MzJjZDEwZGFlMGQ0ZjBiMTJhZDAzZDM2",
+  "snapshot_id": "MCw5NjY3NzU4MmE0MDIzMTg1ZTMyNDQzOGIyMTY2ZjJkZmFjNmYxYjc2",
   "tracks": [
     {
       "added_at": "2023-11-02 09:06:49",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Glory 2 Glory",
-        "url": "https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "Give Him Praise",
         "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 120000,
       "name": "Give Him Praise",
       "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Glory 2 Glory",
+        "url": "https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 211499,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "When I Pray",
         "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 221915,
       "name": "When I Pray",
       "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 211499,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "I Still Have You",
-        "url": "https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 254208,
-      "name": "I Still Have You",
-      "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 195404,
       "name": "New",
       "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 254208,
+      "name": "I Still Have You",
+      "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -963,22 +963,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
       "artists": [
         {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "Dead Or Alive Pt. 1",
+        "url": "https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 174771,
+      "name": "VICTORY LAP",
+      "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Dead Or Alive Pt. 1",
-        "url": "https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
       "artists": [
         {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 174771,
-      "name": "VICTORY LAP",
-      "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+        "name": "IF I RAN AWAY",
+        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
         }
       ],
-      "duration_ms": 154970,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+      "duration_ms": 153418,
+      "name": "IF I RAN AWAY",
+      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1179,22 +1195,6 @@
       "duration_ms": 194565,
       "name": "More On The Way (feat. nobigdyl.)",
       "url": "https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "IF I RAN AWAY",
-        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 153418,
-      "name": "IF I RAN AWAY",
-      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "I Rely",
+        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "I Rely",
+      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "Miracles (feat. Pastor Mike Jr.)",
         "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 358885,
       "name": "Miracles (feat. Pastor Mike Jr.)",
       "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "I Rely",
-        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "I Rely",
-      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         }
       ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+      "duration_ms": 216000,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1571,22 +1587,6 @@
       "duration_ms": 195541,
       "name": "Won't Be Long Now",
       "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
       "artists": [
         {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 397297,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1819,6 +1803,22 @@
       "duration_ms": 202546,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 397297,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
     },
     {
       "added_at": "2023-11-02 09:06:49",

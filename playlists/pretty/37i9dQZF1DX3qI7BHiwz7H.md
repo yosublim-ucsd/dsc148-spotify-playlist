@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 
 > Smooth and relaxing Soul music to tune in to your body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,387 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,427 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 | 52 | [The First Time](https://open.spotify.com/track/7qpX6tHXO24hiHqMbDMHMR) | [William Stuckey](https://open.spotify.com/artist/0zXSMLUZhpEGRzYSAXeWNp) | [The First Time](https://open.spotify.com/album/3V7pXooxBp9qCV6a4SK2jX) | 4:25 |
 | 53 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 54 | [Lonely Girl \(feat\. Side Show\)](https://open.spotify.com/track/6PWD5gZVlX7PLb0wgUVFNM) | [Arthur Ponder](https://open.spotify.com/artist/1zhxhCSMAfaJBUcabKUOeZ), [Side Show](https://open.spotify.com/artist/0uTinEXGzILkXkKlDnYtwU) | [The Prince of Georgia Soul](https://open.spotify.com/album/5UQMibCIYvLeINoYbrXZpg) | 3:06 |
-| 55 | [Especially For You](https://open.spotify.com/track/3fYd2ahlXE0oH0ET4z09A1) | [Manchild](https://open.spotify.com/artist/0Z5RTbZrqEseC97b6jFrIG) | [Power And Love](https://open.spotify.com/album/5yuDuOXw7xwRxwOg5IfkK8) | 6:07 |
+| 55 | [Especially for You](https://open.spotify.com/track/7APYHWr0XyDa9eG4QXjUQ9) | [Manchild](https://open.spotify.com/artist/0Z5RTbZrqEseC97b6jFrIG) | [The Best of Chi\-Sound Records: 1976\-1984](https://open.spotify.com/album/1xfvmnL7eZa177fSlg38uf) | 6:07 |
 | 56 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 57 | [I Do Love You](https://open.spotify.com/track/0ARAvN0l7iViWw15JtsU3E) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Oh, How It Hurts](https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh) | 3:24 |
 | 58 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 59 | [Your Heart Belongs To Me \- Mono Version with Echo](https://open.spotify.com/track/20HpRfGcg3neSqboaQHvLC) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Meet The Supremes \- Expanded Edition](https://open.spotify.com/album/5Ij4Mpkh9xZi2csxPF3ziI) | 2:36 |
 | 60 | [Where Will I Go](https://open.spotify.com/track/6d7pdDVxhOAAelJITR3R4Y) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj) | [Where Will I Go](https://open.spotify.com/album/3qZ8AzJXcnRRO5jz3vq5z6) | 4:16 |
 
-Snapshot ID: `MCwyY2M5NjEwNDQzNzk0YWY1MDg1ZDczMTUxNTdiMjAwYmM2M2ZhM2M5`
+Snapshot ID: `MCw1MDk1ZmYxNzYwY2QxMzlhMDk0Y2YzNzEwMTc0YzAzOGE4Y2M2Y2Zj`

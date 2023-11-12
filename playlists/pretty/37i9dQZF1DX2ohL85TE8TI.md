@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,765 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,826 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [SEE YOU SOON](https://open.spotify.com/track/236m8bYmecA3wBFBmY2g51) | [HYUN SU](https://open.spotify.com/artist/6BeR9dmDHkuOsssY3kgdcG) | [The Villain of Romance \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/4lWcxBR3P04SaYSapB1C2F) | 3:00 |
 | 100 | [How Was Your Day?](https://open.spotify.com/track/1kTqQfvZ8jovI0HAb5i2Uj) | [Jae Kyung](https://open.spotify.com/artist/1TiRqWRzYR9wCdQesvdaq0) | [Love Interference 2023 \(Original Television Soundtrack\), Pt.17](https://open.spotify.com/album/3ibYXS4kvvIZJtg3xK5n3Q) | 4:02 |
 
-Snapshot ID: `MCwzZDhiZDdlMGFlODM1MjMzZDZmMmY3Yzc3MDI4OGQ1NzdmOTg2ZTkx`
+Snapshot ID: `MCw1Y2YzMjg0NWU0NWVkM2FlYmJmYThiY2RiZGI2MTQyNjdlNjZkNzhh`

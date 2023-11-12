@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Meernaa <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,845 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,893 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Fooled by your calm](https://open.spotify.com/track/7bbz7hZDEuscBD1h3sCuDX) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Fooled by your calm](https://open.spotify.com/album/1iwFqd1wbClNnHopZczZoo) | 2:36 |
 | 100 | [someone else](https://open.spotify.com/track/3rBz7akK9WFZJAyNaK5BXC) | [miicah](https://open.spotify.com/artist/2aB4Le4Kw8PHghlMJ2T2oi) | [bad holiday](https://open.spotify.com/album/6uoCaXFcvWnZNS0ownDiiq) | 3:45 |
 
-Snapshot ID: `MCw1MGJjNmZmZTAzYmFjNzI3ODRhMDk5ODNlNWI5YzFjODI4MTFjOTU3`
+Snapshot ID: `MCw1YWM2ODk4OTMwMTI0ZDRlMzgyMDcyNDhjY2Y1Y2FiY2MxNjZkYmNj`

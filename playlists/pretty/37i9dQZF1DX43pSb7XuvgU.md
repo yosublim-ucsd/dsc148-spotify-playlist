@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,934 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,053 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 15 | [Fue un Placer Conocerte \(En Vivo\) \(with Juan Gabriel\) \- Desde el Auditorio Nacional](https://open.spotify.com/track/1k03B1u95i1n6Cf6DkfsBz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Concierto ..\. En Vivo](https://open.spotify.com/album/1iCCRqIDPUoZ5fkaE8Rp5t) | 3:20 |
 | 16 | [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 |
 | 17 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
-| 18 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
-| 19 | [He Renunciado a Ti \- Remasterizado](https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:54 |
+| 18 | [He Renunciado a Ti \- Remasterizado](https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:54 |
+| 19 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
 | 20 | [Seré](https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:10 |
 | 21 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
 | 22 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 64 | [Cosas de Enamorados](https://open.spotify.com/track/0am5jWvHPdiOggYsAvpTvY) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:26 |
 | 65 | [Amor Eterno \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 7:08 |
 | 66 | [Lo Que No Fue No Será](https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 3:33 |
-| 67 | [La Muerte del Palomo](https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:27 |
-| 68 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 67 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 68 | [La Muerte del Palomo](https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:27 |
 | 69 | [40 y 20 \(with María José\)](https://open.spotify.com/track/7IuRARlFBMeonrCgQ7lKym) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:01 |
 | 70 | [Isi](https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:37 |
 | 71 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [¿Y Qué? \(with Gianmarco\)](https://open.spotify.com/track/0uKbiRx2RlQEVOcfcSmOYC) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:18 |
 | 100 | [Me Basta \(with Leonel García\)](https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:02 |
 
-Snapshot ID: `MCxiMTFjNzE5ZDFjZjhjYjdiNWE1NmMwZTQyY2E2ZTVkMjg3YzM4YTEz`
+Snapshot ID: `MCw4ZDU3YmUzZTczNjllZWY5MTAxNmJlZTlhOTQ5MDMwZjE3YjQ4MmU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,164 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,190 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 24 | [Zawsze Z Toba Chcialbym Byc..\. \(Przez Miesiac :\) \)](https://open.spotify.com/track/1ruDMWJJSz1sceqdY6zsIX) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [Ad.4](https://open.spotify.com/album/1OgrUM009v8ZgKtO9Jjwoh) | 3:42 |
 | 25 | [Fiołkowe Pole](https://open.spotify.com/track/5bQFAKQF1mhcPPThw97kjw) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Pułapka Na Motyle](https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ) | 2:39 |
 | 26 | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ) | 3:39 |
-| 27 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
-| 28 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
+| 27 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
+| 28 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
 | 29 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
 | 30 | [Wszystko](https://open.spotify.com/track/2ANM8tbPDekzhNOhJ55bV6) | [Kamil Holden Kryszak](https://open.spotify.com/artist/7pQ9JOUN2x6CCUhAEtCpdj), [Justyna Święs](https://open.spotify.com/artist/3jWejUYPufnWdb1eMRxIUQ) | [Piosenki o miłości \(Muzyka z filmu\)](https://open.spotify.com/album/7qZdfKzSm1AnFHVUJxoJOJ) | 4:32 |
 | 31 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 61 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 62 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
 | 63 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
-| 64 | [Boję Się Kochać](https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Boję Się Kochać](https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz) | 3:06 |
-| 65 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
+| 64 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
+| 65 | [Boję Się Kochać](https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Boję Się Kochać](https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz) | 3:06 |
 | 66 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 |
 | 67 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |
 | 68 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 75 | [Fake Love](https://open.spotify.com/track/01T5SgoNDIm6JMRoL4w2d5) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Fake Love](https://open.spotify.com/album/50neih37CvuPZQjvSSQAu0) | 2:59 |
 
-Snapshot ID: `MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3`
+Snapshot ID: `MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4`

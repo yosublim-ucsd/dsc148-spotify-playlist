@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-28 | 2023-10-30 |
+| ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-28 |  |
 | [24 hour stopover](https://open.spotify.com/track/5CBaikcT4Gx8iO8jQvmyDU) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [24 hour stopover](https://open.spotify.com/album/69bmlnzNWsVBzfuNPrxjLB) | 3:25 | 2023-09-08 |  |
 | [A Capriscious Stroll](https://open.spotify.com/track/7CnLK8jEEL1O7VcK2nHrx2) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [A Capriscious Stroll](https://open.spotify.com/album/10DBsEqIxXYAgK2bUXpaw4) | 3:24 | 2023-06-15 |  |
 | [A Certain Smile](https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [A Certain Smile](https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS) | 3:50 | 2023-04-20 |  |
@@ -612,7 +612,7 @@
 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2022-06-28 |  |
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-27 | 2023-09-01 |
 | [Stars Fell on Alabama](https://open.spotify.com/track/6i27I5FwSeruTANEO9dyIQ) | [Laurie Sharon Quartet](https://open.spotify.com/artist/2fMJvUaoJ5LN2k49ZCdC5m) | [Stars Fell on Alabama](https://open.spotify.com/album/01cR4pvcJ4uDGHRYtkHQXe) | 4:41 | 2022-06-28 |  |
-| [Stella By Starlight](https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Figgy Mold](https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx) | 3:28 | 2022-08-30 |  |
+| [Stella By Starlight](https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Figgy Mold](https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx) | 3:28 | 2022-08-30 | 2023-11-12 |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-06-28 |  |
 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 | 2022-06-28 |  |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2022-06-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 559826,
+  "num_followers": 559917,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTJlNDY1ZTFhOGI4YWZiMjJmZDMyYzg1ZDExNmIxNTViYTEzZGU0",
+  "snapshot_id": "MCw5ODAzNjNmZGUwMzZhYjkxYTk2NzRhOTNjYzM2M2ZmZTM4NGQwODhh",
   "tracks": [
     {
       "added_at": "2023-11-09 16:13:31",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif"
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -519,22 +519,6 @@
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
-    },
-    {
-      "added_at": "2023-11-09 16:13:31",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
+    },
+    {
+      "added_at": "2023-11-09 16:13:31",
+      "album": {
         "name": "Clayman",
         "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2023-11-09 16:13:31",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
-    },
-    {
-      "added_at": "2023-11-09 16:13:31",
-      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 248746,
       "name": "Twilight Of The Thunder God",
       "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+    },
+    {
+      "added_at": "2023-11-09 16:13:31",
+      "album": {
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -827,22 +811,6 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2023-11-09 16:13:31",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -891,18 +859,18 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
-        "name": "The Sacrament of Sin",
-        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 218080,
-      "name": "Demons Are a Girl's Best Friend",
-      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -919,6 +887,22 @@
       "duration_ms": 261811,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "added_at": "2023-11-09 16:13:31",
+      "album": {
+        "name": "The Sacrament of Sin",
+        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Demons Are a Girl's Best Friend",
+      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+    },
+    {
+      "added_at": "2023-11-09 16:13:31",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2023-11-09 16:13:31",
-      "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-11-09 16:13:31",
       "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "The Trooper (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
+    },
+    {
+      "added_at": "2023-11-09 16:13:31",
+      "album": {
         "name": "Shadows Inside",
         "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 217533,
       "name": "Super Charger Heaven",
       "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
-    },
-    {
-      "added_at": "2023-11-09 16:13:31",
-      "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
     },
     {
       "added_at": "2023-11-09 16:13:31",
@@ -1619,6 +1603,22 @@
       "duration_ms": 231444,
       "name": "Amaranth",
       "url": "https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ"
+    },
+    {
+      "added_at": "2023-11-09 16:13:31",
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
     }
   ],
   "unique_name": "Metal Charge",

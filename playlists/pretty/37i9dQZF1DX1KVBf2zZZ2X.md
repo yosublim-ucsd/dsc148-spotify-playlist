@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,027 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,093 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 84 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 |
 | 85 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 |
 | 86 | [Carpology](https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Carpology](https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek) | 2:03 |
-| 87 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 |
-| 88 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
+| 87 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
+| 88 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 |
 | 89 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 |
 | 90 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 |
 | 91 | [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 99 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 |
 | 100 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 |
 
-Snapshot ID: `MCxkYmQ0ZjJmOGI3YTEwNTg2NDM0Zjg5ZTNjYzFhYzVlMGVmNjg4ZDZj`
+Snapshot ID: `MCw5Y2MxMzRkNDI0NWVlOGNkZDA1MmEyZDU1NTNlNzM1N2NiMjE0ZTU2`

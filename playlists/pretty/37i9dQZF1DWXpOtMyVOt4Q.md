@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,541 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,622 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 11 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
 | 12 | [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 |
 | 13 | [apathy](https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [apathy](https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk) | 1:57 |
-| 14 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
-| 15 | [Let Go](https://open.spotify.com/track/07Mde29eZ6MxAErYEwI5eG) | [ghostlycheeks](https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv) | [Let Go](https://open.spotify.com/album/1YO2U8t5Enh14ouHTKGR4k) | 3:30 |
+| 14 | [Let Go](https://open.spotify.com/track/07Mde29eZ6MxAErYEwI5eG) | [ghostlycheeks](https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv) | [Let Go](https://open.spotify.com/album/1YO2U8t5Enh14ouHTKGR4k) | 3:30 |
+| 15 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 16 | [Agony \- Instrumental](https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm) | 5:01 |
 | 17 | [if it's real, then i'll stay](https://open.spotify.com/track/6MIouIaP6WqE6o9Uo25gdO) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [if it's real, then i'll stay](https://open.spotify.com/album/4ruJGXEb7mZlxI6mhKgGnU) | 3:04 |
 | 18 | [afterdark.](https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [afterdark.](https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I) | 1:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
 | 50 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
 
-Snapshot ID: `MCxkYTUwYmNiODJjMzA1MTM0NmVjZjYwYmIwNWRmODYxYzhmYTYxYjYz`
+Snapshot ID: `MCw3MDc4Njc3YTQxOTFmMmEwNDJjYjg2YjRiMjFmMjc0MDk4ZjU1NTdi`

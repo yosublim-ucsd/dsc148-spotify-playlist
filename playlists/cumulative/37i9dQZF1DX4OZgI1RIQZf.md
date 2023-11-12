@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-116 songs - 7 hr 5 min
+117 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Back From The Dead](https://open.spotify.com/track/7dLHVUNArVpdxHpjFiNwcp) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [JLX](https://open.spotify.com/artist/30YbWj2izYk5WstzBLszvq) | [Back From The Dead](https://open.spotify.com/album/13IepB92VQjx7CSAbLhJ8K) | 4:57 | 2022-10-26 | 2022-11-03 |
 | [Beautiful My Monster](https://open.spotify.com/track/6bx1mOxnJpArvuJOQLKfyQ) | [Husky Rescue](https://open.spotify.com/artist/3q9eHzvlqNeRK43CWfHHJQ) | [Ship of Light](https://open.spotify.com/album/2recsRlGZZaGaleQbBLdc3) | 4:17 | 2022-10-26 | 2022-10-28 |
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2022-10-26 | 2023-11-04 |
+| [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 | 2023-10-27 |  |
 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 | 2022-10-26 |  |
 | [Blood Red Moon](https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ) | 4:31 | 2022-10-26 |  |
 | [Boogieman](https://open.spotify.com/track/2nMog3num0pGta2SsWEuRG) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Lucky Dog](https://open.spotify.com/artist/2EzEehpkduwnWPYQdHaJfi) | [Boogieman](https://open.spotify.com/album/3ngRFbcy8cThWOZ7FFqS1K) | 3:02 | 2023-10-17 | 2023-10-28 |
@@ -74,7 +75,7 @@
 | [MORBID FASCINATION](https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav) | 3:46 | 2022-10-26 | 2023-07-05 |
 | [MURDER ME](https://open.spotify.com/track/5KBYP8gCs14r0PIzAU0Kak) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav) | 3:34 | 2022-10-26 | 2022-11-03 |
 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 | 2022-10-26 |  |
-| [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 | 2022-10-26 |  |
+| [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 | 2022-10-26 | 2023-11-12 |
 | [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/2vVHf43MQ8V3gDbo8HRlnJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 4:28 | 2022-10-26 | 2023-08-18 |
 | [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/6Slvi85s1hIaeykjvDe1xk) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 4:28 | 2023-07-31 |  |
 | [Pet Sematary](https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 3:30 | 2022-10-26 |  |

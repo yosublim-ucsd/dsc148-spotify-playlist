@@ -1023,6 +1023,32 @@
     },
     {
       "album": {
+        "name": "4 Life",
+        "url": "https://open.spotify.com/album/5RkzMLumclqHgtk5y1SR8a"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        },
+        {
+          "name": "vito",
+          "url": "https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176416,
+      "name": "4 Life",
+      "url": "https://open.spotify.com/track/2Li8V6Mg4O50vCODrVK8Pj"
+    },
+    {
+      "album": {
         "name": "High & Hungrig 3",
         "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
       },
@@ -2650,7 +2676,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5RKvst7SDOCTWGlLcF6kSE"
@@ -2828,7 +2854,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2996,7 +3022,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 248000,
       "name": "ARKHAM ASYLUM",
       "url": "https://open.spotify.com/track/35wU7QXdrqu5FTC4fMzR90"
@@ -4344,6 +4370,24 @@
       "duration_ms": 136483,
       "name": "BANA G\u00d6NDER!",
       "url": "https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI"
+    },
+    {
+      "album": {
+        "name": "BANDIT",
+        "url": "https://open.spotify.com/album/1xqiL9v6vHRyhIl6q5iWc4"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140508,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/3ThmZJ7LQ3C20FpxU5kXJB"
     },
     {
       "album": {
@@ -8498,7 +8542,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -9544,6 +9588,28 @@
       "duration_ms": 197093,
       "name": "Die sch\u00f6nsten Tage",
       "url": "https://open.spotify.com/track/5h6yetX656MwIB1jAuAEjI"
+    },
+    {
+      "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/17wWRcFcinDfiwPptmTkYC"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/3T33so3escAbwbrgcIqyRa"
     },
     {
       "album": {
@@ -11468,7 +11534,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -13071,6 +13137,28 @@
     },
     {
       "album": {
+        "name": "Familia (feat. Morad)",
+        "url": "https://open.spotify.com/album/3Xd5N7vlVRGAZ4XkAZCwBf"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Familia (feat. Morad)",
+      "url": "https://open.spotify.com/track/5jGcOhXpPE07vrSe23198B"
+    },
+    {
+      "album": {
         "name": "Familie",
         "url": "https://open.spotify.com/album/56SlI3u5ugwQyxDpcnKYXh"
       },
@@ -14422,7 +14510,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 135483,
       "name": "F\u00fchlst du",
       "url": "https://open.spotify.com/track/5cHPMo64nOHGBORMiHRAHk"
@@ -17619,6 +17707,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -18587,6 +18693,28 @@
     },
     {
       "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/17wWRcFcinDfiwPptmTkYC"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Ich Seh Dich",
+      "url": "https://open.spotify.com/track/0N1qh9T1KQDiwOtmn4IQ2j"
+    },
+    {
+      "album": {
         "name": "Ich wei\u00df das",
         "url": "https://open.spotify.com/album/6WUUeIIAjG4hjcmao0Y46H"
       },
@@ -19094,7 +19222,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 141318,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/6XVSsVuzVUZ2zgRWB5xwef"
@@ -19570,7 +19698,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
@@ -24136,7 +24264,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 152500,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/38kmnVWMW8h5GpnRgNQueB"
@@ -29800,7 +29928,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 165833,
       "name": "On Fire \ud83d\udd25",
       "url": "https://open.spotify.com/track/5DD9Y2IEZAvkUMpnVqg4gm"
@@ -31882,6 +32010,28 @@
       "duration_ms": 165000,
       "name": "Pse",
       "url": "https://open.spotify.com/track/3r7sw5soVrbMM5jX6ScvYX"
+    },
+    {
+      "album": {
+        "name": "PSYCHO (feat. MERO)",
+        "url": "https://open.spotify.com/album/30JoTPJecoAIyzp57C3sTs"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "PSYCHO (feat. MERO)",
+      "url": "https://open.spotify.com/track/6susW8spInEVk0vKE33aWd"
     },
     {
       "album": {
@@ -36217,6 +36367,24 @@
     },
     {
       "album": {
+        "name": "sowas von da (hellwach)",
+        "url": "https://open.spotify.com/album/6apTYDBoUc9GxiSPyLZawl"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150384,
+      "name": "sowas von da (hellwach)",
+      "url": "https://open.spotify.com/track/0YYvd9mj8va83hI7iUAWSW"
+    },
+    {
+      "album": {
         "name": "So\ud83e\udd1e",
         "url": "https://open.spotify.com/album/1u0nZWNZsMCDHlMCOs3yBM"
       },
@@ -37672,7 +37840,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 139234,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
@@ -41167,6 +41335,28 @@
     },
     {
       "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/17wWRcFcinDfiwPptmTkYC"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Von Anfang",
+      "url": "https://open.spotify.com/track/67f0Xp7FKfhRbuJg9R2MKS"
+    },
+    {
+      "album": {
         "name": "VON DA WO ICH KOMME",
         "url": "https://open.spotify.com/album/0d9brfMDijcovNRgdYEQ4l"
       },
@@ -41978,7 +42168,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 180173,
       "name": "Weiche Kissen",
       "url": "https://open.spotify.com/track/0sMxLURdmbU8vOlCbDxyfC"
@@ -42910,6 +43100,28 @@
       "duration_ms": 173844,
       "name": "WHEN I DIE",
       "url": "https://open.spotify.com/track/61iL9OUfIipm3Udr0Zs1oe"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

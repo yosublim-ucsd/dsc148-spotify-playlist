@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 700834,
+  "num_followers": 701258,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjkxYjI4OTFkYmY3NzliODVhMmVlNTVhZWIyYWRmNjJlYWY4ZWVi",
+  "snapshot_id": "MCwxNjNlODdmNzhlODUyNTdiN2E1NDRmNTJhNmJhZjllZmY5OTFmYzg4",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
-      "added_at": "2023-01-06 06:22:16",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
-      },
-      "artists": [
-        {
-          "name": "Twin Tribes",
-          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
-        }
-      ],
-      "duration_ms": 190525,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Let Love In (2011 - Remaster)",
@@ -455,6 +439,22 @@
       "duration_ms": 370573,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+    },
+    {
+      "added_at": "2023-01-06 06:22:16",
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
+      },
+      "artists": [
+        {
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+        }
+      ],
+      "duration_ms": 190525,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
     },
     {
       "added_at": "2021-10-15 04:04:50",

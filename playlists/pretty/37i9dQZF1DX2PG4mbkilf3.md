@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Luna Elle\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,995 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,066 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Mad At Me](https://open.spotify.com/track/5rDlvQe5W9TjAPsCZJiC0v) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Mad At Me](https://open.spotify.com/album/19YZWqjzdB21eSPKmqdBVH) | 2:32 |
 | 100 | [NDZ](https://open.spotify.com/track/4AVaqcOFUH1JBtMTNKZEXd) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [NOTHING nothing](https://open.spotify.com/album/4sOJHnuwsLnFmgDehTLamo) | 3:35 |
 
-Snapshot ID: `MCxhYTBhOTZlNTIwNzEzNjdkMTg0ZTJlZWExNmUwZTUzZDEwMTk4Yjc0`
+Snapshot ID: `MCxjZGMzYmJjNTEwNDBjODY3OGJiZDU4MDRmMmQwZjk4MjczYWNkNmQy`

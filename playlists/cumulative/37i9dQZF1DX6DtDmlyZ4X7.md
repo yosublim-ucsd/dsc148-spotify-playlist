@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-643 songs - 1 day 3 hr 49 min
+644 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 |  |
+| [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-12-07 | 2023-08-20 |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2022-09-24 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-03-15 |
@@ -192,7 +193,7 @@
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 | 2023-07-30 |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2021-12-07 | 2023-09-20 |
-| [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2021-12-07 |  |
+| [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2021-12-07 | 2023-11-12 |
 | [From Here to Eternity](https://open.spotify.com/track/64IBUAyeOxHHtV2VNl6CQ3) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [From Here to Eternity](https://open.spotify.com/album/7IK1Yc1wqhmgZqq0iyTwZB) | 3:25 | 2021-12-07 | 2022-06-07 |
 | [Frozen Lake](https://open.spotify.com/track/1nhtusu73NEuqOOJTJ8gbc) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm) | [View](https://open.spotify.com/album/0Mdwjh11jzxtsFE29Xw5aU) | 2:01 | 2022-12-22 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 |  |

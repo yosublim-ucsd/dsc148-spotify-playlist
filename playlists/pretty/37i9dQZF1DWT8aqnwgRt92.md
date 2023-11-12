@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,767 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,120 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 20 | [R.I.P.](https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.](https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E) | 3:22 |
 | 21 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 |
 | 22 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 |
-| 23 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 |
+| 23 | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/0l49ZGMryYreBuCYjb9v5q) | [Yuiko Ohara](https://open.spotify.com/artist/6Ms9K6GofUbmyph3tETnp5), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/6dIi4IChOkvoc4UDv1kp2S) | 2:28 |
 | 24 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 |
 | 25 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 |
 | 26 | [DAISY](https://open.spotify.com/track/0MakkBf2ekyMyN8tyiEzHD) | [Azuna Riko](https://open.spotify.com/artist/1kJ9fWYKneqS73CIOMDWRx) | [Azu is](https://open.spotify.com/album/1b5lp3j4Z6XcAB8C8ltzXz) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCxhY2FiMjU5MWI0YmEyM2RiNWViNWI1YzZiYWI0OGQ2NmU2MDI4M2E1`
+Snapshot ID: `MCwxM2ZlMDM1YzliMGVmYWE0ZDlhZGJhYTQ0Yzk3OTlkODQ5Yjc3MWUz`

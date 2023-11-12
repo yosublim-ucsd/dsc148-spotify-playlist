@@ -2096,10 +2096,6 @@
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
@@ -2621,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
+    },
+    {
+      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
@@ -2636,28 +2650,6 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "date_added": "2023-08-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
     },
     {
       "album": {
@@ -2992,10 +2984,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "date_added": "2023-08-17",
@@ -3392,10 +3380,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "date_added": "2023-08-17",
@@ -4206,10 +4190,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "date_added": "2023-08-17",
@@ -5932,10 +5912,6 @@
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
           "name": "Vula",
           "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
         }
@@ -6438,10 +6414,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
       "date_added": "2023-08-17",

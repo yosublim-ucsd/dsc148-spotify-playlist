@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,551 likes - 123 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,627 likes - 123 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 122 | [Karaoke](https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Karaoke](https://open.spotify.com/album/7FfYlliKoC99WzeDwyIbqn) | 3:20 |
 | 123 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 
-Snapshot ID: `MCwwYTlhNWQyZWI3NjgzMmFmMTVmMGY5YWZiYzNiY2U1OTFkOTg3NGI5`
+Snapshot ID: `MCxkNTVlNGFjZmI2NzRlOWQ0NmNiZDhmMGFiOWMxZDYwNzI5NDg3ZmI5`

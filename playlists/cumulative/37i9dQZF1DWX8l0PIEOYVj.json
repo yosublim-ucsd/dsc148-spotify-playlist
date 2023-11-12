@@ -1607,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "Crashing Hard",
+        "url": "https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Crashing Hard",
+      "url": "https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR"
+    },
+    {
+      "album": {
         "name": "Crazy (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27"
       },
@@ -4850,7 +4872,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 276383,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/5wYHPCDZjhEYbbehpjmk2J"

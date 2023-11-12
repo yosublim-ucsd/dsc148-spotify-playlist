@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55224,
+  "num_followers": 55233,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWJlZWZkZjNlNTliOTE2MDcwZjBjZDY2MWNkZDdlN2VmYWRlYmUz",
+  "snapshot_id": "MCwzYTgyMjI5YjdjNWQ3NjgyMjJiN2JmZTU5Y2YxYTA1OTQ2MWM4YTQx",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "MASERATI",
         "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 225230,
       "name": "MASERATI",
       "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "El Pana Dero",
         "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 184000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Trago a Trago",
         "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Pass The Dutch",
         "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
       },
@@ -991,26 +991,6 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Ojos (La Noche Mix)",
-        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
-      },
-      "artists": [
-        {
-          "name": "Jenna Kyle",
-          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 180521,
-      "name": "Ojos - La Noche Mix - Radio Edit",
-      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1039,6 +1019,26 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Ojos (La Noche Mix)",
+        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
+      },
+      "artists": [
+        {
+          "name": "Jenna Kyle",
+          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "Ojos - La Noche Mix - Radio Edit",
+      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Scare",
         "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 204000,
       "name": "Scare",
       "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Thousand Drums",
         "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
       },
@@ -1371,6 +1391,26 @@
       "duration_ms": 201230,
       "name": "Thousand Drums",
       "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1415,30 +1455,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Clap Your Hands For Love",
-        "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Rion S",
-          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
-        },
-        {
-          "name": "CECILLE",
-          "url": "https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa"
-        }
-      ],
-      "duration_ms": 177627,
-      "name": "Clap Your Hands For Love",
-      "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Esto Aqui No Acaba",
         "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
       },
@@ -1459,26 +1475,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -1495,6 +1491,26 @@
       "duration_ms": 181726,
       "name": "No Vas A Volver",
       "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1543,6 +1559,30 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Clap Your Hands For Love",
+        "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "CECILLE",
+          "url": "https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa"
+        }
+      ],
+      "duration_ms": 177627,
+      "name": "Clap Your Hands For Love",
+      "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG"
       },
@@ -1567,6 +1607,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
       },
@@ -1579,26 +1635,6 @@
       "duration_ms": 121937,
       "name": "FUEL",
       "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1627,42 +1663,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Dean Mickoski",
-          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "San Junipero Remixes Vol. 1",
         "url": "https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x"
       },
@@ -1679,6 +1679,26 @@
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Filosof\u00eda",
+        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Johan",
+          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
+        }
+      ],
+      "duration_ms": 180918,
+      "name": "Filosof\u00eda",
+      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1703,26 +1723,6 @@
       "duration_ms": 154687,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Filosof\u00eda",
-        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Johan",
-          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
-        }
-      ],
-      "duration_ms": 180918,
-      "name": "Filosof\u00eda",
-      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Eunoia",
-        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
-      },
-      "artists": [
-        {
-          "name": "Leimantour",
-          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Eunoia",
-      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1807,26 +1791,38 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
       },
       "artists": [
         {
-          "name": "Clara Floc",
-          "url": "https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "Light Reaction",
-          "url": "https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x"
-        },
-        {
-          "name": "Gabo Versus",
-          "url": "https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN"
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
         }
       ],
-      "duration_ms": 214416,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk"
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
+      },
+      "artists": [
+        {
+          "name": "Leimantour",
+          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
     }
   ],
   "unique_name": "mint MX",

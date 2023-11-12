@@ -17255,6 +17255,28 @@
     },
     {
       "album": {
+        "name": "On A Trip (with Marten H\u00f8rger)",
+        "url": "https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206998,
+      "name": "On A Trip (with Marten H\u00f8rger)",
+      "url": "https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/1JrGKRGG626YiCc6qR18dW"
       },
@@ -17994,7 +18016,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"

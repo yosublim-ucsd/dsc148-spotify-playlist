@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Lucky Daye
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,644 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,689 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Last Day of Summer](https://open.spotify.com/track/1ba6Ft2EsrsR7JamTjVzNt) | [Deville](https://open.spotify.com/artist/1zqU2C8LQDF0HpZTJoCHaY), [LaBlue](https://open.spotify.com/artist/5nXiyzDKCjXgGXvkqRvdIt) | [Last Day of Summer](https://open.spotify.com/album/5FiILIrYvbJaqdaYt6ktLp) | 2:45 |
 | 50 | [Get Together](https://open.spotify.com/track/4SNYTtR22PfL7UF0pouvFf) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Get Together](https://open.spotify.com/album/2ZwskA00mDrM1aGi1VTCai) | 2:44 |
 
-Snapshot ID: `MCwxMDdjYWZhZDc0YzRkNzk2OTBmMjFkMTQ1NDE2MmYwZjdmNDEzYjEz`
+Snapshot ID: `MCwzMzE3YWY4MDczYzEzZjVmN2M2ZDY0MzFjOWQzZTYxODA3YTJmOWVm`

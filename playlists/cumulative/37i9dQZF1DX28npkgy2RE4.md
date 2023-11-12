@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Tré Burt
 
-430 songs - 1 day 2 hr 27 min
+431 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Don't Want You To Know](https://open.spotify.com/track/3IJjf4p7B7qaKnt93zpm6T) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 3:56 | 2022-10-14 | 2023-10-28 |
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-05-25 | 2023-11-07 |
 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 | 2021-11-12 | 2023-10-23 |
+| [Doobie Bronson](https://open.spotify.com/track/55RwdXfVSWCReqDBioMxVV) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:23 | 2023-10-27 |  |
 | [Dope Queen Blues](https://open.spotify.com/track/5FixijSOYM02IlrVTGm0Z8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:06 | 2021-11-12 | 2022-03-05 |
 | [Dreamer](https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Dreamer](https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb) | 4:54 | 2021-11-12 | 2022-07-29 |
 | [Dried Up River](https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light \(Deluxe Edition\)](https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3) | 3:51 | 2021-11-12 |  |
@@ -423,7 +424,7 @@
 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 | 2021-11-12 |  |
 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 | 2022-07-11 |  |
 | [What A Day \- Edit](https://open.spotify.com/track/5MWHZvCOAFSfxVwAsYtrSj) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Crowhurst's Meme](https://open.spotify.com/album/7zkOd0394lMZtxzohKtvYc) | 4:17 | 2021-11-12 | 2022-07-29 |
-| [What Comes After Certainty](https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:42 | 2023-04-28 |  |
+| [What Comes After Certainty](https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:42 | 2023-04-28 | 2023-11-12 |
 | [What Comes After Certainty](https://open.spotify.com/track/5ZZwQkDUUzsIbSBhnaWJfG) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2021-11-12 | 2023-01-16 |
 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 | 2023-09-08 |  |

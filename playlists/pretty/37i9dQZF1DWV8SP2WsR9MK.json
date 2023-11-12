@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 77759,
+  "num_followers": 77808,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODBhY2UxMmVkOTYxMTk0Mzc4NDJlMGJiMWE2NTI4ZDg4YTgzNTk5",
+  "snapshot_id": "MCwxNjNlNmU2OWVkZmQ2YjU0NDcyNzI1MzJiNjIwOGM5YzI1Yjg2ZDQx",
   "tracks": [
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Imaginary Day",
-        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 584760,
-      "name": "The Heat of the Day",
-      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
+        "name": "Imaginary Day",
+        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 584760,
+      "name": "The Heat of the Day",
+      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
         "name": "We'll Be Together Again",
         "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 286973,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
         "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 386133,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Standard Brands",
+        "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
+      },
+      "artists": [
+        {
+          "name": "Lenny Breau",
+          "url": "https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or"
+        },
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Standard Brands",
-        "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
       "artists": [
         {
-          "name": "Lenny Breau",
-          "url": "https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or"
-        },
-        {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+          "name": "Jimmy Bruno",
+          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
         }
       ],
-      "duration_ms": 348066,
-      "name": "Polka Dots and Moonbeams",
-      "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
+      "duration_ms": 492400,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1255,22 +1271,6 @@
       "duration_ms": 347413,
       "name": "Shape Of Things That Are And Were",
       "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Bruno",
-          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1303,22 +1303,6 @@
       "duration_ms": 280333,
       "name": "Freedom Dance",
       "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
-      },
-      "artists": [
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "For Toddlers Only",
-      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1455,22 +1439,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Early Stan",
         "url": "https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56"
       },
@@ -1571,18 +1539,18 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
       },
       "artists": [
         {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1635,6 +1603,22 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
         "name": "Heartcore",
         "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
       },
@@ -1647,6 +1631,26 @@
       "duration_ms": 371200,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
+      },
+      "artists": [
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Joachim Schoenecker",
+          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1671,26 +1675,6 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
-      },
-      "artists": [
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Joachim Schoenecker",
-          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1831,6 +1815,22 @@
       "duration_ms": 195517,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "What We Do",
+        "url": "https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 396360,
+      "name": "Little Walk",
+      "url": "https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6"
     }
   ],
   "unique_name": "Jazz Guitar Classics",

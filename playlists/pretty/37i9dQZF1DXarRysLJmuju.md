@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,152 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,175 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 |
 | 100 | [Different](https://open.spotify.com/track/5RSl1dMfQNZFv2TuZYGbmF) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Different](https://open.spotify.com/album/2X5j7Nf3LOJgr1YKFTbwTq) | 3:09 |
 
-Snapshot ID: `MCxlMjBlMmZhYTQ4Y2EzYjZiYmRhMjljN2RlZmY5ODQzZmY0OTY2ZGQ3`
+Snapshot ID: `MCxlYTRkNzk2NWM3YTEzMmNjOTFkMzdlNTJhMWJlZDA0ZGM5Njc3ODQw`

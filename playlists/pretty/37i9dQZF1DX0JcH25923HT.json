@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 415004,
+  "num_followers": 415128,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1MTNiM2YzZmQxMzg5MDY3MjY0ZWVhZDVhODU1MmExMzk4M2Q2",
+  "snapshot_id": "MCw2N2M1Yjg1MGYzYTkyMzBjNDUxYjQ0NzU3ZWRiMmU0ODY3ODgwZWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Error 93",
-        "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "Mucha Data",
-      "url": "https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Real G4 Life Vol. 3",
         "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 234271,
       "name": "Hoy (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Error 93",
+        "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "Mucha Data",
+      "url": "https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2327,18 +2327,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "PURPURA",
-        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
+        "name": "Calle Amor",
+        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
         }
       ],
-      "duration_ms": 194181,
-      "name": "PURPURA",
-      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
+      "duration_ms": 218895,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
     }
   ],
   "unique_name": "Trap Rewind",

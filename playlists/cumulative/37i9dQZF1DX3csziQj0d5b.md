@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-578 songs - 1 day 7 hr 25 min
+579 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 | 2022-05-13 | 2023-07-01 |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2022-06-10 | 2022-12-03 |
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-08-11 | 2023-10-28 |
+| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 |  |
 | [How Can I Forget](https://open.spotify.com/track/0ibG3XCJ32Qq9maUY4AViR) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [How Can I Forget](https://open.spotify.com/album/4CzC68DHIUlP0Hc6UGczhx) | 2:57 | 2022-05-23 | 2022-05-30 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-01-03 | 2023-07-01 |
 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 | 2022-07-08 | 2022-12-10 |
@@ -376,7 +377,7 @@
 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 | 2022-12-23 |  |
 | [Oh Baby](https://open.spotify.com/track/6mhYIQwEaxLbDUAYl4SolU) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Oh Baby](https://open.spotify.com/album/2WIxKqVafrmK6qiUIWA3SS) | 2:36 | 2022-04-14 | 2022-04-21 |
 | [Older](https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Balloons](https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX) | 3:20 | 2022-06-03 | 2022-07-26 |
-| [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-08-04 |  |
+| [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-08-04 | 2023-11-12 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2022-04-14 | 2023-07-01 |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-04-14 |  |
 | [Orange Juice](https://open.spotify.com/track/7clKjH2QghB3SmNPi5GuXC) | [Sense](https://open.spotify.com/artist/3yaZAm6FOMbQr8DeeHMPPA) | [Orange Juice](https://open.spotify.com/album/2nPn1v5FeuPePgh6toElCw) | 2:41 | 2022-04-14 | 2022-07-19 |

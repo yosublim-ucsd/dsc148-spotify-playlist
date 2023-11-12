@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 469384,
+  "num_followers": 469450,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWZlODIyYThkNWM2MjIyYjEwNWNiYTZkNGFkM2Q1M2E5MGMyNDQ2",
+  "snapshot_id": "MCwxYjJkZDcyY2JlMzNiNzBjMjk2MDVhOWFiMGMyNjcxZDJhMzZiOTQy",
   "tracks": [
     {
       "added_at": "2023-07-24 22:20:42",
@@ -59,18 +59,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
         {
           "name": "Clairo",
           "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -91,22 +95,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
       "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
         {
           "name": "Clairo",
           "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 188386,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 185172,
-      "name": "21",
-      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+      "duration_ms": 185172,
+      "name": "21",
+      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 207009,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
       "added_at": "2023-07-24 22:20:42",
       "album": {
         "name": "Vampire Weekend",
@@ -1591,6 +1575,22 @@
       "duration_ms": 176466,
       "name": "Campus",
       "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2023-07-21 10:48:21",

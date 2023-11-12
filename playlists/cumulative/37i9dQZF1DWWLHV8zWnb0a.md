@@ -4,7 +4,7 @@
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-219 songs - 16 hr 15 min
+220 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Cross Bones Style](https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:32 | 2022-03-17 | 2022-07-28 |
 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 | 2022-03-17 | 2023-11-08 |
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2022-03-17 |  |
-| [Dirty Blvd.](https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:29 | 2022-03-17 |  |
+| [Dirty Blvd.](https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:29 | 2022-03-17 | 2023-11-12 |
 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 | 2022-03-17 |  |
 | [Disarm \- Remastered](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 | 2022-03-17 | 2022-07-29 |
 | [Do the Mussolini \(Head Kick\)](https://open.spotify.com/track/2Wzj8c6KeIjrj5IKpsXkdH) | [Cabaret Voltaire](https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe) | [The Living Legends](https://open.spotify.com/album/4zKDSxS6OdrKdC4vfE0gzK) | 3:11 | 2022-03-17 | 2022-07-24 |
@@ -89,7 +89,7 @@
 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 | 2022-03-17 |  |
 | [Home](https://open.spotify.com/track/50mKJolpvGLvDYaelNZhK6) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 4:00 | 2022-03-17 | 2022-07-25 |
 | [Horror Head](https://open.spotify.com/track/1SoPOB7wsqbR9wDPU1KapO) | [Curve](https://open.spotify.com/artist/6WYkr1SJofUO79alKPjop0) | [Doppelgänger](https://open.spotify.com/album/7dEWav5lCr5JMptejo2umY) | 3:43 | 2022-03-17 | 2022-07-26 |
-| [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 | 2022-03-17 | 2023-11-10 |
+| [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 | 2022-03-17 |  |
 | [Human Behaviour](https://open.spotify.com/track/6Kz3o55LxMA11GbvFXHFtX) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:12 | 2022-03-17 | 2022-07-29 |
 | [Hurt](https://open.spotify.com/track/4pFnV6aV1bnEDqPDGBlrNp) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 6:13 | 2022-03-17 | 2022-07-12 |
 | [Hurt](https://open.spotify.com/track/27tX58NOpv1YKQ0abW7EPy) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 6:14 | 2022-03-17 | 2022-11-14 |
@@ -112,7 +112,7 @@
 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 | 2022-03-17 |  |
 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 | 2022-03-17 | 2022-07-29 |
 | [Just a Lifetime](https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [The Crushed Velvet Apocalypse](https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm) | 7:46 | 2022-03-17 | 2022-07-05 |
-| [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 | 2022-03-17 |  |
+| [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 | 2022-03-17 | 2023-11-12 |
 | [Jóga](https://open.spotify.com/track/18NehrWLUFK7NPH522YQMQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 5:05 | 2022-03-17 | 2022-07-28 |
 | [Kamata Hollywood City](https://open.spotify.com/track/7iFfA4b3dDFwD8nrisCKpb) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Lucky Jim](https://open.spotify.com/album/7baryMFeiVeaxF9oZ94phc) | 5:09 | 2022-03-17 | 2022-07-29 |
 | [Kantina](https://open.spotify.com/track/6qhQdGUA1fO2YzRXP85EBs) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Fake Train](https://open.spotify.com/album/0s9B9VnN71Msp8Yozx0xCM) | 4:44 | 2022-03-17 | 2022-07-09 |
@@ -219,6 +219,7 @@
 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 | 2022-03-17 |  |
 | [Weeds](https://open.spotify.com/track/7mH8nac0FCdP0FYGwo3OIx) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [The Complete Roadrunner Collection 1993\-2000](https://open.spotify.com/album/108e0G0azaY6tk37IJVmPF) | 4:09 | 2022-03-17 | 2022-07-25 |
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/4j3AXs1NNx6zXFmm6ibYsI) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [The Winding Sheet](https://open.spotify.com/album/7nB7r0yBmVMDJfnADLdMie) | 3:58 | 2022-03-17 | 2022-07-29 |
+| [Where the Wild Roses Grow](https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 \- Remaster\)](https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva) | 3:57 | 2023-02-13 |  |
 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 | 2022-03-17 | 2023-11-03 |
 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 | 2022-03-17 |  |
 | [Wicked Game](https://open.spotify.com/track/1eVYwIlxbOgSiiD0uvEhSy) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/3jw3OeaF1peR1uhDZMwBn6) | 3:53 | 2022-03-17 | 2022-07-29 |

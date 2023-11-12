@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4190383,
+  "num_followers": 4190765,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGUxNWFkNzQ3NjFkNGM3NWI1MzJjYmFkZDQ4ZWUxZjBhMmM0ODEx",
+  "snapshot_id": "MCw5MjI5OGYxNmU0M2Q5YzdhZjNjOTE5MWYxOGM3ZmYxNjQzOWRhZDk5",
   "tracks": [
     {
       "added_at": "2023-10-26 21:34:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-26 21:34:08",
       "album": {
-        "name": "Commercial",
-        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
-    },
-    {
-      "added_at": "2023-10-26 21:34:08",
-      "album": {
         "name": "Programaton",
         "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 252693,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
+    },
+    {
+      "added_at": "2023-10-26 21:34:08",
+      "album": {
+        "name": "Commercial",
+        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2023-10-26 21:34:08",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-26 21:34:08",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
-    },
-    {
-      "added_at": "2023-10-26 21:34:08",
-      "album": {
         "name": "Elefante",
         "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 244760,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
+    },
+    {
+      "added_at": "2023-10-26 21:34:08",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2023-10-26 21:34:08",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-10-26 21:34:08",
       "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2023-10-26 21:34:08",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2023-10-26 21:34:08",
-      "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2023-10-26 21:34:08",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-26 21:34:08",
       "album": {
-        "name": "Sin Documentos",
-        "url": "https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/6eOT73H5zfEwTCe1Y0FDCc"
-    },
-    {
-      "added_at": "2023-10-26 21:34:08",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2023-10-26 21:34:08",
+      "album": {
+        "name": "Sin Documentos",
+        "url": "https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/6eOT73H5zfEwTCe1Y0FDCc"
     },
     {
       "added_at": "2023-10-26 21:34:08",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-26 21:34:08",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2023-10-26 21:34:08",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-10-26 21:34:08",
       "album": {
-        "name": "Material defectuoso",
-        "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 516666,
-      "name": "Si te vas...",
-      "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2023-10-26 21:34:08",
@@ -1623,6 +1607,22 @@
       "duration_ms": 206373,
       "name": "Esa noche",
       "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
+    },
+    {
+      "added_at": "2023-10-26 21:34:08",
+      "album": {
+        "name": "Material defectuoso",
+        "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 516666,
+      "name": "Si te vas...",
+      "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
     },
     {
       "added_at": "2023-10-26 21:34:08",

@@ -4,7 +4,7 @@
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Taylor Swift
 
-823 songs - 1 day 18 hr 30 min
+824 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 | 2023-03-18 |
 | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9) | 3:11 | 2022-08-12 | 2022-09-03 |
 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 | 2023-05-26 | 2023-08-05 |
+| [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 |  |
 | [Not Alone \- from Devotion](https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Not Alone \(from Devotion\)](https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg) | 4:11 | 2022-11-12 | 2023-01-21 |
 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d) | 2:57 | 2022-11-29 | 2022-12-10 |
 | [numb \(feat\. blackbear\)](https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\)](https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt) | 2:57 | 2022-09-30 | 2022-10-15 |
@@ -758,7 +759,7 @@
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-14 | 2023-09-02 |
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-09 | 2023-08-26 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-08-20 |
-| [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 | 2023-10-23 |  |
+| [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 | 2023-10-23 | 2023-11-12 |
 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 | 2023-08-04 | 2023-10-10 |
 | [Uh Huh](https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 3:02 | 2023-09-08 | 2023-10-24 |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-29 |  |

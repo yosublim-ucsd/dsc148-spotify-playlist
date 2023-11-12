@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 51847,
+  "num_followers": 51938,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmQ0NzNlODM0ZDVjMzEzZmRhNDM5MmRlMjY5Njk3MWUxY2JlMDNk",
+  "snapshot_id": "MCw3MmY3ZjE1OGRlMWQ5Yjk3ZThkODlkNDVmMWVmMWZjMzFiMjYyZGVk",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Only God Can Save Me",
         "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 178909,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "These Same Skies (Live)",
-        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 274534,
-      "name": "That's The Power - Live",
-      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 274534,
+      "name": "That's The Power - Live",
+      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "B'ola (Live)",
         "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
       },
@@ -955,46 +975,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Never Ending Love",
         "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 174995,
       "name": "Never Ending Love",
       "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 176379,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "The King Is Coming",
         "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 466666,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 176379,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Yes And Amen",
+        "url": "https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0"
+      },
+      "artists": [
+        {
+          "name": "Tope Alabi",
+          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
+        }
+      ],
+      "duration_ms": 405840,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -1171,42 +1187,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Born of God",
-        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 332573,
-      "name": "Fix My Eyes on You",
-      "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Yes And Amen",
-        "url": "https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0"
-      },
-      "artists": [
-        {
-          "name": "Tope Alabi",
-          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
-        }
-      ],
-      "duration_ms": 405840,
-      "name": "You Are Worthy",
-      "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Yhwh",
         "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 583858,
       "name": "Yhwh",
       "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Born of God",
+        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 332573,
+      "name": "Fix My Eyes on You",
+      "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        }
+      ],
+      "duration_ms": 552000,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
         "name": "Daily (Remix)",
         "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 195428,
       "name": "Daily - Remix",
       "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Eziashi",
-          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
-        },
-        {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
-        }
-      ],
-      "duration_ms": 552000,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "OL\u00d9GB\u00c8J\u00c0",
         "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 888000,
       "name": "OL\u00d9GB\u00c8J\u00c0",
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2023-11-03 00:01:00",

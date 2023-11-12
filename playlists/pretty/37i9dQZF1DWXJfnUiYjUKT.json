@@ -1,13 +1,29 @@
 {
   "description": "The very best in new music from around the world. Cover: Dua Lipa",
-  "num_followers": 384769,
+  "num_followers": 384745,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmQwMzk1YzE1NTQ2NDNiN2I0MGYzMjk1MmQ3MWUxOTlmYTc3NDUx",
+  "snapshot_id": "MCw0OWUwYTg2NTgzZDg1ZDNmZjhiNDVlN2E5MGUyM2Q0NGVjMTg1YjJl",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
@@ -1527,8 +1543,8 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Big Trouble (with Tei Shi)",
-        "url": "https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3"
+        "name": "Big Trouble",
+        "url": "https://open.spotify.com/album/1WG4YHGPu2SjY8fUuC0Em6"
       },
       "artists": [
         {
@@ -1541,8 +1557,8 @@
         }
       ],
       "duration_ms": 230488,
-      "name": "Big Trouble (with Tei Shi)",
-      "url": "https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu"
+      "name": "Big Trouble",
+      "url": "https://open.spotify.com/track/1WdfobPIRp2fd958YM50Vl"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1583,7 +1599,7 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Higher Power (feat. Magnus)",
+        "name": "Higher Power",
         "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
       },
       "artists": [
@@ -1601,7 +1617,7 @@
         }
       ],
       "duration_ms": 208601,
-      "name": "Higher Power (feat. Magnus)",
+      "name": "Higher Power",
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
     },
     {

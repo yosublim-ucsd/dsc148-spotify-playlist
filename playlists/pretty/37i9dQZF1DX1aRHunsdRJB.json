@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10148,
+  "num_followers": 10153,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2011",
-        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Guh Down",
-      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Yuh Bad (No Stressing)",
         "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194222,
       "name": "Yuh Bad (No Stressing)",
       "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2011",
+        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Guh Down",
+      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Feeling It",
-        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
-      },
-      "artists": [
-        {
-          "name": "Swappi",
-          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
-        },
-        {
-          "name": "Ultimate Rejects",
-          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "Feeling It",
-      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Toatin Riddim",
         "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Feeling It",
+        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
+      },
+      "artists": [
+        {
+          "name": "Swappi",
+          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
+        },
+        {
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+        }
+      ],
+      "duration_ms": 247272,
+      "name": "Feeling It",
+      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
     }
   ],
   "unique_name": "Soca Bashment",

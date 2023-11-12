@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,755 likes - 70 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,930 likes - 70 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 56 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
 | 57 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 |
 | 58 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
-| 59 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
-| 60 | [Para Que Entre o Rei \- Ao Vivo](https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:38 |
-| 61 | [Os Sonhos de Deus \(feat\. Lukão Carvalho & Eli Soares\) \- Ao Vivo](https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:08 |
+| 59 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
+| 60 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
+| 61 | [Para Que Entre o Rei \- Ao Vivo](https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:38 |
 | 62 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
-| 63 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
+| 63 | [Os Sonhos de Deus \(feat\. Lukão Carvalho & Eli Soares\) \- Ao Vivo](https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:08 |
 | 64 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 |
 | 65 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
 | 66 | [Oh Quão Lindo Esse Nome É \(What a Beautiful Name\) \[Sony Music Live\]](https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Kemuel \(Sony Music Live\)](https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 70 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 
-Snapshot ID: `MCw5ZDY3M2E4YTgwMDZlY2E3NDVmOGQ5MjQ3OTJkYzM2MWFiZjBiMzJk`
+Snapshot ID: `MCxlZTZlMGMxNWM4YjhiY2UwNGI4YzNkZTAxMTNiY2Q4YWQ5NTY0MzVm`

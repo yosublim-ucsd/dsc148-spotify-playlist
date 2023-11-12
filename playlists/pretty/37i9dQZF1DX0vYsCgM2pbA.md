@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,416 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,510 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 55 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 |
 | 56 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 |
 | 57 | [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 |
-| 58 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 |
-| 59 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
+| 58 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
+| 59 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 |
 | 60 | [Now U Do \(Carlita Remix\) \- Edit](https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Now U Do \(Carlita Remix\)](https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi) | 3:33 |
 
-Snapshot ID: `MCwwZjc4N2Y4OWU1YzgwMzNlY2Q5ZmViMzdlMTVlOWZiZWRiOTZlZTlk`
+Snapshot ID: `MCwzN2Y3ZGU1NTU5MjRiNjZlZDA0ZDg4NTA4MTNiZjQyN2NhZTk1Yjcy`

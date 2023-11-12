@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12890,
+  "num_followers": 12955,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTYxNTFlYzM4OTNjZDM3NmYwM2UxNzQxOTNmNGRlMWYxMzgyODQy",
+  "snapshot_id": "MCxhYjIwYTMyOWNmMGVjMjMzNDU0Y2ExNzZhYjViYzUxNTUxOTM5NTI1",
   "tracks": [
     {
       "added_at": "2023-11-10 13:58:51",
@@ -35,22 +35,6 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "AluSina",
-        "url": "https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "AluSina",
-      "url": "https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
+        "name": "AluSina",
+        "url": "https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "AluSina",
+      "url": "https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -495,6 +495,30 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        }
+      ],
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 185466,
       "name": "Pagar Pra Ter",
       "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
-        "name": "Te Vejo Mais Tarde",
-        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "\u00c9ffe",
-          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
-        }
-      ],
-      "duration_ms": 114117,
-      "name": "Te Vejo Mais Tarde",
-      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -611,6 +611,42 @@
       "duration_ms": 216666,
       "name": "Quando c\u00ea vem",
       "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
+      },
+      "artists": [
+        {
+          "name": "Kota Manda",
+          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Erick Lobato",
+          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
+        },
+        {
+          "name": "VITTAU",
+          "url": "https://open.spotify.com/artist/76cNffCWg6mQuHWARTlhRB"
+        },
+        {
+          "name": "TOCS",
+          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -735,22 +771,22 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "Me Deixa",
-        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
       "artists": [
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
         },
         {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 149351,
-      "name": "Me Deixa",
-      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -771,26 +807,6 @@
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -867,6 +883,26 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
         "name": "Deixa Falar",
         "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
       },
@@ -899,6 +935,26 @@
       "duration_ms": 205000,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/78x0Oo9pN4Ft9PyFPYbIS8"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 177115,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/2vxlmjVmQJzYqo5zOcbDP5"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -947,26 +1003,6 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -987,22 +1023,22 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/78x0Oo9pN4Ft9PyFPYbIS8"
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
       "artists": [
         {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
         }
       ],
-      "duration_ms": 177115,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/2vxlmjVmQJzYqo5zOcbDP5"
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -1023,42 +1059,6 @@
       "duration_ms": 131320,
       "name": "Enquanto o tempo passa",
       "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
-      },
-      "artists": [
-        {
-          "name": "Kota Manda",
-          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        },
-        {
-          "name": "Erick Lobato",
-          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
-        },
-        {
-          "name": "VITTAU",
-          "url": "https://open.spotify.com/artist/76cNffCWg6mQuHWARTlhRB"
-        },
-        {
-          "name": "TOCS",
-          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
     }
   ],
   "unique_name": "pique afrobeats",

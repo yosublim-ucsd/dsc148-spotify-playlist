@@ -1,12 +1,12 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 455383,
+  "num_followers": 455701,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2IxZmE5MWUzNzYwODg4YTVmMTM4YTMwNDFlYzY0OGE1ZTc1ZThh",
+  "snapshot_id": "MCwwNDM0MzM0MDgzOTc3ZDkyNWNhYWZiYzYwN2YxZThkZjMxNTIyZDU5",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Cinematics (Expanded Edition)",
         "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 171880,
-      "name": "parents",
-      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Now You See Inside",
-        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL"
       },
       "artists": [
         {
-          "name": "SR-71",
-          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
+      "duration_ms": 220146,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Now You See Inside",
+        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
+      },
+      "artists": [
+        {
+          "name": "SR-71",
+          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 153931,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/5IzJBDURDhsfIWXE2kGvWb"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Check Yes, Juliet",
-      "url": "https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "leave me for dead",
-        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "leave me for dead",
-      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Talon Of The Hawk",
         "url": "https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 264676,
       "name": "Twin Size Mattress",
       "url": "https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
     },
     {
       "added_at": "2023-11-10 05:00:00",

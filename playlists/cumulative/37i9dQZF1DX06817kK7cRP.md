@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-148 songs - 6 hr 47 min
+150 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
 | [Central Park](https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Central Park](https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5) | 2:43 | 2023-06-20 |  |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-01-12 |  |
-| [Chardonnay Kisses](https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Chardonnay Kisses](https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48) | 2:32 | 2023-01-13 |  |
+| [Chardonnay Kisses](https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Chardonnay Kisses](https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48) | 2:32 | 2023-01-13 | 2023-11-12 |
 | [Cherry Beach](https://open.spotify.com/track/1s9SHfXSkXGGCt5FRmPdmd) | [PRGMAT](https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37) | [Cherry Beach](https://open.spotify.com/album/2BfhwrpcSXq99iMGeytEqw) | 2:57 | 2023-01-12 | 2023-01-18 |
 | [Circles](https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:05 | 2023-01-12 |  |
 | [citynights](https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx) | [Ny Cic](https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9) | [citynights](https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF) | 2:14 | 2023-03-16 |  |
@@ -48,7 +48,7 @@
 | [Full Wet's](https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Full Wet's](https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs) | 2:20 | 2023-04-13 | 2023-06-02 |
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 |  |
 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 | 2023-01-12 |  |
-| [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 |  |
+| [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 | 2023-11-12 |
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 | 2023-09-29 |
@@ -100,6 +100,7 @@
 | [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 |  |
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |
+| [Orle](https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Orle](https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm) | 3:06 | 2023-11-10 |  |
 | [overtake on the outside](https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [overtake on the outside](https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW) | 2:31 | 2023-08-24 |  |
 | [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 | 2023-10-27 |  |
 | [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 | 2023-02-02 | 2023-09-22 |
@@ -154,6 +155,7 @@
 | [What Now](https://open.spotify.com/track/3XC4cQ8qffBghftJ7W2QKC) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [What Now](https://open.spotify.com/album/7HorxGWOCHa1pLBH0wE8Iz) | 2:44 | 2023-01-12 |  |
 | [When You're In Love](https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB) | [Intel Music](https://open.spotify.com/artist/5FWeW4F0YAYHYqzW6iQdWA), [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lithography Vol\. 1](https://open.spotify.com/album/3YSXfVKvNTn58sbkhDNPdb) | 7:21 | 2023-01-12 |  |
 | [Willow Tree](https://open.spotify.com/track/2aL3zAplBlchkeDypG2f1U) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Willow Tree](https://open.spotify.com/album/5kkHs21NeN1Gf0wApHdgMU) | 2:15 | 2023-01-12 |  |
+| [Windless](https://open.spotify.com/track/0CiZ6qq5ntSvr9tNejgTp0) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Windless](https://open.spotify.com/album/16HOKv5OEH73eeo3ulWT76) | 2:39 | 2023-11-10 |  |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2023-01-12 |  |
 | [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 | 2023-02-23 |  |
 

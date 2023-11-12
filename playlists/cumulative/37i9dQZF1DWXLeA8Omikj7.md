@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-872 songs - 2 day 14 hr 16 min
+873 songs - 2 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [Superman Lost](https://open.spotify.com/track/5tJwqIURhPZInrFxWT0cGB) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Damage Control](https://open.spotify.com/album/5Nrx0GEDuLwrQcEvb1IM8l) | 2:08 | 2019-05-26\* | 2020-10-22 |
 | [Support](https://open.spotify.com/track/2SUd3ORLlbQKeIXMmKDMqk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp) | 4:10 | 2019-06-21 | 2020-08-26 |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2020-11-13 | 2021-03-09 |
-| [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 |  |
+| [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 | 2023-11-12 |
 | [Swans On Drums](https://open.spotify.com/track/0v6yGtEgzbrJKgbxPlX47H) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Swans On Drums](https://open.spotify.com/album/0DEL8v3HSCHNAuoAblvsng) | 5:58 | 2021-03-08 | 2022-07-06 |
 | [Sweat \(Soulji Remix\)](https://open.spotify.com/track/2k6xm7hmwxPINqDyYXcORq) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Sweat](https://open.spotify.com/album/2cqNfvODYAYYMQh2lRJyA6) | 4:40 | 2019-05-26\* | 2020-08-26 |
 | [Sweet Apocalypse](https://open.spotify.com/track/2u5OxLRtgdazMVLcRev2ds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Last Night \(Bonus Tracks Edition\)](https://open.spotify.com/album/3Aw6wlxCHzSziC4ZNaF4Vd) | 5:18 | 2019-06-23 | 2022-04-18 |
@@ -872,6 +872,7 @@
 | [Wonda](https://open.spotify.com/track/2QEpeCQjrNsx2czYpi955l) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [STROBE](https://open.spotify.com/album/2bSpW7nlrEzNUPERyU5fqX) | 2:45 | 2023-10-27 |  |
 | [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-09 | 2022-10-16 |
 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 | 2022-09-09 |  |
+| [XX Intro](https://open.spotify.com/track/46MzZcKKqhiAyNjDQnoIsl) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/7Bp97g4nrxVcW8kGNffnwy) | 3:07 | 2023-11-10 |  |
 | [XX Intro \- Original Mix](https://open.spotify.com/track/6PBjqYBDA09CG7WJm4sXKF) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/4BIN17Mw2Bh1fbvQ5Egsii) | 3:07 | 2019-05-26\* | 2023-11-05 |
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 |  |

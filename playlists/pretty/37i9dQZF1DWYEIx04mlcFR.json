@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Humbe en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 64724,
+  "num_followers": 64781,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGNkYTYxN2E4Yzg0NjZhY2E1NjhhMzMwYzMwNTQzMDI2ZjExM2Yz",
+  "snapshot_id": "MCwxZGM2YzVkNmRkYTk2OWJiZGNlZjE1Nzk2MDBlYjhmYjQwODU4Mjky",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "cartulinas de colores",
-        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
+        "name": "Agua Caliente",
+        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
       },
       "artists": [
         {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 159765,
-      "name": "cartulinas de colores",
-      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+      "duration_ms": 200339,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -887,34 +883,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Agua Caliente",
-        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
+        "name": "cartulinas de colores",
+        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
       },
       "artists": [
         {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "rangerover",
-        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
-      },
-      "artists": [
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 186945,
-      "name": "rangerover",
-      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+      "duration_ms": 159765,
+      "name": "cartulinas de colores",
+      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
+        "name": "rangerover",
+        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 186945,
+      "name": "rangerover",
+      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
         "name": "contigo me siento en casa",
         "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
       },
@@ -947,38 +947,6 @@
       "duration_ms": 171725,
       "name": "contigo me siento en casa",
       "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "hoy no me encuentro para nadie",
-        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 164540,
-      "name": "hoy no me encuentro para nadie",
-      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "odiarte",
-        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "odiarte",
-      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -999,6 +967,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
         "name": "Inhabitable",
         "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "hoy no me encuentro para nadie",
+        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 164540,
+      "name": "hoy no me encuentro para nadie",
+      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Brillantina",
-        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Brillantina",
-      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "BITCH3",
         "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 144554,
       "name": "BITCH3",
       "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "Brillantina",
+        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "Brillantina",
+      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Llamadas Vac\u00edas",
-        "url": "https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 143474,
-      "name": "Llamadas Vac\u00edas",
-      "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "Yo S\u00e9 (Aceptaci\u00f3n)",
         "url": "https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 182357,
       "name": "Yo S\u00e9 (Aceptaci\u00f3n)",
       "url": "https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "Llamadas Vac\u00edas",
+        "url": "https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 143474,
+      "name": "Llamadas Vac\u00edas",
+      "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "estrella / nadie",
-        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "estrella",
-      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "nikes azules",
         "url": "https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 173700,
       "name": "nikes azules",
       "url": "https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "estrella / nadie",
+        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "estrella",
+      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
     },
     {
       "added_at": "2023-10-21 01:26:40",

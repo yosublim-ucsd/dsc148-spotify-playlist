@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 649989,
+  "num_followers": 650431,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWI0NDJlYzk1ZTZjOTkxNmFhMjMzYjI1YTE0ZTFjNjg2YjFlYWI3",
+  "snapshot_id": "MCwyYzQxMWUzYzVjNGVhMDQ2MjMwNTJjZjRhMGJjNTdkMGU3ZDVmNjE5",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -959,22 +959,26 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "Olvidarte de Mi Jamas Podras",
+        "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         },
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Taweno",
+          "url": "https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 193358,
+      "name": "Olvidarte de Mi Jamas Podras",
+      "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -999,26 +1003,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Olvidarte de Mi Jamas Podras",
-        "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
       "artists": [
         {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
         },
         {
-          "name": "Taweno",
-          "url": "https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 193358,
-      "name": "Olvidarte de Mi Jamas Podras",
-      "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Si Pudiera Tenerte - Camina y Ven",
+        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "duration_ms": 348876,
+      "name": "Si Pudiera Tenerte - Camina y Ven",
+      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Ferxxo 100",
         "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Si Pudiera Tenerte - Camina y Ven",
-        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        }
-      ],
-      "duration_ms": 348876,
-      "name": "Si Pudiera Tenerte - Camina y Ven",
-      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
     },
     {
       "added_at": "2023-11-10 03:00:00",

@@ -10158,10 +10158,28 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 260157,
       "name": "Gloworm",
       "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
+    },
+    {
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/696t6KSfRJzMELbpHvKEaX"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260157,
+      "name": "Gloworm",
+      "url": "https://open.spotify.com/track/3rfon8g6edGAA0pNcsXOQV"
     },
     {
       "album": {
@@ -16681,7 +16699,7 @@
         },
         {
           "name": "David Quinn",
-          "url": "https://open.spotify.com/artist/661F78dWvuJPrBcctKNV6v"
+          "url": "https://open.spotify.com/artist/05hDa7a0iBVfUJBwOHoMYC"
         }
       ],
       "date_added": "2023-11-08",

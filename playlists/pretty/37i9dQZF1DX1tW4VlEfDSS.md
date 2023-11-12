@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,359 likes - 148 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,407 likes - 148 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 71 | [The One](https://open.spotify.com/track/0EPeQmfdmMgt2enWCYarSS) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [RoRoe](https://open.spotify.com/artist/4MyqYq005M8JuFDJzFd8fl) | [The One](https://open.spotify.com/album/79I0xN9s2wwihXm6Fxv1pU) | 6:42 |
 | 72 | [Sanctuary](https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO) | [Love And Dancing](https://open.spotify.com/album/7yCIoLAcNR8xcR8CeNyWcd) | 5:35 |
 | 73 | [Happy Song \- Kenny Dope Remix](https://open.spotify.com/track/0A0lTBuwdZsrYrWq6z0cWq) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Happy Song \(Kenny Dope Remix\)](https://open.spotify.com/album/6Sc48tGBYJGTjjoZDK8pD7) | 3:57 |
-| 74 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 |
+| 74 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 |
 | 75 | [God Made Me Funky \- David Morales Kings of House NYC Radio Edit](https://open.spotify.com/track/4Cxcyy2Ji7XNvbqnJNKhLZ) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Aaron K\. Gray](https://open.spotify.com/artist/6TgzrtBwlDUTEcYLF8corT) | [God Made Me Funky \(David Morales Kings of House NYC Radio Edit\)](https://open.spotify.com/album/2m6a9SR7ikwwOGFgFNNyKT) | 2:56 |
 | 76 | [Feeling Good \(feat\. Shayee\)](https://open.spotify.com/track/4Q6vgCJeAbDxtJ4b3k2DWT) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Shayee](https://open.spotify.com/artist/1IyKazsRpLuvWbdNppDWD9) | [Feeling Good \(feat\. Shayee\)](https://open.spotify.com/album/1R6o5isIYF5dE7haoC1VTH) | 2:48 |
 | 77 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 147 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go \(Remixes\)](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 148 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
 
-Snapshot ID: `MCw5YjNlODM1MWU3MWY2N2Q3ODY2ODgyYWRhMzU5MThmMDg3Yjc5OGM2`
+Snapshot ID: `MCxlMmZlYWZkZDUzZDcyYTY1MDllNGEwMGIwN2EyZWMxYWE5N2ZiZDg5`

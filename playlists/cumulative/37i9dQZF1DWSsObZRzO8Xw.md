@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 | 2023-11-09 |
+| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 |  |
 | [1\-800\-GHOST\-DANCE](https://open.spotify.com/track/135UPaNucXPVEKvwdRczfM) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:44 | 2021-10-15 | 2022-05-21 |
 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 | 2021-10-15 | 2023-08-30 |
 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 | 2023-08-09 |  |
@@ -53,7 +53,7 @@
 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 | 2021-10-15 |  |
 | [El Exilio de Godomar](https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc) | [Kinder](https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9) | [Migraciones](https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1) | 4:09 | 2021-10-15 |  |
 | [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 | 2021-10-15 |  |
-| [El sol es un holgazán](https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la tarea](https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc) | 2:21 | 2021-10-15 |  |
+| [El sol es un holgazán](https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la tarea](https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc) | 2:21 | 2021-10-15 | 2023-11-12 |
 | [Electronic Girl](https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW) | [Chinese Football](https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk) | [Here comes a new challenger!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7) | 5:10 | 2023-08-09 |  |
 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 | 2021-10-15 |  |
 | [Fiftzeen](https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY) | 3:02 | 2022-05-20 |  |

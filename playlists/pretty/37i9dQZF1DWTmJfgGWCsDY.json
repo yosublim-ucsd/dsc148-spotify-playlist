@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 2570,
+  "num_followers": 2576,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmFjYWJiMTE3MjQ5NDc4MWUwNjQ5ZGE3MzFmNzRiZjU3NjYxNTJk",
+  "snapshot_id": "MCxlZDZhMTQ0OTg1MTlmMjJiNzdlMjhlZWIxZTljM2NlYTVmZjY5Y2I0",
   "tracks": [
     {
       "added_at": "2023-09-14 20:59:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
         "name": "Kama Ujui Utajua",
         "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 239046,
       "name": "Kama Ujui Utajua",
       "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
-        }
-      ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
-      },
-      "artists": [
-        {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Mr Dj",
         "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
       },
@@ -739,6 +719,22 @@
       "duration_ms": 313074,
       "name": "Mr Dj",
       "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
       "artists": [
         {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
     },
     {
       "added_at": "2023-09-14 20:59:00",

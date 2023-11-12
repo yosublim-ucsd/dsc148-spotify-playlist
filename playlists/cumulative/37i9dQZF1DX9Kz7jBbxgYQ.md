@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-215 songs - 12 hr 8 min
+217 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [HUM](https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [HUM](https://open.spotify.com/album/1CgDmthgQr99ZlJEwDpCft) | 3:23 | 2022-07-15 | 2022-09-02 |
 | [I Could Save You](https://open.spotify.com/track/6itdaQh0oR32nRC5gcpP8q) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:47 | 2022-09-01 | 2022-11-03 |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-12-28 |  |
-| [Ishq Di Chaawaan](https://open.spotify.com/track/32QciyqHLkDbIfSMwZ4vaF) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/3wCkTerpj85FLiecQwQnsJ) | 3:45 | 2022-05-20 |  |
+| [Ishq Di Chaawaan](https://open.spotify.com/track/16m3dpTc9m7TN2Lxdt1Jco) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/5cM7uX9PBIHPtBI2QbUjDv) | 3:45 | 2023-11-06 |  |
+| [Ishq Di Chaawaan](https://open.spotify.com/track/32QciyqHLkDbIfSMwZ4vaF) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/3wCkTerpj85FLiecQwQnsJ) | 3:45 | 2022-05-20 | 2023-11-12 |
 | [It'll Be Alright](https://open.spotify.com/track/2hBZiD9FNe1B2KWazQ6PpA) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [It'll Be Alright](https://open.spotify.com/album/6ey6At5pDT8X1fIaSaIbsf) | 4:25 | 2022-11-02 | 2023-01-13 |
 | [Jaadugar](https://open.spotify.com/track/0gmEt2nKOssVRStyUmjSpE) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/43iHptEDCmyn1WOQ40P7w4) | 3:12 | 2022-12-19 | 2023-01-28 |
 | [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-01-23 | 2023-07-15 |
@@ -208,7 +209,8 @@
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 |  |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-24 | 2023-09-09 |
 | [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 | 2023-01-13 |
-| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2022-12-28 |  |
+| [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-06 |  |
+| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2022-12-28 | 2023-11-12 |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-08-11 | 2023-09-09 |
 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 | 2022-05-20 | 2023-02-11 |
 | [Valley of the Hills](https://open.spotify.com/track/4WTXH3F4P3vHmRbpZeTYn3) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Trey Schafer](https://open.spotify.com/artist/091DrNc7RWkJYwVFI9aA8X) | [Valley of the Hills](https://open.spotify.com/album/1wY4EpeDljm1P4zJ2ls8s6) | 2:29 | 2022-05-20 | 2022-07-16 |

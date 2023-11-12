@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 885132,
+  "num_followers": 885343,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzFiZTgwN2EyNDZhMDhjYmRkODA0OGRhZTkzNzc0NDJiMjE2YWMz",
+  "snapshot_id": "MCw4YTBmN2MxN2I0MjE1NjE4M2RlNzQyNGNmYmI4OTI0ZjQ0NDhhN2Y5",
   "tracks": [
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1145,26 +1145,6 @@
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
     },
     {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "ASQUEROSO",
-        "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "ZECCA",
-          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "ASQUEROSO",
-      "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
-    },
-    {
       "added_at": "2023-10-27 22:02:54",
       "album": {
         "name": "LOCO X PERREARTE",
@@ -1183,6 +1163,26 @@
       "duration_ms": 212024,
       "name": "LOCO X PERREARTE",
       "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "ASQUEROSO",
+        "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "ASQUEROSO",
+      "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
     },
     {
       "added_at": "2023-10-20 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,863 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,032 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 75 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 |
 
-Snapshot ID: `MCxjY2FmZDFhNzA5ZTc1MWVjYjBhNGU3ZmJlYTFiZjg0MDgzMmMyYWM4`
+Snapshot ID: `MCw2MjIyOTVkOWE5NDlhOGM1ZDAxNGJmY2U5MzM4MmU5MzVkMzY5Yjdl`

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 172184,
+  "num_followers": 172211,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTA4N2Y0YzcyMDdiNmJjNDdkYzVjZjNlNjg5ODgyMDI3MTRkNDc3",
+  "snapshot_id": "MCw5OTM4NmZiZjk2ZGZiYzY1MTI2ZDcyYTA0YTBmNTUxYTEzNWIxODJi",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Am\u00e9rica Supers\u00f3nica",
-        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Lo Mejor, Lo Peor",
-      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Am\u00e9rica Supers\u00f3nica",
+        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Lo Mejor, Lo Peor",
+      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "I'm Your Empress Of",
-        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "PSILOCIBINA",
         "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Bah\u00eda Margarita",
         "url": "https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 237652,
       "name": "Daikiri",
       "url": "https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Canciones",
         "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
       },
@@ -1595,8 +1579,8 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
       },
       "artists": [
         {
@@ -1604,9 +1588,25 @@
           "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+      "duration_ms": 221877,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
     },
     {
       "added_at": "2023-10-12 20:02:07",

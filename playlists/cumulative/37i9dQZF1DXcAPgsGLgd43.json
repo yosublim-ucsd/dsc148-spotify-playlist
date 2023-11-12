@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Bim Boom Bam",
+        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144023,
+      "name": "Bim Boom Bam",
+      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
+      "album": {
         "name": "Brisas Del Mar",
         "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 136586,
       "name": "Carioca",
       "url": "https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1"

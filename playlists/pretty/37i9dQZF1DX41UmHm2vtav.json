@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 449099,
+  "num_followers": 449371,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5",
+  "snapshot_id": "MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1",
   "tracks": [
     {
       "added_at": "2023-10-27 03:03:00",
@@ -435,6 +435,30 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Fica Tudo Bem (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Fica Tudo Bem - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
         "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 160961,
       "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
       "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Fica Tudo Bem (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Fica Tudo Bem - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 172986,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+      },
+      "artists": [
+        {
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1339,22 +1359,22 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+        "name": "Presente do Mar",
+        "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
       },
       "artists": [
         {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
         },
         {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+          "name": "Reis",
+          "url": "https://open.spotify.com/artist/1FPeNJhA9trW4zwYZOjvwL"
         }
       ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
+      "duration_ms": 177516,
+      "name": "Presente do Mar",
+      "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1379,26 +1399,6 @@
       "duration_ms": 161904,
       "name": "Um Erro (Malifoo, Voltech Remix)",
       "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Presente do Mar",
-        "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
-      },
-      "artists": [
-        {
-          "name": "Bolth",
-          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
-        },
-        {
-          "name": "Reis",
-          "url": "https://open.spotify.com/artist/1FPeNJhA9trW4zwYZOjvwL"
-        }
-      ],
-      "duration_ms": 177516,
-      "name": "Presente do Mar",
-      "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+        "name": "Certeza - Zabot Remix",
+        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
         {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
         }
       ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+      "duration_ms": 181500,
+      "name": "Certeza - Zabot Remix",
+      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
     }
   ],
   "unique_name": "Festa na Praia",

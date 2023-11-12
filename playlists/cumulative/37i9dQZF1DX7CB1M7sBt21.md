@@ -4,11 +4,11 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-199 songs - 9 hr 44 min
+200 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Day 2 Nights](https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou) | 2:18 | 2022-07-28 |  |
+| [1 Day 2 Nights](https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou) | 2:18 | 2022-07-28 | 2023-11-12 |
 | [1 Day 2 Nights](https://open.spotify.com/track/7bRu6qrKsJlwbxf04aZiTT) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4HOViEGgltWnwKliaJHX1K) | 2:18 | 2021-11-19 | 2022-07-27 |
 | [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 | 2022-07-28 |  |
 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 | 2022-07-28 | 2023-10-13 |
@@ -201,6 +201,7 @@
 | [Weekend Vibe \- Alle Farben Remix](https://open.spotify.com/track/7KQsodQieHLjpQVowtlIKt) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Weekend Vibe \(Alle Farben Remix\)](https://open.spotify.com/album/5ZXshhkfCAGsNB0qFwMTpp) | 2:39 | 2021-11-19 | 2023-11-03 |
 | [We’re The Same‬‬](https://open.spotify.com/track/4rJcxFOljjd2sqfgIjksTI) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [We’re The Same‬‬](https://open.spotify.com/album/53bjO90kier9RYpX6GuNSJ) | 2:54 | 2021-11-19 | 2022-11-13 |
 | [what would you do? \- Galantis Remix](https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [what would you do? \(Galantis Remix\)](https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu) | 2:41 | 2022-07-15 |  |
+| [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-09 |  |
 | [Who Am I](https://open.spotify.com/track/6ZUk5fwY2nDy4QyStdluyb) | [Enzo Ingrosso](https://open.spotify.com/artist/6F1Ynxvudm3avEoQ1sdWq2), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Who Am I](https://open.spotify.com/album/4DaCYbpboG6H5nOBSveMJ3) | 3:27 | 2021-11-19 | 2022-07-29 |
 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 | 2021-11-19 |  |
 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 | 2021-11-19 |  |

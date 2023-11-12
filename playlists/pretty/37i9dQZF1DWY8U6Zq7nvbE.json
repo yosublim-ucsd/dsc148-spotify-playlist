@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133300,
+  "num_followers": 1133298,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGE4M2Y4ZWRkYjYyOTQ5MDU4YzE0ODNmNjQzYjI2OWJmNWU0YWRl",
+  "snapshot_id": "MCwyMjhlYzJmNzlmNjQzYWIyMzEzMzJmMDljZjU1NmMwYzU0NDQ3N2Vj",
   "tracks": [
     {
       "added_at": "2023-10-27 13:36:12",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
+        "name": "Sex is on fire",
+        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 163833,
+      "name": "Sex is on fire",
+      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 155188,
       "name": "Lonely (with benny blanco) - Acoustic",
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
-        "name": "Sex is on fire",
-        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 163833,
-      "name": "Sex is on fire",
-      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "I Was Never There",
         "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179383,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
@@ -963,22 +947,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 188742,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
-      },
-      "artists": [
-        {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
-        }
-      ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "what if",
         "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 201666,
       "name": "what if",
       "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+      },
+      "artists": [
+        {
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+        }
+      ],
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kristine",
-          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
-        }
-      ],
-      "duration_ms": 191971,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "Visiting Hours (Acoustic)",
         "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 197202,
       "name": "Visiting Hours (Acoustic)",
       "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kristine",
+          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+        }
+      ],
+      "duration_ms": 191971,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
         "name": "Other Ways",
         "url": "https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 162461,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 214260,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "WITHOUT ME",
-        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
-      },
-      "artists": [
-        {
-          "name": "Graham Carter",
-          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "Pumped Up Kicks",
         "url": "https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 129991,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "WITHOUT ME",
+        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
     },
     {
       "added_at": "2023-10-27 13:36:12",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-27 13:36:12",
       "album": {
-        "name": "HURTFUL",
-        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
-      },
-      "artists": [
-        {
-          "name": "Linus Svenning",
-          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "HURTFUL",
-      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
-    },
-    {
-      "added_at": "2023-10-27 13:36:12",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 184402,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
+    },
+    {
+      "added_at": "2023-10-27 13:36:12",
+      "album": {
+        "name": "HURTFUL",
+        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "HURTFUL",
+      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
     },
     {
       "added_at": "2023-10-27 13:36:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: The Kid LAROI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,936 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,932 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 100 | [So Good Tho](https://open.spotify.com/track/3mGkxPiYc8PFknTvAKLO5Z) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [DELAFAT](https://open.spotify.com/artist/33P0FP2mdYvdAKorWcs23j), [Starr Chen](https://open.spotify.com/artist/1r0vOsQYMTyq1qkDv7p9QD) | [So Good Tho](https://open.spotify.com/album/1GCi2Wso8gN3nFWrSKdo8x) | 3:23 |
 | 101 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 |
 
-Snapshot ID: `MCxjMjA4YTE5NTNjZDhmMTMwMGY1ZjYwZDNjNmQ4YTljMzU3YTNiY2Qy`
+Snapshot ID: `MCw2OTkwZTRmOWJmNzVmYWIzZmVhMGY0NGJjY2Q2ZjY5YjQ2NTk4ZTNl`

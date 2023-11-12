@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 936176,
+  "num_followers": 936268,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2U4ZGM5NmYwN2YzZWExZDYzZDMxZDhlYTNkMTU4NzNhOGMxNDRh",
+  "snapshot_id": "MCwyYzMwM2U0YmJhZDJjZjkxZmVhZjEwZGQ0OTYwMzM5NjM0MDYyZDk4",
   "tracks": [
     {
       "added_at": "2023-04-07 17:37:33",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Peace Train - Remastered 2021",
-      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
-    },
-    {
       "added_at": "2021-12-14 20:17:09",
       "album": {
         "name": "This Old Heart Of Mine",
@@ -655,18 +639,18 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+      "duration_ms": 253293,
+      "name": "Peace Train - Remastered 2021",
+      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -683,6 +667,22 @@
       "duration_ms": 199706,
       "name": "Doctor My Eyes - 1997 Remaster",
       "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Your Smiling Face",
-      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
-    },
-    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "It Ain't Easy",
@@ -811,6 +795,22 @@
       "duration_ms": 198933,
       "name": "Mama Told Me (Not To Come) - Single Version",
       "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

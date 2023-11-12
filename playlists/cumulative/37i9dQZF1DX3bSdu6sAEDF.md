@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-342 songs - 19 hr 3 min
+343 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Call My Name](https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Call My Name](https://open.spotify.com/album/7frSUNEyPlMiLV1wK96NZU) | 3:41 | 2022-01-19 | 2023-04-22 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2022-01-19 | 2023-04-22 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-27 |  |
-| [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 | 2023-07-07 |  |
+| [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 | 2023-07-07 | 2023-11-12 |
+| [Caroline](https://open.spotify.com/track/5HbMIVh2Knh6iSLEXkTyi2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Subtitles for Feelings](https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa) | 3:43 | 2023-09-04 |  |
 | [Casualty](https://open.spotify.com/track/6nwxT0W6u4JYDGK5iyBOYt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 2:23 | 2022-01-21 | 2022-07-28 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2023-03-18 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-14 |  |

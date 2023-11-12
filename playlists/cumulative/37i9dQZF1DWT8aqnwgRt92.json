@@ -7217,6 +7217,28 @@
     },
     {
       "album": {
+        "name": "Omoikaze (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6dIi4IChOkvoc4UDv1kp2S"
+      },
+      "artists": [
+        {
+          "name": "Yuiko Ohara",
+          "url": "https://open.spotify.com/artist/6Ms9K6GofUbmyph3tETnp5"
+        },
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Omoikaze (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0l49ZGMryYreBuCYjb9v5q"
+    },
+    {
+      "album": {
         "name": "One Room Adventure",
         "url": "https://open.spotify.com/album/5Ots8MVbrOlpOvB5ww1Drv"
       },
@@ -17134,7 +17156,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 148500,
       "name": "\u60f3\u98a8\uff08TV\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u633f\u5165\u6b4c\uff09",
       "url": "https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS"

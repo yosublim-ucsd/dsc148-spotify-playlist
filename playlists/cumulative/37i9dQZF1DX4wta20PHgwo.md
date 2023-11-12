@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-418 songs - 1 day 14 hr 31 min
+419 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Another Land](https://open.spotify.com/track/0zCkOKYeToZAvm5rnUxcA3) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/1OVtWo9d7gohmH7LhLlIdq) | 9:18 | 2021-04-19 | 2022-07-29 |
 | [Another Land](https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS) | 9:18 | 2022-07-21 |  |
 | [Answer Me \- Live from Budapest](https://open.spotify.com/track/58eWz82VjBZLNwL6u4li7F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Answer Me \(Live from Budapest\)](https://open.spotify.com/album/3C9m7THKeXyUkICSDItxOb) | 4:29 | 2020-05-14 | 2023-02-23 |
-| [Après Un Rêve](https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Après Un Rêve](https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql) | 4:28 | 2023-11-10 |  |
+| [Après Un Rêve](https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Après Un Rêve](https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql) | 4:28 | 2023-11-10 | 2023-11-12 |
 | [Arm in Arm](https://open.spotify.com/track/5r16Jl53ZXzkOeMdBD9bF8) | [Nicolò Ricci](https://open.spotify.com/artist/2wXeYafaS8xCBLhtE4YhJ2) | [Arm in Arm](https://open.spotify.com/album/49Z9I1f38CayyMlcClA3Hc) | 8:43 | 2022-04-07 | 2022-10-05 |
 | [As We Were \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:25 | 2023-08-03 | 2023-10-16 |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-10 | 2022-07-29 |
@@ -151,6 +151,7 @@
 | [Højder](https://open.spotify.com/track/4f18iLdnNofp3WRYD4Z6N2) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Utopia](https://open.spotify.com/album/2t4dajwV5abdSo0orSmuF7) | 4:23 | 2022-07-21 | 2022-07-30 |
 | [Højder](https://open.spotify.com/track/5GWjxdXbCvHozYWvTO8qXr) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Højder](https://open.spotify.com/album/0zKAuYXiEdOdCoaHttqvyo) | 4:23 | 2020-05-02\* | 2022-07-29 |
 | [I Can't Escape from You](https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [I Can't Escape from You](https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk) | 4:38 | 2023-06-08 |  |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 5:03 | 2023-11-10 |  |
 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-13 | 2023-11-08 |
 | [I Don't Know](https://open.spotify.com/track/6pcRsBcaw8cTX0OWwMAM5w) | [Daniel Guggenheim Quartet](https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt) | [Red Orange and Blue](https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA) | 6:30 | 2022-05-31 |  |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Quiet Nights of Quiet Songs](https://open.spotify.com/album/371VzyXWti506VTodQfkf8) | 6:15 | 2022-09-06 | 2023-08-23 |

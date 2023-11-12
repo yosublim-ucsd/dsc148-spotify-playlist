@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Doctor My Eyes - 1997 Remaster",
+      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
+    },
+    {
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
@@ -3104,6 +3122,24 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281231,
+      "name": "My Sweet Lord (2014 Remaster)",
+      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
     },
     {
       "album": {

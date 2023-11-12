@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > PRISCILLA e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,929 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,958 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 |
 | 11 | [Lua Cheia](https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Lua Cheia](https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y) | 3:01 |
 | 12 | [Romance Em Cena](https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:08 |
-| 13 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
-| 14 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 |
+| 13 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 |
+| 14 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
 | 15 | [e se for pra ser sincera:](https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [e se for pra ser sincera:](https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet) | 3:14 |
 | 16 | [Tudo Seu](https://open.spotify.com/track/3DkC02GRxCISS2mo0MwQYd) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:32 |
 | 17 | [Nunca Mais](https://open.spotify.com/track/0Vt1AvV4EcZmGogB5yoHwl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 4:05 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 22 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
 | 23 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
 | 24 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
-| 25 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
-| 26 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
+| 25 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
+| 26 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
 | 27 | [Faz Parte Do Meu Show](https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Faz Parte Do Meu Show](https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1) | 2:43 |
 | 28 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 |
 | 29 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Sem Tédio](https://open.spotify.com/track/6LIOqJseCbEpEVLkMkjp7U) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:00 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCw0ZDIxN2QyOTdiNWRhMTA2ZWFlMWUxYjI4M2I3MGMxZDVhZDU1Mjdk`
+Snapshot ID: `MCwxMWQ3MGZlYWEyY2VhNmNmZTI3OGRmOGFkYWYzZDRhYjE4YzIxNjg2`

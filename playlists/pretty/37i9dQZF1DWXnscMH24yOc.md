@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,360 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,402 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 10 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 |
 | 11 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 12 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
-| 13 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
-| 14 | [Torn \- Bonus Track](https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:16 |
+| 13 | [Torn \- Bonus Track](https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:16 |
+| 14 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
 | 15 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
 | 16 | [No Diggity](https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M) | 3:41 |
 | 17 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 58 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
 | 59 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 60 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 |
-| 61 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
-| 62 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 |
-| 63 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
-| 64 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 |
+| 61 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 |
+| 62 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
+| 63 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 |
+| 64 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
 | 65 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 66 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
 | 67 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 82 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
 | 83 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
 | 84 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 |
-| 85 | [Nothing's Gonna Hurt You Baby \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Nothing's Gonna Hurt You Baby \(From "Promising Young Woman" Soundtrack\)](https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY) | 3:17 |
-| 86 | [I'm On Fire](https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Henry / I'm On Fire](https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W) | 3:07 |
+| 85 | [I'm On Fire](https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Henry / I'm On Fire](https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W) | 3:07 |
+| 86 | [Nothing's Gonna Hurt You Baby \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Nothing's Gonna Hurt You Baby \(From "Promising Young Woman" Soundtrack\)](https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY) | 3:17 |
 | 87 | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN) | 3:42 |
 | 88 | [Tainted Love](https://open.spotify.com/track/3s5HZY2OntlppCPeWQfzp0) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/22ZihqEwCSdZhBphWYleEz) | 2:29 |
 | 89 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
 | 100 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |
 
-Snapshot ID: `MCwzYWIzN2NmNGM3OWYyMzI3YTU1MmRhN2I3MTY1NDAzODliMTFlNWZj`
+Snapshot ID: `MCwyMWIxNGQ3ZjAwNmZlNGE0MGZkODQ1YjM4MDlkNDIxNTgxMGU2Mjc4`

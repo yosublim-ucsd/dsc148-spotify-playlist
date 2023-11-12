@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: Ling tosite sigure(\u51db\u3068\u3057\u3066\u6642\u96e8)",
-  "num_followers": 272040,
+  "num_followers": 272067,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmMyYWU5N2FiYWEwMTIzYzRiOGJmMzEyMTU3ODBiNGQxMzljM2Jj",
+  "snapshot_id": "MCw0ZjEyNDk5YmEzNjhjOTc2YTBlNjE4OTJmOTg1MzU5NzM1MjViMjdm",
   "tracks": [
     {
       "added_at": "2023-11-08 12:20:57",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-08 12:20:57",
       "album": {
-        "name": "LOVE ROCKETS",
-        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
-      },
-      "artists": [
-        {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
-        }
-      ],
-      "duration_ms": 261385,
-      "name": "LOVE ROCKETS",
-      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
-    },
-    {
-      "added_at": "2023-11-08 12:20:57",
-      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 253746,
       "name": "Kizukeyo Baby",
       "url": "https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK"
+    },
+    {
+      "added_at": "2023-11-08 12:20:57",
+      "album": {
+        "name": "LOVE ROCKETS",
+        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "duration_ms": 261385,
+      "name": "LOVE ROCKETS",
+      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
     },
     {
       "added_at": "2023-11-08 12:20:57",

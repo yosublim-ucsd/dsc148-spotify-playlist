@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Chase & Status",
-  "num_followers": 976594,
+  "num_followers": 976621,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGY3NGY0YTg0ODcxNTYyYzU3Mjg0OWFlODZiMzQwNjE4NTE3Zjhl",
+  "snapshot_id": "MCxmNmJkOGIxYTc0NTE3Mjk0NWRmZDIyYzM4NWYxYzk5MzNmYTcwZDY5",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -881,30 +881,6 @@
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Don't Look Down (Hold On)",
-        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Don't Look Down (Hold On)",
-      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Swerve it",
@@ -939,6 +915,30 @@
       "duration_ms": 167314,
       "name": "Swerve It",
       "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Don't Look Down (Hold On)",
+        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Don't Look Down (Hold On)",
+      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SAXORiDDiM",
-        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "SAXORiDDiM",
-      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Bass To The Dome",
         "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 203224,
       "name": "Bass To The Dome",
       "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "SAXORiDDiM",
+        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "SAXORiDDiM",
+      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1093,26 +1093,6 @@
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Revenge of the Orchestra",
-        "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Revenge of the Orchestra",
-      "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "InHer World",
@@ -1131,26 +1111,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Back For More",
-        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
+        "name": "Revenge of the Orchestra",
+        "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         },
         {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Back For More",
-      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
+      "duration_ms": 230476,
+      "name": "Revenge of the Orchestra",
+      "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1187,6 +1163,30 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Back For More",
+        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Back For More",
+      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Summer Of Saigon",
         "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
       },
@@ -1305,26 +1329,6 @@
       "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Stone cold.",
@@ -1343,26 +1347,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "You Found Me",
-        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Clara Park",
-          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
-      "duration_ms": 269538,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Portals",
@@ -1447,26 +1431,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "NO FEAR",
-        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
       },
       "artists": [
         {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         }
       ],
-      "duration_ms": 174400,
-      "name": "NO FEAR",
-      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1489,44 +1465,60 @@
       "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Falling Over You",
-        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
+        "name": "Walk On Water (Wooli & Trivecta Remix)",
+        "url": "https://open.spotify.com/album/0csj86qPXNNcPnddR15YwR"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         },
         {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj"
         }
       ],
-      "duration_ms": 194823,
-      "name": "Falling Over You",
-      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
+      "duration_ms": 228413,
+      "name": "Walk On Water (Wooli & Trivecta Remix)",
+      "url": "https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0"
     },
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
+        "name": "NO FEAR",
+        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "Raven Gray",
-          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 189721,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
+      "duration_ms": 174400,
+      "name": "NO FEAR",
+      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1551,6 +1543,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Falling Over You",
+        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Falling Over You",
+      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Move Back",
         "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
       },
@@ -1567,6 +1579,26 @@
       "duration_ms": 208615,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Raven Gray",
+          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+        }
+      ],
+      "duration_ms": 189721,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1647,26 +1679,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Your Lovin'",
         "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
       },
@@ -1703,6 +1715,26 @@
       "duration_ms": 125851,
       "name": "Bring It Back (Spencer Ramsay Remix)",
       "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 284137,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1907,6 +1939,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Skanka (VIP)",
         "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
       },
@@ -1919,26 +1971,6 @@
       "duration_ms": 228004,
       "name": "Skanka (VIP)",
       "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1997,50 +2029,26 @@
       "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
+        "name": "4#TRAX",
+        "url": "https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn"
       },
       "artists": [
         {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         }
       ],
-      "duration_ms": 259812,
-      "name": "Pocketknife",
-      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
+      "duration_ms": 199413,
+      "name": "CAPONE",
+      "url": "https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69"
     },
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Dominate (Boombox Cartel Edit)",
-        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        },
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        }
-      ],
-      "duration_ms": 111040,
-      "name": "Dominate - Boombox Cartel Edit",
-      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
       },
       "artists": [
         {
@@ -2052,9 +2060,9 @@
           "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 189517,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+      "duration_ms": 197538,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,890 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,920 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,16 +58,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 48 | [Four On Six](https://open.spotify.com/track/5QdyYHg2QnrPC1lOiRkZBC) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 6:42 |
 | 49 | [Ruint](https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 2:31 |
 | 50 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |
-| 51 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
+| 51 | [Miss Fine](https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Argo, Verve And Impulse Big Band Studio Sessions](https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7) | 4:11 |
 | 52 | [Stella By Starlight](https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Conversations With Myself](https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv) | 4:50 |
-| 53 | [Miss Fine](https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Argo, Verve And Impulse Big Band Studio Sessions](https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7) | 4:11 |
+| 53 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
 | 54 | [Soul Sauce](https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC) | 2:27 |
 | 55 | [Movin' Wes \- Pt\. 1](https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 3:29 |
 | 56 | [Bye Bye Blackbird](https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 6:42 |
 | 57 | [Tulle](https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Quiet](https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz) | 5:00 |
-| 58 | [Samba Para Dos](https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 10:06 |
+| 58 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 59 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
-| 60 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
+| 60 | [Samba Para Dos](https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 10:06 |
 | 61 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
 | 62 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 |
 | 63 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCwyZjYyN2YzYzhmNzkwN2RhYjMwZDFkZjBhZDUzODAxMmJmZTRjODIw`
+Snapshot ID: `MCwxMWZhZTdiZmZkZWRmYWYwYjE1ZjgxOGIyMDM4ZjExYTMxNTMxMjNk`

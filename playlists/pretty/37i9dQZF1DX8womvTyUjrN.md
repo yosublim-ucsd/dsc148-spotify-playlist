@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Adri Torron
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,407 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,463 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 9 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 10 | [TBT](https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [TBT](https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH) | 2:38 |
 | 11 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 |
-| 12 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
-| 13 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
+| 12 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
+| 13 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
 | 14 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 |
 | 15 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |
 | 16 | [XQ Sigues Pasando :\(](https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [XQ Sigues Pasando :\(](https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Movie](https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Movie](https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T) | 2:12 |
 | 50 | [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 |
 
-Snapshot ID: `MCw3NGYyMWZhNWIyN2JmODAxM2RmY2I5YjgzM2RmMjZhOTU3MjgyODAx`
+Snapshot ID: `MCxmZTZjOWFiYjNkOTRkNTlhNTdmNjE1NDU5MTFkNjM0YjBkOTU1YjJm`

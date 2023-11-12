@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: CHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,447 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,458 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 8 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
 | 9 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
 | 10 | [Yukari](https://open.spotify.com/track/0FNTMZ5plLKeNwDTHV2yiB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:42 |
-| 11 | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud) | 3:21 |
+| 11 | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/0Q85VZZG5tdNZMS0XyI55z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/0XSYmRn68wPGVdhjwzz3Jb) | 3:24 |
 | 12 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
 | 13 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 |
 | 14 | [Sisters](https://open.spotify.com/track/3LUzyWc59snZdclmA3WcBV) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [YELLOW](https://open.spotify.com/album/3jUQLngJWwEUStBeriSbe0) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [I just wanna dance with you\- period](https://open.spotify.com/track/4u86QOvdhxGfsYsWz2O42J) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk) | 3:48 |
 | 50 | [PURE MIND PURE HEART \- Lil Soft Tennis Remix](https://open.spotify.com/track/3hfwHcE3KnNLnoVyAIjwci) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [PURE MIND PURE HEART \(Lil Soft Tennis Remix\)](https://open.spotify.com/album/4a6tXZTYeK5wPWavdH5mk3) | 3:20 |
 
-Snapshot ID: `MCxjNTdhNjkxY2U3YThhZGQwMjNlZWJlZWE3ZDQ3ZDBhYTU0M2M3Y2M4`
+Snapshot ID: `MCxjMTI0NmZkYjlhNDg5ZGUxYzE4YTU5ZmNmNjQxNTM4MzY5NmY2NzI2`

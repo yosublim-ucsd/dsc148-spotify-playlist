@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,529 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,544 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quando Te Vi](https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Quando Te Vi](https://open.spotify.com/album/41f4UoNwZH0Er1ZLCjMokE) | 3:54 |
-| 2 | [Roteiro](https://open.spotify.com/track/7iqmvglkXptD92AiMT5HSl) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Ezkiel](https://open.spotify.com/artist/2JdEL8sZGTGLPzF1bf6F9s) | [Roteiro](https://open.spotify.com/album/3GbTSQLbo3fIrAmOl8eESo) | 2:32 |
+| 2 | [Roteiro](https://open.spotify.com/track/7iqmvglkXptD92AiMT5HSl) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Ezkiel](https://open.spotify.com/artist/2JdEL8sZGTGLPzF1bf6F9s), [Laundry Records](https://open.spotify.com/artist/2V3I6RpWfNn1Y5cQzdu4zY) | [Roteiro](https://open.spotify.com/album/3GbTSQLbo3fIrAmOl8eESo) | 2:32 |
 | 3 | [Stephanie](https://open.spotify.com/track/5zHgKTl9uTZqUfdbszAU3W) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Vilãodubeat](https://open.spotify.com/artist/3Q5Ocm4scE3vMhG877jVew) | [Stephanie](https://open.spotify.com/album/1iEsoM4frhvSXBSz6XlZUR) | 3:08 |
 | 4 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 |
 | 5 | [Logo Eu](https://open.spotify.com/track/6rCAD1L3H87qRNGGVli37l) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Logo Eu](https://open.spotify.com/album/7cemVuH5gIFyxX2a4bQO2b) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [VALHO NADA](https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:37 |
 | 75 | [Só me ligar](https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:13 |
 
-Snapshot ID: `MCw0NDA1NWVmNmYwYjQxYWY3ODkyZjk5ZDUxYTI3N2IwMGFmZDU2ZGVi`
+Snapshot ID: `MCw4ZTMwYzQxMjU0NDljMDQ0NGNmYjc0MTY5NTJkMTczYWRkNTdiYzk4`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 304238,
+  "num_followers": 304351,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzRiNWUyZGQ3NjIwM2JjZWI2YTZhNTQyZjEyOGMwODgzMWQzN2U5",
+  "snapshot_id": "MCw2ZTM5ZTljNGRmZDRlZWU2MDYwZmI2NzhjMzUwNmJkZGQ5MzgzZTA4",
   "tracks": [
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Obliteration",
-        "url": "https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe"
+        "name": "Die H\u00f6lle muss warten",
+        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
       },
       "artists": [
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "Eisbrecher",
+          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
         }
       ],
-      "duration_ms": 217071,
-      "name": "Obliteration",
-      "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
+      "duration_ms": 201293,
+      "name": "Verr\u00fcckt - Original Version",
+      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Die H\u00f6lle muss warten",
-        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
+        "name": "Obliteration",
+        "url": "https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe"
       },
       "artists": [
         {
-          "name": "Eisbrecher",
-          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Verr\u00fcckt - Original Version",
-      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Hollow (Project Regeneration)",
-        "url": "https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Hollow (Project Regeneration)",
-      "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
+        "name": "Hollow (Project Regeneration)",
+        "url": "https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Hollow (Project Regeneration)",
+      "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
     },
     {
       "added_at": "2023-09-29 18:57:01",

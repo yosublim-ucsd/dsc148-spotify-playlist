@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-92 songs - 7 hr 38 min
+93 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 | 2022-12-19 | 2023-09-29 |
 | [Mungu Baba](https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq) | [Rufftone](https://open.spotify.com/artist/2QedlserMBA6I7t6zA70bv), [GSU Choir](https://open.spotify.com/artist/7gIUM7VgRJn6R3IVECjYj7) | [Mungu Baba](https://open.spotify.com/album/6MJF92t5iiPxU1BNPoKJtJ) | 4:00 | 2022-12-19 | 2023-04-21 |
 | [Mungu Mkuu](https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj) | 5:03 | 2022-12-19 | 2023-06-10 |
-| [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 | 2022-12-19 |  |
+| [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 | 2022-12-19 | 2023-11-12 |
 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 | 2022-12-19 |  |
 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 | 2022-12-19 | 2023-09-01 |
 | [My Everything](https://open.spotify.com/track/701bS0JRIz8otP7cNysD63) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Gospel EP](https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1) | 3:57 | 2022-12-19 | 2023-06-16 |
@@ -69,6 +69,7 @@
 | [Relax](https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 4:09 | 2022-12-19 |  |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-06-16 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2022-12-19 |  |
+| [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-11-03 |  |
 | [Siteketei](https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siteketei](https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC) | 3:30 | 2022-12-19 | 2023-07-10 |
 | [Sure \(Counting on You\)](https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Sure \(Counting on You\)](https://open.spotify.com/album/2FqECWZ9A5Jr304QeQftM3) | 3:01 | 2023-04-14 | 2023-06-14 |
 | [Sweetie Sweetie](https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sweetie Sweetie](https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg) | 5:16 | 2022-12-19 |  |

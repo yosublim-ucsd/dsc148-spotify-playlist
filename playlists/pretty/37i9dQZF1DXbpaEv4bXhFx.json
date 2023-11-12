@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 14005,
+  "num_followers": 14008,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDg5Y2FkOWUzOGQzNjI0NGRlNWI3ZWUyZDk3MzY3MWM2NzI0MDU4",
+  "snapshot_id": "MCwyYjQ3ODcyZDBlMGVhZmYyOTE5YmVjOWY0Nzk2MTg3MzdkOTc5NTBj",
   "tracks": [
     {
       "added_at": "2023-11-03 06:13:48",
@@ -187,18 +187,26 @@
     {
       "added_at": "2023-11-03 06:13:48",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
         }
       ],
-      "duration_ms": 166968,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-11-03 06:13:48",
@@ -255,26 +263,18 @@
     {
       "added_at": "2023-11-03 06:13:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+      "duration_ms": 166968,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
     },
     {
       "added_at": "2023-11-03 06:13:48",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-03 06:13:48",
       "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB"
+    },
+    {
+      "added_at": "2023-11-03 06:13:48",
+      "album": {
         "name": "Rain Song",
         "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2023-11-03 06:13:48",
-      "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "ride",
-      "url": "https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB"
     },
     {
       "added_at": "2023-11-03 06:13:48",
@@ -499,22 +499,22 @@
     {
       "added_at": "2023-11-03 06:13:48",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         },
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 220933,
-      "name": "My Day Is Full Of You",
-      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2023-11-03 06:13:48",
@@ -535,22 +535,22 @@
     {
       "added_at": "2023-11-03 06:13:48",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         },
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+      "duration_ms": 220933,
+      "name": "My Day Is Full Of You",
+      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
       "added_at": "2023-11-03 06:13:48",

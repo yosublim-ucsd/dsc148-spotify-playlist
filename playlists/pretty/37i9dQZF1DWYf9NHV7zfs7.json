@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 19723,
+  "num_followers": 19796,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGYwMjQ4YjA2MWZmMWNmOWMyN2I5NzMwNGQwODE1ZWU1YjE2MTNl",
+  "snapshot_id": "MCxmOWM0MmY4YTU3MTYyYTk5NjdhNTE1NzRkY2Q0NzMwMDFiMTUyNTE3",
   "tracks": [
     {
       "added_at": "2023-11-10 15:25:47",
@@ -799,18 +799,22 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+        "name": "Si Me Disculpo Ahora",
+        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
+      "duration_ms": 120759,
+      "name": "Si Me Disculpo Ahora",
+      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -867,6 +871,22 @@
       "duration_ms": 213948,
       "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
       "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -959,6 +979,26 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
+        "name": "Carta para no llorar",
+        "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 178577,
+      "name": "Carta para no llorar",
+      "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
         "name": "Aqua di Emma",
         "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
       },
@@ -1007,22 +1047,18 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
-        "name": "Gamba - Los Retro",
-        "url": "https://open.spotify.com/album/2Y8xORMOnz6pfEr1yrjmjx"
+        "name": "Desde el Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
         }
       ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) [Vivo]",
-      "url": "https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI"
+      "duration_ms": 144000,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -1039,6 +1075,26 @@
       "duration_ms": 225586,
       "name": "Tormento de Amor",
       "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
+        "name": "Gamba - Los Retro",
+        "url": "https://open.spotify.com/album/2Y8xORMOnz6pfEr1yrjmjx"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) [Vivo]",
+      "url": "https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -1099,22 +1155,6 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
-        "name": "Bandana La Vuelta",
-        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
-      },
-      "artists": [
-        {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Llega la Noche",
-      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
         "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
         "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
       },
@@ -1143,6 +1183,22 @@
       "duration_ms": 214575,
       "name": "Abrazarnos",
       "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
+        "name": "Bandana La Vuelta",
+        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
+      },
+      "artists": [
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Llega la Noche",
+      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -1255,22 +1311,6 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
-      },
-      "artists": [
-        {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Maldita Noche",
-      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1291,6 +1331,22 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
+      },
+      "artists": [
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Maldita Noche",
+      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/3gWVb2bUlxVyKWJxaxVgnZ"
       },
@@ -1307,22 +1363,38 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
-        "name": "Carta para no llorar",
-        "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
+        "name": "Cositas",
+        "url": "https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
         }
       ],
-      "duration_ms": 178577,
-      "name": "Carta para no llorar",
-      "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+      "duration_ms": 151000,
+      "name": "Cositas",
+      "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
+        "name": "Tarde (feat. Malena Villa)",
+        "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 153058,
+      "name": "Tarde (feat. Malena Villa)",
+      "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -1339,6 +1411,22 @@
       "duration_ms": 153213,
       "name": "Hace fr\u00edo ya",
       "url": "https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk"
+    },
+    {
+      "added_at": "2023-11-10 15:25:47",
+      "album": {
+        "name": "Santo Entendimiento",
+        "url": "https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 171192,
+      "name": "Coraz\u00f3n Verde",
+      "url": "https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw"
     },
     {
       "added_at": "2023-11-10 15:25:47",
@@ -1375,38 +1463,6 @@
     {
       "added_at": "2023-11-10 15:25:47",
       "album": {
-        "name": "Cositas",
-        "url": "https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Cositas",
-      "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
-        "name": "Santo Entendimiento",
-        "url": "https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 171192,
-      "name": "Coraz\u00f3n Verde",
-      "url": "https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
       },
@@ -1423,62 +1479,6 @@
       "duration_ms": 185431,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
-        "name": "Si Me Disculpo Ahora",
-        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 120759,
-      "name": "Si Me Disculpo Ahora",
-      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
-        "name": "Tarde (feat. Malena Villa)",
-        "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        },
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 153058,
-      "name": "Tarde (feat. Malena Villa)",
-      "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
-    },
-    {
-      "added_at": "2023-11-10 15:25:47",
-      "album": {
-        "name": "Desde el Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
     }
   ],
   "unique_name": "Esto es Pop",

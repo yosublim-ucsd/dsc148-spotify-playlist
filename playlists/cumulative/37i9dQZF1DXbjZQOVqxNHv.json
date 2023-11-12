@@ -8364,6 +8364,24 @@
     {
       "album": {
         "name": "Swurlk EP",
+        "url": "https://open.spotify.com/album/5QKKqgFFNXyDDXaNMwl8RK"
+      },
+      "artists": [
+        {
+          "name": "EOD",
+          "url": "https://open.spotify.com/artist/1Tq2a9YUspYALPbsIr1jcr"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321111,
+      "name": "Swurlk (snarlfingercroak mix)",
+      "url": "https://open.spotify.com/track/5JfeCTGBcVxeGiCffd1HvM"
+    },
+    {
+      "album": {
+        "name": "Swurlk EP",
         "url": "https://open.spotify.com/album/28hMJ7aimprzfRpgvE4yML"
       },
       "artists": [
@@ -9408,7 +9426,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 270866,
       "name": "Vacetious Blooms",
       "url": "https://open.spotify.com/track/0K3PRZFyz9MQ04ANNYZh0a"

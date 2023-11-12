@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 442900,
+  "num_followers": 442964,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDM3ZWI4ZDQ2N2MzZjdkNjc1MGRmM2Q0ZTYyMWU1NTA4MDZjYTg4",
+  "snapshot_id": "MCxkZmRmNzMwMWRjZDJlMGJhNTlkNWM3OTU1MzViNTg0ZWVkNzExNzM3",
   "tracks": [
     {
       "added_at": "2023-11-10 14:14:38",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "I Don't Sleep",
-        "url": "https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 105142,
-      "name": "I Don't Sleep",
-      "url": "https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr"
-    },
-    {
-      "added_at": "2023-11-10 14:14:38",
-      "album": {
         "name": "frost",
         "url": "https://open.spotify.com/album/09z9j5sgQR4FjntLAgjqV0"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 160000,
       "name": "frost",
       "url": "https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd"
+    },
+    {
+      "added_at": "2023-11-10 14:14:38",
+      "album": {
+        "name": "I Don't Sleep",
+        "url": "https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 105142,
+      "name": "I Don't Sleep",
+      "url": "https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "Growing Up, Vol. 1",
-        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
-      },
-      "artists": [
-        {
-          "name": "A L E X",
-          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
-        }
-      ],
-      "duration_ms": 96026,
-      "name": "The Burn Marks on My Epiano Wont Go Away",
-      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
-    },
-    {
-      "added_at": "2023-11-10 14:14:38",
-      "album": {
         "name": "Under The Tree",
         "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 114422,
       "name": "Under The Tree",
       "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
+    },
+    {
+      "added_at": "2023-11-10 14:14:38",
+      "album": {
+        "name": "Growing Up, Vol. 1",
+        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
+      },
+      "artists": [
+        {
+          "name": "A L E X",
+          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
+        }
+      ],
+      "duration_ms": 96026,
+      "name": "The Burn Marks on My Epiano Wont Go Away",
+      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b"
-      },
-      "artists": [
-        {
-          "name": "Nova Complex",
-          "url": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "The Long Way Home",
-      "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
-    },
-    {
-      "added_at": "2023-11-10 14:14:38",
-      "album": {
         "name": "Through My Window",
         "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 150955,
       "name": "Through My Window",
       "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
+    },
+    {
+      "added_at": "2023-11-10 14:14:38",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b"
+      },
+      "artists": [
+        {
+          "name": "Nova Complex",
+          "url": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
-      },
-      "artists": [
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Louie's Lullaby",
-      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
-    },
-    {
-      "added_at": "2023-11-10 14:14:38",
-      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 121672,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
+    },
+    {
+      "added_at": "2023-11-10 14:14:38",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
+      },
+      "artists": [
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Louie's Lullaby",
+      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+        "name": "Home Soon",
+        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
       },
       "artists": [
         {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+          "name": "yuzu blur",
+          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
         }
       ],
-      "duration_ms": 163533,
-      "name": "Now, I See",
-      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+      "duration_ms": 144000,
+      "name": "Home Soon",
+      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "Home Soon",
-        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
       "artists": [
         {
-          "name": "yuzu blur",
-          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Home Soon",
-      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
+      "duration_ms": 163533,
+      "name": "Now, I See",
+      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "Keep On Going",
-        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
-      },
-      "artists": [
-        {
-          "name": "SPEECHLESS",
-          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "Keep On Going",
-      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
-    },
-    {
-      "added_at": "2023-11-10 14:14:38",
-      "album": {
         "name": "Free Trees",
         "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 150857,
       "name": "Free Trees",
       "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
+    },
+    {
+      "added_at": "2023-11-10 14:14:38",
+      "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
     },
     {
       "added_at": "2023-11-10 14:14:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-10 14:14:38",
       "album": {
-        "name": "Adomania",
-        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
-      },
-      "artists": [
-        {
-          "name": "Toonorth",
-          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
-        }
-      ],
-      "duration_ms": 90201,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
-    },
-    {
-      "added_at": "2023-11-10 14:14:38",
-      "album": {
         "name": "leaving us",
         "url": "https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 169941,
       "name": "can't tell",
       "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
+    },
+    {
+      "added_at": "2023-11-10 14:14:38",
+      "album": {
+        "name": "Adomania",
+        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
+      },
+      "artists": [
+        {
+          "name": "Toonorth",
+          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
+        }
+      ],
+      "duration_ms": 90201,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
     },
     {
       "added_at": "2023-11-10 14:14:38",

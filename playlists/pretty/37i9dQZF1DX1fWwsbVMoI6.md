@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,952 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,009 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 43 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 |
 | 44 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
 | 45 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
-| 46 | [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 |
-| 47 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
+| 46 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/2Kd77oLlsoQawZSf9p8FGz) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Éxitos Solo Éxitos....](https://open.spotify.com/album/56iRDc7QIkDSJx0zt9k7Xe) | 3:13 |
+| 47 | [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 |
 | 48 | [Tu Traición Se Acabó \- En Vivo](https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Domingos de Fiesta \(En Vivo\)](https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy) | 4:07 |
 | 49 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
-| 50 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 |
+| 50 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 
-Snapshot ID: `MCwzNzNlNGMxZTI3NGU5NThlMTc3NzQ4OTg3YWQyNTJkZWE0M2Q2ZDFi`
+Snapshot ID: `MCxjODM0NDI1NDk5NjEyYjQ5NTM5OTdjMmUwMmVlOTIxNjJlMmY4YjM1`

@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1035353,
+  "num_followers": 1035617,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDU5NzMyMjE3ZTAwZTBiNjBkMmM1NjUyZGJiZjQ1ZTRlODVkY2Q0",
+  "snapshot_id": "MCwyZDQwMjQ1NTJiOWY0OTk5YzRlMzQxZThlN2E4ZjE4YjBjMWRiMmQ0",
   "tracks": [
     {
       "added_at": "2023-10-25 10:42:46",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
         "name": "Moon River And Other Great Movie Themes",
         "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 282000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Mr Bojangles",
+      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Mr Bojangles",
-      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
+      "duration_ms": 186040,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "Someone To Watch Over Me",
-        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
+        "name": "Skylark (Std. Version)",
+        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
+      "duration_ms": 283093,
+      "name": "When I Fall in Love (feat. Chris Botti)",
+      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -619,26 +619,6 @@
       "duration_ms": 170186,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
-        "name": "Skylark (Std. Version)",
-        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        },
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "When I Fall in Love (feat. Chris Botti)",
-      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -675,22 +655,22 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+        "name": "Someone To Watch Over Me",
+        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         },
         {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 182440,
-      "name": "Chances Are (with Ray Conniff & His Orchestra)",
-      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
+      "duration_ms": 215520,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -707,6 +687,26 @@
       "duration_ms": 154133,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "Chances Are (with Ray Conniff & His Orchestra)",
+      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 213333,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2023-10-25 10:42:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-25 10:42:46",
       "album": {
-        "name": "Love, Andy",
-        "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Can't Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
-    },
-    {
-      "added_at": "2023-10-25 10:42:46",
-      "album": {
         "name": "The Reprise Years",
         "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 185186,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
+    },
+    {
+      "added_at": "2023-10-25 10:42:46",
+      "album": {
+        "name": "Love, Andy",
+        "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
     },
     {
       "added_at": "2023-10-25 10:42:46",

@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 26822,
+  "num_followers": 26864,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzJlNDQxZTc4MmI3NGExZWM2OTU4ZDQ5MGRlYzRlMDA5YTkxNWZl",
+  "snapshot_id": "MCw5YWEyNTcwNzE5Mjk4Njc3ZDM5YWZhYzIzYWQ1Zjg0NjE3YTUzMzQ0",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Shiny",
         "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 180674,
       "name": "Chillaquil",
       "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "iced coffee",
-        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 116824,
-      "name": "iced coffee",
-      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Lluvia de Oro",
         "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 214000,
       "name": "Viernes Azul",
       "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "iced coffee",
+        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
+      },
+      "artists": [
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 116824,
+      "name": "iced coffee",
+      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/5ysdKCkyWk9CcyAmr0n3gK"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 160224,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/1yzntUA9nlN3ieYjtmGN94"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "crying",
         "url": "https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 129350,
       "name": "Efecto Foehn",
       "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/5ysdKCkyWk9CcyAmr0n3gK"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 160224,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/1yzntUA9nlN3ieYjtmGN94"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/4jVTyZYM7bfjfafbpAHD3N"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 167807,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6I6t6DkS15e6BQx41qmd9h"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
@@ -1531,42 +1551,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "nefelibata",
-        "url": "https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR"
-      },
-      "artists": [
-        {
-          "name": "SUNNO",
-          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
-        }
-      ],
-      "duration_ms": 133686,
-      "name": "nefelibata",
-      "url": "https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/4jVTyZYM7bfjfafbpAHD3N"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 167807,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/6I6t6DkS15e6BQx41qmd9h"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 144283,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "nefelibata",
+        "url": "https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR"
+      },
+      "artists": [
+        {
+          "name": "SUNNO",
+          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
+        }
+      ],
+      "duration_ms": 133686,
+      "name": "nefelibata",
+      "url": "https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH"
     },
     {
       "added_at": "2023-11-10 06:00:00",

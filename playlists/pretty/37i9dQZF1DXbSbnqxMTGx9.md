@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,800,893 likes - 250 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,801,050 likes - 250 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/7xDi25m7Kcc9rPs7zMA2zN) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/0l8YHHDWRH6dPBpp0V0sYb) | 3:44 |
 | 250 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 
-Snapshot ID: `MCxiYThkN2EyMzg5NmU3MDg5ZjIzNDY1ZmU2ZThiMWI0MzRlYTg4N2E5`
+Snapshot ID: `MCwxN2M3MzUxMGEyZTJmZWM2YzNkYWRhZjc4Y2ExN2RjYzMyNDc0ODc2`

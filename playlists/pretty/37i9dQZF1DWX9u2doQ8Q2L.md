@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,129 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,193 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 50 | [Rouge feat\. Taichi Mukai](https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Rouge feat\. Taichi Mukai](https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K) | 3:37 |
 | 51 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:52 |
 | 52 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 |
-| 53 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
+| 53 | [Tokyo Calling](https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Tokyo Calling](https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6) | 3:11 |
 | 54 | [sanagi \- Organic](https://open.spotify.com/track/4N9SLJHTrsjDlbJIGaooWP) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi \(Organic\)](https://open.spotify.com/album/5Qiqp6gxGwe7euvsi8JHsF) | 3:41 |
-| 55 | [Tokyo Calling](https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Tokyo Calling](https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6) | 3:11 |
+| 55 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
 | 56 | [INU](https://open.spotify.com/track/26UKmLKURjKwYa8wUBSDmp) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [到底及ばない](https://open.spotify.com/album/2ZGZrYV9cyqiG6YQKiIudt) | 4:11 |
 | 57 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
 | 58 | [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 62 | [A Toshi no Aki](https://open.spotify.com/track/2QmfEczZyFTRhXJ9F81EP2) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:08 |
 | 63 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
 | 64 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 |
-| 65 | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa) | 4:29 |
-| 66 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
+| 65 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
+| 66 | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa) | 4:29 |
 | 67 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 |
 | 68 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 69 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 88 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
 | 89 | [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 |
 | 90 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
-| 91 | [f e e l　d o w n](https://open.spotify.com/track/28g681iatxhWl09gpKVxPO) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [f e e l　d o w n](https://open.spotify.com/album/4czP0hdsJqpT5vI74ubxEb) | 2:34 |
+| 91 | [We'll be fine \- English Version](https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [We'll be fine \(English Version\)](https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi) | 3:17 |
 | 92 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 |
-| 93 | [We'll be fine \- English Version](https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [We'll be fine \(English Version\)](https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi) | 3:17 |
-| 94 | [Sad In Saudi Arabia](https://open.spotify.com/track/4TTIkN7yOPQrW1UR3kOiBG) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC) | 2:48 |
+| 93 | [Sad In Saudi Arabia](https://open.spotify.com/track/4TTIkN7yOPQrW1UR3kOiBG) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC) | 2:48 |
+| 94 | [f e e l　d o w n](https://open.spotify.com/track/28g681iatxhWl09gpKVxPO) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [f e e l　d o w n](https://open.spotify.com/album/4czP0hdsJqpT5vI74ubxEb) | 2:34 |
 | 95 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 |
 | 96 | [16:28](https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 5:45 |
 | 97 | [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 100 | [後光](https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [後光](https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg) | 3:24 |
 
-Snapshot ID: `MCwxNGVkZjAyOGE2MzllNjRiMWFkYTA0NzBhZmQ4NTg3MWFkNmNjYjky`
+Snapshot ID: `MCw5YzIxMGY1NDNkYzEwN2YzZDlmYTI5MjgwNTgwMzhmOTMwOGU2MTI0`

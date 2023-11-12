@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,439 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,517 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 20 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 |
 | 21 | [Baby Oh](https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Baby Oh](https://open.spotify.com/album/5Ru2z5Wz4hgmle5aexU4pM) | 2:37 |
 | 22 | [Doudou](https://open.spotify.com/track/4jxoCg2Jl4GLqafbR57DOe) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Doudou](https://open.spotify.com/album/2ZoUm0yBjaLMlmBCD3VDGc) | 2:42 |
-| 23 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/4nRmveNzuC92Hv021si5q6) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
+| 23 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 | 24 | [Oublie Dehors](https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Oublie Dehors](https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg) | 2:46 |
 | 25 | [MON PÉCHÉ](https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [RM'N PROD](https://open.spotify.com/artist/43r0w2IY7M8mujZbclCzKM) | [MON PÉCHÉ](https://open.spotify.com/album/3NcbXib1tE0AgbzdeIqWhf) | 3:28 |
 | 26 | [Trophy](https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Féeries](https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH) | 2:59 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Vini](https://open.spotify.com/track/2lTGtcexmJIqIFlhzTg4Pv) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Vini](https://open.spotify.com/album/0pLVrFf6Dim0z2IV84q02w) | 3:21 |
 | 40 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 |
 
-Snapshot ID: `MCw4Zjg4ZjI5OWUyNzQyMDhlMDk2MDNkYzFkNzVkZWEzNTU4ZjM4OWJk`
+Snapshot ID: `MCwyOWM1ZTBhODNiYmRkNDlhYWMzOTEyZGFlNmQ4YjUzM2QzODFkZGUx`

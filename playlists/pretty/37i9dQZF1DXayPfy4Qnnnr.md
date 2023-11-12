@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,367 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,429 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 29 | [O C B](https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 2:31 |
 | 30 | [Emily](https://open.spotify.com/track/74C1HMWK9xA575Xr60Mt1k) | [Soan](https://open.spotify.com/artist/4Bxixr2SfkADo7S4aZXgCw) | [Tant pis](https://open.spotify.com/album/5W2UTG8meZ7cXm7hMCTM8q) | 2:51 |
 | 31 | [Sex accordéon et alcool](https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ) | [Java](https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi) | [Hawaï](https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn) | 4:25 |
-| 32 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
-| 33 | [Danser encore](https://open.spotify.com/track/3lDn0RxZWGTKymCSn0Oz07) | [HK](https://open.spotify.com/artist/4NLRYOb9UpbCP4pPMJA47q) | [Danser encore](https://open.spotify.com/album/0ecZb9EcAuskkHks4Ujjii) | 5:26 |
+| 32 | [Danser encore](https://open.spotify.com/track/3lDn0RxZWGTKymCSn0Oz07) | [HK](https://open.spotify.com/artist/4NLRYOb9UpbCP4pPMJA47q) | [Danser encore](https://open.spotify.com/album/0ecZb9EcAuskkHks4Ujjii) | 5:26 |
+| 33 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
 | 34 | [J'aurais bien voulu](https://open.spotify.com/track/04sJ4GGfVm1fVpJvBQGngk) | [Babylon Circus](https://open.spotify.com/artist/3crfLODQuodxW8R8iLqkPH) | [Dances of Resistance](https://open.spotify.com/album/3EhDGfnsl1tRX5ZA62qpgA) | 3:22 |
 | 35 | [Y' a pas d'arrangement](https://open.spotify.com/track/7sUzkDEQVDowGyLgyjTuDv) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF) | 4:31 |
 | 36 | [Les gens raisonnables](https://open.spotify.com/track/14FWWR9YkXEv4PtL7N8yFH) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 49 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 | 50 | [Kana diskan](https://open.spotify.com/track/3DDozsIhKdjaOhnEPwn9H3) | [Rasta Bigoud](https://open.spotify.com/artist/6bEut48ficVPo2kEIuxwSY) | [Kana diskan](https://open.spotify.com/album/3GH2MvtPq2yI84Em13I0GU) | 3:46 |
 
-Snapshot ID: `MCwyZDBkYmU5ZjY4NWM3MmNjODZkMWE5YmQ0OTM2ZjU1NmZhMzYzN2Vh`
+Snapshot ID: `MCxjOGUzMTYxOGZkN2E3ZmZhYzllMjc0M2Y5ZmIxODZhMmEzZThjMDlk`

@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Kids Fallin' In Love",
+        "url": "https://open.spotify.com/album/3Oj3atBb4dIjxBZsmwLgzC"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Kids Fallin' In Love",
+      "url": "https://open.spotify.com/track/4l6NjiwO1z6wcyIDYIUi7P"
+    },
+    {
+      "album": {
         "name": "Boys, B-Sides & Rarities",
         "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
       },
@@ -9770,7 +9788,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 174000,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"

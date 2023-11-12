@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: CLUBZ & Little Jesus",
-  "num_followers": 508276,
+  "num_followers": 508289,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjQ3MzIzOTc0YzVmNDZhNGNlMTMzNjZiZmQ5NzAwYTk0MzA3MDJi",
+  "snapshot_id": "MCxhNzExODlkNDZhOWY2ZjYyMTNiMGU2ZTMyOTY2MDBhMTgyMTVhNDY1",
   "tracks": [
     {
       "added_at": "2023-11-10 05:07:04",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "Mamita Santa",
+        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Mamita Santa",
+      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "Mamita Santa",
-        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Mamita Santa",
-      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "Use Me Too",
+        "url": "https://open.spotify.com/album/77goeeluwLAm2exjXnmUtl"
+      },
+      "artists": [
+        {
+          "name": "Geo",
+          "url": "https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh"
+        }
+      ],
+      "duration_ms": 107520,
+      "name": "Use Me Too",
+      "url": "https://open.spotify.com/track/0Pa6YGPTs86gFrEkxAOthL"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "Jugo de Guayaba",
         "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
-        "name": "Use Me Too",
-        "url": "https://open.spotify.com/album/77goeeluwLAm2exjXnmUtl"
-      },
-      "artists": [
-        {
-          "name": "Geo",
-          "url": "https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh"
-        }
-      ],
-      "duration_ms": 107520,
-      "name": "Use Me Too",
-      "url": "https://open.spotify.com/track/0Pa6YGPTs86gFrEkxAOthL"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
         "name": "SIN MIRAR (feat. CLUBZ)",
         "url": "https://open.spotify.com/album/0kgmX1KIPiZBBa16LhYZJM"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
         "name": "En qu\u00e9 pienso cuando lloro",
         "url": "https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 201903,
       "name": "22:22",
       "url": "https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
-        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
-        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
-      },
-      "artists": [
-        {
-          "name": "L\u00daA",
-          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
-      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
         "name": "Salvaje oeste",
         "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
+      },
+      "artists": [
+        {
+          "name": "L\u00daA",
+          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "A TI",
         "url": "https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "Midnight Freak-Out",
-        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Midnight Freak-Out",
-      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "Midnight Freak-Out",
+        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Midnight Freak-Out",
+      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "Discoman\u00eda",
         "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
         "name": "Solo Tu",
         "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 166000,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
       },
@@ -1079,42 +1095,6 @@
       "duration_ms": 185667,
       "name": "no es culpa m\u00eda",
       "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "Qu\u00e9 tal? Yo igual",
-        "url": "https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        },
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Qu\u00e9 tal? Yo igual",
-      "url": "https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -1151,6 +1131,26 @@
       "duration_ms": 175813,
       "name": "Mi Droga Favorita",
       "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
+        "name": "Qu\u00e9 tal? Yo igual",
+        "url": "https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Qu\u00e9 tal? Yo igual",
+      "url": "https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Insurgentes",
+      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "Migajas",
         "url": "https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 376325,
       "name": "La Sombra del Amanecer",
       "url": "https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Insurgentes",
-      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
-        "name": "Diamante y L\u00e1grima",
-        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Diamante y L\u00e1grima",
-      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
         "name": "Ac\u00e1",
         "url": "https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-11-10 05:07:04",
       "album": {
+        "name": "Diamante y L\u00e1grima",
+        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Diamante y L\u00e1grima",
+      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -1611,6 +1611,38 @@
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "added_at": "2023-11-10 05:07:04",
+      "album": {
+        "name": "Si Volviera A Conocerte",
+        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 191924,
+      "name": "Si Volviera A Conocerte",
+      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
     },
     {
       "added_at": "2023-11-10 05:07:04",
@@ -1639,38 +1671,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "Si Volviera A Conocerte",
-        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 191924,
-      "name": "Si Volviera A Conocerte",
-      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
-    },
-    {
-      "added_at": "2023-11-10 05:07:04",
-      "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2023-11-10 05:07:04",

@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-195 songs - 16 hr 17 min
+196 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [A Woman's Worth \(Live\) \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 3:30 | 2022-02-10 |  |
 | [Add To Me \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 3:40 | 2022-02-10 |  |
 | [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1GObAbNNxVnMhhB4Q5HIEk) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Live At The Copa & With A Lot Of Soul](https://open.spotify.com/album/3GO8yF9VD1N7Ebkqfhb6vn) | 3:00 | 2022-02-10 | 2022-07-14 |
-| [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 3:02 | 2023-04-06 |  |
+| [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 3:02 | 2023-04-06 | 2023-11-12 |
 | [Ain't No Sunshine \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 2:57 | 2022-02-10 |  |
+| [Ain't Nobody \(Live\)](https://open.spotify.com/track/5xMgkUnttADrwLuZztGnQh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/4Sys55gf8KBZBAdqzHNvM5) | 6:14 | 2023-05-15 |  |
 | [Ain't Nobody \- Live](https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY) | 6:14 | 2022-02-10 | 2023-11-04 |
 | [Angel \(Live\)](https://open.spotify.com/track/0QmLbWOTGnaMgUCL8xfWiw) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/4XPHspoSgvDO0ongX1PVKv) | 5:42 | 2022-02-10 | 2022-07-17 |
 | [Angel \(Live\)](https://open.spotify.com/track/42hLkkn22QbmhYr4UUeICf) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 5:42 | 2022-02-10 |  |

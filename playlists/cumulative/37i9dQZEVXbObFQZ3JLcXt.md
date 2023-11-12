@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-467 songs - 1 day 4 hr 38 min
+468 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2021-03-27\* | 2021-06-12 |
 | [Sudah \- Story of Kale \- Original Motion Picture Soundtrack](https://open.spotify.com/track/5QGdWvXwXMK2Zx6eKagyue) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Sudah \(Story of Kale \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI) | 3:26 | 2021-03-27\* | 2021-05-23 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-11 | 2023-10-06 |
-| [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2023-08-26 |  |
+| [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2023-08-26 | 2023-11-12 |
 | [Tak Ingin Usai](https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:38 | 2023-05-20 | 2023-09-22 |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-05-23 | 2023-05-21 |
 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-15 | 2023-10-21 |
@@ -418,6 +418,7 @@
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2022-11-19 | 2023-03-12 |
 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 | 2023-10-22 |  |
 | [Tanpa Rasa Bersalah](https://open.spotify.com/track/1FSEm5Uc8TqFy0UZkMuEMZ) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:38 | 2023-10-01 |  |
+| [Tapi Tahukah Kamu?](https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG) | [Dygta](https://open.spotify.com/artist/0LivMD6P6pi2yfZf1rIAat), [Kamasean](https://open.spotify.com/artist/2CnDUzCYPBjERuVMFQm8zX) | [Tapi Tahukah Kamu?](https://open.spotify.com/album/2MMTMsyPfgyDewVRuYY9TH) | 4:11 | 2023-11-11 |  |
 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2023-06-10 | 2023-08-22 |
 | [Tenang](https://open.spotify.com/track/6ICTnGsaokIDEYobnwuCjZ) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tenang](https://open.spotify.com/album/3jBKuTZYLpu7x5fl6PEtEH) | 4:07 | 2021-04-23 | 2021-10-23 |
 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 | 2021-10-23 | 2021-10-28 |

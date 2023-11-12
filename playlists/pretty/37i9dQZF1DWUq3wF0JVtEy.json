@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938787,
+  "num_followers": 938850,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzM0MjMzOWQzYWEzZWNlZWNkMWYyMDM2NzhjZTUyYWQ5ZjJiZWNl",
+  "snapshot_id": "MCxhMmFjYmI3MTY5MWZhZjE1NjQ1ODAxYzBkMzdlNmE5ZGViMzhhOThj",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Party Crashers",
         "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 155520,
       "name": "Party Crashers",
       "url": "https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "TikTak",
         "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 137204,
       "name": "TikTak",
       "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Losing My Head",
-        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Losing My Head",
-      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Fool Me",
-        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
+        "name": "Losing My Head",
+        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
       "artists": [
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         }
       ],
-      "duration_ms": 133600,
-      "name": "Fool Me",
-      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
+      "duration_ms": 189289,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 107536,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 166954,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
       },
@@ -1563,22 +1547,34 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+      "duration_ms": 166954,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1611,18 +1607,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Pop That",
         "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2023-11-10 05:00:00",

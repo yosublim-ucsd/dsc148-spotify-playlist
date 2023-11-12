@@ -1,13 +1,29 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Fergus James",
-  "num_followers": 120784,
+  "num_followers": 120823,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDkzNDUyZjJjMWNkNzdmMzc5OGVhODU5OTAyYzA0YjM0YmNhZjg3",
+  "snapshot_id": "MCxhMDBhMTU3NjczMGJjNzE2MTdiMTcxMDIxY2I4NmZjMjE4YTY1NzEw",
   "tracks": [
+    {
+      "added_at": "2023-11-09 13:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
     {
       "added_at": "2023-11-09 13:00:00",
       "album": {

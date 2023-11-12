@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,895 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,928 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 5 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 |
 | 6 | [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 |
 | 7 | [Fragment II](https://open.spotify.com/track/7vv4tJIsMFm3XnDHikiwIc) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [Fragment](https://open.spotify.com/album/7505vXtzFDmbNt4QRKE5by) | 4:00 |
-| 8 | [In McDonalds](https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 2:06 |
-| 9 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 |
+| 8 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 |
+| 9 | [In McDonalds](https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 2:06 |
 | 10 | [01 Ghosts I](https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 2:48 |
 | 11 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
 | 12 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 61 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
 | 62 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 63 | [The Unfinished](https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 4:38 |
-| 64 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
-| 65 | [All The Big Trees \- 2019 Remaster](https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 5:15 |
+| 64 | [All The Big Trees \- 2019 Remaster](https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 5:15 |
+| 65 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
 | 66 | [I'm Too Sleepy...Shall We Swim?](https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:13 |
 | 67 | [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85) | 7:04 |
 | 68 | [Tarazed](https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU) | 5:03 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 79 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 |
 | 80 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
 | 81 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
-| 82 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
-| 83 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
+| 82 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
+| 83 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
 | 84 | [chessa](https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 6:58 |
 | 85 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
 | 86 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 | 100 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 
-Snapshot ID: `MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5`
+Snapshot ID: `MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5`

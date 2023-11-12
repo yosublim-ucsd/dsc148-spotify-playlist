@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 27880,
+  "num_followers": 27900,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
+  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -99,18 +99,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "te odio",
-        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
+        "name": "Los Movimientos",
+        "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
       },
       "artists": [
         {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 170126,
-      "name": "te odio",
-      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+      "duration_ms": 302602,
+      "name": "Viajar en Metro",
+      "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
     },
     {
       "added_at": "2023-09-03 23:24:36",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Los Movimientos",
-        "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
+        "name": "te odio",
+        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
       },
       "artists": [
         {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
         }
       ],
-      "duration_ms": 302602,
-      "name": "Viajar en Metro",
-      "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
+      "duration_ms": 170126,
+      "name": "te odio",
+      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Flash Memory",
         "url": "https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 135083,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Camino de Luces",
-        "url": "https://open.spotify.com/album/02hgy9GKf5LK2fd3h3gsas"
-      },
-      "artists": [
-        {
-          "name": "Silver Rose",
-          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
-        },
-        {
-          "name": "Vaya Futuro",
-          "url": "https://open.spotify.com/artist/3v8X0m4yk7Arhcu2YcG7E5"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Camino de Luces",
-      "url": "https://open.spotify.com/track/5I93GjZkHOlcpw3QVTdiKe"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 262955,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Camino de Luces",
+        "url": "https://open.spotify.com/album/02hgy9GKf5LK2fd3h3gsas"
+      },
+      "artists": [
+        {
+          "name": "Silver Rose",
+          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
+        },
+        {
+          "name": "Vaya Futuro",
+          "url": "https://open.spotify.com/artist/3v8X0m4yk7Arhcu2YcG7E5"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Camino de Luces",
+      "url": "https://open.spotify.com/track/5I93GjZkHOlcpw3QVTdiKe"
     },
     {
       "added_at": "2023-05-05 06:00:00",

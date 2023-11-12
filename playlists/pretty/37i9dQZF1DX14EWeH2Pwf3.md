@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Salmo, Noyz Narcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,264 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,577 likes - 52 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 51 | [Brutto Sogno](https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Brutto Sogno](https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh) | 3:05 |
 | 52 | [Per Un Fra \(feat\. Ernia\)](https://open.spotify.com/track/0HDzbi541smhqa0MmgXP27) | [Cancun](https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Per Un Fra \(feat\. Ernia\)](https://open.spotify.com/album/5y2jaYIjhAdIbftphOEZ9V) | 2:34 |
 
-Snapshot ID: `MCw2ODEzM2I1YjFiNDdiOGQ0ZjA1YjBiODU0MjRiN2UzYTYzNjVlMmIz`
+Snapshot ID: `MCwyYzlmMDVmZDM5YzIzYWJhZGFlZTYzZjgyMmQ3OTJhNjM3ZmJjYmVi`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 91272,
+  "num_followers": 91315,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzUyMTljMzc2MTA0MWI4MDFmMjU1NGYxYzE1ZDAzNWIwMTQ4NzBj",
+  "snapshot_id": "MCw4YzFiNWIxYTliNWEwMWY3MTk3YjI2N2U5YjM3YjkwNmFlOGU2NDE5",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -591,22 +591,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Original Love",
-        "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
       },
       "artists": [
         {
-          "name": "Christafari",
-          "url": "https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO"
-        },
-        {
-          "name": "Avion Blackman",
-          "url": "https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO"
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
         }
       ],
-      "duration_ms": 248857,
-      "name": "Good Good Father (feat. Avion Blackman)",
-      "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
+      "duration_ms": 223516,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -631,18 +627,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
+        "name": "Original Love",
+        "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
       },
       "artists": [
         {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+          "name": "Christafari",
+          "url": "https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO"
+        },
+        {
+          "name": "Avion Blackman",
+          "url": "https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO"
         }
       ],
-      "duration_ms": 223516,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
+      "duration_ms": 248857,
+      "name": "Good Good Father (feat. Avion Blackman)",
+      "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
       },
       "artists": [
         {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
         }
       ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
       "artists": [
         {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
         }
       ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -847,6 +847,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Quinto Elemento",
+        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kelly",
+          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "Va Cae",
+      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 224783,
       "name": "Yo Te Prometo",
       "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Quinto Elemento",
-        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kelly",
-          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "Va Cae",
-      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

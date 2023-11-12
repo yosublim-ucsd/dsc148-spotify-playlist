@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,921 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,920 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 48 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
 | 49 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:27 |
 | 50 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
-| 51 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
-| 52 | [Thief](https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:24 |
+| 51 | [Thief](https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:24 |
+| 52 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
 | 53 | [Because He Lives \(Amen\)](https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Because He Lives \(Amen\)](https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H) | 3:20 |
 | 54 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
 | 55 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 
-Snapshot ID: `MCw1YTI5NWM2N2YyZDI3MGUwZmEzMmJhMDFkMjk2Yjg5M2M5Y2Y3ZGZi`
+Snapshot ID: `MCwwNDNlNjBlOGVmMTZiOTFjMjYzYjhmZTEwYTBiZjBiZWIxNDQ5ZmQ3`

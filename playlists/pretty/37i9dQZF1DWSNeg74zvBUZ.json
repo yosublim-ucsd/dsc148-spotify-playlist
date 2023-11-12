@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19226,
+  "num_followers": 19224,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
+  "snapshot_id": "MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -301,26 +301,6 @@
       "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 426533,
-      "name": "First Light - Remastered 2004",
-      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
-    },
-    {
       "added_at": "2022-12-21 06:00:00",
       "album": {
         "name": "Alaskan Dream",
@@ -343,6 +323,26 @@
       "duration_ms": 320965,
       "name": "Alaskan Dream",
       "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 426533,
+      "name": "First Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
-      "added_at": "2021-11-12 05:17:41",
-      "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 298061,
-      "name": "Mary, You Were Wrong",
-      "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
-    },
-    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Radio Amor",
@@ -491,6 +475,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2021-11-12 05:17:41",
+      "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 298061,
+      "name": "Mary, You Were Wrong",
+      "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 128354,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Scacco Matto",
         "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 299413,
       "name": "Canone Infinito",
       "url": "https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 128354,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
+        "name": "Fi",
+        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
       },
       "artists": [
         {
-          "name": "Forest Walks",
-          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 178260,
-      "name": "A New Day",
-      "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
+      "duration_ms": 122012,
+      "name": "It Was Willow",
+      "url": "https://open.spotify.com/track/7qpuXw0hLcJtZ6aa5WiagC"
     }
   ],
   "unique_name": "Morning First Light",

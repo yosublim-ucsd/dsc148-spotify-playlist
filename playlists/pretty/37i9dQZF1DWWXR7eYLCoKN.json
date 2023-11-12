@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 132706,
+  "num_followers": 132810,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2U0ZTg4ZmVhZjM2ZDJmYmIwMjYyMmEzYTMzNzNlMGM5NjBkZTY5",
+  "snapshot_id": "MCw2ODRkMDJmMTU3MTI3ZTI2MWE1MWY0ZTJmMzdkMDNiNWEzYTM5YTg0",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Tropicalia 2",
+        "url": "https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso e Gilberto Gil",
+          "url": "https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl"
+        }
+      ],
+      "duration_ms": 311240,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Tropicalia 2",
-        "url": "https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso e Gilberto Gil",
-          "url": "https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl"
-        }
-      ],
-      "duration_ms": 311240,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Quanta (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CKqspEMfjrXmtfkOgVJnH"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "P\u00e9 do Meu Samba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "J\u00e1 ouviu falar de amor?",
         "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 184617,
       "name": "Samba",
       "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "P\u00e9 do Meu Samba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Samba Teresa",
-        "url": "https://open.spotify.com/album/6G39y3eaasUT4iJSer4Hvx"
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        },
-        {
-          "name": "Clara Coral",
-          "url": "https://open.spotify.com/artist/5vBtTV3EdmAiUxpw3tDEEz"
+          "name": "Candeia",
+          "url": "https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F"
         }
       ],
-      "duration_ms": 193142,
-      "name": "Samba Teresa",
-      "url": "https://open.spotify.com/track/5RMVWN6PTVptYaVE7kE6QN"
+      "duration_ms": 214253,
+      "name": "Express\u00e3o do Teu Olhar",
+      "url": "https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Quatro Grandes Do Samba",
-        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+        "name": "Samba Teresa",
+        "url": "https://open.spotify.com/album/6G39y3eaasUT4iJSer4Hvx"
       },
       "artists": [
         {
-          "name": "Candeia",
-          "url": "https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F"
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        },
+        {
+          "name": "Clara Coral",
+          "url": "https://open.spotify.com/artist/5vBtTV3EdmAiUxpw3tDEEz"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Express\u00e3o do Teu Olhar",
-      "url": "https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa"
+      "duration_ms": 193142,
+      "name": "Samba Teresa",
+      "url": "https://open.spotify.com/track/5RMVWN6PTVptYaVE7kE6QN"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
-        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
-      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Sarav\u00e1, Paz e Bem",
         "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
+        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
+      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "NEKTAR",
+        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "LONGE LONGE DE MIM",
+      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "NEKTAR",
-        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "LONGE LONGE DE MIM",
-      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 306906,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Urucungo",
         "url": "https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 311590,
       "name": "Alquimias",
       "url": "https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs"
     },
     {
       "added_at": "2023-11-10 03:01:00",

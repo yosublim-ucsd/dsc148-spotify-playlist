@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,457 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,492 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baarish Ke Aane Se](https://open.spotify.com/track/7zkdhpXOGATPZDelzXE7ae) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Baarish Ke Aane Se](https://open.spotify.com/album/5Qjv9KUc0QP4HwCtie4oc7) | 4:00 |
-| 2 | [Tujhe Yaad Na Meri Ayee\-2](https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Tujhe Yaad Na Meri Ayee\-2](https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T) | 4:54 |
+| 2 | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T) | 4:54 |
 | 3 | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ) | 2:08 |
 | 4 | [Tere Ishq Ne](https://open.spotify.com/track/21VrC3LcsXjjkhnP0xkliY) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Ashish Khandal](https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF) | [Tere Ishq Ne](https://open.spotify.com/album/6sKEe2XgqH46u9ShRWCW7J) | 3:07 |
 | 5 | [Maahi](https://open.spotify.com/track/2pgMykS4vRfWjCn3HBW7Sl) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3), [Vishal Pandey](https://open.spotify.com/artist/5y04rD8ihZfeNmcqK0W6eu) | [Maahi](https://open.spotify.com/album/6jivYUnmRY2K14DtcisrcM) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 |
 | 50 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCxmN2U0YmM3MWNkODE5MWRkOGQxNzhiNTRhZmQ2YWRmMGZjZDg1N2Vm`
+Snapshot ID: `MCxkZDdkOGJmZDczMTVmMzcxYTA3MmMwNzdiYjdlMjNlZTU2MTc3ZWQ5`

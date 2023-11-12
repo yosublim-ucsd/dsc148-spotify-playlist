@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-407 songs - 23 hr 19 min
+408 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Fractional](https://open.spotify.com/track/2VDIAPnl1EikA70Ac1SzDd) | [Hundred Suns](https://open.spotify.com/artist/6kCXtTwJRgeHMNP8xPVehT) | [The Prestaliis](https://open.spotify.com/album/0JviA3bdJiw5MWZeb00FoV) | 3:39 | 2021-11-30 | 2022-07-28 |
 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 | 2023-03-17 |  |
 | [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-17 | 2023-05-14 |
-| [Gacked On Anger](https://open.spotify.com/track/0U1uG8n1zkZzwRS1KBMh9z) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo) | 1:49 | 2023-06-20 |  |
+| [Gacked On Anger](https://open.spotify.com/track/0U1uG8n1zkZzwRS1KBMh9z) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo) | 1:49 | 2023-06-20 | 2023-11-12 |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-27 | 2023-04-24 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2022-04-01 |  |
 | [Ghost in My Home](https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/18EL26qP11mySASVZGWIAf) | 3:20 | 2021-11-30 | 2022-07-29 |
@@ -215,7 +215,7 @@
 | [Let This Haunt You](https://open.spotify.com/track/1by2v1FyB31BU9YLh3vnMP) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/42sGcJlrHE4Q33i5QHfMre) | 3:45 | 2021-11-30 | 2022-07-29 |
 | [Let This Haunt You](https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE) | 3:45 | 2022-04-01 |  |
 | [Let's Call It Closure](https://open.spotify.com/track/0x45wicV30nT3KHYLLRjbf) | [Love Like Fiction](https://open.spotify.com/artist/6eXZYKQ73pPtWNNJGwsCDZ) | [Let's Call It Closure](https://open.spotify.com/album/7InI9STAGdcjLbpHmJqX1p) | 3:01 | 2021-11-30 | 2022-04-18 |
-| [Lifeguard](https://open.spotify.com/track/4APrX8rA13avGMevPGxinl) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Lifeguard](https://open.spotify.com/album/5Kx82DKJqipNxUsBegUQqY) | 0:29 | 2021-11-30 | 2022-07-02 |
+| [Lifeguard](https://open.spotify.com/track/4APrX8rA13avGMevPGxinl) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Lifeguard](https://open.spotify.com/album/5Kx82DKJqipNxUsBegUQqY) | 3:12 | 2021-11-30 |  |
 | [Like a Shadow](https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:55 | 2021-11-30 |  |
 | [Like A Villain](https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:30 | 2022-04-01 |  |
 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 | 2022-01-21 | 2022-11-06 |
@@ -266,6 +266,7 @@
 | [Now and Forever \(feat\. Trevor Wentworth\)](https://open.spotify.com/track/4bU3F1DmfAJl9G5Xej0x5T) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Trevor Wentworth](https://open.spotify.com/artist/5KbGFayCcgjhbERvopbO5X) | [Now and Forever Ft\. Trevor Wentworth](https://open.spotify.com/album/4vr9ap1i58PA40b3XOmwkZ) | 3:29 | 2021-11-30 | 2022-07-26 |
 | [Numb](https://open.spotify.com/track/6d2jqNfzQVRQvrf9RmDBZf) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:41 | 2022-12-13 | 2023-01-20 |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-26 | 2023-03-18 |
+| [One in a Million](https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U) | 3:41 | 2023-06-20 |  |
 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 | 2021-11-30 | 2023-11-04 |
 | [One Love](https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [One Love](https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN) | 3:23 | 2023-01-27 | 2023-05-02 |
 | [Only Apathy](https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Delicate](https://open.spotify.com/album/2QmrpJjOedaEbBr1x2OpSH) | 4:34 | 2021-11-30 | 2022-07-29 |
@@ -362,7 +363,7 @@
 | [Synthetic Sympathy](https://open.spotify.com/track/5U87poJhGdDVROtitLtEyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Synthetic Sympathy](https://open.spotify.com/album/381HXBJcgKxxeRLYX8i9nx) | 3:36 | 2021-11-30 | 2022-07-29 |
 | [Take Your Pill](https://open.spotify.com/track/4rfa4cvs3mkw0Sm2bQtlGN) | [Belle Haven](https://open.spotify.com/artist/0JjhdljC5dBfEV7mGJGeLh) | [Take Your Pill](https://open.spotify.com/album/5fOJzfkFMdUoFEl7wbz9M8) | 3:21 | 2021-11-30 | 2022-07-20 |
 | [Takeover](https://open.spotify.com/track/3fFI5D9ExkYFhBEGkLFz0A) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [B\-Sides](https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17) | 2:58 | 2021-11-30 | 2022-07-23 |
-| [Takeover](https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 2:58 | 2022-04-01 |  |
+| [Takeover](https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 2:58 | 2022-04-01 | 2023-11-12 |
 | [Talking In Your Sleep](https://open.spotify.com/track/2I8IEJxcTDJpNszohSbnb6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Talking In Your Sleep](https://open.spotify.com/album/0NNmXVhEmeyEE3EWSKo6lx) | 3:45 | 2021-11-30 | 2022-07-27 |
 | [Talking to Myself](https://open.spotify.com/track/0sSaGJ6KOJC6MR3yFTq5J8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 3:10 | 2022-04-01 | 2022-10-04 |
 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 | 2022-04-01 |  |

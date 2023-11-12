@@ -2,7 +2,7 @@
 
 ### [Rap Motivazionale](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> È nei momenti difficili che non devi smettere di crederci 💪 Rap motivazionale feat\. Rafa Leão!
+> Rap per non smettere mai di crederci 💪
 
 185 songs - 10 hr 16 min
 

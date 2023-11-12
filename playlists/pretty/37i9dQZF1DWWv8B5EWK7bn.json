@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 169278,
+  "num_followers": 169350,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmY4NDkzNDZiNjMxNzNlZTU1NTcwNzQ3ZmI4YWU4OTRlOWQ3YzQ0",
+  "snapshot_id": "MCw2MDJiNTY4NTk2MDI0MzU2YzRjNjNhYzFhNTI1MDM5MzJiNWE4NDMy",
   "tracks": [
     {
       "added_at": "2023-11-10 01:13:32",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
-      "added_at": "2022-07-15 05:42:04",
-      "album": {
-        "name": "Arkhon",
-        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 204262,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Silver Ladders",
@@ -507,6 +491,22 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2022-07-15 05:42:04",
+      "album": {
+        "name": "Arkhon",
+        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 204262,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -637,30 +637,6 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2022-09-29 00:57:24",
-      "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
-      },
-      "artists": [
-        {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Gang Gang Dance",
-          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Crime Seed",
-      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "All Through The Day",
@@ -693,22 +669,6 @@
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2022-07-19 04:00:00",
       "album": {
         "name": "\u00a1Ay!",
@@ -723,6 +683,46 @@
       "duration_ms": 187307,
       "name": "Atemporal",
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
+    },
+    {
+      "added_at": "2022-09-29 00:57:24",
+      "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Crime Seed",
+      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Heartlow",
@@ -1095,6 +1079,22 @@
       "duration_ms": 218925,
       "name": "Heartlow - Edit",
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+    },
+    {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-09-25 01:38:39",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
       "added_at": "2022-02-09 04:04:07",
       "album": {
         "name": "Sans oublier",
@@ -1159,6 +1143,22 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Vines",
@@ -1555,6 +1539,22 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
       "added_at": "2022-08-13 01:40:58",

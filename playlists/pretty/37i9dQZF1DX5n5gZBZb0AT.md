@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,941 likes - 40 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,564 likes - 40 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 26 | [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 |
 | 27 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
 | 28 | [Ambition For Cash](https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2](https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i) | 2:23 |
-| 29 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |
-| 30 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Phonk Vol 1\]](https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h) | 2:44 |
+| 29 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Phonk Vol 1\]](https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h) | 2:44 |
+| 30 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |
 | 31 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 32 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
 | 33 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
 | 40 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 
-Snapshot ID: `MCw3MWNmZmI1OGFjZGI2YmRmZTIyZjNjYzFmOTQwYjlmYTU4MTY3NjJk`
+Snapshot ID: `MCw2MWZiMGFmNjQyZjU2NTZjMDVlMTUwMzYxZTc2NGQzODY5ZDU1NjA4`

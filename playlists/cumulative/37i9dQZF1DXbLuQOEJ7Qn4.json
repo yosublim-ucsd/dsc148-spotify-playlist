@@ -432,7 +432,7 @@
     {
       "album": {
         "name": "Ginger Pubes / Blurgh!",
-        "url": "https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK"
+        "url": "https://open.spotify.com/album/54RmCOwOUlWLkZQbbG1zcq"
       },
       "artists": [
         {
@@ -443,6 +443,24 @@
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 309561,
+      "name": "Ginger Pubes",
+      "url": "https://open.spotify.com/track/0xp0U9YtEv0u58gr3JZdgE"
+    },
+    {
+      "album": {
+        "name": "Ginger Pubes / Blurgh!",
+        "url": "https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monsta",
+          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-12",
       "duration_ms": 309561,
       "name": "Ginger Pubes",
       "url": "https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B"

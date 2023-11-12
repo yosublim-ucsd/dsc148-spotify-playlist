@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,336 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,400 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Piece Of Me](https://open.spotify.com/track/5xCKDXzh2JPFFcyHr39ROH) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Piece Of Me](https://open.spotify.com/album/7upcRDTY9YCYtAxuZkpJa2) | 3:07 |
 | 50 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
 
-Snapshot ID: `MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi`
+Snapshot ID: `MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz`

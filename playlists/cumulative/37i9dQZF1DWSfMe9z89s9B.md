@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Unsual Demont
 
-1,021 songs - 2 day 6 hr 37 min
+1,022 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everybody's Gotta Learn Sometimes](https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-09-29 |  |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-07-02 |
-| [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 |  |
+| [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 | 2023-11-12 |
 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 | 2021-04-02 | 2022-07-27 |
 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 | 2022-10-28 | 2023-02-18 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-04-01 | 2022-07-16 |
@@ -887,6 +887,7 @@
 | [The Bloom](https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [ULTRAMARINE](https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW) | 1:54 | 2022-12-10 |  |
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-03-19 | 2022-07-30 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-05 |  |
+| [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-10 |  |
 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 |  |
 | [The Greatest Smile](https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 4:40 | 2022-11-11 | 2023-10-16 |
 | [THE PEACH](https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [THE PEACH](https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI) | 2:26 | 2023-03-17 | 2023-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Don Pero
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,694 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,726 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [GHOSTBUSTERS](https://open.spotify.com/track/7kp2AdxHK8C8XDjFhm4URC) | [BADMAN](https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p) | [GHOSTBUSTERS](https://open.spotify.com/album/0kg04T7OYCqLJOTiBHmo3B) | 2:32 |
 | 50 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 |
 
-Snapshot ID: `MCwwZTM3ZWFjMDMwZWNlOGNkOTM2ZGYxZWUzMDcyODI3M2ZiY2VlNzI1`
+Snapshot ID: `MCxmNjgyM2VkMzE0N2FhOGZmOWVkMjgwY2JkNDVlM2JjZmRjZjc1ZTcx`

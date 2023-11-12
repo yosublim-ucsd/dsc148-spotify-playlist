@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,221 likes - 207 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,272 likes - 207 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 206 | [Morass](https://open.spotify.com/track/1FXshXB0McPgzDJdWSHDZF) | [Caitrìona Caitir](https://open.spotify.com/artist/5lbTGHBF3QM93KDgX5hsEH) | [Morass](https://open.spotify.com/album/3nF9JLo09IJE2Hy1xc8Cn5) | 2:10 |
 | 207 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 |
 
-Snapshot ID: `MCw5YmUzMWVkOTZhMWIzYzQ0NTZjNzFjZjU1ZDAzYWE5MzBhZmIzYTg0`
+Snapshot ID: `MCxmZTkwNDM0Y2NhNmY4YmYwMWQ4ODcyNDY0NzNlMDc2YzM3YTlmYzNl`

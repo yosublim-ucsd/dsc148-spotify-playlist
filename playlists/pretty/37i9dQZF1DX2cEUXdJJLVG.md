@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,624 likes - 174 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,638 likes - 174 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Onto Something](https://open.spotify.com/track/6x5RE5nzcVFbHSvnUzI6tX) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Onto Something](https://open.spotify.com/album/33dBJKFbqZWNwsXTUXnAcA) | 4:00 |
 | 2 | [Summer Nights](https://open.spotify.com/track/3w5Iw9ZZIc9D7pzvFz9La1) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Summer Nights](https://open.spotify.com/album/0tPnCgMixUXYJLa21ZzNux) | 2:51 |
-| 3 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
+| 3 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 4 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
 | 5 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 6 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 30 | [Settling](https://open.spotify.com/track/3ubrxuCaFCWDTIE0pcZH70) | [The Park](https://open.spotify.com/artist/4Y6lbDkzYvLHs91DVbpeUu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Settling](https://open.spotify.com/album/5QesinUPN06YX7UKR4xDQ7) | 3:57 |
 | 31 | [OASIS \(Demo 22.03.2022\)](https://open.spotify.com/track/3ZVVuGFulJfxMCG7RauGhp) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [OASIS](https://open.spotify.com/album/1t6WPyaoHQmCugRRvT32RW) | 4:32 |
 | 32 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 |
-| 33 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
+| 33 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 34 | [Pleasure & Pain](https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0) | [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [Solstice](https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL) | 2:58 |
 | 35 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 |
 | 36 | [Manifesto \(feat\. Jungle By Night\)](https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 7:23 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 173 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 |
 | 174 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCwyNTViMTY1MmRhNjY5NzEzMzFhYzVhOTE5ZjQzNGQ1YjhjZjUxNGE0`
+Snapshot ID: `MCxkZDUyNDJjZGFlNzNkMzBmNTBjZTI4NmI4MjEzMGQzYTYzNzkyYTE1`

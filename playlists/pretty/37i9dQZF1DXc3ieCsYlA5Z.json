@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Reggaeton de todos los tiempos! \ud83d\udc10 Cover: Don Omar",
-  "num_followers": 16799,
+  "num_followers": 16957,
   "original_name": "Reggaeton GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjU2YjlhMjNiYTczZTQ4ZDk0ODA3ODc3Zjc5MzcwZTQ4NTFkZTJm",
+  "snapshot_id": "MCxhM2NkY2M5YTNiMzU5NzllNGQ2NTIxYmEwZmM5ODE5NzY4MmRhNjZm",
   "tracks": [
     {
       "added_at": "2023-08-02 22:02:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210546,
       "name": "Esta Noche de Travesuras",
       "url": "https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2023-08-02 22:02:49",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "No Te Veo - Digital Single",
+      "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 254480,
       "name": "Pobre Diabla",
       "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
-        "name": "No Te Veo",
-        "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "No Te Veo - Digital Single",
-      "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
     },
     {
       "added_at": "2023-08-02 22:02:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0jicrrstuAzf6GLIUdwAQk"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 251920,
       "name": "Dejale Care To' el Peso",
       "url": "https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jicrrstuAzf6GLIUdwAQk"
     }
   ],
   "unique_name": "Reggaeton GOATs",

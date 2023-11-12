@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,089 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,165 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 49 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 |
 | 50 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 |
 | 51 | [En tu pelo](https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Noche Fantástica](https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj) | 3:37 |
-| 52 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
+| 52 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
 | 53 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 |
-| 54 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
+| 54 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
 | 55 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1) | 3:01 |
 | 56 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
 | 57 | [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 |
 | 65 | [Llévame](https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:53 |
 
-Snapshot ID: `MCw4Nzk1OGRkYjUzYTIxYTEzYjZhOGQ4NDIzOGI3YzNlZDkwMmVmNTNm`
+Snapshot ID: `MCxjNTdlNDZkMjlmYTQ2ZjU2NmM0Nzc5YmU2ZjRhZWVkZGRmMjlhZGQ0`

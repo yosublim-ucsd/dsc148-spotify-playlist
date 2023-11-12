@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > We're back! The newest Hip\-Hop, refreshed weekly\. Cover: Pressa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,699 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,720 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 |
 | 49 | [been a long day](https://open.spotify.com/track/08AAf8wcx8aq1V9n2ROwqq) | [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn) | [been a long day](https://open.spotify.com/album/0c7BQEPfu2VWawWVAlg0ry) | 2:38 |
 
-Snapshot ID: `MCwxNjhjNDIxOTZhZTA1YTVlMDU2NmQ1ODYwNmJmOWM2Y2UxM2Q3OGJh`
+Snapshot ID: `MCw4YThkMjg1NDA2NGMxY2JiZGUzZjk4MjMzYTMzY2MxM2Y1NGYzNjRh`

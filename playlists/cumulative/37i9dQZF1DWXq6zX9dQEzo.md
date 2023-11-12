@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-491 songs - 1 day 0 hr 30 min
+492 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dangerous](https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Dangerous](https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL) | 2:32 | 2022-03-23 |  |
 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 | 2023-08-11 |  |
 | [DAY ONES](https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ) | [DAY ONES](https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD) | 3:12 | 2022-07-17 | 2023-11-03 |
+| [DEAD OR ALIVE](https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [DEAD OR ALIVE](https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx) | 2:40 | 2023-11-02 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-08-11 |  |
 | [Die Empty](https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Major Moves](https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz) | 4:10 | 2022-11-04 |  |
 | [Dios Es la Vuelta](https://open.spotify.com/track/0HsVzHslRJxTCW0UJK6DEo) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Dios Es la Vuelta](https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M) | 2:35 | 2022-12-16 | 2023-08-12 |
@@ -479,7 +480,7 @@
 | [Wide Open \(feat\. Matthew West\)](https://open.spotify.com/track/72rlXntnDmDiqIXGHHWAXV) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 3:26 | 2022-02-04 | 2022-08-07 |
 | [Wild Ride](https://open.spotify.com/track/2YRhrxszkLtNTMc0V3ysHV) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [It Could Of Been Different](https://open.spotify.com/album/393CpgJwedjellG20MKW3N) | 2:08 | 2022-02-04 | 2022-07-29 |
 | [Wildfire](https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Wildfire](https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z) | 3:11 | 2022-02-04 | 2022-05-29 |
-| [Wins](https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Wins](https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq) | 2:35 | 2022-07-17 |  |
+| [Wins](https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Wins](https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq) | 2:35 | 2022-07-17 | 2023-11-12 |
 | [Wins On Me](https://open.spotify.com/track/2nybUYGqGgFSyAs9DgGxuh) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Tony Tillman](https://open.spotify.com/artist/3ykPxobhwzrQ2a15hEFWAo), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Wins On Me](https://open.spotify.com/album/5E2pgw6HeAFHPxLGwmQ6VZ) | 2:26 | 2022-02-04 | 2022-09-03 |
 | [With Us Still](https://open.spotify.com/track/3TxZrkbyMAsRPbYAzDS7ag) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [With Us Still](https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5) | 3:37 | 2022-04-30 | 2022-05-29 |
 | [Without You \- Abe Parker Remix](https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Without You](https://open.spotify.com/album/1zF2M4uUPg8qrKDzOkOYJy) | 3:47 | 2022-02-04 | 2022-07-18 |

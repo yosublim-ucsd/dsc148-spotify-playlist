@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23696,
+  "num_followers": 23703,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGNhODQ5ODJiNTFkNmI4MzFiNTJjYjcyMGE0MWM0N2YwZDk1ZGI2",
+  "snapshot_id": "MCxlNTFhNDg5MGRkZjU5YjhmMDc3OTM2Y2JjYzg3M2YzNDhiZGI0YWNh",
   "tracks": [
     {
       "added_at": "2023-10-26 18:51:01",
@@ -111,22 +111,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Club de Fans de John Boy",
-        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
         }
       ],
-      "duration_ms": 218806,
-      "name": "Club de Fans de John Boy",
-      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -147,18 +143,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+        "name": "Club de Fans de John Boy",
+        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
       },
       "artists": [
         {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+      "duration_ms": 218806,
+      "name": "Club de Fans de John Boy",
+      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "ACUARIO",
-        "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "ACUARIO",
-      "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 282020,
       "name": "Fotonovela",
       "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "ACUARIO",
+        "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 272695,
+      "name": "ACUARIO",
+      "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "blablablablabla",
+        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        },
+        {
+          "name": "musica gratis",
+          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "blablablablabla",
+      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "blablablablabla",
-        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        },
-        {
-          "name": "musica gratis",
-          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "blablablablabla",
-      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
+      },
+      "artists": [
+        {
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "POKITO",
         "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 157974,
       "name": "Grana",
       "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
-      },
-      "artists": [
-        {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Peces Raros (Vivo Buenos Aires)",
         "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 310890,
       "name": "Sombras en la Pared - Vivo Buenos Aires",
       "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+        "name": "Secreto a Voces",
+        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
       },
       "artists": [
         {
-          "name": "Lucas & The Woods",
-          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 210659,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
+      "duration_ms": 231569,
+      "name": "Secreto a Voces",
+      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Secreto a Voces",
-        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
       },
       "artists": [
         {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Lucas & The Woods",
+          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
         }
       ],
-      "duration_ms": 231569,
-      "name": "Secreto a Voces",
-      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
+      "duration_ms": 210659,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
     },
     {
       "added_at": "2023-10-26 18:51:01",

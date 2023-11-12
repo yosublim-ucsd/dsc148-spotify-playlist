@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Cannons along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,265 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,287 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 64 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 |
 | 65 | [The Dead Come Talking](https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [The Dead Come Talking](https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u) | 2:13 |
 
-Snapshot ID: `MCw5ODZlOTZmNTczNmE4MmY2Njg5OTNhZGVkNGYwZGQyYmE5OTExMDQ3`
+Snapshot ID: `MCxmYzFlNjkzOTgzMDM0ODQ1NDY0MzA2NzQ0Njc0M2ZjNzBkZDE4Nzkw`

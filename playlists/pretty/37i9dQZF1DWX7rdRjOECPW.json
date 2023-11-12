@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1530748,
+  "num_followers": 1530665,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODJjYzU2MTg2MjE1ZmU0YWJlYzU1MGI3ZjBhNmQzMTUxOTQ3OTM1",
+  "snapshot_id": "MCwyYWIxZmUzOGI3ODAwYjBmMGJmNjgwM2UyZjhkNGQxMWM1OTU0ZDJl",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "About You Now (How I Feel)",
+        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "About You Now (How I Feel)",
+      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
       },
@@ -1227,6 +1247,22 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Mangos mit Chili",
         "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
@@ -1243,38 +1279,18 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "About You Now (How I Feel)",
-        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
+        "name": "Ein Traum",
+        "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
       },
       "artists": [
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
         }
       ],
-      "duration_ms": 162352,
-      "name": "About You Now (How I Feel)",
-      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+      "duration_ms": 169500,
+      "name": "Ein Traum",
+      "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1299,22 +1315,6 @@
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Ein Traum",
-        "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Ein Traum",
-      "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 141218,
-      "name": "Shut Me Up",
-      "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 141218,
+      "name": "Shut Me Up",
+      "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
     },
     {
       "added_at": "2023-09-13 13:59:55",

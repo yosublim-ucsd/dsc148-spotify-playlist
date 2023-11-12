@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 265971,
+  "num_followers": 266010,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTcwNGM4MmJjNjA2YWIzNGFmMzAwNDY2MjU3YmM3NDIxN2I2N2E1",
+  "snapshot_id": "MCw1YTYzZjg5MzA4NDNjYzZmZjE3MzhiNTA5ZTk0ZWVjOTY3MmFlMGUy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -411,38 +411,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "23",
-      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/5A6sx5cfB1tTmqOIT7Znde"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        }
-      ],
-      "duration_ms": 191979,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/2d7y3J6e0lJudzXXhpy5qJ"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -483,6 +451,38 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/5A6sx5cfB1tTmqOIT7Znde"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        }
+      ],
+      "duration_ms": 191979,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/2d7y3J6e0lJudzXXhpy5qJ"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "23",
+      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
       },
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 165527,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Lo Que Ten\u00edas Conmigo",
         "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
       },
@@ -807,22 +791,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -863,6 +843,26 @@
       "duration_ms": 254773,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Abraz\u00e1ndonos",
         "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 188501,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Yo Te Dir\u00e9",
+        "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 207632,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Como T\u00fa y Yo",
         "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 174053,
       "name": "NO+SAD",
       "url": "https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Yo Te Dir\u00e9",
-        "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 207632,
-      "name": "Yo Te Dir\u00e9",
-      "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
     }
   ],
   "unique_name": "Radio Pop",

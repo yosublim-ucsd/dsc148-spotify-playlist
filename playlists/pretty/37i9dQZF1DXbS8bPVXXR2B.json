@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 221749,
+  "num_followers": 221818,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkxODI0NCwwMDAwMDAwMGZkOTM1ZTIwYmM1ZTUzZjE0YTg1YmE0NTlkZGY2YzZi",
+  "snapshot_id": "MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
-        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash",
-          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "White Lines (Don't Do It)",
-      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Conquers All (Expanded Edition)",
         "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
       },
@@ -563,18 +543,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sa\u00e2da Bonaire",
-        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
+        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
+        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
       "artists": [
         {
-          "name": "Sa\u00e2da Bonaire",
-          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
         }
       ],
-      "duration_ms": 356613,
-      "name": "You Could Be More As You Are",
-      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
+      "duration_ms": 269666,
+      "name": "White Lines (Don't Do It)",
+      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -591,6 +575,22 @@
       "duration_ms": 303573,
       "name": "Going Back to My Roots",
       "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sa\u00e2da Bonaire",
+        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00e2da Bonaire",
+          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
+        }
+      ],
+      "duration_ms": 356613,
+      "name": "You Could Be More As You Are",
+      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Harmonies",
         "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 337773,
       "name": "The Magnificent Dance",
       "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
-      },
-      "artists": [
-        {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Al Santiago Presents Yamb\u00fa",
-        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
       "artists": [
         {
-          "name": "Yambu",
-          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
         }
       ],
-      "duration_ms": 272933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+        "name": "Al Santiago Presents Yamb\u00fa",
+        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
       },
       "artists": [
         {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+          "name": "Yambu",
+          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
         }
       ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
+      "duration_ms": 272933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Chicago Service",
+        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
+      },
+      "artists": [
+        {
+          "name": "Rahaan",
+          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
+        }
+      ],
+      "duration_ms": 328858,
+      "name": "Disco Fantasy",
+      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Early Recordings",
         "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 331893,
       "name": "Classy Lady - Remastered Version",
       "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Chicago Service",
-        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
-      },
-      "artists": [
-        {
-          "name": "Rahaan",
-          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
-        }
-      ],
-      "duration_ms": 328858,
-      "name": "Disco Fantasy",
-      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Modern Heat EP",
+        "url": "https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB"
+      },
+      "artists": [
+        {
+          "name": "MAM",
+          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+        }
+      ],
+      "duration_ms": 280417,
+      "name": "Crushed Ice",
+      "url": "https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Do It Do It Disco",
         "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
       },
@@ -1515,6 +1531,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Is It All Over My Face?",
+        "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
+      },
+      "artists": [
+        {
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
+        }
+      ],
+      "duration_ms": 427978,
+      "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
@@ -1531,18 +1563,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Modern Heat EP",
-        "url": "https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB"
+        "name": "Gwen McCrae: Cat & Atlantic Years",
+        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
       },
       "artists": [
         {
-          "name": "MAM",
-          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
         }
       ],
-      "duration_ms": 280417,
-      "name": "Crushed Ice",
-      "url": "https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx"
+      "duration_ms": 233306,
+      "name": "All This Love That I'm Givin'",
+      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1587,38 +1619,6 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Gwen McCrae: Cat & Atlantic Years",
-        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "All This Love That I'm Givin'",
-      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Is It All Over My Face?",
-        "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
-      },
-      "artists": [
-        {
-          "name": "Loose Joints",
-          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
-        }
-      ],
-      "duration_ms": 427978,
-      "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
-      "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
     },
     {
       "added_at": "2022-09-05 16:54:43",

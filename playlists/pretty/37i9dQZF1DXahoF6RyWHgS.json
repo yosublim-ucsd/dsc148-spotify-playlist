@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 40956,
+  "num_followers": 40973,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjQzYTljMDk1ZDdjNWU1OTYzZDZlOGEzY2U0OTY1Y2Y0MGMzNDQ4",
+  "snapshot_id": "MCxlZDBmZjA2MjE1NDk1YmViMjY3OGU1NjZlNzNjMTFkOWE1M2Y2MmZi",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -287,6 +287,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "March of the Zapotec and Real People Holland",
+        "url": "https://open.spotify.com/album/33A6xiJRrWUuZWgq37O41V"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 274826,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "March of the Zapotec and Real People Holland",
-        "url": "https://open.spotify.com/album/33A6xiJRrWUuZWgq37O41V"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Esencia Solar",
-        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 129306,
-      "name": "Color Caf\u00e9",
-      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Kiko",
@@ -391,6 +375,22 @@
       "duration_ms": 215560,
       "name": "Kiko and the Lavender Moon",
       "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Esencia Solar",
+        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 129306,
+      "name": "Color Caf\u00e9",
+      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Nuevo Son Jarocho",
-        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jardin",
-          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Mambo!",
         "url": "https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 137240,
       "name": "Gopher Mambo - Remastered 2009",
       "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Nuevo Son Jarocho",
+        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jardin",
+          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Veracruz Y Su M\u00fasica - 14 Sones Jarochos",
-        "url": "https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Chalchihuecan De Los Hermanos Ochoa",
-          "url": "https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "El Tilingo Lingo",
-      "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
-    },
-    {
       "added_at": "2022-02-04 19:55:03",
       "album": {
         "name": "Caf\u00e9 Caf\u00e9",
@@ -707,6 +691,22 @@
       "duration_ms": 238586,
       "name": "Caf\u00e9 Caf\u00e9",
       "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Veracruz Y Su M\u00fasica - 14 Sones Jarochos",
+        "url": "https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Chalchihuecan De Los Hermanos Ochoa",
+          "url": "https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
-        "url": "https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn"
-      },
-      "artists": [
-        {
-          "name": "La Negra Graciana",
-          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Moliendo caf\u00e9",
-      "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
-    },
-    {
       "added_at": "2022-04-19 19:22:36",
       "album": {
         "name": "Spotify Singles",
@@ -847,6 +831,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
+        "url": "https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn"
+      },
+      "artists": [
+        {
+          "name": "La Negra Graciana",
+          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Moliendo caf\u00e9",
+      "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Papayas",
         "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 337391,
       "name": "Papayas",
       "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -891,6 +875,22 @@
       "duration_ms": 160679,
       "name": "Oracion caribe",
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 163420,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
         "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2020-05-28 20:45:13",

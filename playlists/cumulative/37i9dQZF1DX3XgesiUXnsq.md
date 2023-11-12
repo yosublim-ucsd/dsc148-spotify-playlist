@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Jay Rock
 
-548 songs - 1 day 6 hr 32 min
+549 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Let Go](https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 2:56 | 2023-09-22 |  |
 | [Let It Breathe](https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Let It Breathe](https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia) | 3:24 | 2022-08-26 | 2022-10-15 |
 | [Let Me Know](https://open.spotify.com/track/3YluTsxXtXw5FkjFsA86fW) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Brandon Myster](https://open.spotify.com/artist/7f6THh0kajO6OEeEF2U9jp) | [Let Me Know](https://open.spotify.com/album/7KeBQrOrDItquy091vuho3) | 3:17 | 2023-06-16 | 2023-07-01 |
-| [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 | 2023-05-05 |  |
+| [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 | 2023-05-05 | 2023-11-12 |
+| [Let The Sample Work](https://open.spotify.com/track/4vyA2HBhmv5g0qCLaXWjOJ) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4itu4bSGKI6xiq7RYJmbXH) | 2:31 | 2023-11-10 |  |
 | [Let's Ride](https://open.spotify.com/track/4UZlEcQmkAeh4mYokk8TNs) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Amplified](https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW) | 4:06 | 2022-04-29 | 2022-05-14 |
 | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt) | 4:44 | 2023-02-10 | 2023-07-22 |
 | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/track/5q3GZqD0tauoshsKTs80XE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6) | [College Park](https://open.spotify.com/album/7KcBjQ5f47uYAmvWCbB2FX) | 4:50 | 2023-11-03 | 2023-11-11 |

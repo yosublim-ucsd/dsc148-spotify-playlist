@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,642 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,834 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 | 50 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 |
 
-Snapshot ID: `MCw0M2IwNTgzOGU1YmQ4NDllNWEzMWNlYmYzZTMzYWI4ZjdiYmRlYzU2`
+Snapshot ID: `MCxlMTkyM2Q2NjA3YjA5MmRkODNmODY5NTc5MTdjNmIyYjVmMGI1YWZk`

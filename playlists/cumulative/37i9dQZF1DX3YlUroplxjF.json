@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 109280,
       "name": "Gacked On Anger",
       "url": "https://open.spotify.com/track/0U1uG8n1zkZzwRS1KBMh9z"
@@ -3826,8 +3826,8 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
-      "duration_ms": 29048,
+      "date_removed": null,
+      "duration_ms": 192931,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/4APrX8rA13avGMevPGxinl"
     },
@@ -4742,6 +4742,24 @@
       "duration_ms": 145190,
       "name": "One Blood We Bleed",
       "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
     },
     {
       "album": {
@@ -6508,7 +6526,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 178154,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"

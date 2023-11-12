@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,191 likes - 105 songs - 5 hr 23 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,197 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 9 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 |
 | 10 | [Heartbreak Repair System](https://open.spotify.com/track/5p5DJud2Doyl0gvT6fqETN) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:50 |
 | 11 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 |
-| 12 | [Higher Power \(feat\. Magnus\)](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power \(feat\. Magnus\)](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
+| 12 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
 | 13 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 |
 | 14 | [Background Noise](https://open.spotify.com/track/3zeuhnui45bIw0rZCCZuTu) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Background Noise](https://open.spotify.com/album/1odNMIiB2KXSD0ZbE9SsAY) | 2:57 |
 | 15 | [Round & Round](https://open.spotify.com/track/6aUk3zMedZd18Axi3ZO8lN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Round & Round](https://open.spotify.com/album/0ugkNBZda30aOm1Hel2ShP) | 3:39 |

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 134094,
+  "num_followers": 134209,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjlkMTMwZWNhZjRhYzgxYzdmZTk5Nzg1NWZkZWMwZDJiYmE3MjI3",
+  "snapshot_id": "MCw3ZTMyMTk1MTY2OTZmZDExY2U5NTZhMWYwMTM5NDZlNDlhNWVhYjk0",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -499,6 +499,30 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -531,30 +555,6 @@
       "duration_ms": 164571,
       "name": "Amor Eu T\u00f4 no Est\u00fadio",
       "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        }
+      ],
+      "duration_ms": 130690,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Glamourosa",
         "url": "https://open.spotify.com/album/51r6acz5Y24A4J5JkKK6KA"
       },
@@ -1059,26 +1083,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Apesar De Voc\u00ea (Mixtape)",
-        "url": "https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX"
-      },
-      "artists": [
-        {
-          "name": "Delatorvi",
-          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Minha Hist\u00f3ria (As Respostas)",
-      "url": "https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Criminal Love",
         "url": "https://open.spotify.com/album/2n3IYM5kthpXqiRHUX3UI3"
       },
@@ -1099,6 +1103,26 @@
       "duration_ms": 177600,
       "name": "Criminal Love",
       "url": "https://open.spotify.com/track/0lXSJqe80Mdr9Np56AwVoh"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Apesar De Voc\u00ea (Mixtape)",
+        "url": "https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Minha Hist\u00f3ria (As Respostas)",
+      "url": "https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1163,30 +1187,6 @@
       "duration_ms": 108475,
       "name": "Carro Filmado",
       "url": "https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        }
-      ],
-      "duration_ms": 130690,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
     },
     {
       "added_at": "2023-11-10 03:01:00",

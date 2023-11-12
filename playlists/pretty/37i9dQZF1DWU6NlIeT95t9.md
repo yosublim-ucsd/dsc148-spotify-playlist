@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Unearthing up\-and\-coming Pakistani acts\.  Cover: Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,876 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,940 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 42 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 |
 | 43 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
 | 44 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 |
-| 45 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 |
+| 45 | [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 |
 | 46 | [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 |
 | 47 | [KYUN](https://open.spotify.com/track/6nw0sXQqDNCQx2IN6ZyJqX) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [KYUN](https://open.spotify.com/album/3qh8blK64o1CqB6Q8hpNMb) | 4:06 |
 | 48 | [OMG](https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [OMG](https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 59 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 |
 | 60 | [Miracle feat\. Nimra Gilani](https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Nimra Gilani](https://open.spotify.com/artist/16YcBCxja71bOiP9BWktfD), [Rishabh Rajan](https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z) | [Ordinary Miracle \| ہیرے موتی](https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr) | 2:34 |
 
-Snapshot ID: `MCxlYTYxOTQxMDMyZTZjNWI0ZDUyNjQzNTVjMzAzZjU1ZjkwNGU4Njcz`
+Snapshot ID: `MCxkNmJlOTI4ZGVmYzNmZWViNDk2MzQyMDVmZWE4M2JhMjRkNmE5ZmEy`

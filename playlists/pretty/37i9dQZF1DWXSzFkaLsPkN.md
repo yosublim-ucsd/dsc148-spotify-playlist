@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Anubha Bajaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,472 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,525 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 26 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
 | 27 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 |
 | 28 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
-| 29 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
-| 30 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
+| 29 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
+| 30 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
 | 31 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 |
 | 32 | [Meri Baaton Mein Tu](https://open.spotify.com/track/1xSKxa1J5NHMQBX4wMZW2g) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/2Cm69fZkrq4zy0Yun0M54G) | 3:34 |
 | 33 | [Kachha Ghada](https://open.spotify.com/track/56ShzRBsODyylHvxsMycO1) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Kachha Ghada](https://open.spotify.com/album/6KTVUqA1LVgnR5V2LmdeBK) | 4:03 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 41 | [Roz](https://open.spotify.com/track/1rDQJd8kzwBRXeoTtojkQn) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:39 |
 | 42 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 |
 | 43 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
-| 44 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 |
+| 44 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
 | 45 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
-| 46 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 46 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 |
 | 47 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
 | 48 | [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 |
 | 49 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 74 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 |
 | 75 | [Woh Saat Din](https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Maara](https://open.spotify.com/artist/2Ew8QqQQX8IPgivoKQP5CG) | [Woh Saat Din](https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa) | 3:42 |
 
-Snapshot ID: `MCw5NGExYzZlZDljMmMxZWI2OGY2MzI0YTFiODY5YTkwN2U0ZDQzOTJh`
+Snapshot ID: `MCwxYmRjNzIwY2ExMWU4ZTM4MWRjYzIwNmVhZTI2OGZiNWE3NjdmMDdi`

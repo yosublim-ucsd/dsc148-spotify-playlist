@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 160411,
+  "num_followers": 160680,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGMzM2EzYWE5ODBiMjI3ZDAzZmU2NDhiMTQzZjkxYmVlYWQxOWM1",
+  "snapshot_id": "MCwxOWQ2ODkyZDI4NWY4MDk4MDFhYTM5NGQ4ZjNhZDkzYjc0YzA4ZDgw",
   "tracks": [
     {
       "added_at": "2023-11-10 17:30:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "El Diablito",
         "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 215866,
       "name": "La C\u00e9lula Que Explota",
       "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Bringing Down The Horse",
         "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 312626,
       "name": "One Headlight",
       "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 124021,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 124021,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1147,22 +1163,6 @@
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Goodbye Horses - Single",
-        "url": "https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN"
-      },
-      "artists": [
-        {
-          "name": "Q Lazzarus",
-          "url": "https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Goodbye Horses",
-      "url": "https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Cargo",
         "url": "https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 229466,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Goodbye Horses - Single",
+        "url": "https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN"
+      },
+      "artists": [
+        {
+          "name": "Q Lazzarus",
+          "url": "https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Goodbye Horses",
+      "url": "https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2303,6 +2303,22 @@
       "duration_ms": 238747,
       "name": "Ch\u00fantaros Style",
       "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Cruz de Navajas",
+      "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2359,22 +2375,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
       },
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
       "artists": [
         {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
         }
       ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2023-11-10 17:30:38",

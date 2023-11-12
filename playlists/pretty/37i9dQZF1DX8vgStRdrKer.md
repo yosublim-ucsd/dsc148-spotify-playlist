@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM?si=4vCTWpc1R5\-r6WJhLijymg">Chris Morgan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 981 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 49 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 |
 | 50 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 
-Snapshot ID: `MCw3NDk3ZjNjYzAwYTI4Mjk0YTA1ZWFiYzA4MDhhNmE0MDdkZGIzZGYz`
+Snapshot ID: `MCxlY2JhYjg2ZDFkM2FmNzlkODk3ODYzNTRlNzczMzZjMDMxYWVlMDE4`

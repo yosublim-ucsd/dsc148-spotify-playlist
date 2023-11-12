@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Classical tunes to make you feel good. ",
+  "description": "Las m\u00e1s alegres piezas cl\u00e1sicas, garantizadas para hacerte sonre\u00edr.",
   "name": "Feel Good Classical",
   "tracks": [
     {
@@ -1869,6 +1869,10 @@
         "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
       },
       "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"

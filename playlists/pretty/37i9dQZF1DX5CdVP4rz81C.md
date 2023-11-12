@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,908 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,995 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 100 | [Daddy’s a Psycho](https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 4:19 |
 
-Snapshot ID: `MCwyYTAwZmI3ZGFlMDVmY2MyYzAwZjQxYTc5N2JhMDQ1OTQ1OTNkZDRj`
+Snapshot ID: `MCw3ZjU5OTFhNTdiNDkzMDM2ZGI3MGJmZGUyNTU3YmRmNWQ1OTlkMjUz`

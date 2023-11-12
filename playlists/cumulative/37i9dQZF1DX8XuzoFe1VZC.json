@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 179258,
       "name": "De Nada - Remix",
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
@@ -1380,6 +1380,24 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "album": {
@@ -2775,6 +2793,32 @@
     },
     {
       "album": {
+        "name": "Piscina",
+        "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225661,
+      "name": "Piscina",
+      "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
+    },
+    {
+      "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
       },
@@ -3056,7 +3100,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"

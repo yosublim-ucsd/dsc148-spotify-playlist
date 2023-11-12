@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4119371,
+  "num_followers": 4119810,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2YyZTAyMTRmOTYzMjY0ZjQ5ZDU3MGU4ZmNiYzMzYTk1MzgyODEy",
+  "snapshot_id": "MCw5ZGZjNjk1ZTNkN2YyZDI4NWU4ZWU0MGI5NmJlMmUzYTBlNTc4YWYw",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 217986,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -91,70 +91,6 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Feliz Por Ti",
-        "url": "https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Feliz Por Ti",
-      "url": "https://open.spotify.com/track/2e2dOJMIieLvAh2g7kN9dP"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -195,6 +131,70 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Feliz Por Ti",
+        "url": "https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Feliz Por Ti",
+      "url": "https://open.spotify.com/track/2e2dOJMIieLvAh2g7kN9dP"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+      "duration_ms": 246666,
+      "name": "Llegaste t\u00fa",
+      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 246666,
-      "name": "Llegaste t\u00fa",
-      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Te Acuerdas",
-        "url": "https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 205542,
-      "name": "Te Acuerdas",
-      "url": "https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Te Acuerdas",
+        "url": "https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 205542,
+      "name": "Te Acuerdas",
+      "url": "https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -1231,22 +1251,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+      "duration_ms": 329155,
+      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 329155,
-      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "La vida es",
+        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 203760,
       "name": "Falta Amor",
       "url": "https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "La vida es",
-        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226481,
-      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 212946,
       "name": "Un Amor de Verdad",
       "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Deje de Amar",
-        "url": "https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
       "artists": [
         {
-          "name": "Felipe Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 192013,
-      "name": "Deje de Amar",
-      "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
+      "duration_ms": 272400,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO"
     }
   ],
   "unique_name": "Baladas Rom\u00e1nticas",

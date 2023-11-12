@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,362 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,370 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 40 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
 | 41 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 |
 | 42 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
-| 43 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
-| 44 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
+| 43 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
+| 44 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
 | 45 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
-| 46 | [Monk Around](https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3) | [Daniel Wong](https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J) | [Daniel Wong Trio](https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B) | 3:50 |
-| 47 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
+| 46 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
+| 47 | [Monk Around](https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3) | [Daniel Wong](https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J) | [Daniel Wong Trio](https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B) | 3:50 |
 | 48 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 49 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
 | 50 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
 
-Snapshot ID: `MCxmY2M2ZmQ2YzRlYTFlZDY2MTFlOWIxMjA5ZWYxN2JjZDhlZTBkMjFh`
+Snapshot ID: `MCwzMzhhODFlYTQ3MTgzYmI2YmJjMmQ4MjFhYjVhMmQ1ZThjNDBkYzJj`

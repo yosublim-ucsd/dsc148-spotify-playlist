@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Pakistani acts\.  Cover: Hassan & Roshaan
 
-66 songs - 3 hr 34 min
+67 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 | 2023-09-03 |  |
 | [Thandi](https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:40 | 2023-11-02 |  |
 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 | 2023-07-31 |  |
-| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-07-31 |  |
+| [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-02 |  |
+| [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-07-31 | 2023-11-12 |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-15 |  |
 | [You don't know](https://open.spotify.com/track/36fXGJsQmHzsTJ69DUV0nE) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [You don't know \(Pack\)](https://open.spotify.com/album/153syyegkwTUwQGi58QNhP) | 2:03 | 2023-09-03 | 2023-09-16 |
 

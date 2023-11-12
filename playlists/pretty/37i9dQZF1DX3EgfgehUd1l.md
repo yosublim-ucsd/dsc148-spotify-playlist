@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,067 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,158 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 61 | [Whatever Will Be, Will Be \(Que Sera, Sera\) \- Single Version](https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [16 Most Requested Songs](https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m) | 2:04 |
 | 62 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
 | 63 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
-| 64 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
-| 65 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
+| 64 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
+| 65 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 66 | [Little Things Mean a Lot](https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 2:59 |
 | 67 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
 | 68 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 73 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 |
 | 74 | [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 |
 | 75 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
-| 76 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
+| 76 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
 | 77 | [Learnin' The Blues](https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 3:01 |
 | 78 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
-| 79 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
+| 79 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
 | 80 | [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 |
 
-Snapshot ID: `MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk`
+Snapshot ID: `MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4`

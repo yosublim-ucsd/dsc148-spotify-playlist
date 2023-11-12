@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-360 songs - 17 hr 58 min
+361 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-05-26 | 2023-06-10 |
 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 | 2022-02-11 |  |
 | [King of Pop](https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:21 | 2023-09-09 | 2023-09-29 |
+| [Kiss 'N' Tell](https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Kiss 'N' Tell](https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B) | 2:21 | 2023-11-03 |  |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 | 2023-10-23 |
 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-02-11 | 2023-10-13 |
 | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu) | 2:48 | 2022-02-11 | 2023-02-24 |
@@ -219,7 +220,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-05-18 |
 | [Morning Stress](https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Morning Stress](https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc) | 3:28 | 2023-01-27 | 2023-02-04 |
 | [Mother's Love](https://open.spotify.com/track/0Uq2NThM7JUCzXyM7khCa9) | [Gillian Baci](https://open.spotify.com/artist/2wVzSBbiE5VqVrfD2h4IWc) | [Mother's Love](https://open.spotify.com/album/0iQ1VxfUXm6X4ZPMVNr5hd) | 3:20 | 2023-03-11 | 2023-03-18 |
-| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 |  |
+| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-11-12 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 |  |
 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 |  |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 | 2023-09-29 |

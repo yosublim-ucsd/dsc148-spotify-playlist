@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Hey!Say! JUMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,042 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,100 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Kimi to Hitsuji to Ao](https://open.spotify.com/track/2qz2iNaqKDJesD2ombEIsi) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Zettaizetsumei](https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP) | 2:42 |
 | 50 | [優しいあの子](https://open.spotify.com/track/29RAzfejW1O69okBQXibca) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [見っけ](https://open.spotify.com/album/3nJLoQE9KBv1Nq6SGOwyK2) | 3:24 |
 
-Snapshot ID: `MCw0MWZjMmQyMTRmYjI0YWMzYWEwMTU0ODQ3ZjkzNGNlYjljNGFmNzky`
+Snapshot ID: `MCw1ZTMwZmIwNWY0NTc4MzlhNjVkNWU1YzJjOGU4MDI0MTJlNDhiMjky`

@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/55RwdXfVSWCReqDBioMxVV"
+    },
+    {
+      "album": {
         "name": "Silences",
         "url": "https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3"
       },
@@ -7762,7 +7780,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 222453,
       "name": "What Comes After Certainty",
       "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"

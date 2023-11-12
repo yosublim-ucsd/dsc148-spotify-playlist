@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Fármacos
 
-430 songs - 1 day 1 hr 53 min
+431 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Decidí](https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:26 | 2023-02-24 |  |
 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-08 | 2023-01-28 |
 | [Depresión Estacional \(Pittosporum\)](https://open.spotify.com/track/1qG0vfV4Choc3a0ge6M1TC) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Depresión Estacional \(Pittosporum\)](https://open.spotify.com/album/6LB7CDWDiFvIB5JoeVp7we) | 3:29 | 2022-04-15 | 2022-12-10 |
+| [Desolación](https://open.spotify.com/track/7yTpN2yTC8CMUfhYmdjSdQ) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Desolación](https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M) | 4:31 | 2023-11-10 |  |
 | [Despacio](https://open.spotify.com/track/0xH1UoQhmxinSnlF3lShFS) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Despacio](https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A) | 3:21 | 2023-05-12 | 2023-08-05 |
 | [despacito](https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [despacito](https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC) | 3:13 | 2022-08-26 | 2023-10-07 |
 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 |  |
@@ -399,7 +400,7 @@
 | [Turista](https://open.spotify.com/track/0RWzD9ilb1cKJaEOXo2jTZ) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Turista](https://open.spotify.com/album/1FlOBZrwiGCjsrb0KXVaPj) | 3:33 | 2022-04-15 | 2022-08-13 |
 | [Tus Nombres](https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Tus Nombres](https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS) | 3:20 | 2022-04-15 | 2022-12-10 |
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-04-15 | 2022-07-26 |
-| [Tú, Yo y Otra Dimensión](https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a) | [Automático](https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Tú, Yo y Otra Dimensión](https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j) | 4:42 | 2023-11-10 |  |
+| [Tú, Yo y Otra Dimensión](https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a) | [Automático](https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Tú, Yo y Otra Dimensión](https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j) | 4:42 | 2023-11-10 | 2023-11-12 |
 | [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 | 2022-11-29 | 2023-01-28 |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-04-15 | 2022-12-10 |
 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 | 2023-03-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,962 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,033 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Another Day](https://open.spotify.com/track/2yvfBytG7N9Z1NuVgKf0qt) | [Roy Richards](https://open.spotify.com/artist/0X4uxfskqekFkXgS7MTQAU) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 1:57 |
 | 60 | [Keep on Moving](https://open.spotify.com/track/3fooEYpcvSYV8XWRRZ59AD) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:30 |
 
-Snapshot ID: `MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3`
+Snapshot ID: `MCw5ZTQ1MzQwMWNlZDBiZjQ0ODBjMWU0ZWM1ODEyMzhlNzJiNGYwYTQ0`

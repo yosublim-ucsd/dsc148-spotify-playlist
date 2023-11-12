@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,828 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,861 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 39 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar \(Instrumental\)](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
 | 40 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 |
 | 41 | [Soul Mate](https://open.spotify.com/track/5Sa7kopLOVpnoDFquNvuG9) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 3:38 |
-| 42 | [Tantric Bliss / Sitar and Tabla](https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D) | [Relaxing Guitar for Massage, Yoga, and Meditation](https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag) | [Acoustic Ascension 3](https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H) | 9:06 |
-| 43 | [Escape \- Yoga Sitar Trance](https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Escape \- Yoga Sitar Trance](https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8) | 6:38 |
+| 42 | [Escape \- Yoga Sitar Trance](https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Escape \- Yoga Sitar Trance](https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8) | 6:38 |
+| 43 | [Tantric Bliss / Sitar and Tabla](https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D) | [Relaxing Guitar for Massage, Yoga, and Meditation](https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag) | [Acoustic Ascension 3](https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H) | 9:06 |
 | 44 | [Best Sitar Music](https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:12 |
 | 45 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
 | 46 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 |
 | 50 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 |
 
-Snapshot ID: `MCxiMTFiZWZiMzgxZDQyMzU3ODk5OTM0ZmRmOWM3YWQ0ZTdiNmYyZTU5`
+Snapshot ID: `MCwxZjEyYmMyNWRlYTM2MTE0NWVjYThiZDdkMmIyOWY0NGNmNTA5ZjM1`

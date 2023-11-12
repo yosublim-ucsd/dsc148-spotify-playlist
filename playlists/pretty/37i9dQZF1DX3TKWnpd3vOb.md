@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,350 likes - 90 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,363 likes - 90 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 30 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 |
 | 31 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 |
 | 32 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 |
-| 33 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
+| 33 | [Fiesta En El Barrio](https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ), [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [PORTAL](https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H) | 4:53 |
 | 34 | [El Mundo Se Termina](https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:12 |
-| 35 | [Fiesta En El Barrio](https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ), [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [PORTAL](https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H) | 4:53 |
+| 35 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
 | 36 | [Ser a Ti](https://open.spotify.com/track/75xfUquJZnzJXwgLfocOv2) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Ser a Ti](https://open.spotify.com/album/3re95KwxEhVGfrRPk9LiZo) | 4:21 |
 | 37 | [Cahuín](https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cahuín](https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6) | 3:01 |
 | 38 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 |
 | 39 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 |
 | 40 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 |
-| 41 | [Los Niños Cuicos No Saben Rockear](https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Políticamente Incorrectos \(Soeces y Anacrónicos\)](https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU) | 2:41 |
-| 42 | [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 |
+| 41 | [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 |
+| 42 | [Los Niños Cuicos No Saben Rockear](https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Políticamente Incorrectos \(Soeces y Anacrónicos\)](https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU) | 2:41 |
 | 43 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 |
 | 44 | [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 |
-| 45 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
+| 45 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 |
 | 46 | [Cielo](https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cielo](https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE) | 3:40 |
 | 47 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
-| 48 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 |
+| 48 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 49 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 |
 | 50 | [Para Estar](https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [A Madrugar](https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc) | 4:32 |
 | 51 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 70 | [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 |
 | 71 | [Hay Fuego en Los Andes](https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay Fuego en Los Andes](https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym) | 4:06 |
 | 72 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
-| 73 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
+| 73 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 |
 | 74 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 |
-| 75 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 |
+| 75 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 76 | [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 |
 | 77 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 |
 | 78 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 89 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
 | 90 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
 
-Snapshot ID: `MCw5MmJlNzIyMjYzNzk4YTdiZTQ5Y2U3ZTRmNzgzZjVmZDg3N2Q5OTMy`
+Snapshot ID: `MCw5M2VhMzEzMzFhYjBiNmZjOTRkZDIwY2ZlMWUyZGRmZjZiOGQ0MGY1`

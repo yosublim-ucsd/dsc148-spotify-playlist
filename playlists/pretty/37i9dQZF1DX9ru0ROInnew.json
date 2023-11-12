@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 108050,
+  "num_followers": 108132,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5",
+  "snapshot_id": "MCw2ZjgxMmFiYmZmZjZiYTJjOWYyZDUwMzI5MzNlNDg3NzU4ZjI4MTgw",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -983,6 +983,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Esclava",
+        "url": "https://open.spotify.com/album/7gTRUB0jGOXCFHzOfsVA4g"
+      },
+      "artists": [
+        {
+          "name": "rampensauu",
+          "url": "https://open.spotify.com/artist/6TdQ6W1OlXVYcfnYVXRExR"
+        },
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+        },
+        {
+          "name": "Joel Ney",
+          "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
+        }
+      ],
+      "duration_ms": 281734,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/2mubrV7Ipt3HoRWHnjqq3L"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 220080,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Esclava",
-        "url": "https://open.spotify.com/album/7gTRUB0jGOXCFHzOfsVA4g"
-      },
-      "artists": [
-        {
-          "name": "rampensauu",
-          "url": "https://open.spotify.com/artist/6TdQ6W1OlXVYcfnYVXRExR"
-        },
-        {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
-        },
-        {
-          "name": "Joel Ney",
-          "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
-        }
-      ],
-      "duration_ms": 281734,
-      "name": "Esclava",
-      "url": "https://open.spotify.com/track/2mubrV7Ipt3HoRWHnjqq3L"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1863,22 +1863,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+        "name": "Contamos & Guerreamos",
+        "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
       },
       "artists": [
         {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+      "duration_ms": 288482,
+      "name": "Contamos & Guerreamos",
+      "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1907,30 +1915,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Contamos & Guerreamos",
-        "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
       },
       "artists": [
         {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 288482,
-      "name": "Contamos & Guerreamos",
-      "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2023-05-25 17:50:01",

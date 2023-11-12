@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 362698,
+  "num_followers": 362767,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQ4OGRhMzYzZGQ5OTk3Y2RmNDc4ODg4ZjZhOTQ0NGJhODUwYzZj",
+  "snapshot_id": "MCxiN2VkNzA5NTA4ZWMzMzEyMzA4M2IxMzg3MGVmODQ4MjgwZmZiZWNl",
   "tracks": [
     {
       "added_at": "2023-10-27 21:55:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Goldfinger",
         "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 190800,
       "name": "Here In Your Bedroom",
       "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Never Look Back",
-        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
+        "name": "007 Shanty Town",
+        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
       },
       "artists": [
         {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
         }
       ],
-      "duration_ms": 143166,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+      "duration_ms": 154293,
+      "name": "007 (Shanty Town)",
+      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 143166,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "Too Much Pressure",
         "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 231493,
       "name": "Too Much Pressure",
       "url": "https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "007 Shanty Town",
-        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "007 (Shanty Town)",
-      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Twenty-Eight Teeth",
         "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 214266,
       "name": "My Town",
       "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
+      },
+      "artists": [
+        {
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
+        }
+      ],
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-10-27 21:55:53",

@@ -2844,10 +2844,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 239675,
       "name": "Joiner",
       "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
+    },
+    {
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239675,
+      "name": "Joiner",
+      "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
     },
     {
       "album": {
@@ -3716,10 +3734,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 186196,
       "name": "Mountains At Midnight",
       "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
+    },
+    {
+      "album": {
+        "name": "Back To The Water Below",
+        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/63V2LU9M9pLkimultjujl5"
     },
     {
       "album": {

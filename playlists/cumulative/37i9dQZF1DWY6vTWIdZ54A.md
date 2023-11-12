@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-294 songs - 17 hr 17 min
+296 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Heartache Melody](https://open.spotify.com/track/1uZz1fImBM6bSk7BjwzIdw) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV) | 2:52 | 2022-10-07 | 2022-11-13 |
 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 | 2022-10-07 | 2023-09-22 |
 | [Heartache Melody](https://open.spotify.com/track/3SiZI9CQ5wjl79gs0gem6Q) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/5vgjMsTYIGUJe9D46PANW4) | 2:52 | 2020-12-11 | 2022-10-21 |
-| [Heaven Knows](https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL) | [The Shouting Matches](https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ) | [Grownass Man](https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK) | 3:35 | 2020-12-11 |  |
+| [Heaven Knows](https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL) | [The Shouting Matches](https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ) | [Grownass Man](https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK) | 3:35 | 2020-12-11 | 2023-11-12 |
 | [Hellfire](https://open.spotify.com/track/57ala3dITsOzu59EfKMTlA) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:48 | 2020-12-11 | 2023-06-10 |
 | [Highway](https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP) | 3:21 | 2023-07-07 |  |
 | [Highway](https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 3:21 | 2020-12-11 | 2023-08-31 |
@@ -171,7 +171,8 @@
 | [Mother \- Single Version](https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Mother](https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2) | 5:05 | 2020-12-11 | 2023-06-10 |
 | [Mountain](https://open.spotify.com/track/696wtDyZUK2UJgu0fsVGIT) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Rise Over Run](https://open.spotify.com/album/3MZLNriYh8pH7kMYkbUxhk) | 3:11 | 2022-06-17 | 2023-06-10 |
 | [Mountain](https://open.spotify.com/track/4S28LWCOCR7eKkYYCrk9fN) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Rise over Run](https://open.spotify.com/album/1hK7IEatzxrFQPviKTR5Cs) | 3:11 | 2020-12-11 | 2022-07-29 |
-| [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-06-09 |  |
+| [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-06-09 | 2023-11-12 |
+| [Mountains At Midnight](https://open.spotify.com/track/63V2LU9M9pLkimultjujl5) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:06 | 2023-09-22 |  |
 | [Muthafucka](https://open.spotify.com/track/0koOeT7EjvzMcucBjzPrXt) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Muthafucka](https://open.spotify.com/album/2SCJscKF1vhsHhQ8Hgqlbj) | 3:32 | 2022-10-07 | 2022-11-13 |
 | [Muthafucka](https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Are You Real?](https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR) | 3:32 | 2022-10-07 |  |
 | [Muthafucka](https://open.spotify.com/track/5wEVFJ7jgjceB228fdYW2W) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Muthafucka](https://open.spotify.com/album/4XMwMHcCcn4YsRwhqgO8Xo) | 3:32 | 2020-12-11 | 2022-07-29 |
@@ -257,6 +258,7 @@
 | [the depths](https://open.spotify.com/track/6XEPaRg8LRsVb4OMJGxmDG) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 4:01 | 2022-06-17 | 2023-06-10 |
 | [The Middle](https://open.spotify.com/track/0ldybyyoztnIBPsqZWjPNF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [The Middle](https://open.spotify.com/album/35GXWiN1dp2ZkXjQraRwUi) | 3:34 | 2022-09-23 | 2023-06-10 |
 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 | 2020-12-11 | 2023-11-04 |
+| [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 | 2023-09-22 |  |
 | [The Woods](https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK), [Brad Wilk](https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o) | [The Woods](https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn) | 2:53 | 2022-06-17 |  |
 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 | 2022-10-07 |  |
 | [Them Shoes](https://open.spotify.com/track/4ELXC8bDxfXOY6cwNEJIEl) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is a Dollar Gone](https://open.spotify.com/album/244tmeY7TR0tNG3yzPP58d) | 5:48 | 2020-12-11 | 2022-07-29 |

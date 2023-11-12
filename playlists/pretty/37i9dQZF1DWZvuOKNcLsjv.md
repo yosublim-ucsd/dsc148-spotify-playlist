@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,885 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,902 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 100 | [巡る季節に身を任せ](https://open.spotify.com/track/70NcBpRFJzDaWN6VmK3IuW) | [アロワナレコード](https://open.spotify.com/artist/5ovS96NpdzR5dDjnjdxKLk) | [幸せを願えるように](https://open.spotify.com/album/0E3CT1bUN1wH8zi75ktGwJ) | 4:19 |
 | 101 | [Soran Bushi](https://open.spotify.com/track/5MIGldUdtw8y5WqZYT7ykM) | [民謡クルセイダーズ](https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI) | [Soran Bushi](https://open.spotify.com/album/4iRwcagbROsUFQ4GLvEHu2) | 5:11 |
 
-Snapshot ID: `MCw5ZGMxZTQ5Y2JlYWNmOTkzMmYxNzNlNDY4ZmRjNjZlMDQ3MDJkZmFm`
+Snapshot ID: `MCwxMmUyOGZhZTg5MTU4MTg4YzBlODY3ZDU4NTc0NTNlYzhhMjYyZDVj`

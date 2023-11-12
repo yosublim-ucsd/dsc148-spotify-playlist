@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Darren Kiely
 
-325 songs - 18 hr 45 min
+326 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,8 +140,8 @@
 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2022-08-19 | 2023-05-20 |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-03-12 | 2023-04-16 |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-11-12 | 2022-07-29 |
-| [Heart In The Water](https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Heart In The Water](https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG) | 3:23 | 2023-10-27 |  |
-| [Heart Medicine](https://open.spotify.com/track/0Ymr7bBhvXLu8xrpCN2GUs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Heart Medicine](https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq) | 2:44 | 2023-06-16 | 2023-10-29 |
+| [Heart In The Water](https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Heart In The Water](https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG) | 3:23 | 2023-10-27 | 2023-11-12 |
+| [Heart Medicine](https://open.spotify.com/track/0Ymr7bBhvXLu8xrpCN2GUs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Heart Medicine](https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq) | 2:44 | 2023-06-16 |  |
 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 | 2022-02-21 | 2022-08-20 |
 | [Hello Again](https://open.spotify.com/track/7f9d4kZEvzOZ0OcpFbUGvI) | [Inland Sky](https://open.spotify.com/artist/6lg6eOBmScDXCePKoyeiQL) | [Hello Again](https://open.spotify.com/album/0fJQzxKG61DHe5zWXWBQ5J) | 3:09 | 2021-11-12 | 2022-07-07 |
 | [Hello, Hello On Fire!](https://open.spotify.com/track/672wGcpVju84aK9OVWxuNr) | [Josiah Johnson](https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg) | [Hello, Hello On Fire!](https://open.spotify.com/album/4lfOPK2pxFu9ketMzOaCv2) | 4:56 | 2022-02-21 | 2022-07-15 |
@@ -275,7 +275,7 @@
 | [Tender feat\. Yoke Lore](https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Tender feat\. Yoke Lore](https://open.spotify.com/album/0YEXWeaZ335jOntWXoFbia) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [The Future of an End](https://open.spotify.com/track/3aGkfDKhQBWj5KYJraBI8c) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/3VClaRmW4RzpKst551M1Bk) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [The Ghost In Your Smile](https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost In Your Smile // Seventeen](https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T) | 3:47 | 2022-03-12 | 2022-04-25 |
-| [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-11-12 |  |
+| [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-11-12 | 2023-11-12 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 |  |
 | [The Season of Singing](https://open.spotify.com/track/17Itiw6emEwOfS7pYSnU3e) | [Platon Karataev](https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab) | [For Her LP \- part I](https://open.spotify.com/album/6HaDOPvQvMU9UMM9wwYU05) | 3:38 | 2021-11-12 | 2022-01-25 |
 | [The View Between Villages \- Extended](https://open.spotify.com/track/5ihBtaVVMqO5VqJA5wnmfy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:52 | 2023-06-16 | 2023-10-07 |
@@ -291,6 +291,7 @@
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 | 2023-09-22 |  |
 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 | 2021-11-12 | 2023-08-26 |
 | [Time Stand Still](https://open.spotify.com/track/6DblObtQQRnyqx9z6KVGFy) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/58dF8ETOhaFmNwngKEX1e7) | 4:39 | 2021-11-12 | 2022-07-29 |
+| [Turn out fine](https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Turn out fine](https://open.spotify.com/album/4LPDuEPmWtMfOj8argxDrI) | 2:27 | 2023-10-27 |  |
 | [Undone](https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Undone](https://open.spotify.com/album/6ML9ENZ5eDo0CYyZg32L7W) | 3:37 | 2022-03-12 | 2023-01-18 |
 | [Undone](https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:37 | 2022-10-14 | 2023-01-20 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-19 |  |

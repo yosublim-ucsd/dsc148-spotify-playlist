@@ -4,7 +4,7 @@
 
 > All the indelible tunes from the other side of the 00s\. Cover: Santigold
 
-247 songs - 15 hr 19 min
+248 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [The Beginning Of The Twist](https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [This Is Not The World](https://open.spotify.com/album/5WBxcZbQ2mxSnamfAN3mHa) | 3:36 | 2021-11-15 | 2022-07-27 |
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2021-11-15 |  |
 | [The Great Escape](https://open.spotify.com/track/37MkbRqfMdO4qlNj7C4Wfa) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:18 | 2021-11-15 | 2022-03-08 |
-| [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2022-09-29 |  |
+| [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2022-09-29 | 2023-11-12 |
 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 | 2021-11-15 |  |
 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 | 2021-11-15 | 2022-11-13 |
 | [The Skin Of My Yellow Country Teeth](https://open.spotify.com/track/5ZKjYGhHe7J3xJmJP6Vyag) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Clap Your Hands Say Yeah](https://open.spotify.com/album/554HQdOkOKS1CyVIvbgUnR) | 5:43 | 2021-11-15 | 2022-01-07 |
@@ -232,6 +232,7 @@
 | [Up The Bracket](https://open.spotify.com/track/5j3KU7D9dxolJu0kS2WHY4) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up The Bracket](https://open.spotify.com/album/2prIc5Om2QPCGIjKVC5UQj) | 2:38 | 2021-11-15 | 2022-07-08 |
 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 | 2021-11-15 |  |
 | [Walking On A Dream](https://open.spotify.com/track/0SbMdEc3vUpYyG7Od1Outj) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/7IymIe6TAiOWhAKRgFOAPw) | 3:16 | 2021-11-15 | 2022-07-27 |
+| [Walking On A Dream](https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/3qFui1PcteHFky44CeUflG) | 3:18 | 2022-11-17 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2021-11-15 | 2023-10-26 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:18 | 2021-11-15 | 2022-01-09 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 | 2021-11-15 |  |

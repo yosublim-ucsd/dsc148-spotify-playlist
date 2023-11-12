@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5101,
+  "num_followers": 5118,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODg0YjRmMTE5NjRmM2FhYjE1YWNlNWY4NmQxZjc1Nzk2YjdmNGQ3",
+  "snapshot_id": "MCw4OGM2NGVmN2Q4YjY3NDk5NTdlNGIyOGIyNjJkNTIxYWRjOGMyOTA1",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Jungle New Style",
-        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Eve's Warning",
-      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Rhythm Light Beat Black",
         "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 271490,
       "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Jungle New Style",
+        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
+      },
+      "artists": [
+        {
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Eve's Warning",
+      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "2nd",
-        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
-      },
-      "artists": [
-        {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Accident",
         "url": "https://open.spotify.com/album/2HkKsqlpwGC68BEQFy6nGX"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 185226,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0O5TFim1TzHy46xZTpoWN1"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+      },
+      "artists": [
+        {
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV"
+      },
+      "artists": [
+        {
+          "name": "\ucd5c\uc7ac\ud6c8",
+          "url": "https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
+      "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV"
-      },
-      "artists": [
-        {
-          "name": "\ucd5c\uc7ac\ud6c8",
-          "url": "https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
-      "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Psy From The Psycho World",
         "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Instead of Saying Goodbye",
-      "url": "https://open.spotify.com/track/7HEWe82C9vZep6rxBIR8tD"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Jaurim, The Wonder Land",
         "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213933,
       "name": "Magic carpet ride",
       "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Instead of Saying Goodbye",
+      "url": "https://open.spotify.com/track/7HEWe82C9vZep6rxBIR8tD"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "\ub2c8\uac00 \uc788\uc5b4\uc57c \ud560 \uacf3 The Place You Belong",
+      "url": "https://open.spotify.com/track/7AYSLiGvyyPlZZ4Kxa44nZ"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 226040,
       "name": "\uae38 Road",
       "url": "https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "\uc5b4\uba38\ub2d8\uaed8 To Mother",
-      "url": "https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 220761,
-      "name": "\uacb0\ud63c\uc744 \ud560\uac70\ub77c\uba74",
-      "url": "https://open.spotify.com/track/2MhOUadVpsBMkK3QfHOKfk"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ud574\uacb0\uc0ac - The 1st Album",
         "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 215960,
       "name": "\uc73c\uc330! \uc73c\uc330!",
       "url": "https://open.spotify.com/track/3bEWc5qQJewGN2s7Yf4SuU"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 220761,
+      "name": "\uacb0\ud63c\uc744 \ud560\uac70\ub77c\uba74",
+      "url": "https://open.spotify.com/track/2MhOUadVpsBMkK3QfHOKfk"
     },
     {
       "added_at": "2021-02-01 12:18:54",

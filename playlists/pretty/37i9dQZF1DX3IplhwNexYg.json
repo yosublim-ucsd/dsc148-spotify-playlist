@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Sundara Karma ",
-  "num_followers": 113926,
+  "num_followers": 113948,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNThlZTY5MDg0M2Q2YWVkNTJiYWI5MzM4Zjg5MWUyMGIxNThkYzYw",
+  "snapshot_id": "MCxjOWM0ZDM0NDM4ZmRhNzk5MDUyY2Q5NTUyOTRjMTA1MjU4ZWQ5MGQ0",
   "tracks": [
     {
       "added_at": "2023-11-10 00:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
         "name": "GO GO GO",
         "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
       },
       "artists": [
         {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
         }
       ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "Make You Proud",
+        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 207439,
+      "name": "Make You Proud",
+      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
         }
       ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -887,6 +903,22 @@
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -939,18 +971,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "How to Hold a Knife",
-        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl"
       },
       "artists": [
         {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 176558,
-      "name": "How to Hold a Knife",
-      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
+      "duration_ms": 199220,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -971,18 +1003,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl"
+        "name": "How to Hold a Knife",
+        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
         }
       ],
-      "duration_ms": 199220,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
+      "duration_ms": 176558,
+      "name": "How to Hold a Knife",
+      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -999,22 +1031,6 @@
       "duration_ms": 198071,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
-        "name": "Make You Proud",
-        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 207439,
-      "name": "Make You Proud",
-      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "GO!!!",
-        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "GO!!!",
-      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "The Cabin",
-        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
-      },
-      "artists": [
-        {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
-        }
-      ],
-      "duration_ms": 237547,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "rats in my walls",
-        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
       "artists": [
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
         }
       ],
-      "duration_ms": 312459,
-      "name": "rats in my walls",
-      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+        "name": "rats in my walls",
+        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
       },
       "artists": [
         {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
         }
       ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+      "duration_ms": 312459,
+      "name": "rats in my walls",
+      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
     },
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 184881,
       "name": "Car Park",
       "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-11-10 00:00:00",

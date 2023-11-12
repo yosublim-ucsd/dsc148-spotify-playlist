@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6055,
+  "num_followers": 6077,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzE1MTdkZmQwZjI0Zjg5NzNjYzdhYWUwMTJiZTNiNTNjODJjZTcw",
+  "snapshot_id": "MCwyNmY3YzBjYjJmMTIyMzExMGJkMGZkMWQ4ZGM1OTRkOGY0YjUxZTli",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Driving Like A Dream Car Should",
-        "url": "https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ"
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
       "artists": [
         {
-          "name": "Deborah Parlor",
-          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
         }
       ],
-      "duration_ms": 187355,
-      "name": "Driving Like A Dream Car Should",
-      "url": "https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej"
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     }
   ],
   "unique_name": "Route Americana",

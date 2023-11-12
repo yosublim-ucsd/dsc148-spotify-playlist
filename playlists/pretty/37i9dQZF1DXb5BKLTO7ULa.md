@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,107 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,121 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 103 | [Take A Look](https://open.spotify.com/track/32Md3diGw7XAV2zH8lVffL) | [Nasmak](https://open.spotify.com/artist/2h4QyMisd8zVtnoXtBWVMI) | [4our Clicks](https://open.spotify.com/album/6cDcxyjSnK3Wyn4cO1ztPK) | 2:53 |
 | 104 | [DIE](https://open.spotify.com/track/3UJ1s9BOljmLXe9E7QpTkw) | [4B2M](https://open.spotify.com/artist/6Evnxf4Als5zI3yYgtnoBV) | [DIE](https://open.spotify.com/album/52qgKl72EuTFzFP60LwxFW) | 2:48 |
 
-Snapshot ID: `MCxiMTI1ODBhNWFhYmI3OGQ3NDM3Y2YxNjgzYjc3YmQ3NjE5YWJkMjM1`
+Snapshot ID: `MCxkY2I1NzAxMzg2NGNmOThlMjY5YTNhODhlYmI4MTY5NjE1NmI3YmEz`

@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-139 songs - 12 hr 39 min
+140 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2022-06-01 |  |
 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 | 2023-09-29 |  |
 | [Eliasong](https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:24 | 2022-06-01 |  |
+| [End Music](https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [At the Movies](https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj) | 4:00 | 2023-11-10 |  |
 | [Endless](https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Endless](https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD) | 5:01 | 2022-06-01 | 2023-09-16 |
-| [Evening Song for B](https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Sun Blowing](https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz) | 4:23 | 2022-06-01 |  |
+| [Evening Song for B](https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Sun Blowing](https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz) | 4:23 | 2022-06-01 | 2023-11-12 |
 | [Faculties](https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:41 | 2022-06-01 | 2023-10-18 |
 | [Fanfar](https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB) | [Thommy Andersson](https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6) | [Wood Circles](https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP) | 5:23 | 2022-06-01 |  |
 | [Few Words](https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg) | [BRØK](https://open.spotify.com/artist/5emddJsOKVCbiP7F6IAvdR), [Jacob Bredahl Djursaa](https://open.spotify.com/artist/2a7808Szfjwnfz7T9Alafn), [Thomas Fryland](https://open.spotify.com/artist/7q0OI8V8UXfXdELdumA6hu), [Niklas Gjersøe](https://open.spotify.com/artist/3qGoEwAz9Ux1UWusBsb21q), [Hans Kristian Knold](https://open.spotify.com/artist/7IVPTCpHk3dG2owrbvST5y) | [Few Words](https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8) | 1:41 | 2023-06-22 |  |

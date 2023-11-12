@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,594 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,596 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 35 | [Tuku Tu](https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Tuku Tu](https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1) | 2:20 |
 | 36 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
 | 37 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 |
-| 38 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
-| 39 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
-| 40 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
+| 38 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 |
+| 39 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
+| 40 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
 | 41 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 |
-| 42 | [Labios \(La Noche\)](https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios \(La Noche\)](https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG) | 2:41 |
-| 43 | [Veneno](https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez) | [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Veneno](https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc) | 3:15 |
-| 44 | [Baila Mi Gente](https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Baila Mi Gente](https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4) | 2:40 |
-| 45 | [Tambor](https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambor](https://open.spotify.com/album/5gjxDgtMGqkz43ibVEPR6D) | 2:53 |
+| 42 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
+| 43 | [Labios \(La Noche\)](https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios \(La Noche\)](https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG) | 2:41 |
+| 44 | [Veneno](https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez) | [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Veneno](https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc) | 3:15 |
+| 45 | [Baila Mi Gente](https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Baila Mi Gente](https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4) | 2:40 |
 | 46 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 |
-| 47 | [Bate](https://open.spotify.com/track/5XqlAVM4qxMBhLg3Kz3SBd) | [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Space Fear](https://open.spotify.com/artist/6IXNeDq3vqabaZwqpnYIql) | [Bate](https://open.spotify.com/album/1G1Belfj7e8SYLbF9YSWHu) | 5:15 |
-| 48 | [Balafon](https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd) | [Blvckr](https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y) | [Balafon](https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2) | 2:53 |
-| 49 | [Lento](https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY) | [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Alessandro Calzolaio](https://open.spotify.com/artist/2M6UzmVfnaQ2Ku0Ygx7zCT) | [Lento](https://open.spotify.com/album/53Nn61QR2zPMyZotqnfIic) | 2:45 |
-| 50 | [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 |
+| 47 | [Tambor](https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambor](https://open.spotify.com/album/5gjxDgtMGqkz43ibVEPR6D) | 2:53 |
+| 48 | [Bate](https://open.spotify.com/track/5XqlAVM4qxMBhLg3Kz3SBd) | [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Space Fear](https://open.spotify.com/artist/6IXNeDq3vqabaZwqpnYIql) | [Bate](https://open.spotify.com/album/1G1Belfj7e8SYLbF9YSWHu) | 5:15 |
+| 49 | [Balafon](https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd) | [Blvckr](https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y) | [Balafon](https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2) | 2:53 |
+| 50 | [Lento](https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY) | [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Alessandro Calzolaio](https://open.spotify.com/artist/2M6UzmVfnaQ2Ku0Ygx7zCT) | [Lento](https://open.spotify.com/album/53Nn61QR2zPMyZotqnfIic) | 2:45 |
 
-Snapshot ID: `MCxiYTI2M2M4M2VhZWQ3ODM3ZjZkY2JkNmUzZWYyNWQ5YWMzNjA4YjBi`
+Snapshot ID: `MCwwMTk2ZmY2ZWRmMmVhNWJhZWQwYzZjY2VmYjRhZjNjZWRiZjJlODJm`

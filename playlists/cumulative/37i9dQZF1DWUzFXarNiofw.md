@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: BJ The Chicago Kid
 
-1,763 songs - 3 day 22 hr 1 min
+1,763 songs - 3 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,7 +1018,7 @@
 | [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 | 2022-10-01 |
 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 | 2023-02-10 | 2023-04-09 |
 | [My Mind](https://open.spotify.com/track/3J0myWc0Pp8WPbn69l42dk) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/7sMsVy6xRIRCOOX2QAXiVk) | 2:37 | 2023-09-29 | 2023-10-28 |
-| [My Obsession](https://open.spotify.com/track/3IAwlkQsspsv7RgQVRCiZI) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [My Obsession](https://open.spotify.com/album/3NDZZyF7pebV2dQwZ0mEFk) | 3:39 | 2023-11-10 |  |
+| [My Obsession](https://open.spotify.com/track/3IAwlkQsspsv7RgQVRCiZI) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [My Obsession](https://open.spotify.com/album/3NDZZyF7pebV2dQwZ0mEFk) | 2:47 | 2023-11-10 |  |
 | [My Peace \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/4pYD9GWj75w065wGuRgiMK) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Peace \(feat\. Mr\. Talkbox\)](https://open.spotify.com/album/3hj55sEE1Mj07Us2zsYcW2) | 3:19 | 2022-02-18 | 2022-04-02 |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-05-19 | 2023-07-15 |
 | [My Pleasure](https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Naja](https://open.spotify.com/artist/11oXgFCwu3o6prxhmaRBJ7) | [HOW TO MAKE LOVE](https://open.spotify.com/album/7DmTz8IJFvLvs59Pvr0EPR) | 4:41 | 2022-11-04 | 2022-12-10 |

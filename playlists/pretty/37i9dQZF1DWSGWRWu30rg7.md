@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Tisya Liotta
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,631 likes - 84 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,632 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 83 | [cmd+delete](https://open.spotify.com/track/1FhpjvqbxyjMoZtBJ0AQ53) | [Nap Room](https://open.spotify.com/artist/0gafAMOxET1u9oFP6JGwfl), [Mithunder](https://open.spotify.com/artist/5do4fAClPjY5A1jwJPri87) | [cmd+delete](https://open.spotify.com/album/4UKerdhd4ljdFLAmbHIT3J) | 2:39 |
 | 84 | [This Party Sucks Without You](https://open.spotify.com/track/7jaJc6EkzopfvWeUqtpxDi) | [GANIAL](https://open.spotify.com/artist/4dCpw5lYuXLZSCnb1HWvdC), [BURDN](https://open.spotify.com/artist/4RPM7jrVHP9pMn8zoUjp6e) | [This Party Sucks Without You](https://open.spotify.com/album/28mp8H5T0QuHfecFwPzqAg) | 3:08 |
 
-Snapshot ID: `MCw4ZGY1ZmRmNWUyMmY4NzI1ZGNhN2YyNzkxZDI0ZDdjMTljZTcxZjNl`
+Snapshot ID: `MCxkZjQ5ODMyM2ExZTE2YjkyZWExMDkzNzgxYThhNjhiYjMzYzgzN2Ji`

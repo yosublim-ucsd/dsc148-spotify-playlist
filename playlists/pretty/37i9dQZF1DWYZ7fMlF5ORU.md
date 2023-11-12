@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,361 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,434 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 33 | [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 |
 | 34 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
 | 35 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
-| 36 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
-| 37 | [Frequência \- Ao Vivo](https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Frequência \(Ao Vivo\)](https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma) | 4:15 |
+| 36 | [Frequência \- Ao Vivo](https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Frequência \(Ao Vivo\)](https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma) | 4:15 |
+| 37 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
 | 38 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
 | 39 | [Instrumento Teu](https://open.spotify.com/track/6dABpJNsCkaR0ivYFuf7OL) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/3tc1IR9Rvhe6JEPMkBBwfh) | 4:38 |
 | 40 | [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxiYWZhNDk4ZjdmZDBhYTBmNmE0YjdjNjNjOGViZDE2ZjQ4ZmExMWE3`
+Snapshot ID: `MCwwOWFkN2U1YjRlYjU1MjljMjhhZDhmYTg0Y2FkNDFjY2U1YWIwMzkz`

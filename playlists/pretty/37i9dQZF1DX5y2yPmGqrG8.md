@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,583 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,603 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 |
 | 50 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 |
 
-Snapshot ID: `MCw5MGI2ZDEzYTUzMDkwY2RlZmUzMzUyYmM0MDAzM2FjMWY5MmE2MjMw`
+Snapshot ID: `MCw3N2U0OWVkNTQ3ZDk0ZTZmNDg5OWE3MzBlNTUzNTU5NTMyMTM5MjM4`

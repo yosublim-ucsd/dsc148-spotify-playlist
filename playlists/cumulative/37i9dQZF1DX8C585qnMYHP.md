@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Marta Del Grandi on cover\. Updates every Wednesday.
 
-1,551 songs - 5 day 4 hr 53 min
+1,552 songs - 5 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,8 @@
 | [Gleiten](https://open.spotify.com/track/25Web7i0BkH8qXTTyLbWkZ) | [CV Vision](https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk) | [Elemente](https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc) | 14:57 | 2021-04-10 | 2021-06-03 |
 | [Gloren](https://open.spotify.com/track/5GG0vgXMzx2amjFofdeoyh) | [Mattheis](https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj) | [Het Jaar Rond \(Part 1 & 2\)](https://open.spotify.com/album/3EJCDGgWiR4zQgxmOvT2K0) | 2:05 | 2022-01-19 | 2022-03-31 |
 | [Gloria: Small Dance of Gratitude](https://open.spotify.com/track/0V3XEs32pgzyRVoaCvJSGH) | [MJ Guider](https://open.spotify.com/artist/6q3oAfZeNYhWzsL2PrMhAv) | [Temporary Requiem](https://open.spotify.com/album/0lTf09cASn6ock5iB3I3mx) | 5:18 | 2021-06-24 | 2021-08-24 |
-| [Gloworm](https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst) | 4:20 | 2023-10-04 |  |
+| [Gloworm](https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst) | 4:20 | 2023-10-04 | 2023-11-12 |
+| [Gloworm](https://open.spotify.com/track/3rfon8g6edGAA0pNcsXOQV) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/696t6KSfRJzMELbpHvKEaX) | 4:20 | 2023-10-04 |  |
 | [Go Oli Go!](https://open.spotify.com/track/2sDQP7g2tR7opPnkjxXy6Y) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Go Oli Go! / Cartoon Smile](https://open.spotify.com/album/1umRL5inVuZZXc8z6TOpvT) | 4:22 | 2022-01-12 | 2023-02-02 |
 | [Go Oli Go!](https://open.spotify.com/track/3MLXwPXiPFTEoGoh9uRp6K) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Go Oli Go! / Cartoon Smile](https://open.spotify.com/album/2cr9euqVLH30Y7sWFKLriB) | 4:22 | 2022-11-30 | 2023-02-16 |
 | [Go Red Laugh White](https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly) | [Szymon Wójcik](https://open.spotify.com/artist/0D1zwUd1QfJuUA8rf3Kace) | [All the Wonders of Six Little Spoons](https://open.spotify.com/album/0Z3Z0B5XPq3BVsCwCWIZVD) | 4:07 | 2023-10-18 |  |
@@ -891,7 +892,7 @@
 | [My Sting Machines](https://open.spotify.com/track/2DuhYxmPJ8DnSs7UUKRTLO) | [Scott Wade](https://open.spotify.com/artist/6Rw4tJpO8dbHxh78xEleVX) | [My Sting Machines](https://open.spotify.com/album/5YMoR8EIkOcE0jSK7V4cdO) | 5:45 | 2023-03-15 | 2023-04-13 |
 | [Mycelia](https://open.spotify.com/track/60KXl9HyXW0SPQBMXEEGzb) | [Matthewdavid](https://open.spotify.com/artist/4KKx8fVJ0y7EcpmYZ42jPc) | [Mycelia](https://open.spotify.com/album/2TesVg8UpZu2ROJI5suGCO) | 13:16 | 2021-04-09 | 2021-06-09 |
 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 | 2022-09-21 | 2022-09-28 |
-| [Mythical Creatures: No\. 3, Unicorn](https://open.spotify.com/track/2ZCqSion2rlwF0x6bsP0tM) | [Paul Kopetz](https://open.spotify.com/artist/0jQd3YstiAWvgtTv3P17rY), [Leon Warnock](https://open.spotify.com/artist/0PblxlXqQRkF8QfGzCuvXZ), [David Quinn](https://open.spotify.com/artist/661F78dWvuJPrBcctKNV6v) | [Paul Kopetz: Mythical Creatures](https://open.spotify.com/album/6PtiFT5MAGsRy8Rdm9HanN) | 3:12 | 2023-11-08 |  |
+| [Mythical Creatures: No\. 3, Unicorn](https://open.spotify.com/track/2ZCqSion2rlwF0x6bsP0tM) | [Paul Kopetz](https://open.spotify.com/artist/0jQd3YstiAWvgtTv3P17rY), [Leon Warnock](https://open.spotify.com/artist/0PblxlXqQRkF8QfGzCuvXZ), [David Quinn](https://open.spotify.com/artist/05hDa7a0iBVfUJBwOHoMYC) | [Paul Kopetz: Mythical Creatures](https://open.spotify.com/album/6PtiFT5MAGsRy8Rdm9HanN) | 3:12 | 2023-11-08 |  |
 | [Mãe de Ouro](https://open.spotify.com/track/5nwNqDX9niddbDjNExNA7i) | [M.TAKARA & CARLA BOREGAS](https://open.spotify.com/artist/2sf8Gf9PIKaB36Absa1OBu) | [LINHA D'ÁGUA](https://open.spotify.com/album/5Ne8RGbu6sX8baAzTYrCyD) | 6:48 | 2021-01-15 | 2022-02-02 |
 | [Música para una Ciudad Solitaria](https://open.spotify.com/track/7yTrFuwZWsC2q4OQ55wJ1o) | [Sublime Progresivo](https://open.spotify.com/artist/6Ayd3v4VLs52oc5S6XZJlq) | [Común e Intrascendente](https://open.spotify.com/album/12yCfI0GlqOPhEuoLjWGVU) | 3:00 | 2022-04-13 | 2022-06-30 |
 | [Nabelschnurtanz](https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP) | [Kenji Araki](https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi) | [Leidenzwang](https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8) | 4:50 | 2022-06-29 | 2023-03-02 |

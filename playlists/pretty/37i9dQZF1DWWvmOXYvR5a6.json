@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Leellamarz(\ub9b4\ub7ec\ub9d0\uc988)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 205020,
+  "num_followers": 205076,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzQzZjE5NWEwZTdlOWI0MmY3MTM3MGNmODlkNWVlNjIxOTg3YTI2",
+  "snapshot_id": "MCw3YmZiNjBhYmVjNGRmZmJiZjA2NmJkNGRjOTIxOTNjMjA1NjY4Y2I0",
   "tracks": [
     {
       "added_at": "2023-11-03 08:06:42",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-11-03 08:06:42",
       "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Shy (eh o)",
+      "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
+    },
+    {
+      "added_at": "2023-11-03 08:06:42",
+      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2023-11-03 08:06:42",
-      "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Shy (eh o)",
-      "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
     },
     {
       "added_at": "2023-11-03 08:06:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-03 08:06:42",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "My pleasure Is That You Ride The Bentley",
-      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
-    },
-    {
-      "added_at": "2023-11-03 08:06:42",
-      "album": {
         "name": "11:59 (feat. Goopy)",
         "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2023-11-03 08:06:42",
+      "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "My pleasure Is That You Ride The Bentley",
+      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
     },
     {
       "added_at": "2023-11-03 08:06:42",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-11-03 08:06:42",
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 210870,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+    },
+    {
+      "added_at": "2023-11-03 08:06:42",
+      "album": {
         "name": "DAY OFF",
         "url": "https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd"
       },
@@ -1767,18 +1783,22 @@
     {
       "added_at": "2023-11-03 08:06:42",
       "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+        "name": "California Love",
+        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
+        },
+        {
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
         }
       ],
-      "duration_ms": 210870,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+      "duration_ms": 228066,
+      "name": "California Love (feat. JENO of NCT)",
+      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
       "added_at": "2023-11-03 08:06:42",
@@ -1803,26 +1823,6 @@
       "duration_ms": 257986,
       "name": "When I fall in love",
       "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
-    },
-    {
-      "added_at": "2023-11-03 08:06:42",
-      "album": {
-        "name": "California Love",
-        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
-      },
-      "artists": [
-        {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "California Love (feat. JENO of NCT)",
-      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
       "added_at": "2023-11-03 08:06:42",
@@ -1867,30 +1867,6 @@
     {
       "added_at": "2023-11-03 08:06:42",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
-    },
-    {
-      "added_at": "2023-11-03 08:06:42",
-      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1911,6 +1887,30 @@
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
+    },
+    {
+      "added_at": "2023-11-03 08:06:42",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
     },
     {
       "added_at": "2023-11-03 08:06:42",

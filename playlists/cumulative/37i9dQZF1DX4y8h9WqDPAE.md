@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Usher
 
-578 songs - 1 day 6 hr 42 min
+579 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO) | 2:47 | 2022-07-01 | 2022-11-21 |
 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 | 2022-07-01 | 2023-01-14 |
 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 | 2023-07-07 |  |
-| [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 | 2023-09-29 |  |
+| [30 FLOORS UP](https://open.spotify.com/track/3jEKJ7b2ApQ5Lmwdqj20O1) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:24 | 2023-09-29 |  |
+| [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 | 2023-09-29 | 2023-11-12 |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g) | 2:40 | 2023-02-17 | 2023-07-01 |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 | 2023-06-30 |  |
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-10 |  |

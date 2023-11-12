@@ -4,7 +4,7 @@
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Belly
 
-102 songs - 5 hr 6 min
+103 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [NightmareZ](https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7) | 1:49 | 2023-09-29 |  |
 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 | 2023-03-03 |  |
 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 | 2023-03-03 |  |
-| [One of Mines](https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 4:27 | 2023-04-27 |  |
+| [One of Mines](https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 4:27 | 2023-04-27 | 2023-11-12 |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:33 | 2023-03-03 |  |
 | [Pause Play](https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Pause Play](https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT) | 2:44 | 2023-03-03 |  |
 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 | 2023-03-03 |  |
@@ -100,6 +100,7 @@
 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 | 2023-03-17 |  |
 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 | 2023-03-03 |  |
 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 | 2023-03-03 |  |
+| [Way Down](https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv) | 3:49 | 2023-11-08 |  |
 | [Way Down](https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN) | 3:49 | 2023-03-03 | 2023-11-06 |
 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 | 2023-03-03 | 2023-11-10 |
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-04-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno, Big One & Rusherking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,989 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,431 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 51 | [El Federal](https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Trilogía: 1er acto](https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ) | 6:13 |
 | 52 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 |
 | 53 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
-| 54 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
+| 54 | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF) | 3:13 |
 | 55 | [Bésame Bonito \(Cover\) \- En Vivo](https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Bésame Bonito \(Cover\) \[En Vivo\]](https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd) | 3:52 |
-| 56 | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF) | 3:13 |
+| 56 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 57 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
 | 58 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
 | 59 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 91 | [Me Duele Tu Nombre](https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre](https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY) | 4:56 |
 | 92 | [Eran dos locos de amor](https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Eran dos locos de amor](https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4) | 2:49 |
 | 93 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
-| 94 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 |
-| 95 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
-| 96 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 |
+| 94 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 |
+| 95 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 |
+| 96 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
 | 97 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
 | 98 | [Por Amarte](https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 3:56 |
 | 99 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
 | 100 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
 
-Snapshot ID: `MCw0YWI0NDJlYzk1ZTZjOTkxNmFhMjMzYjI1YTE0ZTFjNjg2YjFlYWI3`
+Snapshot ID: `MCwyYzQxMWUzYzVjNGVhMDQ2MjMwNTJjZjRhMGJjNTdkMGU3ZDVmNjE5`

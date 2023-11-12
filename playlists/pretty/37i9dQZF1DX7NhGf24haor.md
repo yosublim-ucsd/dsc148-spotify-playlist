@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Ran\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,559 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,683 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 3 | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9) | 3:08 |
 | 4 | [Now Or Never \(Toneshifterz Remix\)](https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Now Or Never \(Toneshifterz Remix\)](https://open.spotify.com/album/2KwzYmQzK3dLFJDxBb2moh) | 4:01 |
 | 5 | [Lovely Day To Die](https://open.spotify.com/track/0iRFMIitMOJSTMSBCZVRLJ) | [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Lovely Day To Die](https://open.spotify.com/album/7ngtSDhPOEFzh1gpegYEop) | 3:38 |
-| 6 | [Voices Calling](https://open.spotify.com/track/0OVUQFCm8ibe6adTJ572hg) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Caelum](https://open.spotify.com/artist/2l7jTMjaEEmJkbkJEzFui3) | [Voices Calling](https://open.spotify.com/album/5ebQkAOLxFRbcRTy18sduU) | 3:32 |
+| 6 | [Voices Calling](https://open.spotify.com/track/0OVUQFCm8ibe6adTJ572hg) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Caelum](https://open.spotify.com/artist/4rurguPt7zC7a60LfcPDUM) | [Voices Calling](https://open.spotify.com/album/5ebQkAOLxFRbcRTy18sduU) | 3:32 |
 | 7 | [Rave Into The Night \(feat\. Diandra Faye\)](https://open.spotify.com/track/6fjluyT54G59LHW4PnVZ97) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Rave Into The Night \(feat\. Diandra Faye\)](https://open.spotify.com/album/0ZMCuAaws2XRBe8YEPfqMd) | 2:40 |
 | 8 | [Forgive Me](https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Forgive Me](https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn) | 3:29 |
 | 9 | [Source Of Fire \(Hardshift Anthem 2023\)](https://open.spotify.com/track/4Hhcvgt2tJy4QAFZRaSYO3) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Source Of Fire \(Hardshift Anthem 2023\)](https://open.spotify.com/album/1u27TqxPEWIg2AhTUUKgum) | 4:06 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Ruffneck Sound](https://open.spotify.com/track/0QVF56A9dHRJh9iB7L5tZ5) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Ruffneck Sound](https://open.spotify.com/album/4yOfxfaE7xQmSaXjfRc2Xz) | 2:46 |
 | 96 | [Burn The Place Up](https://open.spotify.com/track/3JFlEtsbsAb74sz7rkB4kW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Burn The Place Up](https://open.spotify.com/album/2cAAQ0ANoKN9V3Ze3vKQjN) | 3:07 |
 
-Snapshot ID: `MCw2Zjc5MjNlYzZiYjY2NDEzZWI5NGFhYTFhNTVkMDAzZDRiMDJhYTc1`
+Snapshot ID: `MCw5NTljYTk4NjllOTIyYzNlYmY1MWEzNTA2MWQyODM1NmU1OTkxZTk0`

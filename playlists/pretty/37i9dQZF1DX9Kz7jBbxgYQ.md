@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,701 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,803 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 7 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
 | 8 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 |
 | 9 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
-| 10 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 |
+| 10 | [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 |
 | 11 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
 | 12 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 13 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 62 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 | 63 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
 | 64 | [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 |
-| 65 | [Ishq Di Chaawaan](https://open.spotify.com/track/32QciyqHLkDbIfSMwZ4vaF) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/3wCkTerpj85FLiecQwQnsJ) | 3:45 |
+| 65 | [Ishq Di Chaawaan](https://open.spotify.com/track/16m3dpTc9m7TN2Lxdt1Jco) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/5cM7uX9PBIHPtBI2QbUjDv) | 3:45 |
 | 66 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
 | 67 | [Marijuana](https://open.spotify.com/track/1C9DajYq19423BwN85bNf0) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 |
 | 68 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 74 | [Faasla](https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:19 |
 | 75 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 |
 
-Snapshot ID: `MCxmYTU0ZmFmNTc3OWM0Y2RjNzhlMGFmNWY4YjFmZWU1ZGUzODg4MTc2`
+Snapshot ID: `MCxhNzNhMTdkNmU5ZTVlZmRmMGUzMGRkZjgyNWJiY2Q5YTNlZmYzN2Y4`

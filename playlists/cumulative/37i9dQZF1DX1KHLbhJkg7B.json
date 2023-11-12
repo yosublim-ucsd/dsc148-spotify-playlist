@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
@@ -3460,10 +3460,36 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 277856,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/0TaJn96DJs4zDmlrlcH7ha"
+    },
+    {
+      "album": {
+        "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277856,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/74FRX1yPdHxH2Bw0kkVY0X"
     },
     {
       "album": {
@@ -4614,7 +4640,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"

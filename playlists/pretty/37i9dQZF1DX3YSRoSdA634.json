@@ -1,12 +1,12 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4030639,
+  "num_followers": 4031138,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzgzNDdlNzZjY2FiYTBlM2U1YzgyNjQwZGY4Y2FiMWIzYWRkM2U1",
+  "snapshot_id": "MCwxMzAyOTQ3NWRhODc0ZmFiYzYzYWM5NmRlZTM2YWY3MDYxMzk3NWYy",
   "tracks": [
     {
       "added_at": "2023-02-17 11:17:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197732,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 190898,
       "name": "illicit affairs",
       "url": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210863,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
       "artists": [
         {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
+      "duration_ms": 210863,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 286928,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 273426,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 286928,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 180413,
       "name": "Who",
       "url": "https://open.spotify.com/track/0pSqYDTjY1Xt86usTQslAx"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "glisten",
-        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "all the kids are depressed",
-      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Blood Harmony (Deluxe)",
         "url": "https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 238012,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 230288,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 158324,
       "name": "Unstable (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
       "added_at": "2023-06-23 09:57:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 170573,
-      "name": "Privilege",
-      "url": "https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
@@ -2355,18 +2339,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "The Intro",
-        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
       "artists": [
         {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Superficial Love",
-      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
+      "duration_ms": 170573,
+      "name": "Privilege",
+      "url": "https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2419,6 +2403,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "The Intro",
+        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Superficial Love",
+      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -2447,6 +2447,22 @@
       "duration_ms": 196933,
       "name": "Love You Goodbye",
       "url": "https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2503,22 +2519,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 141060,
-      "name": "Best Friend Breakup",
-      "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -2599,18 +2583,18 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 188546,
-      "name": "Half a Heart",
-      "url": "https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb"
+      "duration_ms": 141060,
+      "name": "Best Friend Breakup",
+      "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2627,6 +2611,22 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Half a Heart",
+      "url": "https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 185495,
-      "name": "I Don't Like Myself",
-      "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 185495,
+      "name": "I Don't Like Myself",
+      "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 184892,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 195000,
       "name": "Run",
       "url": "https://open.spotify.com/track/1zmgEIHE0eXH0IhBGuoTkP"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 184892,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12"
     },
     {
       "added_at": "2023-02-17 11:17:00",

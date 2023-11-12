@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-934 songs - 1 day 16 hr 29 min
+936 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-02-11 | 2022-06-08 |
+| [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-04-15 | 2023-09-21 |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-08-06 | 2021-10-28 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2022-12-24 |
@@ -284,6 +285,7 @@
 | [Free Fall](https://open.spotify.com/track/6diVLJWBX8xKLHUz7emqsB) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Free Fall](https://open.spotify.com/album/5yq3Tsy3PIAoXGrozft4TX) | 1:41 | 2020-08-14\* | 2021-10-16 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2021-02-19 |  |
 | [From Here to Eternity](https://open.spotify.com/track/64IBUAyeOxHHtV2VNl6CQ3) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [From Here to Eternity](https://open.spotify.com/album/7IK1Yc1wqhmgZqq0iyTwZB) | 3:25 | 2020-11-27 | 2021-05-20 |
+| [From the Seas and the Streams](https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [From the Seas and the Streams](https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc) | 2:29 | 2023-11-08 |  |
 | [Frozen Lake](https://open.spotify.com/track/1nhtusu73NEuqOOJTJ8gbc) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm) | [View](https://open.spotify.com/album/0Mdwjh11jzxtsFE29Xw5aU) | 2:01 | 2022-12-22 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-09-16 |  |
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2021-11-12 |  |
@@ -653,7 +655,7 @@
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2021-07-01 | 2022-09-24 |
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2021-01-23 | 2022-06-08 |
 | [Rhyl Sands](https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Malerei](https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST) | 3:02 | 2022-09-14 |  |
-| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-09-02 |  |
+| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-09-02 | 2023-11-12 |
 | [Right beside you](https://open.spotify.com/track/1XpTKAxSRMsYs3pXWyfYD6) | [Denise Billingsley](https://open.spotify.com/artist/0kkfAV2eyZaQd3CECgELlj) | [Right beside you](https://open.spotify.com/album/7JrBRqanwVNLYeprNBrF3L) | 2:28 | 2020-08-14\* | 2021-09-15 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2020-10-15 |  |
 | [Rise](https://open.spotify.com/track/0P9iHoMjt1UlJfdcijOBHZ) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Rise](https://open.spotify.com/album/3e00tFNHFroqXpk2PbBitE) | 3:10 | 2020-08-14\* | 2021-04-09 |
@@ -853,7 +855,7 @@
 | [Turning Ahead](https://open.spotify.com/track/0IBQM8tB107DZs0YCcXSt0) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Turning Ahead](https://open.spotify.com/album/5yHYS76gj6oZNPjhyyZ6AM) | 3:03 | 2020-08-14\* | 2022-09-15 |
 | [Tuscan Nights](https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R) | [Mads Alter](https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf) | [Tuscan Nights](https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe) | 3:02 | 2022-03-30 |  |
 | [Twin Fifteens](https://open.spotify.com/track/0KLG1xUVWBQHX6JVPW7IoA) | [Maren Andrews](https://open.spotify.com/artist/6H0jAP8RgKHaD3Bm0JfyTQ) | [Shadow Swing](https://open.spotify.com/album/6Ajh4HlbjFL9t1xpQZ8B5K) | 2:47 | 2020-08-14\* | 2023-09-06 |
-| [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 | 2021-03-14 |  |
+| [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 | 2021-03-14 | 2023-11-12 |
 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2022-03-01 | 2022-09-15 |
 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 | 2021-04-09 |  |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-03-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,660 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,812 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 92 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 93 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
 | 94 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
-| 95 | [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 |
+| 95 | [Cosas Del Amor](https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:45 |
 | 96 | [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 |
 | 97 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
-| 98 | [Cosas Del Amor](https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:45 |
+| 98 | [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 |
 | 99 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 |
 | 100 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 
-Snapshot ID: `MCxmOTQ4OGQ3Nzk5ZWMyZWEwN2QxYTRlZjRmM2YwOGM0NjNhZjNlYmY3`
+Snapshot ID: `MCw1NmNiZmU1MGI4MGQ3NTlmMTMwZTM3MWJjZWE3YWFmYmE4ZmJlMzMy`

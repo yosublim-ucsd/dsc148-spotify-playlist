@@ -4,7 +4,7 @@
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-143 songs - 8 hr 44 min
+144 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bodies](https://open.spotify.com/track/5TG4PLHEIZPiUlK4osfFcm) | [Pale Seas](https://open.spotify.com/artist/4BwqDlOuXOJSy9CrvPJQIg) | [Stargazing for Beginners](https://open.spotify.com/album/1eVQadtgk65NtaglgNfwc7) | 3:37 | 2021-10-20 | 2022-07-24 |
 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-10-20 |  |
 | [BRIGHTSIDE](https://open.spotify.com/track/63q3GlHZstxXzfb0zt7ZYY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:49 | 2022-01-14 | 2022-02-05 |
+| [Bummerland](https://open.spotify.com/track/00An2aaCm1Du4NF7R715oM) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/3lBsrg94wkPM0aOcra5Gw6) | 3:09 | 2022-02-04 |  |
 | [Bummerland](https://open.spotify.com/track/1N2gWqKHFtPSZ0zgoCr8WK) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:09 | 2022-02-04 | 2023-11-04 |
 | [Bummerland](https://open.spotify.com/track/3QCMUnmMaqokrfNZes4D6S) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bummerland](https://open.spotify.com/album/5XIgmuIwLIkDr5mO4tEFpP) | 3:09 | 2021-07-27 | 2022-07-29 |
 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest \(Expanded Edition\)](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 | 2022-02-04 |  |
@@ -142,7 +143,7 @@
 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 | 2021-07-27 | 2022-11-02 |
 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/1T9DxFAS1H7RgR4PDUzAGQ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/5XWHfMAw90dNXWbAy0t6hq) | 2:51 | 2022-02-04 | 2022-10-14 |
 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/2I6ZS1aBwCkrt1K4pnnXE7) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [You Already Know](https://open.spotify.com/album/23gZJLMCDK3oIznyZAifg9) | 2:51 | 2021-07-27 | 2022-07-29 |
-| [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 | 2022-02-04 |  |
+| [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 | 2022-02-04 | 2023-11-12 |
 | [WONDER](https://open.spotify.com/track/6dZQEvVq2Zt23bD99bpInc) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER](https://open.spotify.com/album/2LUpdRveZYA02M51m1sJPb) | 3:45 | 2021-07-27 | 2022-07-29 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 |  |
 | [Years In The Making](https://open.spotify.com/track/7e4jhsoV4urOVVZOS6112k) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Years In The Making](https://open.spotify.com/album/4MYloBSc2cBHPKC5LvQ9Db) | 2:58 | 2021-07-27 | 2022-07-28 |

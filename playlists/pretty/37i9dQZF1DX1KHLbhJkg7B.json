@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 100152,
+  "num_followers": 100245,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjVmOWYwMmI1ZjA2ZmYyMjhhNDRhOGMyMzllNTk3ZGI2NGVjYmIx",
+  "snapshot_id": "MCw3MzY5YTA3MmMzMWEwYzlhMTA3NmMyMjM3ZTdkNWQ5OWQ4ZDFjZTEy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
+      "duration_ms": 186635,
+      "name": "Dancing in the Sky",
+      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+        "name": "2022",
+        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
         }
       ],
-      "duration_ms": 186635,
-      "name": "Dancing in the Sky",
-      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
+      "duration_ms": 146250,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -452,7 +452,7 @@
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "A Tribute To The Judds",
-        "url": "https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy"
+        "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
       },
       "artists": [
         {
@@ -470,7 +470,7 @@
       ],
       "duration_ms": 277856,
       "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/0TaJn96DJs4zDmlrlcH7ha"
+      "url": "https://open.spotify.com/track/74FRX1yPdHxH2Bw0kkVY0X"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -639,18 +639,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Craig Campbell",
+          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
         }
       ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+      "duration_ms": 232250,
+      "name": "Outskirts of Heaven (feat. Craig Campbell)",
+      "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Craig Campbell",
-          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 232250,
-      "name": "Outskirts of Heaven (feat. Craig Campbell)",
-      "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 260252,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
-        "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "The Way You Look Tonight - Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016",
-      "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Footloose",
         "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 494800,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
+        "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "The Way You Look Tonight - Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016",
+      "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     }
   ],
   "unique_name": "Country Covers",

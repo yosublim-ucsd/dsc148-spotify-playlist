@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Anitta
+> Tous les hits latino du moment sont ici\. Photo : KAROL G
 
 55 songs - 2 hr 50 min
 

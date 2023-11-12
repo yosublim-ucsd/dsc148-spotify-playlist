@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Veeze
 
-610 songs - 1 day 4 hr 31 min
+611 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [2019](https://open.spotify.com/track/0qYotAhNzAECQYzv411A2C) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 2:20 | 2021-12-04 | 2022-02-12 |
 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 | 2023-07-28 | 2023-11-11 |
 | [223's \(feat\. BabyTron\)](https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [BACK IN ACTION 3.0](https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM) | 2:13 | 2022-09-16 | 2022-11-19 |
-| [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 | 2023-09-29 |  |
+| [30 FLOORS UP](https://open.spotify.com/track/3jEKJ7b2ApQ5Lmwdqj20O1) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:24 | 2023-11-10 |  |
+| [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 | 2023-09-29 | 2023-11-12 |
 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 | 2021-09-17 | 2022-01-15 |
 | [4 Kobe](https://open.spotify.com/track/0JCUZ7wbrwH6YjUhG83aHj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [4 Kobe](https://open.spotify.com/album/4MDLz8Zd8LFWV6y5pOoMEq) | 2:13 | 2023-01-27 | 2023-04-29 |
 | [4PF](https://open.spotify.com/track/1ijXnrufGNYg0LpSFVSsrf) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [4PF](https://open.spotify.com/album/5bLihiRGAC2PEvyJ0Eo5lS) | 1:44 | 2022-04-29 | 2022-05-28 |

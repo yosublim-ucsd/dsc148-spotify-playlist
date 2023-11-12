@@ -1,13 +1,29 @@
 {
   "description": "next gen pop Cover: Dove Cameron",
-  "num_followers": 1300982,
+  "num_followers": 1301235,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzVhMWU5ZmM5NzBkMTBiZDc5NmYxOTkyNjI3MzhkY2ZhODIxOWJj",
+  "snapshot_id": "MCw0ZTk0NzgyMzhmNTAzZWVlMWRmMjMzM2FiNTRmYjU3MjNkNjc3YzI0",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {

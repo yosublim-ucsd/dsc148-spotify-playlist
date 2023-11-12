@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,109 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,147 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 3 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 |
 | 4 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 |
 | 5 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 |
-| 6 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
-| 7 | [Mind Doodles](https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Mind Doodles](https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI) | 6:41 |
-| 8 | [Home](https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:41 |
+| 6 | [Home](https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:41 |
+| 7 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
+| 8 | [Mind Doodles](https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Mind Doodles](https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI) | 6:41 |
 | 9 | [Apolune](https://open.spotify.com/track/1M3ldz0gop7cJeEWUuJCfe) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Aviator](https://open.spotify.com/album/0ZASLQCInYYMLkoK0VcHtL) | 6:42 |
 | 10 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
 | 11 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 35 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
 | 36 | [Nektar Leftie MIX \- Erdbeerschnitzel Remix](https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO), [Erdbeerschnitzel](https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx) | [Moon II Remixes Pt\. II](https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD) | 4:37 |
 | 37 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 |
-| 38 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
-| 39 | [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 |
+| 38 | [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 |
+| 39 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
 | 40 | [Years On Years](https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years \(Remixes\)](https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy) | 2:03 |
 | 41 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
 | 42 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 43 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
-| 44 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 45 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
-| 46 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
-| 47 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 |
-| 48 | [Ghetto Kraviz](https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo) | 3:44 |
+| 44 | [Ghetto Kraviz](https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo) | 3:44 |
+| 45 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
+| 46 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
+| 47 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
+| 48 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 |
 | 49 | [Ichika](https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ) | 8:05 |
 | 50 | [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 |
 
-Snapshot ID: `MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy`
+Snapshot ID: `MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2`

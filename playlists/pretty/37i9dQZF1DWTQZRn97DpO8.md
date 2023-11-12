@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : IPNDEGO
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,391 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,451 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [CINÉ](https://open.spotify.com/track/2QwBM6L5t8yuEwaC2FXid7) | [Ogee](https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [CINÉ](https://open.spotify.com/album/1jnVoQRrIYtW8di19qvNzl) | 3:15 |
 | 50 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 |
 
-Snapshot ID: `MCxiNGYxYzUxYTFjZGJmMDM4NmJhYTYzMDQ3ODdmZDE4MWM5MjZkMTNj`
+Snapshot ID: `MCwwZmM2ODVmN2I3ZWQ4NWU0OWFkZWMzNmQ4NmRkMzZlODE2OGM4ZTA5`

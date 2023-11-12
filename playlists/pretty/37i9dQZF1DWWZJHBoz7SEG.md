@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Rolitas frescas para comenzar el finde con Piso 21, Dua Lipa, Cali y el Dandee y Mon Laferte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,560 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,651 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 31 | [Entre Las Nubes](https://open.spotify.com/track/362XpKMgOSoz2AgmyU6owA) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Los de la 4](https://open.spotify.com/artist/28YHCirBYsvVBgYIr9S8Wj) | [Entre Las Nubes](https://open.spotify.com/album/6HXLUH4ck2vo6Hp6Rfin8c) | 3:15 |
 | 32 | [Triste Bolero](https://open.spotify.com/track/0z2yHEBefBE6fHgAtVlbuB) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Triste Bolero](https://open.spotify.com/album/6pyYHUe0Il68a8DxsuJxIL) | 3:20 |
 | 33 | [Mexikan](https://open.spotify.com/track/2CQQm6eZY2ZeLQPDZvvBmm) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Mexikan](https://open.spotify.com/album/3EsWyuDkCTFPVxQAOih8JY) | 3:34 |
-| 34 | [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:14 |
+| 34 | [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:15 |
 | 35 | [Triada](https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX), [Vicky MC](https://open.spotify.com/artist/2sF3CgV1tKubYGTUSKPenC), [Crismo VC](https://open.spotify.com/artist/3bsKe2QwZ3UOWugCtde85U) | [Triada](https://open.spotify.com/album/38CP274HAcOq0ajInkz2fH) | 4:29 |
 | 36 | [Aquel Lugar](https://open.spotify.com/track/6AstFrozWZhkWxdSpeMAD2) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Aquel Lugar](https://open.spotify.com/album/3VIT5bCyAGgVdnmrs44bAC) | 3:41 |
 | 37 | [Azótame](https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B) | [Poeta Callejero](https://open.spotify.com/album/2sTSCaVwAZ0mviMAYXsnw7) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Fourth Time Around \- Live at the Royal Albert Hall](https://open.spotify.com/track/2xwrxptPwS1SblukgfKPgx) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert](https://open.spotify.com/album/4OnjUMJXgFC6lG8JHOrwuu) | 4:45 |
 | 50 | [Your Blood](https://open.spotify.com/track/4QJKtN5EXFtxbqnHuibwEL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Your Blood](https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC) | 4:08 |
 
-Snapshot ID: `MCw4MzZlMjJlN2RlNTVlZjI0NGY2ZjQ1ZmQ5NDBhMWMyOGMzODkwODIy`
+Snapshot ID: `MCw5YTlmNmQ4ODIxOWQxYmU4MTI4Y2M1Yjg5YzcxY2Q3YzdlZWNjYmIw`

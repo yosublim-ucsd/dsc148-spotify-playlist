@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Pepe Aguilar & Marc Anthony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,237 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,249 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 |
 | 79 | [Pensar en Ti \(Remix\)](https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pensar en Ti \(Remix\)](https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK) | 4:02 |
 
-Snapshot ID: `MCw2NjM4YzkxYWRiOWEyMWFiMjRjNWUxMmU3M2MzNWM0ZTUzYmYzYjUz`
+Snapshot ID: `MCxjY2QzZmM4NjE5NjlmZjc1ZTUwMzAyYzEzMTMxMmEzNjMzMjE4YzQ4`

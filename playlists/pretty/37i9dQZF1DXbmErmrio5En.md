@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,355 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,426 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [ecstasy](https://open.spotify.com/track/762QMcwFiDNGhu2eruCJQK) | [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [ecstasy](https://open.spotify.com/album/0cjzOs53TZrJwJ8NcZVUou) | 3:02 |
 | 100 | [bones](https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx), [pwon](https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM) | [bones](https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s) | 2:22 |
 
-Snapshot ID: `MCw3ODNjY2IyZTc5YTYyNWZiOThmMDM5ZjRhY2YxOWRjNmFhYTk3ZDU4`
+Snapshot ID: `MCwxOWQyODYzYTEzZmEzMDM1MTgyODAyMTliMWI4OTM3NzgzNTY4YzQ1`

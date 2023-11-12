@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-506 songs - 1 day 4 hr 40 min
+507 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2021-03-27\* | 2021-03-27 |
 | [BABY NUEVA](https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:00 | 2023-10-14 | 2023-10-22 |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-10-01 | 2022-12-08 |
-| [Bad Boy](https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Bad Boy](https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh) | 2:39 | 2023-10-30 |  |
+| [Bad Boy](https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Bad Boy](https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh) | 2:39 | 2023-10-30 | 2023-11-12 |
+| [Bad Boy](https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Controlando el Ki](https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I) | 2:39 | 2023-11-11 |  |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-09 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-09-08 |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-11-10 |

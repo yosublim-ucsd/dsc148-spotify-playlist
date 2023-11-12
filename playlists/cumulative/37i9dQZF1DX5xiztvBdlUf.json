@@ -4640,7 +4640,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
@@ -6926,6 +6926,28 @@
       "duration_ms": 336212,
       "name": "What Did You Do?",
       "url": "https://open.spotify.com/track/4GCjjTHiH5QEYnmxkX837H"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229523,
+      "name": "What U Doing",
+      "url": "https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG"
     },
     {
       "album": {

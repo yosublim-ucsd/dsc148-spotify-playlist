@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-172 songs - 10 hr 18 min
+173 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 | 2021-12-31 |  |
 | [All In \(CB Remix\)](https://open.spotify.com/track/43S4LXQySI1N2Zmnkdzh6j) | [Heather Schnoor](https://open.spotify.com/artist/0J1IF9b4Rs9rbjSye9APm0) | [All In](https://open.spotify.com/album/569y4fe4V9EiryjqIMjVXZ) | 3:07 | 2021-12-31 | 2022-07-22 |
 | [All of Me](https://open.spotify.com/track/5WOAErKdSpXwj0wKlezVl8) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [All of Me](https://open.spotify.com/album/564kK0NdFOU5ma5XwHyEGw) | 3:11 | 2021-12-31 | 2022-07-15 |
-| [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2021-12-31 |  |
+| [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2021-12-31 | 2023-11-12 |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4) | 3:25 | 2021-12-31 | 2022-07-29 |
 | [Beacon](https://open.spotify.com/track/6wUuYJIeSk1AAUcezd4i3e) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA) | [Beacon](https://open.spotify.com/album/3kyaqE00ypm4l1yR9O6RE3) | 5:38 | 2021-12-31 | 2022-07-25 |
 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-12-31 |  |
@@ -138,6 +138,7 @@
 | [Pray It Up](https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:19 | 2021-12-31 |  |
 | [Que No Se Apague Tu Luz](https://open.spotify.com/track/58nh2KDDyG5eJdm0bndUdT) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Que No Se Apague Tu Luz](https://open.spotify.com/album/3eoz5ZaoJ2fYobv3KGt4ho) | 2:59 | 2021-12-31 | 2022-06-29 |
 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 | 2021-12-31 |  |
+| [Rest On Us](https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmore](https://open.spotify.com/artist/3F4uNC54SZeUGL2AkZJEw1) | [Rest On Us](https://open.spotify.com/album/17ppxNXzGYBaJyVFnhuKhR) | 3:29 | 2023-02-18 |  |
 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 | 2021-12-31 | 2023-11-01 |
 | [Right Where You Want Me](https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:26 | 2021-12-31 |  |
 | [Right Where You Want Me](https://open.spotify.com/track/7bdksAcXiyJC8PoyGFxT88) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You \(EP\)](https://open.spotify.com/album/1H7SP3MYV0f8xjInNIbelA) | 3:26 | 2021-12-31 | 2022-07-24 |

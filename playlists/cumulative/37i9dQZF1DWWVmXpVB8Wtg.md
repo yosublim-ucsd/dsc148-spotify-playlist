@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-56 songs - 4 hr 11 min
+57 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/3INaJCuIfVWt8EnzhgHdk5) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/42lZKhCXoHT3VLFYH4PPM3) | 3:28 | 2022-09-15 |  |
 | [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/6Qotee3wIEu3PUTsXLJbnG) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP) | 3:28 | 2022-09-15 | 2023-04-30 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-09-15 |  |
-| [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/track/2vonFHQE4R9VsEktEH6kNQ) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/album/4vcpZ5tZDmXUcSZAVkOke5) | 2:46 | 2022-09-15 |  |
+| [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/track/1ytGwhHbITRNT1NFjKbWsB) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/album/6qMr7pvLpgTwdQ2hdzV3CN) | 2:46 | 2022-09-15 |  |
+| [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/track/2vonFHQE4R9VsEktEH6kNQ) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/album/4vcpZ5tZDmXUcSZAVkOke5) | 2:46 | 2022-09-15 | 2023-11-12 |
 | [Puppet](https://open.spotify.com/track/0ehGrMuw8VqVK3wz5xCk5s) | [Cream](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr) | [Puppet](https://open.spotify.com/album/0FtiUhuWshUIS6mB0h90C9) | 2:11 | 2022-09-15 |  |
 | [Say Good Bye](https://open.spotify.com/track/28wpHGozJtShA2FNy6wLU1) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Say Good Bye](https://open.spotify.com/album/6VjmQihXEP1KPPsOZkBS2b) | 2:27 | 2022-09-15 |  |
 | [Secrets](https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:10 | 2022-09-15 |  |

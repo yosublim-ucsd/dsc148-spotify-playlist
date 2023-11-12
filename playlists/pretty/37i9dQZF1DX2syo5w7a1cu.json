@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 665698,
+  "num_followers": 666223,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmNjOTY1ZWRlMDc5MjI1YzMxYzdkYWY5MGZiYjEwZTA3MDQ4ZmJi",
+  "snapshot_id": "MCw0NTU5MWE2MWFiYjA4ZjUwZGZlMGE1OTdjMGQ4YWQ4MThlYmY5M2Jm",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Ode To My Family",
-      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Come On Over (Diamond Edition / Super Deluxe)",
         "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212224,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Marc Cohn",
         "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 252613,
       "name": "Walking in Memphis",
       "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 384306,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 257920,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 384306,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Savage Garden (Original Version)",
         "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 276289,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Supernatural (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
+        "name": "Relish",
+        "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
         }
       ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
+      "duration_ms": 320466,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Relish",
-        "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
+        "name": "Supernatural (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
       },
       "artists": [
         {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
         }
       ],
-      "duration_ms": 320466,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Great Expectations",
-        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
-      },
-      "artists": [
-        {
-          "name": "Tasmin Archer",
-          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Sleeping Satellite",
-      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 310666,
       "name": "Viva Forever",
       "url": "https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+      },
+      "artists": [
+        {
+          "name": "Tasmin Archer",
+          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 321360,
-      "name": "Take a Bow",
-      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Big Big World",
         "url": "https://open.spotify.com/album/2c85VjChgtdbeagZs9jYjM"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 205466,
       "name": "Big Big World",
       "url": "https://open.spotify.com/track/5I4xjdu4DeKUNMiufzQLoA"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 321360,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "added_at": "2022-03-21 23:00:00",

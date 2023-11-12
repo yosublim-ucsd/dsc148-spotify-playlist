@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 280680,
+  "num_followers": 280722,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzkyOWY3NTNkNjUzOTMxYjNjNmQ2Y2JmYjY1NmIwY2ZlMzQ3YTJh",
+  "snapshot_id": "MCwyOTRjMWVmMDljMmE2MWIxZWVkNmEyNWRiNmYzYjVmNjExMWNkZTA5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Just Like Leaving",
-        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Just Like Leaving",
-      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Just Like Leaving",
+        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Just Like Leaving",
+      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Bright Star",
+      "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 298013,
       "name": "If I Told",
       "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Ana\u00efs Mitchell",
-        "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Bright Star",
-      "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
-      },
-      "artists": [
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 260096,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Queen of the Minor Key",
         "url": "https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 231000,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/6U7ZRYMJ2zIO1oe4YoK6pU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Wreck You",
-      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 187486,
       "name": "Brightest Star",
       "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Wreck You",
+      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1759,30 +1759,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Be Careful",
-        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 342272,
-      "name": "Be Careful",
-      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Be Careful",
+        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 342272,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -1963,18 +1947,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2023-08-04 04:00:00",

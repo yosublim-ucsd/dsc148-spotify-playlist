@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,272 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,315 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 31 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
 | 32 | [No Puedo Ni Quiero](https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM) | 3:34 |
 | 33 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
-| 34 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
+| 34 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
 | 35 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
-| 36 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
+| 36 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
 | 37 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
 | 38 | [Si Te Vas](https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Si Te Vas](https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V) | 3:10 |
 | 39 | [Summertime](https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE) | [Yeyo](https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp) | [Summertime](https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi) | 3:23 |
 | 40 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 |
 | 41 | [Batugozo](https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko) | [Batuqueadora](https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw) | [Los Revolucionarios](https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH) | 3:55 |
-| 42 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
+| 42 | [La Misma Mentira](https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg) | 3:48 |
 | 43 | [Tu Amor](https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Tu Amor](https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90) | 3:12 |
-| 44 | [La Misma Mentira](https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg) | 3:48 |
+| 44 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 | 45 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
 | 46 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 |
 | 47 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 |
 | 48 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
-| 49 | [Yo Te Prometo](https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr) | 3:44 |
-| 50 | [Va Cae](https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf) | 3:10 |
+| 49 | [Va Cae](https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf) | 3:10 |
+| 50 | [Yo Te Prometo](https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr) | 3:44 |
 
-Snapshot ID: `MCxkMzUyMTljMzc2MTA0MWI4MDFmMjU1NGYxYzE1ZDAzNWIwMTQ4NzBj`
+Snapshot ID: `MCw4YzFiNWIxYTliNWEwMWY3MTk3YjI2N2U5YjM3YjkwNmFlOGU2NDE5`

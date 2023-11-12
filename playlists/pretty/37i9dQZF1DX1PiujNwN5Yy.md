@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,119 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,138 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 15 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
 | 16 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 |
 | 17 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
-| 18 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 |
-| 19 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 18 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 19 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 |
 | 20 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
 | 21 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 22 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 66 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
 | 67 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
 | 68 | [olas](https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [olas](https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP) | 2:44 |
-| 69 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
-| 70 | [De Mi Para Ti](https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [Silencio](https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D) | 2:57 |
-| 71 | [Serenata](https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 3:27 |
-| 72 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
-| 73 | [Luna Llena](https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:11 |
+| 69 | [De Mi Para Ti](https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [Silencio](https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D) | 2:57 |
+| 70 | [Serenata](https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 3:27 |
+| 71 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
+| 72 | [Luna Llena](https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:11 |
+| 73 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
 | 74 | [Al Final](https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 3:17 |
 | 75 | [TE PERDÍ](https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDÍ](https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar) | 2:25 |
 | 76 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
 | 77 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
-| 78 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 |
-| 79 | [Corazon partio \(feat\. Juan Azul\) \- En directo](https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3 \(En directo\)](https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY) | 5:46 |
+| 78 | [Corazon partio \(feat\. Juan Azul\) \- En directo](https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3 \(En directo\)](https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY) | 5:46 |
+| 79 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 |
 | 80 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 81 | [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 |
 | 82 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 |
 | 100 | [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/track/2h5emEDptvBZZFeJ23a6G3) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/album/6DUZuOW0k1ceSWMFisvMqZ) | 3:29 |
 
-Snapshot ID: `MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw`
+Snapshot ID: `MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4`

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Dua Lipa (pictured), Chase & Status, PinkPantheress and more!",
-  "num_followers": 843127,
+  "num_followers": 843205,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDUyYmNlOTQ1ZTIxOWIzZmM2OGI5MWYzZjJiNjI3YWZjOTJiZjcz",
+  "snapshot_id": "MCw3MjgxMzhkNTI0YjNmZmQ3NTc0ZjIxMDI4OTdjNzJjNDc5NDI5ZTdk",
   "tracks": [
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "The Night Shift",
-        "url": "https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
-        }
-      ],
-      "duration_ms": 167927,
-      "name": "Love of Money",
-      "url": "https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL"
-    },
-    {
-      "added_at": "2023-11-10 00:00:00",
-      "album": {
         "name": "THEY ALL DIE IN THE END",
         "url": "https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro"
       },
@@ -2131,7 +2111,7 @@
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {
-        "name": "Higher Power (feat. Magnus)",
+        "name": "Higher Power",
         "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
       },
       "artists": [
@@ -2149,7 +2129,7 @@
         }
       ],
       "duration_ms": 208601,
-      "name": "Higher Power (feat. Magnus)",
+      "name": "Higher Power",
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
     },
     {

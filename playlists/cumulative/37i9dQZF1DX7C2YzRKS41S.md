@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-415 songs - 1 day 0 hr 38 min
+416 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [no body, no crime \(feat\. HAIM\)](https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:35 | 2022-03-25 | 2023-01-14 |
 | [No Woman](https://open.spotify.com/track/0BUBKT2lJmwpszIgwWEyd0) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/6jv5wBOJur74jABIuHqs46) | 3:57 | 2022-03-25 | 2022-04-05 |
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2022-07-04 |  |
+| [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 |  |
 | [Nossa Bagunça](https://open.spotify.com/track/1xdNhvGDPAv7IzUweczZ9y) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f), [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Nossa Bagunça](https://open.spotify.com/album/4r8NNCvRxfKXuHzIvIzRSP) | 2:47 | 2021-12-24 | 2022-07-29 |
 | [Nossa Dança](https://open.spotify.com/track/6OpsskOwFTW8S2j0di6bRX) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Nossa Dança](https://open.spotify.com/album/5bYjxHTmTQbGQYzP2ddb4M) | 3:09 | 2021-12-24 | 2022-07-29 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 |  |
@@ -309,7 +310,7 @@
 | [Raízes](https://open.spotify.com/track/24JSk3sRgRL3CyeS9XsIr6) | [arthur victor](https://open.spotify.com/artist/1jVomOMlfDuIWR9JuLUxMy) | [Raízes](https://open.spotify.com/album/2MAajUPaFEbrtFCtxbhjxm) | 4:48 | 2021-12-24 | 2022-05-08 |
 | [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-08-19 | 2022-10-07 |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-07-04 | 2022-09-15 |
-| [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 | 2022-10-14 |  |
+| [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 | 2022-10-14 | 2023-11-12 |
 | [Ready to Go](https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:07 | 2022-10-14 | 2022-11-03 |
 | [Recomeçaria](https://open.spotify.com/track/2vy56ZXuKeDYZmuqSAdVmk) | [Luizga](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Presente](https://open.spotify.com/album/3SziD5Z2skKqvr2wobYG2e) | 2:17 | 2022-01-21 | 2022-06-13 |
 | [Recomeço](https://open.spotify.com/track/7pyj2l80Wwz3LnAstQK1dE) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV) | [Recomeço](https://open.spotify.com/album/1vo6iJXFZceDfEz9099CpC) | 3:28 | 2021-12-24 | 2022-07-29 |

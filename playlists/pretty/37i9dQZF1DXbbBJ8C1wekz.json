@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 124473,
+  "num_followers": 124518,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzU3YzNiMGI0YzAyM2ExYjQ2NzM4NDhmMzg2OGJmYmI4YTBhZGE2",
+  "snapshot_id": "MCwwNzU4ZDE2ZDcxN2UxNTg3NzcyN2IwYWUyNDI2Y2M0MDIyMWMyN2I4",
   "tracks": [
     {
       "added_at": "2023-11-06 14:14:01",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-11-06 14:14:01",
       "album": {
-        "name": "Ironicamente",
-        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "No Cutty",
-          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
-        }
-      ],
-      "duration_ms": 164269,
-      "name": "Ironicamente",
-      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
-    },
-    {
-      "added_at": "2023-11-06 14:14:01",
-      "album": {
         "name": "Criminal Influencer",
         "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 116571,
       "name": "Criminal Influencer",
       "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
+    },
+    {
+      "added_at": "2023-11-06 14:14:01",
+      "album": {
+        "name": "Ironicamente",
+        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "No Cutty",
+          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
+        }
+      ],
+      "duration_ms": 164269,
+      "name": "Ironicamente",
+      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
     },
     {
       "added_at": "2023-11-06 14:14:01",
@@ -1359,30 +1359,18 @@
     {
       "added_at": "2023-11-06 14:14:01",
       "album": {
-        "name": "Broncud\u00e3o (feat. Lotta)",
-        "url": "https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d"
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
       },
       "artists": [
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "4Genesis",
-          "url": "https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
         }
       ],
-      "duration_ms": 225974,
-      "name": "Broncud\u00e3o (feat. Lotta)",
-      "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2023-11-06 14:14:01",
@@ -1411,18 +1399,30 @@
     {
       "added_at": "2023-11-06 14:14:01",
       "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
+        "name": "Broncud\u00e3o (feat. Lotta)",
+        "url": "https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d"
       },
       "artists": [
         {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "4Genesis",
+          "url": "https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
+      "duration_ms": 225974,
+      "name": "Broncud\u00e3o (feat. Lotta)",
+      "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
     },
     {
       "added_at": "2023-11-06 14:14:01",
@@ -1439,30 +1439,6 @@
       "duration_ms": 177869,
       "name": "Bendito",
       "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
-    },
-    {
-      "added_at": "2023-11-06 14:14:01",
-      "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Prod Aurelio",
-          "url": "https://open.spotify.com/artist/4Sk828MjCZEqa9cFJKgdtD"
-        }
-      ],
-      "duration_ms": 166788,
-      "name": "Marcha",
-      "url": "https://open.spotify.com/track/1M0j0NI2vuIWOmTN8satNh"
     },
     {
       "added_at": "2023-11-06 14:14:01",
@@ -1487,6 +1463,30 @@
       "duration_ms": 159010,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
+    },
+    {
+      "added_at": "2023-11-06 14:14:01",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Prod Aurelio",
+          "url": "https://open.spotify.com/artist/4Sk828MjCZEqa9cFJKgdtD"
+        }
+      ],
+      "duration_ms": 166788,
+      "name": "Marcha",
+      "url": "https://open.spotify.com/track/1M0j0NI2vuIWOmTN8satNh"
     },
     {
       "added_at": "2023-11-06 14:14:01",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-11-06 14:14:01",
       "album": {
-        "name": "Clima Diferente",
-        "url": "https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Clima Diferente",
-      "url": "https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517"
-    },
-    {
-      "added_at": "2023-11-06 14:14:01",
-      "album": {
         "name": "Como a chuva cai",
         "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 152086,
       "name": "Como a chuva cai",
       "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
+    },
+    {
+      "added_at": "2023-11-06 14:14:01",
+      "album": {
+        "name": "Clima Diferente",
+        "url": "https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Clima Diferente",
+      "url": "https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517"
     },
     {
       "added_at": "2023-11-06 14:14:01",

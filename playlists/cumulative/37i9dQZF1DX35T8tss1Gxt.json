@@ -4534,7 +4534,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 166736,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/19v9iH4uLahnxCJzncEdh3"
@@ -5584,6 +5584,28 @@
       "duration_ms": 156871,
       "name": "okay.",
       "url": "https://open.spotify.com/track/4H6UpzawRKGi5Ze8FzYOaw"
+    },
+    {
+      "album": {
+        "name": "Church Girls Love R&B - Girls Trip ll",
+        "url": "https://open.spotify.com/album/6v5VS3app0uhJ8NLXuZ0jY"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275135,
+      "name": "OMM (On My Mind) [Remix]",
+      "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
     },
     {
       "album": {

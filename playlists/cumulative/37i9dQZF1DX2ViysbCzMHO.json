@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Hey World Sessions",
+        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177459,
+      "name": "Come Get Your Memory - Hey World Sessions",
+      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
+    },
+    {
+      "album": {
         "name": "Cool (Acoustic)",
         "url": "https://open.spotify.com/album/4HEV60QmHXJmehJuR79SJe"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 162632,
       "name": "Handful - Acoustic",
       "url": "https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4"
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
@@ -4712,6 +4730,24 @@
       "duration_ms": 295000,
       "name": "Woman Of My Word",
       "url": "https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X"
+    },
+    {
+      "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
     },
     {
       "album": {

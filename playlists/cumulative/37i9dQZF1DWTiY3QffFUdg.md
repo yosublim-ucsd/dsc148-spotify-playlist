@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-103 songs - 6 hr 8 min
+104 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 | 2023-10-06 |  |
 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 | 2023-08-11 | 2023-09-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-08-11 |  |
-| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 |  |
+| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 | 2023-11-12 |
 | [Moar Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/1iAzwiJpnYXCI3xRfoEuYk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of A Better Name \(The Extended Mixes\)](https://open.spotify.com/album/2KAXIfaWLIK2WJFL9bBubR) | 4:57 | 2023-08-11 | 2023-08-19 |
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-06 |  |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
@@ -109,6 +109,7 @@
 | [Trust \- VIP Mix](https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 2:37 | 2023-08-11 | 2023-08-26 |
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-08-11 | 2023-08-19 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
+| [Waka Waka](https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Waka Waka](https://open.spotify.com/album/7HGP96lEH5assiam9DokmF) | 2:05 | 2023-11-10 |  |
 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-08-11 | 2023-10-12 |
 | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/track/01SObBTN7qitRlP40pWp22) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/album/250HFdRGLXOpJ21R8PA98O) | 2:51 | 2023-08-11 | 2023-08-20 |
 

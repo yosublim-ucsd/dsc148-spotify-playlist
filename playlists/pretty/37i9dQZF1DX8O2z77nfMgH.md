@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,950 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,956 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
 | 50 | [Clica Em Apagar \- Ao Vivo](https://open.spotify.com/track/65zmELRWKR93D4uPC4bUNX) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Singular \(Deluxe\) \[Ao Vivo Em Goiânia\]](https://open.spotify.com/album/6pDcQKdBbNxaGfPj9T8bPm) | 3:15 |
 
-Snapshot ID: `MCw0ZjVlYzg1MTJjYjQxN2U0ZjI3MjRkZTY5NmNiNjE2MDk3NTc1M2Rh`
+Snapshot ID: `MCxiOTE1MzIwMjlkYTljZTgwMmM1YjRlZjhkODAwYzlmNmQ2NmNjNzI2`

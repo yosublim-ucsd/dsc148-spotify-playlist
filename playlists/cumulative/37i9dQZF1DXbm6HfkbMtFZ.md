@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-536 songs - 1 day 8 hr 18 min
+537 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |
 | [Kelly](https://open.spotify.com/track/3Mj5wXVgnFs0HhBI4iYHCd) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Sky City](https://open.spotify.com/album/2lYmxilk8cXJlxxXmns1IU) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 | 2023-11-11 |
+| [Kids Fallin' In Love](https://open.spotify.com/track/4l6NjiwO1z6wcyIDYIUi7P) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/3Oj3atBb4dIjxBZsmwLgzC) | 3:47 | 2023-09-19 |  |
 | [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 | 2023-02-10 | 2023-10-10 |
 | [King Prawn The 1st](https://open.spotify.com/track/0ybcE5T4NKLJSMIZUHSRlD) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4g5owqOYwBR805mYofw5cg) | 2:36 | 2022-03-30 | 2022-07-29 |
 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 | 2022-02-18 | 2022-07-29 |
@@ -529,7 +530,7 @@
 | [wyd](https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/2CH2VAYcNjvq5xA6zeudTt) | 2:54 | 2021-12-16 | 2022-06-15 |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2023-10-10 |  |
 | [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 | 2023-09-20 |
-| [You Can Have It All](https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 2:54 | 2022-03-30 |  |
+| [You Can Have It All](https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 2:54 | 2022-03-30 | 2023-11-12 |
 | [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l), [Leroi Conroy](https://open.spotify.com/artist/2PByfnZrAVQUWdsUwZDQUw) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 |  |
 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 | 2021-12-16 | 2022-07-29 |
 | [You Just Decided](https://open.spotify.com/track/4y9ZtxBEYxBQzU1hQDtBr3) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [How to Live with a Phantom](https://open.spotify.com/album/7BcMar9TaDywU6GJd7OMRE) | 5:06 | 2022-03-30 | 2022-04-17 |

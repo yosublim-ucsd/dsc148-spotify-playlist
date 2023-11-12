@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,247 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,275 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 10 | [333](https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [333](https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz) | 2:27 |
 | 11 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 12 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 |
-| 13 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
-| 14 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
+| 13 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
+| 14 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 15 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 16 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
 | 17 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 38 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
 | 39 | [PS5 \- Fortnite Battle Pass Gamer Remix](https://open.spotify.com/track/781ETukr0feYzkNRONUZYx) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:28 |
 | 40 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/44J9wUVTFIGKmjDJb4e5Oq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:19 |
-| 41 | [Within The Boundaries](https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 3:16 |
-| 42 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 |
+| 41 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 |
+| 42 | [Within The Boundaries](https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 3:16 |
 | 43 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 |
 | 44 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 |
 | 45 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/5uwjwHf7gA1DqLvnsTM3aW) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 | 50 | [Losing My Mind \(with Elohim\)](https://open.spotify.com/track/4EJ32mSyaiC9r5XMKxqu1I) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:26 |
 
-Snapshot ID: `MCxjZGE3N2Q1MzQ1ZmNhN2JhN2E2MjExZjMyYmQ0Njk2NTQ4NDA1Y2Jk`
+Snapshot ID: `MCw3Njg3ZTRkNTdhZWQxZWU4NmNhMmM4ZTIwODcxZmMzNTBjNjI2YWQ4`

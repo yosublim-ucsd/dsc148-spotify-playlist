@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Sainte & Cash Cobain",
-  "num_followers": 156518,
+  "num_followers": 156566,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGY5MjBjYWJiMGMzMGY5MzkxZWQwYjJhMjM1NjU4ZTdlNzdlMjNk",
+  "snapshot_id": "MCw0OTEzZDdjM2M1YjM3M2UyYTdlYjRkOGZiOWVkOTEzNDE4YTY5NDA4",
   "tracks": [
     {
       "added_at": "2023-08-18 08:12:16",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 307973,
       "name": "Our 25th Birthday",
       "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 148573,
-      "name": "Wasted Eyes",
-      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -519,6 +523,22 @@
       "duration_ms": 166000,
       "name": "Hunnids",
       "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -571,26 +591,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "hugo",
         "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
       },
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "Quarter Past 3",
-      "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Lotto",
         "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 185142,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "Quarter Past 3",
+      "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -931,18 +931,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Impeccable Timing",
-        "url": "https://open.spotify.com/album/4aLSpyp3qEYQ7DhqGkLpq0"
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
       "artists": [
         {
-          "name": "Nafe Smallz",
-          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 224338,
-      "name": "Impeccable Timing",
-      "url": "https://open.spotify.com/track/3Kac9sBRWeroIIYJvam3Nr"
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -963,6 +967,22 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Impeccable Timing",
+        "url": "https://open.spotify.com/album/4aLSpyp3qEYQ7DhqGkLpq0"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "duration_ms": 224338,
+      "name": "Impeccable Timing",
+      "url": "https://open.spotify.com/track/3Kac9sBRWeroIIYJvam3Nr"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -1003,26 +1023,6 @@
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
     },
     {
       "added_at": "2023-08-18 08:12:16",

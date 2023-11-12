@@ -1,13 +1,29 @@
 {
   "description": "All the new music you need to hear right now. Cover: Chase & Status ",
-  "num_followers": 545334,
+  "num_followers": 545329,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA0YmQ1ZWE5MzVkNGNlY2RiNTdlMDMwMzJkMjE1ZTM4YmI3NGE4",
+  "snapshot_id": "MCxhOTY3NzMyOTEzYWUzYTU5Y2U4ZTU0NjAzMWJmYzVjOTYzMWZmOTM2",
   "tracks": [
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
     {
       "added_at": "2023-11-10 00:00:00",
       "album": {

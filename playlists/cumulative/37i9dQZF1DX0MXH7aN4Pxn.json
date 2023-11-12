@@ -2093,6 +2093,28 @@
     },
     {
       "album": {
+        "name": "IN:TENSION",
+        "url": "https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3"
+    },
+    {
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -2100,10 +2122,6 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         },
         {
           "name": "Roberta Flack",
@@ -4538,7 +4556,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 464823,
       "name": "Mind Ur Step (feat. Janelle Kroll)",
       "url": "https://open.spotify.com/track/20xZKFjfRkxG3uQLiDrqZu"
@@ -4586,6 +4604,28 @@
       "duration_ms": 195483,
       "name": "Missing (Should've Known It)",
       "url": "https://open.spotify.com/track/1b45EwaiFdNCVsJDZecXBe"
+    },
+    {
+      "album": {
+        "name": "Motown Philly",
+        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158140,
+      "name": "Motown Philly",
+      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
       "album": {
@@ -4832,7 +4872,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 168179,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/0oe2fBE0ElSk7sIAz6bnOZ"
@@ -6953,6 +6993,32 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173601,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
+    },
+    {
+      "album": {
         "name": "Waiting (feat. Pablo Bravas)",
         "url": "https://open.spotify.com/album/1b6HpGj2vIApDK5jnQFg3o"
       },
@@ -7446,7 +7512,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 167829,
       "name": "Work It",
       "url": "https://open.spotify.com/track/6Fq0HPaq1viwpG5DshEsgs"

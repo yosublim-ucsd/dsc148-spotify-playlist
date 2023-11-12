@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 172879,
+  "num_followers": 172964,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjA4Njg1YWY2ZDIzOGY3NjQ2MzY4NGJjMDc5MDJiMjlkYWMzMWQy",
+  "snapshot_id": "MCw1YmYxMzU4MzI2YWY1ODFkNWNiMmEzOWMwZmQzMTViZWI2ZTljYWRi",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "paradox",
-        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
       },
       "artists": [
         {
-          "name": "Headphone Activist",
-          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": "Miranda Rain",
+          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
         }
       ],
-      "duration_ms": 134493,
-      "name": "paradox",
-      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
+      "duration_ms": 151276,
+      "name": "ur my safe place",
+      "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        },
-        {
-          "name": "Miranda Rain",
-          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
         }
       ],
-      "duration_ms": 151276,
-      "name": "ur my safe place",
-      "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
+      "duration_ms": 134493,
+      "name": "paradox",
+      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "on my new piano",
-        "url": "https://open.spotify.com/album/4a63M6pks1EnuhO60gXb6P"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 149014,
-      "name": "Everything, Everywhere",
-      "url": "https://open.spotify.com/track/1s4rq05zmgghbxtLdXstGr"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "EARS",
         "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "on my new piano",
+        "url": "https://open.spotify.com/album/4a63M6pks1EnuhO60gXb6P"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 149014,
+      "name": "Everything, Everywhere",
+      "url": "https://open.spotify.com/track/1s4rq05zmgghbxtLdXstGr"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 206769,
       "name": "Vast - ANNA Remix",
       "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Empire of Light (Original Score)",
         "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Two Chambers",
-        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Two Chambers",
-      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1071,22 +1055,34 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "regrets",
-        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
+        "name": "Two Chambers",
+        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
       },
       "artists": [
         {
-          "name": "trapeia",
-          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
-        },
-        {
-          "name": "Raynix",
-          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 136145,
-      "name": "regrets - Slowed",
-      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+      "duration_ms": 223333,
+      "name": "Two Chambers",
+      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "duration_ms": 165701,
+      "name": "Like We Were Dreaming All This Time, Pt. 1",
+      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1127,18 +1123,38 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+        "name": "regrets",
+        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
       },
       "artists": [
         {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
         }
       ],
-      "duration_ms": 165701,
-      "name": "Like We Were Dreaming All This Time, Pt. 1",
-      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
+      "duration_ms": 136145,
+      "name": "regrets - Slowed",
+      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 155472,
       "name": "Winter Cop",
       "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Intention II",
+        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Loving Kindness",
+      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Movement VII",
         "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Intention II",
-        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
       },
       "artists": [
         {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Loving Kindness",
-      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 281033,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/1WwNkk5bVosrt4GUxPk5LB"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 118133,
-      "name": "Morning Tides",
-      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "The See Within",
         "url": "https://open.spotify.com/album/6PrE3djsB6qncqSHPX8BDW"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Mesmerising Waves",
         "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
       },
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+        "name": "High Peaks",
+        "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
         }
       ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+      "duration_ms": 230750,
+      "name": "The Ghosts we keep Inside Ourselves",
+      "url": "https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1667,34 +1667,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 140453,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "High Peaks",
-        "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
-      },
-      "artists": [
-        {
-          "name": "Black Brunswicker",
-          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "The Ghosts we keep Inside Ourselves",
-      "url": "https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV"
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Mycelium",
-        "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
       },
       "artists": [
         {
-          "name": "Preslav Literary School",
-          "url": "https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 74181,
-      "name": "Golden Waxcap",
-      "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1795,6 +1779,22 @@
       "duration_ms": 307840,
       "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Mycelium",
+        "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
+      },
+      "artists": [
+        {
+          "name": "Preslav Literary School",
+          "url": "https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY"
+        }
+      ],
+      "duration_ms": 74181,
+      "name": "Golden Waxcap",
+      "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
     },
     {
       "added_at": "2023-10-13 00:01:00",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-150 songs - 15 hr 55 min
+151 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Te amo](https://open.spotify.com/track/6QVthPYXu8EP44mmjzzGaR) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Isolat001](https://open.spotify.com/album/0mWntbSF641LDbqGgxjfnh) | 7:18 | 2023-03-07 |  |
 | [Teleported](https://open.spotify.com/track/389hyI9sMvHVruG0dTD4Vi) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/3MMXAjJb1e3xAesfRijKeZ) | 6:17 | 2021-08-12 | 2023-04-09 |
 | [Teleported](https://open.spotify.com/track/5vIA30Y4Emhay6NSvpDZMJ) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/2PSH7ccyenkcp0e7t9WBAl) | 6:17 | 2023-03-07 | 2023-06-22 |
-| [Teleported](https://open.spotify.com/track/6TDSV3FUg5khxpJ2Ooc29M) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate](https://open.spotify.com/album/7wVmWpJs0IBpqfEE9aUB0v) | 6:17 | 2023-03-07 |  |
+| [Teleported](https://open.spotify.com/track/6TDSV3FUg5khxpJ2Ooc29M) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate](https://open.spotify.com/album/7wVmWpJs0IBpqfEE9aUB0v) | 6:17 | 2023-03-07 | 2023-11-12 |
+| [Teleported](https://open.spotify.com/track/7heSSw0hfdNIYpueqZhuD0) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate](https://open.spotify.com/album/5WpJCJVANp6Kneb43tIhSF) | 6:17 | 2023-03-07 |  |
 | [That's Fine](https://open.spotify.com/track/6sCSk3cy0AtcXlzgIOaDjA) | [Mateo Dufour](https://open.spotify.com/artist/5BhU8yBWfPZN2J2OCefip6) | [Check This Sound](https://open.spotify.com/album/3tsNoGi5b4uXsX5yyQQDgO) | 6:40 | 2023-03-07 |  |
 | [Thrillseekers \- Chuck Daniels Remix](https://open.spotify.com/track/0ieIy1W942FYBHHk0QWsLQ) | [Andy Toth](https://open.spotify.com/artist/0xHPs74Vj4dNwYlpc2Xggs), [Billy Love](https://open.spotify.com/artist/0T3MV5gd1oQLkLuGcGL46Y), [Chuck Daniels](https://open.spotify.com/artist/6AQtbBS3kOZrK6whx93lfz) | [Thrillseekers](https://open.spotify.com/album/4El5KzOSIxcnoQ4zVV8PN9) | 3:23 | 2021-08-12 | 2023-11-05 |
 | [Thrillseekers \- Chuck Daniels Remix](https://open.spotify.com/track/20RR0EfYPY1KfEHsktMmbC) | [Andy Toth](https://open.spotify.com/artist/0xHPs74Vj4dNwYlpc2Xggs), [Billy Love](https://open.spotify.com/artist/0T3MV5gd1oQLkLuGcGL46Y), [Chuck Daniels](https://open.spotify.com/artist/6AQtbBS3kOZrK6whx93lfz) | [Thrillseekers](https://open.spotify.com/album/5vh7Zh3RMHWC6RtazlQORH) | 3:23 | 2023-03-07 |  |

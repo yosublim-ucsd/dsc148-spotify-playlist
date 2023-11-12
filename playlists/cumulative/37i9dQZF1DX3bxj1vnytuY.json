@@ -3428,6 +3428,36 @@
     {
       "album": {
         "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
+    },
+    {
+      "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
       },
       "artists": [
@@ -3450,7 +3480,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"

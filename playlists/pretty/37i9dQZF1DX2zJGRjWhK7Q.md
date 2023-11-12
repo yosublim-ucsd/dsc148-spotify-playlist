@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,147 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,253 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 35 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
 | 36 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
 | 37 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
-| 38 | [Traigo De Todo](https://open.spotify.com/track/7DJqNSNCLQk4xhLMJv1xo0) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 4:22 |
-| 39 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
+| 38 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
+| 39 | [Traigo De Todo](https://open.spotify.com/track/7DJqNSNCLQk4xhLMJv1xo0) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 4:22 |
 | 40 | [Juliana](https://open.spotify.com/track/4jdH5sZmPtDzSCF53nGCYu) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Éxitos](https://open.spotify.com/album/2poCxJ77jFLqPPhOsDxMHN) | 4:20 |
-| 41 | [El Yerberito Moderno](https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde) | [Celia Cruz](https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB) | [Las Grandes Damas](https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20) | 2:43 |
-| 42 | [Jibaro Soy](https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv) | [Rapphy Levitt Orquesta La Selecta](https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg) | [Jibaro Soy..\. Dg1236](https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP) | 5:01 |
+| 41 | [Jibaro Soy](https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv) | [Rapphy Levitt Orquesta La Selecta](https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg) | [Jibaro Soy..\. Dg1236](https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP) | 5:01 |
+| 42 | [El Yerberito Moderno](https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde) | [Celia Cruz](https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB) | [Las Grandes Damas](https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20) | 2:43 |
 | 43 | [Salomé](https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [With A Little Help From My Friend](https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ) | 4:42 |
 | 44 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
 | 45 | [Siempre Alegre](https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [Oro Salsero](https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS) | 5:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 50 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 |
 
-Snapshot ID: `MCw1YjJkNzQ0YjI3YWQzZWZhYTc2MjNmZWIwY2UyMmFhNDM5ZmZmN2Q5`
+Snapshot ID: `MCwzZWYwOGRiMmFiY2RhMTEwZjgyMjZkM2Q3OGNlMGE0YjBlMTdkZTI4`

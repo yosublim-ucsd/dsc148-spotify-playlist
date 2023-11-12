@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-12",
       "duration_ms": 205333,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp"
@@ -252,6 +252,32 @@
       "duration_ms": 208909,
       "name": "Bum Bum Tam Tam - Jax Jones Remix",
       "url": "https://open.spotify.com/track/5NOuNThafeyeuqjD4q6fzt"
+    },
+    {
+      "album": {
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i0aPTo8twcVikCdiZzHse"
     },
     {
       "album": {

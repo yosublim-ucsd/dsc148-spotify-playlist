@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 175446,
+  "num_followers": 175553,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNThhMTkzOWY4NGE0ZDU4NzA0ZDY3NzM4MmNiODJhMDYwOGE3NzI5",
+  "snapshot_id": "MCwyMDQyZDE3MGY1ZjA0YzgzNmI4ZTU3Y2E4NTEwYjJhODExZDBkYmMz",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
-      },
-      "artists": [
-        {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Snarkism",
         "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 175866,
       "name": "Wrong Bathroom",
       "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
-      },
-      "artists": [
-        {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Not Your Kind",
         "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 274340,
       "name": "Y'know",
       "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
+      },
+      "artists": [
+        {
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
+        }
+      ],
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2023-05-25 14:38:53",

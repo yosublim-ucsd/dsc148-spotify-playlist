@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 104452,
+  "num_followers": 104513,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmJjY2EwZDQ0ZGIwYmI2NWY3Y2FiMWYyMWYwZDIyNjg0OTQxNzc2",
+  "snapshot_id": "MCwzOGM5NmFkZjNmNTBmYjAzMjliZWY2MTY5ZWE2ZDJhYWY4ZWU1YmQ3",
   "tracks": [
     {
       "added_at": "2023-10-26 19:14:48",
@@ -487,22 +487,18 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -527,22 +523,6 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio II)",
         "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 259200,
       "name": "Homero - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 311605,
-      "name": "De la Guitarra - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 311605,
+      "name": "De la Guitarra - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
+        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
+        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 334320,
+      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
+      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
-        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
-        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 334320,
-      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
-      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 331453,
-      "name": "Sacrificio y Rock and Roll",
-      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1183,6 +1167,38 @@
       "duration_ms": 333394,
       "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1207,22 +1223,6 @@
       "duration_ms": 298263,
       "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 243253,
       "name": "Barek - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
     },
     {
       "added_at": "2023-10-26 19:14:48",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-10-26 19:14:48",
       "album": {
+        "name": "Vivire Viajando",
+        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Arde la ciudad",
+      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2023-10-26 19:14:48",
+      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 280810,
       "name": "Hasta Estallar (En Vivo)",
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
-    },
-    {
-      "added_at": "2023-10-26 19:14:48",
-      "album": {
-        "name": "Vivire Viajando",
-        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Arde la ciudad",
-      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
     },
     {
       "added_at": "2023-10-26 19:14:48",

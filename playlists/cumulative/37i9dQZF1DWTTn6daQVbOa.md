@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-291 songs - 18 hr 40 min
+292 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Evergreen \(Love Theme from "A Star Is Born"\)](https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 3:04 | 2021-04-22 |  |
 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 | 2021-04-22 |  |
 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 | 2021-04-22 | 2022-04-21 |
-| [Fanny \(Be Tender With My Love\)](https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:03 | 2021-04-22 |  |
+| [Fanny \(Be Tender With My Love\)](https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:03 | 2021-04-22 | 2023-11-12 |
 | [Fantasy](https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 4:37 | 2021-04-22 |  |
 | [Feel Flows \- Remastered 2009](https://open.spotify.com/track/7lNATn8yN0Yjr4KOKDBdW6) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:48 | 2021-06-07 | 2022-04-20 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2021-04-22 |  |
@@ -123,6 +123,7 @@
 | [I Wouldn't Want to Be Like You](https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [I Robot \(Expanded Edition\)](https://open.spotify.com/album/44VunLimdsXo2C6figBmwj) | 3:21 | 2021-05-06 |  |
 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 | 2021-04-22 |  |
 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 | 2021-04-22 |  |
+| [I'll Have to Say I Love You in a Song](https://open.spotify.com/track/6UcbxO3C7bgwkjjVdFxqim) | [Ekin Cheng](https://open.spotify.com/artist/2DNe29u3NiB7u8k8RS5IuD) | [初夏之戀](https://open.spotify.com/album/1SlXTGrq3PAkRlCFQUJkAl) | 2:32 | 2022-09-23 |  |
 | [I'll Have To Say I Love You In A Song](https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq) | 2:34 | 2021-04-22 | 2023-11-04 |
 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 | 2021-04-22 |  |
 | [I'll Never Love This Way Again](https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Dionne \(Expanded Edition\)](https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9) | 3:31 | 2021-04-22 |  |

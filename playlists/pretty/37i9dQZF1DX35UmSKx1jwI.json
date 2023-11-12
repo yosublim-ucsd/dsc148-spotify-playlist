@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 111112,
+  "num_followers": 111237,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWYxMzc3Yzc1ZTBjMDFkMzU1OWExMjE4ZjIyZTVlNjhmZjhmNjJk",
+  "snapshot_id": "MCxlYWU5NzJhMzQ2MTk3OTJlNGQ0MjFlYzRkOWM0MWRkYzllZDA2OTQ3",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -695,8 +695,8 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Upside Down (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+        "name": "MEDUZA",
+        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
       },
       "artists": [
         {
@@ -704,13 +704,13 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 174374,
-      "name": "Upside Down (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/5RDUCbvwPZdmjFbhZ5EY4N"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "MEDUZA",
-        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
       },
       "artists": [
         {
@@ -876,13 +876,29 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/5RDUCbvwPZdmjFbhZ5EY4N"
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Purple Hat",
+        "url": "https://open.spotify.com/album/25mGhdGeV6FHAfqLCANz2J"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -899,22 +915,6 @@
       "duration_ms": 181826,
       "name": "Kickstarts",
       "url": "https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Purple Hat",
-        "url": "https://open.spotify.com/album/25mGhdGeV6FHAfqLCANz2J"
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 178369,
-      "name": "Purple Hat",
-      "url": "https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK"
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan"
+        "name": "Caught A Body (with Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 129009,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG"
+      "duration_ms": 149110,
+      "name": "Caught A Body (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     }
   ],
   "unique_name": "Gym Beats",

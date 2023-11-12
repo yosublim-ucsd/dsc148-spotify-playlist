@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 844730,
+  "num_followers": 844769,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGMwZDNmZWI5NTlkODFmNGJlOGVmODE2OWYyMWI4YjI1YmFjZjI2",
+  "snapshot_id": "MCxiMDBhNGQyNjhjMDk4ZWI4OGEyZWNhNTM5MWQxOGVmMDI3NzJhMjY1",
   "tracks": [
     {
       "added_at": "2023-09-08 17:04:16",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 229386,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "DAME",
-      "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "DAME",
+      "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/0VQXYA4do1nkiSjWzobyuw"
       },
@@ -1007,6 +1007,30 @@
       "duration_ms": 189750,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Los Vaqueros Wild Wild Mixes",
+        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Marioso",
+          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Quizas - Remix",
+      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1035,30 +1059,6 @@
       "duration_ms": 305113,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Los Vaqueros Wild Wild Mixes",
-        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "Marioso",
-          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Quizas - Remix",
-      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193435,
-      "name": "Cuando Me Acerco A Ti",
-      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 240365,
       "name": "Miss Lonely - Dimelo Flow Remix",
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193435,
+      "name": "Cuando Me Acerco A Ti",
+      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 150644,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "1000CANCIONES",
         "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 246600,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 150644,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
     },
     {
       "added_at": "2023-09-08 17:04:16",
