@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-246 songs - 20 hr 8 min
+247 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [At Lanta](https://open.spotify.com/track/6IAleUEkszXQZ1sMaS62El) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [At Lanta](https://open.spotify.com/album/4HwB4ldDeSIo64foCaOUMJ) | 6:50 | 2023-10-27 | 2023-11-07 |
 | [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 | 2023-07-28 |  |
 | [Atomic Sun](https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Atomic Sun](https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5) | 4:11 | 2023-07-14 | 2023-07-29 |
+| [Azabache](https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Azabache](https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y) | 3:37 | 2023-11-10 |  |
 | [Baby](https://open.spotify.com/track/5EGiYetIEeGwyxdgGq4cGA) | [Mason Talbot](https://open.spotify.com/artist/0impnXOKSt86UnIYtZ1hFA) | [Baby](https://open.spotify.com/album/0USWj9LRRuyoI7Ph9WvLIJ) | 3:30 | 2023-08-18 | 2023-09-09 |
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
@@ -208,7 +209,7 @@
 | [take notes.](https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [take notes\. EP](https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN) | 3:15 | 2023-10-06 |  |
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 |  |
 | [Te Voy A Dar](https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Te Voy A Dar](https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX) | 3:05 | 2023-03-17 | 2023-04-03 |
-| [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 | 2023-09-22 |  |
+| [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 | 2023-09-22 | 2023-11-13 |
 | [Testimony](https://open.spotify.com/track/702TT2q83VQlC75h807I1J) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Testimony](https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb) | 6:41 | 2022-06-03 | 2023-03-26 |
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW) | [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [The Attention Deficit Track](https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc) | 3:48 | 2023-11-06 |  |

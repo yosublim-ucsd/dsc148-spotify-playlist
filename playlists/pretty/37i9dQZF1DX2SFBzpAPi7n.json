@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: CHASEDAE(\ucc28\uc138\ub300)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 226709,
+  "num_followers": 226724,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTE3YTdmN2M2NTQ0Y2U3MmY4NDUyN2FiYmExZDQ5MTYyMjE2MTVh",
+  "snapshot_id": "MCw3YWJhYjkwMTQzNmIxOWVmNDAxYTMwZjYzM2Q3YzI1ZGVlNjkwMzNj",
   "tracks": [
     {
       "added_at": "2023-11-10 01:28:56",
@@ -335,8 +335,8 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -479,8 +479,8 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
+        "name": "daisy.",
+        "url": "https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "daisy.",
+      "url": "https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g"
+    },
+    {
+      "added_at": "2023-11-10 01:28:56",
+      "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 218737,
       "name": "I Need Somebody",
       "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
-    },
-    {
-      "added_at": "2023-11-10 01:28:56",
-      "album": {
-        "name": "FLY HIGH PROJECT #2 'Rooftop'",
-        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 210652,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
+        "name": "FLY HIGH PROJECT #2 'Rooftop'",
+        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 210652,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
+    },
+    {
+      "added_at": "2023-11-10 01:28:56",
+      "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
-    },
-    {
-      "added_at": "2023-11-10 01:28:56",
-      "album": {
-        "name": "daisy.",
-        "url": "https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "daisy.",
-      "url": "https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2023-11-10 01:28:56",
-      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
       },
@@ -687,22 +671,6 @@
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
-    },
-    {
-      "added_at": "2023-11-10 01:28:56",
-      "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -723,24 +691,24 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
-        "name": "\ub098\ubb34",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 232558,
-      "name": "\ub098\ubb34",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
       },
       "artists": [
         {
@@ -748,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -767,6 +735,38 @@
       "duration_ms": 224784,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
+    },
+    {
+      "added_at": "2023-11-10 01:28:56",
+      "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB"
+    },
+    {
+      "added_at": "2023-11-10 01:28:56",
+      "album": {
+        "name": "\ub098\ubb34",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "\ub098\ubb34",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
       "added_at": "2023-11-10 01:28:56",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-11-10 01:28:56",
       "album": {
-        "name": "surf.",
-        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 225777,
-      "name": "surf.",
-      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

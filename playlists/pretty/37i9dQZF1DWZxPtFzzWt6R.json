@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 73860,
+  "num_followers": 73914,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTgxMDNiMDQ5YTNjYTdmZTVjODcyMTQ5YTgzNDE0MzU5Y2ZjNTZm",
+  "snapshot_id": "MCxiNzQ3OTg4NWNiNTZhZGFiNGI5Y2ZiNzMwMGI3MTEyMDhiYzljOTNi",
   "tracks": [
     {
       "added_at": "2023-11-03 04:45:18",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Tempo de Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 229408,
-      "name": "Tempo de Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Se Liga",
         "url": "https://open.spotify.com/album/4c8S4zvT4xnOA0Ys8H0CbO"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 182787,
       "name": "Se Liga",
       "url": "https://open.spotify.com/track/5i91lGW9FJHrvTypBJQmrx"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Tempo de Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 229408,
+      "name": "Tempo de Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
         "url": "https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 187937,
       "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
       "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
       "artists": [
         {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
         }
       ],
-      "duration_ms": 287927,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 287927,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
         "name": "Adorador por Excel\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 239728,
       "name": "Adorador por Excel\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Deus \u00c9 Fiel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 269159,
-      "name": "Deus \u00c9 Fiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "De Volta \u00e0 Inoc\u00eancia",
         "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215099,
       "name": "Mais que Vencedor (feat. Carlos Henrique)",
       "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Deus \u00c9 Fiel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 269159,
+      "name": "Deus \u00c9 Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
     },
     {
       "added_at": "2023-11-03 04:45:18",

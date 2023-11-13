@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-253 songs - 15 hr 38 min
+254 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4UGMqwrm5dRhwhdTGX3cZ4) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk) | 4:21 | 2022-03-30 | 2023-01-12 |
 | [Carin At the Liquor Store \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2DCcPL9GoWe5jYIzDsgRrX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8) | 3:15 | 2021-10-27 | 2022-07-29 |
 | [Carin At the Liquor Store \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6QjFqsKrMjjNhmvjQQDGs1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/1SuIxvmVbzVKyZJod2O1Dg) | 3:15 | 2022-03-30 | 2023-01-12 |
+| [Cartoon Earthquake](https://open.spotify.com/track/12FPiYpIFVzZOUu5zB71LT) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:25 | 2023-01-11 |  |
 | [Cartoon Earthquake](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 | 2023-01-11 | 2023-11-11 |
 | [Casanova \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3wnXDfZlFKslVA8x5bzENO) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:58 | 2021-10-27 | 2022-10-17 |
 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-10-27 | 2022-07-29 |
@@ -140,7 +141,7 @@
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2023-01-11 |  |
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2023-01-11 |  |
 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 | 2021-10-27 |  |
-| [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 2:51 | 2022-03-30 |  |
+| [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 2:51 | 2022-03-30 | 2023-11-13 |
 | [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/3WB3A1Et0ieNTNcq6qVNGN) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 2:51 | 2021-10-27 | 2022-07-29 |
 | [Mind Games \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:20 | 2021-10-27 |  |
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-11-07 |  |

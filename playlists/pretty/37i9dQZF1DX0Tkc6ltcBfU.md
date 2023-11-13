@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Lil Wayne & 2 Chainz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,811 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,994 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 74 | [Bonecrusher \(feat\. Key Glock\)](https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Bonecrusher \(feat\. Key Glock\)](https://open.spotify.com/album/3tb85w0VG9SO5mTZR3Gxmd) | 3:25 |
 | 75 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 |
 
-Snapshot ID: `MCw2M2RmNzc1MzMyOTlkNzhjYzY3M2U2ZmE0NGU4ZGEzYTcyMmQ3MzQ3`
+Snapshot ID: `MCxkMjZmMWYxMDc4ODFkOTRmNTZjMjFkZDM1MWQyZmViNDBmNTNkMmY2`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 11070,
+  "num_followers": 11080,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmRiZTVmNGFiYjg5YWMyMDNlYTBlMmIxMmNiYzcyMTYwY2NiMTRj",
+  "snapshot_id": "MCwwNzZmNTk5YWQzNWM2MzZjZWYyYzA3Yjg5ZGRmNzQ1OGE5NWU1OGNk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "The Recipe",
+      "url": "https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 179400,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "The Recipe",
-      "url": "https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw"
     },
     {
       "added_at": "2022-10-01 16:57:49",

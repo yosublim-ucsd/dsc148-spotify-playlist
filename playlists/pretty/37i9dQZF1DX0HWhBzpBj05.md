@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,655 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,866 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 4 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
 | 5 | [A Holly Jolly Christmas](https://open.spotify.com/track/1UxgIFGB6em0vP1V9to5Ne) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 2:02 |
 | 6 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MKyA6s2XFSC70CTRHyDDe) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Merry Christmas](https://open.spotify.com/album/7zCvEkPCZcGWa1RHWjo2e0) | 3:23 |
-| 7 | [I'll Be Home for Christmas](https://open.spotify.com/track/3fiUXmUY9DZczfqMwGP3l0) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:13 |
+| 7 | [I'll Be Home for Christmas \(feat\. Jonathan Groff\)](https://open.spotify.com/track/3fiUXmUY9DZczfqMwGP3l0) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:13 |
 | 8 | [Jingle Bells](https://open.spotify.com/track/0Ar318cfljZEyc6nLN8CxG) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:57 |
 | 9 | [Please Come Home For Christmas](https://open.spotify.com/track/2iBWfWGVv8MbL1Q4NCCk1z) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:55 |
 | 10 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 74 | [Merry Christmas Baby](https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 2:35 |
 | 75 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
 
-Snapshot ID: `MCxmZTVmODgxMGU1NjIyMTMwZjM0ZWQ5M2I1MmE1OWM5ZTM5NWU2OWUz`
+Snapshot ID: `MCw2ZGJkYjU0YjM0YWNhNmUxNWRiNWI2ZGUxZjVhMDcwNmQ2YjA2Mzc2`

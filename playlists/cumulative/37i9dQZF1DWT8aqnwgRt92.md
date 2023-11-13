@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,040 songs - 2 day 17 hr 39 min
+1,041 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-13 | 2023-01-11 |
 | [door](https://open.spotify.com/track/0TF4op8eQkheQdlWQM9Bgl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールエンディングテーマ door（Special Edition）](https://open.spotify.com/album/1FgvZygYK6UfpleMuwyQ4r) | 4:12 | 2023-07-25 | 2023-07-27 |
 | [door](https://open.spotify.com/track/2jhWhT9t7S2m2B8U9i02wP) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Ending Theme Song "door" \(Special Edition\)](https://open.spotify.com/album/1cZzq5dsP3xZlPKgYfCd5J) | 4:12 | 2023-07-25 | 2023-08-09 |
-| [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 | 2023-10-24 |  |
+| [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 | 2023-10-24 | 2023-11-13 |
 | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2023-01-05 | 2023-04-09 |
 | [DRAW](https://open.spotify.com/track/68bacZy8OquMiXpmEUNi0L) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [DRAW](https://open.spotify.com/album/1Xrw9J0zz0mYZxQRJUAlro) | 3:31 | 2023-10-10 | 2023-10-20 |
 | [DREAMER](https://open.spotify.com/track/7yKbjz9hzbUY6zmIJ8nDDL) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [パリピ孔明 VOCAL COLLECTION MEGAMORI!!](https://open.spotify.com/album/1i9R3CdEU23BRYGaMkpSEC) | 4:49 | 2022-07-28 | 2022-09-21 |
@@ -287,6 +287,7 @@
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 | 2023-07-05 |
 | [Kimiiro](https://open.spotify.com/track/6cOaH9XTtUbaWpntWUpmV9) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [Kimiiro](https://open.spotify.com/album/5VhIXhofvuhXuUIKlve7eU) | 3:24 | 2022-07-28 | 2022-08-03 |
 | [King of Light](https://open.spotify.com/track/6LyqX3djXJ58kCoSqmXLCf) | [Seraphilight](https://open.spotify.com/artist/7IwUmRLeRmYUlDdkNZsQTa) | [King of Light](https://open.spotify.com/album/21KxZkyVOAGaWmVlAHCTsB) | 4:07 | 2023-08-01 | 2023-09-13 |
+| [kioku](https://open.spotify.com/track/63vDfYaOPjLDCoBVTwgqhp) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [kioku](https://open.spotify.com/album/4wNrWQGL2fg72wDyOb5Dri) | 3:58 | 2023-11-12 |  |
 | [KIRIKIZU](https://open.spotify.com/track/4axioKS5nckvIhhZgfFxd5) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV”](https://open.spotify.com/album/0nPuBJ6dF2sCUCiUfWICFg) | 3:37 | 2023-02-21 | 2023-04-14 |
 | [Knock Out](https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Knock Out](https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX) | 3:45 | 2023-04-08 | 2023-07-07 |
 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 | 2023-10-17 |  |

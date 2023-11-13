@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,563 likes - 48 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,598 likes - 48 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 47 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
 | 48 | [The Transformation Of Ani](https://open.spotify.com/track/7phdkG6fxDpjY4h874I2j1) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 9:04 |
 
-Snapshot ID: `MCxiMDY3OWNlNjIwNTZjYzAzMmFmMDI2NDE3ZDdjYjU2MDAwNTg3OTIx`
+Snapshot ID: `MCxlZTVmNzEyOWJhYTljMDU2MjdjNmQxNmI2YzI2MTA5OTM5ZDRjODI3`

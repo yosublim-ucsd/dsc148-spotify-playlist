@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-608 songs - 2 day 6 hr 0 min
+609 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Lagoon](https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp) | 3:10 | 2021-10-20 |  |
 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 | 2021-10-20 | 2022-07-29 |
 | [Launch](https://open.spotify.com/track/2shHmsampQTKotIcZMAntz) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:38 | 2021-10-20 | 2023-04-25 |
+| [Lemon Day](https://open.spotify.com/track/25didOM7sOPt7UVEcfyc92) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 18:31 | 2022-08-03 |  |
 | [Lemon Day](https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 18:31 | 2022-08-03 | 2023-11-04 |
 | [Lemon Day](https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Lemon Day](https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE) | 18:31 | 2022-08-03 | 2022-10-03 |
 | [Life At The End Of The World](https://open.spotify.com/track/1ZVV1Ti8cm9uJ3kBG1edND) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Life At The End Of The World](https://open.spotify.com/album/2VMjw9XNqRYgx3Not9RVf5) | 14:38 | 2021-10-20 | 2022-07-29 |
@@ -312,7 +313,7 @@
 | [Losing Too Is Still Ours](https://open.spotify.com/track/4zZYAcXi89kdtUsqtIuUeu) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [YATTA](https://open.spotify.com/artist/111QPtbpDlO2bvIFI51bVD) | [Losing Too Is Still Ours](https://open.spotify.com/album/0ncryeoGcIJtYx5xyrjRwi) | 6:58 | 2021-10-20 | 2022-07-28 |
 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 | 2021-10-20 |  |
 | [Lost Map / The Hawk](https://open.spotify.com/track/3wBkDs9bRmlVapJuwBsdB6) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08pEXTrrE2pbbmCMlFP1ZL) | 3:48 | 2021-10-20 | 2022-04-21 |
-| [Lost Map / The Hawk](https://open.spotify.com/track/6NdyROBkv44qzVCOjhci0s) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5u01KhbXPKdwXKDkjyl7Am) | 3:48 | 2021-10-20 |  |
+| [Lost Map / The Hawk](https://open.spotify.com/track/6NdyROBkv44qzVCOjhci0s) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5u01KhbXPKdwXKDkjyl7Am) | 3:48 | 2021-10-20 | 2023-11-13 |
 | [LSD Superhero](https://open.spotify.com/track/68rF8EIqQhXAZUnT2z3vnF) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM) | [LSD Superhero](https://open.spotify.com/album/0UIe5wti37P33mVU499vL6) | 5:06 | 2022-04-06 | 2022-05-18 |
 | [Magnetic Ghosts](https://open.spotify.com/track/2ojJsoPrYKwLsZEPjxOk8E) | [Mars89](https://open.spotify.com/artist/5RtVtFkrk7Teybt7WGZDGK) | [New Dawn](https://open.spotify.com/album/0kqdpr9PmvVLEdGuv0gQql) | 4:11 | 2021-10-20 | 2022-07-26 |
 | [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 | 2022-08-17 |

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-455 songs - 1 day 1 hr 51 min
+456 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 | 2023-05-13 |
 | [Arcade Fire](https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ), [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D) | [Arcade Fire](https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH) | 3:54 | 2021-12-17 | 2022-10-08 |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-23 |  |
-| [ARRIVAL](https://open.spotify.com/track/2acLjCqEIMP9hcF5fPC3JM) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe), [Hellscythe](https://open.spotify.com/artist/4jpGvJwGR0IeUuTYUtt6oK) | [ARRIVAL](https://open.spotify.com/album/6KGmL8TE79z5Gl4yYKXWjg) | 6:01 | 2023-09-22 |  |
+| [ARRIVAL](https://open.spotify.com/track/2acLjCqEIMP9hcF5fPC3JM) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe), [Hellscythe](https://open.spotify.com/artist/4jpGvJwGR0IeUuTYUtt6oK) | [ARRIVAL](https://open.spotify.com/album/6KGmL8TE79z5Gl4yYKXWjg) | 6:01 | 2023-09-22 | 2023-11-13 |
 | [Artificial Dubstep](https://open.spotify.com/track/2iV6jpVuKh8PS3wWQ5xLIi) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Artificial Dubstep](https://open.spotify.com/album/2VRaD4Lr0lQKhinkSW2buX) | 2:40 | 2023-09-22 |  |
 | [ASCENSION RITE](https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [ASCENSION RITE](https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf) | 2:58 | 2022-02-04 | 2022-03-12 |
 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 | 2023-09-15 |  |
@@ -173,6 +173,7 @@
 | [Get Up](https://open.spotify.com/track/5bW5xB2hInPhcLHhwJXbYR) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Get Up](https://open.spotify.com/album/1VxLRJpczwSafsznDhCUtU) | 3:04 | 2022-04-01 | 2022-11-01 |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-28 |  |
 | [GIGACHAD](https://open.spotify.com/track/2VXSei3puBk9C8EW5v1MmF) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [GIGACHAD](https://open.spotify.com/album/4ZsbsF13Yc5hSQ4y6XZlnV) | 3:32 | 2022-02-25 | 2023-04-01 |
+| [GLITCH](https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [GLITCH](https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC) | 3:56 | 2023-11-10 |  |
 | [Go Off](https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u) | [Louder Space](https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV), [DMN](https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n) | [Go Off](https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM) | 4:14 | 2021-12-17 | 2022-07-29 |
 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 | 2023-11-03 |  |
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-12-17 | 2022-11-12 |

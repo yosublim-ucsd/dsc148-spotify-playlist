@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 259053,
       "name": "I'm your hero",
       "url": "https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy"
@@ -4297,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "Reason for existence (Acoustic ver.)",
+        "url": "https://open.spotify.com/album/0bHlAZ78hbAVqPNQci3KMi"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Reason for existence (Acoustic ver.)",
+      "url": "https://open.spotify.com/track/0I4vcFpiiUQRqhyYUqlKcO"
+    },
+    {
+      "album": {
         "name": "Rebellion",
         "url": "https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF"
       },
@@ -5032,6 +5050,24 @@
       "duration_ms": 181621,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/0NmKCLR2aGNk1eAtNmPxmT"
+    },
+    {
+      "album": {
+        "name": "MAHOUWOKIKUHITO",
+        "url": "https://open.spotify.com/album/3KKZLnZko1skljax0XDFVT"
+      },
+      "artists": [
+        {
+          "name": "Kashitaro Ito",
+          "url": "https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Storyteller",
+      "url": "https://open.spotify.com/track/0UIuUzxbCTgtZWuoGNvj8E"
     },
     {
       "album": {
@@ -15978,7 +16014,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 250160,
       "name": "\u90fd\u843d\u3061",
       "url": "https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK"

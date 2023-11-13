@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,627 likes - 112 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,638 likes - 112 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 111 | [Keine Tränen](https://open.spotify.com/track/3I5sIfmUi2xGSg28kJpY0f) | [Panah](https://open.spotify.com/artist/1umbJtSmslc94Pmw6uCUyy) | [Keine Tränen](https://open.spotify.com/album/14sxCcCyBHe7UCgWI9XMds) | 2:48 |
 | 112 | [Stay](https://open.spotify.com/track/5kql4x65ExhfTc5mokebXz) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Stay](https://open.spotify.com/album/6vBQlMms9lYhLcuChuu6wk) | 3:02 |
 
-Snapshot ID: `MCw0MGEyM2ZjZjc4MjQyNzA4ZWNkOTQ2ZmY2MDE1OTU1NzA1YTEwYjgx`
+Snapshot ID: `MCw3MjEyMGQyMzA4YzBlODk2MThlMjNhMGM3NjVlNjgyNGZiNmE0NGMw`

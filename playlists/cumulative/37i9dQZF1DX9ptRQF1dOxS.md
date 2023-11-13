@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Jazzy
 
-974 songs - 2 day 7 hr 11 min
+975 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,7 +584,8 @@
 | [N Love](https://open.spotify.com/track/7u8E7IlfYo6Bo6M8JAdTpe) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [N Love](https://open.spotify.com/album/3yoJKfpGWIttJPzxYmuT4f) | 2:27 | 2022-04-06 | 2022-05-05 |
 | [NARCOTICS](https://open.spotify.com/track/3NsY2xR20MN1VvefwD4yvg) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [NARCOTICS](https://open.spotify.com/album/1FEMGb4AMOkv2ct5H3QZge) | 2:21 | 2023-05-02 | 2023-06-07 |
 | [Navy](https://open.spotify.com/track/0p78PlvKfZtcNuFoGI00Eo) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 3:34 | 2022-08-03 | 2022-09-07 |
-| [Need Ya \(I Don't Wanna\)](https://open.spotify.com/track/7cMflfzVzohQPfkzZoMwfD) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/album/6uTf8oIxfRxaH7SNurx2gW) | 2:27 | 2023-11-08 |  |
+| [Need Ya \(I Don't Wanna\)](https://open.spotify.com/track/7cMflfzVzohQPfkzZoMwfD) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/album/6uTf8oIxfRxaH7SNurx2gW) | 2:27 | 2023-11-08 | 2023-11-13 |
+| [Need Ya \(I Don't Wanna\)](https://open.spotify.com/track/7wc0wpRkVCVtF84g4YbCpH) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/album/6iJ7QbAp735rqQpi46VxMQ) | 2:27 | 2023-11-08 |  |
 | [Need You Now](https://open.spotify.com/track/5e81fxQBpGAutsfrfUp9Dm) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Push It](https://open.spotify.com/album/3SKIfKsWm7GYkN1CZ2WGPJ) | 3:17 | 2022-01-05 | 2022-02-11 |
 | [Never Again](https://open.spotify.com/track/5xgYG4biOCTKZktSWBCxfj) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [Queensway Tunnel](https://open.spotify.com/album/1frN2kEYXx4azuuOI1pqL6) | 3:25 | 2021-12-08 | 2023-01-06 |
 | [Never the One](https://open.spotify.com/track/1LLN2Pwk6lievW6aU5Sstz) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Never the One](https://open.spotify.com/album/2WL2efwH6qUq0YSBGzbv6B) | 2:57 | 2023-07-04 | 2023-08-03 |

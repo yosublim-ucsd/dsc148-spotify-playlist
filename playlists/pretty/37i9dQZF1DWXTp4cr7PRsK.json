@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 5225,
+  "num_followers": 5244,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzUxZjliY2NhYTk1MGM5ZTYxYzMwYjZkOWFiMzNkYzA3NTI1MDIz",
+  "snapshot_id": "MCwyMjA0ZGU5NzNkYzk3MWFkNjk4NjA2MmU2MGUyY2E3YmEwNWE4NTAz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Barnacles",
-        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
+        "name": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
+        "url": "https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1"
       },
       "artists": [
         {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 138926,
-      "name": "Barnacles",
-      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
+      "duration_ms": 185036,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -491,22 +495,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
-        "url": "https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1"
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
         }
       ],
-      "duration_ms": 185036,
-      "name": "Slidin",
-      "url": "https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA"
+      "duration_ms": 138926,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
     },
     {
       "added_at": "2022-10-01 16:00:00",

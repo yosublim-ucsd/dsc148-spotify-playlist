@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 66357,
+  "num_followers": 66381,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWIxYTRhMGJkNjBhNzk4MzIyNGI1OTVkOGZmYjA2NGZiOWM4YTYz",
+  "snapshot_id": "MCxhYmIwNDZlYzkyMWY5ZWFhOTI0OTJjYmZhYzRiMjkzMDE5NDgxOTlj",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Ghir Ghir",
+      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Jogiya",
         "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 196901,
       "name": "Jogiya",
       "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Grounded in Space",
-        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Ghir Ghir",
-      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 390826,
       "name": "Shrini\u2019s Dream",
       "url": "https://open.spotify.com/track/6llehsN0Mgms7vs6J88zTX"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Palkan",
-        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "Palkan",
-      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Krishna Murari",
         "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Palkan",
+        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 361080,
+      "name": "Palkan",
+      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Coke Studio: Season 8",
         "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 261010,
       "name": "Kinaray",
       "url": "https://open.spotify.com/track/0SoxxwwefLwKnzK8byFyje"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Padharo Mhare Des (Folk Fusion)",
+        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+      },
+      "artists": [
+        {
+          "name": "Swaraag",
+          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Padharo Mhare Des - Folk Fusion",
+      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Purvayi",
         "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
       },
@@ -983,26 +983,6 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Kaa Karoon Sajni (Thumri Jazz)",
-        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
-      },
-      "artists": [
-        {
-          "name": "Kshitij Tarey",
-          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
-        },
-        {
-          "name": "Ruslan Sirota",
-          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
-        }
-      ],
-      "duration_ms": 223409,
-      "name": "Kaa Karoon Sajni - Thumri Jazz",
-      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -1027,6 +1007,26 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Kaa Karoon Sajni (Thumri Jazz)",
+        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        }
+      ],
+      "duration_ms": 223409,
+      "name": "Kaa Karoon Sajni - Thumri Jazz",
+      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
     }
   ],
   "unique_name": "Fusion Finds",

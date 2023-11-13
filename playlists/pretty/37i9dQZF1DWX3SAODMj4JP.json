@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 129502,
+  "num_followers": 129602,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODFhMDZkY2I2M2YwYTgwNTBhY2QxMGZjNjNkZmZjNDg5N2U0NWZm",
+  "snapshot_id": "MCw0MTg0MDE0Yjc0NDkzNjc0MWMwZWNhMDg1MjJhMDQ2ZGI3MGFjZGJm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -487,22 +487,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Todos Um",
-        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
         },
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Vagner Dida",
+          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Todos Um",
-      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
+      "duration_ms": 201247,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -523,22 +523,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
+        "name": "Todos Um",
+        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
       "artists": [
         {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         },
         {
-          "name": "Vagner Dida",
-          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 201247,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
+      "duration_ms": 211386,
+      "name": "Todos Um",
+      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "III (Studio Sessions)",
-        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Aodhan King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Olhar de Longe",
         "url": "https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 212354,
       "name": "Olhar de Longe",
       "url": "https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "III (Studio Sessions)",
+        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 352173,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Estou Com Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 271154,
-      "name": "Estou Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Estou Com Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "duration_ms": 271154,
+      "name": "Estou Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Simples Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 242829,
-      "name": "Simples Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Pra Viver Project",
         "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
       },
@@ -1043,22 +1027,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Tributo A Iehovah (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
       },
@@ -1075,6 +1043,38 @@
       "duration_ms": 367530,
       "name": "Tributo A Iehovah - Ao Vivo",
       "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Simples Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 242829,
+      "name": "Simples Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
         "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 442247,
       "name": "Meu Grande Amor - Vers\u00e3o Cordas",
       "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-10-06 04:04:27",

@@ -23725,6 +23725,24 @@
     },
     {
       "album": {
+        "name": "Crispiness",
+        "url": "https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Kidd",
+          "url": "https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158848,
+      "name": "Crispiness",
+      "url": "https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R"
+    },
+    {
+      "album": {
         "name": "Crispy Clouds",
         "url": "https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR"
       },
@@ -119314,7 +119332,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 123076,
       "name": "written dreams",
       "url": "https://open.spotify.com/track/0PSCHXOvG9FIYowQ9i2HFD"

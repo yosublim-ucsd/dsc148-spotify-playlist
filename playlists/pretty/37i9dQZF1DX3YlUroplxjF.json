@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 470104,
+  "num_followers": 470170,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm",
+  "snapshot_id": "MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Ghost Like You",
+        "url": "https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 268727,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Ghost Like You",
-        "url": "https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 268727,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -895,6 +895,38 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Artificial Selection",
+        "url": "https://open.spotify.com/album/4YkhIDrZZ3dFlH0POQ3Syj"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 238984,
+      "name": "Son of Robot",
+      "url": "https://open.spotify.com/track/2m9dpUx3PkIOa2LPfDbSA8"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Sudden Sky",
+        "url": "https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 200384,
+      "name": "BLURRY (out of place)",
+      "url": "https://open.spotify.com/track/5Zls4RuRbomkrthG1p18Tc"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -963,22 +995,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Artificial Selection",
-        "url": "https://open.spotify.com/album/4YkhIDrZZ3dFlH0POQ3Syj"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 238984,
-      "name": "Son of Robot",
-      "url": "https://open.spotify.com/track/2m9dpUx3PkIOa2LPfDbSA8"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Sudden Sky",
-        "url": "https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr"
-      },
-      "artists": [
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 200384,
-      "name": "BLURRY (out of place)",
-      "url": "https://open.spotify.com/track/5Zls4RuRbomkrthG1p18Tc"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "wet milk",
         "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 193196,
       "name": "In Our Wake",
       "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 228299,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
     },
     {
       "added_at": "2023-06-20 21:21:38",

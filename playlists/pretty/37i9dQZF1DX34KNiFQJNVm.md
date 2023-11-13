@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DENNIS e Anitta, Gloria Groove, Luan Santana, Gustavo Mioto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919,221 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,527 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 18 | [Fases](https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Fases](https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho) | 2:10 |
 | 19 | [Coração Gelado](https://open.spotify.com/track/57O4099RXqzHe7xPqG4LqS) | [Dj Will DF](https://open.spotify.com/artist/5gN6SfppiL5y6Q2zEWLcVP), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Coração Gelado](https://open.spotify.com/album/5BGdJZ048CEKacqNOgKSTd) | 2:55 |
 | 20 | [Sem Vergonha](https://open.spotify.com/track/44taOjLEDoAWRZ7qxKzJVP) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Sem Vergonha](https://open.spotify.com/album/5OmacBr1VxnghnaYmSEbQB) | 3:04 |
-| 21 | [Olha Como Ela Vai](https://open.spotify.com/track/0Zcc7iGllcPCyqSle1Dxaf) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Ariel B](https://open.spotify.com/artist/3SBOxPJ9Ilvge7XrOJb01C), [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x) | [Olha Como Ela Vai](https://open.spotify.com/album/11D2bdPCjPRoF81yVMdV13) | 1:57 |
+| 21 | [Olha Como Ela Vai](https://open.spotify.com/track/0Zcc7iGllcPCyqSle1Dxaf) | [Ariel B](https://open.spotify.com/artist/3SBOxPJ9Ilvge7XrOJb01C), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x) | [Olha Como Ela Vai](https://open.spotify.com/album/11D2bdPCjPRoF81yVMdV13) | 1:57 |
 | 22 | [Escolinha Do Funk \(Ao Vivo\)](https://open.spotify.com/track/0cwMlGnjGPl0UlU5GWM6py) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Versão Brasileira \- Bloco: "Quero Ver Se Tu É Braba"](https://open.spotify.com/album/1NkT7DLrcDsfnTm36LIaQY) | 2:06 |
 | 23 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
 | 24 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Um Tempo Pra Nós Dois](https://open.spotify.com/track/3sw2QJAFn8W2piWpvnalGn) | [Rosana](https://open.spotify.com/artist/5SsvQk2cROZGxmz1wCdHJD) | [Feitiço](https://open.spotify.com/album/5lBPgZI6BYvWvk0twIenKi) | 3:57 |
 | 100 | [Vem \- Acústico](https://open.spotify.com/track/5cE86pA6oPZu9LWydmJIzx) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Vem \(Acústico\)](https://open.spotify.com/album/0Dmx2m3bFuDiH8IluQizNM) | 2:41 |
 
-Snapshot ID: `MCxkMzVhMGU3ZGI1YmRlNmVmYmYzYjgxOTM2ODIwZDI5YmYwNDJjNDZi`
+Snapshot ID: `MCw5ZTI4YjQzODVmNDQ5YjdmYmY4ZTI1ZDE5Y2YyMGM3MjliZTIwM2Ix`

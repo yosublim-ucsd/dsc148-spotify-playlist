@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Dua Lipa
 
-9,552 songs - 20 day 23 hr 50 min
+9,553 songs - 20 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,8 +942,9 @@
 | [Big Shot Cream Soda](https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Big Shot Cream Soda](https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb) | 3:15 | 2023-02-17 | 2023-02-25 |
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2022-07-21 | 2022-07-30 |
 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 | 2022-08-26 | 2022-09-03 |
-| [Big Trouble](https://open.spotify.com/track/1WdfobPIRp2fd958YM50Vl) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble](https://open.spotify.com/album/1WG4YHGPu2SjY8fUuC0Em6) | 3:50 | 2023-11-10 |  |
+| [Big Trouble](https://open.spotify.com/track/1WdfobPIRp2fd958YM50Vl) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble](https://open.spotify.com/album/1WG4YHGPu2SjY8fUuC0Em6) | 3:50 | 2023-11-10 | 2023-11-13 |
 | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3) | 3:50 | 2023-11-10 | 2023-11-12 |
+| [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/1WjolfVc13X3MRyV1xH8h3) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Restless Thoughts](https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ) | 3:50 | 2023-11-10 |  |
 | [Big Vibez](https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Big Vibez](https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB) | 2:46 | 2023-03-24 | 2023-04-01 |
 | [Big Woman](https://open.spotify.com/track/4YkEW0NUEldXj6bxpYUZcy) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Big Woman](https://open.spotify.com/album/7EeSFxb1JTYVPnXJbES8jT) | 2:53 | 2022-01-28 | 2022-02-04 |
 | [Big Youth \(feat\. El\-P\)](https://open.spotify.com/track/7FssY58XwtD4CRhOT9N8Md) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:03 | 2023-10-13 | 2023-10-21 |

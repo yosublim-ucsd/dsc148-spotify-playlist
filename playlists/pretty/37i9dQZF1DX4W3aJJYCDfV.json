@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Dua Lipa (pictured), Chase & Status, PinkPantheress and more!",
-  "num_followers": 843205,
+  "num_followers": 843242,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjgxMzhkNTI0YjNmZmQ3NTc0ZjIxMDI4OTdjNzJjNDc5NDI5ZTdk",
+  "snapshot_id": "MCxlZDUyYmNlOTQ1ZTIxOWIzZmM2OGI5MWYzZjJiNjI3YWZjOTJiZjcz",
   "tracks": [
     {
       "added_at": "2023-11-10 00:00:00",
@@ -1767,6 +1767,26 @@
       "duration_ms": 167903,
       "name": "Unlikely",
       "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
+    },
+    {
+      "added_at": "2023-11-10 00:00:00",
+      "album": {
+        "name": "The Night Shift",
+        "url": "https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "duration_ms": 167927,
+      "name": "Love of Money",
+      "url": "https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL"
     },
     {
       "added_at": "2023-11-10 00:00:00",

@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -1492,6 +1492,24 @@
       "duration_ms": 265226,
       "name": "Vegas Strip",
       "url": "https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj"
+    },
+    {
+      "album": {
+        "name": "Walken",
+        "url": "https://open.spotify.com/album/7sj9BQ8nIuGIMeZrKBuStx"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224420,
+      "name": "Walken",
+      "url": "https://open.spotify.com/track/4qjmZvHQCU5fK0xpi3ikG0"
     },
     {
       "album": {

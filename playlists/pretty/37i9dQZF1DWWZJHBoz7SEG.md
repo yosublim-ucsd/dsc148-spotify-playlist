@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Rolitas frescas para comenzar el finde con Piso 21, Dua Lipa, Cali y el Dandee y Mon Laferte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,651 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,727 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Fourth Time Around \- Live at the Royal Albert Hall](https://open.spotify.com/track/2xwrxptPwS1SblukgfKPgx) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert](https://open.spotify.com/album/4OnjUMJXgFC6lG8JHOrwuu) | 4:45 |
 | 50 | [Your Blood](https://open.spotify.com/track/4QJKtN5EXFtxbqnHuibwEL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Your Blood](https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC) | 4:08 |
 
-Snapshot ID: `MCw5YTlmNmQ4ODIxOWQxYmU4MTI4Y2M1Yjg5YzcxY2Q3YzdlZWNjYmIw`
+Snapshot ID: `MCw4MzZlMjJlN2RlNTVlZjI0NGY2ZjQ1ZmQ5NDBhMWMyOGMzODkwODIy`

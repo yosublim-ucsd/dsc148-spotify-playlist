@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DEN ENDA PROMENADEN SOM JAG TAR DEN ÄR TILL BAREN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,615 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,678 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [ROM & COLA](https://open.spotify.com/track/4jxmEBgLV1TFjvtoNpajSX) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [ROM & COLA](https://open.spotify.com/album/70s21vVO6lI3E8fWUU6siA) | 2:46 |
 | 100 | [DISKOTEKA](https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DISKOTEKA](https://open.spotify.com/album/6B3r8BialUCTnVf6o8D4yQ) | 2:12 |
 
-Snapshot ID: `MCxlZGZlNGQ1YjcwNTM1NTI5MmFiNDBjOGZhMzg3ZjM2MTcxZTU0M2Zm`
+Snapshot ID: `MCxhNGEwZTUwZmRkYmE3YTk3Nzk3NWZjNjEyNzAxODg3MDFkZDIxZjI3`

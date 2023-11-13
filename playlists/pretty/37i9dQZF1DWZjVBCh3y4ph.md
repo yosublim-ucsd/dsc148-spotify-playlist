@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,517 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,575 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Vini](https://open.spotify.com/track/2lTGtcexmJIqIFlhzTg4Pv) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Vini](https://open.spotify.com/album/0pLVrFf6Dim0z2IV84q02w) | 3:21 |
 | 40 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 |
 
-Snapshot ID: `MCwyOWM1ZTBhODNiYmRkNDlhYWMzOTEyZGFlNmQ4YjUzM2QzODFkZGUx`
+Snapshot ID: `MCw4Zjg4ZjI5OWUyNzQyMDhlMDk2MDNkYzFkNzVkZWEzNTU4ZjM4OWJk`

@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Don Diablo & Scrufizzer
 
-576 songs - 1 day 6 hr 25 min
+577 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Bust It](https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Bust It](https://open.spotify.com/album/0cxkIWSWJSCN8ld8sUnaWO) | 3:18 | 2021-10-29 | 2022-07-16 |
 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-09-22 | 2023-10-20 |
 | [buttons!](https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo) | 3:59 | 2023-10-20 |  |
+| [By Myself](https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [By Myself](https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7) | 2:35 | 2023-11-10 |  |
 | [Call Me](https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Call Me](https://open.spotify.com/album/3oCS0kj9EWXwUU0wcM5FKt) | 1:55 | 2023-07-14 | 2023-07-29 |
 | [Calm Down](https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Digitzz](https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Moksi Crew](https://open.spotify.com/album/2bqqu0KeHqcsDlGKDCEneE) | 4:51 | 2023-10-06 |  |
 | [CALYPSO](https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO](https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3) | 2:32 | 2023-08-25 |  |
@@ -179,7 +180,7 @@
 | [Fattoush](https://open.spotify.com/track/5M6WI1MqhNolPu9QaBopxU) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Fattoush](https://open.spotify.com/album/6fmv5wXnfVi6bL5G9LZMji) | 3:05 | 2022-01-07 | 2022-01-13 |
 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 | 2022-01-28 |  |
 | [Feed Your Soul](https://open.spotify.com/track/2Sn3BwJnGrYyecaKauOmRB) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feed Your Soul](https://open.spotify.com/album/1k0C0c5C50FHjBTrJOJBR7) | 2:05 | 2023-04-21 | 2023-06-05 |
-| [Feeling Under Pressure](https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Feeling under Pressure](https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS) | 2:53 | 2023-03-31 |  |
+| [Feeling Under Pressure](https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Feeling under Pressure](https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS) | 2:53 | 2023-03-31 | 2023-11-13 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-27 | 2022-07-29 |
 | [Feelings](https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM) | 2:41 | 2022-07-22 | 2023-04-01 |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 |  |

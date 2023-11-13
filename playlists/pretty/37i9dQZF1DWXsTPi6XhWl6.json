@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33804,
+  "num_followers": 33807,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjQwYTQxZDcyOWJjZTYwMjZkMmI5MjQwZGI4ODdiODAxNTc2ZTBi",
+  "snapshot_id": "MCw2NjA0MzdlNTMyODZlMWY0YWNjNzM5ZTNjODE2OTY1YmY4MjIxMjZj",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232690,
+      "name": "40 Day Dream (2019 Remaster)",
+      "url": "https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 348226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Up From Below - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 232690,
-      "name": "40 Day Dream (2019 Remaster)",
-      "url": "https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 196163,
-      "name": "Rambling Man",
-      "url": "https://open.spotify.com/track/5qgyfyptP3pLeWs9maKPkg"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Chutes Too Narrow (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 192480,
       "name": "Gone for Good - 2023 Remaster",
       "url": "https://open.spotify.com/track/1tJEdsmqcWGSRDM9uU4a67"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 196163,
+      "name": "Rambling Man",
+      "url": "https://open.spotify.com/track/5qgyfyptP3pLeWs9maKPkg"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Can't Wake Up",
-        "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
+        "name": "Magpie And The Dandelion (Deluxe)",
+        "url": "https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
         }
       ],
-      "duration_ms": 270135,
-      "name": "Mansion Door",
-      "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
+      "duration_ms": 234240,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
     }
   ],
   "unique_name": "Wide Awake",

@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 116129,
+  "num_followers": 116313,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzdkMTgwYjQwNmZjMDY1NzdlMWQyMGM1YWMzYTJhYTZlODhlOGNh",
+  "snapshot_id": "MCw5NTE1ZTEyN2VmNjM4NDM2ZmM5NjVhNWM1NGFmNmQzMjVmN2FkZDFl",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "You And Me Both",
-        "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
+        "name": "New York, London, Paris, Munich",
+        "url": "https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "M",
+          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
+        },
+        {
+          "name": "Nick Launay",
+          "url": "https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe"
         }
       ],
-      "duration_ms": 269453,
-      "name": "Nobody's Diary",
-      "url": "https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS"
+      "duration_ms": 296466,
+      "name": "Pop Muzik (12 Inch Version)",
+      "url": "https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4"
     },
     {
       "added_at": "2023-02-02 20:54:30",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "New York, London, Paris, Munich",
-        "url": "https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV"
+        "name": "You And Me Both",
+        "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
       },
       "artists": [
         {
-          "name": "M",
-          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
-        },
-        {
-          "name": "Nick Launay",
-          "url": "https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe"
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
         }
       ],
-      "duration_ms": 296466,
-      "name": "Pop Muzik (12 Inch Version)",
-      "url": "https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4"
+      "duration_ms": 269453,
+      "name": "Nobody's Diary",
+      "url": "https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS"
     },
     {
       "added_at": "2023-02-02 20:54:30",

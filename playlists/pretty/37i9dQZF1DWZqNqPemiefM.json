@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 63644,
+  "num_followers": 63675,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDZhYmRiN2M4OTA5MTM3Mzk1MTZjZTZkMWJkNDBhYzUwYWU4NGUz",
+  "snapshot_id": "MCw0ZTNkODIzZGI1ZDFlYmMzZTZhMmM2MGU4ZDg1ZGU1YmIyZmIzM2Zj",
   "tracks": [
     {
       "added_at": "2023-11-09 15:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-09 15:00:00",
       "album": {
+        "name": "\u4e07\u5f15\u304d\u5bb6\u65cf\u300c\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300d",
+        "url": "https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 97866,
+      "name": "Going To The Sea",
+      "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
+    },
+    {
+      "added_at": "2023-11-09 15:00:00",
+      "album": {
         "name": "How My Heart Sings",
         "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 227973,
       "name": "Energy Flow (Ki No Nagare)",
       "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
-    },
-    {
-      "added_at": "2023-11-09 15:00:00",
-      "album": {
-        "name": "\u4e07\u5f15\u304d\u5bb6\u65cf\u300c\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300d",
-        "url": "https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 97866,
-      "name": "Going To The Sea",
-      "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
     },
     {
       "added_at": "2023-11-09 15:00:00",

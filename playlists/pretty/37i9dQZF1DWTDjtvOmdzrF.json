@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 569944,
+  "num_followers": 570076,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDMyNDU2YzFlMGZlNTVkOTlhMzFkMTA0ZGY2NTg4YWI2YTgyM2U3",
+  "snapshot_id": "MCwxZTg2MzRkNDBmMTg1MThmY2QwNjY0NTYyZWFjZTcxZWQ3NjdiZGFi",
   "tracks": [
     {
       "added_at": "2023-11-07 10:17:59",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "Perspektif",
-        "url": "https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 220851,
-      "name": "L",
-      "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
-    },
-    {
-      "added_at": "2023-11-07 10:17:59",
-      "album": {
         "name": "Senandung Hati dan Jiwa",
         "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 240600,
       "name": "Kenanglah Aku",
       "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
+    },
+    {
+      "added_at": "2023-11-07 10:17:59",
+      "album": {
+        "name": "Perspektif",
+        "url": "https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 220851,
+      "name": "L",
+      "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
     },
     {
       "added_at": "2023-11-07 10:17:59",

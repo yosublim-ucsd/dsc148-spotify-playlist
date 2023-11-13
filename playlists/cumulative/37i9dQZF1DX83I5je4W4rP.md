@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-270 songs - 16 hr 16 min
+271 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Good Day](https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS), [Esoterik](https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ), [Scraps](https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8) | [True Colour](https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn) | 3:08 | 2023-05-05 |  |
 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 | 2022-07-06 | 2023-11-05 |
 | [Good Feeling](https://open.spotify.com/track/69mUNSadIZmIlrpAqss2oB) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Don't You Worry / Good Feeling](https://open.spotify.com/album/74ULHyuYbRNDVhLzp81L76) | 3:23 | 2021-12-10 | 2022-07-29 |
+| [Good Feeling](https://open.spotify.com/track/6ZXODzDislboN4mffec8NM) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG) | 3:23 | 2023-07-28 |  |
 | [Good Good Lovin](https://open.spotify.com/track/54r7Y60v3oe7Vr1w7FVZ9A) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Good Good Lovin](https://open.spotify.com/album/7BttjRGIMEQV4tCBLjKIeh) | 3:13 | 2021-12-10 | 2022-07-23 |
 | [Good Times \(Roll On\)](https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck) | [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Good Times \(Roll On\)](https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk) | 3:45 | 2021-12-10 | 2022-07-29 |
 | [Good Vibes \(feat\. Lutan Fyah\)](https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Peace of Mind \(Deluxe\)](https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ) | 3:31 | 2022-07-06 | 2023-07-29 |
@@ -270,7 +271,7 @@
 | [Wash Away](https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Wash Away](https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr) | 3:31 | 2021-12-10 | 2022-07-24 |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 | 2022-06-14 |  |
 | [Way Too High for This](https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2) | [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm) | [Way Too High for This](https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk) | 3:47 | 2021-12-10 | 2022-07-29 |
-| [We All Walk Our Own Roads \(with Trevor Hall\)](https://open.spotify.com/track/4EY01dZOKdAx1vTp0Md4xc) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [We All Walk Our Own Roads \(with Trevor Hall\)](https://open.spotify.com/album/1MAt077R2bE48jyjmRmfgP) | 3:57 | 2021-12-10 |  |
+| [We All Walk Our Own Roads \(with Trevor Hall\)](https://open.spotify.com/track/4EY01dZOKdAx1vTp0Md4xc) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [We All Walk Our Own Roads \(with Trevor Hall\)](https://open.spotify.com/album/1MAt077R2bE48jyjmRmfgP) | 3:57 | 2021-12-10 | 2023-11-13 |
 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 | 2021-12-10 |  |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-07-06 |  |
 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 | 2021-12-10 |  |

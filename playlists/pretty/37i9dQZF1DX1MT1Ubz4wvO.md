@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Plumas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,435 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,455 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 |
 | 50 | [En Aquel Patio](https://open.spotify.com/track/3GE9XsXrOT96hhi5BRG9Mg) | [Hora Zulu](https://open.spotify.com/artist/5QITgPkiJJLdiqmjK9l7DB) | [Miraveh \(Volumen I\)](https://open.spotify.com/album/2SPjptXnlWCUVadWfyPhUh) | 3:22 |
 
-Snapshot ID: `MCw4MGZkZTI5NGE0Y2NkN2Q2NmE2NTIzNzY2MDY0Yjg0MTJjZDcwMjYz`
+Snapshot ID: `MCxjYzY5ZjJjY2M3ZTExMmY1NDMzOGRjYTNlMDg1MmZiYmQzZTRhYmRh`

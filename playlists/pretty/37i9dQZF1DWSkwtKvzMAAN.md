@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,385 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,386 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 44 | [Rockin' Radio](https://open.spotify.com/track/3VRhXuwcMg3nzod1mZgtzO) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Rockin' Radio \(Expanded Edition\)](https://open.spotify.com/album/5Ic14256Mmnh7tJqF6T7kc) | 6:14 |
 | 45 | [Funn](https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4) | [The Gunchback Boogie Band](https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC) | [Rare Preludes, Vol\. 3](https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA) | 5:36 |
 | 46 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
-| 47 | [Computer Games](https://open.spotify.com/track/1BaRblvDOrRVcix5JMCOzH) | [Frank Cornilius](https://open.spotify.com/artist/1bIUFsfnVKZgYdavMkXEme) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 4:56 |
-| 48 | [Haven't Been Funked Enough](https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR) | 6:42 |
+| 47 | [Haven't Been Funked Enough](https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR) | 6:42 |
+| 48 | [Computer Games](https://open.spotify.com/track/1BaRblvDOrRVcix5JMCOzH) | [Frank Cornilius](https://open.spotify.com/artist/1bIUFsfnVKZgYdavMkXEme) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 4:56 |
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw2ZTg2YWFiNzc1MzFiYTQxNmIwMTE3OTVlZjg5Y2I3MmQwMDVhMTky`
+Snapshot ID: `MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > vibed mit dir um die Wette
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,903 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,900 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 89 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 |
 | 90 | [Cold Princess](https://open.spotify.com/track/4Ww41FseIYOCL0qP6MIGG5) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cold Princess](https://open.spotify.com/album/178ZIErbAVb5aHLTELBGqQ) | 2:33 |
 
-Snapshot ID: `MCwzYzQzY2NlNTlmYmFkMWUzN2Y4YmFiY2I5NmMyYWQ1NjQ0NDRiMGU3`
+Snapshot ID: `MCxjNDg3MGE4ZTI3MjViMGM4NDk4NGY0MzhkNmFkM2Q3MThmOGY4YjIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=LG\-IJqKLQD6XidzfrXs5\_A"> Herman Suede </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,228 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,257 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 |
 | 80 | [Roma](https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [For the Kulture](https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6) | 2:34 |
 
-Snapshot ID: `MCw3ODhmYzRjNTBhNTc1NzcwODFiZTdkMzdlNTFlYTE2MWQzOGI3YjQ1`
+Snapshot ID: `MCxmM2QyNGUyM2M5MmY5NGM5NGYyZjRkYzQ5YThmYTZhYzkwYzVhNDg4`

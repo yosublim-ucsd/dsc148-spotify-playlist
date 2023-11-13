@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Peggy Gou, Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,725 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,756 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Oxytoxin](https://open.spotify.com/track/6dAnLQly7pimsgewp5AUyX) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Oxytoxin](https://open.spotify.com/album/4B2VFLoUOpoFyiKo6DgMLI) | 4:28 |
 | 100 | [What If \- Sensu Remix](https://open.spotify.com/track/6ORweSW1tcO9EZi4SVyLCj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:56 |
 
-Snapshot ID: `MCxlZWE1ODVlNDFlMWVkYzZkN2Y5Nzc2NzRhZTRmNzExMDRhNDg5ZmVi`
+Snapshot ID: `MCw4YmUyMDVlOTRjMmY2MzY2Y2JjN2ExNWVhOWEyODFmNTIwMTVhMzdj`

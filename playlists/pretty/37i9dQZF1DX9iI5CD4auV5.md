@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,206 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,238 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 69 | [Give Me Every Little Thing \- Cajmere Mix](https://open.spotify.com/track/1US8bGeclUcs21XOVbH4ac) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Give Me Every Little Thing](https://open.spotify.com/album/3OKc556xr2Tzbn9p5EOxgj) | 5:20 |
 | 70 | [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 |
 
-Snapshot ID: `MCw4MDMxYzlmYjQzZDRlYmIwNjdkZjAwODlkNzBmODk4ODJlODYyODRm`
+Snapshot ID: `MCwwZjA5NDBkOGNkZGMxNDhlM2RmZTgzMTRkOTc0YWNhZWNlMGRhMjhj`

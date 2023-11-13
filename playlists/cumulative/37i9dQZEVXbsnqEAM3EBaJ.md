@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,026 songs - 2 day 23 hr 25 min
+1,027 songs - 2 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Estranged Fruit](https://open.spotify.com/track/0ntWDwPFaWKHmbjtIjjBQI) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi), [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Estranged Fruit](https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N) | 3:39 | 2023-05-12 | 2023-05-27 |
 | [Eternal](https://open.spotify.com/track/6jOmhvPUOapM0RuTaDUqg9) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/3AyVgQRhyADR5kyhrqh4Ou), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Eternal](https://open.spotify.com/album/2530kifFXpe5SJyGbTZh0z) | 1:52 | 2023-06-02 | 2023-06-08 |
 | [Etude De Concert, Op\. 2, No\. 6, Si Oiseau J'etais, "Were I a Bird" \- Welte\-Mignon 1654](https://open.spotify.com/track/2xmFyAEU7U5Mr6Kjb9fJGa) | [Adolph von Henselt](https://open.spotify.com/artist/2tvF63YWN56fC5aMVwEA6u), [Peter Phillips](https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp), [Annie Cory](https://open.spotify.com/artist/3u28vVaBm8Z3W1avMjsHRx) | [Women of Piano\. Great Female Pianists of the Golden Age, Vol\. 2](https://open.spotify.com/album/4BupmuWOYjSq0hNiVF1mfb) | 1:47 | 2023-09-22 | 2023-09-30 |
+| [Even Flow \(Live in Ft\. Worth, 9/13/2023](https://open.spotify.com/track/5xracHGMcwt9ynMyXWCesA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Live \(Josh's Picks 2023\)](https://open.spotify.com/album/29C5dKO98K9MikzQl3FgyN) | 6:44 | 2023-11-10 |  |
 | [Eventide](https://open.spotify.com/track/58BQfYtMoTPUK8uZzobH40) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [Eventide](https://open.spotify.com/album/2ib7EVPNqDdFJ4eTSnixWT) | 4:14 | 2023-03-17 | 2023-03-25 |
 | [Everything Destroys You](https://open.spotify.com/track/02WsLeepRUELUmfxC31QTc) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Everything Destroys You](https://open.spotify.com/album/5HxJGedU8hLULalg1ktLgb) | 3:55 | 2023-05-05 | 2023-06-04 |
 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 | 2023-10-06 | 2023-11-05 |
@@ -703,7 +704,7 @@
 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 | 2023-06-23 | 2023-07-23 |
 | [Red Elephant \- Live 1994](https://open.spotify.com/track/0eHQGDY7L3TqTHdqcZ2OZl) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [In The Blue \(Live\)](https://open.spotify.com/album/0OJVGwk2S2SBlhtjvBqWzL) | 2:59 | 2023-04-28 | 2023-04-30 |
 | [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 | 2023-09-01 | 2023-09-20 |
-| [Release \(Live in Chicago 9/5/2023\)](https://open.spotify.com/track/43VK7Okrq79cxXGuxvAIh3) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Live \(Josh's Picks 2023\)](https://open.spotify.com/album/29C5dKO98K9MikzQl3FgyN) | 5:08 | 2023-11-03 |  |
+| [Release \(Live in Chicago 9/5/2023\)](https://open.spotify.com/track/43VK7Okrq79cxXGuxvAIh3) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Live \(Josh's Picks 2023\)](https://open.spotify.com/album/29C5dKO98K9MikzQl3FgyN) | 5:08 | 2023-11-03 | 2023-11-13 |
 | [Release My Soul \- Blutengel Mix](https://open.spotify.com/track/1EUc6WWBdyHxGHmWU8cN07) | [Caisaron](https://open.spotify.com/artist/0TzaHjcLavIpy1JXy4ao68), [Blutengel](https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR) | [Release My Soul \(Blutengel Mix\)](https://open.spotify.com/album/3gddcNaS3VV1P11yw7Q6cs) | 5:04 | 2023-04-14 | 2023-04-22 |
 | [Reloj de Viento](https://open.spotify.com/track/0cGG17lAn1vhWje5CbVbQ0) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Drama](https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb) | 3:19 | 2023-10-27 |  |
 | [Remember David \- Radio Edit](https://open.spotify.com/track/4JKy29kHufLOvbPXJCe3ai) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Remember David](https://open.spotify.com/album/34IAqi8ajaDj701ErVA6dg) | 3:21 | 2023-03-24 | 2023-04-01 |

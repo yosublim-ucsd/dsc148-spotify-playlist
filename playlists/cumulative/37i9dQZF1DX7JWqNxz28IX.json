@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Demonio",
+        "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
+      },
+      "artists": [
+        {
+          "name": "Enea",
+          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
+        },
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Demonio",
+      "url": "https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo"
+    },
+    {
+      "album": {
         "name": "Profondo Rosa",
         "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
       },
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 149600,
       "name": "OPPOSTI",
       "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"

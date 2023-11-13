@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 5935,
+  "num_followers": 5953,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQ1ZTY2MDEwY2QwMDIxNzgwY2Q1OWIzZTZkNmQxOWQyMWYyNjRm",
+  "snapshot_id": "MCxmOTAwYjM1Y2RlNzYyNDQxZmNhOTE4YzVjNWMyYmFkNmZkNTU4ODMy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 189533,
       "name": "Lovin' Me",
       "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "LOVE EFFECT",
-        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Love Effect",
-      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 197096,
       "name": "METEOR",
       "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "LOVE EFFECT",
+        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Love Effect",
+      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "NEW TOMORROW",
-        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
-      },
-      "artists": [
-        {
-          "name": "FANTASY BOYS",
-          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "New Tomorrow",
-      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204760,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "NEW TOMORROW",
+        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+      },
+      "artists": [
+        {
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "New Tomorrow",
+      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
-      },
-      "artists": [
-        {
-          "name": "xooos",
-          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "INEEDYOURLOVE",
-        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
         }
       ],
-      "duration_ms": 222684,
-      "name": "INEEDYOURLOVE",
-      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
+      "duration_ms": 174026,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -899,6 +883,22 @@
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "INEEDYOURLOVE",
+        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 222684,
+      "name": "INEEDYOURLOVE",
+      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
     },
     {
       "added_at": "2023-11-03 06:14:32",

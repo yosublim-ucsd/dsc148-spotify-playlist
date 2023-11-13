@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> blue dress on a boat! I AM UNWELL!
+> Karma is the guy on the Chiefs coming straight home to me 🤭
 
 1,111 songs - 2 day 10 hr 17 min
 

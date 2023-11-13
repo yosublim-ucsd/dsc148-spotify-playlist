@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Chanel",
-  "num_followers": 989430,
+  "num_followers": 989513,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGJkMGMwMWQ3ODhkMjgwYzU1NGM3MjdjMWI0OGYyMTY0MjhjY2Qw",
+  "snapshot_id": "MCwyODI4ZDM1M2NmNTZmYTM4MzM1OGU1ZWIxZjgzMGQ3ZDg5YmQxODRm",
   "tracks": [
     {
       "added_at": "2023-11-06 08:16:00",
@@ -627,26 +627,22 @@
     {
       "added_at": "2023-11-06 08:16:00",
       "album": {
-        "name": "Puerta del Sol",
-        "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ"
       },
       "artists": [
         {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
         },
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 193150,
-      "name": "Puerta del Sol",
-      "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
+      "duration_ms": 203768,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
     },
     {
       "added_at": "2023-11-06 08:16:00",
@@ -671,22 +667,26 @@
     {
       "added_at": "2023-11-06 08:16:00",
       "album": {
-        "name": "Diles",
-        "url": "https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ"
+        "name": "Puerta del Sol",
+        "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
       "artists": [
         {
-          "name": "Mal\u00fa",
-          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
         },
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 203768,
-      "name": "Diles",
-      "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
+      "duration_ms": 193150,
+      "name": "Puerta del Sol",
+      "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
     },
     {
       "added_at": "2023-11-06 08:16:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-11-06 08:16:00",
       "album": {
+        "name": "Canci\u00f3n de pop",
+        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 139876,
+      "name": "Canci\u00f3n de pop",
+      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
+    },
+    {
+      "added_at": "2023-11-06 08:16:00",
+      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2023-11-06 08:16:00",
-      "album": {
-        "name": "Canci\u00f3n de pop",
-        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 139876,
-      "name": "Canci\u00f3n de pop",
-      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
     },
     {
       "added_at": "2023-11-06 08:16:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-11-06 08:16:00",
       "album": {
-        "name": "Copita Champagne",
-        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
-      },
-      "artists": [
-        {
-          "name": "Mireya Rivas",
-          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
-        },
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Copita Champagne",
-      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
-    },
-    {
-      "added_at": "2023-11-06 08:16:00",
-      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
+    },
+    {
+      "added_at": "2023-11-06 08:16:00",
+      "album": {
+        "name": "Copita Champagne",
+        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
+      },
+      "artists": [
+        {
+          "name": "Mireya Rivas",
+          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
+        },
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Copita Champagne",
+      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2023-11-06 08:16:00",

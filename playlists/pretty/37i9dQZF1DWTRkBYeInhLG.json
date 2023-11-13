@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 459262,
+  "num_followers": 459508,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yzg4ZmZmY2YzMWE1Y2UwZGJmMzc4MDJmNDMyNTk1ZGUwZmE0YjRj",
+  "snapshot_id": "MCxkOGI4OTAwZTRjZTAzYTUxNzU2NDRiOTM0YmQ5ZjgwOWI3MzcxN2I2",
   "tracks": [
     {
       "added_at": "2023-11-07 10:19:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-07 10:19:58",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2023-11-07 10:19:58",
-      "album": {
         "name": "Aku Yang Salah",
         "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 251553,
       "name": "Aku Yang Salah",
       "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
+    },
+    {
+      "added_at": "2023-11-07 10:19:58",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-11-07 10:19:58",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-07 10:19:58",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2023-11-07 10:19:58",
-      "album": {
         "name": "Belum Siap Kehilangan - Single",
         "url": "https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 288333,
       "name": "Belum Siap Kehilangan",
       "url": "https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV"
+    },
+    {
+      "added_at": "2023-11-07 10:19:58",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2023-11-07 10:19:58",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-07 10:19:58",
       "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2023-11-07 10:19:58",
-      "album": {
         "name": "Dari Mata",
         "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 223462,
       "name": "Dari Mata",
       "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2023-11-07 10:19:58",
+      "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2023-11-07 10:19:58",

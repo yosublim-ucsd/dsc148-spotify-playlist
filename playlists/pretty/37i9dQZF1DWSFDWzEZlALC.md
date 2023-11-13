@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,589 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,947 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
 | 75 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 |
 
-Snapshot ID: `MCxhYWNlOTNkOWJiYjAxOWY1NTM0ODZjNDY3YzQ1N2NjM2JkM2FhYWJh`
+Snapshot ID: `MCw5NjQwNGFmMDUzMGE5MzE4NGQxOTA5YjcxNmU1NDQzMWZlNjA5Mjhi`

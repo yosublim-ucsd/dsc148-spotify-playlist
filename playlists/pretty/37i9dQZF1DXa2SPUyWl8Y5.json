@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 478724,
+  "num_followers": 478798,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDg0MjMzNTQ5MTM5YjM2Mjg1YWRmYjRkNmI2YjcyMTU1ZmMxZmEy",
+  "snapshot_id": "MCxkODQ2OGM5NWNlZjY2OWI1YWVjNTE5OGVkYjM3NWJiNDU2MjczMWU3",
   "tracks": [
     {
       "added_at": "2023-09-01 17:06:35",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -367,8 +367,8 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
       },
       "artists": [
         {
@@ -376,25 +376,9 @@
           "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -411,6 +395,22 @@
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 275409,
+      "name": "Four Hills",
+      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 393495,
       "name": "Life",
       "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 275409,
-      "name": "Four Hills",
-      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Lost in Berlin",
-        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 259670,
-      "name": "Endless Dancing",
-      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 290731,
       "name": "Shaded",
       "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Lost in Berlin",
+        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "The Elder",
-        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
+        "name": "Proper Time",
+        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
       },
       "artists": [
         {
-          "name": "Light Below",
-          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+          "name": "Vakabular",
+          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
         }
       ],
-      "duration_ms": 232258,
-      "name": "The Elder",
-      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
+      "duration_ms": 301935,
+      "name": "Proper Time",
+      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "The Elder",
+        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
+      },
+      "artists": [
+        {
+          "name": "Light Below",
+          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "The Elder",
+      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 378000,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Proper Time",
-        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
-      },
-      "artists": [
-        {
-          "name": "Vakabular",
-          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Proper Time",
-      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
         }
       ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+      "duration_ms": 377419,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1195,6 +1179,22 @@
       "duration_ms": 194610,
       "name": "The Duty",
       "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        },
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 192016,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
@@ -1351,6 +1331,22 @@
       "duration_ms": 446106,
       "name": "Glitter and Litter",
       "url": "https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     }
   ],
   "unique_name": "Beats to think to",

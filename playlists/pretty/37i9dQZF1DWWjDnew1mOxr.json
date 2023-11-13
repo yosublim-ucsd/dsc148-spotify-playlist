@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Picture Parlour",
-  "num_followers": 116186,
+  "num_followers": 116212,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGVlZWNkNjMzZWNjZDdlNDEzMDVjZjcyNzQ0YTZmYjY4MDgyYjY1",
+  "snapshot_id": "MCxmN2NlODA3NjE3N2Q4ZmZjMTM2NjM1YWMwNmExNjY5Mzc5NGU5ZTdm",
   "tracks": [
     {
       "added_at": "2023-10-27 10:55:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "What's Rock And Roll?",
-        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
-      },
-      "artists": [
-        {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "15 Minutes In The Algorithm",
-      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/5S0sLBw7pyvohOvsvKB9zZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 194245,
       "name": "Chancer",
       "url": "https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "What's Rock And Roll?",
+        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "15 Minutes In The Algorithm",
+      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
     },
     {
       "added_at": "2023-10-27 10:55:40",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
+        "name": "Anxiety Replacement Therapy",
+        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+      },
+      "artists": [
+        {
+          "name": "The Lottery Winners",
+          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "Sertraline",
+      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
         "name": "We'll Be Alreet",
         "url": "https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 177143,
       "name": "We'll Be Alreet",
       "url": "https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "Blisters",
-        "url": "https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 179776,
-      "name": "Blisters",
-      "url": "https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Anxiety Replacement Therapy",
-        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+        "name": "Blisters",
+        "url": "https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP"
       },
       "artists": [
         {
-          "name": "The Lottery Winners",
-          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
         }
       ],
-      "duration_ms": 186083,
-      "name": "Sertraline",
-      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+      "duration_ms": 179776,
+      "name": "Blisters",
+      "url": "https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Hold Yr Horses",
-        "url": "https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc"
-      },
-      "artists": [
-        {
-          "name": "ERNIE",
-          "url": "https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J"
-        }
-      ],
-      "duration_ms": 152714,
-      "name": "Hold Yr Horses",
-      "url": "https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "One More Night With No One",
         "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 200147,
       "name": "One More Night With No One",
       "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Hold Yr Horses",
+        "url": "https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc"
+      },
+      "artists": [
+        {
+          "name": "ERNIE",
+          "url": "https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J"
+        }
+      ],
+      "duration_ms": 152714,
+      "name": "Hold Yr Horses",
+      "url": "https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Fading Away",
-        "url": "https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V"
-      },
-      "artists": [
-        {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
-        }
-      ],
-      "duration_ms": 206247,
-      "name": "Fading Away",
-      "url": "https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "I Let Go",
         "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 141265,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "duration_ms": 206247,
+      "name": "Fading Away",
+      "url": "https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Deepest Blue",
-        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 218751,
-      "name": "Lazy Brain",
-      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Smashed Up My Fender",
         "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 174040,
       "name": "Smashed Up My Fender",
       "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Deepest Blue",
+        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 218751,
+      "name": "Lazy Brain",
+      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "ITSA",
-        "url": "https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo"
-      },
-      "artists": [
-        {
-          "name": "L'objectif",
-          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
-        }
-      ],
-      "duration_ms": 219670,
-      "name": "ITSA",
-      "url": "https://open.spotify.com/track/6e4xO6Q0hZY2cVvOdQHWZv"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Accidental Doom",
-        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+        "name": "ITSA",
+        "url": "https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo"
       },
       "artists": [
         {
-          "name": "Pit Pony",
-          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Accidental Doom",
-      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
+      "duration_ms": 219670,
+      "name": "ITSA",
+      "url": "https://open.spotify.com/track/6e4xO6Q0hZY2cVvOdQHWZv"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1531,6 +1515,22 @@
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Accidental Doom",
+        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+      },
+      "artists": [
+        {
+          "name": "Pit Pony",
+          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Accidental Doom",
+      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Outside Of The Blue",
         "url": "https://open.spotify.com/album/67gfgBg54Xsi0xWtPZmYU4"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 195240,
       "name": "People Should Know Better",
       "url": "https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
     }
   ],
   "unique_name": "Proper Belters",

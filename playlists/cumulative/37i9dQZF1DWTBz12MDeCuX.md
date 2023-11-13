@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Cleffy
 
-1,397 songs - 2 day 17 hr 58 min
+1,398 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,7 +1030,7 @@
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-17 | 2023-09-19 |
 | [Schlimm ;\-\(](https://open.spotify.com/track/1KIJB0rE9mkyAtS3j9ZMXO) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [Schlimm ;\-\(](https://open.spotify.com/album/4hYqS4Nh7MvlfuoZ7Mx7ZG) | 2:29 | 2022-07-13 | 2022-07-20 |
 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 | 2023-08-10 | 2023-11-03 |
-| [Schmutzfilm](https://open.spotify.com/track/5wxu5fRUH8lL4jUhMJiLUe) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Schmutzfilm](https://open.spotify.com/album/6nwAmzSakplPjzJx0EVKf5) | 2:27 | 2023-10-19 |  |
+| [Schmutzfilm](https://open.spotify.com/track/5wxu5fRUH8lL4jUhMJiLUe) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Schmutzfilm](https://open.spotify.com/album/6nwAmzSakplPjzJx0EVKf5) | 2:27 | 2023-10-19 | 2023-11-13 |
 | [Schnell](https://open.spotify.com/track/4eJaIuWmjaS8m0WnHX5G6P) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Schnell](https://open.spotify.com/album/2wD40HMPoIl9rM2JzT9MFt) | 3:00 | 2023-09-28 | 2023-10-10 |
 | [Schnelle Brille](https://open.spotify.com/track/1ChBwUU6drEFWCKXANhvKW) | [Addikt102](https://open.spotify.com/artist/08rciXpQrixSOu9GA0jSd7), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schnelle Brille](https://open.spotify.com/album/7gcZZeUIyAWNTpDjziIxBA) | 2:54 | 2023-09-07 | 2023-09-29 |
 | [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox) | [ilyproxy](https://open.spotify.com/artist/4wIBlvOhBSFNIAY7Gyht3h), [leander](https://open.spotify.com/artist/4vL5YP8WPnYnRHy2C64Ffx), [Hadesthegrim](https://open.spotify.com/artist/5zJRjAyQPqGD6TT2WwWCzf) | [Schnuffel](https://open.spotify.com/album/0OiurvRJpB36UMgVU2n2kp) | 3:15 | 2022-06-30 | 2022-07-05 |
@@ -1080,6 +1080,7 @@
 | [sLay QuEen\*](https://open.spotify.com/track/405OtCs8ISBKklXtSeQhTd) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [sLay QuEen\*](https://open.spotify.com/album/26gChMUDSPGiCqdbC1ganH) | 2:07 | 2023-08-17 | 2023-08-25 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 | 2023-04-21 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 | 2023-10-06 |
+| [Slowdown](https://open.spotify.com/track/20piPqX1KD6PxWmXk3IsY5) | [Slowdown](https://open.spotify.com/artist/3utPV0X00pLgBQefULSYiP) | [Slowdown](https://open.spotify.com/album/6DwAFBra2MDnxmc62vhtOA) | 2:03 | 2023-11-12 |  |
 | [Smash or Pass](https://open.spotify.com/track/4vbZr4SHIpUyi1ahlYpwws) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Smash or Pass](https://open.spotify.com/album/4DnWN8DRArAqEA6JDyr61R) | 1:56 | 2023-08-10 | 2023-08-18 |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-06-22 | 2023-07-21 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-04 | 2022-08-19 |

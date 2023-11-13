@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,757 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,839 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 20 | [Redline](https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer World](https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc) | 3:12 |
 | 21 | [Coochie \(a bedtime story\) \- VIP mix](https://open.spotify.com/track/4MzDCeqH2w43eP9hbgij2C) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph in the Wild](https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU) | 3:40 |
 | 22 | [Anyone I Want](https://open.spotify.com/track/1jf7Y78cYBAZKpmD25xJCm) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Anyone I Want](https://open.spotify.com/album/50IJkSXxiseaTrNUQkp0eM) | 2:41 |
-| 23 | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/track/7cMflfzVzohQPfkzZoMwfD) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/album/6uTf8oIxfRxaH7SNurx2gW) | 2:27 |
+| 23 | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/track/7wc0wpRkVCVtF84g4YbCpH) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Need Ya \(I Don't Wanna\)](https://open.spotify.com/album/6iJ7QbAp735rqQpi46VxMQ) | 2:27 |
 | 24 | [Thirsty](https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx) | 5:11 |
 | 25 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 |
 | 26 | [Miss Dopamine](https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Miss Dopamine](https://open.spotify.com/album/7dfCoyCzRpLmVwjRtMUqR6) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Secrets](https://open.spotify.com/track/38hQXThozZBXXqP5kI4lhk) | [HY:LY](https://open.spotify.com/artist/18XyjTfcu55D4yBOT0fcS2) | [Secrets](https://open.spotify.com/album/3R1nJBmdtnOk38QpPK4PDm) | 5:15 |
 | 50 | [Sooty Tern](https://open.spotify.com/track/2ZEoZ5foOpPF1ofkSvYSGn) | [ELLLL](https://open.spotify.com/artist/40W5fNvMZwLnag1FYei0Jk) | [Sooty Tern](https://open.spotify.com/album/6Dnx8uIMKgBEUAHT5LL71X) | 6:04 |
 
-Snapshot ID: `MCw0OGYzNzg0YTIzNTA0MzNlZWYwMmM3NzJiYjQ1ZjNmZjM4MWZiNzI4`
+Snapshot ID: `MCxjYzMyODU4ZjBmZWFlZjY3OTdiYzZkZmIzNTMwNTMyZjNlMjIwMTUw`

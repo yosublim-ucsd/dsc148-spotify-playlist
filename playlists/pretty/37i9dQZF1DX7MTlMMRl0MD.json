@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1903323,
+  "num_followers": 1903420,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjdjZjE4MGYxMmNkYTMzMDEwMmQ4OTVjOTQ5MWExMzhjYmRhNmY0",
+  "snapshot_id": "MCxjNjY4ZGRhYmM1YTNjMzliNTMyYTNjYjk0NmQ0ODE4ZjI1ODY0NDRh",
   "tracks": [
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
       "artists": [
         {
-          "name": "Domenic Marte",
-          "url": "https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C"
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         }
       ],
-      "duration_ms": 290986,
-      "name": "Ven T\u00fa",
-      "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
+      },
+      "artists": [
+        {
+          "name": "Domenic Marte",
+          "url": "https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C"
+        }
+      ],
+      "duration_ms": 290986,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "Que Sera de Mi",
         "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 271066,
       "name": "Que Sera de Mi",
       "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1431,26 +1431,18 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
       },
       "artists": [
         {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        },
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        },
-        {
-          "name": "DJ Ramon",
-          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1471,18 +1463,26 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        },
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "DJ Ramon",
+          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
         }
       ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
+      "duration_ms": 213000,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "HASTA QUE LA MUERTE NOS SEPARE",
-      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 184746,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "HASTA QUE LA MUERTE NOS SEPARE",
+      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
     },
     {
       "added_at": "2023-11-10 00:37:25",

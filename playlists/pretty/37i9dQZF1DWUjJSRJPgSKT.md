@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,205 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,307 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 40 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
 | 41 | [A Night In Tunisia](https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 5:07 |
 | 42 | [The Bridge \- Remastered](https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:59 |
-| 43 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
-| 44 | [Easy To Love](https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx) | [Cannonball Adderley Sextet](https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn) | [Nippon Soul](https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn) | 3:46 |
+| 43 | [Easy To Love](https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx) | [Cannonball Adderley Sextet](https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn) | [Nippon Soul](https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn) | 3:46 |
+| 44 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
 | 45 | [Humph \- Rudy Van Gelder 24\-Bit Mastering / 1998 Digital Remaster](https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:55 |
 | 46 | [Blues And The Abstract Truth](https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:12 |
-| 47 | [Steps\-What Was \- Digitally Remastered](https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 13:50 |
-| 48 | [The Natives Are Restless Tonight \- Rudy Van Gelder Edition/1999 Digital Remaster](https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 6:10 |
+| 47 | [The Natives Are Restless Tonight \- Rudy Van Gelder Edition/1999 Digital Remaster](https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 6:10 |
+| 48 | [Steps\-What Was \- Digitally Remastered](https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 13:50 |
 | 49 | [The Eternal Triangle](https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Ken Burns Jazz: The Definitive Dizzy Gillespie](https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer) | 14:13 |
 | 50 | [Mr\. P.C\. \- 2020 Remaster](https://open.spotify.com/track/0DWU6lDxGXt555jdXRUPuz) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 6:57 |
 | 51 | [Grand Central](https://open.spotify.com/track/0q7hLjhOKg1WkxDnUK75X5) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 | 65 | [Just One Of Those Things](https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py) | 7:16 |
 
-Snapshot ID: `MCwxMjAyMzk3YmE0YzAzMjcxMjc2M2NlYjBlYjY3YzNhMzNjNzdkNTBm`
+Snapshot ID: `MCxiNTY0Y2FiZjUyNGYwOTk1Y2U2OWJlYWQ5MzIwZDQ1M2E0MWUwNzg3`

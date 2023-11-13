@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa DAVI ja Joalin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,945 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,973 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Demoni](https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5) | [MunkkiTuk](https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR) | [Demoni](https://open.spotify.com/album/2kOyjw2vLBeKpkKIoNsiPw) | 2:09 |
 | 60 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 |
 
-Snapshot ID: `MCxkYTI3MWQ2NTFjYTY4YjEyYThkNGI5ZjlhNjFhNjQwMmNhMmM4NjE5`
+Snapshot ID: `MCxkMjU5ZGQ4Y2Q0YmMxMzY1OTAwMDFjM2ZmZjhmMjQ5Yzk5OGU0ZmQ5`

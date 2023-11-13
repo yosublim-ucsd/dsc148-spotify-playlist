@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Hotline TNT \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,582 likes - 126 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,628 likes - 126 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 125 | [Young and Alive](https://open.spotify.com/track/0ahv9FeBbdodwTEpeJarqe) | [The Sooks](https://open.spotify.com/artist/7AJRbMEkOOcr3YRQqR75tj) | [Young and Alive](https://open.spotify.com/album/1apst5g9k8WaqgrajZl8By) | 3:16 |
 | 126 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 
-Snapshot ID: `MCxjOWJjN2NlODUwM2Q4MDBlYjRjN2FkYWJmYWZhNGNiOTY1NjhmNjIy`
+Snapshot ID: `MCxjNzAwMzQ4NGQ0Y2UwNjA3M2FjNTMyMTZlYzNkM2RjYmM4NDRmOTIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,407 likes - 148 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,426 likes - 148 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 147 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go \(Remixes\)](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 148 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
 
-Snapshot ID: `MCxlMmZlYWZkZDUzZDcyYTY1MDllNGEwMGIwN2EyZWMxYWE5N2ZiZDg5`
+Snapshot ID: `MCw5YjNlODM1MWU3MWY2N2Q3ODY2ODgyYWRhMzU5MThmMDg3Yjc5OGM2`

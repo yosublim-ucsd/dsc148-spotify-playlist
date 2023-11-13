@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 106838,
+  "num_followers": 106869,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
+  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Higher State of Consciousness",
         "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 377960,
       "name": "Higher State of Consciousness (Tweekin Acid Funk)",
       "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Defiant Order",
-        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Defiant order",
-      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Defiant order",
+      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Feast Of The Broken Heart",
-        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 281815,
-      "name": "Do You Feel The Same?",
-      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 345520,
       "name": "Warsaw (White Light Version)",
       "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
     },
     {
       "added_at": "2021-10-22 11:07:27",

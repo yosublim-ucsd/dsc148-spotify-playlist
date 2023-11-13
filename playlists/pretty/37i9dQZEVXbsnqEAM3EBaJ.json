@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMjY0MjAsMDAwMDAwMDA3NTZjMzM4OTc1YjM1YzM1NDIwMjQ1ODkzMTRkODBjZg==",
+  "snapshot_id": "MjgzMjY0MjAsMDAwMDAwMDAyZjdiZWY4YmM3MDcyNTQ3YTFkOTMzYjk3YWFjZjNmNg==",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 308258,
-      "name": "Release (Live in Chicago 9/5/2023)",
-      "url": "https://open.spotify.com/track/43VK7Okrq79cxXGuxvAIh3"
+      "duration_ms": 404454,
+      "name": "Even Flow (Live in Ft. Worth, 9/13/2023",
+      "url": "https://open.spotify.com/track/5xracHGMcwt9ynMyXWCesA"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "A Torch In The Dark",
+        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 173116,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 461243,
       "name": "And Still - Dark-Side Mix",
       "url": "https://open.spotify.com/track/0e2NW54lXBsVbolTn8MKZ0"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "A Torch In The Dark",
-        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 173116,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "New Gold Dream - Live From Paisley Abbey",
-        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Glittering Prize - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 192813,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "New Gold Dream - Live From Paisley Abbey",
+        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Glittering Prize - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -615,6 +615,46 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 170261,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
+        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Ice Nine Kills, Asking Alexandria, From Ashes To New) [Acoustic]",
         "url": "https://open.spotify.com/album/426F7edvwDBldhLL4UfVLg"
       },
@@ -643,22 +683,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
-        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
-      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "El Viaje Nunca Llega al Horizonte",
         "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
       },
@@ -683,26 +707,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
+        "name": "What Christmas Means To Me (with Stevie Wonder)",
+        "url": "https://open.spotify.com/album/76Oe3S7KYq7yPVdVn1kmSG"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         },
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 170261,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+      "duration_ms": 155360,
+      "name": "What Christmas Means To Me (with Stevie Wonder)",
+      "url": "https://open.spotify.com/track/1wGNUfqEyjEHmZATDVf6LB"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -723,26 +743,6 @@
       "duration_ms": 224586,
       "name": "Home (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/3bGcmjOqLYBVt1AtiLpmmT"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "What Christmas Means To Me (with Stevie Wonder)",
-        "url": "https://open.spotify.com/album/76Oe3S7KYq7yPVdVn1kmSG"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 155360,
-      "name": "What Christmas Means To Me (with Stevie Wonder)",
-      "url": "https://open.spotify.com/track/1wGNUfqEyjEHmZATDVf6LB"
     },
     {
       "added_at": "2023-11-10 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Listen to the face\-paced soundtrack to the Austin Grand Prix, curated by Tiësto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,396 likes - 28 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,395 likes - 28 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 27 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 28 | [Bittersweet Goodbye \- Tiësto’s Hardcore Remix](https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Bittersweet Goodbye \(Tiësto’s Hardcore Remix\)](https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P) | 2:38 |
 
-Snapshot ID: `MCw4MDM1MTExZjQ3MWJjOGNkOGU5YzYxOTIyZDJiN2NhMjdjYTQ3NjI2`
+Snapshot ID: `MCw1YzliM2MxYzQ4Y2JiZGY3NmRlNjdmMTMyNGUxY2U5Y2ZjNjk0ODdl`

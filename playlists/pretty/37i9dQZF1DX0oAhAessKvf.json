@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 110008,
+  "num_followers": 110064,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
+  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Frankie Boy",
-          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Liza Love",
-      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Soy El Mas Sensual - Renato Classics",
         "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210240,
       "name": "Soy El Mas Sensual",
       "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Frankie Boy",
+          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
+        }
+      ],
+      "duration_ms": 101632,
+      "name": "Liza Love",
+      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
-      },
-      "artists": [
-        {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "D\u00f3nde Est\u00e1n las Girlas",
-      "url": "https://open.spotify.com/track/2rIdnCi7aa86ce2LRcEE6j"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 84192,
       "name": "Quieren Chorizo",
       "url": "https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "D\u00f3nde Est\u00e1n las Girlas",
+      "url": "https://open.spotify.com/track/2rIdnCi7aa86ce2LRcEE6j"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 123723,
-      "name": "Muchos Quieren Tumbarme",
-      "url": "https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Playero Dj Live",
         "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
@@ -1191,22 +1175,34 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Dos Tiempos Bajo Un Mismo Tono",
-        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Viernes 13 - Parte 1",
-      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
+      "duration_ms": 123723,
+      "name": "Muchos Quieren Tumbarme",
+      "url": "https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2"
+        }
+      ],
+      "duration_ms": 114093,
+      "name": "Sientela",
+      "url": "https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+        "name": "Dos Tiempos Bajo Un Mismo Tono",
+        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
       },
       "artists": [
         {
-          "name": "Speedy",
-          "url": "https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
         }
       ],
-      "duration_ms": 114093,
-      "name": "Sientela",
-      "url": "https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A"
+      "duration_ms": 306373,
+      "name": "Viernes 13 - Parte 1",
+      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
     },
     {
       "added_at": "2021-12-20 17:02:25",

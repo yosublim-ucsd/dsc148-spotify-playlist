@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 242646,
+  "num_followers": 242999,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDc4NjlhOTI5NTEwMDk2MzIxYzVlODg2MjBkN2E3NjYwNGY0NzAz",
+  "snapshot_id": "MCxmYWY5ZThiNTkzMzAzNmNkYzRlY2FlNmRlNDA4NmNjMzE1YmU3Yzhl",
   "tracks": [
     {
       "added_at": "2023-11-10 11:30:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "Bells of Notre Dame",
-        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Bells of Notre Dame",
-      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7"
       },
@@ -603,6 +587,54 @@
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "Bells of Notre Dame",
+        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bells of Notre Dame",
+      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "Rock with Me",
+        "url": "https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/3KjkZXHlDZMbQKqdYPtsUn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/7J2ZnqSaDNijHboyFFkwpV"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -639,22 +671,6 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "Rock with Me",
-        "url": "https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP"
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
       "artists": [
         {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
         }
       ],
-      "duration_ms": 205696,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif"
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -703,22 +719,6 @@
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/3KjkZXHlDZMbQKqdYPtsUn"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/7J2ZnqSaDNijHboyFFkwpV"
     },
     {
       "added_at": "2023-11-10 11:30:00",

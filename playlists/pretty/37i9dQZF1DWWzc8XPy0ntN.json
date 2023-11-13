@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123462,
+  "num_followers": 123469,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx",
+  "snapshot_id": "MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Night in Tijuana",
-        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
-      },
-      "artists": [
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Dancehall, Audubon Ballroom",
-      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Maelstrom",
         "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 342017,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -291,6 +291,22 @@
       "duration_ms": 126074,
       "name": "Internet Dump",
       "url": "https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2023-02-13 19:23:19",
@@ -335,22 +351,6 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -477,6 +477,26 @@
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Nuestra Forma",
+        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
+      },
+      "artists": [
+        {
+          "name": "DJs Pareja",
+          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
+        },
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 347073,
+      "name": "No Puedo Funcionar",
+      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
+    },
+    {
       "added_at": "2023-03-22 17:47:26",
       "album": {
         "name": "Los muertos no lloran",
@@ -523,26 +543,6 @@
       "duration_ms": 415000,
       "name": "Mexico Trance",
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Nuestra Forma",
-        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
-      },
-      "artists": [
-        {
-          "name": "DJs Pareja",
-          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
-        },
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 347073,
-      "name": "No Puedo Funcionar",
-      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Qu\u00e9 Onda",
+        "url": "https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14"
+      },
+      "artists": [
+        {
+          "name": "Disque Dj",
+          "url": "https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis"
+        }
+      ],
+      "duration_ms": 220169,
+      "name": "Qu\u00e9 Onda",
+      "url": "https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Qu\u00e9 Onda",
-        "url": "https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14"
-      },
-      "artists": [
-        {
-          "name": "Disque Dj",
-          "url": "https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis"
-        }
-      ],
-      "duration_ms": 220169,
-      "name": "Qu\u00e9 Onda",
-      "url": "https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "La Nueva Mortalidad (Remaster 2021)",
+        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 351157,
+      "name": "La Nueva Mortalidad",
+      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
@@ -899,34 +915,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "La Nueva Mortalidad (Remaster 2021)",
-        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
+        "name": "Afrotrip",
+        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Frikstailers",
+          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
         }
       ],
-      "duration_ms": 351157,
-      "name": "La Nueva Mortalidad",
-      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
-      },
-      "artists": [
-        {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
-        }
-      ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
+      "duration_ms": 275063,
+      "name": "Afrotrip",
+      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

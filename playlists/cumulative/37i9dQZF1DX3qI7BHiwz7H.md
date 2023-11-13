@@ -4,7 +4,7 @@
 
 > Smooth and relaxing Soul music to tune in to your body.
 
-61 songs - 3 hr 57 min
+62 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Could I Be Falling in Love](https://open.spotify.com/track/0SlBjQHEfRaVhqZ5SB1SRZ) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Diamond in the Rough](https://open.spotify.com/album/0hBlULfjPTKngZsvbe3qpE) | 3:08 | 2023-06-29 |  |
 | [Do You Believe](https://open.spotify.com/track/2DIqPQY9scuv8IeJA1Ouep) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 4:01 | 2023-06-29 |  |
 | [Especially For You](https://open.spotify.com/track/3fYd2ahlXE0oH0ET4z09A1) | [Manchild](https://open.spotify.com/artist/0Z5RTbZrqEseC97b6jFrIG) | [Power And Love](https://open.spotify.com/album/5yuDuOXw7xwRxwOg5IfkK8) | 6:07 | 2023-06-29 | 2023-11-12 |
-| [Especially for You](https://open.spotify.com/track/7APYHWr0XyDa9eG4QXjUQ9) | [Manchild](https://open.spotify.com/artist/0Z5RTbZrqEseC97b6jFrIG) | [The Best of Chi\-Sound Records: 1976\-1984](https://open.spotify.com/album/1xfvmnL7eZa177fSlg38uf) | 6:07 | 2023-08-24 |  |
+| [Especially for You](https://open.spotify.com/track/7APYHWr0XyDa9eG4QXjUQ9) | [Manchild](https://open.spotify.com/artist/0Z5RTbZrqEseC97b6jFrIG) | [The Best of Chi\-Sound Records: 1976\-1984](https://open.spotify.com/album/1xfvmnL7eZa177fSlg38uf) | 6:07 | 2023-08-24 | 2023-11-13 |
+| [Especially for You](https://open.spotify.com/track/15vpJXlWxw3BAVg7pXsSzB) | [Manchild](https://open.spotify.com/artist/0Z5RTbZrqEseC97b6jFrIG) | [Power & Love](https://open.spotify.com/album/3gc7RMzRCJBsUlqizPq4wv) | 6:08 | 2023-08-24 |  |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4BDIh3R6eSK6BqSx8n3Tfc) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Come Into Knowledge](https://open.spotify.com/album/1kOJ865PwHtLwESKnzfB8G) | 3:43 | 2023-06-29 |  |
 | [Groovin' On My Baby's Love](https://open.spotify.com/track/2ptDz5oR8aID5U7NS8Bu8K) | [Freddie Waters](https://open.spotify.com/artist/5KrrggdsyTunYNYIWSvv6g) | [The Complete Stax / Volt Soul Singles, Vol\. 3: 1972\-1975](https://open.spotify.com/album/0qX1tjvl4tyjt4rbLwOtJU) | 2:45 | 2023-06-29 |  |
 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 | 2023-06-29 |  |

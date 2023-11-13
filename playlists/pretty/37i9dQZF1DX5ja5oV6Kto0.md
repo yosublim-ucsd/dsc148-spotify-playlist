@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Shane Eagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,843 likes - 81 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,852 likes - 81 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 80 | [Why Evils](https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Why Evils](https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV) | 4:00 |
 | 81 | [Go \(feat\. DETO BLACK\)](https://open.spotify.com/track/1MqLj8SILJe4lmjP9TG5i2) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Movement](https://open.spotify.com/album/0zCMHfHJO5WP7d6NuJwbeB) | 3:02 |
 
-Snapshot ID: `MCxiYjVkMzY0MzdhZWEyYzlmMzllZTZhMjc1MGQ2MzhhYjlkOTdjZjBi`
+Snapshot ID: `MCwyNDIyZjA4NGIyMjUwNzg1Zjc2Y2QwYmQ5Mzg0NDc2MGUyNWM2YTQz`

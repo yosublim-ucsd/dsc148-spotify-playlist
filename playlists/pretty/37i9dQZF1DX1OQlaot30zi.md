@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Niky Savage, Rondodasosa, Don Pero, Nello Taver e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,141 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,162 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Battle Royale](https://open.spotify.com/track/71DslySNgv6dXKutbPlqsx) | [Faser](https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z) | [Smetto quando voglio](https://open.spotify.com/album/5knZxih0JUHM43QEoOZcF0) | 2:16 |
 | 100 | [Violento](https://open.spotify.com/track/3H7V7JQJGSyRyo98vW0V0d) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [Violento](https://open.spotify.com/album/57OEK02UVUZbhTPCTakzBN) | 2:50 |
 
-Snapshot ID: `MCxhZDU3ZDQzMzc4YzE2ZDYzNjliYjY2MmIxMDhmZDUzYWY5MWM0N2E2`
+Snapshot ID: `MCw4MmU4MmZjY2JiMThjYzM1MmRmZmU1MThkZmI1M2U3YjViNGE0MTFl`

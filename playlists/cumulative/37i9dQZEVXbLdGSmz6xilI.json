@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 149853,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
@@ -4648,6 +4648,24 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
+    },
+    {
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
       "album": {
@@ -13618,7 +13636,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 168599,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/5KfJvZ0PZzRdwFRaTUDAA7"
@@ -16224,6 +16242,24 @@
       "duration_ms": 267692,
       "name": "V\u00ec Em Ch\u01b0a Bao Gi\u1edd Kh\u00f3c",
       "url": "https://open.spotify.com/track/4CKGjLQYTZv9S1eDuUG7DG"
+    },
+    {
+      "album": {
+        "name": "V\u00ec Em T\u1ea5t C\u1ea3",
+        "url": "https://open.spotify.com/album/2YWQexytxcgRIbTYblsScr"
+      },
+      "artists": [
+        {
+          "name": "M\u1ef9 T\u00e2m",
+          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227205,
+      "name": "V\u00ec Em T\u1ea5t C\u1ea3",
+      "url": "https://open.spotify.com/track/7D9tiidrBDQRgCENeIhko0"
     },
     {
       "album": {

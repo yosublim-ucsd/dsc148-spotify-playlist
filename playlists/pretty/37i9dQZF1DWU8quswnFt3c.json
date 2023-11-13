@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Bellakath",
-  "num_followers": 912509,
+  "num_followers": 912474,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJmZjQ4YzYwOGY5NDYzOWU2MzAxODM4ZTliYjU5OTVlOTk5ZTYy",
+  "snapshot_id": "MCw3ZWYwMzlmM2NhZmQ2NzkxODc4YmE3MTQ5MDBmODhiYmI4ZmJiZTUx",
   "tracks": [
     {
       "added_at": "2023-11-08 04:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 221466,
       "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
       "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 213912,
-      "name": "Turbulent Skies",
-      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Internet Love",
         "url": "https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 219082,
       "name": "Internet Love",
       "url": "https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "VAN GOGH",
-        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "VAN GOGH",
-      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 188093,
       "name": "Promets-moi",
       "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "\u5a01\u5ec9",
-        "url": "https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t"
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
       "artists": [
         {
-          "name": "Denise Ho",
-          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
         }
       ],
-      "duration_ms": 305293,
-      "name": "\u5a01\u5ec9",
-      "url": "https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K"
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1155,22 +1155,18 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Wild Girl",
-        "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
+        "name": "Di Arsy-Mu",
+        "url": "https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
         }
       ],
-      "duration_ms": 194088,
-      "name": "Wild Girl",
-      "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
+      "duration_ms": 346267,
+      "name": "Di Arsy-Mu",
+      "url": "https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1195,50 +1191,38 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Di Arsy-Mu",
-        "url": "https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7"
+        "name": "Wild Girl",
+        "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
       "artists": [
         {
-          "name": "Lesti",
-          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 346267,
-      "name": "Di Arsy-Mu",
-      "url": "https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk"
+      "duration_ms": 194088,
+      "name": "Wild Girl",
+      "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
     },
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+        "name": "\u5a01\u5ec9",
+        "url": "https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t"
       },
       "artists": [
         {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
         }
       ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
-        "name": "Nieba nie ma",
-        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
+      "duration_ms": 305293,
+      "name": "\u5a01\u5ec9",
+      "url": "https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 182076,
       "name": "This Is My Time",
       "url": "https://open.spotify.com/track/3bPYk86DnyeFLRJ1GRzKWB"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Nieba nie ma",
+        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
     },
     {
       "added_at": "2023-11-08 04:01:00",

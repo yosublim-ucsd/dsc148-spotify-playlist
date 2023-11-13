@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,723 likes - 157 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,757 likes - 157 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 156 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 157 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 |
 
-Snapshot ID: `MCwxMGUwN2FiNWU4NDIxYzYyNTE5ZmYzNzI0ZGY5MjEzOTVjMjllYWFh`
+Snapshot ID: `MCw5MjM5MjNhYjUxZmU4YzVkZDEyMTczNTIxYzkyNmVmMDk1NmY5NmFj`

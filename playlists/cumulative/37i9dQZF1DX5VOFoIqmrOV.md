@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-223 songs - 14 hr 47 min
+224 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gundellonaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO) | 3:20 | 2023-01-11 | 2023-08-08 |
 | [Guruvaram](https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Kirrak Party](https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p) | 3:36 | 2022-07-24 |  |
 | [Gusa Gusa Lade](https://open.spotify.com/track/1W5Ap5w2SFAKuxebIU2CAN) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5imMm0rlYNFKqLHAzt5gxm) | 3:57 | 2021-12-16 | 2022-07-25 |
-| [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 | 2023-08-07 |  |
+| [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 | 2023-08-07 | 2023-11-13 |
 | [Hey Idi Nenena](https://open.spotify.com/track/10nKbCaaU2OFTywWNvqHkX) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Solo Brathuke So Better \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7awYSEyiYQKxMwz6jBumue) | 4:14 | 2022-07-24 | 2023-08-08 |
 | [Hey Idi Nenena \(From "Solo Brathuke So Better"\)](https://open.spotify.com/track/4GC2IwmYrlC12YfPfHPLQe) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hey Idi Nenena \(From "Solo Brathuke So Better"\)](https://open.spotify.com/album/0UMCfoLfAmiV5jfwIB5Rd2) | 4:14 | 2021-12-16 | 2022-07-25 |
 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri, Sinov Raj](https://open.spotify.com/artist/66y0P2nJxIKqpyHtBLCkbr) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 | 2023-08-07 |  |
@@ -178,6 +178,7 @@
 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 | 2021-12-16 |  |
 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 | 2021-12-16 |  |
 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/5qriE8k5TQuWLXKKnyxjDF) | 2:46 | 2021-12-16 |  |
+| [Pulsar Bike](https://open.spotify.com/track/3abjYvIGlKZGrNaM3Hw0op) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pnE27pVlikgLeu4Lr8B0B) | 2:10 | 2023-02-10 |  |
 | [Pulsar Bike](https://open.spotify.com/track/48CzymfD7NHtc78cwVkbtD) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08qZ0FNkJSDN1Qd5w0pDxG) | 2:10 | 2023-02-10 | 2023-11-04 |
 | [Pulsar Bike](https://open.spotify.com/track/60KvZb0FonIUUC9uYjYFQF) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Qz9VVoDjqs1KwD6mgOFti) | 2:10 | 2023-02-10 | 2023-05-13 |
 | [Raavana](https://open.spotify.com/track/2JnZ5Q6YjESfLil5hg7WUT) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:18 | 2023-08-07 | 2023-10-06 |

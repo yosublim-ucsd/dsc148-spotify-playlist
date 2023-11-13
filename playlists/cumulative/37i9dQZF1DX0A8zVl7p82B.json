@@ -2005,28 +2005,6 @@
     },
     {
       "album": {
-        "name": "Christmas in The City",
-        "url": "https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC"
-      },
-      "artists": [
-        {
-          "name": "Lea Michele",
-          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
-        },
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        }
-      ],
-      "date_added": "2023-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193586,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/3fiUXmUY9DZczfqMwGP3l0"
-    },
-    {
-      "album": {
         "name": "A Pentatonix Christmas",
         "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
       },
@@ -2060,6 +2038,28 @@
       "duration_ms": 207560,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5P5rUzjpgTkZeQbr0CVdsZ"
+    },
+    {
+      "album": {
+        "name": "Christmas in The City",
+        "url": "https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "I'll Be Home for Christmas (feat. Jonathan Groff)",
+      "url": "https://open.spotify.com/track/3fiUXmUY9DZczfqMwGP3l0"
     },
     {
       "album": {

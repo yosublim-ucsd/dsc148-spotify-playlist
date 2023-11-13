@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bRothy(\ub85c\uc2dc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326221,
+  "num_followers": 326276,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTkzY2YxZDIzODllNWZkOTI1MWEzZmMwYjA3NTNjMTYyZGM1YTNm",
+  "snapshot_id": "MCwzYzg5NDczYzBjOWIxOTA1MTU5MDdjYjYxZjZlMDMyY2ZiZDBmZmQ3",
   "tracks": [
     {
       "added_at": "2023-11-10 09:44:47",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Love, Yerin",
-        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Love, Yerin",
+        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Jelly box Flower Way SEJEONG",
-        "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
       },
       "artists": [
         {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 239122,
-      "name": "Flower Way (Prod. By ZICO)",
-      "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+        "name": "Jelly box Flower Way SEJEONG",
+        "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
       },
       "artists": [
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
         }
       ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+      "duration_ms": 239122,
+      "name": "Flower Way (Prod. By ZICO)",
+      "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Such a thing",
-        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Such a thing",
-      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Her Private Life (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 228369,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Such a thing",
+        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Such a thing",
+      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Because I am a woman",
-        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Because I am a woman",
-      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Because I am a woman",
+        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Because I am a woman",
+      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213275,
       "name": "comedy",
       "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 214355,
+      "name": "Time Spent Walking Through Memories (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        },
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 214355,
-      "name": "Time Spent Walking Through Memories (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 272946,
       "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
       "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "Burn Like A Star",
-        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
-      },
-      "artists": [
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        },
-        {
-          "name": "Woo Ye Rin",
-          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Burn Like A Star",
-      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2023-11-10 09:44:47",

@@ -1,12 +1,12 @@
 {
   "description": "New music from Dua Lipa, The Kid LAROI, Jack Harlow, Chris Stapleton, PinkPantheress & Central Cee, Chris Brown and more! ",
-  "num_followers": 4172799,
+  "num_followers": 4173559,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWJjYmEzOGM0ZDdiYzNkM2RmYTVjOWYyNDA3YjZlYTU4YTkxMmZj",
+  "snapshot_id": "MCxmYzk0NGYzOGI5YTVjN2I0YmQ2NzAwZmVjMWZkMjIxYWVjNDRjN2Jk",
   "tracks": [
     {
       "added_at": "2023-11-10 15:09:54",
@@ -547,6 +547,26 @@
       "duration_ms": 182466,
       "name": "Take Her Home",
       "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
+    },
+    {
+      "added_at": "2023-11-10 15:09:54",
+      "album": {
+        "name": "The Night Shift",
+        "url": "https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "duration_ms": 167927,
+      "name": "Love of Money",
+      "url": "https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL"
     },
     {
       "added_at": "2023-11-10 15:09:54",
@@ -1527,8 +1547,8 @@
     {
       "added_at": "2023-11-10 15:09:54",
       "album": {
-        "name": "Big Trouble",
-        "url": "https://open.spotify.com/album/1WG4YHGPu2SjY8fUuC0Em6"
+        "name": "Restless Thoughts",
+        "url": "https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ"
       },
       "artists": [
         {
@@ -1541,8 +1561,8 @@
         }
       ],
       "duration_ms": 230488,
-      "name": "Big Trouble",
-      "url": "https://open.spotify.com/track/1WdfobPIRp2fd958YM50Vl"
+      "name": "Big Trouble (with Tei Shi)",
+      "url": "https://open.spotify.com/track/1WjolfVc13X3MRyV1xH8h3"
     },
     {
       "added_at": "2023-11-10 15:09:54",

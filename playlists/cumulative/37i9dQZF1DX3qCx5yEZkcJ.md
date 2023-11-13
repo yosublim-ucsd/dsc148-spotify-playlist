@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-505 songs - 20 hr 40 min
+506 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Ja\(zz\)mmin](https://open.spotify.com/track/24KCZicSfQoj496yIIyiTr) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Ja\(zz\)mmin](https://open.spotify.com/album/1QfstQ2VOEcmJKSFIl7ImW) | 2:01 | 2021-06-13 | 2022-07-27 |
 | [Jasmine Tea](https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Jasmine Tea](https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq) | 2:06 | 2020-06-29 | 2022-07-27 |
 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 | 2020-06-29 | 2022-11-21 |
-| [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 |  |
+| [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 | 2023-11-13 |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-09-11 | 2022-07-29 |
 | [Jazzy's Joint](https://open.spotify.com/track/3MonuiYoIeN3cYQ5WRuf5V) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [The Magic Carpet](https://open.spotify.com/album/3Czkz1H45XddNudhtf514n) | 2:31 | 2020-07-18 | 2021-10-29 |
 | [jellyfish](https://open.spotify.com/track/4rzhdIO9I6nhGWHwKDtRiZ) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [jellyfish](https://open.spotify.com/album/3VXWeLX3SNXLdAi2DEURpY) | 2:44 | 2023-10-19 |  |
@@ -448,6 +448,7 @@
 | [The Hills](https://open.spotify.com/track/4ty9E5SUZFund6cPRFIq7e) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [The Hills](https://open.spotify.com/album/2gPo6ntKNlU510Y5AIot59) | 2:19 | 2020-03-27 | 2021-10-29 |
 | [THE MACHINE](https://open.spotify.com/track/4edUiv5NAqU6EDAHp7Qta4) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [THE MACHINE](https://open.spotify.com/album/1ujQwmyKZNQejXvJtaL8rE) | 1:48 | 2020-06-19 | 2020-11-06 |
 | [The Night I Drank Too Much](https://open.spotify.com/track/0jVidjRxTXgXUAnnsBKK1s) | [Ai\_No\_Hana](https://open.spotify.com/artist/4heV3hbKWGxsJ0v5Ty8I3Z), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [BamBOOO!](https://open.spotify.com/artist/4W8ztHzpP32Op3SuA2ydpM) | [The Night I Drank Too Much](https://open.spotify.com/album/7JNrsLvONENTUd0pZ4YfIb) | 1:31 | 2020-06-29 | 2022-06-10 |
+| [The Night I Drank Too Much](https://open.spotify.com/track/3gnc0simp5IpXLUKCcEehE) | [Ai\_No\_Hana](https://open.spotify.com/artist/4heV3hbKWGxsJ0v5Ty8I3Z), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [BamBOOO!](https://open.spotify.com/artist/4W8ztHzpP32Op3SuA2ydpM) | [The Night I Drank Too Much](https://open.spotify.com/album/2WtCMLh7hROPFrHHSewWot) | 1:31 | 2023-11-09 |  |
 | [The Sun & the Moon](https://open.spotify.com/track/1oGx7Y8FAbsqVNeQRlW0i2) | [Kreaem](https://open.spotify.com/artist/2YZPTSt35NSvVpG0yqZkOK) | [The Sun & the Moon](https://open.spotify.com/album/1LT9IedizRYJtZaSBdvB6g) | 1:48 | 2019-08-31 | 2022-07-22 |
 | [The World Is Ours](https://open.spotify.com/track/6BGTLwYhPmKJTtpY6xgju2) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic Jazzstrumentals, Vol\. 2](https://open.spotify.com/album/138wdWeWBp6a96pQa01vZJ) | 3:33 | 2019-05-26\* | 2020-01-14 |
 | [Think for Yourself](https://open.spotify.com/track/0J9C432nUkMtgKiHQrVF1L) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Think for Yourself](https://open.spotify.com/album/2cgAsluSyoCwyXlWgIGNOV) | 2:30 | 2020-01-14 | 2022-11-20 |

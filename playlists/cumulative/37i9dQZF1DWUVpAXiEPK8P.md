@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-319 songs - 16 hr 55 min
+320 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Look Alive \(feat\. Drake\)](https://open.spotify.com/album/7GGoJfKFOwDNuiLjjfzyCS) | 3:01 | 2022-04-15 | 2022-04-19 |
 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2022-09-22 |  |
 | [Lottery \(Renegade\)](https://open.spotify.com/track/4dZTZbmJBCCofAExHwefda) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Wayy 2 Kritical](https://open.spotify.com/album/6Z8fenVdNwyQZ9iBFkNyKZ) | 2:50 | 2022-04-15 | 2022-04-16 |
+| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-10 |  |
 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2023-01-27 | 2023-03-16 |
 | [Madness](https://open.spotify.com/track/3PTKYlo1SaBpp5WC9N38jP) | [Milli Major](https://open.spotify.com/artist/3W9YITTXHsmQBGXJqTXLvJ), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Deepee](https://open.spotify.com/artist/3Wm7360Oxqx7Fu4h3LfbHX) | [Madness](https://open.spotify.com/album/2nrlNcLil4q2z2mcbGZAfB) | 3:43 | 2022-04-15 | 2022-04-18 |
 | [Main Road](https://open.spotify.com/track/3167uNHlYILMowcArVoLZ3) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Noughty By Nature \(Extended Edition\)](https://open.spotify.com/album/5huZ6CEe0GgSnwC26yjKZ3) | 3:25 | 2022-04-15 | 2022-06-25 |
@@ -293,7 +294,7 @@
 | [Tuxedo](https://open.spotify.com/track/7imWwrAiyfIgLk9HVYrhLB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Tadoe](https://open.spotify.com/artist/7AO1qih2zQeI7WYTQxC5fQ) | [4NEM](https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV) | 3:34 | 2021-12-20 | 2022-07-27 |
 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 | 2021-12-20 | 2022-07-29 |
 | [U Get Me?](https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 2:45 | 2023-05-26 | 2023-07-21 |
-| [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-05 |  |
+| [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-05 | 2023-11-13 |
 | [UP THE SMOKE \(with Offset\)](https://open.spotify.com/track/09TZsMHXEtQkdmMJZPLKup) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [UP THE SMOKE \(with Offset\)](https://open.spotify.com/album/1ID5rMIT1C61W2OLQ3rctp) | 3:08 | 2022-04-22 | 2022-04-29 |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-08-24 | 2023-11-11 |
 | [VIBEZ](https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:24 | 2021-12-20 | 2022-01-17 |

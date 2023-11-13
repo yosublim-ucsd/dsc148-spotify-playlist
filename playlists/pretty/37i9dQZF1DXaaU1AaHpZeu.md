@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Ivana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,319 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,343 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 21 | [POLIAMOR](https://open.spotify.com/track/5XEJn5e9tSl6QqAA2gelPe) | [Habla de Mí en Presente](https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn), [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [POLIAMOR](https://open.spotify.com/album/6lGE0X93CP1c3RVMTMWr00) | 2:42 |
 | 22 | [Sol y sombra](https://open.spotify.com/track/1qwiKHbQwznnrAJW0GCGQ3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq), [Paula Serrano](https://open.spotify.com/artist/7uhDcBmk7OpS9NbenEo1X7) | [Sol y sombra](https://open.spotify.com/album/2UP0F6jFh4PAOOmL2O0KE1) | 3:00 |
 | 23 | [Las Flores](https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Las Flores](https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu) | 5:55 |
-| 24 | [Chelas en el Cielo](https://open.spotify.com/track/6yHEhJ7hAuyOQOZpVvLn3G) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Chelas en el Cielo](https://open.spotify.com/album/0O90Abv0pjBtXRS4QBK9iY) | 3:12 |
+| 24 | [Chelas En El Cielo](https://open.spotify.com/track/6yHEhJ7hAuyOQOZpVvLn3G) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Chelas En El Cielo](https://open.spotify.com/album/0O90Abv0pjBtXRS4QBK9iY) | 3:12 |
 | 25 | [Desolación](https://open.spotify.com/track/7yTpN2yTC8CMUfhYmdjSdQ) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Desolación](https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M) | 4:31 |
 | 26 | [Dopamine](https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Chae Solé](https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI) | [Dopamine](https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G) | 3:13 |
 | 27 | [No Entiendo Nada](https://open.spotify.com/track/3Mq7IwJ4ZfmFor3omaXSnq) | [Tronco](https://open.spotify.com/artist/15UG6iTPrEmK1Lwm9VmMnB) | [No Entiendo Nada](https://open.spotify.com/album/0xEcJNuavfR4zFnZB7OsOC) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 |
 | 50 | [OK](https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [OK](https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E) | 4:17 |
 
-Snapshot ID: `MCwwMDY5NWZlYzk0MWVmNTgyZmIyZDgwNzZhNDc3NTU3NDA3YzQwMTQw`
+Snapshot ID: `MCxkNzgwOGRjYzU1ZDQ0NTgzNjA5YWZjMTI4M2I4ZDQzNTFhMjgyMDBm`

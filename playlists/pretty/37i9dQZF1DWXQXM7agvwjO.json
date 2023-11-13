@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: I'mdifficult (Taiwan)",
-  "num_followers": 85669,
+  "num_followers": 85724,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzUzZmI5YjBkODZiZjYxZWYwMWNkNGYxZjJkYmRiYTcyMGE3YTA4",
+  "snapshot_id": "MCwwMmE0ODYwMGIxMTdlNTdkNjNiMDc3YmIwYTY2ZmY2NmY2NTZmMjEy",
   "tracks": [
     {
       "added_at": "2023-11-09 18:26:37",
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
     },
     {
-      "added_at": "2023-11-09 18:26:37",
+      "added_at": "2023-11-12 07:17:13",
       "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/4nVkJSfp4i0h5A906jvjb3"
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL"
         }
       ],
-      "duration_ms": 231375,
-      "name": "Weathre",
-      "url": "https://open.spotify.com/track/2g4VC4rAArPvcYRTh7Tkp8"
+      "duration_ms": 202855,
+      "name": "Supra",
+      "url": "https://open.spotify.com/track/0MHXRs859cDbV4zXyu0Ahv"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -593,20 +593,20 @@
       "url": "https://open.spotify.com/track/7lgCnB4iYFAqDTzYfi4zcM"
     },
     {
-      "added_at": "2023-11-09 18:26:37",
+      "added_at": "2023-11-12 07:17:13",
       "album": {
-        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
-        "url": "https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG"
+        "name": "Superior Gengsi",
+        "url": "https://open.spotify.com/album/7ofy7hINy7G3NupEOqVZvB"
       },
       "artists": [
         {
-          "name": "QLER",
-          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+          "name": "Grup Musik Hari Libur",
+          "url": "https://open.spotify.com/artist/0SAtXxDjtnu19AIjpsDeVA"
         }
       ],
-      "duration_ms": 197432,
-      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
-      "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
+      "duration_ms": 211809,
+      "name": "Superior Gengsi",
+      "url": "https://open.spotify.com/track/3x4iI1oSfvNPhPu1y3eSW0"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -665,20 +665,24 @@
       "url": "https://open.spotify.com/track/3g18LxsivreftG2yU39qCg"
     },
     {
-      "added_at": "2023-11-09 18:26:37",
+      "added_at": "2023-11-12 07:17:13",
       "album": {
-        "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
-        "url": "https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL"
+        "name": "One True Thing",
+        "url": "https://open.spotify.com/album/2BP7DTTHDQNbvo4tUUFo0E"
       },
       "artists": [
         {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          "name": "Suar Nasution",
+          "url": "https://open.spotify.com/artist/3H1MQb9p1vkqnFk8DIuZWh"
+        },
+        {
+          "name": "Francesca Vincentie",
+          "url": "https://open.spotify.com/artist/19qlFmNgxpcegr4a066xPJ"
         }
       ],
-      "duration_ms": 283079,
-      "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
-      "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
+      "duration_ms": 290643,
+      "name": "One True Thing",
+      "url": "https://open.spotify.com/track/48vhhTWdLzR7CPdokfg17J"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -711,6 +715,38 @@
       "duration_ms": 167000,
       "name": "chismosa",
       "url": "https://open.spotify.com/track/1c4VEnyKZplsJ5ANtcanTK"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "duration_ms": 197432,
+      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
+        "url": "https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "duration_ms": 283079,
+      "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
+      "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -867,22 +903,6 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
-        "name": "Yume",
-        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
-      },
-      "artists": [
-        {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
-        }
-      ],
-      "duration_ms": 248341,
-      "name": "A Toshi no Aki",
-      "url": "https://open.spotify.com/track/2QmfEczZyFTRhXJ9F81EP2"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -895,6 +915,22 @@
       "duration_ms": 186000,
       "name": "TOGETHER!",
       "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "Yume",
+        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 248341,
+      "name": "A Toshi no Aki",
+      "url": "https://open.spotify.com/track/2QmfEczZyFTRhXJ9F81EP2"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -915,6 +951,22 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
+        "name": "\u0111\u1ec3 qu\u00ean",
+        "url": "https://open.spotify.com/album/7iMtteNjEshW8vTYxD7py2"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "\u0111\u1ec3 qu\u00ean",
+      "url": "https://open.spotify.com/track/4rPrBNnDgdZpS5gosHv0yr"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -931,22 +983,6 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
-        "name": "\u0111\u1ec3 qu\u00ean",
-        "url": "https://open.spotify.com/album/7iMtteNjEshW8vTYxD7py2"
-      },
-      "artists": [
-        {
-          "name": "Ng\u1ecdt",
-          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "\u0111\u1ec3 qu\u00ean",
-      "url": "https://open.spotify.com/track/4rPrBNnDgdZpS5gosHv0yr"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -1143,6 +1179,22 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
+        "name": "Kami Khawatir, Kawan",
+        "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 265316,
+      "name": "Kami Khawatir, Kawan",
+      "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
         "name": "\u74e6\u5408",
         "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
@@ -1183,38 +1235,6 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
-        "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
-        "url": "https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 221688,
-      "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
-      "url": "https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
-        "name": "Kami Khawatir, Kawan",
-        "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 265316,
-      "name": "Kami Khawatir, Kawan",
-      "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
         "name": "Self Soothing",
         "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
       },
@@ -1251,6 +1271,38 @@
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
+        "url": "https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 221688,
+      "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
+      "url": "https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
+      },
+      "artists": [
+        {
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
+        }
+      ],
+      "duration_ms": 142266,
+      "name": "\u4f46",
+      "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -1327,22 +1379,6 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
-      },
-      "artists": [
-        {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
-        }
-      ],
-      "duration_ms": 142266,
-      "name": "\u4f46",
-      "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
         "name": "Joona",
         "url": "https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5"
       },
@@ -1363,6 +1399,42 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 226843,
+      "name": "Around the Corner",
+      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
         "name": "Hey Mom,Did You See Me In The Newspaper?",
         "url": "https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx"
       },
@@ -1379,22 +1451,6 @@
       "duration_ms": 209621,
       "name": "I Feel Something Like That",
       "url": "https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
-      },
-      "artists": [
-        {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
-        }
-      ],
-      "duration_ms": 226843,
-      "name": "Around the Corner",
-      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -1427,26 +1483,6 @@
       "duration_ms": 130666,
       "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
       "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
-        "name": "sharp knife",
-        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "sharp knife",
-      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -1499,22 +1535,6 @@
     {
       "added_at": "2023-11-09 18:26:37",
       "album": {
-        "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
-        "url": "https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 278750,
-      "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
-      "url": "https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
         "name": "22 of Me",
         "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
       },
@@ -1559,6 +1579,22 @@
       "duration_ms": 412000,
       "name": "YANG KAU HINDARI TERJADI",
       "url": "https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB"
+    },
+    {
+      "added_at": "2023-11-09 18:26:37",
+      "album": {
+        "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
+        "url": "https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy"
     },
     {
       "added_at": "2023-11-09 18:26:37",
@@ -1675,38 +1711,6 @@
       "duration_ms": 197173,
       "name": "All My Friends Are Fallin' In Love",
       "url": "https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
-        "name": "trippin",
-        "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "trippin",
-      "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
-    },
-    {
-      "added_at": "2023-11-09 18:26:37",
-      "album": {
-        "name": "venus",
-        "url": "https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 250105,
-      "name": "venus",
-      "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
     }
   ],
   "unique_name": ".ORG",

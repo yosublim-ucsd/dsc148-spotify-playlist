@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,267 likes - 126 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,297 likes - 126 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 125 | [Deep Shelter \(2 Hz Delta Binaural Beat\)](https://open.spotify.com/track/5ce38nO7UuAYX7190FS0WD) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 |
 | 126 | [unendlischer Schlaf Delta Sinus 99Hz \- 100Hz](https://open.spotify.com/track/2Zlcka6ThORqoC4fjJ2d3R) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 4:20 |
 
-Snapshot ID: `MCw3MjU3MDBkNzI4YTk4NTVmZTk0ZWVhYTFkY2MyNmEyNDU4Nzg1Zjk0`
+Snapshot ID: `MCwxZTZmZDFkZmM4ZjU5M2MzNzgzN2RjNGQ0ZThlNmZiYTQ3MWEwODM4`

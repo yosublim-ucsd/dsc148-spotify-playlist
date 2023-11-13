@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: The Ghost Inside
 
-5,042 songs - 14 day 5 hr 58 min
+5,043 songs - 14 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2293,7 +2293,8 @@
 | [Infernal Requiem](https://open.spotify.com/track/2FsQAWJewoJRGJ9M2Ac97Y) | [Draconian Reign](https://open.spotify.com/artist/0SQfK35YYjN6hqkoYvxOkM) | [Infernal Requiem](https://open.spotify.com/album/5E55xNKv2TxDqYUiirjMhN) | 5:24 | 2023-02-24 | 2023-03-04 |
 | [Inferno](https://open.spotify.com/track/2ofsnYQgmKUQTF0EIIUBZZ) | [Born in Blood](https://open.spotify.com/artist/6MOxzW2ovSehiWUcKV4V3F) | [Inferno](https://open.spotify.com/album/1kuUw7BaGtpCZaYL4UrtfM) | 4:14 | 2023-07-28 | 2023-08-05 |
 | [Infiltrators](https://open.spotify.com/track/69ctqwvIYEMpfO92a16GJF) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Infiltrators](https://open.spotify.com/album/5eHIXK0Fth9csO9X10k4j9) | 2:08 | 2022-04-08 | 2022-04-15 |
-| [Infinion](https://open.spotify.com/track/0RbyEHUYWkED0zVUhgbfgH) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Infinion](https://open.spotify.com/album/5u3GK707ndlrypawxYYBhu) | 7:01 | 2023-11-10 |  |
+| [Infinion](https://open.spotify.com/track/0RbyEHUYWkED0zVUhgbfgH) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Infinion](https://open.spotify.com/album/5u3GK707ndlrypawxYYBhu) | 7:01 | 2023-11-10 | 2023-11-13 |
+| [Infinion](https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Convergence](https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl) | 7:01 | 2023-11-10 |  |
 | [Infinite Night Terror](https://open.spotify.com/track/1q3ktDemgD0vPUv4BEPHwJ) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/581ToRMWBjDECfy931Zoip) | 4:00 | 2023-10-06 | 2023-10-14 |
 | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Anderson](https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44) | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6) | 4:41 | 2022-03-18 | 2022-03-25 |
 | [Infinite Terror](https://open.spotify.com/track/799oyNdfrUgicei5MEi1nC) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [Infinite Terror](https://open.spotify.com/album/0Kvi63Kl3xOCCI7NIDJvVy) | 4:22 | 2022-10-21 | 2022-10-29 |

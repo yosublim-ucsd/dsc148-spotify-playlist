@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: BJ The Chicago Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,956 likes - 174 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,076 likes - 174 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 173 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 |
 | 174 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCw3ZjJhYTU5OTIzZGNmNDIyNDYzYWY2NzYwMDJmZWMzYjc4NDUzYjZm`
+Snapshot ID: `MCxmYTk5Zjg3YmU4Mjk3YWNkYTU5NDVlNjQ5NDcxYTM0ODFkNmZmM2Nj`

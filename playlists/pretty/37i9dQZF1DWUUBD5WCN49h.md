@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,956 likes - 79 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,979 likes - 79 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 78 | [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 |
 | 79 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 |
 
-Snapshot ID: `MCwyZDgwOTljYTkxNDdmZDM3NTA1NTE4ZGRjMGM3ZGI4NjIxYjU3ZWQy`
+Snapshot ID: `MCxjMmI2ZjEzNGY0YWY1Mjc2Y2FlZGYzN2EwMjhmODFjOWIyZTAzNmU3`

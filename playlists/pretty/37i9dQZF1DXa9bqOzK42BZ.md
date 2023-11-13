@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=CSlMLdDUSfe4j7XF9eK4Ng">Christina Shusho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,318 likes - 81 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,394 likes - 81 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 80 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 81 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 |
 
-Snapshot ID: `MCxkMTgwOWRmNDY3ZjUzYWQwYzhiMjE0ZjM3YzFhOTE1Zjc0ZWNjZDYx`
+Snapshot ID: `MCw5YTM0OTNmMjQ3NjBiYzFhZjVkZmFjMThkODJhNTFhZjkzMWE5ODgx`

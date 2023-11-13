@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 91574,
+  "num_followers": 91625,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmJlNjk3YjMzNzBlOTBmMGFjMGM0YTcyYTEwYWFlYzgyMTE4YTE3",
+  "snapshot_id": "MCxkMGFkZGE1ZDNhZGMyNjA5NGNhMjExNjdkMzIwNjBmNWQ3MWVjZDUx",
   "tracks": [
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1207,34 +1207,6 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "Suave (feat. VillaBanks)",
-        "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
-      },
-      "artists": [
-        {
-          "name": "Mikush",
-          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Timongothekeys",
-          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
-        },
-        {
-          "name": "Linch",
-          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
-        }
-      ],
-      "duration_ms": 197837,
-      "name": "Suave (feat. VillaBanks)",
-      "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
-    },
-    {
-      "added_at": "2023-11-01 22:01:00",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
       },
@@ -1271,6 +1243,34 @@
       "duration_ms": 143641,
       "name": "DIOSA (feat. Peppe Soks) - Remix",
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
+    },
+    {
+      "added_at": "2023-11-01 22:01:00",
+      "album": {
+        "name": "Suave (feat. VillaBanks)",
+        "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        },
+        {
+          "name": "Linch",
+          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
+        }
+      ],
+      "duration_ms": 197837,
+      "name": "Suave (feat. VillaBanks)",
+      "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
     },
     {
       "added_at": "2023-11-01 22:01:00",
@@ -1631,34 +1631,22 @@
     {
       "added_at": "2023-11-01 22:01:00",
       "album": {
-        "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
-        "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
       },
       "artists": [
         {
-          "name": "SLF",
-          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
         }
       ],
-      "duration_ms": 265637,
-      "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
-      "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
+      "duration_ms": 175281,
+      "name": "Gli Occhi del Blocco (feat. Escomar)",
+      "url": "https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5"
     }
   ],
   "unique_name": "Club Rap ",

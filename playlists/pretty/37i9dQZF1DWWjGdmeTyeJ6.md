@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pink Pablo\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,350 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,380 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 30 | [Make Em Say](https://open.spotify.com/track/5wD5UZVxFxLrFSzUkR1IoW) | [Ally Cocaine](https://open.spotify.com/artist/1LQG6C3S8sdLjL5DQt759V) | [Make Em Say](https://open.spotify.com/album/1xodCstcsyZOs4VwKQr6uC) | 2:23 |
 | 31 | [get it right](https://open.spotify.com/track/5WA5vVYmQAT6vSL6eXtHNp) | [garii](https://open.spotify.com/artist/5IbxdNlYjtiXwSnRRNHUrN) | [get it right](https://open.spotify.com/album/0XOjM0xDFQl99sczeOCDfv) | 3:03 |
 | 32 | [Bomb S\*\*](https://open.spotify.com/track/6saDf1NH6bvWW2Be9cj754) | [dj blackpower](https://open.spotify.com/artist/4zn15dOZZY7N1rC1hCPlEH) | [Dr\. Grabba](https://open.spotify.com/album/41PMpfh8rMpzOvaZrHhCtw) | 2:44 |
-| 33 | [Witching Season](https://open.spotify.com/track/24d8FlU7CWYV94UfDnxVC6) | [Khya](https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr) | [witching season](https://open.spotify.com/album/01MDo6anjKhyKzTSdaoNuh) | 3:05 |
+| 33 | [witching season](https://open.spotify.com/track/24d8FlU7CWYV94UfDnxVC6) | [Khya](https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr) | [witching season](https://open.spotify.com/album/01MDo6anjKhyKzTSdaoNuh) | 3:05 |
 | 34 | [Box the 40](https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Box the 40](https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb) | 1:51 |
 | 35 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 |
 | 36 | [No Longer Mine](https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6FzUPASAASb5r58dnOIdzg) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/2xbgOQbCLuitXr5M5C8mV6) | 2:31 |
 | 100 | [Check Me](https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Check Me](https://open.spotify.com/album/47ykXljyBCF6mgCpSaM5C1) | 1:52 |
 
-Snapshot ID: `MCwwOTlkOGQ1OTczYzUwODQ3ZDY4YTFhMWVlN2QwZjg4ZTFjYjYzY2I5`
+Snapshot ID: `MCxjNTYxMjE0M2VhNzg4NjljZDdiZDA1NDIxYzQyMzhiMTA0YjA2MGVk`

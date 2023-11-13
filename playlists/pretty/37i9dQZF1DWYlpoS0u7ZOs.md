@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,936 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,945 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 |
 | 80 | [Fed Rock](https://open.spotify.com/track/5N9WqVbPaNU6HqS4Z5as5r) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [Fed Rock](https://open.spotify.com/album/2jMOIQCfCluYqndppMEU4Z) | 2:47 |
 
-Snapshot ID: `MCw2MzAxMWJlNDhkZmQzMjFhYTQzNWFiNjA4ZjAzN2I4OWQ3ZWQ2Yjhi`
+Snapshot ID: `MCxhMTEyZDc5YjgwN2NlYWZmYzBhN2Q5NzUwZDY1YzAxYzBiNWE1MmQ4`

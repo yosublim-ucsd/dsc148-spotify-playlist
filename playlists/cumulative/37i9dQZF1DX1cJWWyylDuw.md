@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-500 songs - 1 day 8 hr 27 min
+501 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Dead Pacifist](https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI) | [Exit Wounds](https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB) | 3:11 | 2023-01-20 |  |
 | [Dead Rabbit](https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0) | 3:11 | 2023-02-24 |  |
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-12-16 | 2023-01-19 |
-| [Death Magick](https://open.spotify.com/track/0lWZnBWW0UbN7t2r1b2CXi) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1Tn0srx1e04A3T2TfEJGss) | 7:07 | 2023-08-16 |  |
+| [Death Magick](https://open.spotify.com/track/0lWZnBWW0UbN7t2r1b2CXi) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1Tn0srx1e04A3T2TfEJGss) | 7:07 | 2023-08-16 | 2023-11-13 |
 | [Death March](https://open.spotify.com/track/4v9IrQXFYYbeHGR9EOnnqR) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Death March](https://open.spotify.com/album/5XxLSif8ZxqAcAZIgLfRGm) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Death Perception](https://open.spotify.com/track/2fX47U6zoZscL53OF8AmHL) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Death Perception](https://open.spotify.com/album/1PvmiiUDT5lnYfL1ATCS1Y) | 2:34 | 2021-12-17 | 2022-04-07 |
 | [Death Whistle](https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Death Whistle](https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8) | 5:53 | 2021-12-17 |  |
@@ -204,6 +204,7 @@
 | [Fortress](https://open.spotify.com/track/3qQ9Fiy70mNNngdgTP6Xhw) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Fortress](https://open.spotify.com/album/6sumg54XS5yp7gsFZTXAJP) | 3:23 | 2021-12-17 | 2022-07-29 |
 | [Foundation of Bones](https://open.spotify.com/track/5VI5iRrQfP6gkUeNUN0SLw) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Foundation of Bones](https://open.spotify.com/album/62LietbraYCLnLgpUyiVee) | 3:24 | 2021-12-17 | 2022-07-25 |
 | [FRESH BONES](https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [FRESH BONES](https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW) | 2:28 | 2023-02-24 | 2023-09-01 |
+| [FRESH BONES](https://open.spotify.com/track/1RyFKeilrtVz6fDekeIiMJ) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [Step Into The Light](https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3) | 2:28 | 2023-08-16 |  |
 | [From Nothing](https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [From Nothing](https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz) | 3:51 | 2021-12-17 |  |
 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 | 2021-12-17 |  |
 | [FUCK YOURSELF](https://open.spotify.com/track/5yzD10olIEz7M9vP4pzVh1) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3TPhuvHZwz3F8PG0yTIPHK) | [FUCK YOURSELF](https://open.spotify.com/album/1HPYqNlffOiRBjxG8K4cbC) | 2:26 | 2023-08-16 |  |

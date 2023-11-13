@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Cristina Lizzul
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,863 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,869 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 |
 | 60 | [non siamo crazy in love](https://open.spotify.com/track/6Xv6BTZfLTsOQgkPIIg1Nd) | [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [non siamo crazy in love](https://open.spotify.com/album/4w9xShJXyN7CWh1ShpkUFN) | 2:51 |
 
-Snapshot ID: `MCw0ZGY5NjE1YTI4OGRkNTUyODFmOTkwMTdiOTRmNDQ1NDk0NWYxNWU1`
+Snapshot ID: `MCxiZDQ4N2EyMmVjOWNmOGZkNWQ3MmNmNDRiNTY2M2FhNGFjMjg0MjJl`

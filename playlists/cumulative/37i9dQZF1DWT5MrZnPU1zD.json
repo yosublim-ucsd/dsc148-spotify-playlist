@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "BREATHE.",
+        "url": "https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146229,
+      "name": "BREATHE.",
+      "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
+    },
+    {
+      "album": {
         "name": "Bring Some Mo (feat. NLE Choppa)",
         "url": "https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx"
       },
@@ -8340,7 +8358,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 134522,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7MWv1HHPxLo3OlRX5bRnIt"
@@ -11310,6 +11328,24 @@
       "duration_ms": 136856,
       "name": "Ok Ok Ok",
       "url": "https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v"
+    },
+    {
+      "album": {
+        "name": "CARE PACKAGE",
+        "url": "https://open.spotify.com/album/5SWXYl4C8gX1c561DzntR5"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118698,
+      "name": "OLD TUNES",
+      "url": "https://open.spotify.com/track/0Gym2BGsLU15iFSVhMQ3sD"
     },
     {
       "album": {
@@ -17492,7 +17528,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 176361,
       "name": "WISH I COULD TELL YOU",
       "url": "https://open.spotify.com/track/4VkyknxFWgVYBeoEoUJ3k6"

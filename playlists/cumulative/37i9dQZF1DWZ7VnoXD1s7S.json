@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 301673,
       "name": "Agony - Instrumental",
       "url": "https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj"
@@ -132,6 +132,24 @@
       "duration_ms": 301673,
       "name": "Agony - Instrumental",
       "url": "https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF"
+    },
+    {
+      "album": {
+        "name": "Agony (Instrumental)",
+        "url": "https://open.spotify.com/album/5chMOIdoi8SM5SGTLZCF3Y"
+      },
+      "artists": [
+        {
+          "name": "TheExorcist",
+          "url": "https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301740,
+      "name": "Agony - Instrumental",
+      "url": "https://open.spotify.com/track/0gxzHDIO2IhhgV5j8lfRn2"
     },
     {
       "album": {
@@ -788,6 +806,24 @@
       "duration_ms": 199436,
       "name": "fika",
       "url": "https://open.spotify.com/track/7fiaW56axfs9xVhNcGPzkz"
+    },
+    {
+      "album": {
+        "name": "Isolated",
+        "url": "https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0"
+      },
+      "artists": [
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198391,
+      "name": "Fika",
+      "url": "https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2"
     },
     {
       "album": {
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 199145,
       "name": "Not Allowed - Instrumental",
       "url": "https://open.spotify.com/track/1zy1Goq8ie4MzWk8n6ugSd"

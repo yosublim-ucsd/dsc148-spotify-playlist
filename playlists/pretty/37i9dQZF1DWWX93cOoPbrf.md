@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Los Tucanes de Tijuana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,625 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,772 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
 | 75 | [En Un Carrillo](https://open.spotify.com/track/4HfD168Ihr6eT8tyuhnmhq) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [En Un Carrillo](https://open.spotify.com/album/37rMq9XpQOU7nEt8Ov13Af) | 3:17 |
 
-Snapshot ID: `MCwyY2ZiNzFiMzU0NWMyN2MzNzFlZTUyNWIyY2E2ZGE1MTUzYzQ3OWE5`
+Snapshot ID: `MCxmNDE2YThiOGQ4YTI5ZTkxODkxOTU2MDRjYzMwNTlkNzBiZTJiOWEy`

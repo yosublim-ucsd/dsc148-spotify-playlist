@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-673 songs - 1 day 23 hr 10 min
+674 songs - 1 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 | 2020-10-09 | 2022-02-19 |
 | [Our Roots Run Deep](https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Our Roots Run Deep](https://open.spotify.com/album/7JBdi7uaBTZ0ZiLqALbYBy) | 3:04 | 2023-09-08 | 2023-09-23 |
 | [Overcome](https://open.spotify.com/track/243xdbBRltvPDwDPvXnx3Y) | [Dave Douglas](https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb), [Fay Victor](https://open.spotify.com/artist/1accqTJkw5p0YV3jodn3qr), [Camila Meza](https://open.spotify.com/artist/3Wkf3Zv5wMaIsz2MwkVOKF), [Ryan Keberle](https://open.spotify.com/artist/41GtICbRiJLvQnLQjoB0WD), [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Overcome](https://open.spotify.com/album/0Geab81gp3yDIAKAONV0AF) | 5:09 | 2022-05-13 | 2023-03-04 |
-| [Paris \(feat\. John Splithoff\)](https://open.spotify.com/track/6bPZXzfdop1JtNEtCdNFsH) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 4:17 | 2023-09-29 |  |
+| [Paris \(feat\. John Splithoff\)](https://open.spotify.com/track/5PGJ2T46dReOD6vEgg8ljK) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 4:17 | 2023-09-29 |  |
+| [Paris \(feat\. John Splithoff\)](https://open.spotify.com/track/6bPZXzfdop1JtNEtCdNFsH) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 4:17 | 2023-09-29 | 2023-11-13 |
 | [Passing Through](https://open.spotify.com/track/6n7ooz0vPMRSrxEhmgTkTH) | [Gabe Dixon](https://open.spotify.com/artist/1EwStlJbpwWP3NBYmNzRPP) | [Passing Through](https://open.spotify.com/album/6HmKi49rF4aF4EGY5akc2s) | 3:12 | 2023-07-28 |  |
 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 | 2023-08-18 |  |
 | [Pearls](https://open.spotify.com/track/3Grwg0tWDBZrZdq0Z3bLvH) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp) | [Pearls](https://open.spotify.com/album/7maxD3uVzM5iVSiyC55sar) | 4:44 | 2020-10-09 | 2022-02-19 |

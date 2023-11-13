@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Brandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,484 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,683 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 32 | [christmas lights](https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [christmas lights](https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV) | 4:28 |
 | 33 | [Blue Christmas](https://open.spotify.com/track/7bPW9SCgNTkATn4bogwQyW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Blue Christmas](https://open.spotify.com/album/1wQDiRoDF4Y0SGLHG8BdVi) | 2:08 |
 | 34 | [Wonderful Christmastime](https://open.spotify.com/track/202YroUlfNbHhOs7P2l08Q) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Wonderful Christmastime](https://open.spotify.com/album/4sbND76b3nbPzxbPNBOU6c) | 2:28 |
-| 35 | [Santa Tell Me](https://open.spotify.com/track/0mUa1ez9zQ5b54YWnDVCAp) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Hearts Christmas](https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig) | 3:13 |
+| 35 | [Santa Tell Me](https://open.spotify.com/track/0mUa1ez9zQ5b54YWnDVCAp) | [Ilya Salmanzadeh](https://open.spotify.com/artist/11Pu1mIyPWU9756uLlxBER), [Savan Harish Kotecha](https://open.spotify.com/artist/6Y3e0eHc8vLM8xqcF327WL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Czech Studio Orchestra](https://open.spotify.com/artist/6XBxkEgoCuovPtpGqfxC5a) | [Chloe Hearts Christmas](https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig) | 3:13 |
 | 36 | [Please Santa Please](https://open.spotify.com/track/2eesOzilqjDBePl9nSiUoz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Please Santa Please](https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7) | 3:17 |
 | 37 | [Doesn’t Feel Like Christmas](https://open.spotify.com/track/6d2TejbyIrDbJgfCX3fB0F) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Overallidays](https://open.spotify.com/album/5Uoxiy4iG3izvjTFbD5feC) | 2:04 |
 | 38 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 74 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 75 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCwxMTk2ZDI2Yjg1YzBhMGVmYWE4ZWNhMTZiNzQ2YjE0YzlmNzYwNmQ2`
+Snapshot ID: `MCw1NTM3MjE0YWJkNGE5Zjk2NDkyZDYwZWQ5ZDdmMjE3YjQwODAzNTAy`

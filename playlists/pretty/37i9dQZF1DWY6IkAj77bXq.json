@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 65062,
+  "num_followers": 65098,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZjZjkzODU1MmJkZjNhNmE5YjkyOTQ2ODg1ZmNkZWE1MjQ3MmRm",
+  "snapshot_id": "MCwyNzg2MWQ5M2RiMzNhYTM3ZWUwODRkODgzMzU5ZmQwODk5ODRkNWUw",
   "tracks": [
     {
       "added_at": "2023-10-06 13:11:56",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "From Above",
-        "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
-      },
-      "artists": [
-        {
-          "name": "Vincent La Rossi",
-          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
-        }
-      ],
-      "duration_ms": 206291,
-      "name": "Towards The Light",
-      "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Mind Balance",
         "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 178723,
       "name": "Mind Balance",
       "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "From Above",
+        "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
+      },
+      "artists": [
+        {
+          "name": "Vincent La Rossi",
+          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
+        }
+      ],
+      "duration_ms": 206291,
+      "name": "Towards The Light",
+      "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Reasons For Being",
-        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
-      },
-      "artists": [
-        {
-          "name": "Deep Watch",
-          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
-        }
-      ],
-      "duration_ms": 176390,
-      "name": "Reasons For Being",
-      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Moonchild's First Flight",
         "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 142595,
       "name": "The Sun Will Rise Again",
       "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Reasons For Being",
+        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
+      },
+      "artists": [
+        {
+          "name": "Deep Watch",
+          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
+        }
+      ],
+      "duration_ms": 176390,
+      "name": "Reasons For Being",
+      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Theta Sleep",
         "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
       },
       "artists": [
         {
-          "name": "Xiaoming Chu",
-          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1111,6 +1095,22 @@
       "duration_ms": 165325,
       "name": "Forgettable",
       "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
+      },
+      "artists": [
+        {
+          "name": "Xiaoming Chu",
+          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Wondrous",
-        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
-      },
-      "artists": [
-        {
-          "name": "Theodore Brim",
-          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 224791,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Wondrous",
+        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
+      },
+      "artists": [
+        {
+          "name": "Theodore Brim",
+          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Soothe",
-        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
-      },
-      "artists": [
-        {
-          "name": "Ever So Calm",
-          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Soothe",
-      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 211443,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/74vs037IHVc421BMmB5yqo"
+      },
+      "artists": [
+        {
+          "name": "Ever So Calm",
+          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Mesmerize",
-        "url": "https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL"
-      },
-      "artists": [
-        {
-          "name": "Cloud Babies",
-          "url": "https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Mesmerize",
-      "url": "https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 170958,
       "name": "Tangerine Dreams",
       "url": "https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Mesmerize",
+        "url": "https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL"
+      },
+      "artists": [
+        {
+          "name": "Cloud Babies",
+          "url": "https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Mesmerize",
+      "url": "https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "\u200bGentle Dreams",
-        "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Journeys",
-          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Gentle Dreams",
-      "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Air Castle",
         "url": "https://open.spotify.com/album/4ROOv2nn1kJrgX5mK2c1pJ"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 214054,
       "name": "Air Castle",
       "url": "https://open.spotify.com/track/6cLY5VyDhvPzM8dSKYfsNx"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "\u200bGentle Dreams",
+        "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Journeys",
+          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Gentle Dreams",
+      "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
     },
     {
       "added_at": "2023-10-06 13:11:56",

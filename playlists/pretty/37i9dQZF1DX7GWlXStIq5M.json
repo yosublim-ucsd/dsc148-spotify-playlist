@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: PRISCILLA, Bonde do Tigr\u00e3o",
-  "num_followers": 366622,
+  "num_followers": 366802,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjc0OGE3MjFkM2UyODBjMjM2ZWM1Y2NlM2RjZjE5MWJjZTE5YWM5",
+  "snapshot_id": "MCxmOGNhNmJiNDIzNmE4OGUxNWE0MGFjMDIyYjViMjhjYTAxOWQyYzAx",
   "tracks": [
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
-        "name": "Desculpa por Eu N\u00e3o Te Amar",
-        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 186188,
-      "name": "Desculpa por Eu N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
-    },
-    {
-      "added_at": "2023-11-10 22:40:18",
-      "album": {
         "name": "Bomba",
         "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2023-11-10 22:40:18",
+      "album": {
+        "name": "Desculpa por Eu N\u00e3o Te Amar",
+        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
     },
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru"
-    },
-    {
-      "added_at": "2023-11-10 22:40:18",
-      "album": {
         "name": "cinco anos em cinco minutos",
         "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
       },
@@ -1219,6 +1195,26 @@
       "duration_ms": 143664,
       "name": "cinco anos em cinco minutos",
       "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
+    },
+    {
+      "added_at": "2023-11-10 22:40:18",
+      "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Dejav\u00fa",
+      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
     },
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1243,22 +1239,26 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB"
       },
       "artists": [
         {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 166363,
-      "name": "Dejav\u00fa",
-      "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
+      "duration_ms": 195467,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru"
     },
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
-      },
-      "artists": [
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
-    },
-    {
-      "added_at": "2023-11-10 22:40:18",
-      "album": {
         "name": "Canc\u00fan",
         "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
       },
@@ -1351,6 +1335,38 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+      },
+      "artists": [
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+    },
+    {
+      "added_at": "2023-11-10 22:40:18",
+      "album": {
+        "name": "CASALZ\u00c3O DA PORRA",
+        "url": "https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "CASALZ\u00c3O DA PORRA",
+      "url": "https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj"
+    },
+    {
+      "added_at": "2023-11-10 22:40:18",
+      "album": {
         "name": "Vai Ser Melhor",
         "url": "https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 201428,
       "name": "Vai Ser Melhor",
       "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"
-    },
-    {
-      "added_at": "2023-11-10 22:40:18",
-      "album": {
-        "name": "CASALZ\u00c3O DA PORRA",
-        "url": "https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76"
-      },
-      "artists": [
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 130586,
-      "name": "CASALZ\u00c3O DA PORRA",
-      "url": "https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj"
     },
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
+        "name": "30 Dias",
+        "url": "https://open.spotify.com/album/2enff2BC3Mw10WtoaFjF15"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 128850,
+      "name": "30 Dias",
+      "url": "https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x"
+    },
+    {
+      "added_at": "2023-11-10 22:40:18",
+      "album": {
         "name": "J\u00e1 Vai Tarde",
         "url": "https://open.spotify.com/album/6BRbelLaL5q1t7QMMVrCl7"
       },
@@ -1447,22 +1467,6 @@
       "duration_ms": 182068,
       "name": "J\u00e1 Vai Tarde",
       "url": "https://open.spotify.com/track/05WyRbEEtiaaREAdG6QQmk"
-    },
-    {
-      "added_at": "2023-11-10 22:40:18",
-      "album": {
-        "name": "Venturana",
-        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
-      },
-      "artists": [
-        {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Venturana",
-      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
     },
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1491,38 +1495,18 @@
     {
       "added_at": "2023-11-10 22:40:18",
       "album": {
-        "name": "30 Dias",
-        "url": "https://open.spotify.com/album/2enff2BC3Mw10WtoaFjF15"
+        "name": "Venturana",
+        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
       },
       "artists": [
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
         }
       ],
-      "duration_ms": 128850,
-      "name": "30 Dias",
-      "url": "https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x"
-    },
-    {
-      "added_at": "2023-11-10 22:40:18",
-      "album": {
-        "name": "sinto muito",
-        "url": "https://open.spotify.com/album/5zTaa6tUbzf19VztvJerVq"
-      },
-      "artists": [
-        {
-          "name": "BENJAM\u00cdN",
-          "url": "https://open.spotify.com/artist/3QvQ9sZG5xZHu4foUWiK5P"
-        }
-      ],
-      "duration_ms": 173684,
-      "name": "sinto muito",
-      "url": "https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw"
+      "duration_ms": 180000,
+      "name": "Venturana",
+      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
     },
     {
       "added_at": "2023-11-10 22:40:18",
@@ -1543,6 +1527,22 @@
       "duration_ms": 238308,
       "name": "PROBLEMINHA",
       "url": "https://open.spotify.com/track/1z1iVKLLb1aqhzXKIXr2LZ"
+    },
+    {
+      "added_at": "2023-11-10 22:40:18",
+      "album": {
+        "name": "sinto muito",
+        "url": "https://open.spotify.com/album/5zTaa6tUbzf19VztvJerVq"
+      },
+      "artists": [
+        {
+          "name": "BENJAM\u00cdN",
+          "url": "https://open.spotify.com/artist/3QvQ9sZG5xZHu4foUWiK5P"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "sinto muito",
+      "url": "https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw"
     },
     {
       "added_at": "2023-11-10 22:40:18",

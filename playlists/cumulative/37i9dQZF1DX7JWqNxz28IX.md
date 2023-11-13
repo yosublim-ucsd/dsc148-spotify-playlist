@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-226 songs - 10 hr 13 min
+227 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 | 2022-08-13 |
 | [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 | 2023-11-11 |
 | [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 | 2023-09-08 |
+| [Demonio](https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo) | [Enea](https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj), [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Demonio](https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT) | 2:36 | 2023-11-10 |  |
 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 | 2022-04-21 |  |
 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 | 2022-04-21 |  |
 | [Dimenticami \- Remix](https://open.spotify.com/track/5KUWFx7bTuE4B1WCokemNd) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW), [Akoem](https://open.spotify.com/artist/6FCmBpyDvKvITzmtDPHQbp) | [Ratatah](https://open.spotify.com/album/2BAfdp0QtDADqV1bgupDgK) | 4:03 | 2022-04-21 | 2022-12-15 |
@@ -142,7 +143,7 @@
 | [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 | 2023-07-04 |
-| [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 |  |
+| [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 | 2023-11-13 |
 | [Orgia](https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:06 | 2022-04-21 | 2022-12-09 |
 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 | 2023-02-23 |  |
 | [Pagine](https://open.spotify.com/track/2zc5IR5UZb013SPfZnXezx) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/3klEMkbs4lchGCz3j4LPSB) | 2:24 | 2022-04-21 | 2023-02-25 |

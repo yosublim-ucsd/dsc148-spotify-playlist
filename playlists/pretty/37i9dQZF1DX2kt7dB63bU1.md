@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,025 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,075 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 7 | [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 |
 | 8 | [Tormento](https://open.spotify.com/track/5hUQiYplc53Z5zqW7OMQdn) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Tormento](https://open.spotify.com/album/1i8k3JoTDSJwcwSbmQGmJ0) | 3:51 |
 | 9 | [What Gives You The Right](https://open.spotify.com/track/7weVhPDPHC8H1nOQJMalw9) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Champagne & Declarations](https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7) | 4:42 |
-| 10 | [Paris \(feat\. John Splithoff\)](https://open.spotify.com/track/6bPZXzfdop1JtNEtCdNFsH) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 4:17 |
+| 10 | [Paris \(feat\. John Splithoff\)](https://open.spotify.com/track/5PGJ2T46dReOD6vEgg8ljK) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 4:17 |
 | 11 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 12 | [The Way You Look Tonight](https://open.spotify.com/track/08HK8WXdwI5DF6h8DaB1rB) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Way You Look Tonight](https://open.spotify.com/album/5U4Z63epGFkGDARwGyOR1L) | 3:58 |
 | 13 | [Vulnerable \- Live](https://open.spotify.com/track/7AClBxdiwyv2x6Jg4iM9M0) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Russell Ferrante](https://open.spotify.com/artist/6WNJUszfgnEpiHp1Wh6kgI) | [The Legacy Experience \(Live\)](https://open.spotify.com/album/6HgZrTauLCDoZfAJX4jN3G) | 7:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw5M2MxNDYzOTZlYTVkOTcxM2IwODA5YjIxMDFkMTJhZGM0NGE3NGNk`
+Snapshot ID: `MCw2ODRhOTkzN2UyZDEzNTFlMTVhZTg0ZGE1YzE2Njg0MmRiYTcwYzMz`

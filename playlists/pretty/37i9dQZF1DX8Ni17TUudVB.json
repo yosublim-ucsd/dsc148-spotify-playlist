@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 140538,
+  "num_followers": 140558,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODJhNDZkYzJiMzEwYzZiNWEzMTY0NGNhMmJhNzEyNzNiYTFjM2Y1",
+  "snapshot_id": "MCwyNDJkZjg2Zjg0ZDRmNTgyNmQ3ODNjN2MwMzgwZDc5OTlkOWM0NjEx",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Back to the Oldskool",
-        "url": "https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Back to the Oldskool",
-      "url": "https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 200503,
       "name": "River",
       "url": "https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Back to the Oldskool",
+        "url": "https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Back to the Oldskool",
+      "url": "https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP"
     }
   ],
   "unique_name": "Ejercicio Total",

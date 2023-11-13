@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 31936,
+  "num_followers": 31979,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQwMGE2NWM0NTFiZTQ4Yzc3NjkyMzJhNmYyYThiYjY0NjNjOWE4",
+  "snapshot_id": "MCw3YWMxYzNhM2I4OTU0MTA5Yjc3MDI1NjEyYTg2Mjg1ZTlhMzU0Mzhi",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -439,26 +439,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Rye Lane Vol. 1",
-        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
-      },
-      "artists": [
-        {
-          "name": "Al Dobson Jr.",
-          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
-        },
-        {
-          "name": "Reginald Omas Mamode",
-          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
-        }
-      ],
-      "duration_ms": 132864,
-      "name": "Nankoo on Keys",
-      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "To the Disco '77 (Live Rework)",
         "url": "https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 594714,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Rye Lane Vol. 1",
+        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
+      },
+      "artists": [
+        {
+          "name": "Al Dobson Jr.",
+          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
+        },
+        {
+          "name": "Reginald Omas Mamode",
+          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
+        }
+      ],
+      "duration_ms": 132864,
+      "name": "Nankoo on Keys",
+      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
     },
     {
       "added_at": "2021-10-08 17:36:35",

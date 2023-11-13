@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,278 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,314 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 |
 | 80 | [last dance](https://open.spotify.com/track/2nx1LEedGMXPTuPT1FZ5d8) | [aldo van eyck](https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0) | [dead shot dan](https://open.spotify.com/album/4UNdAiKDgAD5P0RtkRkmB3) | 2:46 |
 
-Snapshot ID: `MCw3NTkwNGViZTdmMjFiNzBhNzNiOGRjNTRmZWZlYTlkYWFiOWM3YTIx`
+Snapshot ID: `MCwwNDdjMWNlNDZhZTgyMDZjNWY0ZTk5NTE5MTg5NDk5ZDQxNzQyOWMy`

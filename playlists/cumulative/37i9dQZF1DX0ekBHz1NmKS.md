@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-862 songs - 1 day 21 hr 32 min
+863 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 | 2023-02-15 |
 | [Be My Guest](https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Be My Guest](https://open.spotify.com/album/7sgzSrEUBDcDX1yzXWxxVW) | 3:03 | 2022-04-01 | 2022-04-24 |
 | [Begrava dig](https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Begrava dig](https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD) | 3:12 | 2023-10-12 |  |
-| [Behöver inte dig](https://open.spotify.com/track/5RSiyTwpksCU6D6l68Nwd8) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Behöver inte dig](https://open.spotify.com/album/0vkWo7jXOSLoYJYePkUpVm) | 2:46 | 2023-10-19 |  |
+| [Behöver inte dig](https://open.spotify.com/track/5RSiyTwpksCU6D6l68Nwd8) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Behöver inte dig](https://open.spotify.com/album/0vkWo7jXOSLoYJYePkUpVm) | 2:46 | 2023-10-19 | 2023-11-13 |
 | [Belly Shots](https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU) | 2:35 | 2023-03-30 | 2023-10-06 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 | 2023-03-18 |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
@@ -703,6 +703,7 @@
 | [sugar](https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [sugar](https://open.spotify.com/album/15RYAPvGvUvil1Vu8sI5Xi) | 3:05 | 2022-06-02 | 2022-07-19 |
 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 | 2021-12-16 | 2022-04-01 |
 | [Summer 16](https://open.spotify.com/track/52SIiW51Nr9JwtM9pJ5Mn3) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Summer 16](https://open.spotify.com/album/4aPNYejXgOmwAstK7XJLRD) | 2:57 | 2023-08-17 |  |
+| [Summer Of 99](https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 3:12 | 2023-11-09 |  |
 | [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 | 2023-08-17 | 2023-11-02 |
 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-14 |  |
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |

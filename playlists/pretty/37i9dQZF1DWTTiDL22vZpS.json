@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 19135,
+  "num_followers": 19158,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTQyZDMzMjU5ZWY3NzczMDIyYTk3YzVkOTAwZmZiM2VhZmIyZmRi",
+  "snapshot_id": "MCw3Zjg3NzQ4NDg4ZjUyNTMyMmQxNDQ5NTA5YTFhOGZjNjU2OWZmNWM2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
       "artists": [
         {
           "name": "Noah Pino Palo",
           "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
       },
       "artists": [
         {
           "name": "Noah Pino Palo",
           "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "M\u00fasica Moderna",
-        "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
       },
       "artists": [
         {
-          "name": "Orquesta Discotheque",
-          "url": "https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC"
-        },
-        {
-          "name": "Beto Montes",
-          "url": "https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC"
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
         }
       ],
-      "duration_ms": 237262,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+        "name": "M\u00fasica Moderna",
+        "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
       "artists": [
         {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+          "name": "Orquesta Discotheque",
+          "url": "https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC"
+        },
+        {
+          "name": "Beto Montes",
+          "url": "https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC"
         }
       ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+      "duration_ms": 237262,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 211281,
-      "name": "Gobi\u00e9rname",
-      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 192973,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 211281,
+      "name": "Gobi\u00e9rname",
+      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 235000,
       "name": "Mi Necedad",
       "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Latin Boogie",
+        "url": "https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 205823,
+      "name": "Latin Boogie",
+      "url": "https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Latin Boogie",
-        "url": "https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 205823,
-      "name": "Latin Boogie",
-      "url": "https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn"
     },
     {
       "added_at": "2023-10-27 04:00:00",

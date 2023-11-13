@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,898 likes - 54 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,038 likes - 54 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 29 | [Wager](https://open.spotify.com/track/4vGlXDGGfsh6XOxqftnsyi) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Wager](https://open.spotify.com/album/3Un8tx8l6BlGBZe98mn8E9) | 3:27 |
 | 30 | [You and Me](https://open.spotify.com/track/7jQoEdqjyNVvXKksj3415I) | [Ektomorf](https://open.spotify.com/artist/7lyUcNJUvtC0K7ufpLMvpg) | [You and Me](https://open.spotify.com/album/3qW5oxeQJTI2Y1pNqCV247) | 2:48 |
 | 31 | [Force\-Fed](https://open.spotify.com/track/4KsvHa2Tr4mOYlnxFcQubp) | [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK) | [Force\-Fed](https://open.spotify.com/album/19NMbDDHWIRc7ekDxHzZQx) | 5:50 |
-| 32 | [Infinion](https://open.spotify.com/track/0RbyEHUYWkED0zVUhgbfgH) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Infinion](https://open.spotify.com/album/5u3GK707ndlrypawxYYBhu) | 7:01 |
+| 32 | [Infinion](https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Convergence](https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl) | 7:01 |
 | 33 | [Whirlwind Of Doom](https://open.spotify.com/track/7DilaCy6vR23mxxUfKeaQb) | [Emil Bulls](https://open.spotify.com/artist/1scIUjz7Jbq1mOph50OLQO) | [Whirlwind Of Doom](https://open.spotify.com/album/4ULUL8usZLIRHHgsZwj0ap) | 3:45 |
 | 34 | [Mann gegen Wand](https://open.spotify.com/track/2EkBifzeNWLwocCDLrZAiP) | [KORA WINTER](https://open.spotify.com/artist/3yrMI0nTunPO2waZSzP1wj), [Alex Kerski](https://open.spotify.com/artist/1OPfYAqH4WmCVQ4l428QSM), [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n), [Gerrit Engel](https://open.spotify.com/artist/7lq1Y7QaBbGO3fOtRSG6IE) | [Mann gegen Wand](https://open.spotify.com/album/7K83CXrAbxgKYRLWTqw023) | 3:33 |
 | 35 | [Burning Pieces](https://open.spotify.com/track/1fXYGB4EmgcDFJLKv5II74) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Burning Pieces](https://open.spotify.com/album/2n4LpGoWRPCzk37gCY2F48) | 3:34 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 |
 | 54 | [Calypso](https://open.spotify.com/track/2LpK1i7Qf6MwSUoZRA5zom) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [Calypso](https://open.spotify.com/album/5HHRRqyzFIdQC0rmF4geKC) | 4:04 |
 
-Snapshot ID: `MCw5MjEzMDQyZTlkODJmYmU0NWM1ZDJmNjI3OTk2NWYwYzE0MDI0ZTI2`
+Snapshot ID: `MCxkNzE2YmU4ZTYwNDYwOGEzYzA2Mzk0NjhlYWVlZWQ2YmYwYTM5NWY5`

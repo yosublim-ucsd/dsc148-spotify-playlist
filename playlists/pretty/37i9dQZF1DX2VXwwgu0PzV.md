@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo?si=G\_Y9UuwqRja0ww7w89FAug">Eugy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,455 likes - 120 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,852 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 119 | [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 |
 | 120 | [What He Says](https://open.spotify.com/track/6K5t19OfWRrRTsvBk5u8Od) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [What He Says](https://open.spotify.com/album/1jJ1jrDmtORosDh9Uc3XY9) | 2:11 |
 
-Snapshot ID: `MCwyZjBlNzg0YWM3YzA3NThjZjQ3MzA5MmMyNDdkYWIxMDUyNTYyZTc3`
+Snapshot ID: `MCw0OTUyMThjYjNkN2JmMTE0ZmZkYzZiMTZiMWZjZDU5NzFjZDEwZWE4`

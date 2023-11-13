@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 204098,
+  "num_followers": 204157,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmFmZTM4NmNlNjBkZWEzMmYzZWE2YTBiNTcxZjhlOThlMGYyNWM0",
+  "snapshot_id": "MCxkODVkZjFkOGEzNGEyMzMwZmY5MmE2YTdmM2EyOTU1YWJmMWViNDM1",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Pasion",
-        "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
-      },
-      "artists": [
-        {
-          "name": "Elsa Garcia",
-          "url": "https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Esto Es Lo Nuestro - 20 Exitos",
         "url": "https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 222306,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Pasion",
+        "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
+      },
+      "artists": [
+        {
+          "name": "Elsa Garcia",
+          "url": "https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Si No Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 194021,
-      "name": "Si No Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 249866,
       "name": "No Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Si No Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 194021,
+      "name": "Si No Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
     },
     {
       "added_at": "2023-03-10 18:44:18",

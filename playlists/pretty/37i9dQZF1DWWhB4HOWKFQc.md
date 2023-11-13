@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,825 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,982 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 75 | [Will U?](https://open.spotify.com/track/37NHeXSJ86rPJoseHnR91V) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Will U?](https://open.spotify.com/album/7yW3BRzqcGO0yvSeKA6876) | 3:26 |
 
-Snapshot ID: `MCxmNTVmZDgyMjgxYTgzNzUzNThjN2Q2OWI4ZmViMTU4YmRkNWRiMjMx`
+Snapshot ID: `MCw3NDIwNGFkYTMwYTcyY2M0NTgzNmNiMGIwNDM1MzA2MmMyOWVmNDBj`

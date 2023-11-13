@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,891 likes - 103 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,900 likes - 103 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [REVENGE](https://open.spotify.com/track/0R4r4I1toXjohYKZLcIQEL) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [REVENGE](https://open.spotify.com/album/42hlt0eaqW9269f8jqqa20) | 3:25 |
-| 2 | [GENZAI](https://open.spotify.com/track/2k9OjSoNMIcUjO3PUE5YZj) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [GENZAI](https://open.spotify.com/album/1xMfZDikITDqLuyLPxSlNd) | 1:55 |
+| 2 | [GENZAI](https://open.spotify.com/track/2k9OjSoNMIcUjO3PUE5YZj) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [GENZAI](https://open.spotify.com/album/1xMfZDikITDqLuyLPxSlNd) | 1:53 |
 | 3 | [RAPSTAR CYPHER](https://open.spotify.com/track/2uYBPbkYO86kVPtdUGqqn8) | [Neettokyo](https://open.spotify.com/artist/5oHZh96okQVzY07iEpOy3D), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Seann Bowe](https://open.spotify.com/artist/4hgt99SPkxLoBYMVHs88uz), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [RAPSTAR CYPHER](https://open.spotify.com/album/5uQsj9njGvtkg5gneND0fs) | 3:59 |
 | 4 | [Higher \- Remix](https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [Higher \(Remix\)](https://open.spotify.com/album/6egmg7oo4uDNKDYDUXSkR2) | 3:56 |
 | 5 | ["23freestyle"](https://open.spotify.com/track/5INsevpkX2eEBTe6Wsz8ZZ) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | ["23freestyle"](https://open.spotify.com/album/41lrer5TP42nzqlxLdju8a) | 2:08 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 102 | [HARINONAI TOKEI](https://open.spotify.com/track/6WBrpaNr21TgWDSKf0KwZ0) | [mindboi](https://open.spotify.com/artist/1TU0H6JeRyFmIl9uHdjws1) | [LIVING HOUSE](https://open.spotify.com/album/2NAWm5R3sWFl7a91rR8yRy) | 3:42 |
 | 103 | [Madoguchi](https://open.spotify.com/track/7niuHNCb7ObPcE9lP63bAV) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [6th Anniversery Best Mixtape](https://open.spotify.com/album/16AybzZDQLpAwJUy4KrmXu) | 2:57 |
 
-Snapshot ID: `MCxhMjQzMDQ0OTQ3ODMyNWMxMGMwNzExZWY4MTY5ZGVmOWFiYjZkYjcw`
+Snapshot ID: `MCxkMjk5ZTZhYzhhYWFlNDg0MTA5ZTIyMWNiYzk3OTk0YTg0NjNmMjVj`

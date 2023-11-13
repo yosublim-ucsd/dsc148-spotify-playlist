@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Dua Lipa, Keys N Krates & Ciara, Chris Stapleton, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,027 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,095 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 57 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 |
 | 58 | [That's How We Ballin](https://open.spotify.com/track/5sdR0TcYhm3u8yf0jFYuOb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [That's How We Ballin](https://open.spotify.com/album/3y1PAIiDfFHmt4KooBsZ4j) | 3:21 |
 | 59 | [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 |
-| 60 | [Dance Floor](https://open.spotify.com/track/1VVZnehBdIRMyiGlQMeYRJ) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [Dance Floor](https://open.spotify.com/album/7JjNSDeQnodNGFSIHAjnVO) | 2:27 |
+| 60 | [Dance Floor](https://open.spotify.com/track/1VVZnehBdIRMyiGlQMeYRJ) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [Dance Floor](https://open.spotify.com/album/7JjNSDeQnodNGFSIHAjnVO) | 2:27 |
 | 61 | [Sur la glace](https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Années Sauvages Part\. 2](https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH) | 3:10 |
 | 62 | [Welcome Home](https://open.spotify.com/track/64R2aCBNLzePcc7JvqfYbK) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [Welcome Home](https://open.spotify.com/album/4XhYDLWOgBJWjWJKHnuvqt) | 3:03 |
 | 63 | [Chosen One](https://open.spotify.com/track/2Q5FoIA0q59nRE9Ojn2LuK) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [After The Storm](https://open.spotify.com/album/5VoaHLD4AVVu2JN5Tkb2NO) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Rover](https://open.spotify.com/track/1YP0n7aiiVMLcfabNU81Pc) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Rover](https://open.spotify.com/album/18rfNijDjPfVOeqSo9t212) | 3:39 |
 | 100 | [forever](https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [forever](https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye) | 4:00 |
 
-Snapshot ID: `MCxjYzU3ZDBmYzE3ZjM2OTQzNzI4YjI2ZTI3NzViMWM2Zjc2ZGZlYTg2`
+Snapshot ID: `MCwyOGUwY2Y3ZTIzMDQ5MWQ0ZWNlMmRhMjk1M2RjNWI3MTk1MTI0NmY3`

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,198 songs - 9 day 18 hr 52 min
+6,199 songs - 9 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,6 +1220,7 @@
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 | 2022-07-22 |
 | [Crescent](https://open.spotify.com/track/7oBjP02qAHgXYvFCVH9VIs) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Murmurs](https://open.spotify.com/album/2FfHrppZXayvIrqaYeTtbI) | 2:23 | 2022-05-27 | 2022-09-16 |
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-11-05 | 2022-06-03 |
+| [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-10 |  |
 | [Crispy Clouds](https://open.spotify.com/track/4aocuOYi95rQqZNIZt5qtK) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Crispy Clouds](https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR) | 2:00 | 2022-07-29 | 2022-11-11 |
 | [Croaky](https://open.spotify.com/track/3QDkNXAurjaxSkbCVZ9pmf) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Tape Beats 1](https://open.spotify.com/album/3zChkhJVAtkkzBuH6vrZbR) | 1:59 | 2022-09-30 | 2023-01-13 |
 | [Crocus](https://open.spotify.com/track/4VTVOg3QC2zXH0ZddrRyHB) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Crocus](https://open.spotify.com/album/2aZnr2oUWrSsrPTDTIwMdT) | 1:31 | 2023-04-20 | 2023-09-30 |
@@ -6111,7 +6112,7 @@
 | [Worlds Apart](https://open.spotify.com/track/2ofFpAIOVlr0xIYzntxSMJ) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Smile](https://open.spotify.com/album/1lBJll6oj2KKlaQXoEXlDk) | 1:28 | 2022-07-15 | 2022-10-28 |
 | [Worldwide](https://open.spotify.com/track/0tpa74i9fm1nfAzmrgLV9I) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/5vxdMgLMuOXcyY4KXysHez) | 3:43 | 2022-07-22 | 2022-07-29 |
 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-07-29 | 2022-11-11 |
-| [written dreams](https://open.spotify.com/track/0PSCHXOvG9FIYowQ9i2HFD) | [raw.beatart](https://open.spotify.com/artist/2hfn9fj9Ux60ewlKXyQrDA) | [written dreams](https://open.spotify.com/album/1wmKogTo6vc63B2vo4Lwcd) | 2:03 | 2022-11-18 |  |
+| [written dreams](https://open.spotify.com/track/0PSCHXOvG9FIYowQ9i2HFD) | [raw.beatart](https://open.spotify.com/artist/2hfn9fj9Ux60ewlKXyQrDA) | [written dreams](https://open.spotify.com/album/1wmKogTo6vc63B2vo4Lwcd) | 2:03 | 2022-11-18 | 2023-11-13 |
 | [written dreams](https://open.spotify.com/track/1xwQ1ZUPFyuPOyBTar6Znr) | [raw.beatart](https://open.spotify.com/artist/2hfn9fj9Ux60ewlKXyQrDA) | [written dreams](https://open.spotify.com/album/4UuiJndirP6cEE9jp2RaR1) | 2:03 | 2022-10-07 | 2022-11-24 |
 | [written for you](https://open.spotify.com/track/3Wuyp3U5WhAoUrK07YhWyE) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [written for you](https://open.spotify.com/album/0Fx4PimV6xoaZYf3gVCAnM) | 2:28 | 2023-03-30 | 2023-09-29 |
 | [Wumbo](https://open.spotify.com/track/6W3XJGH5WXGoFubLBr0Mf0) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Otxhello](https://open.spotify.com/artist/4S3cwLP8haGAdlqyza3GZ3), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [Wumbo](https://open.spotify.com/album/6mgjSdg42XiX8Fr2uAaHVz) | 2:01 | 2019-09-08 | 2021-05-20 |

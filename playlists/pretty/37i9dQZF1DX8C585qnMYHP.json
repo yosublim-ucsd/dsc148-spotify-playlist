@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Marta Del Grandi on cover. Updates every Wednesday.",
-  "num_followers": 121418,
+  "num_followers": 121568,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmIzZTExYmIxYzI2MDQyNGVkMjYwZjAzOTgyZDJkOWRkZjVlOTJi",
+  "snapshot_id": "MCw5YmFiN2U5ZDdkYTBlOTdkYjk3ZWI1Y2YxMDk5NDgyZmUzYWNkZjli",
   "tracks": [
     {
       "added_at": "2023-10-25 14:01:56",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "Islands, Pt. 3",
-        "url": "https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 301445,
-      "name": "Hounds",
-      "url": "https://open.spotify.com/track/0wdxA7IX2xfcOMyF47WXFm"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Couversets",
@@ -663,6 +647,22 @@
       "duration_ms": 211459,
       "name": "Wake In Might",
       "url": "https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "Islands, Pt. 3",
+        "url": "https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 301445,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/0wdxA7IX2xfcOMyF47WXFm"
     },
     {
       "added_at": "2023-10-11 18:36:09",
@@ -745,36 +745,20 @@
       "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "Compa\u00f1era de la pena",
-        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
+        "name": "OH YA MA HA (Music From Airports) ICN-HAN-LPQ",
+        "url": "https://open.spotify.com/album/5sAKqIzPYQHmTPkMQNE0TI"
       },
       "artists": [
         {
-          "name": "REHHLL",
-          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
         }
       ],
-      "duration_ms": 207021,
-      "name": "Compa\u00f1era de la pena",
-      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "k00ky",
-        "url": "https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5"
-      },
-      "artists": [
-        {
-          "name": "wh0wh0",
-          "url": "https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "k00ky",
-      "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
+      "duration_ms": 75125,
+      "name": "The Welcome",
+      "url": "https://open.spotify.com/track/6avHgNCLusYdAqRomrH0p9"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -793,20 +777,36 @@
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
     },
     {
-      "added_at": "2023-10-18 18:20:20",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "OH YA MA HA (Music From Airports) ICN-HAN-LPQ",
-        "url": "https://open.spotify.com/album/5sAKqIzPYQHmTPkMQNE0TI"
+        "name": "k00ky",
+        "url": "https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5"
       },
       "artists": [
         {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+          "name": "wh0wh0",
+          "url": "https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw"
         }
       ],
-      "duration_ms": 75125,
-      "name": "The Welcome",
-      "url": "https://open.spotify.com/track/6avHgNCLusYdAqRomrH0p9"
+      "duration_ms": 179760,
+      "name": "k00ky",
+      "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "Compa\u00f1era de la pena",
+        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
+      },
+      "artists": [
+        {
+          "name": "REHHLL",
+          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
+        }
+      ],
+      "duration_ms": 207021,
+      "name": "Compa\u00f1era de la pena",
+      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-04 14:25:37",
       "album": {
+        "name": "Synth Spirit",
+        "url": "https://open.spotify.com/album/4IP9MB3gCJKcrtayUfrECI"
+      },
+      "artists": [
+        {
+          "name": "AshRamus",
+          "url": "https://open.spotify.com/artist/3o6p4MvUQmLHmxtjDGvzST"
+        }
+      ],
+      "duration_ms": 171962,
+      "name": "Synth Spirit",
+      "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
         "name": "The Year of Pornography",
         "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
       },
@@ -909,20 +925,20 @@
       "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "Synth Spirit",
-        "url": "https://open.spotify.com/album/4IP9MB3gCJKcrtayUfrECI"
+        "name": "Blue Angel Sparkling Silver",
+        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
       },
       "artists": [
         {
-          "name": "AshRamus",
-          "url": "https://open.spotify.com/artist/3o6p4MvUQmLHmxtjDGvzST"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 171962,
-      "name": "Synth Spirit",
-      "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
+      "duration_ms": 70616,
+      "name": "Somerville",
+      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -941,20 +957,20 @@
       "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Blue Angel Sparkling Silver",
-        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
+        "name": "Trementina",
+        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
       },
       "artists": [
         {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+          "name": "Torso Corso",
+          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
         }
       ],
-      "duration_ms": 70616,
-      "name": "Somerville",
-      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
+      "duration_ms": 127652,
+      "name": "Trementina",
+      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -975,22 +991,6 @@
       "duration_ms": 343666,
       "name": "Cascara",
       "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "Trementina",
-        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
-      },
-      "artists": [
-        {
-          "name": "Torso Corso",
-          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
-        }
-      ],
-      "duration_ms": 127652,
-      "name": "Trementina",
-      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "The Infinite Hour",
-        "url": "https://open.spotify.com/album/7uNdcqyAS2lganZAE5FkTc"
-      },
-      "artists": [
-        {
-          "name": "Furtherset",
-          "url": "https://open.spotify.com/artist/0FVPfTfv7z6ZQUZwyOD2EV"
-        }
-      ],
-      "duration_ms": 385016,
-      "name": "Infinity of Stasis",
-      "url": "https://open.spotify.com/track/4cIeV58evWPE5jInvjirNK"
-    },
-    {
       "added_at": "2023-11-08 01:45:00",
       "album": {
         "name": "Vibra\u00e7\u00f5es de Prata",
@@ -1055,6 +1039,22 @@
       "duration_ms": 128750,
       "name": "Assim",
       "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "The Infinite Hour",
+        "url": "https://open.spotify.com/album/7uNdcqyAS2lganZAE5FkTc"
+      },
+      "artists": [
+        {
+          "name": "Furtherset",
+          "url": "https://open.spotify.com/artist/0FVPfTfv7z6ZQUZwyOD2EV"
+        }
+      ],
+      "duration_ms": 385016,
+      "name": "Infinity of Stasis",
+      "url": "https://open.spotify.com/track/4cIeV58evWPE5jInvjirNK"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1145,20 +1145,20 @@
       "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Boundless",
-        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
+        "name": "Mezz'Aller",
+        "url": "https://open.spotify.com/album/41DJZPj8K5fIE7oM7iJ0JD"
       },
       "artists": [
         {
-          "name": "David's Lyre",
-          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
+          "name": "Malad\u00e9",
+          "url": "https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl"
         }
       ],
-      "duration_ms": 155903,
-      "name": "Boundless",
-      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
+      "duration_ms": 178000,
+      "name": "Contrabbando",
+      "url": "https://open.spotify.com/track/08pJydMv87jAQmuy2PGqK6"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1175,22 +1175,6 @@
       "duration_ms": 380695,
       "name": "Summer Session #3",
       "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "DESOLATION",
-        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
-      },
-      "artists": [
-        {
-          "name": "REBEL YELL",
-          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
-        }
-      ],
-      "duration_ms": 212465,
-      "name": "The Hell We Chose",
-      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1213,36 +1197,36 @@
       "url": "https://open.spotify.com/track/58jFqGaWoYufUkm8ZKlH05"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "Mezz'Aller",
-        "url": "https://open.spotify.com/album/41DJZPj8K5fIE7oM7iJ0JD"
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
       },
       "artists": [
         {
-          "name": "Malad\u00e9",
-          "url": "https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl"
+          "name": "David's Lyre",
+          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Contrabbando",
-      "url": "https://open.spotify.com/track/08pJydMv87jAQmuy2PGqK6"
+      "duration_ms": 155903,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
-        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
+        "name": "DESOLATION",
+        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
       },
       "artists": [
         {
-          "name": "Markus Floats",
-          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
+          "name": "REBEL YELL",
+          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
         }
       ],
-      "duration_ms": 263999,
-      "name": "C (Featuring the Voice of Fred Moten)",
-      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
+      "duration_ms": 212465,
+      "name": "The Hell We Chose",
+      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1259,6 +1243,22 @@
       "duration_ms": 288000,
       "name": "POOLS",
       "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
+        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
+      },
+      "artists": [
+        {
+          "name": "Markus Floats",
+          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
+        }
+      ],
+      "duration_ms": 263999,
+      "name": "C (Featuring the Voice of Fred Moten)",
+      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "\u0425\u043e\u0447\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e",
-        "url": "https://open.spotify.com/album/0XBBSuKcTuoHw0t63PqvJk"
-      },
-      "artists": [
-        {
-          "name": "\u0422\u043b\u0430\u043c",
-          "url": "https://open.spotify.com/artist/7a170v5bOCKGY5tAZm41MQ"
-        }
-      ],
-      "duration_ms": 297527,
-      "name": "\u041f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e / \u041f-\u041f",
-      "url": "https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D"
-    },
-    {
       "added_at": "2023-10-11 18:36:09",
       "album": {
         "name": "Cremated Pets",
@@ -1351,6 +1335,22 @@
       "duration_ms": 174849,
       "name": "Cremated Pets",
       "url": "https://open.spotify.com/track/7x5J1gHY3meL2fU1qwEHd2"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "\u0425\u043e\u0447\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e",
+        "url": "https://open.spotify.com/album/0XBBSuKcTuoHw0t63PqvJk"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u043b\u0430\u043c",
+          "url": "https://open.spotify.com/artist/7a170v5bOCKGY5tAZm41MQ"
+        }
+      ],
+      "duration_ms": 297527,
+      "name": "\u041f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e / \u041f-\u041f",
+      "url": "https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "FUTURA 2000",
+        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
+      },
+      "artists": [
+        {
+          "name": "San Leo",
+          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
+        }
+      ],
+      "duration_ms": 704253,
+      "name": "FUTURA 2000",
+      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "If Yer Dreamin",
@@ -1527,22 +1543,6 @@
       "duration_ms": 734064,
       "name": "W1 Sprokla",
       "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "FUTURA 2000",
-        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
-      },
-      "artists": [
-        {
-          "name": "San Leo",
-          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
-        }
-      ],
-      "duration_ms": 704253,
-      "name": "FUTURA 2000",
-      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
     },
     {
       "added_at": "2023-10-04 14:25:37",

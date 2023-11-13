@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "We Need Medicine",
+        "url": "https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW"
+    },
+    {
+      "album": {
         "name": "Hit to Death in the Future Head",
         "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
       },
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 162127,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"

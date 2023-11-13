@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2047709,
+  "num_followers": 2047717,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQyMDMsNmY1YjUwMjA3OTc2M2I2N2Y1OTM5YzExY2MzZDg4N2Y2NjBhZWIxNQ==",
+  "snapshot_id": "MTQyMDUsZDdmZTI1MDE2YTA2OTA0ZGVlZWIwZTZmYzYwNjI3NmIyYjEyNjE2YQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/7FQeN14zKwfp2E37BLRQLU"
     },
     {
+      "added_at": "2023-11-09 07:46:59",
+      "album": {
+        "name": "Love Game (Slowed)",
+        "url": "https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "duration_ms": 157211,
+      "name": "Love Game - Slowed",
+      "url": "https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Earth Magic",
@@ -1003,22 +1019,6 @@
       "duration_ms": 215142,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/6vHikEvSLPzUffLz5HzpTm"
-    },
-    {
-      "added_at": "2023-11-09 07:46:59",
-      "album": {
-        "name": "Love Game (Slowed)",
-        "url": "https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4"
-      },
-      "artists": [
-        {
-          "name": "Bread Beatz",
-          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
-        }
-      ],
-      "duration_ms": 157211,
-      "name": "Love Game - Slowed",
-      "url": "https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -2676,7 +2676,7 @@
           "url": "https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH"
         }
       ],
-      "duration_ms": 127941,
+      "duration_ms": 127598,
       "name": "stay the night pluggnb",
       "url": "https://open.spotify.com/track/0MpbU5LCgRgyeqQei3B6zp"
     },
@@ -2692,7 +2692,7 @@
           "url": "https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe"
         }
       ],
-      "duration_ms": 132739,
+      "duration_ms": 133664,
       "name": "renai circulation pluggnb (\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/0SZenVPubqt5p0Q1z7rAr7"
     },

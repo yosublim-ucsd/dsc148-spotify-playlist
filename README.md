@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7033\)
+## Playlists \(7036\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2003,6 +2003,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Folk Favourites](/playlists/pretty/37i9dQZF1DX2PfO7FL9zWG.md)
 - [Folk Feast](/playlists/pretty/37i9dQZF1DXdaMkR2m2cl5.md)
 - [Folk Frights](/playlists/pretty/37i9dQZF1DX9oMffF6CrwU.md)
+- [Folk Itinerante](/playlists/pretty/37i9dQZF1DX5Ha7zJp2sn2.md)
 - [Folk Live](/playlists/pretty/37i9dQZF1DX8abjAjObQD4.md)
 - [Folk Misfits](/playlists/pretty/37i9dQZF1DX6lKwK3dS8IE.md)
 - [Folk Pop](/playlists/pretty/37i9dQZF1DWXJyjYpHunCf.md)
@@ -2955,6 +2956,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [La Frecuencia](/playlists/pretty/37i9dQZF1DX5fklOIFLGHF.md)
 - [La Hit Liste](/playlists/pretty/37i9dQZF1DX7LjobXS2hzX.md)
 - [La Lista Pop](/playlists/pretty/37i9dQZF1DWSpF87bP6JSF.md)
+- [La Llorería](/playlists/pretty/37i9dQZF1DWYPwPMCzMU9f.md)
 - [La Mamalona](/playlists/pretty/37i9dQZF1DX3dLAxDk6oKP.md)
 - [La Mamalona Romántica](/playlists/pretty/37i9dQZF1DXdsE9t090bJT.md)
 - [La Marisquería con Ozz](/playlists/pretty/37i9dQZF1DWSujWHEEwoTJ.md)
@@ -4455,6 +4457,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sahara](/playlists/pretty/37i9dQZF1DWWuJFsTMqHYX.md)
 - [Salam](/playlists/pretty/37i9dQZF1DX38snDqzaVVW.md)
 - [Salsa Boricua](/playlists/pretty/37i9dQZF1DXcZzONSkfC3K.md)
+- [Salsa Brava](/playlists/pretty/37i9dQZF1DWWNXZO9xCM0N.md)
 - [Salsa Classics](/playlists/pretty/37i9dQZF1DX7SeoIaFyTmA.md)
 - [Salsa Colombiana](/playlists/pretty/37i9dQZF1DX18u16ebmQgx.md)
 - [Salsa Cubana](/playlists/pretty/37i9dQZF1DWVSSKiqqNKSC.md)

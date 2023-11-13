@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 434082,
+  "num_followers": 434154,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDgwZmVkY2E0NWJmNGY5NjhiNjNmODMxYzc2OTUxNzNjMDA3YmZj",
+  "snapshot_id": "MCw1YTBmOGY3ZjI0N2RkMTU0ZDQ3YWY4NGUzNGZmYjg4NzU5MTg0NmVm",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "e se for pra ser sincera:",
         "url": "https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 194583,
       "name": "e se for pra ser sincera:",
       "url": "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Vem Meu Amor",
+        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 155738,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Vida Curta",
         "url": "https://open.spotify.com/album/5uKHEa7EJCRBhkZETteLO3"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 155414,
       "name": "Vida Curta",
       "url": "https://open.spotify.com/track/128NdmHTmnaIDlqlbOq95l"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Vem Meu Amor",
-        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 155738,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -535,38 +535,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 2",
-        "url": "https://open.spotify.com/album/5U1XbsQaSTr84Tyy1R36GV"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Mal Te Conhe\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Jd7K1nYzdycz1DuY9RH1m"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Quem \u00c9 Ela?",
-        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 158464,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Quem \u00c9 Ela?",
+        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 158464,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 2",
+        "url": "https://open.spotify.com/album/5U1XbsQaSTr84Tyy1R36GV"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Mal Te Conhe\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Jd7K1nYzdycz1DuY9RH1m"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 3",
-        "url": "https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Meu Quesito \u00e9 Saber Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "M\u00faltipla",
         "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 161540,
       "name": "Nem Eu Me Entendo",
       "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 3",
+        "url": "https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Meu Quesito \u00e9 Saber Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Me Leve",
-        "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 225833,
-      "name": "Me Leve",
-      "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 156000,
       "name": "Desconectar",
       "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Me Leve",
+        "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 225833,
+      "name": "Me Leve",
+      "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "At\u00e9 Envelhecer",
         "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 177500,
       "name": "At\u00e9 Envelhecer",
       "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Flor Amarela",
-        "url": "https://open.spotify.com/album/50zdS8nWJJD0ebwieCj75H"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 168608,
-      "name": "Flor Amarela",
-      "url": "https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "que se fosse",
         "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 139666,
       "name": "que se fosse",
       "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Flor Amarela",
+        "url": "https://open.spotify.com/album/50zdS8nWJJD0ebwieCj75H"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "duration_ms": 168608,
+      "name": "Flor Amarela",
+      "url": "https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Lugares",
-        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ana Rosa",
-      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -1247,6 +1227,26 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 154603,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
+      },
+      "artists": [
+        {
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 200393,
       "name": "Me Arrependo",
       "url": "https://open.spotify.com/track/2AY8ZWochVcpJ4smrjXeGQ"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Ideias Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
-      },
-      "artists": [
-        {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Curto Circuito",
+        "url": "https://open.spotify.com/album/0SQUnsHd7sJpXtNVnGVthT"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Curto Circuito",
+      "url": "https://open.spotify.com/track/2JGqsJfRy8n0NgDJBwbGxd"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 197560,
       "name": "Tenta",
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Curto Circuito",
-        "url": "https://open.spotify.com/album/0SQUnsHd7sJpXtNVnGVthT"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Curto Circuito",
-      "url": "https://open.spotify.com/track/2JGqsJfRy8n0NgDJBwbGxd"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Novela Favorita",
         "url": "https://open.spotify.com/album/3r39DApTPOHHPxG3CwaFBk"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 144663,
       "name": "Novela Favorita",
       "url": "https://open.spotify.com/track/3AUhe6kIitZF2hrxZ32CKp"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2023-11-10 03:00:00",

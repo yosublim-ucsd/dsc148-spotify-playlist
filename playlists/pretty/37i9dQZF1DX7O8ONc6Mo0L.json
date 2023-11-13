@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: AM\u00c9M",
-  "num_followers": 278131,
+  "num_followers": 278293,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDY1ZjMzZmIzNmJmMWY2MzkzYWJmNTc3NmUwZjJkZWFkYTdlYWQ1",
+  "snapshot_id": "MCxjOWNjZTM3NjJiNGI1MjMyOTU4YzY1NWFhNDRmYmExNjAxNWNlOTZm",
   "tracks": [
     {
       "added_at": "2023-11-03 04:24:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
-    },
-    {
-      "added_at": "2023-11-03 04:24:32",
-      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -955,22 +939,34 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
-        "name": "Quanto Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL"
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
       },
       "artists": [
         {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Quanto Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT"
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
+    },
+    {
+      "added_at": "2023-11-03 04:24:32",
+      "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374143,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY"
     },
     {
       "added_at": "2023-11-03 04:24:32",
@@ -991,6 +987,26 @@
       "duration_ms": 260579,
       "name": "Sala De Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
+    },
+    {
+      "added_at": "2023-11-03 04:24:32",
+      "album": {
+        "name": "Quanto Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Quanto Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT"
     },
     {
       "added_at": "2023-11-03 04:24:32",
@@ -1027,22 +1043,6 @@
       "duration_ms": 296000,
       "name": "Primeira Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
-    },
-    {
-      "added_at": "2023-11-03 04:24:32",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374143,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY"
     },
     {
       "added_at": "2023-11-03 04:24:32",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
+        "name": "Nada vai me separar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "duration_ms": 278125,
+      "name": "Nada vai me separar (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD"
+    },
+    {
+      "added_at": "2023-11-03 04:24:32",
+      "album": {
         "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 278500,
       "name": "Formoso \u00c9s - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
-    },
-    {
-      "added_at": "2023-11-03 04:24:32",
-      "album": {
-        "name": "Nada vai me separar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw"
-      },
-      "artists": [
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        }
-      ],
-      "duration_ms": 278125,
-      "name": "Nada vai me separar (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD"
     },
     {
       "added_at": "2023-11-03 04:24:32",

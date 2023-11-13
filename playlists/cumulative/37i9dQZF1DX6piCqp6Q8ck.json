@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 174090,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
@@ -2414,6 +2414,24 @@
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
+    },
+    {
+      "album": {
+        "name": "When We Kissed Under The Mistletoe",
+        "url": "https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144248,
+      "name": "When We Kissed Under The Mistletoe",
+      "url": "https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-871 songs - 2 day 1 hr 46 min
+873 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [hubble](https://open.spotify.com/track/5uWfOaIdE46AFbS5DEjgPo) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg), [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [hubble](https://open.spotify.com/album/3AhCTrJKiuphbfVwdUZoBi) | 2:35 | 2022-06-13 | 2022-07-27 |
 | [I love](https://open.spotify.com/track/07VP4xggoHfRA8SlBzCVdf) | [リリぴ](https://open.spotify.com/artist/7mk9NIekDtJcmkHuW0YGeF) | [I love](https://open.spotify.com/album/4uphoezlkDioeHAEw5DICI) | 2:23 | 2022-09-14 | 2022-09-21 |
 | [I no rockstar](https://open.spotify.com/track/2j1fgBrVvypLpIOdwxzJnF) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B), [夢ノ結唱 ROSE](https://open.spotify.com/artist/1fkyVWtgEKb9epNQUD6UQ9) | [I no rockstar](https://open.spotify.com/album/7vQs1DuIeiwlwAfwVS0XTL) | 3:52 | 2023-06-08 | 2023-06-28 |
-| [I'm your hero](https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [I'm your hero](https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG) | 4:19 | 2023-10-17 |  |
+| [I'm your hero](https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [I'm your hero](https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG) | 4:19 | 2023-10-17 | 2023-11-13 |
 | [ia](https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/3hfq2hcMkXGUl6tewG5yQT) | 4:14 | 2022-07-28 | 2022-08-17 |
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-14 |
@@ -232,6 +232,7 @@
 | [RAWEVIL](https://open.spotify.com/track/6WkD6ZUX0UhmJYe7BzwHbQ) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [RAWEVIL](https://open.spotify.com/album/1StMZAxXqVAPaAUNN72j4s) | 2:25 | 2023-02-28 | 2023-03-08 |
 | [re:GENERATE](https://open.spotify.com/track/2XpeTIdekDLKmj5Ewmr1h0) | [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [re:GENERATE](https://open.spotify.com/album/2bNyilnde8t7oCDLVXFW28) | 2:45 | 2022-07-12 | 2022-07-15 |
 | [Re:銃の部品](https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Re:銃の部品](https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN) | 2:41 | 2022-06-30 | 2022-07-03 |
+| [Reason for existence \(Acoustic ver.\)](https://open.spotify.com/track/0I4vcFpiiUQRqhyYUqlKcO) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Reason for existence \(Acoustic ver.\)](https://open.spotify.com/album/0bHlAZ78hbAVqPNQci3KMi) | 4:00 | 2023-11-12 |  |
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 | 2023-06-09 |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-17 |  |
 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 | 2023-04-25 | 2023-05-16 |
@@ -271,6 +272,7 @@
 | [Spica](https://open.spotify.com/track/3cwEY2BH2SALUHFeHLW4VM) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Spica](https://open.spotify.com/album/6skxVBdc3IvchpbUBZVZGC) | 2:45 | 2023-06-08 | 2023-08-25 |
 | [STARLIGHT](https://open.spotify.com/track/0It8D8AkMinflbj6R60RKQ) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/3V2uBiNgiyz29NKV4pYjOC) | 3:01 | 2023-02-11 | 2023-03-08 |
 | [STARLIGHT](https://open.spotify.com/track/0NmKCLR2aGNk1eAtNmPxmT) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [STARLIGHT](https://open.spotify.com/album/2ghGwpzmyJ03sYKNul4zK2) | 3:01 | 2023-02-10 | 2023-02-11 |
+| [Storyteller](https://open.spotify.com/track/0UIuUzxbCTgtZWuoGNvj8E) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [MAHOUWOKIKUHITO](https://open.spotify.com/album/3KKZLnZko1skljax0XDFVT) | 3:32 | 2023-11-12 |  |
 | [Stupid Fellows](https://open.spotify.com/track/1NXUWmialdPsB4VGTnlJo8) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [Parade](https://open.spotify.com/album/4xZGmvQe1rpqM9cCK5AJPm) | 3:19 | 2022-09-06 | 2022-09-15 |
 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-06-09 | 2022-06-22 |
 | [Surges](https://open.spotify.com/track/5XhxMq0dQNenKr6eDU79Ka) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/72RDPs84Uf87a92q7GzhmT) | 2:00 | 2022-06-09 | 2022-07-29 |
@@ -847,7 +849,7 @@
 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 | 2022-06-09 | 2022-08-18 |
 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 | 2022-06-16 | 2022-07-26 |
 | [邂逅の旋律](https://open.spotify.com/track/4RhyQSx3ycRR9uEqJn12qP) | [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [邂逅の旋律](https://open.spotify.com/album/0ZdQdBArVPJl0Y3OzKuaKh) | 3:13 | 2022-10-04 | 2022-10-19 |
-| [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 | 2023-04-04 |  |
+| [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 | 2023-04-04 | 2023-11-13 |
 | [酔いどれ知らず](https://open.spotify.com/track/1ED6MZZkTum3aGIrZMB3VF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [酔いどれ知らず](https://open.spotify.com/album/1F9ZzB58lOLwnXUsajOhyC) | 2:13 | 2023-03-02 | 2023-11-08 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 |  |
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-06-30 | 2023-04-05 |

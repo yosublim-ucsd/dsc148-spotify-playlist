@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,852 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,904 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 60 | [Estoy Ahí](https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz) | [Mystérika](https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC) | [El Comienzo](https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN) | 3:56 |
 | 61 | [México Mágico](https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:38 |
 | 62 | [Miércoles Azul](https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Monno Briceno](https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys) | [Miércoles Azul](https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI) | 2:47 |
-| 63 | [Devagar](https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw) | [Beagle Bonnie](https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3), [DJ Noé](https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3) | [Sample Saga: Brazil](https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe) | 1:57 |
+| 63 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
 | 64 | [Cempasuchil](https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 2:29 |
 | 65 | [Cholomuco](https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Día Más Largo](https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj) | 2:26 |
-| 66 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
-| 67 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
+| 66 | [Devagar](https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw) | [Beagle Bonnie](https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3), [DJ Noé](https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3) | [Sample Saga: Brazil](https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe) | 1:57 |
+| 67 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
 | 68 | [Monstera](https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Acrylic Label](https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F) | [Monstera](https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5) | 2:24 |
 | 69 | [Frío](https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Frío](https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I) | 2:14 |
 | 70 | [Metro Mexico](https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Metro Mexico](https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO) | 2:00 |
 | 71 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 |
 | 72 | [soltarte \(instrumental\)](https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT) | [soltarte \(instrumental\)](https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9) | 2:56 |
-| 73 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |
-| 74 | [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 |
+| 73 | [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 |
+| 74 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |
 | 75 | [Anoche](https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 1:48 |
 | 76 | [Ipanema Sunset](https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK) | [Praia Sur](https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf), [LaidSisters](https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj), [Müx](https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo) | [Ipanema Sunset](https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7) | 2:02 |
 | 77 | [Diamond Sparkle](https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Beautiful Lights](https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR) | 2:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [Shemomedjamo](https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [100% Barztep](https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91) | 3:30 |
 | 80 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
 
-Snapshot ID: `MCwxOTRlNzNjNzg5ZDQ4OTdkYjNjNGFkMzIxMjZjZmE5ZWZhZjM4OTY1`
+Snapshot ID: `MCxkM2IyOTFlNDcxZjVhNGE5OTU0ZjA5M2E4Yzg2N2M3NTBkNTk2ZmI3`

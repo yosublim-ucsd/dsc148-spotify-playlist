@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-435 songs - 1 day 3 hr 32 min
+436 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [More](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K) | [More](https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm) | 3:36 | 2022-11-24 |  |
 | [Move Your Feet](https://open.spotify.com/track/670lqX7FWkegmFz41iUrVY) | [DESTABILIZED](https://open.spotify.com/artist/4nu031RbrdRCeIMN9o6PTP) | [Move Your Feet](https://open.spotify.com/album/2eG5jBTdn3Q5I8ffJNb5Sv) | 3:22 | 2021-09-01 |  |
 | [Moving On](https://open.spotify.com/track/08hmD5K4SCKOZKzNMSvqIB) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Moving On](https://open.spotify.com/album/1rwzdecdBVEQmsc6u5s6Zi) | 3:22 | 2021-09-01 |  |
-| [Mulher Homem Bicho](https://open.spotify.com/track/1BLUmN1eOFMd1ctFUOgg2L) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Mulher Homem Bicho](https://open.spotify.com/album/2XRcrwYRazEGQDbN2WftYw) | 4:46 | 2022-11-24 |  |
+| [Mulher Homem Bicho](https://open.spotify.com/track/1BLUmN1eOFMd1ctFUOgg2L) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Mulher Homem Bicho](https://open.spotify.com/album/2XRcrwYRazEGQDbN2WftYw) | 4:46 | 2022-11-24 | 2023-11-13 |
+| [Mulher Homem Bicho](https://open.spotify.com/track/1wr0uRurcTSeBXIfyrTVKC) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Mulher Homem Bicho](https://open.spotify.com/album/4nO1QwPT0A7V1M1Nbvw7vY) | 4:46 | 2022-11-24 |  |
 | [My Baby’s Just A Baby \(But I Love Him So\)](https://open.spotify.com/track/0nzLks1wp99JsNQmAymJOU) | [Knickers](https://open.spotify.com/artist/1e0R1XCtA9o9yI9aSyo9OK) | [My Baby’s Just A Baby](https://open.spotify.com/album/2yFwEtjcLmgtgHa1s09n63) | 2:39 | 2021-09-01 |  |
 | [My Friends Are Brutal](https://open.spotify.com/track/7n9U3jZRz4w817V3rMD1VE) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G) | [My Friends Are Brutal](https://open.spotify.com/album/0LUlHlrt1RCGcfa3xO9GzW) | 3:15 | 2022-11-24 |  |
 | [Mystère \(Misterio\)](https://open.spotify.com/track/4v2xnfC879xqiptgMadrlw) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Mystère \(Misterio\)](https://open.spotify.com/album/7Hxwx2frOeDcqnlOPSYaOL) | 3:02 | 2022-11-24 |  |

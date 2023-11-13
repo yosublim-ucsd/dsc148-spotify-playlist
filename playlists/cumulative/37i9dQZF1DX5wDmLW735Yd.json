@@ -6322,10 +6322,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-13",
       "duration_ms": 147149,
       "name": "Need Ya (I Don't Wanna)",
       "url": "https://open.spotify.com/track/7cMflfzVzohQPfkzZoMwfD"
+    },
+    {
+      "album": {
+        "name": "Need Ya (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/6iJ7QbAp735rqQpi46VxMQ"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147149,
+      "name": "Need Ya (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/7wc0wpRkVCVtF84g4YbCpH"
     },
     {
       "album": {

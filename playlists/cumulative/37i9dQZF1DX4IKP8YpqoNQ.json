@@ -288,7 +288,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244973,
-      "name": "Apple Tree",
+      "name": "Apple Tree - Live",
       "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
@@ -420,6 +420,24 @@
     {
       "album": {
         "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388293,
+      "name": "Boogie Nights / All Night - Live",
+      "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
+    },
+    {
+      "album": {
+        "name": "Live",
         "url": "https://open.spotify.com/album/07fMvvGwPrV4IuXvopTHTE"
       },
       "artists": [
@@ -434,24 +452,6 @@
       "duration_ms": 388293,
       "name": "Boogie Nights / All Night - Live Version",
       "url": "https://open.spotify.com/track/5Tcz6jTjeAHKWZqmkp52f2"
-    },
-    {
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "date_added": "2022-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 388293,
-      "name": "Boogie Nights / All Night - Live Version",
-      "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
     },
     {
       "album": {

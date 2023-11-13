@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Ragpickers
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,503 likes - 106 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,506 likes - 106 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 105 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 |
 | 106 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
 
-Snapshot ID: `MCw2MGU0OGU3MzAwN2MwMWM2MDNlNGE0MjFhZWU4ZWRlYmRlOTI3ODlj`
+Snapshot ID: `MCwzMGE3NWNlZTc1ODY0NzNlNzJlMjJlNzA0ZTk0NmJhYzQxYTUzZDEy`
