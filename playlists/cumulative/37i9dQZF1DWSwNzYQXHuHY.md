@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-185 songs - 10 hr 26 min
+186 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 | 2022-06-18 | 2023-07-08 |
 | [Again & Again \(Feat\. KOYO\)](https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5) | [Leo](https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf), [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Again & Again](https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r) | 2:52 | 2023-01-13 | 2023-02-15 |
 | [algorithm \(prod\. edenbyeden\)](https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ) | [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [algorithm](https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6) | 2:09 | 2022-06-13 | 2022-10-05 |
+| [and you \(Feat\. ZICO\)](https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [and you](https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3) | 3:24 | 2023-11-13 |  |
 | [At the Cinema](https://open.spotify.com/track/1fVdYz0JuL3p2petdaDGkP) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 3:50 | 2022-05-11 | 2022-07-22 |
 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 | 2023-07-07 |  |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-10-05 |  |
@@ -76,7 +77,7 @@
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-11-22 |  |
 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-12 | 2023-01-17 |
 | [I pray](https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Romance is a Bonus Book OST Part.4](https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU) | 3:47 | 2022-05-11 | 2022-07-18 |
-| [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 | 2022-07-08 |  |
+| [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 | 2022-07-08 | 2023-11-14 |
 | [I Study You 너를 공부해](https://open.spotify.com/track/6mVPTNUcuAay1HvkvEBtaP) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You 너를 공부해](https://open.spotify.com/album/1D776fV2xvMvigizWDnrqA) | 3:37 | 2022-05-11 | 2022-07-29 |
 | [I think I'm in love](https://open.spotify.com/track/395vU3XBsgKd5iRXT9x94P) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [I think I'm in love](https://open.spotify.com/album/2SGP45XuLo4r2bnRyaPzpV) | 3:16 | 2022-05-11 | 2022-07-24 |
 | [I Wish](https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Ex](https://open.spotify.com/album/7LitfehzSpzc7YnYB4IzFx) | 3:18 | 2022-05-11 | 2022-07-23 |

@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 313281,
       "name": "Love Me True",
       "url": "https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD"
@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "\u5411\u6d77\u800c\u751f",
+        "url": "https://open.spotify.com/album/54O2EBGNazC121OHw4iQeB"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u695a\u751f",
+          "url": "https://open.spotify.com/artist/0IMkw0VaxHpS2AV23qlO9v"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252823,
+      "name": "\u5411\u6d77\u800c\u751f",
+      "url": "https://open.spotify.com/track/1lchFWRwWzvJvfgLhrio9F"
+    },
+    {
+      "album": {
         "name": "\u552f\u4e00",
         "url": "https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC"
       },
@@ -2982,6 +3000,24 @@
       "duration_ms": 258088,
       "name": "\u5e74\u9752\u6709\u70ba",
       "url": "https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF"
+    },
+    {
+      "album": {
+        "name": "\u5e78\u798f\u8fd8\u597d (Chinese)",
+        "url": "https://open.spotify.com/album/2IlyPTydzgAZa5YEfGA7EX"
+      },
+      "artists": [
+        {
+          "name": "Soo Wincci",
+          "url": "https://open.spotify.com/artist/4e4wVXnFUIJ5EbcW9GtL2n"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278921,
+      "name": "\u5e78\u798f\u8fd8\u597d - Chinese",
+      "url": "https://open.spotify.com/track/5c3dkrfYLdmTIY3ZQxVYbO"
     },
     {
       "album": {
@@ -4400,7 +4436,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 297023,
       "name": "\u6700\u60b2\u50b7\u7684\u4e8b - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248 \u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240"

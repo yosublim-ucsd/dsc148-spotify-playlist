@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 54651,
+  "num_followers": 54759,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGJlMmIzMDgzM2ZlMjBkZWExZGMwMmIzMTAzMGY0NTllOTliMTk3",
+  "snapshot_id": "MCw2M2I1M2UwYzFjMGYxYThiOWNjMjk4YWE4ZTYzZmRkOWIzODI4ZTI4",
   "tracks": [
     {
       "added_at": "2023-10-26 20:40:56",
@@ -116,26 +116,6 @@
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 158450,
-      "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
-      "url": "https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "Home Alone (On the Night Before Christmas)",
-        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
-      },
-      "artists": [
-        {
           "name": "Angemi",
           "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
         },
@@ -151,6 +131,26 @@
       "duration_ms": 153023,
       "name": "Rudolph the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/21LeppXMaq97x4IBvoIhzA"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
+        "name": "Home Alone (On the Night Before Christmas)",
+        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 158450,
+      "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
+      "url": "https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -235,34 +235,6 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Jeremy Oceans",
-          "url": "https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf"
-        }
-      ],
-      "duration_ms": 207469,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
         "name": "It's Christmas Time (with Michael Bolton)",
         "url": "https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C"
       },
@@ -303,6 +275,34 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Jeremy Oceans",
+          "url": "https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf"
+        }
+      ],
+      "duration_ms": 207469,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
         "name": "Kaskade Christmas Deluxe",
         "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
       },
@@ -323,6 +323,30 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
+        "name": "All I Want for Christmas",
+        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "JeLa",
+          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "All I Want for Christmas",
+      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -335,26 +359,6 @@
       "duration_ms": 165959,
       "name": "Jingle Bells - Bass",
       "url": "https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "All I Want for Christmas is You",
-      "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -395,30 +399,6 @@
       "duration_ms": 216986,
       "name": "Turn Up Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "All I Want for Christmas",
-        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        },
-        {
-          "name": "JeLa",
-          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "All I Want for Christmas",
-      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -483,6 +463,26 @@
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
+        "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 188264,
+      "name": "All I Want for Christmas is You",
+      "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "2020 Christmas",
-        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
-      },
-      "artists": [
-        {
-          "name": "Dominique",
-          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "2020 Christmas",
-      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
         "name": "Happy Holidees",
         "url": "https://open.spotify.com/album/12ayOyjiubYv6Ak89nLSIh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 112500,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6FFXHjCbfW4R34jhdHK3mB"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
+        "name": "2020 Christmas",
+        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
+      },
+      "artists": [
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "2020 Christmas",
+      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -731,22 +731,18 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "Wonderful Time",
-        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"
       },
       "artists": [
         {
-          "name": "NOVA WAV",
-          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
         }
       ],
-      "duration_ms": 161157,
-      "name": "Wonderful Time",
-      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
+      "duration_ms": 167619,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP"
     }
   ],
   "unique_name": "Electronic Christmas",

@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Feuille",
+        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "Feuille",
+      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
+    },
+    {
+      "album": {
         "name": "Fields Of Love",
         "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
       },
@@ -6312,6 +6330,24 @@
       "duration_ms": 133624,
       "name": "The Changing Seasons",
       "url": "https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM"
+    },
+    {
+      "album": {
+        "name": "The Conversation",
+        "url": "https://open.spotify.com/album/6ydnZGAPtxZ2h4bk1OAhIy"
+      },
+      "artists": [
+        {
+          "name": "Dirk van Arnhem",
+          "url": "https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "The Conversation",
+      "url": "https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jérôme 50
 
-2,170 songs - 4 day 19 hr 54 min
+2,171 songs - 4 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -926,6 +926,7 @@
 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 | 2022-11-11 | 2022-12-03 |
 | [Je reviens toujours](https://open.spotify.com/track/1fNP6YTCFfMLGOzfxHJhxa) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Je reviens toujours](https://open.spotify.com/album/4F8BwMQASr9yLnnAgfsqWW) | 3:01 | 2022-10-28 | 2022-11-12 |
 | [Je serai toujours là](https://open.spotify.com/track/1uhnM9omqtr37wtq5mPxCg) | [Clode Adam](https://open.spotify.com/artist/3yfd4RPOgMAc8VKoWEaosv) | [Je serai toujours là](https://open.spotify.com/album/3WgI7EeLbKn1Kp2vmns5eW) | 3:01 | 2021-12-31 | 2022-01-15 |
+| [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 | 2023-11-10 |  |
 | [Je suis mort](https://open.spotify.com/track/4jS1LvwdmkesHAHcngSJ5U) | [Julien Déry](https://open.spotify.com/artist/5xY3F2KO2APNeX8uT1dpOt) | [Je suis mort](https://open.spotify.com/album/25fEmH3BdpdIJOkctniunZ) | 3:35 | 2022-02-04 | 2022-02-12 |
 | [Je suis ton animal](https://open.spotify.com/track/7qQigYVkCpkg3Hzd3QUQr6) | [Roy Davis](https://open.spotify.com/artist/2hY7DEOREACP4sNFGFpTWm) | [Je suis ton animal](https://open.spotify.com/album/7yHMyjudFfz7VX08PvTl1E) | 3:36 | 2023-01-13 | 2023-01-21 |
 | [Je t'ai manqué](https://open.spotify.com/track/7d8Fk8bxao3O9A3rqgG6GM) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Je t'ai manqué](https://open.spotify.com/album/330ZfKjrGDutgAkyp0vawf) | 3:55 | 2023-02-10 | 2023-02-25 |
@@ -2025,7 +2026,7 @@
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |
 | [un million](https://open.spotify.com/track/3l2sADKbSEpg1F72iiZV6j) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [un million](https://open.spotify.com/album/2ltFJFhFDJmBvCtDdVyWnF) | 3:23 | 2023-01-13 | 2023-01-28 |
-| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 |  |
+| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 | 2023-11-14 |
 | [Un murmure dans le décor](https://open.spotify.com/track/2ojnBSChKn8i7EsjVfNiJb) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Un murmure dans le décor](https://open.spotify.com/album/0Mw4CysbKjPrN1DqDXPKFo) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Un Palmier Dans La Neige](https://open.spotify.com/track/5dviT0SFLaLbLcy9SpRt90) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Wuachuma](https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ) | [Un Palmier Dans La Neige](https://open.spotify.com/album/01ChPqyfVKKqEATEjPvA7d) | 7:00 | 2022-08-19 | 2022-09-03 |
 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 | 2022-05-13 | 2022-05-20 |

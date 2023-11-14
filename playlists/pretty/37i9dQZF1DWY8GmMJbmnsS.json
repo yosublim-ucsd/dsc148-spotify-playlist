@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 339801,
+  "num_followers": 339858,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmIzZDFmMGEyNTNhMjdlNDEzZDVmZGEzNDNkNjYzZDI0NGNmMDdm",
+  "snapshot_id": "MCxlYTM3NmNhYjhkY2ZkNTMzZTg1ZjhlZDVjMjBhZWJkZjBhZDJkNmI5",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "Joy Ride",
         "url": "https://open.spotify.com/album/2wJt6u240XneVkyLc0ixla"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 373560,
       "name": "Stay In My Corner",
       "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
     },
     {
       "added_at": "2022-03-04 21:48:30",

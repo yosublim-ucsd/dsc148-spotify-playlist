@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-262 songs - 14 hr 53 min
+263 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-10-11 |  |
 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 | 2023-03-03 | 2023-09-22 |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-24 | 2022-07-29 |
+| [Hello](https://open.spotify.com/track/2d1tT8lpSCPY0kDlXXSQWS) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Hello](https://open.spotify.com/album/0eIportCxhSClJj1VpAABE) | 2:28 | 2023-11-13 |  |
 | [Hello](https://open.spotify.com/track/0u1GbGTf8juGD77G7KuTq3) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Hello](https://open.spotify.com/album/29wsaI4QogsPd6eAuaWJrO) | 2:33 | 2023-02-03 | 2023-09-15 |
 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 | 2022-01-27 | 2022-04-01 |
 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 | 2022-10-13 |  |
@@ -173,7 +174,7 @@
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2021-10-11 |  |
 | [Obiaa](https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [Obim](https://open.spotify.com/track/4O3AQrBYTZczhClmQK2tlC) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK), [Ebuka](https://open.spotify.com/artist/3bFNq4unsNxIqTbbDsMj9F), [Noble Igwe](https://open.spotify.com/artist/1m4RS5YwWPbj2S4efc9q92) | [Obim](https://open.spotify.com/album/0joGRMNQHyTZaRWARhKKX1) | 3:53 | 2021-12-02 | 2022-01-28 |
-| [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-17 |  |
+| [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-17 | 2023-11-14 |
 | [Oh Baby](https://open.spotify.com/track/4B3vGD3jkhQkd3uBDxWa13) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [AMAZON The EP](https://open.spotify.com/album/5ksFU23cyIYHAQYCwEWSGD) | 2:24 | 2021-11-11 | 2022-03-18 |
 | [Ojemba](https://open.spotify.com/track/4zqWVvzrPDFQmTH8lkeU5p) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ojemba](https://open.spotify.com/album/1UDK8dfDpF5WmhS3d8POZM) | 2:57 | 2023-01-27 |  |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-11 | 2022-07-29 |

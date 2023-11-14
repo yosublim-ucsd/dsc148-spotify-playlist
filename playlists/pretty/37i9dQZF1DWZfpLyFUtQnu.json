@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 66796,
+  "num_followers": 66863,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ3NTUxYTBjZjQyMTlhNDY2NGU2NDEwMjEwOTQ2NTdkZmMwMzAz",
+  "snapshot_id": "MCxlMGM4NWE1ZmFmZmVhODIzZmVmNWQ2NmFlY2RmMGU2NzI3YzhlOGRi",
   "tracks": [
     {
       "added_at": "2023-08-24 12:53:30",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
         "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 168626,
       "name": "Quelqu'un m'a dit",
       "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "C\u0153ur de pirate",
-        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "Comme des enfants",
-      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -251,6 +235,22 @@
       "duration_ms": 262373,
       "name": "Les filles d'aujourd'hui",
       "url": "https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "C\u0153ur de pirate",
+        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "Comme des enfants",
+      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -567,38 +567,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Effet miroir",
-        "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
-      },
-      "artists": [
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Demain c'est toi",
-      "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
@@ -627,6 +595,38 @@
       "duration_ms": 199426,
       "name": "Le bateau coule",
       "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Effet miroir",
+        "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Demain c'est toi",
+      "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 206626,
       "name": "Evidemment - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Les mots bleus",
-      "url": "https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Jours Heureux",
-        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
-      },
-      "artists": [
-        {
-          "name": "Volo",
-          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "T'es Belle",
-      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "D'o\u00f9 venez-vous ?",
         "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 252533,
       "name": "So Far Away from L.A.",
       "url": "https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Jours Heureux",
+        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
+      },
+      "artists": [
+        {
+          "name": "Volo",
+          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "T'es Belle",
+      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Ami Ou Ennemi",
-        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
-      },
-      "artists": [
-        {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Sur un pr\u00e9lude de Bach",
-      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Le coeur grenadine",
         "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 347520,
       "name": "Le coeur grenadine",
       "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Ami Ou Ennemi",
+        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
+      },
+      "artists": [
+        {
+          "name": "Maurane",
+          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "Sur un pr\u00e9lude de Bach",
+      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Br\u00fbler le Feu 2",
-        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "L\u2019\u00c9pine",
-      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 192053,
       "name": "Pour une seconde",
       "url": "https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Br\u00fbler le Feu 2",
+        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "L\u2019\u00c9pine",
+      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
     },
     {
       "added_at": "2023-08-24 12:53:30",

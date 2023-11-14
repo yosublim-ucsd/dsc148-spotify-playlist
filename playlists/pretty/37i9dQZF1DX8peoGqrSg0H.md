@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: RedSpin
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,864 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,955 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 | 65 | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 |
 
-Snapshot ID: `MCwyOWM4NTYyZTBmYzBlNjYwNzUxZmEwN2E3YmRjZTBjM2Q2NzFmODdm`
+Snapshot ID: `MCw4ZGI4NWJmNmYzZmQ5MmUxOWE5YTM4MTVmY2QyMzNiY2U3Y2NmOTk0`

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
+    },
+    {
+      "album": {
         "name": "Apollo EP",
         "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
       },
@@ -150,6 +168,28 @@
       "duration_ms": 420684,
       "name": "Apollo - Original Mix",
       "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
+    },
+    {
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
     },
     {
       "album": {
@@ -222,6 +262,24 @@
       "duration_ms": 350908,
       "name": "Back Fist",
       "url": "https://open.spotify.com/track/1oqNFRNkgn2UAK9aljDAV7"
+    },
+    {
+      "album": {
+        "name": "Barsoom EP",
+        "url": "https://open.spotify.com/album/4aVm5eHEBs1jz8aZ2vrRl3"
+      },
+      "artists": [
+        {
+          "name": "Antss",
+          "url": "https://open.spotify.com/artist/12bHqR5ggtW3Y9C7oPmwL2"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353684,
+      "name": "Barsoom",
+      "url": "https://open.spotify.com/track/6E9ANTrElNEC6NJ7FD7dYo"
     },
     {
       "album": {
@@ -370,7 +428,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 245820,
       "name": "Blind Date",
       "url": "https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm"
@@ -926,7 +984,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
@@ -1164,7 +1222,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 217846,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4HroXwGskJHBvEUKPz18Pp"
@@ -1288,7 +1346,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 263157,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6lGb5bcwjsolNsvp55DXmT"
@@ -1690,7 +1748,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 353398,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND"
@@ -1907,6 +1965,32 @@
     },
     {
       "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Magnus",
+          "url": "https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208601,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
+    },
+    {
+      "album": {
         "name": "How Do I Belong",
         "url": "https://open.spotify.com/album/5Y1sct5M7sCdL7PzBSmfAr"
       },
@@ -1940,6 +2024,28 @@
       "duration_ms": 414400,
       "name": "Human Error Processor",
       "url": "https://open.spotify.com/track/2pvyBLVixnCOD6yq2mgieZ"
+    },
+    {
+      "album": {
+        "name": "I Talk To Water",
+        "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297191,
+      "name": "I Talk To Water (with Perry Farrell)",
+      "url": "https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h"
     },
     {
       "album": {
@@ -2287,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8"
       },
@@ -2609,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "My Fantasy",
+        "url": "https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "My Fantasy",
+      "url": "https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ"
+    },
+    {
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -2882,7 +3028,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 391782,
       "name": "Now Is",
       "url": "https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M"
@@ -3484,7 +3630,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 357562,
       "name": "Seance",
       "url": "https://open.spotify.com/track/0YWDmzwd4pkBlKxLqOD3Xl"

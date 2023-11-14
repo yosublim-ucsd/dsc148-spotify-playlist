@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 170566,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0"
@@ -3722,6 +3722,24 @@
       "duration_ms": 186000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu"
+    },
+    {
+      "album": {
+        "name": "Fantasifull",
+        "url": "https://open.spotify.com/album/40bwSaWIycZ7vLnn8xtl7u"
+      },
+      "artists": [
+        {
+          "name": "Frode Gjermundsen",
+          "url": "https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155763,
+      "name": "Fantasifull",
+      "url": "https://open.spotify.com/track/7JxnwtrmZVwIt4jEsVlRHT"
     },
     {
       "album": {
@@ -6686,6 +6704,24 @@
       "duration_ms": 179874,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO"
+    },
+    {
+      "album": {
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
     },
     {
       "album": {
@@ -9699,6 +9735,24 @@
     },
     {
       "album": {
+        "name": "Seasonal mother",
+        "url": "https://open.spotify.com/album/5EWvyQhyvnRsRuyvLxSiZ4"
+      },
+      "artists": [
+        {
+          "name": "Emilia Branco",
+          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "Seasonal mother",
+      "url": "https://open.spotify.com/track/2zVMhbaUO3mBXZ16YFtOoP"
+    },
+    {
+      "album": {
         "name": "Seaton Village",
         "url": "https://open.spotify.com/album/1cT8HssixLO5z1s2RE4azQ"
       },
@@ -11640,7 +11694,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 152000,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/0XQYuH1sNtP8oiQfmnqlW9"

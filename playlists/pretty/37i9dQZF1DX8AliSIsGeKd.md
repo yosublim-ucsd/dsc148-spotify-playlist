@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moritz Hofbauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,995 likes - 88 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,128 likes - 88 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [DDG Talk](https://open.spotify.com/track/4I6p213xGciXe0Euyl6rUI) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [DDG Talk](https://open.spotify.com/album/113qnKo8Hy83Dh0yiXSPCB) | 5:59 |
 | 88 | [Create\-A\-Dance \- Radio Edit](https://open.spotify.com/track/3BOYe3nARvUMqmmnMoUta1) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Create\-A\-Dance](https://open.spotify.com/album/02L5fOvPVQcqe59P0vvXz2) | 2:53 |
 
-Snapshot ID: `MCwyNzJmZTIxZmUxNjIwOWJjZjk3ODBkYmQwZWZjNmYxMzE0YzQ3MDUy`
+Snapshot ID: `MCxmMGY1YjY3YzllMjE2YjE5OTRlNDEzOTYwMzE5MjEyYjhiOTIzMmU1`

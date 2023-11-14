@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Pink Pablo\. Artwork by Isu Kim.
 
-5,330 songs - 12 day 2 hr 17 min
+5,331 songs - 12 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2892,6 +2892,7 @@
 | [Lust 2 Luv](https://open.spotify.com/track/789NsULFaMm13ru9CZNYAF) | [DREAMRDREAMR](https://open.spotify.com/artist/2emcnOvOrNgRCBQFn8d4s8) | [Velvet Tracksuit](https://open.spotify.com/album/4EZejG2AFBik7HFB4jDeYJ) | 4:03 | 2023-07-12 | 2023-07-20 |
 | [Luv](https://open.spotify.com/track/3o5BdjXWATXAC6VtjfBU5e) | [Cuurley](https://open.spotify.com/artist/7iZSxV3wq8YPpfUtoIIOIM) | [Luv](https://open.spotify.com/album/1myM7cSU3pByOgTv9dfinx) | 3:33 | 2023-02-15 | 2023-02-23 |
 | [Luv 2 Groove](https://open.spotify.com/track/4bOBsdDM9HTPxAui2M2A9U) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Aquarius Rising](https://open.spotify.com/album/2hUi6ZQKgIz7T1I8qdtpxr) | 4:06 | 2022-03-16 | 2022-03-24 |
+| [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 | 2023-11-13 |  |
 | [Lvl Up](https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv) | [Ish Akanour](https://open.spotify.com/artist/69JgwhIi9mUCrs93Vgkxv2) | [Lvl Up](https://open.spotify.com/album/37igg8BKQ3Ud3eYJmWnSmf) | 2:24 | 2023-07-12 | 2023-07-20 |
 | [M's](https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh) | [Babyfa$e James](https://open.spotify.com/artist/7lKBs2XWGCUiQDCvDo85U8) | [M's](https://open.spotify.com/album/1vT26SBXuPg7oLFizMWtQq) | 2:16 | 2023-02-01 | 2023-02-09 |
 | [M4L](https://open.spotify.com/track/5JTC0j5Uua0pGcKHDcMIrf) | [Jamba](https://open.spotify.com/artist/0BgsnzKX50YezIymT72X9q) | [M4L](https://open.spotify.com/album/7u9RVXbeAaxVNsC5cfGJWN) | 2:12 | 2022-02-09 | 2022-02-17 |
@@ -3301,7 +3302,7 @@
 | [No Lames](https://open.spotify.com/track/1kqBt8yLmCOevY2Nw7ptVE) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [No Lames](https://open.spotify.com/album/3G0a6rQ8Qm9p7kGhosenzQ) | 3:00 | 2022-03-23 | 2022-03-31 |
 | [No Lies](https://open.spotify.com/track/0t58xiARE4ZH1AmuWN55Lt) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [No Lies](https://open.spotify.com/album/0YNczsb7k9kwsPGtPURcBV) | 3:02 | 2023-05-10 | 2023-05-18 |
 | [No Longer Mine](https://open.spotify.com/track/5udICNQ3qaWVi9MjdD9ASC) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [No Longer Mine](https://open.spotify.com/album/5ceDVdOYMtW3NVteZmvebk) | 4:35 | 2022-10-12 | 2022-10-20 |
-| [No Longer Mine](https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:35 | 2023-10-11 |  |
+| [No Longer Mine](https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:35 | 2023-10-11 | 2023-11-14 |
 | [No Me Afecta](https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Me Afecta](https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP) | 4:44 | 2023-08-16 | 2023-08-24 |
 | [No me quiere sentir](https://open.spotify.com/track/04BBFsO6u05eEW0mJwclRm) | [Mejiias](https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL), [Joel<3](https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26) | [New Religion](https://open.spotify.com/album/26T8MSvy1QqxoXgQxuIxTH) | 1:43 | 2023-07-26 | 2023-08-03 |
 | [No More](https://open.spotify.com/track/0yGbLny28yRcgr1S13lluW) | [Devmaccc](https://open.spotify.com/artist/1DfQmW6ftleJPC8rUYhIEh) | [No More](https://open.spotify.com/album/0TG1iHKIaeHA5pAJzwZptr) | 3:12 | 2023-04-27 | 2023-05-04 |

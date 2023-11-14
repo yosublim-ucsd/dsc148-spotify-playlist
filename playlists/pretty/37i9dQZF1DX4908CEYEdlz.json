@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: The Rolling Stones",
-  "num_followers": 695467,
+  "num_followers": 695470,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzYwZmYwN2JlNTIzZWI0NTgyZTllODM5N2MyODdmNmI5ZTQzMmE2",
+  "snapshot_id": "MCxkYTk2OGNkNTQ0OTE3NTcxYjlkNDUyYTMyYjU1ZjI1YjM5NDZmN2Q4",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "The Better Me",
         "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
@@ -175,18 +159,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Foregone",
-        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -219,6 +203,22 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Foregone",
+        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Cut The Line",
-        "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
+        "name": "CMF2",
+        "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 209664,
-      "name": "Cut The Line",
-      "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
+      "duration_ms": 274437,
+      "name": "Talk Sick",
+      "url": "https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "CMF2",
-        "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
+        "name": "Cut The Line",
+        "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
       },
       "artists": [
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 274437,
-      "name": "Talk Sick",
-      "url": "https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq"
+      "duration_ms": 209664,
+      "name": "Cut The Line",
+      "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 316979,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc"
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK"
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -931,6 +915,22 @@
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7Eopsh1TbXAKPSxhqOprDg"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/31aVGAyU43vQYxYyCmfaQI"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Ready For Something",
         "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
       },
@@ -1003,6 +1019,22 @@
       "duration_ms": 237560,
       "name": "Ready For Something",
       "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Daddy's Coming Home",
+        "url": "https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1"
+      },
+      "artists": [
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "duration_ms": 189507,
+      "name": "Daddy's Coming Home",
+      "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Daddy's Coming Home",
-        "url": "https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1"
-      },
-      "artists": [
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
-        }
-      ],
-      "duration_ms": 189507,
-      "name": "Daddy's Coming Home",
-      "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "\u00c5NOM\u00c5LY",
         "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7Eopsh1TbXAKPSxhqOprDg"
+        "name": "Call Us by Her Name",
+        "url": "https://open.spotify.com/album/3nFXbIK55FIIpcJcERDXKM"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+          "name": "Ego Kill Talent",
+          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
         }
       ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/31aVGAyU43vQYxYyCmfaQI"
+      "duration_ms": 255627,
+      "name": "When It Comes",
+      "url": "https://open.spotify.com/track/1X1kiRUcjaHVIjZiCmxGLZ"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 179564,
       "name": "Dreadpool",
       "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Call Us by Her Name",
-        "url": "https://open.spotify.com/album/3nFXbIK55FIIpcJcERDXKM"
-      },
-      "artists": [
-        {
-          "name": "Ego Kill Talent",
-          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
-        }
-      ],
-      "duration_ms": 255627,
-      "name": "When It Comes",
-      "url": "https://open.spotify.com/track/1X1kiRUcjaHVIjZiCmxGLZ"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Golden State (20th Anniversary Expanded Version)",
         "url": "https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Keep It Away",
-        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Keep It Away",
-      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
     },
     {
       "added_at": "2023-11-10 03:01:00",

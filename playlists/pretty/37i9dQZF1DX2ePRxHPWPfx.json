@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 1343,
+  "num_followers": 1382,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWZiYmM4MDhlNTA2MTg3YTE0ZWY0YzAwOThiZjFiYmI0MmNkMDIz",
+  "snapshot_id": "MCw1ZDQwZmU2OWY1ODAxMDM3NDI4ZmY1NGZmOTk0OWM0YTcyMjI2NzQ2",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:01",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "5:24",
-      "url": "https://open.spotify.com/track/1ZymB4keoWbIgKYZ0RaO9b"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
         "name": "Donde Est\u00e1s",
         "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 249040,
       "name": "Donde Est\u00e1s",
       "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "5:24",
+      "url": "https://open.spotify.com/track/1ZymB4keoWbIgKYZ0RaO9b"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+      "duration_ms": 207545,
+      "name": "Medialuna",
+      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
         "name": "Permanente",
         "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
       },
@@ -387,38 +403,6 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 207545,
-      "name": "Medialuna",
-      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
         "name": "Feliz navidad",
         "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 123786,
       "name": "Feliz navidad",
       "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+        "name": "We're The Lucky Ones",
+        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
+      "duration_ms": 215933,
+      "name": "We're the Lucky Ones",
+      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -667,22 +683,6 @@
       "duration_ms": 221960,
       "name": "Blanco y Negro",
       "url": "https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
-        "name": "We're The Lucky Ones",
-        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "We're the Lucky Ones",
-      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
     },
     {
       "added_at": "2023-11-10 04:59:01",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-10 04:59:01",
       "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 190912,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
+    },
+    {
+      "added_at": "2023-11-10 04:59:01",
+      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -815,26 +831,6 @@
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
-    },
-    {
-      "added_at": "2023-11-10 04:59:01",
-      "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     }
   ],
   "unique_name": "cozied up",

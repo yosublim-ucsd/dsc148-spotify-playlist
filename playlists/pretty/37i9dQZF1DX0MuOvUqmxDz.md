@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,793 likes - 143 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,174 likes - 143 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 142 | [Mary, Did You Know?](https://open.spotify.com/track/7ymcpXgVeTPd9W2desgjdZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Mary, Did You Know?](https://open.spotify.com/album/2jtvfB4GlsYu2TjyoSmEzs) | 4:04 |
 | 143 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MCwxYzJlYmVmODlkN2M3Njg3OTZlODU3MDViYWU4ZGI0ZTdkNDJiNDU4`
+Snapshot ID: `MCxkZThjMGU5OTZlMjVmYWJmODZhZWJhZDNkMDA2YWJmOGY5OGJmZmU0`

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-682 songs - 1 day 14 hr 36 min
+683 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-29 | 2022-03-10 |
 | [Mesh Saleem](https://open.spotify.com/track/06GfyzaBSbs18pJsZO1jvM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mesh Saleem](https://open.spotify.com/album/6XnP1hueQTJJSBsXMdgRHc) | 3:33 | 2023-08-16 | 2023-08-29 |
 | [Mesh Saybani](https://open.spotify.com/track/5qO0ltb9QRvQvj2c7San3y) | [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Mesh Saybani](https://open.spotify.com/album/1QLI8mWdXlxempEeh3AlRV) | 3:00 | 2022-01-27 | 2022-04-08 |
-| [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-08-03 |  |
+| [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-08-03 | 2023-11-14 |
 | [Mestaghni \| مستغني](https://open.spotify.com/track/18RvhZWDpYtzyTwU4uopmT) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Mestaghni \| مستغني](https://open.spotify.com/album/7MMTCyQBuyEQi0elzGLMvP) | 2:54 | 2023-09-14 |  |
 | [Mestaneky](https://open.spotify.com/track/6FDtQjEUHPak1EC1TPC2Wu) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Mestaneky](https://open.spotify.com/album/73gsCvCysoUpE4u4JRQxi3) | 4:17 | 2023-03-09 | 2023-05-09 |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2021-12-23 | 2022-01-28 |
@@ -617,6 +617,7 @@
 | [عيب عليك](https://open.spotify.com/track/23l46DmLn0eyNHbhuMXmyD) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [عيب عليك](https://open.spotify.com/album/2VnptIglpsakIaCYyAy4j0) | 4:09 | 2023-07-13 | 2023-08-04 |
 | [عيشلك يومين](https://open.spotify.com/track/6R8PQXyw78JTVKy8tqkeVI) | [Karim Abo Zaid](https://open.spotify.com/artist/3J1e5KrKoa03ZWWFhL4lRT) | [عيشلك يومين](https://open.spotify.com/album/1eYpPeVJJNWubBqq7dfe0m) | 2:52 | 2023-09-19 | 2023-09-21 |
 | [عينيك حلوين](https://open.spotify.com/track/4iPPxLSqGIsGFVeTMs6SG3) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [عينيك حلوين](https://open.spotify.com/album/4rnF7HdCbGwH8L6FgSUXHY) | 2:29 | 2023-09-19 | 2023-09-21 |
+| [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 | 2023-11-13 |  |
 | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/track/4dYAFJEQjVh50FjSHBfHWl) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/album/6NsLjJGK0DOO8V1jMFK8q1) | 3:48 | 2023-04-14 | 2023-05-19 |
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-09 | 2023-03-25 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |

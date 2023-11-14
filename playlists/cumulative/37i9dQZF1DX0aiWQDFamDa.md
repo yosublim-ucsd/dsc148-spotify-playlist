@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-291 songs - 23 hr 46 min
+292 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-05-31 |  |
 | [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 | 2022-09-08 |  |
 | [Emigrantvisa](https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:27 | 2022-05-26 | 2022-11-11 |
+| [End Music](https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [At the Movies](https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj) | 4:00 | 2023-11-10 |  |
 | [Estrellita](https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In Mambo](https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK) | 6:56 | 2022-09-08 | 2023-03-18 |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2022-11-10 | 2023-04-28 |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-05-18 | 2022-10-13 |
@@ -242,7 +243,7 @@
 | [Sweet Sorrow](https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [MoodSwing](https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp) | 8:43 | 2022-05-18 |  |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-10-13 |  |
 | [Tangorrus Field](https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:24 | 2022-05-18 |  |
-| [The Art of Losing Isn't Hard to Master](https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Bluebeard](https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi) | 5:01 | 2022-05-18 |  |
+| [The Art of Losing Isn't Hard to Master](https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Bluebeard](https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi) | 5:01 | 2022-05-18 | 2023-11-14 |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2022-11-10 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 | 2022-05-18 |  |
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2022-05-18 | 2022-08-12 |

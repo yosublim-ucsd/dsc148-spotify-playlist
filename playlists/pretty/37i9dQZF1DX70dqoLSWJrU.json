@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 68777,
+  "num_followers": 68812,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTBlNzZlMTkwM2ZjYmQ0MWY4ZTYyYThjMWE2YmQ5ZWE3YjlkOGI1",
+  "snapshot_id": "MCxkM2Q3NTc4ODNkYWI1NWI0NGU1ZDc3ZDNhMDY3ZGUxZjFiNTRhOGJi",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "If You Go Away / Ne me quitte pas",
+        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 295148,
+      "name": "If You Go Away",
+      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 197173,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Nina Simone & Piano (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "I Get Along Without You Very Well (Except Sometimes)",
-      "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "If You Go Away / Ne me quitte pas",
-        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 295148,
-      "name": "If You Go Away",
-      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "I Get Along Without You Very Well (Except Sometimes)",
+      "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Billie Holiday",
         "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
@@ -383,26 +383,6 @@
       "duration_ms": 195786,
       "name": "Lover, Come Back To Me",
       "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -471,6 +451,26 @@
       "duration_ms": 244080,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 329533,
-      "name": "I See Your Face Before Me - Remastered",
-      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 297866,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
+      "duration_ms": 329533,
+      "name": "I See Your Face Before Me - Remastered",
+      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -739,6 +719,26 @@
       "duration_ms": 167200,
       "name": "Once Upon A Summertime",
       "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Standard Time Vol. 2: Intimacy Calling",
+        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 404066,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Standard Time Vol. 2: Intimacy Calling",
-        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "All For You (A Dedication To The Nat King Cole Trio)",
-        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Where Are You? (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+        "name": "All For You (A Dedication To The Nat King Cole Trio)",
+        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Think Of You - Remastered",
-      "url": "https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw"
+      "duration_ms": 297173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 162186,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Where Are You? (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "I Think Of You - Remastered",
+      "url": "https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1195,38 +1195,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "She's Got It",
-        "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
-      },
-      "artists": [
-        {
-          "name": "Annette Hanshaw",
-          "url": "https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Wasting My Love on You",
-      "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -1239,6 +1207,22 @@
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "She's Got It",
+        "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
+      },
+      "artists": [
+        {
+          "name": "Annette Hanshaw",
+          "url": "https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Wasting My Love on You",
+      "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "The Lost Tapes",
         "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 505493,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/0W5Szvf48ubKfPvgsZIEZ6"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 181746,
       "name": "Something to Remember You By",
       "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 505493,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/0W5Szvf48ubKfPvgsZIEZ6"
     },
     {
       "added_at": "2023-10-27 00:01:00",

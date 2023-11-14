@@ -740,10 +740,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 350640,
       "name": "The Birds Pt. 2",
       "url": "https://open.spotify.com/track/6gfkhHmnoyzacIGNCItJLT"
+    },
+    {
+      "album": {
+        "name": "Thursday (Original)",
+        "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350583,
+      "name": "The Birds Pt. 2 - Original",
+      "url": "https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs"
     },
     {
       "album": {

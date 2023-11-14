@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kenny Chesney, Chris Stapleton, Gabby Barrett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,281 likes - 59 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,468 likes - 59 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [Get You Off That Fence](https://open.spotify.com/track/424P0OXKS5Lpae44oBTnJt) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [Get You Off That Fence](https://open.spotify.com/album/6cV9t53nUqGdN3eEdt5kGQ) | 3:36 |
 | 59 | [Too Far Gone](https://open.spotify.com/track/0yJbmeXPDK1dXsCEshUuMC) | [Zac Cross Band](https://open.spotify.com/artist/6l91CwKtYnZKbKbGS0CRIw) | [Too Far Gone](https://open.spotify.com/album/1WLgw88p4v0I3MYoA3L1ze) | 3:12 |
 
-Snapshot ID: `MCwxYzliZmJjNDk5OTNkM2JmZTIwYTUwZTMxOTQ2NzliMmFiYjFmNmFl`
+Snapshot ID: `MCxkMWEzMmZmZTVkMWRhOGYyN2Y2MDUwYmE3Mzc0YzMxYWI3NTljN2Yx`

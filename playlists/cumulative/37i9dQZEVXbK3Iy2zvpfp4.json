@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 80300,
       "name": "AREAMATE MIZ",
       "url": "https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -3847,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Brate",
+        "url": "https://open.spotify.com/album/14V6Mg8yQge3TXQD9RX9oJ"
+      },
+      "artists": [
+        {
+          "name": "Dyzivv",
+          "url": "https://open.spotify.com/artist/2zUdMt6gWB9u2oWzAFEfQ0"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133170,
+      "name": "Brate",
+      "url": "https://open.spotify.com/track/2fgGGooqSxYq8IBOVIcg0P"
+    },
+    {
+      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -4114,7 +4132,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 200000,
       "name": "Brutus (Instrumental)",
       "url": "https://open.spotify.com/track/0m5xMNMK48sQVjASd4YPPt"
@@ -4756,6 +4774,24 @@
       "duration_ms": 153706,
       "name": "Chcem ma\u0165 s tebou bejby",
       "url": "https://open.spotify.com/track/0oieWmZlfKdi2oxJP9ihk7"
+    },
+    {
+      "album": {
+        "name": "Cheap Cologne",
+        "url": "https://open.spotify.com/album/5rCXOVvYlTRK6Ws31gZWe2"
+      },
+      "artists": [
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "Cheap Cologne",
+      "url": "https://open.spotify.com/track/2B4Da1gud3hAKcCwo0dNMG"
     },
     {
       "album": {
@@ -8580,7 +8616,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 165831,
       "name": "Five Nights at Freddy's",
       "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
@@ -8750,6 +8786,24 @@
       "duration_ms": 161765,
       "name": "Fluxxwave (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
+    },
+    {
+      "album": {
+        "name": "Fo Fo",
+        "url": "https://open.spotify.com/album/1H8XiVx0SFdSBVNGmZChne"
+      },
+      "artists": [
+        {
+          "name": "Rico Style",
+          "url": "https://open.spotify.com/artist/1FCSIBdBXEKkRoc0QYqQoQ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177377,
+      "name": "Fo Fo",
+      "url": "https://open.spotify.com/track/11MfraP3vOTAAk8oT76uTn"
     },
     {
       "album": {
@@ -11910,7 +11964,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 158104,
       "name": "I Wait for You",
       "url": "https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko"
@@ -19023,6 +19077,24 @@
     },
     {
       "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "album": {
         "name": "Novej Sv\u011bt",
         "url": "https://open.spotify.com/album/3LvmpJEQrLhUnYW3K5bfba"
       },
@@ -19732,6 +19804,28 @@
       "duration_ms": 139598,
       "name": "outside zyzz edit",
       "url": "https://open.spotify.com/track/4bArMM8RpthUSHiooRSii1"
+    },
+    {
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "album": {

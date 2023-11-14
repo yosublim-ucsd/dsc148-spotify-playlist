@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SUPER BEAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,468 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,527 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 100 | [君の音](https://open.spotify.com/track/5XEaQghgECUNbFHSV3xk5e) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [君の音](https://open.spotify.com/album/5vYjeixgLrxQB4hVEqtHkW) | 2:26 |
 
-Snapshot ID: `MCw4MTYwZjQwZTBkNTE1MTI5YTBhZmY4NmI0MzA2MDJkMGE4NmI3MGY2`
+Snapshot ID: `MCwyNDAwNDcxYzYzZTZkNTkxNTczN2ViYWYzM2U5NTAxMWI5NjE2OTIz`

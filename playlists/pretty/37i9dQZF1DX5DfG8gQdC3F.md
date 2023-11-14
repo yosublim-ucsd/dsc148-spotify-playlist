@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Dua Lipa, Keys N Krates & Ciara, Chris Stapleton, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,095 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,120 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Rover](https://open.spotify.com/track/1YP0n7aiiVMLcfabNU81Pc) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Rover](https://open.spotify.com/album/18rfNijDjPfVOeqSo9t212) | 3:39 |
 | 100 | [forever](https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [forever](https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye) | 4:00 |
 
-Snapshot ID: `MCwyOGUwY2Y3ZTIzMDQ5MWQ0ZWNlMmRhMjk1M2RjNWI3MTk1MTI0NmY3`
+Snapshot ID: `MCxjYzU3ZDBmYzE3ZjM2OTQzNzI4YjI2ZTI3NzViMWM2Zjc2ZGZlYTg2`

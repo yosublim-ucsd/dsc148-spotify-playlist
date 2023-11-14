@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,310 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,322 likes - 34 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 33 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 34 | [Better Than Christmas](https://open.spotify.com/track/5IUAGUk1QPx7tMCPWi7hiT) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Better Than Christmas](https://open.spotify.com/album/5qtC3A3E4hGU1Fkgzl8zZb) | 2:46 |
 
-Snapshot ID: `MCxhYWRlMjVlYjhlOTdmMzA3ZDE5ZWI2NTBkYjdmYjE0ZTQzM2MzNTE5`
+Snapshot ID: `MCxlMzZkNjY4YjViMDM3ZDBiNTMxOGIyYmViMTA3NWE0Nzc1MjY0NmVl`

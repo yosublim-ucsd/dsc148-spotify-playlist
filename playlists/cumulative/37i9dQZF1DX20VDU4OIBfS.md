@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-364 songs - 23 hr 2 min
+365 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Doce Rosas](https://open.spotify.com/track/4EPJIgQaRIuDZRm1qe9RrA) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Lorenzo Antonio](https://open.spotify.com/album/5HUORF7vOFU8MHg9mjWi13) | 3:49 | 2022-01-01 | 2022-07-29 |
 | [Doce Rosas](https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Doce Rosas](https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh) | 3:49 | 2022-06-02 |  |
 | [Dos Gardenias](https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 3:04 | 2022-06-02 | 2023-11-03 |
+| [Dos Gardenias](https://open.spotify.com/track/3okCsBWWv7okRgaTnMQ2Fp) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 3:04 | 2023-01-12 |  |
 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 | 2022-01-01 | 2022-07-29 |
 | [Déjame llorar](https://open.spotify.com/track/3Bknh2l0uHRTpgTh4iRP96) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Las \#1 De Ricardo Montaner](https://open.spotify.com/album/6kTJuY3ncsTIMPcgl4bWzP) | 5:12 | 2022-01-01 | 2022-07-29 |
 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 3:42 | 2022-06-02 |  |
@@ -360,7 +361,7 @@
 | [Y Volveré](https://open.spotify.com/track/7wx1WRcxLovFDlhNe5leeX) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Celebridades\- los Angeles Negros](https://open.spotify.com/album/4yVGTVY6opYiklxtqRrKtu) | 4:00 | 2022-01-01 | 2022-07-29 |
 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2022-06-02 |  |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:51 | 2022-01-01 | 2023-04-13 |
-| [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 | 2022-08-31 |  |
+| [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 | 2022-08-31 | 2023-11-14 |
 | [Yo Te Pido Amor](https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:46 | 2022-01-01 | 2022-07-29 |
 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 | 2022-06-02 |  |
 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/2GCb04vjU2QePbEEHUOAC4) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/2IzK6dZXxuS20zoQ1b6Jxu) | 3:48 | 2022-01-01 | 2022-07-29 |

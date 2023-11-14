@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,296 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,440 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 49 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 | 50 | [Bonne Chance](https://open.spotify.com/track/1VZnlucoeEU0164116nw27) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Bonne Chance](https://open.spotify.com/album/2XC5BN8Lhj2ktqAzAtBLZD) | 2:10 |
 
-Snapshot ID: `MCxmYzFlMTZlNzNlYjU1ZmUzYWMwMTMzM2U0MzgyZjMwM2YwNTJmYjQ1`
+Snapshot ID: `MCw1ZDIwYTA2OTQwZjcyY2NiYmUxMzhmNzhiNjQwOTgyYmM2NmU1OTdh`

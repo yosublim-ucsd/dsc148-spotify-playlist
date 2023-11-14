@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 139913,
+  "num_followers": 139973,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmM0NmRjMTQzYTM0OGVmMDU3NmQzNmU0ZWYzODljZTJmMDQ0ZjY1",
+  "snapshot_id": "MCxmZWQxMWEyMTg2MTIyYTQ2OWE3MTExNDJiYmZmYTljYzYwMDdkZTQ0",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me (Piano)",
-        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Something's Gonna Kill Me - Piano",
-      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "How It Oughta Be (Acoustic)",
         "url": "https://open.spotify.com/album/6iMyQOYBiUrmmGXot3QbFs"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+        "name": "Something's Gonna Kill Me (Piano)",
+        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 186090,
-      "name": "Simple Things - Piano Version",
-      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
+      "duration_ms": 182893,
+      "name": "Something's Gonna Kill Me - Piano",
+      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Hell Of A Way To Go (Acoustic)",
-        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 173126,
-      "name": "Hell Of A Way To Go - Acoustic",
-      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
+      "duration_ms": 186090,
+      "name": "Simple Things - Piano Version",
+      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "Hell Of A Way To Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 173126,
+      "name": "Hell Of A Way To Go - Acoustic",
+      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -711,18 +707,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Under My Skin (Stripped)",
-        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 185110,
-      "name": "Under My Skin - Stripped",
-      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Come Back To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 205375,
       "name": "Come Back To Bed (Acoustic)",
       "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
+        "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
+      "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -779,22 +811,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
-        "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
-      "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Prayed For You (Wedding Version)",
         "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 205306,
       "name": "Prayed For You - Wedding Version",
       "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Creek Will Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
+        "name": "Hey World Sessions",
+        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 171320,
-      "name": "Creek Will Rise - Acoustic",
-      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+      "duration_ms": 177459,
+      "name": "Come Get Your Memory - Hey World Sessions",
+      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Creek Will Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 171320,
+      "name": "Creek Will Rise - Acoustic",
+      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "I'm Not Prettier",
         "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "God Gave Me A Girl (Acoustic)",
-        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 201020,
-      "name": "God Gave Me A Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "God Gave Me A Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 201020,
+      "name": "God Gave Me A Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "All Out Acoustic Sessions",
         "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
       },
@@ -1187,26 +1203,6 @@
       "duration_ms": 187487,
       "name": "Wanna Be Saved (Acoustic)",
       "url": "https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "You, Me, And Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 187361,
-      "name": "You, Me, And Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Hey World Sessions",
-        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
+        "name": "You, Me, And Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 177459,
-      "name": "Come Get Your Memory - Hey World Sessions",
-      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
+      "duration_ms": 187361,
+      "name": "You, Me, And Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
-      },
-      "artists": [
-        {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out (Acoustic)",
-      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Narcissist (Piano Version)",
         "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 153186,
       "name": "Narcissist - Piano Version",
       "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out (Acoustic)",
+      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Live from Layman",
         "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Cowboy Forever (Acoustic Version)",
-        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Cowboy Forever (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 170755,
       "name": "Buy Dirt - Alternate Version",
       "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Cowboy Forever (Acoustic Version)",
+        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Cowboy Forever (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Studio 900 Sessions",
-        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 185847,
-      "name": "Waiting For You - Acoustic",
-      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Love Makes You Blind (Acoustic Version)",
         "url": "https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG"
       },
@@ -1651,18 +1635,34 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Last Rodeo (Acoustic)",
-        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
+        "name": "I Hate Cowboys & All Dogs Go To Hell",
+        "url": "https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 190031,
-      "name": "Last Rodeo - Acoustic",
-      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
+      "duration_ms": 167000,
+      "name": "For A Day",
+      "url": "https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Studio 900 Sessions",
+        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 185847,
+      "name": "Waiting For You - Acoustic",
+      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
     }
   ],
   "unique_name": "Nashville Stripped",

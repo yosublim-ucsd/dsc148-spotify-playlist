@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mom
 
-987 songs - 2 day 13 hr 29 min
+988 songs - 2 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-10-11 |
 | [animal planet](https://open.spotify.com/track/2wQ5Yg8AZKlY6WheocbLM6) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [animal planet](https://open.spotify.com/album/7sgJK1TlHzp4AAuKCfltqG) | 3:28 | 2023-10-24 |  |
-| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 |  |
+| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 | 2023-11-14 |
 | [Anshin](https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Anshin](https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6) | 3:24 | 2023-10-31 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 | 2023-10-10 |  |
@@ -249,7 +249,7 @@
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
 | [Home away from home](https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW) | 4:07 | 2023-02-28 | 2023-03-29 |
 | [Honey and Mustard](https://open.spotify.com/track/56RSWyXUBbBhJ6uveNOzkV) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [Honey and Mustard](https://open.spotify.com/album/4y7iJG3nWln6sBgcqwSO3s) | 1:56 | 2023-01-31 | 2023-02-22 |
-| [honomekashi](https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 3:41 | 2023-09-08 | 2023-11-10 |
+| [honomekashi](https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 3:41 | 2023-09-08 |  |
 | [honomekashi](https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [honomekashi](https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV) | 3:41 | 2023-08-15 | 2023-09-09 |
 | [Hot Gimmick](https://open.spotify.com/track/6I7PdCUX6AdQi3twS3U2YF) | [letniy](https://open.spotify.com/artist/7h8q9EMQmWuU6Ma2My4PPr) | [Hot Gimmick](https://open.spotify.com/album/1x1DfVPxo1CP5P2g4oNcmb) | 3:27 | 2023-03-16 | 2023-03-29 |
 | [Hotaru No Sen](https://open.spotify.com/track/6Oc6mETshqnFn2clxDi6Ya) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [Hotaru No Sen](https://open.spotify.com/album/1EwG6rfg5cuSoKTxt5sKbk) | 3:31 | 2023-08-15 | 2023-08-23 |
@@ -506,7 +506,7 @@
 | [Society](https://open.spotify.com/track/5hjjFWdiwow3yXmmQxUmex) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU) | [AVATAMA](https://open.spotify.com/album/1ypjmNYyWhCys668wvRqX6) | 4:07 | 2023-01-24 | 2023-03-15 |
 | [Soda](https://open.spotify.com/track/4iEPGwSynkYP5Y8ylsS7DJ) | [Aaanna Japanese Special](https://open.spotify.com/artist/3o4wFYVNIJAVKhZtjGcf27) | [Soda](https://open.spotify.com/album/3whuKHvTUUWzdKsZuFRgGr) | 2:41 | 2023-06-13 | 2023-06-21 |
 | [Soft](https://open.spotify.com/track/0bAZn5TiIQPn6dZzNLIr7a) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Instinct, Filter Bubble](https://open.spotify.com/album/1az2i3t3zdpGymsEOkvLEW) | 6:45 | 2023-08-08 | 2023-08-23 |
-| [Sol](https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Sol](https://open.spotify.com/album/1ISfBItYYBdfHXxrr6uo4W) | 3:43 | 2023-10-17 |  |
+| [Sol](https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Sol](https://open.spotify.com/album/1ISfBItYYBdfHXxrr6uo4W) | 3:43 | 2023-10-17 | 2023-11-14 |
 | [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 | 2023-01-12 | 2023-04-05 |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-06-01 |
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-04-05 |
@@ -525,6 +525,7 @@
 | [Starlight](https://open.spotify.com/track/1z39usGi4dXhcBoGGJz97c) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [Starlight / yoakemae](https://open.spotify.com/album/0UiMGbnQYzC9kQYTpoaG6r) | 5:17 | 2023-07-18 | 2023-08-16 |
 | [Staying](https://open.spotify.com/track/0p1deKNxo8x5pb1Nkzy67d) | [Clute](https://open.spotify.com/artist/1Astf0A3Ru04VkY1J4KVbf) | [Staying](https://open.spotify.com/album/4HwyiWSpgYUPy6mjXnZQeE) | 3:47 | 2023-08-30 | 2023-09-06 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
+| [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 |  |
 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 |  |
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2023-01-12 | 2023-01-18 |
 | [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 | 2023-01-24 | 2023-03-10 |

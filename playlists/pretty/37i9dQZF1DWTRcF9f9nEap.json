@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 82173,
+  "num_followers": 82216,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3",
+  "snapshot_id": "MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "You Gotta Move",
-        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "You Gotta Move",
-      "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "The 1971 Fillmore East Recordings",
         "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 284480,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "You Gotta Move",
+        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "You Gotta Move",
+      "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 175040,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
@@ -415,22 +399,6 @@
       "duration_ms": 236786,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -451,6 +419,38 @@
       "duration_ms": 232507,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fresh Evidence (Remastered 2017)",
-        "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 480149,
-      "name": "Ghost Blues",
-      "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Fresh Evidence (Remastered 2017)",
+        "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 480149,
+      "name": "Ghost Blues",
+      "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -631,6 +631,42 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Best - Southern Blues",
+        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        },
+        {
+          "name": "Taylor",
+          "url": "https://open.spotify.com/artist/7xzdqdXfioPbZAVhbdrvG1"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Taylor's Rock",
+      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Deuce (Remastered 2017)",
         "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
       },
@@ -663,26 +699,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Best - Southern Blues",
-        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        },
-        {
-          "name": "Taylor",
-          "url": "https://open.spotify.com/artist/7xzdqdXfioPbZAVhbdrvG1"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Taylor's Rock",
-      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 262000,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "added_at": "2023-01-16 21:05:55",

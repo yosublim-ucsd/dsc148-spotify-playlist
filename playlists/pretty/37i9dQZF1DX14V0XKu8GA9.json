@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 28478,
+  "num_followers": 28555,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDc4YTlkNDM3MGYxZmRmNWVlOGMwMmI1ZTI0M2MzMTI5ZDVjMjUw",
+  "snapshot_id": "MCwwMGNiNmRjMGU4YzQxMTI1NjJiM2Q3N2Y5Mjc2NzgyNDIyYWM3YzQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 17:42:25",
@@ -283,26 +283,22 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+        "name": "more than friends",
+        "url": "https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+          "name": "Jay Roxxx",
+          "url": "https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo"
         },
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
         }
       ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+      "duration_ms": 176172,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -323,22 +319,26 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "more than friends",
-        "url": "https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf"
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
       "artists": [
         {
-          "name": "Jay Roxxx",
-          "url": "https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
         },
         {
-          "name": "Fabi\u00f8 Guerra",
-          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 176172,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8"
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Apologies",
-        "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 190396,
-      "name": "Apologies",
-      "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 142205,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+      },
+      "artists": [
+        {
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+        }
+      ],
+      "duration_ms": 187898,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+        "name": "Apologies",
+        "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
       },
       "artists": [
         {
-          "name": "Chito Rana$",
-          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
         }
       ],
-      "duration_ms": 187898,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
+      "duration_ms": 190396,
+      "name": "Apologies",
+      "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
+        "name": "Need That",
+        "url": "https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "Need That",
+      "url": "https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
         "name": "Chingon (with Peso Peso)",
         "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 125930,
       "name": "Chingon (with Peso Peso)",
       "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Need That",
-        "url": "https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW"
-      },
-      "artists": [
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "Need That",
-      "url": "https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -783,22 +783,38 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "She gon choose",
-        "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
       },
       "artists": [
         {
-          "name": "Dj Flippp",
-          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
         },
         {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
         }
       ],
-      "duration_ms": 146400,
-      "name": "She gon choose",
-      "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
+      "duration_ms": 115370,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -831,18 +847,22 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+        "name": "She gon choose",
+        "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
       },
       "artists": [
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+      "duration_ms": 146400,
+      "name": "She gon choose",
+      "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -887,26 +907,6 @@
       "duration_ms": 154600,
       "name": "Bienvenidos",
       "url": "https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
-        }
-      ],
-      "duration_ms": 115370,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
     },
     {
       "added_at": "2023-09-15 17:42:25",

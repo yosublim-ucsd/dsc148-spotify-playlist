@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marcela Morelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,388 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,519 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 6 | [Esa Musiquita \(with Teresa Parodi\)](https://open.spotify.com/track/2Ez9mTUUoXZYpJmr6OFEUu) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:07 |
 | 7 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
 | 8 | [Aunque Reste Tiempo](https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Tiempo al Sol](https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd) | 1:35 |
-| 9 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 10 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
+| 9 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
+| 10 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 11 | [Azúcar del Estero](https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:29 |
 | 12 | [Paloma](https://open.spotify.com/track/1hVPHCzRy4X0O84ouOVY9Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:17 |
 | 13 | [No Podrás](https://open.spotify.com/track/0hBEnza4ST0mYX73QHTev1) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Tu Mejor Plan](https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI) | 3:15 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 20 | [Hundiendome En La Oscuridad](https://open.spotify.com/track/6vIUTXAx5gXRvrOUoU2r3K) | [Claudia Puyó](https://open.spotify.com/artist/19TslKl8qhtMCbzoujrhv9) | [Cuando Te Vi Partir](https://open.spotify.com/album/5OupJ3OsJ6Zzue7wJ0Aisk) | 4:18 |
 | 21 | [El Protagónico](https://open.spotify.com/track/2qRkJ7rOYh4PhNFuqqHNc7) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [El Protagónico](https://open.spotify.com/album/1Q4mn8XElzCTOZBl2qfkqY) | 2:40 |
 | 22 | [Te reís](https://open.spotify.com/track/2eEfdL8lApXa3lDh8I3yRC) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Antigua](https://open.spotify.com/album/7ycO0ov3bClBN6fWtdHiQQ) | 3:26 |
-| 23 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 |
-| 24 | [Como Dos Extraños](https://open.spotify.com/track/6Ii2pk8cWI7ofwsDdMMHmZ) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [César Angeleri](https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ), [Cristian Zárate](https://open.spotify.com/artist/3DxNxcSmNfdPAmxTNcPGCd), [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Daniel Naka](https://open.spotify.com/artist/1jKlt0OKTCmjpjlfbyU4Kb) | [Rara, Como Encendida](https://open.spotify.com/album/5FwIF2K1R3OLxFG3rSUAym) | 3:34 |
+| 23 | [Como Dos Extraños](https://open.spotify.com/track/6Ii2pk8cWI7ofwsDdMMHmZ) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [César Angeleri](https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ), [Cristian Zárate](https://open.spotify.com/artist/3DxNxcSmNfdPAmxTNcPGCd), [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Daniel Naka](https://open.spotify.com/artist/1jKlt0OKTCmjpjlfbyU4Kb) | [Rara, Como Encendida](https://open.spotify.com/album/5FwIF2K1R3OLxFG3rSUAym) | 3:34 |
+| 24 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 |
 | 25 | [Te Abracé en la Noche](https://open.spotify.com/track/75kkVYarAAlFU6Vsy5rFz3) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Vane Mihanovich](https://open.spotify.com/artist/5LvBye34bQCrxLLYWolBM0) | [Te Abracé en la Noche](https://open.spotify.com/album/32II4KjzZPNSmwp2M1jJyl) | 2:19 |
 | 26 | [Malamba](https://open.spotify.com/track/0774BrNYSO5gfBnsgKmiuP) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Malamba](https://open.spotify.com/album/3YYTo2Vq28NnlqIHUxBSBo) | 2:37 |
 | 27 | [Un Inocente Juego](https://open.spotify.com/track/6pNurXheXQ9GBPf6mgtrpQ) | [Marilina Ross](https://open.spotify.com/artist/452YUG0WFp34IRFIUgzSN2) | [Conectandome](https://open.spotify.com/album/5ZtUC8JyaN18hhlEDdZa5W) | 4:04 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Crecer con todo](https://open.spotify.com/track/6SHyHEHReOLnQafBSfF68L) | [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP) | [Crecer Con Todo](https://open.spotify.com/album/4B4Mv52aAJQCmDhgtOufEu) | 4:21 |
 | 30 | [Antes De Gira](https://open.spotify.com/track/06rdl9IZtSAVkYjeuKuQMV) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Antes De Gira](https://open.spotify.com/album/18cGj1u47imxFyt40dZHjQ) | 3:33 |
 
-Snapshot ID: `MCw2YWViZjk4M2UyYzU2NjFjYmQwZDEzM2E1N2Y3ZmJhMzk4ZTU1MGVh`
+Snapshot ID: `MCw3ODFjYzRmZjczNzgyZjI0ZWNjYTExNTNiZjlhMTVlMGVhMDczMzFk`

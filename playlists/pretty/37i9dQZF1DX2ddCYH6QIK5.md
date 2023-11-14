@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: VANDALISBIN , Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,502 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,513 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [SHOTS](https://open.spotify.com/track/2eLrZ1m4gmeKEUBZ14FctK) | [LYO](https://open.spotify.com/artist/4Q52SgbnXydJePjdRSUrXO) | [SHOTS](https://open.spotify.com/album/5sdZKEtJpW1DvtaTthN8eX) | 2:14 |
 | 80 | [Black Swarms](https://open.spotify.com/track/129EcBG38OROKW3K0jW9LT) | [Amber & the Moon](https://open.spotify.com/artist/7bxdfk6ZAZRXFZeTsdTLEs) | [Black Swarms](https://open.spotify.com/album/6A3NLFObdsklTIA4McVPkw) | 4:11 |
 
-Snapshot ID: `MCxjMGVjZTMzZDBiMTg5NmNiMDY0MWRhZDVhZjQ3ZDBiMDI5MmM4OWYx`
+Snapshot ID: `MCxjMzJhNmYxZjJiOTYwZDBkZDJlZTVkZDhmZTcxZWEyZGFhM2RhODEw`

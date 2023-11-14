@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/323643?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,319 likes - 63 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,357 likes - 63 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 62 | [海の瞳に映るもの](https://open.spotify.com/track/7J8RCcITJH3vx1Ea9lZUBU) | [光季](https://open.spotify.com/artist/3LXqR6Lto6ChlfibcmAnlj) | [海の瞳に映るもの](https://open.spotify.com/album/2iK7iRcSG3q9GUvVmal6wc) | 3:54 |
 | 63 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 |
 
-Snapshot ID: `MCxmOWYyNGY3YjliNmE2NDFkZjc5NTA3YTJmYmFhNDczN2YyN2FjZDg3`
+Snapshot ID: `MCwxYzUwMTY2ODUyN2YzY2ZjOGNlYWQ5ZDI1YWU2MjQ0NDY3OTU3MTMy`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10163,
+  "num_followers": 10165,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Practice",
-        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
-      },
-      "artists": [
-        {
-          "name": "GBM Nutron",
-          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 146400,
       "name": "Wi Deh Yah",
       "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wotless Carnival Album",
         "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 139000,
       "name": "Split in De Middle",
       "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -347,22 +347,6 @@
       "duration_ms": 123500,
       "name": "Tic It & Tac It",
       "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -415,6 +399,22 @@
       "duration_ms": 244578,
       "name": "Dear Promoter",
       "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2011",
-        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Guh Down",
-      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Yuh Bad (No Stressing)",
         "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194222,
       "name": "Yuh Bad (No Stressing)",
       "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2011",
+        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Guh Down",
+      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -939,38 +939,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Virgin",
-        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 185025,
-      "name": "Sexin",
-      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -995,30 +963,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baby Bells Riddim",
-        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
       },
       "artists": [
         {
-          "name": "Skorch Bun It",
-          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
-        },
-        {
-          "name": "CoolBlaze",
-          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
-        },
-        {
-          "name": "Salty",
-          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
         }
       ],
-      "duration_ms": 227356,
-      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
-      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1047,6 +1003,50 @@
       "duration_ms": 205139,
       "name": "Ba Ba Ben - Remix",
       "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Virgin",
+        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 185025,
+      "name": "Sexin",
+      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Baby Bells Riddim",
+        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
+      },
+      "artists": [
+        {
+          "name": "Skorch Bun It",
+          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
+        },
+        {
+          "name": "CoolBlaze",
+          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
+        },
+        {
+          "name": "Salty",
+          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
+        }
+      ],
+      "duration_ms": 227356,
+      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
+      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
     },
     {
       "added_at": "2022-02-24 18:00:00",

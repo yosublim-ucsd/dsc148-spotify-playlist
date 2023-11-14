@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: FLEMMING & Boef
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,641 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,655 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 5 | [Eigen Schuld](https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Eigen Schuld](https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7) | 3:13 |
 | 6 | [Versta Je Mij?](https://open.spotify.com/track/4FUuuk2Rh4HaSUdCSCiguc) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Versta Je Mij?](https://open.spotify.com/album/6UNeo9eNkJJo3hxEQRh7VM) | 2:24 |
 | 7 | [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 |
-| 8 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
-| 9 | [17](https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [17](https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz) | 2:40 |
-| 10 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 |
-| 11 | [Stoel In De Hemel](https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya) | 3:13 |
-| 12 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 |
-| 13 | [Dans Op Het Mes](https://open.spotify.com/track/2Mog5P8QZ9tnFq5uDm3T8w) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Dans Op Het Mes](https://open.spotify.com/album/4HlJBGJa7nEs3GOhsD4B9w) | 2:57 |
-| 14 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
+| 8 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
+| 9 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
+| 10 | [17](https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [17](https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz) | 2:40 |
+| 11 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 |
+| 12 | [Stoel In De Hemel](https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya) | 3:13 |
+| 13 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 |
+| 14 | [Dans Op Het Mes](https://open.spotify.com/track/2Mog5P8QZ9tnFq5uDm3T8w) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Dans Op Het Mes](https://open.spotify.com/album/4HlJBGJa7nEs3GOhsD4B9w) | 2:57 |
 | 15 | [Heuvels](https://open.spotify.com/track/44xpsWlXIZaLC9ezuALEyE) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Heuvels](https://open.spotify.com/album/58xNXd1NUbyBJpkN3i0mgr) | 2:45 |
 | 16 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 |
 | 17 | [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 2:54 |
 | 70 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 
-Snapshot ID: `MCw5ZDk2NzVjYzJiZTIxNTA3MWEwNzNiZDRjMjJjMjExNzEwMTNjNDRh`
+Snapshot ID: `MCxiMGM5ZTMwYWUxYzg3ZTU5YmUyZTQ2NWQ1ZjdiOGU4YjE5N2M4ZTIy`

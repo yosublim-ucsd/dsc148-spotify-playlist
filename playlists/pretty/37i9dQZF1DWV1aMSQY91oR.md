@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > We're back! The newest Hip\-Hop, refreshed weekly\. Cover: Pressa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,725 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,752 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 31 | [Don't Touch!](https://open.spotify.com/track/7KJStRowXCMzl0C60m3O4Z) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Touch!](https://open.spotify.com/album/1wEVbOHAk8ah8Dg6NgsAG0) | 2:52 |
 | 32 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
 | 33 | [VACAY](https://open.spotify.com/track/6IYWAQtBQ2sDGd0eXmnah4) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon) | [VACAY](https://open.spotify.com/album/67BkeBWZnt6sPINQg9J4Nl) | 3:17 |
-| 34 | [Let Me Work](https://open.spotify.com/track/77BqV9vcXe9JI4edEGFYiy) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S) | [Let Me Work](https://open.spotify.com/album/5AsP4tP2u40KVJjLErC8Bd) | 2:16 |
+| 34 | [Let Me Work \(feat\. Quality Control\)](https://open.spotify.com/track/77BqV9vcXe9JI4edEGFYiy) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S) | [Let Me Work \(feat\. Quality Control\)](https://open.spotify.com/album/5AsP4tP2u40KVJjLErC8Bd) | 2:16 |
 | 35 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
 | 36 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 |
 | 37 | [WINDOW 2 WALL](https://open.spotify.com/track/59RT7PUdlni1jIu64ypqfL) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [WINDOW 2 WALL](https://open.spotify.com/album/5p9XAzNyG89S6IHV2bzNoA) | 2:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 |
 | 49 | [been a long day](https://open.spotify.com/track/08AAf8wcx8aq1V9n2ROwqq) | [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn) | [been a long day](https://open.spotify.com/album/0c7BQEPfu2VWawWVAlg0ry) | 2:38 |
 
-Snapshot ID: `MCwxNjhjNDIxOTZhZTA1YTVlMDU2NmQ1ODYwNmJmOWM2Y2UxM2Q3OGJh`
+Snapshot ID: `MCw4YThkMjg1NDA2NGMxY2JiZGUzZjk4MjMzYTMzY2MxM2Y1NGYzNjRh`

@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 126630,
+  "num_followers": 126641,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWFkY2U0MjNlNTgzNTIyMGVhYmVjZmNhZmZkMTJhNWYxODdhNTIz",
+  "snapshot_id": "MCxiMGQ0YmYzMGQxNmY1MzlmMzM4ZGQ2ZTFlOGE5OWU0ZmVlZGUzYzU0",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Dear Mama",
-        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
-      },
-      "artists": [
-        {
-          "name": "Benitez, Darren",
-          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "Nani Wale Ka Lau Oliva",
-      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Yellow Bird",
         "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Dear Mama",
+        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
+      },
+      "artists": [
+        {
+          "name": "Benitez, Darren",
+          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "Nani Wale Ka Lau Oliva",
+      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -379,6 +363,22 @@
       "duration_ms": 165440,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Home Recordings Vol. 1",
         "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
       },
@@ -445,20 +461,24 @@
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "Lounge Music Deluxe: 101 Strings",
+        "url": "https://open.spotify.com/album/2mvV5ZGc4Iq4h7cOltp31p"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "101 Strings Orchestra",
+          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 157077,
+      "name": "Tropicando",
+      "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -495,26 +515,6 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Lounge Music Deluxe: 101 Strings",
-        "url": "https://open.spotify.com/album/2mvV5ZGc4Iq4h7cOltp31p"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        },
-        {
-          "name": "101 Strings Orchestra",
-          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
-        }
-      ],
-      "duration_ms": 157077,
-      "name": "Tropicando",
-      "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Blue Hawaii",
-      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
         "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184718,
       "name": "Colors of Hawaiki",
       "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Don Ho Show! (Live)",
         "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 244800,
       "name": "Shells - Live from Hawaii",
       "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2021-01-20 03:50:53",

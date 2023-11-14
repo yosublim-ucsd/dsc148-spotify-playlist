@@ -4,7 +4,7 @@
 
 > PRISCILLA e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-885 songs - 1 day 21 hr 27 min
+886 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [As Forças da Natureza](https://open.spotify.com/track/1BsODykGZ6HPqitFa5Gzh2) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Sambabook João Nogueira, 1](https://open.spotify.com/album/1umdScdFpe3iYjKTddPRlb) | 3:24 | 2022-09-01 | 2022-10-06 |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-01-11 | 2023-01-05 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-09-06 |  |
-| [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 | 2023-09-06 |  |
+| [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 | 2023-09-06 | 2023-11-14 |
 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 | 2023-05-03 | 2023-06-01 |
 | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8) | 2:03 | 2023-05-03 | 2023-06-01 |
 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 | 2023-07-05 | 2023-08-03 |
@@ -372,6 +372,7 @@
 | [Funk Rave](https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:27 | 2023-09-06 | 2023-10-05 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-08-02 | 2023-09-07 |
 | [Futuros Amantes \- Ao Vivo](https://open.spotify.com/track/2LlNByvTRoHUqKRqQEo9dX) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Margem, Finda a Viagem \(Ao Vivo\)](https://open.spotify.com/album/158GxqvkGfunXxh6vS2P3g) | 5:08 | 2022-05-04 | 2022-06-01 |
+| [Fã Incubado](https://open.spotify.com/track/2VqYfuxIvdfxvz6gzYyten) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Quer Dançar](https://open.spotify.com/album/6P6steMdU7Kg08bGmDYL2d) | 2:19 | 2023-11-14 |  |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-07-06 | 2023-02-02 |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-08-02 | 2023-09-07 |
 | [Gadinho de Faz Tempo](https://open.spotify.com/track/264ITABDBISQNvXeQuB0D2) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Biel Beats](https://open.spotify.com/artist/3ROfsCFSDz3A1WvStAdFSL) | [Gadinho de Faz Tempo](https://open.spotify.com/album/3wVMk60P1vIA3Vx25MWuUZ) | 2:36 | 2022-03-08 | 2022-04-07 |

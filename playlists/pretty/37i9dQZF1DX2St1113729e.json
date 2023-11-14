@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Rakky Ripper & Rizha",
-  "num_followers": 123203,
+  "num_followers": 123251,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2I2MzMzMWIyMGNkMjBhYjdlZTZlNDA0OTg3YTZiMmVhNWRhNWRk",
+  "snapshot_id": "MCxhOGVjMDQ4MjQzNDllOWQyNTQ3M2ZmZWNhNGFlN2M1MmQzOGM5ZDgw",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "QUE NOS PASO?",
+        "url": "https://open.spotify.com/album/5AXTM36dqOpt9gwDfqv4g0"
+      },
+      "artists": [
+        {
+          "name": "WE$T DUBAI",
+          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "QUE NOS PASO?",
+      "url": "https://open.spotify.com/track/3VUZ5WsMqNYzUfwyIW6G49"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Dejad Ke los Ni\u00f1os Se Acerquen a Nerve Agent",
         "url": "https://open.spotify.com/album/54qjLdL6oHRPDLyXr1ykg7"
       },
@@ -719,38 +735,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "QUE NOS PASO?",
-        "url": "https://open.spotify.com/album/5AXTM36dqOpt9gwDfqv4g0"
-      },
-      "artists": [
-        {
-          "name": "WE$T DUBAI",
-          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
-        }
-      ],
-      "duration_ms": 214838,
-      "name": "QUE NOS PASO?",
-      "url": "https://open.spotify.com/track/3VUZ5WsMqNYzUfwyIW6G49"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Pens\u00e1ndote",
-        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "tamagotchi (Remix)",
         "url": "https://open.spotify.com/album/6BkSsALt3g81OmJ4PzGIRb"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 145615,
       "name": "tamagotchi - Remix",
       "url": "https://open.spotify.com/track/2ZWwHCcNlejOAYFMQFiF7f"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 147300,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "No puedo decirte que no",
-        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "No puedo decirte que no",
-      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "MEJORES QUE AYER",
         "url": "https://open.spotify.com/album/7sgKcp5deTKBal1SRqTtRX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 124752,
       "name": "shichi",
       "url": "https://open.spotify.com/track/2zWcdtl80T8TWIwkpnyzVZ"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "No puedo decirte que no",
+        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "No puedo decirte que no",
+      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "La noche",
+        "url": "https://open.spotify.com/album/3XFEiQ48AJ8fAL1w2X7KoW"
+      },
+      "artists": [
+        {
+          "name": "9ckles",
+          "url": "https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR"
+        }
+      ],
+      "duration_ms": 120542,
+      "name": "La noche",
+      "url": "https://open.spotify.com/track/0QpRpP8ih2xfY9GN4R3PHv"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "No creo en el Amor",
         "url": "https://open.spotify.com/album/5zNLk7ai9vUgfRrxy08Qkd"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 139184,
       "name": "No creo en el Amor",
       "url": "https://open.spotify.com/track/2u1vsXZY7jxEHocmXh1lvl"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "La noche",
-        "url": "https://open.spotify.com/album/3XFEiQ48AJ8fAL1w2X7KoW"
-      },
-      "artists": [
-        {
-          "name": "9ckles",
-          "url": "https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR"
-        }
-      ],
-      "duration_ms": 120542,
-      "name": "La noche",
-      "url": "https://open.spotify.com/track/0QpRpP8ih2xfY9GN4R3PHv"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Stoli",
-        "url": "https://open.spotify.com/album/2fDsxHZ1FbRVIokU9CY75M"
-      },
-      "artists": [
-        {
-          "name": "Cma",
-          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
-        },
-        {
-          "name": "SUOB",
-          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 194943,
-      "name": "Stoli",
-      "url": "https://open.spotify.com/track/5Vx6986NgZnhZSfMksYMuq"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
         "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
       },
@@ -1295,6 +1271,30 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Stoli",
+        "url": "https://open.spotify.com/album/2fDsxHZ1FbRVIokU9CY75M"
+      },
+      "artists": [
+        {
+          "name": "Cma",
+          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
+        },
+        {
+          "name": "SUOB",
+          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 194943,
+      "name": "Stoli",
+      "url": "https://open.spotify.com/track/5Vx6986NgZnhZSfMksYMuq"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Anesthesia",
         "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
       },
@@ -1311,6 +1311,26 @@
       "duration_ms": 144000,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Mi Lady",
+        "url": "https://open.spotify.com/album/7k9mQ2tQni1pr4N6otovzy"
+      },
+      "artists": [
+        {
+          "name": "SUOB",
+          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
+        },
+        {
+          "name": "cyber666",
+          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Mi Lady",
+      "url": "https://open.spotify.com/track/0uV0AVcRD2KB4nkVTXJXZL"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1335,26 +1355,6 @@
       "duration_ms": 112980,
       "name": "CRIMEN",
       "url": "https://open.spotify.com/track/0Eu0kUMAZCuKpe7WdClt5f"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Mi Lady",
-        "url": "https://open.spotify.com/album/7k9mQ2tQni1pr4N6otovzy"
-      },
-      "artists": [
-        {
-          "name": "SUOB",
-          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
-        },
-        {
-          "name": "cyber666",
-          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Mi Lady",
-      "url": "https://open.spotify.com/track/0uV0AVcRD2KB4nkVTXJXZL"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "2035",
-        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        },
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
-        }
-      ],
-      "duration_ms": 112428,
-      "name": "2035",
-      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "b\u00e1goas de cocodrilo (Galician Army) [Remix]",
         "url": "https://open.spotify.com/album/6ShoJ2YTxOT0mYEVK77MwN"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 277500,
       "name": "b\u00e1goas de cocodrilo (Galician Army) - Remix",
       "url": "https://open.spotify.com/track/5gll3DVfSHPwso3oH0Ummw"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "2035",
+        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        },
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 112428,
+      "name": "2035",
+      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1771,38 +1771,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "MENTERROTA",
-        "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
-      },
-      "artists": [
-        {
-          "name": "mario cyrus",
-          "url": "https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5"
-        }
-      ],
-      "duration_ms": 180211,
-      "name": "MENTERROTA",
-      "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Tu capitto",
-        "url": "https://open.spotify.com/album/0wt1xhWFYu81yEb5ESKBX9"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 122128,
-      "name": "Tu capitto",
-      "url": "https://open.spotify.com/track/40fQIanIIxeAcFVlQKg2eT"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Club Mood",
         "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
       },
@@ -1823,6 +1791,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "MENTERROTA",
+        "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
+      },
+      "artists": [
+        {
+          "name": "mario cyrus",
+          "url": "https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5"
+        }
+      ],
+      "duration_ms": 180211,
+      "name": "MENTERROTA",
+      "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "SOLO PIENSO EN TI",
         "url": "https://open.spotify.com/album/1rOpIJuHiW72vtZSWOFv5g"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 165330,
       "name": "SOLO PIENSO EN TI",
       "url": "https://open.spotify.com/track/5J99jbR3wtSGDZrHODOpbc"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Tu capitto",
+        "url": "https://open.spotify.com/album/0wt1xhWFYu81yEb5ESKBX9"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 122128,
+      "name": "Tu capitto",
+      "url": "https://open.spotify.com/track/40fQIanIIxeAcFVlQKg2eT"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Beat Me (Remix Explosivo)",
-        "url": "https://open.spotify.com/album/7hcPupYHbFXVOpttQVxacH"
+        "name": "Una Mierda (Autoremix) [Remix]",
+        "url": "https://open.spotify.com/album/4F7Y0GCyN2jWHX7Z77uGFj"
       },
       "artists": [
         {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+          "name": "Jazm\u00edn Esquivel",
+          "url": "https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU"
         }
       ],
-      "duration_ms": 118600,
-      "name": "Beat Me (Remix Explosivo)",
-      "url": "https://open.spotify.com/track/3pLEWYyaNw7Hp4WyevTjtY"
+      "duration_ms": 271448,
+      "name": "Una Mierda (Autoremix) - Remix",
+      "url": "https://open.spotify.com/track/5Fofw7TM0oUhkofttsnGxX"
     }
   ],
   "unique_name": "helium",

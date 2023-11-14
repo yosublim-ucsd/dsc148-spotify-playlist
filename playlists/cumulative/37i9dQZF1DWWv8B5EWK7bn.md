@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-346 songs - 1 day 0 hr 48 min
+347 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-14 | 2023-06-12 |
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 | 2023-08-16 |
 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 | 2022-08-31 | 2023-01-04 |
-| [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 | 2021-10-06 | 2023-10-28 |
+| [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 | 2021-10-06 |  |
 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 | 2023-08-10 |  |
 | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 | 2022-01-18 | 2023-01-04 |
 | [Shadow in the Frame](https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 5:16 | 2022-01-20 | 2023-03-18 |
@@ -274,7 +274,7 @@
 | [Snapdragon](https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Snapdragon](https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8) | 3:12 | 2023-10-25 |  |
 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 | 2022-09-11 | 2022-11-26 |
 | [So Clear](https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:00 | 2022-09-11 | 2023-01-07 |
-| [Sospetto](https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [Mind Maze](https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P) | 3:08 | 2023-04-14 |  |
+| [Sospetto](https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [Mind Maze](https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P) | 3:08 | 2023-04-14 | 2023-11-14 |
 | [Sour Mango](https://open.spotify.com/track/7stREI9Xh4myxmMmaj3gIo) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 4:19 | 2023-01-20 | 2023-03-18 |
 | [Sour Sun](https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 2:37 | 2022-09-07 | 2023-04-30 |
 | [Sour Sun](https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR) | 2:37 | 2022-09-07 | 2023-10-11 |
@@ -309,7 +309,7 @@
 | [The Revolution of Super Visions](https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD) | 5:01 | 2021-10-06 |  |
 | [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-08-11 | 2023-11-10 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 | 2023-09-14 |
-| [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-06-02 |  |
+| [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-06-02 | 2023-11-14 |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2021-10-06 |  |
 | [Theme from SCUD](https://open.spotify.com/track/1atsnzNJRSTmmyg99h3k7D) | [SCUDFM](https://open.spotify.com/artist/32ick7QrmuMlgsV3i6IXGT) | [INNIT](https://open.spotify.com/album/6SvKfVNfxNQA7YtoNJClAw) | 4:09 | 2023-01-07 | 2023-01-21 |
 | [there is always a girl with a secret](https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [there is always a girl with a secret](https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s) | 5:16 | 2021-10-06 | 2022-08-12 |
@@ -327,6 +327,7 @@
 | [Underwater](https://open.spotify.com/track/0bHFwdJ7C8tYDVxh6t3GBn) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 6:45 | 2022-05-24 | 2022-07-29 |
 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 | 2022-05-24 | 2023-06-29 |
 | [Underwater](https://open.spotify.com/track/76FqNXv4mY8xhkEyylm1gL) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/4jeSJc6vev3IZbIaVAvR0w) | 6:45 | 2022-05-24 | 2022-08-11 |
+| [Une Autre Attente](https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/3txRsK90V4IwObiif90nJx) | 2:42 | 2023-11-13 |  |
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-08-31 | 2023-05-27 |
 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 | 2022-04-25 | 2022-06-23 |
 | [Unpeopled Space](https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Unpeopled Space](https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc) | 6:09 | 2022-02-25 | 2023-01-21 |

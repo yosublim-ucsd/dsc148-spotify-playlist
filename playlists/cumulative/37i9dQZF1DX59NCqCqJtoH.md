@@ -2,7 +2,7 @@
 
 ### [idk.](https://open.spotify.com/playlist/37i9dQZF1DX59NCqCqJtoH)
 
-> we hear you.
+> We hear you.
 
 638 songs - 1 day 7 hr 35 min
 

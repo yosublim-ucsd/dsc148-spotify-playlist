@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: G Jones",
-  "num_followers": 892860,
+  "num_followers": 892893,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWFiMDBjNWMyNDFlNzc2OTY0MTMyNmJlY2NhMzk3NDZlNzVlOThj",
+  "snapshot_id": "MCwwOWM0ZjM0N2NlN2Y2OTI3ZGZiNzM2MTA2MGU3MGY0YjU2ZWIxM2Qx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 235186,
       "name": "The Buzz - Bonus Track",
       "url": "https://open.spotify.com/track/6HDUnr41uGjxhMTzI1Hjmt"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
-      },
-      "artists": [
-        {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Eden (feat. fussy)",
         "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
       },
@@ -1295,42 +1315,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/55wW59sZIugEKDbbATNigk"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 201008,
       "name": "Breath",
       "url": "https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "KARMA (With Jazz Cartier)",
-        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "KARMA (With Jazz Cartier)",
-      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Red // Blue",
         "url": "https://open.spotify.com/album/0K7Og050SbKXSKXijCofik"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 254879,
       "name": "Crash 2.0",
       "url": "https://open.spotify.com/track/7coX3jc5vGpywMWEZ8X8Mq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "KARMA (With Jazz Cartier)",
+        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "KARMA (With Jazz Cartier)",
+      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1567,6 +1567,22 @@
       "duration_ms": 163607,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3xY1Z0W0UO1itJoa5wpA95"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 214929,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Ur Body",
         "url": "https://open.spotify.com/album/46SVWbWMuVMgT2sjzCB6hR"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2023-10-27 04:00:00",

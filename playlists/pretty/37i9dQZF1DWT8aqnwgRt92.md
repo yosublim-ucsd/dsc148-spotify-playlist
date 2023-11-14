@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,516 likes - 85 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,946 likes - 85 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCwwNTE1YmJiYjk4OGE1NTFjNDU0ZTVjZDNjMjgzYTE3ZGMzMjQzZmVj`
+Snapshot ID: `MCxiNzk1ZDlmOTMzMTc2OWIyYTc1MDFhYzBkM2VkZDc3YTYzNjA2YzFk`

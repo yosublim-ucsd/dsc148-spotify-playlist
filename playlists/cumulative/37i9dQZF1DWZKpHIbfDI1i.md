@@ -2,9 +2,9 @@
 
 ### [Top México](https://open.spotify.com/playlist/37i9dQZF1DWZKpHIbfDI1i)
 
-> La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Natanael Cano en portada.
+> La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Mon Laferte en portada.
 
-746 songs - 1 day 16 hr 25 min
+747 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-04 | 2023-08-19 |
 | [Mudanza de Hormiga](https://open.spotify.com/track/4Prh5l1OTtgtj4lgYons6c) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mudanza de Hormiga](https://open.spotify.com/album/6nHXyNvWQ5AQMv08enQHtH) | 2:30 | 2022-01-13 | 2022-03-10 |
 | [Mujer del Desierto](https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Mujer del Desierto](https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG) | 3:30 | 2022-03-11 | 2022-03-26 |
-| [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 | 2023-09-15 |  |
+| [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 | 2023-09-15 | 2023-11-14 |
 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 | 2022-05-27 | 2022-06-18 |
 | [Muñeca de lego](https://open.spotify.com/track/5Q7yF13xbkKXh2f5rrgYdK) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [BAD BITCHES](https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt) | 2:35 | 2023-11-10 |  |
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2022-07-29 | 2022-12-17 |
@@ -656,6 +656,7 @@
 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 | 2023-03-03 | 2023-03-11 |
 | [Te Vale Madre](https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Vale Madre](https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm) | 2:31 | 2022-11-11 | 2023-05-06 |
 | [Tenemos que hablar](https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Tenemos que hablar](https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU) | 3:10 | 2023-08-04 |  |
+| [Tenochtitlán](https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:13 | 2023-11-13 |  |
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-10-14 | 2023-02-04 |
 | [Tiki](https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Tiki](https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd) | 3:09 | 2023-10-06 |  |
 | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/album/4qYgFOOlhq4gi2nipKRCMb) | 3:32 | 2023-09-08 | 2023-10-14 |

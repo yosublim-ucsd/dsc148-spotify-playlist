@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,093 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,418 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 36 | [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [LOS POBRES Y LOS RICOS](https://open.spotify.com/album/0og8Wv6WAlWUUJT4Ub9IIe) | 3:19 |
 | 37 | [TROLA](https://open.spotify.com/track/0JwgWnxbxmNA13dZaQJeZo) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [TROLA](https://open.spotify.com/album/01VU9xUNvh4ebcqZoKGgpA) | 1:55 |
 | 38 | [Sigue Ahi](https://open.spotify.com/track/1A5qU4uUp9st8eSiqCg9O9) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Sigue Ahi](https://open.spotify.com/album/3HcINwMFf7V5Bk2IfqnK27) | 2:47 |
-| 39 | [Rulay & Pica Pollo](https://open.spotify.com/track/5SoD0boUrXxx7YBYF2TA5P) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [Rulay & Pica Pollo](https://open.spotify.com/album/3IX8Yc0qPOtLKxlL9wFdiH) | 4:23 |
+| 39 | [RULAY & PICA POLLO](https://open.spotify.com/track/7pgLXub9tIvfXMT7MpJRQM) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 4:23 |
 | 40 | [Se Comenta](https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Se Comenta](https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ) | 2:59 |
 | 41 | [Rico Feo](https://open.spotify.com/track/36AdYWyVOERiPFL4SfpJCM) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt) | [Rico Feo](https://open.spotify.com/album/4xYqfbtDwQBdZwgfUy4XQJ) | 3:59 |
 | 42 | [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 |
 | 43 | [Los Muñecos](https://open.spotify.com/track/48XizIE53RoMqG3qYa5bxn) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [EL CHEF DE LOS VERSOS](https://open.spotify.com/album/4F7vHhoWlJhlsukP58qPs7) | 1:39 |
 | 44 | [Gemelo](https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Gemelo](https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX) | 2:12 |
-| 45 | [Moli](https://open.spotify.com/track/6WiWFX2leVlEE4bhiMfGva) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Papa Jeison](https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby) | [MOLI](https://open.spotify.com/album/1apyvIqkv9KPNWgBE24rDu) | 3:00 |
+| 45 | [MOLI](https://open.spotify.com/track/2QEQOuWMqRzD1WIY4brAD0) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Papa Jeison](https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 3:00 |
 | 46 | [Hay Santo](https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM) | [Hay Santo](https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2) | 3:27 |
 | 47 | [Lo Rafaguie](https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Lo Rafaguie](https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV) | 2:21 |
 | 48 | [Mi Flaca \- Remix](https://open.spotify.com/track/3KvshDFG7oEN6MDVQI2NHD) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF), [Frasigan](https://open.spotify.com/artist/6GQHqIsOYyPK7DEMp1wCHo) | [Mi Flaca \(Remix\)](https://open.spotify.com/album/0p4eyPNYAgdQ5xiUKWmRwW) | 2:07 |
 | 49 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
 | 50 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 |
 
-Snapshot ID: `MCxkYTIxYThhYWEwZjlhZThiNTYyMTAyMjJjNTJhZjZlMjU1MjFmNTU5`
+Snapshot ID: `MCxkZTA3NjMzYzQyZTk1ZTM1NWZiNDQwNDEyOTEzZTkxN2VmY2EyMGYx`

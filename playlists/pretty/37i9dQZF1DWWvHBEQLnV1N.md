@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,815 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,326 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 79 | [Christmas Prayer](https://open.spotify.com/track/1fVUbYWYtBmzTllJ2EAddD) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Infinite Things \(Deluxe Version\)](https://open.spotify.com/album/3g2kKcxwX4I7ttohCuZkkF) | 3:23 |
 | 80 | [Glasgow Love Theme](https://open.spotify.com/track/2dz5fCXiNZk4W5Qptpmfgm) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 2:05 |
 
-Snapshot ID: `MCxlNWFhZmVjOWVlYTgxZjZhOWI5ZDhmZjlhMDM3ZTM2Mzc3MDBiNDE5`
+Snapshot ID: `MCxjOGMzNjdhYzgwZDIxYjM5NTBlMmVhZThhZmUzNzViMjY0Njc3NDQ0`

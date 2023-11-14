@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 97549,
+  "num_followers": 97614,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGEyYWUwOWM3OWQxYTY5OWZiZWMxM2NmNzkxMDIwYjY3OWFhZDRk",
+  "snapshot_id": "MCw0NzRhOTMzNGQwNzA5ZTlhNGI2ZGY3MjMwOWU0ZDRkODRhMjMwNjM3",
   "tracks": [
     {
       "added_at": "2023-09-15 13:43:10",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
+        "name": "Mish Kayan Hayek T'Koun",
+        "url": "https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 350800,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
         "name": "Alby Eshekha",
         "url": "https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 272575,
       "name": "Ya Magnon",
       "url": "https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
-        "name": "Mish Kayan Hayek T'Koun",
-        "url": "https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 350800,
-      "name": "Sallimleh Alayh",
-      "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Nour El Ein",
-        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 275553,
-      "name": "Nafs El Makan",
-      "url": "https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "Lolaki",
         "url": "https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow"
       },
@@ -415,6 +399,38 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
+        "name": "Marasil",
+        "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 309942,
+      "name": "Marasil",
+      "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Nour El Ein",
+        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 275553,
+      "name": "Nafs El Makan",
+      "url": "https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
         "name": "Efred",
         "url": "https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Marasil",
-        "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
+        "name": "Rouhi",
+        "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
       },
       "artists": [
         {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
         }
       ],
-      "duration_ms": 309942,
-      "name": "Marasil",
-      "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
+      "duration_ms": 253786,
+      "name": "Ah Bahibbak",
+      "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -479,6 +495,22 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
         "name": "Roh Alby",
         "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
       },
@@ -491,38 +523,6 @@
       "duration_ms": 277026,
       "name": "Ahl El Malama",
       "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
-        "name": "\u0630\u0643\u0631\u064a\u0627\u062a",
-        "url": "https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "\u064a\u0627\u0639\u0645\u0631\u0646\u0627",
-      "url": "https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
-        "name": "Rouhi",
-        "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
-      },
-      "artists": [
-        {
-          "name": "Samira Said",
-          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
-        }
-      ],
-      "duration_ms": 253786,
-      "name": "Ah Bahibbak",
-      "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -567,18 +567,34 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
       },
       "artists": [
         {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Sahrany",
-      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+      "duration_ms": 260167,
+      "name": "Ya Leila Disco",
+      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "\u0630\u0643\u0631\u064a\u0627\u062a",
+        "url": "https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "\u064a\u0627\u0639\u0645\u0631\u0646\u0627",
+      "url": "https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -595,22 +611,6 @@
       "duration_ms": 184946,
       "name": "Tallou Hbabna",
       "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
-      },
-      "artists": [
-        {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
-        }
-      ],
-      "duration_ms": 260167,
-      "name": "Ya Leila Disco",
-      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
     },
     {
       "added_at": "2023-09-15 13:43:10",

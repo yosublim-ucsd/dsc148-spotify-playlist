@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 251600,
       "name": "Buckshots",
       "url": "https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 178758,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL"
@@ -6179,6 +6179,28 @@
     },
     {
       "album": {
+        "name": "Pit of the Maw",
+        "url": "https://open.spotify.com/album/2queNUHccK3awyRbA8Wf20"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "SISTO",
+          "url": "https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Pit of the Maw",
+      "url": "https://open.spotify.com/track/2alDalhotF1t7ldnToc0Ec"
+    },
+    {
+      "album": {
         "name": "Playing With Fire",
         "url": "https://open.spotify.com/album/1aEjxEcvjm0afnrOlIqfZV"
       },
@@ -6754,6 +6776,28 @@
       "duration_ms": 150987,
       "name": "Raveyard",
       "url": "https://open.spotify.com/track/47Azb1Ud85D0xD9TIiLY4H"
+    },
+    {
+      "album": {
+        "name": "Red Bouquet",
+        "url": "https://open.spotify.com/album/3haW0kTaYKiXicgg844cjb"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Nikki Paige",
+          "url": "https://open.spotify.com/artist/2C31l6mR38QGCGETH2sNJn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Red Bouquet",
+      "url": "https://open.spotify.com/track/0ZuOjzPOK1J0Rc4FpDaCPY"
     },
     {
       "album": {

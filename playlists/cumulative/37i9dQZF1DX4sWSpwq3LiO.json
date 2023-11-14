@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 121518,
       "name": "Aislingeach",
       "url": "https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 139777,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy"
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 141500,
       "name": "Answer With Light",
       "url": "https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 184013,
       "name": "Arthur's Theme",
       "url": "https://open.spotify.com/track/2hvJks7wVAgPubs2ngNOwQ"
@@ -2546,6 +2546,24 @@
       "duration_ms": 143994,
       "name": "Ask Me Anything",
       "url": "https://open.spotify.com/track/36wwYDM1vuWHuocV3Nq9hf"
+    },
+    {
+      "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
     },
     {
       "album": {
@@ -5372,7 +5390,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 126000,
       "name": "D'\u00e9meraude",
       "url": "https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB"
@@ -6013,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Diaphanous",
+        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
+      },
+      "artists": [
+        {
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Diaphanous",
+      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+    },
+    {
+      "album": {
         "name": "der Saibling",
         "url": "https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd"
       },
@@ -6546,7 +6582,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 153524,
       "name": "Early Memories",
       "url": "https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq"
@@ -7868,7 +7904,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 148500,
       "name": "Finally Ours",
       "url": "https://open.spotify.com/track/790LoJy9GwWsIjtu8PZEos"
@@ -8192,7 +8228,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 137519,
       "name": "For Kate",
       "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
@@ -8844,7 +8880,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 145810,
       "name": "Fusionnelle",
       "url": "https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5"
@@ -9662,6 +9698,24 @@
       "duration_ms": 136500,
       "name": "Heartfelt",
       "url": "https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1"
+    },
+    {
+      "album": {
+        "name": "Hearts of Desire",
+        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139312,
+      "name": "Hearts of Desire",
+      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
     },
     {
       "album": {
@@ -10692,7 +10746,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 150187,
       "name": "Il Colibr\u00ec",
       "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
@@ -10710,7 +10764,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 150874,
       "name": "Il lago",
       "url": "https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke"
@@ -11970,7 +12024,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 201159,
       "name": "Kastepiisk",
       "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
@@ -14168,6 +14222,24 @@
       "duration_ms": 145313,
       "name": "Love Will Set Us Free",
       "url": "https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl"
+    },
+    {
+      "album": {
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
     },
     {
       "album": {
@@ -17208,7 +17280,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 119120,
       "name": "Nowesind",
       "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
@@ -18480,6 +18552,24 @@
       "duration_ms": 133874,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
+    },
+    {
+      "album": {
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "album": {
@@ -22550,7 +22640,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 148500,
       "name": "Snowed In",
       "url": "https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3"
@@ -27564,7 +27654,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 145075,
       "name": "Valse pour Johann",
       "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
@@ -28968,7 +29058,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
@@ -29142,7 +29232,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 181079,
       "name": "Windspiel",
       "url": "https://open.spotify.com/track/3g3Xf5ANiiv91xwMsN8KJs"

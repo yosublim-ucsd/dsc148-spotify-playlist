@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Autumn Song",
+        "url": "https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150514,
+      "name": "Autumn Song",
+      "url": "https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm"
       },
@@ -5753,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX"
       },
@@ -8652,6 +8688,24 @@
       "duration_ms": 178000,
       "name": "Saving Daylight (Revisited)",
       "url": "https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m"
+    },
+    {
+      "album": {
+        "name": "Seasonal mother",
+        "url": "https://open.spotify.com/album/5EWvyQhyvnRsRuyvLxSiZ4"
+      },
+      "artists": [
+        {
+          "name": "Emilia Branco",
+          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "Seasonal mother",
+      "url": "https://open.spotify.com/track/2zVMhbaUO3mBXZ16YFtOoP"
     },
     {
       "album": {

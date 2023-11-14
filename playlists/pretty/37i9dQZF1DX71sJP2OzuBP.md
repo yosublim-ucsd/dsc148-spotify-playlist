@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,674 likes - 110 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,685 likes - 110 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [沒有名字的地方](https://open.spotify.com/track/3rKtWI49zelWKvyejCaLLE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:05 |
 | 110 | [也許路很長](https://open.spotify.com/track/2h8nkZW9vo6ikAPnY6z4xi) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [也許路很長](https://open.spotify.com/album/78aNvZpHJiGL8Z8DkohZLh) | 3:55 |
 
-Snapshot ID: `MCxjZWQ2Njc2OTc2NWFkZmRlZTVkZmQ4NmFhNDdmY2Y2ZmRlYTlhMjNk`
+Snapshot ID: `MCw3YWMxZmFjN2MzODNhYjc5MzZlNTg4OTUwNzEyNmQzZGYxMmFhNmNh`

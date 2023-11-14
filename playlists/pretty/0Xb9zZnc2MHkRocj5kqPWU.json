@@ -1,13 +1,49 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 65064,
+  "num_followers": 65063,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTc0OCw1OWUwZDRjZTMxNThkOWM4MDZlNTIxNTY4MWYyODVmYzc1MjkyZTVm",
+  "snapshot_id": "MTc1MiwzNDFhMGQ0ZTA1NWZlZDMzYzM2ZjJhNTk5N2MzM2VhZDEyNzNjZTBh",
   "tracks": [
+    {
+      "added_at": "2023-11-13 18:21:17",
+      "album": {
+        "name": "N\u00e9o-Romance (Extended Version)",
+        "url": "https://open.spotify.com/album/7c2cqEPUmdwXr5upWoKpQs"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 292042,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/1p7s4bEbjLRRUSfu9qjkty"
+    },
+    {
+      "added_at": "2023-11-13 18:21:36",
+      "album": {
+        "name": "Epistrophy",
+        "url": "https://open.spotify.com/album/2L2K4tjWtmbp8ldkM88adt"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Epistrophy",
+      "url": "https://open.spotify.com/track/2U1cIjS5cocGGNEHt76HeP"
+    },
     {
       "added_at": "2023-11-10 12:37:11",
       "album": {
@@ -43,6 +79,26 @@
       "duration_ms": 174800,
       "name": "Dancer in the Snow",
       "url": "https://open.spotify.com/track/1PbNy6LgD8zehL8vxAOitp"
+    },
+    {
+      "added_at": "2023-11-13 18:22:38",
+      "album": {
+        "name": "Baroque Colours",
+        "url": "https://open.spotify.com/album/5QyKl7zQwEW8QYSMkCXYOK"
+      },
+      "artists": [
+        {
+          "name": "Johann Kuhnau",
+          "url": "https://open.spotify.com/artist/0Z38aqeqmuLRSksXEGOI0A"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 66506,
+      "name": "Piano Improvisation 1 (After Prelude from Neue Clavier-\u00dcbung I, Partie V)",
+      "url": "https://open.spotify.com/track/4OX2bVtapCo8o6FLcBDLRj"
     },
     {
       "added_at": "2023-10-30 17:05:29",
@@ -109,26 +165,6 @@
       "url": "https://open.spotify.com/track/1qRK1V8UVuAke4GhYtvJ9A"
     },
     {
-      "added_at": "2023-10-13 21:11:01",
-      "album": {
-        "name": "Intro",
-        "url": "https://open.spotify.com/album/7rYZqMPpU0Ng95S9ijPmJz"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
-        }
-      ],
-      "duration_ms": 64492,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/3EfkxwXdP8dJJB7OLT33eX"
-    },
-    {
       "added_at": "2023-10-13 21:30:15",
       "album": {
         "name": "Genshin Impact: Lover's Oath (Arr. for Piano by Pascal Hahn)",
@@ -163,6 +199,26 @@
       "duration_ms": 181983,
       "name": "Respiro 1",
       "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
+    },
+    {
+      "added_at": "2023-10-13 21:11:01",
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/7rYZqMPpU0Ng95S9ijPmJz"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 64492,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3EfkxwXdP8dJJB7OLT33eX"
     },
     {
       "added_at": "2023-09-15 12:25:02",

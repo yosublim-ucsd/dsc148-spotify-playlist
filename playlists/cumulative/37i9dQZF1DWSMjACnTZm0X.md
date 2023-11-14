@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSMjACnTZm0X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSMjACnTZm0X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSMjACnTZm0X)
 
-### [Piano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
+### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT\-Cu\-4SHH1wD6g">DBN Gogo</a>
 

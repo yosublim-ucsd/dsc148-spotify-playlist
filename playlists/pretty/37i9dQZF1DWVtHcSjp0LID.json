@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 64204,
+  "num_followers": 64254,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
+  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 222320,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Nina Kraviz",
+        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Ghetto Kraviz",
+      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Nina Kraviz",
-        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Ghetto Kraviz",
-      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
     },
     {
       "added_at": "2023-06-09 18:05:35",

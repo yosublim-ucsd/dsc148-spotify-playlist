@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,817 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,032 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [The One \- The One I'm Looking For](https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [The One \(The One I'm Looking For\)](https://open.spotify.com/album/2IA3ckn9YMHtWyidjvz58F) | 2:41 |
 | 50 | [Toxic Boy](https://open.spotify.com/track/3IIcD3Z0CnflLQNjwBekUP) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Gospel Of Your Sins](https://open.spotify.com/album/5LBs8yRsirBmLBvIzbmESl) | 4:47 |
 
-Snapshot ID: `MCw1MWNlNjQ0MjQwZjJkNGExYWIyMmMyMTM0NGNmZTNlNTNmNjZiMjE3`
+Snapshot ID: `MCxkYmEyNDM0NjEyMDE4ZDFjNWU2NjI1ODY3NzlmZTIxNWFiZDAzZGMw`

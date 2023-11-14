@@ -1,12 +1,12 @@
 {
   "description": "This month: songs from an iconic era of Black film soundtracks.",
-  "num_followers": 1123871,
+  "num_followers": 1123876,
   "original_name": "Film & TV Favorites: 90s Black Cinema",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzQwYjQ0ZDVhZDQ1NGJiOTlmNzkyMTgzODUzNTk4ZDlkOWM2ZjEw",
+  "snapshot_id": "MCxjZDY2OGM0NjRjZDY4MDIyMTM1NTQwMTk4N2NmNzZkYzU5NDlkZjMy",
   "tracks": [
     {
       "added_at": "2021-02-02 15:31:39",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "Belly (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Z4BjsVx8KRQwegUl2zJ2R"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 310573,
       "name": "Winter Warz",
       "url": "https://open.spotify.com/track/0iCWDU1S3hjQphZcD0UfIE"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -356,13 +356,13 @@
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 298173,
-      "name": "Not Gon' Cry - from Waiting to Exhale - Original Soundtrack",
-      "url": "https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z"
+      "duration_ms": 204933,
+      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -372,13 +372,13 @@
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
+      "duration_ms": 298173,
+      "name": "Not Gon' Cry - from Waiting to Exhale - Original Soundtrack",
+      "url": "https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -427,26 +427,6 @@
       "duration_ms": 371640,
       "name": "A Heart Is A House For Love",
       "url": "https://open.spotify.com/track/7sGneWBaDd89TrIFLBw3Nd"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "HAV PLENTY Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -503,22 +483,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "The Nutty Professor",
-        "url": "https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc"
+        "name": "HAV PLENTY Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         },
         {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
         }
       ],
-      "duration_ms": 267040,
-      "name": "Ain't No N-G-A",
-      "url": "https://open.spotify.com/track/6t3Wg8rDoupH8mgEY4AIa0"
+      "duration_ms": 285333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -535,6 +515,26 @@
       "duration_ms": 300333,
       "name": "We Haven't Finished Yet",
       "url": "https://open.spotify.com/track/1fDGra27Jnj1nF5xeUXRVS"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "The Nutty Professor",
+        "url": "https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        }
+      ],
+      "duration_ms": 267040,
+      "name": "Ain't No N-G-A",
+      "url": "https://open.spotify.com/track/6t3Wg8rDoupH8mgEY4AIa0"
     },
     {
       "added_at": "2021-02-02 15:31:39",

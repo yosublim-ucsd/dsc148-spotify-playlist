@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-729 songs - 1 day 6 hr 37 min
+730 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-21 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-05-27 | 2023-04-26 |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2022-05-27 | 2023-07-25 |
+| [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 | 2023-11-13 |  |
 | [A Moment Like This](https://open.spotify.com/track/1TGVKteIcrRg7YvGiuVphF) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [A Moment Like This](https://open.spotify.com/album/1NF3qFuGSmROjzAQAzT8Rm) | 3:48 | 2023-04-25 |  |
 | [A New Beginning](https://open.spotify.com/track/1Z1PcKjgCAf2O9VQommZgB) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Healing](https://open.spotify.com/album/3CQ4JisFsekWGtqiRnYH6n) | 2:13 | 2023-09-18 |  |
 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 | 2023-04-06 |  |
@@ -251,7 +252,7 @@
 | [Haven](https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Haven](https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7) | 2:45 | 2022-05-27 |  |
 | [Heart in Hand](https://open.spotify.com/track/0huKJwIKDcpnZdlkYUYni9) | [Dakota Fields](https://open.spotify.com/artist/6CtFcUv9Kdu58sdYbCAt8g) | [Heart in Hand](https://open.spotify.com/album/5AvAyomaixNB3mRbdWyGti) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-05-27 | 2023-05-04 |
-| [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 | 2023-11-11 |
+| [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 |  |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-05-27 |  |
 | [Heather's Croft](https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Heather's Croft](https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0) | 2:57 | 2022-05-27 | 2023-10-25 |
 | [Helgafell](https://open.spotify.com/track/1uLAimb1FsPL3K5n5f81SN) | [Agnes Ross](https://open.spotify.com/artist/6n0EoqtgCg1IHEMaU6J1ML) | [Hekla](https://open.spotify.com/album/7byhTf36ViyuDqCYmf4woy) | 2:23 | 2022-05-27 | 2022-09-24 |
@@ -516,7 +517,7 @@
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-05-27 |  |
 | [Recluse](https://open.spotify.com/track/3bFvORAkFIg8TFXcpoCYwg) | [Pavel Antonov Manev](https://open.spotify.com/artist/0A7g4WQaIuDvhaZBcKpYee) | [Recluse](https://open.spotify.com/album/3OQ5VptI9YDkb90OnksjrR) | 2:22 | 2022-05-27 | 2022-09-24 |
 | [Reflections](https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Reflections](https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s) | 1:53 | 2023-03-13 | 2023-07-25 |
-| [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-05-27 |  |
+| [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-05-27 | 2023-11-14 |
 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2022-07-20 | 2023-07-25 |
 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 | 2022-05-27 |  |
 | [Remembrance](https://open.spotify.com/track/1BCCWdwTZKOsvO8RInNJqX) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Remembrance](https://open.spotify.com/album/7iXEJWNcMTG8h4CEQeFUqQ) | 2:14 | 2022-05-27 | 2022-09-24 |
@@ -632,7 +633,7 @@
 | [The Mist That Surrounds](https://open.spotify.com/track/4gwUfFUFWoeGK1u6OJ5tIi) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [A Place I Know](https://open.spotify.com/album/2qAc4RulUwgwubmQw9RoQU) | 2:25 | 2022-07-20 | 2022-09-24 |
 | [The Morning After](https://open.spotify.com/track/1DHhmHbFGGiQVG3fStE6bf) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [The Morning After](https://open.spotify.com/album/4qgnHamEDQl2MneGMS5rsG) | 2:30 | 2022-05-27 | 2022-09-24 |
 | [The Northern Fairy](https://open.spotify.com/track/1hwfxmyMPUvuuihQY1PLOK) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [The Northern Fairy](https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws) | 2:10 | 2022-05-27 | 2022-08-10 |
-| [The Novelty Is Bound To Fade](https://open.spotify.com/track/1czGa9DmQSLn6LRYb5moi4) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [The Novelty Is Bound To Fade](https://open.spotify.com/album/5KPox3aevZOIHhscjhhAzn) | 2:44 | 2023-02-20 |  |
+| [The Novelty Is Bound To Fade](https://open.spotify.com/track/1czGa9DmQSLn6LRYb5moi4) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [The Novelty Is Bound To Fade](https://open.spotify.com/album/5KPox3aevZOIHhscjhhAzn) | 2:44 | 2023-02-20 | 2023-11-14 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-05-27 | 2023-03-28 |
 | [The Parchment Moon](https://open.spotify.com/track/7J3lkfbNJGpJQZOq4xZv4t) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [The Parchment Moon](https://open.spotify.com/album/7rcZ78F9uYe9xFeiLNi9Rs) | 2:12 | 2023-02-20 |  |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2022-05-27 | 2022-07-21 |

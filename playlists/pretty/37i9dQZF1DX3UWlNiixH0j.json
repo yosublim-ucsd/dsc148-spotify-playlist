@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Mom",
-  "num_followers": 54054,
+  "num_followers": 54078,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzgzNWI4NGViOWYxZWE3YmFjMzkzNmUyOGRhYmI3OWM3MWEzODc2",
+  "snapshot_id": "MCxmNGUyYzBlNTBkODk5NDljN2I4YWQ3MTFiMzkzNGUzMWZiNGQ1ZDgx",
   "tracks": [
     {
       "added_at": "2023-11-12 13:40:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "89.7 Growl FM",
-        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Let It Go As If You Wander",
-      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "Blood in blue",
         "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         }
       ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -715,6 +699,22 @@
       "duration_ms": 235562,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
+        "name": "F.N.A.P.",
+        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "F.N.A.P.",
+      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
         "name": "that place is burning",
         "url": "https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 335187,
       "name": "that place is burning",
       "url": "https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "F.N.A.P.",
-        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "F.N.A.P.",
-      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
         "name": "OLD ROOKIE EP.1",
         "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 265961,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "CHELSEA",
         "url": "https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 211728,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "Trank",
-        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
-      },
-      "artists": [
-        {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
-        }
-      ],
-      "duration_ms": 177259,
-      "name": "Trank",
-      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -911,6 +895,38 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "Trank",
+        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
+      },
+      "artists": [
+        {
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+        }
+      ],
+      "duration_ms": 177259,
+      "name": "Trank",
+      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
         "name": "\u80b4",
         "url": "https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp"
       },
@@ -923,6 +939,22 @@
       "duration_ms": 160144,
       "name": "\u4e0d\u7720\u5c0e\u5165\u5264",
       "url": "https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 193454,
+      "name": "\u8d64\u3068\u9752",
+      "url": "https://open.spotify.com/track/2udGq9U6BVzKk2UqTpji45"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -951,22 +983,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 193454,
-      "name": "\u8d64\u3068\u9752",
-      "url": "https://open.spotify.com/track/2udGq9U6BVzKk2UqTpji45"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "\u967d\u6c17\u306a\u4f11\u65e5",
         "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
@@ -979,54 +995,6 @@
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Sashiiro",
-      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1047,6 +1015,58 @@
       "duration_ms": 307723,
       "name": "\u5e73\u548c",
       "url": "https://open.spotify.com/track/1xFILrBQBn67qprImezB0I"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Sashiiro",
+      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "Mo ai ni",
+        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        },
+        {
+          "name": "\u77f3\u73ba\u5f64",
+          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "Mo ai ni",
+      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1079,26 +1099,6 @@
       "duration_ms": 182872,
       "name": "Just an Ordinary Sunday",
       "url": "https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "Mo ai ni",
-        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        },
-        {
-          "name": "\u77f3\u73ba\u5f64",
-          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "Mo ai ni",
-      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "I Refuse",
-        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "I Refuse",
-      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "\u5230\u5e95\u53ca\u3070\u306a\u3044",
         "url": "https://open.spotify.com/album/2ZGZrYV9cyqiG6YQKiIudt"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 302956,
       "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
       "url": "https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "\u666f\u8272\u4e00\u7a7a",
-        "url": "https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu"
-      },
-      "artists": [
-        {
-          "name": "KUKIKODAN",
-          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
-        }
-      ],
-      "duration_ms": 287100,
-      "name": "\u666f\u8272\u4e00\u7a7a",
-      "url": "https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "BIGLOVE",
         "url": "https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 170707,
       "name": "BIGLOVE",
       "url": "https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "\u666f\u8272\u4e00\u7a7a",
+        "url": "https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu"
+      },
+      "artists": [
+        {
+          "name": "KUKIKODAN",
+          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
+        }
+      ],
+      "duration_ms": 287100,
+      "name": "\u666f\u8272\u4e00\u7a7a",
+      "url": "https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
-      },
-      "artists": [
-        {
-          "name": "HOME",
-          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
-        }
-      ],
-      "duration_ms": 187157,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "\u6674\u308c\u308b\u306a",
         "url": "https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 188528,
       "name": "\u6674\u308c\u308b\u306a",
       "url": "https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "duration_ms": 187157,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "mani mani",
-        "url": "https://open.spotify.com/album/5qz9YIGC9q3hIObRBdzQKp"
-      },
-      "artists": [
-        {
-          "name": "Maika Loubt\u00e9",
-          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
-        }
-      ],
-      "duration_ms": 269205,
-      "name": "Melody Of Your Heart",
-      "url": "https://open.spotify.com/track/6vii1h2OYYopzYpwHOWMcT"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
         "name": "A.Y.A",
         "url": "https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 220405,
       "name": "A.Y.A",
       "url": "https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "mani mani",
+        "url": "https://open.spotify.com/album/5qz9YIGC9q3hIObRBdzQKp"
+      },
+      "artists": [
+        {
+          "name": "Maika Loubt\u00e9",
+          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+        }
+      ],
+      "duration_ms": 269205,
+      "name": "Melody Of Your Heart",
+      "url": "https://open.spotify.com/track/6vii1h2OYYopzYpwHOWMcT"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1507,6 +1507,22 @@
       "duration_ms": 190285,
       "name": "negao",
       "url": "https://open.spotify.com/track/4W6qJco87d4bCPOT1rOCkn"
+    },
+    {
+      "added_at": "2023-11-12 13:40:37",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 403983,
+      "name": "Runner's High",
+      "url": "https://open.spotify.com/track/0tX5aD8AVLQSKCoEl2VCVx"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1559,22 +1575,6 @@
       "duration_ms": 156866,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/5HJmjrdCvcNg0VUzWy2DRT"
-    },
-    {
-      "added_at": "2023-11-12 13:40:37",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 403983,
-      "name": "Runner's High",
-      "url": "https://open.spotify.com/track/0tX5aD8AVLQSKCoEl2VCVx"
     },
     {
       "added_at": "2023-11-12 13:40:37",
@@ -1651,34 +1651,38 @@
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "ANIME",
-        "url": "https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
       },
       "artists": [
         {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        },
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 162287,
-      "name": "ANIME",
-      "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
+      "duration_ms": 221728,
+      "name": "honomekashi",
+      "url": "https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg"
     },
     {
       "added_at": "2023-11-12 13:40:37",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/1ISfBItYYBdfHXxrr6uo4W"
+        "name": "Strange Leaf",
+        "url": "https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb"
       },
       "artists": [
         {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
         }
       ],
-      "duration_ms": 223163,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK"
+      "duration_ms": 227755,
+      "name": "Strange Leaf",
+      "url": "https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks"
     }
   ],
   "unique_name": "Edge!",

@@ -2,7 +2,7 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> All eyes on you\. Cover: Mad Tsai
+> All eyes on you\. Cover: Rio Romeo
 
 296 songs - 16 hr 4 min
 

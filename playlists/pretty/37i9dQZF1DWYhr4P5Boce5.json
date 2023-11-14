@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 200352,
+  "num_followers": 200366,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
+  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Walking in Between",
-        "url": "https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Forever Like That",
-      "url": "https://open.spotify.com/track/7wF4asYZw8cAHEljYd2Wid"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 293720,
       "name": "Messiah / You're Beautiful",
       "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Walking in Between",
+        "url": "https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Forever Like That",
+      "url": "https://open.spotify.com/track/7wF4asYZw8cAHEljYd2Wid"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "I Will Always Be Yours",
+      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 187706,
       "name": "Gave You My Heart",
       "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "I Will Always Be Yours",
-      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226053,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "brooke",
+          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
+        }
+      ],
+      "duration_ms": 171150,
+      "name": "Can't Help Falling In Love - LIGHT",
+      "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "brooke",
-          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
-        }
-      ],
-      "duration_ms": 171150,
-      "name": "Can't Help Falling In Love - LIGHT",
-      "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 187134,
+      "name": "Pretty Beautiful",
+      "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Who Knew It Would Be So Hard to Be Myself",
         "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 230808,
       "name": "Big Ole Love",
       "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Ultimate Collection: Love Songs",
-        "url": "https://open.spotify.com/album/0lYU6ZXAFCW6OA8N8v3xRX"
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 239653,
-      "name": "Unfailing Love",
-      "url": "https://open.spotify.com/track/7CdKRgZiFWgMWDIbbFURZA"
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     }
   ],
   "unique_name": "Higher Love",

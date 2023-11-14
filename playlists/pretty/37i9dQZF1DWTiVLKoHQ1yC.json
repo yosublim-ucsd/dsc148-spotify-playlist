@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 168916,
+  "num_followers": 168993,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
+  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -163,26 +163,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 226229,
       "name": "Aquatic",
       "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -395,38 +411,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Another Riff For The Good Times / Daydreaming",
-        "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 228843,
-      "name": "Another Riff For The Good Times",
-      "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 262249,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Another Riff For The Good Times / Daydreaming",
+        "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 228843,
+      "name": "Another Riff For The Good Times",
+      "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -479,6 +479,22 @@
       "duration_ms": 216393,
       "name": "Alkantara",
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -607,22 +623,6 @@
       "duration_ms": 215645,
       "name": "Garden",
       "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 249677,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Freedom Call",
         "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "The Old You",
         "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 195701,
       "name": "The Old You",
       "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
     },
     {
       "added_at": "2022-11-25 16:56:36",

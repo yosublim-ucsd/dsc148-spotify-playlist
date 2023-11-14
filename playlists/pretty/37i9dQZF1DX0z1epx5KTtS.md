@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,012 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,062 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Abidjan Est Doux](https://open.spotify.com/track/4qR40v3cDfonhumDnEMbZF) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Abidjan Est Doux](https://open.spotify.com/album/6ILXeDfNlfiHuf7FS46ad4) | 3:44 |
 | 40 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 |
 
-Snapshot ID: `MCxjOTZhNTliMGRiNGZjZTEwNmU5NjQzNmY2YTQwNDI4NDE5Y2U1Mzli`
+Snapshot ID: `MCxkZTJjM2QyYjczZjBhY2MzNjg0ZWVmYzM2NGMwMzU0NDI0NDJhNDA1`

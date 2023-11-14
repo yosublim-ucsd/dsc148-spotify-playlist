@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT?si=Kg1kZMBYRBWdK23Rm\-K8Sw">Dee Gatti</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,157 likes - 259 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,209 likes - 259 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 258 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 259 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 
-Snapshot ID: `MCwyMGIyYWIzY2QyNjU0YTg1YjZkNjQwYWY1OTlkYzA1ZTZhN2VjZWNl`
+Snapshot ID: `MCwzM2UxNzMzOTBjNzdiNTg4OTVhOGQ5YzMwZDZmOWU5MTg4YmVjMmJk`

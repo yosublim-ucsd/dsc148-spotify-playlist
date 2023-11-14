@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 376815,
+  "num_followers": 376884,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
+  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
   "tracks": [
     {
       "added_at": "2023-10-11 12:50:31",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
+        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
-        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "It's A Big Daddy Thing",
-        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
       "artists": [
         {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -471,6 +455,38 @@
       "duration_ms": 373293,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "It's A Big Daddy Thing",
+        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -507,6 +523,22 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -539,18 +571,18 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -564,25 +596,9 @@
           "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Freaks Come Out at Night",
-      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 204601,
       "name": "The Bridge Is Over",
       "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 321986,
       "name": "I Need Love",
       "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
-        "name": "Youngest in Charge",
-        "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
-      },
-      "artists": [
-        {
-          "name": "Special Ed",
-          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "I Got It Made",
-      "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
+        "name": "Youngest in Charge",
+        "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
+      },
+      "artists": [
+        {
+          "name": "Special Ed",
+          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "I Got It Made",
+      "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 336866,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "What More Can I Say",
         "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Biz's Baddest Beats: The Best of Biz Markie",
-        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 362293,
-      "name": "Vapors",
-      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 279960,
       "name": "I'm Bad",
       "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "Biz's Baddest Beats: The Best of Biz Markie",
+        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
     },
     {
       "added_at": "2023-10-11 12:50:31",

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-171 songs - 9 hr 24 min
+172 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Don't Love a Girl](https://open.spotify.com/track/1Vc8QNqeUj5MS0qoAu5xNV) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Don't Love a Girl](https://open.spotify.com/album/2gxPCSE4LQXeukQnRTHLbX) | 3:36 | 2021-12-03 | 2022-07-16 |
 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 | 2021-12-03 |  |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-09-09 | 2023-03-09 |
-| [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 | 2023-08-18 |  |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 | 2023-08-18 | 2023-11-14 |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/30I91lf1QB0eOgMSGKGqHB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 2:23 | 2023-08-18 |  |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-01-20 | 2023-11-13 |
 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 | 2021-12-03 |  |
 | [Everybody's Got Somebody but Me \(feat\. Jason Mraz\) \- Encore](https://open.spotify.com/track/0spRhrdp5a0qHBzcYwtFIX) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx) | 2:39 | 2021-12-03 |  |

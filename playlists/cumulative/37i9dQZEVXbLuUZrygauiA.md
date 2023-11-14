@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,495 songs - 3 day 8 hr 57 min
+1,496 songs - 3 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Cuerno Asulado](https://open.spotify.com/track/5IZMJKA7ODhc0qoyBZMpc1) | [Alex Tumbado](https://open.spotify.com/artist/5ZBnyLELHoCxkxVFBBSYUh) | [Cuerno Asulado](https://open.spotify.com/album/2JlHIHXNSxTJVkW97NqyHL) | 2:45 | 2023-08-25 | 2023-08-30 |
 | [Cuerno Asulado \- Marcogta Music Remix](https://open.spotify.com/track/342YTjxByX0g6p1PDZqhMF) | [Anthonyo Montana](https://open.spotify.com/artist/1yDVPjPLcpOwN95AjuMrRJ), [Marcogta Music](https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR) | [Cuerno Asulado \(Marcogta Music Remix\)](https://open.spotify.com/album/3zveLzfqZ0XY24YyCEjm7f) | 2:35 | 2023-07-25 | 2023-07-29 |
 | [Cuerno Asulao](https://open.spotify.com/track/4KjtNOBTdwOVeQ6OczDj2M) | [Marcogta Music](https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR) | [Cuerno Asulao](https://open.spotify.com/album/5YtmKDRWi1vzn5QZ52943N) | 2:34 | 2023-07-28 | 2023-08-03 |
+| [Cuerno Azulado](https://open.spotify.com/track/7LYOS9dtKuxJaJ0Y8MjH5K) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [Cuerno Azulado](https://open.spotify.com/album/6ekEphpSxqnzwINKWYnWE7) | 2:36 | 2023-11-13 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-28 | 2022-11-05 |
 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 | 2023-11-05 |  |
 | [Cumbia Del Chavito Medio Metro](https://open.spotify.com/track/0fmA5PobE7ipHpYC58JwF7) | [GUERRAS EL VOLCAN DEL WEPA](https://open.spotify.com/artist/057Yi2nzw4hJ30anLnLIAD) | [Cumbia Del Chavito Medio Metro](https://open.spotify.com/album/6bgiXPx0Zxi3WIKJLNIAhl) | 4:07 | 2023-01-12 | 2023-02-25 |
@@ -1426,7 +1427,7 @@
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2022-08-30 | 2022-09-15 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-28 | 2023-03-22 |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-22 | 2023-02-27 |
-| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-26 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-26 | 2023-11-14 |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-02-15 | 2022-02-23 |
 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 | 2023-10-11 | 2023-10-22 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-10-01 | 2022-10-13 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,277 songs - 2 day 22 hr 58 min
+1,278 songs - 2 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,7 +673,7 @@
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-08 |
 | [Love Always Run Away](https://open.spotify.com/track/4rMEoXVYww6Xy7q9wSj4gy) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Young Lady And Gentleman \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/64RvabOhN0MJ6hCvgjkmnC) | 4:02 | 2021-12-28 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 | 2023-06-20 |
-| [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-08-22 |  |
+| [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-08-22 | 2023-11-14 |
 | [Love Letter](https://open.spotify.com/track/56Tn22SAFIGYpyHrf7TV0X) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Pieces](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) | 3:58 | 2021-12-30 | 2022-01-08 |
 | [Love Letter](https://open.spotify.com/track/0yfQBmmOIVqiwhV5u10EhN) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:35 | 2022-07-01 |  |
 | [Love Letter](https://open.spotify.com/track/378rEXHV5mSJukeHSNRWgj) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:35 | 2022-05-31 | 2022-07-02 |
@@ -1161,6 +1161,7 @@
 | [TROUBLE \(Prod\. Slom\)](https://open.spotify.com/track/5UJTNrW72ZMubW2wKBf8g2) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR) | [Show Me The Money 10 Episode 1](https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX) | 4:44 | 2021-11-09 | 2021-12-08 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-28 | 2022-05-30 |
 | [Trust Fund Baby](https://open.spotify.com/track/20pl0RVGT7P6L1Jr9p51nw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 2:36 | 2022-05-10 | 2022-05-13 |
+| [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2023-11-13 |  |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-07 |
 | [Two Days](https://open.spotify.com/track/3OB2kHbwZESIxMSIrv7xit) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI) | 3:36 | 2021-05-03 | 2021-05-05 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-10-09 |

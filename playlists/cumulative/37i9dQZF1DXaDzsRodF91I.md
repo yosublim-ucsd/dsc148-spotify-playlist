@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-198 songs - 11 hr 19 min
+199 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Forget Me Too](https://open.spotify.com/track/6E9Q1nAdi7S0LrogwfpKdZ) | [Outatime!](https://open.spotify.com/artist/6uvkQUaYja7wkaOBVaJ0VP), [Steph Elaine](https://open.spotify.com/artist/5SNY7tPMGWbKAi6MY6Jgw1) | [Forget Me Too](https://open.spotify.com/album/61DNDI6ja7RcpTbNnlbfsM) | 3:01 | 2021-03-19 | 2022-07-29 |
 | [Fuck You](https://open.spotify.com/track/6rGOLNFHb6dUDOM6cf0VlV) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Russian Spider Dump](https://open.spotify.com/album/72wRkTRG1BRTcp8HfhkwRg) | 1:59 | 2021-03-19 | 2022-11-13 |
 | [Give Yourself A Try](https://open.spotify.com/track/1P6mrljaCLCUTwSTmyiCmx) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/3AHrrGDl9BTWbaJX69U2Ta) | 3:19 | 2021-03-19 | 2022-07-29 |
-| [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 | 2021-03-19 |  |
+| [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 | 2021-03-19 | 2023-11-14 |
 | [Given Up](https://open.spotify.com/track/6EQxZoqEiQPQwapC7xc9au) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Given Up](https://open.spotify.com/album/3qx8nIPVGYJ49EeCrFCsdZ) | 3:21 | 2021-03-19 | 2022-07-29 |
 | [Given Up](https://open.spotify.com/track/3tngL99r8ngDuEUBlTWgPk) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Songs That Saved My Life](https://open.spotify.com/artist/5iSHjwO8V2QSAerrusSe3i) | [Given Up](https://open.spotify.com/album/3yOPXQIb16Hh0JPABumxy7) | 3:21 | 2021-03-19 |  |
 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 | 2021-03-19 |  |
@@ -133,6 +133,7 @@
 | [Santeria](https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:09 | 2021-03-19 |  |
 | [Save That Shit](https://open.spotify.com/track/7xsP4KbYxGu47YKaQAsQhs) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Save That Shit](https://open.spotify.com/album/2ye7jsAZu0DuUHjrG5bUY9) | 3:36 | 2021-03-19 |  |
 | [Say Anything \- Skate\-Aid Charity](https://open.spotify.com/track/2M5me6foO4D3AiIrGuzXoC) | [Angry Youth Elite](https://open.spotify.com/artist/354RDozhHdCsBIxXe47KaD), [The Bombpops](https://open.spotify.com/artist/2K1CbdH2jsPgQH7whdIB5z) | [Say Anything \(Skate\-Aid Charity\)](https://open.spotify.com/album/1cUgdEyVYJ7AsTlJI2LXnM) | 1:11 | 2021-03-19 | 2022-07-28 |
+| [Self Esteem](https://open.spotify.com/track/2vcR20R5Z62UsvMW5FOllV) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Self Esteem](https://open.spotify.com/album/29PI8gQy0lNFr248xcSV0F) | 2:25 | 2021-03-19 |  |
 | [Self Esteem](https://open.spotify.com/track/6zXPfmbRwPKhDMQtZID9ed) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Self Esteem](https://open.spotify.com/album/0Mkay8p1oppeATmDrIfDfA) | 2:25 | 2021-03-19 | 2023-11-05 |
 | [Semi\-Charmed Life](https://open.spotify.com/track/1MSNuok7pwFFlalr6hcZ3g) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:44 | 2021-03-19 | 2022-07-29 |
 | [Semi\-Charmed Life](https://open.spotify.com/track/3a1gNXvc0OjJ42BZQSVWrq) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Semi\-Charmed Life](https://open.spotify.com/album/5PVydgL5d7U5aaciynOebz) | 3:44 | 2021-03-19 |  |

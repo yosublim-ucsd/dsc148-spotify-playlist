@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 239584,
+  "num_followers": 239616,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjY3ZTQ5MTY5ZjA1NTBmZDM2ODQ0ZGM3YmU2NDQyMjhlZmQ5YmQx",
+  "snapshot_id": "MCw1MjI1ZmY3ODEzNTJhZDlmMDI2OGMwOGVhZDU0ZDBkNTU3OTY0NDdl",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Moment Of Your Life",
         "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
       },
@@ -387,18 +403,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+      "duration_ms": 223480,
+      "name": "No One Else (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -431,26 +451,6 @@
       "duration_ms": 186540,
       "name": "Be My Summer",
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "No One Else (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "L.I.T (Lost In Translation)",
+        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -859,26 +879,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "L.I.T (Lost In Translation)",
-        "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "40 Days",
-      "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Word For Word",
         "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
       },
@@ -891,6 +891,26 @@
       "duration_ms": 183022,
       "name": "Word For Word",
       "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Hennessy (feat. Blxst)",
+        "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 144710,
+      "name": "Hennessy (feat. Blxst)",
+      "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -959,26 +979,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Hennessy (feat. Blxst)",
-        "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 144710,
-      "name": "Hennessy (feat. Blxst)",
-      "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 182400,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1395,6 +1395,22 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
       },
       "artists": [
         {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Love On Film",
-        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 123825,
-      "name": "Love On Film",
-      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 186268,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Love On Film",
+        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 123825,
+      "name": "Love On Film",
+      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
     },
     {
       "added_at": "2023-11-09 23:00:00",

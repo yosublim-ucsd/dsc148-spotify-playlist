@@ -1,12 +1,12 @@
 {
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
-  "num_followers": 11637,
+  "num_followers": 11670,
   "original_name": "Hope & Heartbreak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjE0MGYxZGRlODg5NjYxNWVhNTlkZDBmZDNhOTlkZjg5NzUyZWJk",
+  "snapshot_id": "MCw0YWM5ZTAxNThmYzAwMWE5ZjA2NzhhYTMzZWNmZDEzZjg0NDZhMjIw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:03:20",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-31 10:03:20",
       "album": {
-        "name": "Own It",
-        "url": "https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "The Breakup Song",
-      "url": "https://open.spotify.com/track/5U4zBRfVdqaL1kOULNtZ1T"
-    },
-    {
-      "added_at": "2023-01-31 10:03:20",
-      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 233774,
       "name": "Tell Your Heart To Beat Again",
       "url": "https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA"
+    },
+    {
+      "added_at": "2023-01-31 10:03:20",
+      "album": {
+        "name": "Own It",
+        "url": "https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "The Breakup Song",
+      "url": "https://open.spotify.com/track/5U4zBRfVdqaL1kOULNtZ1T"
     },
     {
       "added_at": "2023-01-31 10:03:20",
@@ -543,18 +543,22 @@
     {
       "added_at": "2023-01-31 10:03:20",
       "album": {
-        "name": "Mistakes Were Made",
-        "url": "https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
       },
       "artists": [
         {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Marvin L. Winans",
+          "url": "https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy"
         }
       ],
-      "duration_ms": 213893,
-      "name": "Mistakes Were Made",
-      "url": "https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx"
+      "duration_ms": 361560,
+      "name": "Brokenhearted (with Marvin L. Winans)",
+      "url": "https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3"
     },
     {
       "added_at": "2023-01-31 10:03:20",
@@ -575,22 +579,18 @@
     {
       "added_at": "2023-01-31 10:03:20",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+        "name": "Mistakes Were Made",
+        "url": "https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Marvin L. Winans",
-          "url": "https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy"
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
         }
       ],
-      "duration_ms": 361560,
-      "name": "Brokenhearted (with Marvin L. Winans)",
-      "url": "https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3"
+      "duration_ms": 213893,
+      "name": "Mistakes Were Made",
+      "url": "https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx"
     },
     {
       "added_at": "2023-01-31 10:03:20",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-31 10:03:20",
       "album": {
-        "name": "Shoot Me Down",
-        "url": "https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8"
-      },
-      "artists": [
-        {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
-        }
-      ],
-      "duration_ms": 186885,
-      "name": "Shoot Me Down",
-      "url": "https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM"
-    },
-    {
-      "added_at": "2023-01-31 10:03:20",
-      "album": {
         "name": "The After",
         "url": "https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 277960,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i"
+    },
+    {
+      "added_at": "2023-01-31 10:03:20",
+      "album": {
+        "name": "Shoot Me Down",
+        "url": "https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "duration_ms": 186885,
+      "name": "Shoot Me Down",
+      "url": "https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM"
     },
     {
       "added_at": "2023-01-31 10:03:20",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-31 10:03:20",
       "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Memories - Remastered",
-      "url": "https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn"
-    },
-    {
-      "added_at": "2023-01-31 10:03:20",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 149538,
       "name": "Giving You All Of Me",
       "url": "https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O"
+    },
+    {
+      "added_at": "2023-01-31 10:03:20",
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Memories - Remastered",
+      "url": "https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn"
     }
   ],
   "unique_name": "Hope & Heartbreak",

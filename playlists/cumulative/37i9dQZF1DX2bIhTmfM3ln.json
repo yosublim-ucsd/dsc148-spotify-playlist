@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 178931,
       "name": "Broken Heart (feat. Kuami Eugene)",
       "url": "https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 178144,
       "name": "Currency",
       "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 233739,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu"
@@ -2142,10 +2142,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 213818,
       "name": "Feel Your Body",
       "url": "https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5"
+    },
+    {
+      "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137386,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"
     },
     {
       "album": {
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 196800,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
@@ -2688,6 +2710,24 @@
       "duration_ms": 228626,
       "name": "Hide & Seek - Rema Remix",
       "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
+    },
+    {
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
       "album": {
@@ -3256,7 +3296,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 141941,
       "name": "Kiss 'N' Tell",
       "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
@@ -3704,7 +3744,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 178000,
       "name": "Lose Control (feat. Blxckie)",
       "url": "https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB"
@@ -3722,7 +3762,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 173810,
       "name": "Lova",
       "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
@@ -4320,7 +4360,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
@@ -4342,7 +4382,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 227448,
       "name": "Mukulu",
       "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
@@ -5266,7 +5306,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
@@ -5400,7 +5440,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Quick Question",
       "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
@@ -6093,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2jBAGBR9vEW6VX2Rk4eh0F"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Nuna",
+          "url": "https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210526,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/13sENmd5vkGo9pRW2a2lh0"
+    },
+    {
+      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -6108,7 +6166,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
@@ -6532,7 +6590,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 176842,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN"
@@ -6744,7 +6802,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
@@ -6884,6 +6942,24 @@
       "duration_ms": 224840,
       "name": "Uwa Ni L\u00e9",
       "url": "https://open.spotify.com/track/0x6ynQ608fmoeQJGpecuh5"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Time",
+        "url": "https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N"
+      },
+      "artists": [
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93473,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ"
     },
     {
       "album": {
@@ -7116,6 +7192,28 @@
       "duration_ms": 159127,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
+    },
+    {
+      "album": {
+        "name": "BIG TIME (Deluxe)",
+        "url": "https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n"
     },
     {
       "album": {

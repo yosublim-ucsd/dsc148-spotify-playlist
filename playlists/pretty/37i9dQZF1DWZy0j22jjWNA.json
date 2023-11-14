@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88053,
+  "num_followers": 88068,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDFmOTNkYWFlZDBhM2M0OGI1NmM2YmU4OWE0YmNiMjcyNDc3ZmMz",
+  "snapshot_id": "MCw3ZDE5MjAxNTY1YmRmMGM4MDQwYzE4ZjVjYmVjMGIwMGNkNjQxMjJh",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Like Myself",
         "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
       },
@@ -487,42 +503,6 @@
       "duration_ms": 197120,
       "name": "Time's Always Leaving",
       "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 222878,
-      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -595,6 +575,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 222878,
+      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
@@ -607,6 +607,26 @@
       "duration_ms": 480893,
       "name": "Queen Songs/Human",
       "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Grateful (feat. Poo Bear)",
+        "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
+      },
+      "artists": [
+        {
+          "name": "13 Crowns",
+          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "duration_ms": 246081,
+      "name": "Grateful (feat. Poo Bear)",
+      "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -631,26 +651,6 @@
       "duration_ms": 221680,
       "name": "When the Walls Come Crashing Down (feat. Jon Foreman & Jillian Edwards)",
       "url": "https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Grateful (feat. Poo Bear)",
-        "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
-      },
-      "artists": [
-        {
-          "name": "13 Crowns",
-          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "duration_ms": 246081,
-      "name": "Grateful (feat. Poo Bear)",
-      "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Oh Dreamer",
-        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
-      },
-      "artists": [
-        {
-          "name": "The Brilliance",
-          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Oh Dreamer",
-      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 201487,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Oh Dreamer",
+        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
+      },
+      "artists": [
+        {
+          "name": "The Brilliance",
+          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Oh Dreamer",
+      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
     },
     {
       "added_at": "2020-09-04 04:02:00",

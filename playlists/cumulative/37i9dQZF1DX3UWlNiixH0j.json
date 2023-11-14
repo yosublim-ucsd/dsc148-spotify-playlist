@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 162287,
       "name": "ANIME",
       "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 221728,
       "name": "honomekashi",
       "url": "https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg"
@@ -9432,7 +9432,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 223163,
       "name": "Sol",
       "url": "https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK"
@@ -9764,6 +9764,24 @@
       "duration_ms": 226206,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs"
+    },
+    {
+      "album": {
+        "name": "Strange Leaf",
+        "url": "https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb"
+      },
+      "artists": [
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227755,
+      "name": "Strange Leaf",
+      "url": "https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks"
     },
     {
       "album": {

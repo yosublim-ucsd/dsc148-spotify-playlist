@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76023,
+  "num_followers": 76020,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTczM2ExYzQ2YTFkYTJiY2NjNDI4YTQ5MGQxMDFjYjljYzQyMzcz",
+  "snapshot_id": "MCxmNTlhMTdiZDExMWYyNTgwY2RkMmQzODAyMjljMDE4ODYyN2Q3ZTYw",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -245,38 +245,6 @@
       "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
-      "added_at": "2022-10-03 01:21:50",
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "7 EP",
@@ -295,6 +263,38 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+    },
+    {
+      "added_at": "2022-10-03 01:21:50",
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
+    },
+    {
+      "added_at": "2023-10-05 17:45:18",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
       "added_at": "2023-05-25 04:09:32",
@@ -327,22 +327,6 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
     },
     {
       "added_at": "2023-05-25 04:09:32",
@@ -381,6 +365,38 @@
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+    },
+    {
+      "added_at": "2021-05-21 16:10:14",
+      "album": {
+        "name": "SUN GOES DOWN",
+        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "SUN GOES DOWN",
+      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+    },
+    {
       "added_at": "2021-02-26 05:00:00",
       "album": {
         "name": "in defense of my own happiness",
@@ -413,22 +429,6 @@
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
     },
     {
-      "added_at": "2021-02-26 05:00:00",
-      "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
-    },
-    {
       "added_at": "2023-10-05 17:45:18",
       "album": {
         "name": "The Age of Pleasure",
@@ -445,20 +445,20 @@
       "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
     },
     {
-      "added_at": "2021-05-21 16:10:14",
+      "added_at": "2021-02-26 05:00:00",
       "album": {
-        "name": "SUN GOES DOWN",
-        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 168275,
-      "name": "SUN GOES DOWN",
-      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
+      "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+        "name": "Chapter 25: Domonique",
+        "url": "https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Domo Wilson",
+          "url": "https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ"
         }
       ],
-      "duration_ms": 170026,
-      "name": "Only Have Eyes 42",
-      "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
+      "duration_ms": 187213,
+      "name": "Bisexual Anthem",
+      "url": "https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd"
     },
     {
       "added_at": "2023-10-05 17:45:18",
@@ -543,22 +543,6 @@
       "duration_ms": 205500,
       "name": "OUTTA CONTROL",
       "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "Chapter 25: Domonique",
-        "url": "https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU"
-      },
-      "artists": [
-        {
-          "name": "Domo Wilson",
-          "url": "https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Bisexual Anthem",
-      "url": "https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -581,24 +565,20 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
+      "added_at": "2023-10-05 17:45:18",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 191128,
-      "name": "Change Your Life (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
+      "duration_ms": 170026,
+      "name": "Only Have Eyes 42",
+      "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
     },
     {
       "added_at": "2023-05-25 04:09:32",
@@ -653,6 +633,42 @@
       "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
     },
     {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 191128,
+      "name": "Change Your Life (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
+    },
+    {
+      "added_at": "2020-10-23 15:11:26",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
       "added_at": "2023-04-06 23:29:21",
       "album": {
         "name": "SWITCH",
@@ -667,22 +683,6 @@
       "duration_ms": 104842,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
-    },
-    {
-      "added_at": "2023-10-05 17:45:18",
-      "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 185949,
-      "name": "BAD HABITS",
-      "url": "https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
     },
     {
-      "added_at": "2020-10-23 15:11:26",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Acrylic",
@@ -735,6 +719,22 @@
       "duration_ms": 205480,
       "name": "Girl Blunt",
       "url": "https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl"
+    },
+    {
+      "added_at": "2023-10-05 17:45:18",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 185949,
+      "name": "BAD HABITS",
+      "url": "https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH"
     },
     {
       "added_at": "2021-02-26 05:00:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
-    },
-    {
       "added_at": "2021-06-25 04:01:00",
       "album": {
         "name": "Thicker Than Water",
@@ -855,6 +839,22 @@
       "duration_ms": 247346,
       "name": "Human",
       "url": "https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
     }
   ],
   "unique_name": "Black, Queer, & Proud",

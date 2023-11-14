@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,299 songs - 2 day 11 hr 57 min
+1,300 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -960,7 +960,7 @@
 | [Любила](https://open.spotify.com/track/5qKLAXmy19fE0Z9vRbLFhz) | [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9), [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Любила](https://open.spotify.com/album/16HD2vh9OdIXyPu6nrb0sL) | 3:30 | 2021-06-13 | 2023-05-12 |
 | [Любов, як осінь](https://open.spotify.com/track/6tGMRSkR0nXPQc4SsIP2Uq) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn), [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Любов, як осінь](https://open.spotify.com/album/3EMob24jECMo4UwlCWmEzi) | 2:12 | 2023-11-08 |  |
 | [Любознательность](https://open.spotify.com/track/4I181LTcSG1VMpCyk21HDn) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Брутто](https://open.spotify.com/artist/3R1s7ru91QkN2uPJ8Uc9fU) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:32 | 2022-04-30 | 2022-05-02 |
-| [Люди](https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Люди](https://open.spotify.com/album/4lotV3AnFcxXXwgteNSLfs) | 2:49 | 2023-02-28 |  |
+| [Люди](https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Люди](https://open.spotify.com/album/4lotV3AnFcxXXwgteNSLfs) | 2:49 | 2023-02-28 | 2023-11-14 |
 | [Лёд](https://open.spotify.com/track/7D8k995g6jdie4NF1E7Tpu) | [WENARO](https://open.spotify.com/artist/4MbzUyEgKb5gSYXojwG7u5), [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt) | [Лёд](https://open.spotify.com/album/3MHgUaAo7Gjdzhn3Obmbit) | 2:32 | 2021-09-03 | 2022-07-24 |
 | [Магазин](https://open.spotify.com/track/0cxKqzCYTNND97CQOBWtha) | [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Excalibur](https://open.spotify.com/album/33rtyAHvVG2lU8ZFKVK5Mv) | 1:49 | 2023-04-13 | 2023-04-15 |
 | [Мадам](https://open.spotify.com/track/7rc8ibFdLCFsoG9MlshpF2) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Мадам](https://open.spotify.com/album/4ndDMouRd5gi3utWjs0i32) | 2:25 | 2023-06-02 | 2023-09-10 |
@@ -1084,6 +1084,7 @@
 | [Под Звездопадом](https://open.spotify.com/track/4XNPw2OPBGxIIhNLnNbZIi) | [Tima Belorusskih](https://open.spotify.com/artist/0bOSNnz9bGAUlV3OJ3rnQW) | [Под Звездопадом](https://open.spotify.com/album/0YSNqKlD2U2GHaxKCF4XB3) | 3:36 | 2021-06-20 | 2021-07-04 |
 | [ПОЙДЕТ](https://open.spotify.com/track/3mUDlIALLosWgmHtWjDBmK) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ПОЙДЕТ](https://open.spotify.com/album/2sks2dJhh2YVT1LZ1sUss1) | 2:00 | 2023-05-20 | 2023-05-30 |
 | [Пока\-пора](https://open.spotify.com/track/2rao5sMWohJhJlXAYb4g7h) | [Bahroma](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Ипи](https://open.spotify.com/album/7C2K4H2SgmeX7jLMPevDpo) | 5:50 | 2022-06-28 | 2022-07-07 |
+| [Покохай мене](https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Покохай мене](https://open.spotify.com/album/7iT1upSPSL2UpnEO2rQ3rX) | 2:56 | 2023-11-13 |  |
 | [Положение](https://open.spotify.com/track/1hfISzdAwnywAKxaSpfloo) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Уроборос: Улица 36](https://open.spotify.com/album/4AazRccPqHpoIxedRFfurN) | 4:42 | 2021-03-27\* | 2021-10-31 |
 | [Пополам](https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL) | [BRANYA](https://open.spotify.com/artist/0Bs5ttRLguNx77bWNy6og4), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Пополам](https://open.spotify.com/album/2TQvPwtjrMEcyCPEcvPCAg) | 2:21 | 2021-06-16 | 2021-10-16 |
 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2023-03-17 | 2023-05-12 |

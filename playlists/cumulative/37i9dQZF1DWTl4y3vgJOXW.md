@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Anthony Edwards
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Tyrese Maxey
 
 551 songs - 1 day 4 hr 4 min
 

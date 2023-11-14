@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,478 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,555 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 |
 | 40 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 |
 
-Snapshot ID: `MCwzYWNkZjQ0MTRiMzY1OTliMGJlYjVhNWNmZGZhMzcyZTkwZThjODRi`
+Snapshot ID: `MCxhNDM3NzZkY2ViODk3NmMxZDM2YWVlNDc0MWMzMDQxMjVjYjc2YjA2`

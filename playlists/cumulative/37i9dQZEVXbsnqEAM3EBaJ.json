@@ -2325,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2EwH6yri6GZ6kevbkAp89V"
+      },
+      "artists": [
+        {
+          "name": "M.O.B.",
+          "url": "https://open.spotify.com/artist/3vSeS3NsnQhceuHCesjx05"
+        },
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138565,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4oZ5jMaa1EJRu6fzWvqZ83"
+    },
+    {
+      "album": {
         "name": "Blockers",
         "url": "https://open.spotify.com/album/3SAMfYFNy5KdTxY75GWxFu"
       },
@@ -3928,7 +3950,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
@@ -5588,6 +5610,24 @@
     {
       "album": {
         "name": "Another Perfect Day (40th Anniversary)",
+        "url": "https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264106,
+      "name": "Fast One (Demo)",
+      "url": "https://open.spotify.com/track/2DpKUXgAncWPZ5dn3TEZFI"
+    },
+    {
+      "album": {
+        "name": "Another Perfect Day (40th Anniversary)",
         "url": "https://open.spotify.com/album/7lk5pKAAkajxNUzPylklZq"
       },
       "artists": [
@@ -5598,7 +5638,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 264106,
       "name": "Fast One - Demo",
       "url": "https://open.spotify.com/track/5cnKHdAacW4NbCS5SmJSOB"
@@ -5634,7 +5674,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 186453,
       "name": "Feeling The Sunlight",
       "url": "https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d"
@@ -5768,7 +5808,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 322045,
       "name": "First In Line",
       "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
@@ -6126,7 +6166,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 236626,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3SwBQzQu86QW9KH9XDv7z0"
@@ -8220,7 +8260,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 186258,
       "name": "Iconic (feat. Jax)",
       "url": "https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8"
@@ -9556,7 +9596,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 202048,
       "name": "La historia feliz del guat\u00f3n Delgado (seg\u00fan el flaco Gordon)",
       "url": "https://open.spotify.com/track/6rQuDxX3QqchJIRKeEf2jL"
@@ -11336,7 +11376,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 179091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
@@ -14768,7 +14808,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 404200,
       "name": "Ruler of Tamag",
       "url": "https://open.spotify.com/track/25vuImzRkTq7Y5ZjnW9ng5"
@@ -15198,7 +15238,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 209774,
       "name": "Selling My Soul - Danny Saber Remix",
       "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
@@ -18770,7 +18810,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 209250,
       "name": "Tr\u00e1tate Bi\u00e9n",
       "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"

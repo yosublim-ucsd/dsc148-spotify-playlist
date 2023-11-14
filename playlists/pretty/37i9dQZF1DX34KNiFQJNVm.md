@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DENNIS e Anitta, Gloria Groove, Luan Santana, Gustavo Mioto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919,527 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,754 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 87 | [Você Falou pra Mim](https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1) | [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Lucas Arcanjo](https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj), [Andrei Zucco](https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN) | [Você Falou pra Mim](https://open.spotify.com/album/3C4GwIc7117OxDuu66G248) | 2:21 |
 | 88 | [Contradições](https://open.spotify.com/track/6kudj3VZ7EI2L9tKdZWGhE) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [VIP](https://open.spotify.com/album/6jabulbO3TRWtGQ7LMNQ2Z) | 3:21 |
 | 89 | [Brota Na Base](https://open.spotify.com/track/35MhWKqFHltGphaiZ8Oc9m) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au) | [Brota Na Base](https://open.spotify.com/album/5UYTIM7jWaYwuhYAeUzyXq) | 2:11 |
-| 90 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [VITTAU](https://open.spotify.com/artist/76cNffCWg6mQuHWARTlhRB), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
+| 90 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
 | 91 | [Roteiro](https://open.spotify.com/track/7iqmvglkXptD92AiMT5HSl) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Ezkiel](https://open.spotify.com/artist/2JdEL8sZGTGLPzF1bf6F9s), [Laundry Records](https://open.spotify.com/artist/2V3I6RpWfNn1Y5cQzdu4zY) | [Roteiro](https://open.spotify.com/album/3GbTSQLbo3fIrAmOl8eESo) | 2:32 |
 | 92 | [Pode Começar a Sentar](https://open.spotify.com/track/2NH4ymxBv8XpiiuGUUFSgz) | [Mc 7 Belo](https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7) | [Pode Começar a Sentar](https://open.spotify.com/album/2DE9nBRXKG1B6I8GLo7YMK) | 2:18 |
 | 93 | [Paciência](https://open.spotify.com/track/1K9T1YPy4kvjmp8zi2dEbh) | [Nininha Problemática](https://open.spotify.com/artist/7Hp63ExbakaCt4aBAZBtSl), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [Paciência](https://open.spotify.com/album/5lVYAPvheSBzaSfwOMcWPQ) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Um Tempo Pra Nós Dois](https://open.spotify.com/track/3sw2QJAFn8W2piWpvnalGn) | [Rosana](https://open.spotify.com/artist/5SsvQk2cROZGxmz1wCdHJD) | [Feitiço](https://open.spotify.com/album/5lBPgZI6BYvWvk0twIenKi) | 3:57 |
 | 100 | [Vem \- Acústico](https://open.spotify.com/track/5cE86pA6oPZu9LWydmJIzx) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Vem \(Acústico\)](https://open.spotify.com/album/0Dmx2m3bFuDiH8IluQizNM) | 2:41 |
 
-Snapshot ID: `MCw5ZTI4YjQzODVmNDQ5YjdmYmY4ZTI1ZDE5Y2YyMGM3MjliZTIwM2Ix`
+Snapshot ID: `MCxkMzVhMGU3ZGI1YmRlNmVmYmYzYjgxOTM2ODIwZDI5YmYwNDJjNDZi`

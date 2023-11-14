@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,846 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,875 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 28 | [Kathaab](https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Kathaab](https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o) | 4:50 |
 | 29 | [Resayel Ams](https://open.spotify.com/track/1Qnh4KEeIljMwB4VBtAndB) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Resayel Ams](https://open.spotify.com/album/2C44qfSEKmvuZzJ7Pva7n4) | 3:40 |
 | 30 | [Marhala Saabah](https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Marhala Saabah](https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX) | 3:04 |
-| 31 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 |
-| 32 | [Ana Adhak](https://open.spotify.com/track/7lLSXSxCmZmwqtaSq0pkZ2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Ana Adhak](https://open.spotify.com/album/1vOqDeqDhPK59GAWeSJgeN) | 4:40 |
+| 31 | [Ana Adhak](https://open.spotify.com/track/7lLSXSxCmZmwqtaSq0pkZ2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Ana Adhak](https://open.spotify.com/album/1vOqDeqDhPK59GAWeSJgeN) | 4:40 |
+| 32 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 |
 | 33 | [Ya Labba Soutak](https://open.spotify.com/track/7pqCy96fz2S4QM4v2lsNme) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ya Labba Soutak](https://open.spotify.com/album/6tlwjwtnF7WqRFDx6lc2n4) | 5:03 |
 | 34 | [Abiha Mn Allah](https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Abiha Mn Allah](https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r) | 4:11 |
 | 35 | [حظ من شافك](https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [حظ من شافك](https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [الا قلبي](https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الا قلبي](https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox) | 4:12 |
 | 50 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 |
 
-Snapshot ID: `MCw4MDY4NDU4YjIzMDc2M2RjMWQ5MTFiMzg2MzUzMDk1NjkxZWQwY2E0`
+Snapshot ID: `MCwyMzFiZGRkYWZhMGY4Zjk1NjdkN2ZmMmQwZTEwYjFkYjQ2OWNkMGI2`

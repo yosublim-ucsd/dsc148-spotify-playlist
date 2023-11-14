@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pink Pablo\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,380 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,361 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,30 +20,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 10 | [Spit You Out](https://open.spotify.com/track/32iyjrxLDsBU9mwkv31l2w) | [Isla June](https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0) | [Out Of This World](https://open.spotify.com/album/7EmvzW7Hjb3Q7F1iwcPKhE) | 2:39 |
 | 11 | [Bum Chick](https://open.spotify.com/track/1GYJs4h3xC7kYtPxk1nrWu) | [Terria Jai](https://open.spotify.com/artist/4S8zyeIJF0JZxYSQwkRQ5O) | [Bum Chick](https://open.spotify.com/album/6BkxAlUwMowAj56vfYdeIx) | 2:37 |
 | 12 | [STUPID WHEEL](https://open.spotify.com/track/3B79bh5sBug5yADwGZgO69) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [STUPID WHEEL](https://open.spotify.com/album/61lcUqu4gUNmCaY2UThukh) | 2:43 |
-| 13 | [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 |
-| 14 | [Ayo DJ](https://open.spotify.com/track/43H4pGtEWWSt7y99yBmiqg) | [V V N](https://open.spotify.com/artist/0tQbcH6pGXPxAZT7VSsj0S), [MaadebySaade](https://open.spotify.com/artist/28Gf99pxU7RKNZNuc6nv12) | [Tooth Dreams](https://open.spotify.com/album/0Iy4EjjKpnvDvkOayeb55r) | 3:03 |
-| 15 | [Higha](https://open.spotify.com/track/6IhORoouo7WrDy1l2UZweD) | [Tonyony](https://open.spotify.com/artist/0luieUAA6uRRnz8lRywtRa) | [Higha](https://open.spotify.com/album/4rJoaLWLQmYzT5VE2Uv6Cw) | 2:48 |
-| 16 | [first time](https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [first time](https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt) | 2:48 |
-| 17 | [flowerboy](https://open.spotify.com/track/62joMjNLLw9jzu3JTjRRxb) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [flowerboy](https://open.spotify.com/album/70z8xi7IoXSm3I7Uod10BU) | 2:49 |
-| 18 | [Suburban House](https://open.spotify.com/track/676TvM26wVq88afbYDPRO3) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Suburban House](https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA) | 3:49 |
-| 19 | [don't let me](https://open.spotify.com/track/6Sd866rY8gfbzp5ejCMZl6) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [don't let me](https://open.spotify.com/album/40zVVWp3eSWAwB3YwgUf2E) | 2:11 |
-| 20 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 |
-| 21 | [Dunsin Wright](https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Dunsin Wright](https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI) | 2:08 |
-| 22 | [Witches + Vampires](https://open.spotify.com/track/7bXY6a5iBUTky9r91ZjrjR) | [Hotel Decor](https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5) | [LOANSTAR](https://open.spotify.com/album/2dIgYLFnOjsgedvL7Bt51T) | 3:22 |
-| 23 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
-| 24 | [DAT WORD](https://open.spotify.com/track/5tDdsZW3WA3xCNWOq4FfbH) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [DAT WORD](https://open.spotify.com/album/2tCfhwCPS6ugCXgciSGSu6) | 2:32 |
-| 25 | [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 |
-| 26 | [pretty scars](https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [pretty scars](https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo) | 2:16 |
-| 27 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
-| 28 | [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 |
-| 29 | [Voicemail](https://open.spotify.com/track/7nfpKpGa2rarRaeCTf6aEB) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Voicemail](https://open.spotify.com/album/0RHshQRGWqB01NSbxX2j3R) | 2:59 |
-| 30 | [Make Em Say](https://open.spotify.com/track/5wD5UZVxFxLrFSzUkR1IoW) | [Ally Cocaine](https://open.spotify.com/artist/1LQG6C3S8sdLjL5DQt759V) | [Make Em Say](https://open.spotify.com/album/1xodCstcsyZOs4VwKQr6uC) | 2:23 |
-| 31 | [get it right](https://open.spotify.com/track/5WA5vVYmQAT6vSL6eXtHNp) | [garii](https://open.spotify.com/artist/5IbxdNlYjtiXwSnRRNHUrN) | [get it right](https://open.spotify.com/album/0XOjM0xDFQl99sczeOCDfv) | 3:03 |
-| 32 | [Bomb S\*\*](https://open.spotify.com/track/6saDf1NH6bvWW2Be9cj754) | [dj blackpower](https://open.spotify.com/artist/4zn15dOZZY7N1rC1hCPlEH) | [Dr\. Grabba](https://open.spotify.com/album/41PMpfh8rMpzOvaZrHhCtw) | 2:44 |
-| 33 | [witching season](https://open.spotify.com/track/24d8FlU7CWYV94UfDnxVC6) | [Khya](https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr) | [witching season](https://open.spotify.com/album/01MDo6anjKhyKzTSdaoNuh) | 3:05 |
-| 34 | [Box the 40](https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Box the 40](https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb) | 1:51 |
-| 35 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 |
-| 36 | [No Longer Mine](https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:35 |
+| 13 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 |
+| 14 | [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 |
+| 15 | [Ayo DJ](https://open.spotify.com/track/43H4pGtEWWSt7y99yBmiqg) | [V V N](https://open.spotify.com/artist/0tQbcH6pGXPxAZT7VSsj0S), [MaadebySaade](https://open.spotify.com/artist/28Gf99pxU7RKNZNuc6nv12) | [Tooth Dreams](https://open.spotify.com/album/0Iy4EjjKpnvDvkOayeb55r) | 3:03 |
+| 16 | [Higha](https://open.spotify.com/track/6IhORoouo7WrDy1l2UZweD) | [Tonyony](https://open.spotify.com/artist/0luieUAA6uRRnz8lRywtRa) | [Higha](https://open.spotify.com/album/4rJoaLWLQmYzT5VE2Uv6Cw) | 2:48 |
+| 17 | [first time](https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [first time](https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt) | 2:48 |
+| 18 | [flowerboy](https://open.spotify.com/track/62joMjNLLw9jzu3JTjRRxb) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [flowerboy](https://open.spotify.com/album/70z8xi7IoXSm3I7Uod10BU) | 2:49 |
+| 19 | [Suburban House](https://open.spotify.com/track/676TvM26wVq88afbYDPRO3) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Suburban House](https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA) | 3:49 |
+| 20 | [don't let me](https://open.spotify.com/track/6Sd866rY8gfbzp5ejCMZl6) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [don't let me](https://open.spotify.com/album/40zVVWp3eSWAwB3YwgUf2E) | 2:11 |
+| 21 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 |
+| 22 | [Dunsin Wright](https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Dunsin Wright](https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI) | 2:08 |
+| 23 | [Witches + Vampires](https://open.spotify.com/track/7bXY6a5iBUTky9r91ZjrjR) | [Hotel Decor](https://open.spotify.com/artist/3wPuwE1Bgnjnhn1re2KKU5) | [LOANSTAR](https://open.spotify.com/album/2dIgYLFnOjsgedvL7Bt51T) | 3:22 |
+| 24 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
+| 25 | [DAT WORD](https://open.spotify.com/track/5tDdsZW3WA3xCNWOq4FfbH) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [DAT WORD](https://open.spotify.com/album/2tCfhwCPS6ugCXgciSGSu6) | 2:32 |
+| 26 | [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 |
+| 27 | [pretty scars](https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [pretty scars](https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo) | 2:16 |
+| 28 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
+| 29 | [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 |
+| 30 | [Voicemail](https://open.spotify.com/track/7nfpKpGa2rarRaeCTf6aEB) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Voicemail](https://open.spotify.com/album/0RHshQRGWqB01NSbxX2j3R) | 2:59 |
+| 31 | [Make Em Say](https://open.spotify.com/track/5wD5UZVxFxLrFSzUkR1IoW) | [Ally Cocaine](https://open.spotify.com/artist/1LQG6C3S8sdLjL5DQt759V) | [Make Em Say](https://open.spotify.com/album/1xodCstcsyZOs4VwKQr6uC) | 2:23 |
+| 32 | [get it right](https://open.spotify.com/track/5WA5vVYmQAT6vSL6eXtHNp) | [garii](https://open.spotify.com/artist/5IbxdNlYjtiXwSnRRNHUrN) | [get it right](https://open.spotify.com/album/0XOjM0xDFQl99sczeOCDfv) | 3:03 |
+| 33 | [Bomb S\*\*](https://open.spotify.com/track/6saDf1NH6bvWW2Be9cj754) | [dj blackpower](https://open.spotify.com/artist/4zn15dOZZY7N1rC1hCPlEH) | [Dr\. Grabba](https://open.spotify.com/album/41PMpfh8rMpzOvaZrHhCtw) | 2:44 |
+| 34 | [witching season](https://open.spotify.com/track/24d8FlU7CWYV94UfDnxVC6) | [Khya](https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr) | [witching season](https://open.spotify.com/album/01MDo6anjKhyKzTSdaoNuh) | 3:05 |
+| 35 | [Box the 40](https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Box the 40](https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb) | 1:51 |
+| 36 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 |
 | 37 | [My Love, Pt\. 1](https://open.spotify.com/track/5BJDEyPcwQpunsTidFPfR8) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp) | [My Love, Pt\. 1](https://open.spotify.com/album/6IZsGlZ5lRiyR7NSp1xbJM) | 2:57 |
 | 38 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 39 | [Leave You Like a Man](https://open.spotify.com/track/3ez7xvBYO0kdWlTrcvYXJD) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Leave You Like a Man](https://open.spotify.com/album/0ykpy5tImSj5NjyP6v4Bcp) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6FzUPASAASb5r58dnOIdzg) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/2xbgOQbCLuitXr5M5C8mV6) | 2:31 |
 | 100 | [Check Me](https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Check Me](https://open.spotify.com/album/47ykXljyBCF6mgCpSaM5C1) | 1:52 |
 
-Snapshot ID: `MCxjNTYxMjE0M2VhNzg4NjljZDdiZDA1NDIxYzQyMzhiMTA0YjA2MGVk`
+Snapshot ID: `MCw3ZjkwY2ZjODYyMzBjZDU5MDgwMTZlMGIxMmQ4NGY5ZGQwMDhjMTFl`

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,199 songs - 9 day 18 hr 55 min
+6,201 songs - 9 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,7 +1220,7 @@
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 | 2022-07-22 |
 | [Crescent](https://open.spotify.com/track/7oBjP02qAHgXYvFCVH9VIs) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Murmurs](https://open.spotify.com/album/2FfHrppZXayvIrqaYeTtbI) | 2:23 | 2022-05-27 | 2022-09-16 |
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-11-05 | 2022-06-03 |
-| [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-10 |  |
+| [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-10 | 2023-11-14 |
 | [Crispy Clouds](https://open.spotify.com/track/4aocuOYi95rQqZNIZt5qtK) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Crispy Clouds](https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR) | 2:00 | 2022-07-29 | 2022-11-11 |
 | [Croaky](https://open.spotify.com/track/3QDkNXAurjaxSkbCVZ9pmf) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Tape Beats 1](https://open.spotify.com/album/3zChkhJVAtkkzBuH6vrZbR) | 1:59 | 2022-09-30 | 2023-01-13 |
 | [Crocus](https://open.spotify.com/track/4VTVOg3QC2zXH0ZddrRyHB) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Crocus](https://open.spotify.com/album/2aZnr2oUWrSsrPTDTIwMdT) | 1:31 | 2023-04-20 | 2023-09-30 |
@@ -1921,6 +1921,7 @@
 | [Flowers](https://open.spotify.com/track/27tnbPBfFjof7acoR2aqcQ) | [Goldenninjah](https://open.spotify.com/artist/7h8yHAeuxxeKQjRXc7XiBu) | [Flowers](https://open.spotify.com/album/5YVzJaRvsKENWQB7Xki2UH) | 1:25 | 2021-07-29 | 2022-03-12 |
 | [Flowers Of Pantai Lima](https://open.spotify.com/track/2OWjlSMhJKEkMSiaQNgNc9) | [slow luna](https://open.spotify.com/artist/3MW5fdqmiIb1rKXccPjEID), [Clark Can](https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP) | [Badung Colors](https://open.spotify.com/album/2fdzPBjXZQws4ya9Vb1blK) | 1:52 | 2022-12-16 | 2023-11-11 |
 | [flowfield](https://open.spotify.com/track/2q0sZLBkccCNOiHCvBcNIP) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [flowfield](https://open.spotify.com/album/3YOod8QqVkpXplLHP47Z9A) | 2:03 | 2022-01-21 | 2022-09-02 |
+| [flowing memories](https://open.spotify.com/track/7dcu40UykEJtxymCUHle0t) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [flowing memories](https://open.spotify.com/album/7hVhayjbOW8N0hOyi2QMXb) | 2:34 | 2023-11-10 |  |
 | [Flowow](https://open.spotify.com/track/7lY2zovuTeMCvUvk07Z0sG) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Flowow](https://open.spotify.com/album/08Ga0oeERhkVviuU1PML0I) | 1:55 | 2022-12-23 | 2023-10-06 |
 | [Flowy](https://open.spotify.com/track/6ydvFfruycfb2Fci1LLFs8) | [Arcade Portal](https://open.spotify.com/artist/2ylDslxcPkV822VyLZ5yky) | [Flowy](https://open.spotify.com/album/5RnIWgY2B44gJq1wLza8x8) | 2:35 | 2022-02-25 | 2022-08-05 |
 | [Fluff](https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fluff](https://open.spotify.com/album/7qnaVlVTffLYXPSaQzLkiB) | 1:53 | 2023-08-17 |  |
@@ -4336,7 +4337,7 @@
 | [Rainmaker](https://open.spotify.com/track/451Ilr5PyMWjNbhos9OEE1) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Rainmaker](https://open.spotify.com/album/2xIIru2oIpZJr5vXzcdEjA) | 2:57 | 2022-11-18 | 2022-12-16 |
 | [rains](https://open.spotify.com/track/5yWzJwzvU2wYds2v9AgSWS) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [yellow hills](https://open.spotify.com/album/7ioJK91PNvDun6f4CF16GD) | 1:51 | 2019-06-15 | 2020-10-21 |
 | [Rainy Day](https://open.spotify.com/track/4ULHhkZSBNvc2iDH5hxqlD) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Rainy Day](https://open.spotify.com/album/7g5gaHEvNfOqd1t27uV3Mk) | 2:24 | 2023-10-06 |  |
-| [Rainy Day Reverie](https://open.spotify.com/track/0YvTkRufBOCQbWGzbHh2Nn) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Rainy Day Reverie](https://open.spotify.com/album/3T3Rn3i6ytAFsli99mo5WT) | 1:59 | 2023-11-10 |  |
+| [Rainy Day Reverie](https://open.spotify.com/track/0YvTkRufBOCQbWGzbHh2Nn) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Rainy Day Reverie](https://open.spotify.com/album/3T3Rn3i6ytAFsli99mo5WT) | 1:59 | 2023-11-10 | 2023-11-14 |
 | [Rainy Mornings](https://open.spotify.com/track/2JuHQkoJjkfVOpfKXs9ItL) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s), [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Rainy Mornings](https://open.spotify.com/album/3x5EFAilIyClsiI07UjRjQ) | 3:00 | 2019-12-15 | 2021-07-29 |
 | [Rainy Sunday](https://open.spotify.com/track/3XMa4KcuCY9WRUp0qoZQT3) | [Staysea](https://open.spotify.com/artist/6gxc5HErxRvWbXZBU9feZr) | [Rainy Sunday](https://open.spotify.com/album/7t1Vog4mnd79pmhIF7MP4n) | 1:49 | 2021-12-17 | 2022-07-08 |
 | [Rainy Umbrella](https://open.spotify.com/track/1GvfTwMUfavkScUy2ZEYs5) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Rainy Umbrella](https://open.spotify.com/album/0vpzj4XCOXu4LE1bWMKivA) | 2:11 | 2022-10-14 | 2023-10-06 |
@@ -5062,6 +5063,7 @@
 | [Still](https://open.spotify.com/track/1yhFOiVQZF4a42UHIirKSu) | [Sickboi Henry](https://open.spotify.com/artist/7LSukJ7dyisGE9ETM9KIOY) | [Two Weeks Sick At Home](https://open.spotify.com/album/5tErCJXqAOBqk1ad081Okp) | 2:27 | 2022-11-11 |  |
 | [Still Friends](https://open.spotify.com/track/2kmnI0eAlC5QpyErIOTa8y) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Still Friends](https://open.spotify.com/album/6S9dkpDi35Toushbl4CQBW) | 2:36 | 2022-04-08 | 2022-08-27 |
 | [Still Got It](https://open.spotify.com/track/2GSJznqMWRiZ8BLHywpR8d) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Still Got It](https://open.spotify.com/album/3ZW1Us88MzFrzNcB9kQVzR) | 2:03 | 2022-07-01 | 2022-10-14 |
+| [Still Here](https://open.spotify.com/track/6yXp48pov09DBrGIr0AiXu) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [Still Here](https://open.spotify.com/album/5l71uz99kUhTzmA1CynluJ) | 2:25 | 2023-11-10 |  |
 | [Still! \- Instrumental](https://open.spotify.com/track/7H82tr75789r1XEWX6VOO8) | [Tommy Walton](https://open.spotify.com/artist/02PNO16Wnyq5g3imPJaSdQ), [LeProdude](https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN) | [Still!](https://open.spotify.com/album/6l4dP1xiiakMM7N0afYUPL) | 3:36 | 2022-12-23 |  |
 | [stinson](https://open.spotify.com/track/1vgnjyeIrUDMTqbIxmMcyM) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [stinson](https://open.spotify.com/album/7w9bYDRRWImPmQ50Bsr90A) | 1:18 | 2019-11-10 | 2021-05-20 |
 | [Stone](https://open.spotify.com/track/4VZUTzIfBt9GCi8UeOETvb) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Stone](https://open.spotify.com/album/2dVDinEF9jGW2cRwkevqOy) | 1:58 | 2022-11-18 | 2022-12-16 |

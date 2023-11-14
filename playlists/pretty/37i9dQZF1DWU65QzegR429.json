@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 10092,
+  "num_followers": 10098,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1",
+  "snapshot_id": "MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -243,26 +243,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Sin Sol",
-        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 204955,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Adentro de la Disco (feat. Myke Towers)",
         "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
@@ -283,6 +263,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Sin Sol",
+        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "No Me Rajo",
         "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 165506,
       "name": "No Me Rajo",
       "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -351,22 +367,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Chivirika",
         "url": "https://open.spotify.com/album/4en63LsV1rqze6270c9wBn"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Una Perla En San Juan",
-      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Una Perla En San Juan",
+      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Rosa Melo",
-        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 164853,
-      "name": "Rosa Melo",
-      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Taka Taka",
         "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 155326,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Rosa Melo",
+        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "duration_ms": 164853,
+      "name": "Rosa Melo",
+      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Acurrucao",
+        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sofia LaSanta",
+          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Acurrucao",
+      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Goldo Funky",
         "url": "https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 176000,
       "name": "Come",
       "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Acurrucao",
-        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sofia LaSanta",
-          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Acurrucao",
-      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Probando Freestyle",
-        "url": "https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC"
-      },
-      "artists": [
-        {
-          "name": "Gailen La Moyeta",
-          "url": "https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir"
-        }
-      ],
-      "duration_ms": 65759,
-      "name": "Probando Freestyle",
-      "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 172500,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Probando Freestyle",
+        "url": "https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC"
+      },
+      "artists": [
+        {
+          "name": "Gailen La Moyeta",
+          "url": "https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir"
+        }
+      ],
+      "duration_ms": 65759,
+      "name": "Probando Freestyle",
+      "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
     },
     {
       "added_at": "2023-07-24 18:55:43",

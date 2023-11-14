@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 183720,
       "name": "Big Youth (feat. El-P)",
       "url": "https://open.spotify.com/track/4YucKCHgSdWoj7BtH8lbDa"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 150507,
       "name": "BOBBY ON THE DIGITAL",
       "url": "https://open.spotify.com/track/0ZyWUNPYd7kx09U40YX0BN"
@@ -2244,6 +2244,28 @@
       "duration_ms": 173280,
       "name": "Born To Fuck",
       "url": "https://open.spotify.com/track/6AjGza35NlMh2bmEMEAO5o"
+    },
+    {
+      "album": {
+        "name": "Born with it",
+        "url": "https://open.spotify.com/album/3aG0ypvQbRuaWy6QBnXSjZ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Lopez",
+          "url": "https://open.spotify.com/artist/0w3CV3AWQWFyQ7wTHDCmtI"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156562,
+      "name": "Born with it",
+      "url": "https://open.spotify.com/track/6fbdWM31efTvBfy3DImRhj"
     },
     {
       "album": {
@@ -3760,7 +3782,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 120032,
       "name": "Diabolical Swordsmen",
       "url": "https://open.spotify.com/track/5Y7hrzpVZ8TLlIremdAMjI"
@@ -6201,6 +6223,28 @@
     },
     {
       "album": {
+        "name": "Futsal Shuffle 2020 (Lil Uzi Vert Sped Up Version)",
+        "url": "https://open.spotify.com/album/1mNz2nESdy12Phzr6WQi9D"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151857,
+      "name": "Futsal Shuffle 2020 - Lil Uzi Vert Sped Up Version",
+      "url": "https://open.spotify.com/track/1ONh4PLY63wOVZLZSNyHBm"
+    },
+    {
+      "album": {
         "name": "GAMBINOS",
         "url": "https://open.spotify.com/album/1ImmQnBFr1ej7uIV2Y8x69"
       },
@@ -8258,7 +8302,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 203213,
       "name": "Joyride - Vansire Remix",
       "url": "https://open.spotify.com/track/36kujnWz87eibkVxEyoCgR"
@@ -9631,6 +9675,28 @@
     },
     {
       "album": {
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+    },
+    {
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -10350,10 +10416,40 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 155825,
       "name": "MORE DOLLARS, MORE SENSE 1994 (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/0TMef0blw7Sy61U1JmcTlF"
+    },
+    {
+      "album": {
+        "name": "A Compton Story, Pt. 1",
+        "url": "https://open.spotify.com/album/5FueVQLLbKfZJxI063U0eJ"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ"
+        },
+        {
+          "name": "Problem",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155825,
+      "name": "MORE DOLLARS, MORE SENSE 2014 (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/0SnQuh82k6W0BxoFypusWW"
     },
     {
       "album": {
@@ -10886,7 +10982,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 185678,
       "name": "NFL",
       "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
@@ -11506,7 +11602,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 192966,
       "name": "P.H.O.N.C",
       "url": "https://open.spotify.com/track/5iHmsTWDE0giImCe85B8Bw"
@@ -13094,7 +13190,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 209774,
       "name": "Selling My Soul - Danny Saber Remix",
       "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
@@ -13522,7 +13618,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
@@ -17028,7 +17124,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 258924,
       "name": "we're going wrong",
       "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
@@ -17638,6 +17734,40 @@
       "duration_ms": 156066,
       "name": "Wreckless",
       "url": "https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3"
+    },
+    {
+      "album": {
+        "name": "Wu Holocron",
+        "url": "https://open.spotify.com/album/0Izk1JE4cBEo3dji3iJQQY"
+      },
+      "artists": [
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "ONIONZ BEATZ",
+          "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Wu Holocron",
+      "url": "https://open.spotify.com/track/1uGTc59Higw0XZ9vUHedGN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-539 songs - 21 hr 18 min
+540 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [7th Grade](https://open.spotify.com/track/2FMo7qMVZuzkTC0RNvetqU) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [7th Grade](https://open.spotify.com/album/0zWDfSw6Zc1N238MhXOvAN) | 2:26 | 2022-12-09 | 2023-03-25 |
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-23 | 2022-10-19 |
 | [8 O 8](https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt) | 3:22 | 2022-09-23 | 2023-06-03 |
+| [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-13 |  |
 | [A Cold Day in Hell](https://open.spotify.com/track/38agBZuMUFW1QbepsRmok8) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3), [adjacen7](https://open.spotify.com/artist/3cG5YrgvAKprcOFREldkip) | [GR/IM](https://open.spotify.com/album/6kob44ow17o97VSy9iXrff) | 1:49 | 2022-11-18 | 2023-04-15 |
 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 | 2023-08-11 | 2023-09-16 |
 | [A Lot](https://open.spotify.com/track/461qq5XnmwjXTt1sBgI4lX) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [FTG Reggie](https://open.spotify.com/artist/10ga9ZMdxwRb1zML85jUiM) | [A Lot](https://open.spotify.com/album/2AdoLUPHICCss37Ip7OUOl) | 2:21 | 2021-09-17 | 2022-11-19 |

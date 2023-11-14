@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,682 likes - 105 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,702 likes - 105 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 61 | [LIME \(I'm So\)](https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [LIME \(I'm So\)](https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40) | 2:10 |
 | 62 | [Miss You](https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Miss You](https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD) | 3:06 |
 | 63 | [Slow](https://open.spotify.com/track/6Rd53N38qGv1qJbUOI9P7I) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [SLOW](https://open.spotify.com/album/56WcTL2s4R1TjMB1UO5TdW) | 3:54 |
-| 64 | [and you \(Feat\. ZICO\)](https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [and you](https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3) | 3:24 |
+| 64 | [and you \(Feat\. ZICO\)](https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [and you](https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3) | 3:24 |
 | 65 | [Blind Melody](https://open.spotify.com/track/2oC5W73jmhmObOvQYk6W3Q) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 1:47 |
 | 66 | [Elton](https://open.spotify.com/track/6Dwr4poNQsDck8RY8LLnUk) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [RYU](https://open.spotify.com/album/4J0brHJhKcpiKeNW7w58m8) | 3:21 |
 | 67 | [Hadsel](https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Hadsel](https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA) | 4:54 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 104 | [Is there anyone?](https://open.spotify.com/track/51f9Ic7JApQQT7k0Q8FkSX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [Is there anyone?](https://open.spotify.com/album/3O962c8Votg9xPr4umHdiZ) | 4:09 |
 | 105 | [Moon](https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Moon](https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL) | 3:36 |
 
-Snapshot ID: `MCw0MWJkNjIxMjg4MTdiNDFkMDc2ZTVjZTE1NGNlYjNkNWIyZmEwNTZk`
+Snapshot ID: `MCw3MTc2YjIwYjMyZDFkMGI5OTVjOTU4NDhhMTc0YjFiNjUyY2Q0YTNk`

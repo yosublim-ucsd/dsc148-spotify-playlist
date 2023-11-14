@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 230166,
+  "num_followers": 230224,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDc4NDJjOTBiMjExNWYyYTAxOWMzODY5ODJlZDQ1NTU0MTRiZTRk",
+  "snapshot_id": "MCw0NDRlMjNmOTBjMDFkM2M5YzJjZWJlYTQzOGU5NDhlY2QxOTRjNzc0",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Creiste",
         "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
       },
@@ -179,18 +163,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -231,6 +215,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "De Cuba a Per\u00fa",
         "url": "https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep"
       },
@@ -263,22 +263,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Pasaporte",
-        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
       },
       "artists": [
         {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
         }
       ],
-      "duration_ms": 300451,
-      "name": "Pasaporte",
-      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -299,18 +295,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
+      "duration_ms": 300451,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "De la Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines y su Mayimbe",
+          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "El Tren Bala",
+      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
         "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 242974,
       "name": "Un beso",
       "url": "https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De la Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
-      },
-      "artists": [
-        {
-          "name": "Barbaro Fines y su Mayimbe",
-          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "El Tren Bala",
-      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Fiestas de Cuba (Remasterizado)",
         "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 282920,
       "name": "\u00c1mame con Tu Experiencia - Remasterizado",
       "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+        }
+      ],
+      "duration_ms": 398893,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
-        }
-      ],
-      "duration_ms": 398893,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Con La Musica Cubana No!",
         "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 316339,
       "name": "Conmigo No",
       "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Qu\u00e9 Sorpresa",
-        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 360957,
-      "name": "Qu\u00e9 Sorpresa",
-      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -667,38 +651,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+        "name": "Qu\u00e9 Sorpresa",
+        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
       },
       "artists": [
         {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
         }
       ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
+      "duration_ms": 360957,
+      "name": "Qu\u00e9 Sorpresa",
+      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -719,6 +683,26 @@
       "duration_ms": 240026,
       "name": "Traidora (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -759,22 +743,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
-        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "Marcando la Distancia",
-      "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -859,6 +843,22 @@
       "duration_ms": 208680,
       "name": "Besito Con Lengua",
       "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Grandes Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        }
+      ],
+      "duration_ms": 378013,
+      "name": "Qu\u00e9 Pasa Loco",
+      "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
     }
   ],
   "unique_name": "Salsa Cubana",

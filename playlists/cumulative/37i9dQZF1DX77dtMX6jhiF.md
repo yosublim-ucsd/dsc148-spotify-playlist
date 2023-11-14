@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-57 songs - 4 hr 14 min
+58 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [STOP TRYING TO BE GOD](https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:38 | 2022-10-01 |  |
 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 | 2022-10-01 |  |
 | [The Birds Pt\. 2](https://open.spotify.com/track/51LmI5GE3tHKISLNZMjDPC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:50 | 2022-10-01 | 2023-03-12 |
-| [The Birds Pt\. 2](https://open.spotify.com/track/6gfkhHmnoyzacIGNCItJLT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/3MP8mUHuQlYrGUkrEG4qpJ) | 5:50 | 2022-10-01 |  |
+| [The Birds Pt\. 2](https://open.spotify.com/track/6gfkhHmnoyzacIGNCItJLT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/3MP8mUHuQlYrGUkrEG4qpJ) | 5:50 | 2022-10-01 | 2023-11-14 |
+| [The Birds Pt\. 2 \- Original](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 | 2022-10-01 |  |
 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 | 2022-10-01 |  |
 | [The Messiah](https://open.spotify.com/track/5wnTy8q2pU3nEVe4PwILXe) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Jordan Mcclure](https://open.spotify.com/artist/7KoVMFdL4ElB1nMlBug2Pa), [David Hayle](https://open.spotify.com/artist/5Pv0COZlHqBONbLmnsPFRB) | [Producers Choice, Vol\. 6 \(Feat\. Jordan McClure & David Hayle\)](https://open.spotify.com/album/5eFqZdhjxUhwslHnFez95D) | 2:57 | 2022-10-01 | 2022-11-13 |
 | [THE NEWS](https://open.spotify.com/track/3H0hSrvbisAfcxvNIttvMX) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Fresh and Dope](https://open.spotify.com/album/2TJZhD4jjFxEeZwYrX9FKf) | 4:27 | 2022-10-01 | 2023-01-03 |

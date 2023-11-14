@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 373103,
+  "num_followers": 373141,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM2ZmYzY2ExYjQxYzU4OTMyNjVhYWJiYjY5ZTA5NGJmNTcwNzRi",
+  "snapshot_id": "MCw2ODNmMzczYzVlNjFiZjNkN2MxMDEzZmEzOWE5OTJkOWJmZWQyZmRj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "At San Quentin",
-        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
         }
       ],
-      "duration_ms": 233813,
-      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
-      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
-      },
-      "artists": [
-        {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
         "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 138800,
       "name": "Flowers On the Wall",
       "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "At San Quentin",
+        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Phantom 309",
         "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
       },
@@ -695,22 +679,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Almost Persuaded",
         "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 176360,
       "name": "Almost Persuaded",
       "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -951,8 +951,8 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Buck Owens Country Legends",
-        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 142956,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
+      "duration_ms": 148400,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
@@ -1099,22 +1083,6 @@
       "duration_ms": 196400,
       "name": "Me And Bobby McGee",
       "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Tammy's Greatest Hits",
-        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I Don't Wanna Play House",
-      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1135,6 +1103,38 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I Don't Wanna Play House",
+      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Buck Owens Country Legends",
+        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 197293,
       "name": "Homecoming - Single Version",
       "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
-      },
-      "artists": [
-        {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 138000,
       "name": "Walk Through This World With Me",
       "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+      },
+      "artists": [
+        {
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Columbia Country Classics Volume 3: Americana",
-        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+        "name": "The Essential George Jones",
+        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
       "artists": [
         {
-          "name": "Claude King",
-          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 177573,
-      "name": "Wolverton Mountain",
-      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
+      "duration_ms": 140733,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1327,22 +1331,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential George Jones",
-        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
+        "name": "Columbia Country Classics Volume 3: Americana",
+        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Claude King",
+          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
+      "duration_ms": 177573,
+      "name": "Wolverton Mountain",
+      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Very Best of\u2026",
-        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 123360,
-      "name": "Chug-A-Lug",
-      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Porter Wagoner",
         "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 169200,
       "name": "The Carroll County Accident",
       "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Very Best of\u2026",
+        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 123360,
+      "name": "Chug-A-Lug",
+      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Green Green Grass Of Home",
+      "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 164640,
       "name": "I've Been Everywhere - Remastered",
       "url": "https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Green Green Grass Of Home",
-      "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "The Cold Hard Facts of Life",
+        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "The Cold Hard Facts of Life",
+      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 129240,
       "name": "A Six Pack To Go",
       "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Hello Walls",
-        "url": "https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 144120,
-      "name": "Wine Me Up",
-      "url": "https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz"
     }
   ],
   "unique_name": "60s Country",

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 339603,
+  "num_followers": 339718,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmRkMjg4NDlmNzlhMDkxNTA2OGVlMGMyNjhkNmNkNmM2YzY5N2U1",
+  "snapshot_id": "MCwyNzEyMzg0NjkwNmYyN2I5Zjc0NDdjYzg3ZTZhODhkNDQyZTE1YTli",
   "tracks": [
     {
       "added_at": "2023-11-10 05:06:42",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "THE DEATH OF PEACE OF MIND",
+      "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "THE DEATH OF PEACE OF MIND",
-      "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Meat & Greet",
-        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 210559,
-      "name": "Meat & Greet",
-      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -443,22 +427,6 @@
       "duration_ms": 212082,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "1987",
-        "url": "https://open.spotify.com/album/2D1yPT0KNYrBOwrlsJdyiP"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 216771,
-      "name": "1987",
-      "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -479,6 +447,38 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/2D1yPT0KNYrBOwrlsJdyiP"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "duration_ms": 216771,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 211119,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
+      "duration_ms": 197480,
+      "name": "Psycho In My Head",
+      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -523,22 +523,6 @@
       "duration_ms": 228406,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Psycho In My Head",
-      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -579,6 +563,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Welcome to the Chaos",
         "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "The Optimist",
         "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/1Uf494OVdGpxqdUgzdrVDv"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 192176,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "THE PURGE",
         "url": "https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn"
       },
@@ -923,6 +939,26 @@
       "duration_ms": 239147,
       "name": "THE PURGE",
       "url": "https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -955,42 +991,6 @@
       "duration_ms": 226874,
       "name": "virus",
       "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Remade In Misery",
-        "url": "https://open.spotify.com/album/1Uf494OVdGpxqdUgzdrVDv"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 192176,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 350085,
-      "name": "Ego Death (feat. Steve Vai)",
-      "url": "https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Tippa My Tongue",
         "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 260808,
       "name": "Tippa My Tongue",
       "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Dinosaur",
-        "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 228219,
-      "name": "Dinosaur",
-      "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Confessions Of The Fallen",
         "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 228219,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "The Moment You Find Your Flame",
-        "url": "https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 218722,
-      "name": "Watch Me Burn",
-      "url": "https://open.spotify.com/track/4feiiZw3v2tj0SagHrkwQv"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Faded Out (feat. Within Temptation)",
         "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "High on Me",
         "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
       },
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+        "name": "The Moment You Find Your Flame",
+        "url": "https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+      "duration_ms": 218722,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/4feiiZw3v2tj0SagHrkwQv"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 207916,
       "name": "Ambulance",
       "url": "https://open.spotify.com/track/2fC4a3b5UR2CiEEHxozOdd"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
     },
     {
       "added_at": "2023-11-10 05:06:42",

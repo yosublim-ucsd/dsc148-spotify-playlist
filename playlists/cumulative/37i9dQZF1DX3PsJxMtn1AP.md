@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-223 songs - 14 hr 33 min
+224 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Lose](https://open.spotify.com/track/2w5QAzFA6bwErf3Xo05mQK) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Lose](https://open.spotify.com/album/3ZTQVeyP8qtTnjlp0XLWL9) | 3:16 | 2023-05-17 | 2023-05-25 |
 | [Lose My Head](https://open.spotify.com/track/4KefSDm2uulCInC38hXKYj) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Lose My Head](https://open.spotify.com/album/3q8cttdPEVNFCZwCxe47B5) | 2:30 | 2023-06-02 | 2023-06-16 |
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 |  |
-| [Luces \(Remix\)](https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Renato del Real](https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6) | [Luces \(Remix\)](https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2) | 3:19 | 2023-06-27 |  |
+| [Luces \(Remix\)](https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Renato del Real](https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6) | [Luces \(Remix\)](https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2) | 3:19 | 2023-06-27 | 2023-11-14 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-10-28 |  |
 | [Make My Way Back Home](https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Make My Way Back Home](https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42) | 3:56 | 2023-03-31 | 2023-05-13 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-16 | 2023-07-29 |
@@ -220,6 +220,7 @@
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 | 2023-06-02 |
 | [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-17 | 2023-03-19 |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-10-02 |  |
+| [Une Autre Attente](https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/3txRsK90V4IwObiif90nJx) | 2:42 | 2023-11-13 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-28 | 2023-08-25 |
 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 | 2023-03-31 | 2023-06-15 |
 | [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 | 2023-04-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: BADBADNOTGOOD",
+  "description": "Current indie tunes from Asia and around the world. Cover: mxmtoon",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 260075,
       "name": "A Noisy Train",
       "url": "https://open.spotify.com/track/3KJHGwOSRZmoM9WD7DaVVd"
@@ -1519,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "Average Guy (Blame)",
+        "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180994,
+      "name": "Average Guy (Blame)",
+      "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
+    },
+    {
+      "album": {
         "name": "Away With Me",
         "url": "https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi"
       },
@@ -2181,6 +2203,28 @@
     },
     {
       "album": {
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166594,
+      "name": "Better Than Snow",
+      "url": "https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX"
+    },
+    {
+      "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV"
       },
@@ -2268,7 +2312,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 198071,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
@@ -2984,7 +3028,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
@@ -3020,7 +3064,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 165067,
       "name": "Broke Zodiac",
       "url": "https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH"
@@ -3348,7 +3392,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
@@ -5633,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+    },
+    {
+      "album": {
         "name": "FUNFAIR",
         "url": "https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i"
       },
@@ -5738,6 +5800,24 @@
       "duration_ms": 252319,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
+    },
+    {
+      "album": {
+        "name": "Hitchhiker",
+        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204777,
+      "name": "Edith",
+      "url": "https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6"
     },
     {
       "album": {
@@ -5958,6 +6038,24 @@
       "duration_ms": 148928,
       "name": "End Of The Day",
       "url": "https://open.spotify.com/track/0OjA0vX6ndef8mJqPPYIMN"
+    },
+    {
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "album": {
@@ -8347,6 +8445,24 @@
     },
     {
       "album": {
+        "name": "Hadsel",
+        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294835,
+      "name": "Hadsel",
+      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
+    },
+    {
+      "album": {
         "name": "Hang Around",
         "url": "https://open.spotify.com/album/0MvIJlGFttUP85ySMqpJbq"
       },
@@ -10380,6 +10496,24 @@
       "duration_ms": 216299,
       "name": "Japan",
       "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+    },
+    {
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219598,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
     },
     {
       "album": {
@@ -12692,7 +12826,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 202605,
       "name": "Model",
       "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
@@ -15193,6 +15327,28 @@
     },
     {
       "album": {
+        "name": "Nightvision (Love Is God 13/16 Edition)",
+        "url": "https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1"
+      },
+      "artists": [
+        {
+          "name": "Matter Halo",
+          "url": "https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT"
+        },
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265902,
+      "name": "Performance In a Dream (feat. Our Shame)",
+      "url": "https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73"
+    },
+    {
+      "album": {
         "name": "Autofiction",
         "url": "https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO"
       },
@@ -17167,6 +17323,28 @@
     },
     {
       "album": {
+        "name": "Separate Ways (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206833,
+      "name": "Separate Ways (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+    },
+    {
+      "album": {
         "name": "Sera",
         "url": "https://open.spotify.com/album/1ZTFntttDauVPZGMS2iiTH"
       },
@@ -17642,7 +17820,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 208468,
       "name": "Sit Down for Dinner, Pt. 2",
       "url": "https://open.spotify.com/track/2fSBTVIsJhUMm9EUbhXwMA"
@@ -18184,7 +18362,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 289897,
       "name": "So You Are Tired",
       "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
@@ -18738,7 +18916,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
@@ -19018,6 +19196,24 @@
       "duration_ms": 209892,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/4O3dMK3YCTcrISBHSghhPH"
+    },
+    {
+      "album": {
+        "name": "plum blossom (revisited)",
+        "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253467,
+      "name": "stuck - revisited",
+      "url": "https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN"
     },
     {
       "album": {
@@ -19922,7 +20118,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 212629,
       "name": "The Chorus Superstar",
       "url": "https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc"
@@ -19944,7 +20140,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
@@ -20106,7 +20302,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 266000,
       "name": "The Man In The Mirror",
       "url": "https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP"
@@ -20232,7 +20428,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 266268,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo"
@@ -20326,7 +20522,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
@@ -20676,7 +20872,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -22442,7 +22638,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"

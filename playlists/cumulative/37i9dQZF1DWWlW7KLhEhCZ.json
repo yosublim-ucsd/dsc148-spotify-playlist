@@ -381,6 +381,28 @@
     },
     {
       "album": {
+        "name": "5MIN",
+        "url": "https://open.spotify.com/album/1iDBCwZVvmXNM60G0Jqi6R"
+      },
+      "artists": [
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0SyQVdrJKLoLYmxhd84mJD"
+        },
+        {
+          "name": "Vieira",
+          "url": "https://open.spotify.com/artist/1sOwtpvDa9Hl1C9laRbCe4"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96237,
+      "name": "5MIN",
+      "url": "https://open.spotify.com/track/3dj9OAU56yQzbpOBKM4MHy"
+    },
+    {
+      "album": {
         "name": "60Mg",
         "url": "https://open.spotify.com/album/3MxEHu5HehTJRltL9fFdbp"
       },
@@ -4532,7 +4554,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 149131,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/2P6d6hmkuYHnwGr9VX4XPH"
@@ -6632,7 +6654,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 143111,
       "name": "Dono do Jogo",
       "url": "https://open.spotify.com/track/7HPNcm9QLTmtVShavw2A7i"
@@ -7976,7 +7998,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 154833,
       "name": "Fanfic Freestyle",
       "url": "https://open.spotify.com/track/1zeYBniESq4W6jNT5jS296"
@@ -14871,6 +14893,32 @@
     },
     {
       "album": {
+        "name": "Passo de Piet",
+        "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "lucashenriqeee",
+          "url": "https://open.spotify.com/artist/3PlfbUseluH6JMWkrM5EIP"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "Passo de Piet",
+      "url": "https://open.spotify.com/track/1hk75DQiC1mRc2pdu8yAmM"
+    },
+    {
+      "album": {
         "name": "Paty",
         "url": "https://open.spotify.com/album/7ngFntUs6Pu4i9voWyQuRb"
       },
@@ -20274,6 +20322,28 @@
       "duration_ms": 112000,
       "name": "Turma do Bairro (Interl\u00fadio)",
       "url": "https://open.spotify.com/track/1dVpfF7fycdR2uO0BJwili"
+    },
+    {
+      "album": {
+        "name": "Nova Wave, Pt. 3",
+        "url": "https://open.spotify.com/album/2b2WeLktAC6n3jLlq1pLqo"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        },
+        {
+          "name": "Popai",
+          "url": "https://open.spotify.com/artist/51C4TqkX8bY05pefp9KOcv"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "T\u00f3xica",
+      "url": "https://open.spotify.com/track/4IuFdk5Hk90iUPPi98gWpN"
     },
     {
       "album": {

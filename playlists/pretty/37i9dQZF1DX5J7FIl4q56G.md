@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,038 likes - 54 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,136 likes - 54 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 |
 | 54 | [Calypso](https://open.spotify.com/track/2LpK1i7Qf6MwSUoZRA5zom) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [Calypso](https://open.spotify.com/album/5HHRRqyzFIdQC0rmF4geKC) | 4:04 |
 
-Snapshot ID: `MCxkNzE2YmU4ZTYwNDYwOGEzYzA2Mzk0NjhlYWVlZWQ2YmYwYTM5NWY5`
+Snapshot ID: `MCw5MjEzMDQyZTlkODJmYmU0NWM1ZDJmNjI3OTk2NWYwYzE0MDI0ZTI2`

@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-129 songs - 4 hr 24 min
+131 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Disturbia](https://open.spotify.com/track/7q44fdiZgGQpALVU1bFvog) | [Xanahxlic](https://open.spotify.com/artist/4zub1IAca1K3f0c3rnvuo4) | [Disturbia](https://open.spotify.com/album/7oWfvwnsulIkd4Vsz186mA) | 2:28 | 2023-07-21 |  |
 | [do tonight](https://open.spotify.com/track/6uwVzUJ2WyoGb9iSqj1vvH) | [skypebf](https://open.spotify.com/artist/3NHAjoEh2QxIFZmKEWxh61), [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG), [blood pup](https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR) | [do tonight](https://open.spotify.com/album/6s8ugTv4KJAG2HtxFWhduM) | 1:51 | 2023-09-01 |  |
 | [DREAMSCAPE](https://open.spotify.com/track/4KXtgsfFfjLWCiyqdwUwQh) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [DREAMSCAPE](https://open.spotify.com/album/6lIObPGguCyVTQf8f1RVag) | 2:00 | 2023-10-20 |  |
+| [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1ql5SXo1kO5OaMJy3Lmmqo) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DXE DXE DXE](https://open.spotify.com/album/5FJcrNxDMVAdlFmbtpTYqO) | 1:36 | 2023-11-13 |  |
 | [ecstacy](https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy](https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q) | 1:36 | 2023-07-21 | 2023-09-02 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-11-08 |  |
 | [ESSENCE](https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [ESSENCE](https://open.spotify.com/album/1DduJ6kIDWQP2mtN4xiWzs) | 2:27 | 2023-10-06 |  |
@@ -78,6 +79,7 @@
 | [look don't touch](https://open.spotify.com/track/4CsKaCN7KJ3AeecfTpyPZz) | [pradababy](https://open.spotify.com/artist/3oy5OQb6YkG9Kjy5ZBAtRg) | [look don't touch](https://open.spotify.com/album/1zUV0WoBJcqcrPOdNqErno) | 1:44 | 2023-08-04 | 2023-08-23 |
 | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P) | 2:18 | 2023-07-21 |  |
 | [Love Game](https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game](https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO) | 2:05 | 2023-11-08 |  |
+| [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-11-13 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2023-07-21 |  |
 | [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 | 2023-09-22 |  |
 | [melancholy](https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra) | 2:02 | 2023-09-15 | 2023-10-12 |

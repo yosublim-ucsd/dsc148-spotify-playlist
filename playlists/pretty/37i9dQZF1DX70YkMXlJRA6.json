@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47513,
+  "num_followers": 47533,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFiOTU2ZjM4YThkZDc0YTE4NTM0NjgyZDA4YjA0ZThlOTMzZGYx",
+  "snapshot_id": "MCwwMGFlM2VjYzQzOGY1ZWYwZTM0ZjllMTM3NjhiZjBiZTU2NWI5MTVm",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Que Me Siga (Malo)",
         "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 195946,
       "name": "Que Me Siga (Malo)",
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -589,26 +589,6 @@
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
-      "added_at": "2023-03-24 19:41:45",
-      "album": {
-        "name": "Ca\u00f1a Brava",
-        "url": "https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "NIKOLA",
-          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Ca\u00f1a Brava",
-      "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
-    },
-    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "M\u00fasica Para Pick Up",
@@ -627,6 +607,26 @@
       "duration_ms": 245426,
       "name": "The Caribbean Raver",
       "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
+    },
+    {
+      "added_at": "2023-03-24 19:41:45",
+      "album": {
+        "name": "Ca\u00f1a Brava",
+        "url": "https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "NIKOLA",
+          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Ca\u00f1a Brava",
+      "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -919,6 +919,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Planeta",
         "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 210748,
       "name": "Planeta",
       "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Caribe Express",
-        "url": "https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8"
-      },
-      "artists": [
-        {
-          "name": "Diego Raposo",
-          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
     }
   ],
   "unique_name": "Club Electropical",

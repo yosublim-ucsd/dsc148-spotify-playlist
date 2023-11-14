@@ -2,7 +2,7 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> HIPHOP 50!
+> Håll det 100.
 
 1,274 songs - 2 day 8 hr 9 min
 

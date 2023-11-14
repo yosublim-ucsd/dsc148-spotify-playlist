@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 30906,
+  "num_followers": 30941,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
+  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Reach - The Ultimate Remixes",
+        "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
+        }
+      ],
+      "duration_ms": 472453,
+      "name": "Reach (Little \"More\" Mix)",
+      "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Indonesia",
         "url": "https://open.spotify.com/album/0RuTllZKmylqbK2VUarJ9q"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 566013,
       "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) (Whiplash and Turner Vocal Mix)",
       "url": "https://open.spotify.com/track/4QtptxnekTn0OBDUmhTk4G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Reach - The Ultimate Remixes",
-        "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
-      },
-      "artists": [
-        {
-          "name": "Lil' Mo' Yin Yang",
-          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
-        }
-      ],
-      "duration_ms": 472453,
-      "name": "Reach (Little \"More\" Mix)",
-      "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 474560,
+      "name": "Zulu (Change Mix)",
+      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
       },
@@ -459,18 +475,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
+        "name": "Keep On Groovin'",
+        "url": "https://open.spotify.com/album/3AYF0SeOzm9runBziVjooE"
       },
       "artists": [
         {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
         }
       ],
-      "duration_ms": 474560,
-      "name": "Zulu (Change Mix)",
-      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+      "duration_ms": 463571,
+      "name": "Keep On Groovin' (Pitch Disco Mix)",
+      "url": "https://open.spotify.com/track/5hxBQdYP2DbrPNJ2zGByXk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 433373,
+      "name": "I Get Lifted (The Underground Network Mix)",
+      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -495,70 +527,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "I Get Lifted",
-        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted (The Underground Network Mix)",
-      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Keep On Groovin'",
-        "url": "https://open.spotify.com/album/3AYF0SeOzm9runBziVjooE"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 463571,
-      "name": "Keep On Groovin' (Pitch Disco Mix)",
-      "url": "https://open.spotify.com/track/5hxBQdYP2DbrPNJ2zGByXk"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Asuca",
-        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca (Tribal Mix)",
-      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Love Thang",
-        "url": "https://open.spotify.com/album/7m858aBA434dkhlpOjEZEV"
-      },
-      "artists": [
-        {
-          "name": "Banji Boys",
-          "url": "https://open.spotify.com/artist/3h4cnmNl9WSJpS64ChcVLA"
-        }
-      ],
-      "duration_ms": 325350,
-      "name": "Love Thang (Cat Walk Mix)",
-      "url": "https://open.spotify.com/track/7iJGDnFraHptEne6lfN6qv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Witch Doktor (Eddie Thoneick Remix)",
         "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
       },
@@ -579,6 +547,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Love Thang",
+        "url": "https://open.spotify.com/album/7m858aBA434dkhlpOjEZEV"
+      },
+      "artists": [
+        {
+          "name": "Banji Boys",
+          "url": "https://open.spotify.com/artist/3h4cnmNl9WSJpS64ChcVLA"
+        }
+      ],
+      "duration_ms": 325350,
+      "name": "Love Thang (Cat Walk Mix)",
+      "url": "https://open.spotify.com/track/7iJGDnFraHptEne6lfN6qv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 781853,
       "name": "Break Night (The Mardi Gras Mix)",
       "url": "https://open.spotify.com/track/5wjkcqSBnatDQjoggovBrO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Asuca",
+        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca (Tribal Mix)",
+      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Higher State of Consciousness",
         "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 519506,
       "name": "Higher State of Consciousness (DJ Wink's Hardhouse Mix)",
       "url": "https://open.spotify.com/track/2arz9AFJf2utACXWeynydn"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "So Deep, so Good",
+        "url": "https://open.spotify.com/album/2NZvKyGrVoErnHeASSUEmN"
+      },
+      "artists": [
+        {
+          "name": "M & M",
+          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
+        }
+      ],
+      "duration_ms": 456236,
+      "name": "So Deep, so Good (Ndako Gboya Mix)",
+      "url": "https://open.spotify.com/track/36q4kV9QMWJOOANWJR21Wr"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -727,38 +743,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "So Deep, so Good",
-        "url": "https://open.spotify.com/album/2NZvKyGrVoErnHeASSUEmN"
-      },
-      "artists": [
-        {
-          "name": "M & M",
-          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
-        }
-      ],
-      "duration_ms": 456236,
-      "name": "So Deep, so Good (Ndako Gboya Mix)",
-      "url": "https://open.spotify.com/track/36q4kV9QMWJOOANWJR21Wr"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Jazz It Up",
         "url": "https://open.spotify.com/album/3Nm4uP8Qb9TLcaLiqRtyJr"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 311760,
       "name": "Jazz it Up (Extended Jazz)",
       "url": "https://open.spotify.com/track/3IGALj2BWgLobfde5ybccP"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise from Your Grave",
-        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 396586,
-      "name": "Rise from Your Grave (Wild pitch mix)",
-      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
         "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
       "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Rise from Your Grave",
+        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 396586,
+      "name": "Rise from Your Grave (Wild pitch mix)",
+      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices (Choices Vocal Mix)",
-      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+      "duration_ms": 343720,
+      "name": "Dance to the Rhythm",
+      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
       },
       "artists": [
         {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
         }
       ],
-      "duration_ms": 343720,
-      "name": "Dance to the Rhythm",
-      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
+      "duration_ms": 472984,
+      "name": "Choices (Choices Vocal Mix)",
+      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 358546,
       "name": "Boom (Radio Mix)",
       "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1127,38 +1127,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Move Your Body (feat. LaVette) [Mixes]",
-        "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
       "artists": [
         {
-          "name": "Chicago Syndicate",
-          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
         },
         {
-          "name": "LaVette",
-          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
         }
       ],
-      "duration_ms": 228238,
-      "name": "Move Your Body (feat. LaVette) (Radio Mix)",
-      "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "C'mon",
-        "url": "https://open.spotify.com/album/5eBXQcItnTE8LVg3CBIzCe"
-      },
-      "artists": [
-        {
-          "name": "DV8",
-          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Give It All To You - 92 Remix",
-      "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
+      "duration_ms": 458306,
+      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1175,6 +1159,26 @@
       "duration_ms": 364347,
       "name": "Carnival '95 (Pride Vocal Mix)",
       "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Move Your Body (feat. LaVette) [Mixes]",
+        "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
+      },
+      "artists": [
+        {
+          "name": "Chicago Syndicate",
+          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
+        },
+        {
+          "name": "LaVette",
+          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
+        }
+      ],
+      "duration_ms": 228238,
+      "name": "Move Your Body (feat. LaVette) (Radio Mix)",
+      "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
+        "name": "C'mon",
+        "url": "https://open.spotify.com/album/5eBXQcItnTE8LVg3CBIzCe"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) (Egotrip Mix)",
-      "url": "https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM"
+      "duration_ms": 258906,
+      "name": "Give It All To You - 92 Remix",
+      "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Master Blaster (Turn It Up)",
         "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 938544,
       "name": "Master Blaster (Turn It Up)",
       "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
-        }
-      ],
-      "duration_ms": 458306,
-      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -12181,6 +12181,24 @@
     },
     {
       "album": {
+        "name": "Toalha",
+        "url": "https://open.spotify.com/album/09jjP8f2JMoaE9r3h4GWjD"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206541,
+      "name": "Toalha",
+      "url": "https://open.spotify.com/track/0KcrHF2IZR83WWAoEVLkVl"
+    },
+    {
+      "album": {
         "name": "Ato 1: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7"
       },
@@ -13204,7 +13222,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"

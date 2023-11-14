@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 586933,
+  "num_followers": 587297,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjBmNzJhMDhkNGI0NzE2YTUyYWZmMjFmMmI5YTUxOTdjYzNmNDQ2",
+  "snapshot_id": "MCxhZWJhNjE0NzdkN2VhNTU1YjEwODM3YmNiNjQ4Mjk0YzQzZGVmYThk",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226493,
       "name": "Jesus, Take the Wheel",
       "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Livin' It Up",
-        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Love Without End, Amen",
-      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Livin' It Up",
+        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Love Without End, Amen",
+      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 216693,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Playlist: The Very Best Of Lonestar",
+        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Fightin' Side Of Me",
+        "url": "https://open.spotify.com/album/6GBldLBO5gMbjpLCnLiv2B"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Fightin' Side of Me",
+      "url": "https://open.spotify.com/track/32ogrBiK5QBeMwidTdnMoq"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
       },
@@ -1471,38 +1487,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Fightin' Side Of Me",
-        "url": "https://open.spotify.com/album/6GBldLBO5gMbjpLCnLiv2B"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Fightin' Side of Me",
-      "url": "https://open.spotify.com/track/32ogrBiK5QBeMwidTdnMoq"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "My Kind Of Livin'",
         "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 203733,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Behind Closed Doors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 178600,
       "name": "A Good Hearted Woman - Live at Western Place, Dallas, Texas - September 25, 1974",
       "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Behind Closed Doors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
     }
   ],
   "unique_name": "Country's Greatest Hits",

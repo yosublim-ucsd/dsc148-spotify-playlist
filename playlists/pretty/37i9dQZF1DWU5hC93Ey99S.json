@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels.",
-  "num_followers": 28578,
+  "num_followers": 28744,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmRkNjVlOWI5ZGUwOGE4NGVkMDczMjhiMzliZDJlZjM4YTY5NDQw",
+  "snapshot_id": "MCwzZjM3MzkwMzExM2I5NjUyNDA4MzdiODMyODNlNThhMGRmNWZkM2Q5",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
+    },
+    {
+      "added_at": "2023-11-13 09:54:04",
+      "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2023-11-09 23:01:00",

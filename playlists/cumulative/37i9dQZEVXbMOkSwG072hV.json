@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Amanhecer",
+        "url": "https://open.spotify.com/album/5ludmz2fQPSnAZgl5Ynff8"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "At\u00e9 o Amanhecer",
+      "url": "https://open.spotify.com/track/1SBz05f5xeykR0m9NR6F3p"
+    },
+    {
+      "album": {
         "name": "At\u00e9 Que o Senhor Venha",
         "url": "https://open.spotify.com/album/4BwYDW9Drm8tWaFdCglz2E"
       },
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 244871,
       "name": "Barquinha de Ouro",
       "url": "https://open.spotify.com/track/430I1T6sTF8fv0hHLhvIZK"
@@ -12822,7 +12840,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 122481,
       "name": "Eu Vou Catucar X 123 Joga o Tambor pro Alto",
       "url": "https://open.spotify.com/track/63rxKRDhn5zaMsh7a9y0Mf"
@@ -15498,7 +15516,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"

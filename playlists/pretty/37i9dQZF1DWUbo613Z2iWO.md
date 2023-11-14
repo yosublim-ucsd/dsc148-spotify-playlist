@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Rosemarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,507 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,537 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 104 | [2MANYTHINGS](https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:13 |
 | 105 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ) | 3:15 |
 
-Snapshot ID: `MCw1YWM1MGZkN2EwMTdjMDlkYzlmYmNlMTU3ZTE2NmYwMzc0YTMxMjJj`
+Snapshot ID: `MCwyODI0ZDQ3YTBjNGRmOWJlN2NjYjQyNDg0MTU5MGFjYmY3MjU3YzRi`

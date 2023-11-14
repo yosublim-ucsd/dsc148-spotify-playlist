@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Chanel",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 142406,
       "name": "b.o.b.o.",
       "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 139876,
       "name": "Canci\u00f3n de pop",
       "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 234611,
       "name": "Con Solo una Sonrisa",
       "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 179123,
       "name": "Demasiado Lejos",
       "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 203768,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 129845,
       "name": "El Mambo",
       "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
@@ -1988,6 +1988,24 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
+    },
+    {
+      "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "album": {
@@ -4529,6 +4547,32 @@
     },
     {
       "album": {
+        "name": "Piscina",
+        "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225661,
+      "name": "Piscina",
+      "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
+    },
+    {
+      "album": {
         "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
         "url": "https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I"
       },
@@ -4925,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "RED FLAGS",
+        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "RED FLAGS",
+      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
+    },
+    {
+      "album": {
         "name": "REMEMBER",
         "url": "https://open.spotify.com/album/5aEHyG7fZiR6u4BAjWISDx"
       },
@@ -5006,6 +5068,28 @@
       "duration_ms": 187076,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r"
+    },
+    {
+      "album": {
+        "name": "Salitre",
+        "url": "https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220872,
+      "name": "Salitre",
+      "url": "https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH"
     },
     {
       "album": {
@@ -5271,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "SINCERAMENTE",
+      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
+    },
+    {
+      "album": {
         "name": "Sobredosis",
         "url": "https://open.spotify.com/album/2CnZQxtqXpbo7qgbLuU0sd"
       },
@@ -5318,7 +5420,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 151500,
       "name": "solo se que no se que",
       "url": "https://open.spotify.com/track/1pOjXaeX3mQDIDqTx2lGWL"
@@ -5446,6 +5548,28 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 lo Que Hicisteis",
+        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209265,
+      "name": "S\u00e9 lo Que Hicisteis",
+      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
     },
     {
       "album": {
@@ -5708,6 +5832,28 @@
       "duration_ms": 200145,
       "name": "Tiro Al Aire",
       "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+    },
+    {
+      "album": {
+        "name": "Tocao",
+        "url": "https://open.spotify.com/album/6p3hD2DfqEmuL7rLBnQk8q"
+      },
+      "artists": [
+        {
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205908,
+      "name": "Tocao",
+      "url": "https://open.spotify.com/track/6QiA3JGlrHiatHiJZkcpCF"
     },
     {
       "album": {
@@ -6196,6 +6342,28 @@
       "duration_ms": 155605,
       "name": "Vivo En Un Mundo (El Ladr\u00f3n De Mi Sue\u00f1o)",
       "url": "https://open.spotify.com/track/4hwq7PosX7h6qNCXJTPyJz"
+    },
+    {
+      "album": {
+        "name": "volver\u00e1s??",
+        "url": "https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        },
+        {
+          "name": "Paula Becker",
+          "url": "https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "volver\u00e1s??",
+      "url": "https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL"
     },
     {
       "album": {

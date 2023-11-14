@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 97713,
+  "num_followers": 97859,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWViNGQxMWI2MWIyODAyMjA3YTc4NGY3ODlhYTQ1ODlhY2RmZmRk",
+  "snapshot_id": "MCwwNTU0YWUzNGM4NTExM2NmMDEzMDVjNmM5ZDczMjkzYjZhMGM3NWQy",
   "tracks": [
     {
       "added_at": "2023-11-10 15:22:27",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
         "name": "Artaud",
         "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
+        "name": "La Hija De La Lagrima",
+        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Chipi-Chipi",
+      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -623,38 +639,6 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "La Hija De La Lagrima",
-        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Chipi-Chipi",
-      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
         "name": "Ay Ay Ay",
         "url": "https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 330826,
       "name": "Ando Ganas (Llora Llora)",
       "url": "https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
         "name": "Oktubre",
         "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 296133,
       "name": "Motor Psico",
       "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -747,6 +747,22 @@
       "duration_ms": 215386,
       "name": "Diez a\u00f1os despu\u00e9s",
       "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "P\u00e9talo de sal",
+      "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "P\u00e9talo de sal",
-      "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 281266,
-      "name": "Fulanos de Nadie",
-      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
         "name": "Naranja Persa",
         "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 271332,
       "name": "Luz",
       "url": "https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "Fulanos de Nadie",
+      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 194343,
-      "name": "Te Encontr\u00e9 (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -991,22 +991,6 @@
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+      "duration_ms": 194343,
+      "name": "Te Encontr\u00e9 (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1071,6 +1055,38 @@
       "duration_ms": 286240,
       "name": "Como un Cuento",
       "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 320946,
+      "name": "Otro Jueves Cobarde",
+      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1135,22 +1151,6 @@
       "duration_ms": 261153,
       "name": "Coraz\u00f3n Delator",
       "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 320946,
-      "name": "Otro Jueves Cobarde",
-      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
+        "name": "Hay Momentos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 279684,
+      "name": "Hay Momentos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
@@ -1303,22 +1323,6 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Serie Oro",
-        "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Hay Momentos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
+        "name": "Serie Oro",
+        "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 279684,
-      "name": "Hay Momentos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
+      "duration_ms": 313693,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Una y Otra Vez",
-        "url": "https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R"
+        "name": "Deja Su Lugar",
+        "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
       },
       "artists": [
+        {
+          "name": "La Triple Nelson",
+          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
+        },
         {
           "name": "Ricardo Mollo",
           "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 130804,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1"
+      "duration_ms": 235480,
+      "name": "Deja Su Lugar",
+      "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Deja Su Lugar",
-        "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R"
       },
       "artists": [
-        {
-          "name": "La Triple Nelson",
-          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
-        },
         {
           "name": "Ricardo Mollo",
           "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 235480,
-      "name": "Deja Su Lugar",
-      "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
+      "duration_ms": 130804,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1"
     },
     {
       "added_at": "2023-11-10 15:22:27",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-11-10 15:22:27",
       "album": {
-        "name": "Vendedora de Caricias",
-        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
-      },
-      "artists": [
-        {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
-        }
-      ],
-      "duration_ms": 199610,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
-    },
-    {
-      "added_at": "2023-11-10 15:22:27",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/6e45aH8gfnLjPqd9jX25HX"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 201402,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/4wSHlr7aUYTYlyO1dtfblV"
+    },
+    {
+      "added_at": "2023-11-10 15:22:27",
+      "album": {
+        "name": "Vendedora de Caricias",
+        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
+      },
+      "artists": [
+        {
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
+        }
+      ],
+      "duration_ms": 199610,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
     },
     {
       "added_at": "2023-11-10 15:22:27",

@@ -4,7 +4,7 @@
 
 > 
 
-249 songs - 11 hr 56 min
+250 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Spriten Räddade Mig Från Sporten](https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 3:24 | 2021-12-14 |  |
 | [Stad i ljus](https://open.spotify.com/track/2YyAY35oZSKbq2M3WlUYj5) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 4:38 | 2021-12-14 | 2022-07-22 |
 | [Staten & kapitalet](https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 5:26 | 2021-12-14 |  |
+| [Ställ dig upp](https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Mvh Grannen](https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK) | 3:24 | 2023-11-09 |  |
 | [Ställ Dig Upp](https://open.spotify.com/track/0s5ek8dVFie1ILTVSbT22s) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Mvh Grannen](https://open.spotify.com/album/3Hw2q4RCR35acKOBkoAP2i) | 3:24 | 2021-12-14 | 2022-07-26 |
 | [Ställ dig upp](https://open.spotify.com/track/3jvZ5ypCXvlDbqVkK3bx5C) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Mvh Grannen](https://open.spotify.com/album/3sTZbgkB9ffVceA3RAIifb) | 3:24 | 2021-12-14 | 2022-11-13 |
 | [Svegregationen](https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Gbg Noir](https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN) | 3:02 | 2021-12-14 |  |
@@ -253,7 +254,7 @@
 | [Älska Mig](https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/4L8BOlcLg6VbsLeT9bbdXm) | 3:05 | 2021-12-14 | 2023-04-30 |
 | [Älska Mig](https://open.spotify.com/track/6t7INXbHQUZiubnZ232MoE) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A) | 3:05 | 2023-04-13 |  |
 | [Älska Mig](https://open.spotify.com/track/3UQTJo6Hck0rknKPIX0tDa) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Far Åt Helvete](https://open.spotify.com/album/6LT6QbifZJaNnYbNYwHxJU) | 3:07 | 2021-12-14 | 2022-07-29 |
-| [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 | 2023-04-13 |  |
+| [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 | 2023-04-13 | 2023-11-14 |
 | [Är det bra?](https://open.spotify.com/track/5MUKNZ1vPkuLvxPT7Q3QtQ) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb) | 2:53 | 2021-12-14 | 2022-07-29 |
 | [Åt helvete med kungafamiljen](https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 1:12 | 2021-12-14 | 2022-07-26 |
 | [Örnar Över Amerika](https://open.spotify.com/track/4zosRoaCz85ScOVAWkjzVM) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Örnar Över Amerika](https://open.spotify.com/album/4KkDPSsmbycy3NpS3gpECc) | 2:50 | 2021-12-14 | 2022-07-15 |

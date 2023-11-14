@@ -4,11 +4,11 @@
 
 > Work or rest with these gems from the 80s.
 
-206 songs - 14 hr 49 min
+207 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 | 2018-12-12 |  |
+| [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 | 2018-12-12 | 2023-11-14 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/3KvdZ0n69ArKgYYEsS6QtM) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 3:43 | 2018-12-12 | 2022-07-29 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 | 2018-12-12 |  |
 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 | 2018-12-12 |  |
@@ -107,6 +107,7 @@
 | [Italian Song \- Remastered](https://open.spotify.com/track/0MK9yAbikyhhxVfOeYICzP) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [Private Collection \(Remastered 2016\)](https://open.spotify.com/album/1TZEZc4QRSt4wIXWT3Iiif) | 2:53 | 2018-12-12 | 2022-11-13 |
 | [Kangaroo \(Remastered\)](https://open.spotify.com/track/1HdIqEOl9MxoJNsz33VOvW) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/6D6C7jGsJdzJpcEaMcxswR) | 3:29 | 2018-12-12 | 2022-07-29 |
 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 | 2018-12-12 |  |
+| [Lady Marian \(2003 \- Remaster\)](https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Legend \(2003 \- Remaster\)](https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV) | 3:21 | 2018-12-12 |  |
 | [Lady Marian \- Remastered 2003](https://open.spotify.com/track/4hCacl8149uMvU4EBx4c19) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Legend](https://open.spotify.com/album/2Ybk2o6v6vqbLcRkPS7m2F) | 3:22 | 2018-12-12 | 2023-10-23 |
 | [Lea](https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 4:29 | 2018-12-12 |  |
 | [Lead Me On](https://open.spotify.com/track/4TQAwM6BhJz7kr22SrbZof) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/1tJctCfk9OYvRbBKu3bI5L) | 5:52 | 2018-12-12 | 2022-05-23 |

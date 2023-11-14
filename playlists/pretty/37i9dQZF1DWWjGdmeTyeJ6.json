@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Pink Pablo. Artwork by Isu Kim.\n",
-  "num_followers": 1163380,
+  "num_followers": 1163361,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTYxMjE0M2VhNzg4NjljZDdiZDA1NDIxYzQyMzhiMTA0YjA2MGVk",
+  "snapshot_id": "MCw3ZjkwY2ZjODYyMzBjZDU5MDgwMTZlMGIxMmQ4NGY5ZGQwMDhjMTFl",
   "tracks": [
     {
       "added_at": "2023-11-08 15:03:37",
@@ -199,6 +199,22 @@
       "duration_ms": 163935,
       "name": "STUPID WHEEL",
       "url": "https://open.spotify.com/track/3B79bh5sBug5yADwGZgO69"
+    },
+    {
+      "added_at": "2023-11-13 20:52:20",
+      "album": {
+        "name": "luvu222",
+        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "duration_ms": 110571,
+      "name": "luvu222",
+      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "added_at": "2023-11-07 14:49:00",
@@ -575,22 +591,6 @@
       "duration_ms": 219498,
       "name": "hold you close",
       "url": "https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45"
-    },
-    {
-      "added_at": "2023-10-11 15:56:00",
-      "album": {
-        "name": "Dark Bar Daisy",
-        "url": "https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a"
-      },
-      "artists": [
-        {
-          "name": "Harper O'Neill",
-          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
-        }
-      ],
-      "duration_ms": 275690,
-      "name": "No Longer Mine",
-      "url": "https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS"
     },
     {
       "added_at": "2023-10-19 22:32:05",

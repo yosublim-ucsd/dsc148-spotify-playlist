@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-533 songs - 2 day 3 hr 26 min
+534 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Drago \- Anja Schneider Remix](https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Drago \(Anja Schneider Remix\)](https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0) | 6:22 | 2022-04-22 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/67aiZtmB5ZBCGxBN3pOL6C) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE) | 4:43 | 2022-11-23 | 2023-04-01 |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-08 |  |
-| [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 |  |
+| [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 | 2023-11-14 |
 | [Dvaraka](https://open.spotify.com/track/655xQvb0DNxJ8PUHjDnDYy) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [Dvaraka](https://open.spotify.com/album/0G47sYDbrRXUDahMALCsBH) | 8:26 | 2021-05-07 | 2022-04-21 |
 | [Ederlezi](https://open.spotify.com/track/2ZQK68ctm8rFny71kyvnUc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Ederlezi](https://open.spotify.com/album/7HMEPFeIAiSXriShJwUzb9) | 3:03 | 2023-07-28 | 2023-09-23 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
@@ -319,6 +319,7 @@
 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-22 |  |
 | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/track/5noZKtZK2JZsGK8JlUiVeB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4) | 5:43 | 2022-07-01 | 2022-07-24 |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-05-01 | 2022-08-04 |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-13 |  |
 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 | 2023-10-20 |  |
 | [My Time With You](https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends III](https://open.spotify.com/album/4I0G615tBSwurLamowdpHD) | 6:49 | 2023-06-23 | 2023-08-07 |
 | [NA NA NA](https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz) | [WAALAAXXX](https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ) | [NA NA NA](https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P) | 7:10 | 2023-10-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 284620,
+  "num_followers": 284702,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWU3MWM5OTAwYjQ4NjZlNzk1NjdhMTg3NTgyYTJhOGI3MjlhYzQ4",
+  "snapshot_id": "MCxiYTg1NDQ0MmNkNGJhMWQ5MDdhZTJhYWMyMjJmNzk5MWU5MjJmMTMw",
   "tracks": [
     {
       "added_at": "2023-08-16 06:37:57",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Degg Gui (feat. Flavia Coelho & Fixi) - Single",
         "url": "https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 228782,
       "name": "Degg Gui (feat. Flavia Coelho & Fixi)",
       "url": "https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Talking Timbuktu",
-        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 429973,
-      "name": "Ai Du (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -407,38 +407,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "St Germain",
-        "url": "https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 403693,
-      "name": "How Dare You",
-      "url": "https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Ali & Toumani",
         "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
       },
@@ -459,6 +427,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "St Germain",
+        "url": "https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 403693,
+      "name": "How Dare You",
+      "url": "https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Shouka",
         "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 202253,
       "name": "Haiyu",
       "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Akh Issudar",
-        "url": "https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx"
-      },
-      "artists": [
-        {
-          "name": "Terakaft",
-          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Tahra a Issasnane",
-      "url": "https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Mbalimaou",
         "url": "https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Akh Issudar",
+        "url": "https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx"
+      },
+      "artists": [
+        {
+          "name": "Terakaft",
+          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Tahra a Issasnane",
+      "url": "https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Albala",
-        "url": "https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH"
-      },
-      "artists": [
-        {
-          "name": "Samba Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi"
-        }
-      ],
-      "duration_ms": 311253,
-      "name": "Be Ki Don",
-      "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Chatma",
         "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
       },
@@ -691,38 +675,6 @@
       "duration_ms": 290800,
       "name": "Tisnant an Chatma",
       "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
-      },
-      "artists": [
-        {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Akaline Akaline",
-      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Deran",
-        "url": "https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 222821,
-      "name": "Midiwan (My Friends)",
-      "url": "https://open.spotify.com/track/4p8Vq2bjTA0QFPJipbhOR3"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -743,6 +695,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Albala",
+        "url": "https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH"
+      },
+      "artists": [
+        {
+          "name": "Samba Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi"
+        }
+      ],
+      "duration_ms": 311253,
+      "name": "Be Ki Don",
+      "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Sequana",
         "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 257972,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Akaline Akaline",
+      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+        "name": "Deran",
+        "url": "https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
-      "duration_ms": 313480,
-      "name": "Toumast anlet",
-      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
+      "duration_ms": 222821,
+      "name": "Midiwan (My Friends)",
+      "url": "https://open.spotify.com/track/4p8Vq2bjTA0QFPJipbhOR3"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Azel",
-        "url": "https://open.spotify.com/album/6OUmsPAH0w42g1NCQYe5Qv"
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
       },
       "artists": [
         {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
         }
       ],
-      "duration_ms": 367185,
-      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
-      "url": "https://open.spotify.com/track/7JhZnctUOHoRVXZnKP9cSB"
+      "duration_ms": 313480,
+      "name": "Toumast anlet",
+      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -935,6 +919,30 @@
       "duration_ms": 281093,
       "name": "Manden Mandinkadenou (Chant de griot)",
       "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "3MA",
+        "url": "https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6"
+      },
+      "artists": [
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "duration_ms": 88360,
+      "name": "Taxi Brousse",
+      "url": "https://open.spotify.com/track/2IqeH9eUGHoK9HNgdirYZL"
     }
   ],
   "unique_name": "Sahara",

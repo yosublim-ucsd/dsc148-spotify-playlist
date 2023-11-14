@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,408 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,739 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 54 | [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 |
 | 55 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 
-Snapshot ID: `MCwyZDU3ZGYzNDU0MjQyODA5NWY1MWFiMTYyZDZlY2Q5YWQ5NDUyZDI0`
+Snapshot ID: `MCxlZjFjODY0ZDI5NzkyZWM3MWJkOWI3NDBlOTdkYzY1OTRjOGE2OWU5`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-321 songs - 19 hr 11 min
+322 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [You Don't Even Know Me](https://open.spotify.com/track/3OsCxc7lvB2u9WZMGO69DF) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Monstercat Uncaged Vol\. 6](https://open.spotify.com/album/5Dt2L9cgGjdeODEkH450QM) | 3:46 | 2021-12-03 | 2022-05-14 |
 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2021-12-03 | 2022-12-03 |
 | [You're Not Mine](https://open.spotify.com/track/0hiUJCgkKNkmMSgSCttvyR) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [You're Not Mine](https://open.spotify.com/album/6k8jZ4LIyTBd6YRTEloM4S) | 2:55 | 2022-09-09 | 2022-10-13 |
-| [You're Not Mine](https://open.spotify.com/track/3L170JRykNjmZ6yT7VqVz0) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [You're Not Mine](https://open.spotify.com/album/0DkMxW0zWrw76OJyYO5F9Q) | 2:55 | 2022-09-30 |  |
+| [You're Not Mine](https://open.spotify.com/track/3L170JRykNjmZ6yT7VqVz0) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [You're Not Mine](https://open.spotify.com/album/0DkMxW0zWrw76OJyYO5F9Q) | 2:55 | 2022-09-30 | 2023-11-14 |
+| [You're Not Mine](https://open.spotify.com/track/3oLZENFs5WLPgM653AZ5H9) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [TEN](https://open.spotify.com/album/0xw6c2oynMTUnYYmEzPOsp) | 2:55 | 2023-11-10 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Cleffy
 
-1,398 songs - 2 day 18 hr 0 min
+1,399 songs - 2 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [Hallow Kitty](https://open.spotify.com/track/3YONiGJ9VB9KvpXEHgLMjF) | [Kwam.E](https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV), [OVE](https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV) | [Hallow Kitty](https://open.spotify.com/album/7DPL8ClopefjZeWVAIggXg) | 3:27 | 2023-03-06 | 2023-03-25 |
 | [Hallow Kitty](https://open.spotify.com/track/6sizQj16amSoj5iXMDCx5J) | [Kwam.E](https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV), [OVE](https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV) | [Hallow Kitty](https://open.spotify.com/album/2xsLhRzerB4ovi3Sx8T7Gy) | 3:27 | 2023-03-24 | 2023-06-30 |
 | [Halt mich \(feat\. laloba\)](https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [laloba](https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z) | [Durch die Blume](https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD) | 4:25 | 2023-10-12 | 2023-10-20 |
-| [Hand aufs Herz](https://open.spotify.com/track/0gWgvioP12I9PXTiGF1ADB) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [Hand aufs Herz](https://open.spotify.com/album/7CeYuP1R20uDX473GxmFcF) | 2:55 | 2023-08-10 |  |
+| [Hand aufs Herz](https://open.spotify.com/track/0gWgvioP12I9PXTiGF1ADB) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [Hand aufs Herz](https://open.spotify.com/album/7CeYuP1R20uDX473GxmFcF) | 2:55 | 2023-08-10 | 2023-11-14 |
 | [Happiness](https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 4:03 | 2022-07-11 | 2022-07-14 |
 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 | 2023-04-13 | 2023-06-16 |
 | [Happy Alone](https://open.spotify.com/track/21M4y1IgfG4m4wnjCDhz0K) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Happy Alone](https://open.spotify.com/album/4v0vNSsbpv8bbcIWA9iVsa) | 1:58 | 2023-08-10 | 2023-08-30 |
@@ -730,6 +730,7 @@
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2023-05-04 | 2023-06-02 |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-09-14 | 2023-10-06 |
+| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-13 |  |
 | [Low](https://open.spotify.com/track/2k0ZMNVR4Wk6M6ZFcD0NwR) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc) | [Low](https://open.spotify.com/album/4FNrH4cbXqJr1FNdqgQyJR) | 1:59 | 2023-07-26 | 2023-10-13 |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-08-17 | 2023-08-30 |
 | [Lucky Luke](https://open.spotify.com/track/4ej3FXhGM9CVjvS4tJ2gtk) | [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY), [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Cany75](https://open.spotify.com/artist/25J0KcLLMB0IucsDJ4LocD), [OT](https://open.spotify.com/artist/122hwG9HcBJitZseVPce5T) | [Lucky Luke](https://open.spotify.com/album/5wcAF1i1PpvDvcauhMWUUg) | 2:44 | 2023-01-06 | 2023-03-03 |

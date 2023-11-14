@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459,550 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,713 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 |
 | 75 | [Gaping Wounds of Earth](https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:43 |
 
-Snapshot ID: `MCw4NGYwYmIxNTBmZTU5Yjk4ZDZlYTY3NDhlNTIzZDFiOWM4MDBhMzM3`
+Snapshot ID: `MCwxODUxYTM2Nzc1ZWQwMmIwN2I5YmMxOTYzMTcxOTE2ZGZkMWQ0Mjhl`

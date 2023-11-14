@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,699 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,797 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 82 | [Hey, Jack](https://open.spotify.com/track/0o6YthkHUTGo2H95UROejS) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Hey, Jack](https://open.spotify.com/album/0k2nzXBmlKsor7Q6tPkvr8) | 2:47 |
 | 83 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 |
 | 84 | [Hole In My Head](https://open.spotify.com/track/5Jxm8WzWz7uJWg8JajPJ3u) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2H5E6mJHbo9aNfzjJA74da) | 1:41 |
-| 85 | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/1WjolfVc13X3MRyV1xH8h3) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Restless Thoughts](https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ) | 3:50 |
+| 85 | [Big Trouble](https://open.spotify.com/track/2AX5Yxju2GHEXQnzzpeaJi) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Restless Thoughts](https://open.spotify.com/album/2fAS5jTOGd1sMmeTn7yqJu) | 3:50 |
 | 86 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 |
 | 87 | [Makeup \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/4EwZjYlGVGhidbZ8gbcMJA) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Makeup \(feat\. Lolo Zouaï\)](https://open.spotify.com/album/1vq3jzAiW6kIWF2iZYATyS) | 3:11 |
 | 88 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 |
 | 100 | [Angst](https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Angst](https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha) | 2:25 |
 
-Snapshot ID: `MCw0YmQwMzk1YzE1NTQ2NDNiN2I0MGYzMjk1MmQ3MWUxOTlmYTc3NDUx`
+Snapshot ID: `MCw0OWUwYTg2NTgzZDg1ZDNmZjhiNDVlN2E5MGUyM2Q0NGVjMTg1YjJl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:2FhI5QfUYl5iIlUog9HHEw\">27.Fuckdemons</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 129500,
       "name": "49 Groszy - Remix",
       "url": "https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
@@ -490,6 +490,24 @@
       "duration_ms": 172105,
       "name": "Daj mi jeszcze jedn\u0105 szans\u0119",
       "url": "https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k"
+    },
+    {
+      "album": {
+        "name": "Deadfall",
+        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263614,
+      "name": "Deadfall",
+      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
     },
     {
       "album": {
@@ -678,7 +696,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
@@ -1135,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Klub Z\u0142amanych Serc",
+        "url": "https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128332,
+      "name": "Klub Z\u0142amanych Serc",
+      "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
+    },
+    {
+      "album": {
         "name": "GEJSZA",
         "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
       },
@@ -1190,6 +1226,24 @@
       "duration_ms": 169759,
       "name": "Le$bijka",
       "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "album": {
+        "name": "LICEUM (SALA 27)",
+        "url": "https://open.spotify.com/album/4SIhFEYOOqe0eDvetreSU9"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "LICEUM (SALA 27)",
+      "url": "https://open.spotify.com/track/6MRatjwwFoJt07cK1bt6FW"
     },
     {
       "album": {
@@ -1464,7 +1518,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 160016,
       "name": "nie wr\u00f3c\u0119",
       "url": "https://open.spotify.com/track/5nVQRlR20mRJH3k3S0aGj3"
@@ -1652,10 +1706,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 202666,
       "name": "Parlez Vous Francais",
       "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
+    },
+    {
+      "album": {
+        "name": "Pentimento",
+        "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Juna Ara",
+          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pentimento",
+      "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
     },
     {
       "album": {
@@ -2102,7 +2178,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Rojava",
       "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
@@ -2495,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Remedium",
+        "url": "https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS"
+      },
+      "artists": [
+        {
+          "name": "Vipera",
+          "url": "https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200419,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"
+    },
+    {
+      "album": {
         "name": "Suwenir",
         "url": "https://open.spotify.com/album/3WobIG2LjPmQcE2hbGJXRy"
       },
@@ -2728,7 +2822,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 202494,
       "name": "W innym kolorze",
       "url": "https://open.spotify.com/track/1SKOsQeGx7heZSoylQfqzM"

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 586978,
+  "num_followers": 587079,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
+  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 567906,
-      "name": "Thoroughfare",
-      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 124853,
       "name": "All My Tears",
       "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 567906,
+      "name": "Thoroughfare",
+      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 187558,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Whiskey Shivers",
         "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
       },
@@ -547,18 +563,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -583,22 +615,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 111186,
       "name": "Dreamcatchers",
       "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat the Devil's Tattoo",
-      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 186960,
       "name": "Sharecropper\u2019s Son",
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 194570,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 264937,
       "name": "Priest",
       "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 194570,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Dirty River Boys",
         "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 214040,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
+      },
+      "artists": [
+        {
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
     },
     {
       "added_at": "2023-10-06 04:00:00",

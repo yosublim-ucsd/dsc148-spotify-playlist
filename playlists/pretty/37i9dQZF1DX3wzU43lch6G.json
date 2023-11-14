@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103361,
+  "num_followers": 103373,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTRjZmE2NzUzYzAzMTliNGRkY2M5ZTE3ZTdkZDE4Yzk4ZmRjM2U4",
+  "snapshot_id": "MCw1YjEyZjk4N2NlNGMxNDZkZTEyMzVjZjhhMTMyNzJlMTk3NzkwZGFj",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "G\u00f6lgede Ayn\u0131",
+        "url": "https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Gidenlerden",
+      "url": "https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "\u00c7apk\u0131nca",
         "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "G\u00f6lgede Ayn\u0131",
-        "url": "https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT"
+        "name": "Ex A\u015fk\u0131m",
+        "url": "https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL"
       },
       "artists": [
         {
-          "name": "Mustafa Sandal",
-          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
         }
       ],
-      "duration_ms": 236640,
-      "name": "Gidenlerden",
-      "url": "https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6"
+      "duration_ms": 237973,
+      "name": "Tutam\u0131yorum Zaman\u0131",
+      "url": "https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -487,22 +503,6 @@
       "duration_ms": 154000,
       "name": "Ke\u015fke Benim Olsan",
       "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Ex A\u015fk\u0131m",
-        "url": "https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL"
-      },
-      "artists": [
-        {
-          "name": "Kenan Do\u011fulu",
-          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Tutam\u0131yorum Zaman\u0131",
-      "url": "https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Divane",
+        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Gel Benimle",
+      "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Sen Istersin",
         "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Divane",
-        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Gel Benimle",
-      "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Bildi\u011fim Gibi",
         "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
       },
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Bir Yaz Daha Bitiyor",
+        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcndo\u011farken",
+          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
+      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "\u00c7\u0131kmaz Sokaklar",
         "url": "https://open.spotify.com/album/2jBSfhq7mFVnTtLMZDi3CW"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Bir Yaz Daha Bitiyor",
-        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
+        "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
+        "url": "https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A"
       },
       "artists": [
         {
-          "name": "G\u00fcndo\u011farken",
-          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
+          "name": "Nazan \u00d6ncel",
+          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
         }
       ],
-      "duration_ms": 179093,
-      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
-      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
+      "duration_ms": 277800,
+      "name": "Nereye B\u00f6yle",
+      "url": "https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -811,22 +827,6 @@
       "duration_ms": 319895,
       "name": "Tuana",
       "url": "https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
-        "url": "https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A"
-      },
-      "artists": [
-        {
-          "name": "Nazan \u00d6ncel",
-          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Nereye B\u00f6yle",
-      "url": "https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL"
     },
     {
       "added_at": "2023-08-31 21:00:00",

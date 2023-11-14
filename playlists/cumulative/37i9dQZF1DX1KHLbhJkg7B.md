@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-341 songs - 21 hr 24 min
+342 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-21 |  |
 | [Bless the Broken Road \- Acoustic](https://open.spotify.com/track/3wNWGhHUXcfIAkofmN1A3a) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Bless the Broken Road \(Acoustic\)](https://open.spotify.com/album/1Jtc296ozOVEdimxdkKsNi) | 2:55 | 2022-01-07 | 2022-07-24 |
 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 | 2022-06-24 | 2023-09-30 |
-| [Bohemian Rhapsody \- Live at The SSE Arena, Wembley, London, UK, 09.25.2015](https://open.spotify.com/track/06IcvzBG1BCxpBoDKEM9fG) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Bohemian Rhapsody \(Live at The SSE Arena, Wembley, London, UK, 09.25.2015\)](https://open.spotify.com/album/0gBdgaNKELXZyHCBCfVWxb) | 5:53 | 2023-09-01 |  |
+| [Bohemian Rhapsody \- Live at The SSE Arena, Wembley, London, UK, 09.25.2015](https://open.spotify.com/track/06IcvzBG1BCxpBoDKEM9fG) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Bohemian Rhapsody \(Live at The SSE Arena, Wembley, London, UK, 09.25.2015\)](https://open.spotify.com/album/0gBdgaNKELXZyHCBCfVWxb) | 5:53 | 2023-09-01 | 2023-11-14 |
+| [Bohemian Rhapsody \- Live at The SSE Arena, Wembley, London, UK, 09.25.2015](https://open.spotify.com/track/25TnC0qpQlNylRgm3F5upg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 5:53 | 2023-11-03 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/1jfsJ1YUHdb44epr4b0iLF) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:41 | 2021-12-10 | 2022-07-29 |
 | [Bring It on Home to Me](https://open.spotify.com/track/2T3Zh0xxfmiFqTiniywESU) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:33 | 2021-12-10 | 2022-07-29 |
 | [Brown Eyed Girl](https://open.spotify.com/track/2fCpWoMuAumaULLfzxBC6l) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Boats, Beaches, Bars & Ballads](https://open.spotify.com/album/5QUmbsTCBquw4lvFc45oqC) | 3:52 | 2021-12-10 | 2022-07-29 |

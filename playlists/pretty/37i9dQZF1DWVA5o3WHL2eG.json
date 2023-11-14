@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: UCHE YARA",
-  "num_followers": 29876,
+  "num_followers": 29905,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTAwMTZmNmFmZjI1OWVhNjE2ZmE3MTllY2MzMDVjNWQ2ZGU4ZGI3",
+  "snapshot_id": "MCw0YWRiMTdlNzUzMDY1N2E1ZDk2NDJmMTA2NTAyNWZmMGJkYzA1NzZl",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Mitten in den Massen",
-        "url": "https://open.spotify.com/album/2aCfByH8okylKdRay8rZXf"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 181257,
-      "name": "Mitten in den Massen",
-      "url": "https://open.spotify.com/track/6Tk7aLBZLbIAfXhjtWdYPi"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "SNACKS",
         "url": "https://open.spotify.com/album/1SIljtj6TiJLEv4V9c5vxM"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 195066,
       "name": "Irgendwohin",
       "url": "https://open.spotify.com/track/7t9sJieZyAp1zCK9uP4oE0"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Mitten in den Massen",
+        "url": "https://open.spotify.com/album/2aCfByH8okylKdRay8rZXf"
+      },
+      "artists": [
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "duration_ms": 181257,
+      "name": "Mitten in den Massen",
+      "url": "https://open.spotify.com/track/6Tk7aLBZLbIAfXhjtWdYPi"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "FROSTY",
-        "url": "https://open.spotify.com/album/1jSuq12CCzp1ipFI45flxt"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "FROSTY",
-      "url": "https://open.spotify.com/track/1frNTRYA77pcr00d1auFD3"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Pano",
         "url": "https://open.spotify.com/album/0yFtpTMLVcvXncVBje4kYH"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 208419,
       "name": "Cut The Corners",
       "url": "https://open.spotify.com/track/68NFJKq7usQ7hFVpsA2rMv"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "FROSTY",
+        "url": "https://open.spotify.com/album/1jSuq12CCzp1ipFI45flxt"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 145918,
+      "name": "FROSTY",
+      "url": "https://open.spotify.com/track/1frNTRYA77pcr00d1auFD3"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "TAKE IT SLOW",
+        "url": "https://open.spotify.com/album/2529iSh8KsKSp6aaKDLgJk"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "TAKE IT SLOW",
+      "url": "https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "leeres statement",
         "url": "https://open.spotify.com/album/3dnxjFKogjboO5gVIfwjKJ"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "TAKE IT SLOW",
-        "url": "https://open.spotify.com/album/2529iSh8KsKSp6aaKDLgJk"
-      },
-      "artists": [
-        {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "TAKE IT SLOW",
-      "url": "https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "FETT",
         "url": "https://open.spotify.com/album/4K69vpYG1qPJ6vtJpQksh6"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Windowsill",
-        "url": "https://open.spotify.com/album/0wLAr3nKMgNPmfMbpn9IrM"
-      },
-      "artists": [
-        {
-          "name": "THALA",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Windowsill",
-      "url": "https://open.spotify.com/track/55pVGTZkBdookvZ8Y1HI0h"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Last Goodbye",
         "url": "https://open.spotify.com/album/512flr0suH3At9PKk2ztGN"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 159378,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4ABQB35Gb0lI21hjOLTD8f"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Windowsill",
+        "url": "https://open.spotify.com/album/0wLAr3nKMgNPmfMbpn9IrM"
+      },
+      "artists": [
+        {
+          "name": "THALA",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Windowsill",
+      "url": "https://open.spotify.com/track/55pVGTZkBdookvZ8Y1HI0h"
     },
     {
       "added_at": "2023-11-07 23:00:00",

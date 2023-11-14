@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: The Steel Woods
 
-311 songs - 17 hr 51 min
+312 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 | 2022-02-18 | 2022-06-11 |
 | [Keep Her Breathing](https://open.spotify.com/track/0RUuBirZj8442qSY65pbO8) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Keep Her Breathing](https://open.spotify.com/album/7Heo4vh5UwiwDc8hLukBCI) | 4:02 | 2022-06-24 | 2023-01-03 |
 | [Kill Me](https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT) | 2:43 | 2023-07-21 | 2023-11-05 |
+| [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 | 2023-11-10 |  |
 | [Kinda Bar](https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Kinda Bar](https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj) | 3:16 | 2023-03-24 | 2023-06-28 |
 | [Labels](https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:04 | 2021-11-01 | 2023-01-21 |
 | [Last Man Standing](https://open.spotify.com/track/4MoVAnVnWSdFWgt7EI1ZKf) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Frontier Rock](https://open.spotify.com/album/2QZ0mHcbHZolwkaHYIA9fI) | 3:10 | 2021-11-01 | 2022-07-22 |
@@ -191,7 +192,7 @@
 | [Muddy Water Rockstar](https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Muddy Water Rockstar](https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT) | 2:32 | 2023-09-08 |  |
 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 | 2022-07-22 | 2023-01-28 |
 | [My Son](https://open.spotify.com/track/2boCkY7uQ3bIqkxPuiSja2) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Old Henry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kkXBo9F0PBrR6s2iNaT1c) | 3:17 | 2021-11-01 | 2022-01-22 |
-| [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 | 2023-01-20 |  |
+| [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 | 2023-01-20 | 2023-11-14 |
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-11-12 | 2023-07-22 |
 | [Never Go Home](https://open.spotify.com/track/3K3uXpgYfvX8jMHH51tsaY) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Never Go Home](https://open.spotify.com/album/3FwRXqtlSKysLuH8R94fYi) | 3:29 | 2021-11-01 | 2022-07-26 |
 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2023-01-02 | 2023-05-08 |

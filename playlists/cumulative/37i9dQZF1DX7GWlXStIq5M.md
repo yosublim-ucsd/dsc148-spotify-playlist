@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: PRISCILLA, Bonde do Tigrão
 
-616 songs - 1 day 7 hr 24 min
+617 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [Tipo Gta](https://open.spotify.com/track/3hCzQ8c7PCcPfa9qe95ITg) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Tipo Gta](https://open.spotify.com/album/1ce4TgsWTS5N3fEdErXY44) | 3:41 | 2020-10-20 | 2022-07-26 |
 | [Tipo uma Glock](https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Tipo uma Glock](https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK) | 2:05 | 2020-10-20 | 2022-07-29 |
 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 | 2023-03-03 | 2023-04-22 |
+| [Toalha](https://open.spotify.com/track/0KcrHF2IZR83WWAoEVLkVl) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Toalha](https://open.spotify.com/album/09jjP8f2JMoaE9r3h4GWjD) | 3:26 | 2023-11-13 |  |
 | [Toda Manhã](https://open.spotify.com/track/1FpIwrg7pwzGhakpokNbuT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 2:26 | 2023-04-25 | 2023-05-06 |
 | [Toda Manhã](https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 2:26 | 2023-04-14 | 2023-04-26 |
 | [Todo Mundo Que Amei Já Me Fez Chorar](https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [Todo Mundo Que Amei Já Me Fez Chorar](https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw) | 2:58 | 2023-10-06 | 2023-11-11 |
@@ -608,7 +609,7 @@
 | [Você Não Sabe Amar](https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [DARK POP](https://open.spotify.com/album/34Cq3Hc8acmmyF4Np0Bs1a) | 2:26 | 2023-10-06 | 2023-10-28 |
 | [Você se foi](https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf) | [Thalicia](https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz) | [Você se foi](https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX) | 2:35 | 2023-02-14 | 2023-04-09 |
 | [Você É Um Perigo](https://open.spotify.com/track/1V9ON0iJZSpcmGPQUZ58Qd) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:05 | 2023-02-14 | 2023-06-24 |
-| [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 | 2023-10-20 |  |
+| [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 | 2023-10-20 | 2023-11-14 |
 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 | 2023-02-14 | 2023-04-09 |
 | [vou te respirar](https://open.spotify.com/track/1Tz1iLZ557WeHvf7tYHe6Z) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [vou te respirar](https://open.spotify.com/album/58fSX5594JIk1O5wHICbd6) | 2:18 | 2023-05-05 | 2023-07-15 |
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2020-10-20 | 2023-02-15 |

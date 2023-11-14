@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47745,
+  "num_followers": 47783,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTE3NTU0NmYxOTI0NTZmYTI5NTY3ZGQyYjA3NWY0MDI3MWRiMTI0",
+  "snapshot_id": "MCw0MDQ1ZDVmNzI5ZDk0YTlhZTQ0ZDE0Y2JlMmJmMGMzOTJmOTU1ZGY3",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
         "name": "Burnin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 225480,
       "name": "Rastaman Chant",
       "url": "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
     },
     {
       "added_at": "2022-03-03 13:49:40",

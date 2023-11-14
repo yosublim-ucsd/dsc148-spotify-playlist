@@ -1950,6 +1950,28 @@
     {
       "album": {
         "name": "Hello",
+        "url": "https://open.spotify.com/album/0eIportCxhSClJj1VpAABE"
+      },
+      "artists": [
+        {
+          "name": "RAF DON",
+          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d1tT8lpSCPY0kDlXXSQWS"
+    },
+    {
+      "album": {
+        "name": "Hello",
         "url": "https://open.spotify.com/album/29wsaI4QogsPd6eAuaWJrO"
       },
       "artists": [
@@ -3478,7 +3500,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 150534,
       "name": "Ogogoro (with Bas & Ayra Starr)",
       "url": "https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx"

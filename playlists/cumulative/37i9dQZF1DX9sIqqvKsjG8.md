@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-794 songs - 1 day 10 hr 2 min
+796 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Feathers](https://open.spotify.com/track/4T4P5i4RkTHRlGuBqbxSnA) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Feathers](https://open.spotify.com/album/7I0s6MBfw5VWHSReQ6NqWB) | 2:37 | 2021-12-07 | 2022-05-06 |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-06-16 |  |
 | [Felicity](https://open.spotify.com/track/42ozgVjsCxPmH6vSFTXAHW) | [Hugo Reilly](https://open.spotify.com/artist/5uVINFbw5tZH9G7fFQBEZd) | [Felicity](https://open.spotify.com/album/2lTOtqyZKZaX5kiw9JKqC4) | 2:02 | 2021-12-07 | 2022-05-06 |
+| [Feuille](https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Feuille](https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX) | 2:33 | 2023-11-13 |  |
 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 | 2021-12-07 | 2022-09-24 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-04 |  |
 | [Finale](https://open.spotify.com/track/3NT3cMv9qqmIX45fQqwVIU) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 2:34 | 2022-07-19 |  |
@@ -665,6 +666,7 @@
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2021-12-07 | 2023-10-07 |
 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2021-12-07 | 2022-10-14 |
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-12 | 2022-11-25 |
+| [The Conversation](https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [The Conversation](https://open.spotify.com/album/6ydnZGAPtxZ2h4bk1OAhIy) | 2:04 | 2023-11-13 |  |
 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 | 2023-06-27 |  |
 | [The Deep End](https://open.spotify.com/track/5SqntbiG519DFOWmTd9B2K) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/18h0wyRhOJtwPd2lcGZpfU) | 2:09 | 2021-12-07 | 2022-07-29 |
 | [The Deep End](https://open.spotify.com/track/670UNEC9XyjOvq1HOic4jE) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/6AzacQuQXwJE3dC1ts5NII) | 2:09 | 2022-07-19 | 2022-10-05 |

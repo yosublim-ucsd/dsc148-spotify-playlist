@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-426 songs - 23 hr 45 min
+427 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [F Song](https://open.spotify.com/track/4z9KVNX4hmk672SJfhtQNz) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song](https://open.spotify.com/album/5ZacQ1N3XCqVC1urIKTAWH) | 3:44 | 2021-10-20 | 2022-02-26 |
 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 | 2021-10-20 | 2022-02-26 |
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2021-10-20 | 2022-02-26 |
-| [falling on me](https://open.spotify.com/track/3QM8PmpJ8JgQH5nuJJvpHZ) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P), [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [falling on me](https://open.spotify.com/album/4z0wolr3lAoH4lIHbtKHCQ) | 3:24 | 2023-06-09 |  |
+| [falling on me](https://open.spotify.com/track/3QM8PmpJ8JgQH5nuJJvpHZ) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P), [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [falling on me](https://open.spotify.com/album/4z0wolr3lAoH4lIHbtKHCQ) | 3:24 | 2023-06-09 | 2023-11-14 |
 | [Fear](https://open.spotify.com/track/2VkyY15WPQlzcC6SV9BGAt) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/60XCXi2YJ0jNw72nIV2lYs) | 3:36 | 2021-10-20 | 2022-07-29 |
 | [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 3:36 | 2022-10-06 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2022-01-20 | 2023-02-03 |
@@ -142,6 +142,7 @@
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2022-04-22 |  |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2021-10-20 | 2022-01-20 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-10-20 |  |
+| [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-11-13 |  |
 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-05-06 | 2022-07-29 |
 | [Gimme Love](https://open.spotify.com/track/5jSBnH9NyaNP5zdSB3pwgu) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:34 | 2021-10-20 |  |
 | [Girl of My Dreams](https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Girl of My Dreams](https://open.spotify.com/album/11rLG3oF7eWzP079JDQUg3) | 3:42 | 2022-08-29 | 2022-11-08 |

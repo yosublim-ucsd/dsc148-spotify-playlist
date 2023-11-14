@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Mac Wetha, Aminé & beabadoobee
 
-1,144 songs - 2 day 16 hr 42 min
+1,145 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/0qjOgJ8BLIt5d9VgYEYq75) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/album/0W5rlGoHNrLwN35NG1HtTw) | 2:57 | 2021-12-28 | 2022-02-18 |
 | [Conceited](https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Conceited](https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp) | 3:59 | 2023-10-05 |  |
 | [Concrete](https://open.spotify.com/track/2le7fdIkJuRZLwCM1mFxSf) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Concrete](https://open.spotify.com/album/6SmgsgCgJBktHz7G1xAMEa) | 4:02 | 2022-03-14 | 2022-04-29 |
+| [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-11-14 |  |
 | [Congratulations](https://open.spotify.com/track/0ZoUXwjbV6eetZmiEWEf3T) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Congratulations](https://open.spotify.com/album/0T2tUhoUEv04RQBCc1qjAh) | 2:50 | 2022-09-15 | 2022-10-28 |
 | [Congratulations](https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:13 | 2022-10-06 | 2022-12-16 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-05-01 | 2023-06-09 |
@@ -467,7 +468,7 @@
 | [High Rise](https://open.spotify.com/track/0jz3gUtyvKDcNKDZRjy0eS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:30 | 2022-03-03 | 2022-05-13 |
 | [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 | 2023-08-24 | 2023-10-06 |
 | [High School Drama](https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL) | 2:52 | 2023-08-24 | 2023-08-27 |
-| [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-07-31 |  |
+| [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-07-31 | 2023-11-14 |
 | [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 | 2022-08-05 | 2022-09-23 |
 | [Hold](https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:05 | 2023-04-13 | 2023-05-26 |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2022-01-13 | 2022-03-18 |

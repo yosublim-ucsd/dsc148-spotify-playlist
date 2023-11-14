@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 249520,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 278133,
       "name": "Allow",
       "url": "https://open.spotify.com/track/3GO9CVRhEpksVFi3QeplQt"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 224106,
       "name": "Alusafani",
       "url": "https://open.spotify.com/track/1BXfrEUZFDhrVahuVT3PMK"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 223669,
       "name": "Amagents",
       "url": "https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 243100,
       "name": "Chomie Lover Friend",
       "url": "https://open.spotify.com/track/3dyDfR7QagBKqnDBcIiicf"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 442533,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
@@ -414,6 +414,24 @@
       "duration_ms": 200000,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5"
+    },
+    {
+      "album": {
+        "name": "Ndim Lo",
+        "url": "https://open.spotify.com/album/0qTMkV6dJFWXhB8ATxbypZ"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359893,
+      "name": "Ekuseni",
+      "url": "https://open.spotify.com/track/78myNjcQ5tL3xJeh4dR5l2"
     },
     {
       "album": {
@@ -482,7 +500,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
@@ -508,7 +526,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 234500,
       "name": "Feelin U",
       "url": "https://open.spotify.com/track/7vKpE6Nvrh7viO8Q0croIW"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 293593,
       "name": "Ghanama",
       "url": "https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 236629,
       "name": "I'm Scared",
       "url": "https://open.spotify.com/track/46HHaGlrPdy191gxyIkSVC"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 286666,
       "name": "Intliziyo",
       "url": "https://open.spotify.com/track/0CZjloNcJAOdtB6tsTGUi6"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 278504,
       "name": "Isoka",
       "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 210230,
       "name": "JA$MINE",
       "url": "https://open.spotify.com/track/05Cy1MZ0ioeMEklb5Np5mL"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 177877,
       "name": "Khonza",
       "url": "https://open.spotify.com/track/4zhX0i2FT04pgjLu8xobVx"
@@ -900,7 +918,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 215716,
       "name": "let it go,",
       "url": "https://open.spotify.com/track/4Atca39I6C2YVIUQDBPayi"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 247718,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/41TtI0J1rOyGARRCWHHOhr"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 354652,
       "name": "Mjolo",
       "url": "https://open.spotify.com/track/7k6DZNnYlqA11Cvpc4KLHW"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 258140,
       "name": "Molo",
       "url": "https://open.spotify.com/track/1Jg0lG581ibc6gjzGbuRqo"
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "My Soul",
       "url": "https://open.spotify.com/track/2VFMjqLTdFSOhJYSkBjkw1"
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 264560,
       "name": "Ndizakulinda",
       "url": "https://open.spotify.com/track/6zyeB1g4X42kfk2oACeBD3"
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 230893,
       "name": "Ngibambe La",
       "url": "https://open.spotify.com/track/6ch4Vpb2Zc88dCuy06Jgt8"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 281240,
       "name": "Ngiyeza",
       "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 376893,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/3JNNGzaXNqVAGZYI8l2Gzz"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 264336,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/7tQKi99tyc2ZIMzwVX1k05"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 273117,
       "name": "Nhliziyo",
       "url": "https://open.spotify.com/track/2CHQBA2ixca7vFzq4gwsJH"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "No Ties",
       "url": "https://open.spotify.com/track/0xIk1Mv1q0pltMlbTWDkd3"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 186588,
       "name": "ONLY IF YOU LIKE THAT",
       "url": "https://open.spotify.com/track/1uuDfZT0RbG4lUAcbNuwQH"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 325871,
       "name": "Price to Pay",
       "url": "https://open.spotify.com/track/2IeLhpEgAGpF7HiJtrDSQl"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 270769,
       "name": "Qoma",
       "url": "https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Risky",
       "url": "https://open.spotify.com/track/76Updb7OaDsoOHuqFbsuYr"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 227480,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Siyathandana",
       "url": "https://open.spotify.com/track/3pSWBAu9rrzoD5RwHGBdtc"
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 396506,
       "name": "Siyathandana",
       "url": "https://open.spotify.com/track/1NaxpfTsKPGG3Dpw6Fnv35"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 229819,
       "name": "Sondela My Love",
       "url": "https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf"
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 183834,
       "name": "Sour Milk",
       "url": "https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 189056,
       "name": "This Time (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Tides",
       "url": "https://open.spotify.com/track/6GWbylTtbLetG7vfl4tlkI"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 202004,
       "name": "Truth Is",
       "url": "https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 199851,
       "name": "Umuthi (feat. Cici & Zamo Cofi)",
       "url": "https://open.spotify.com/track/2vuIfmF6nbRmtXGCqoSIIw"
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 304001,
       "name": "Uthando'lunje",
       "url": "https://open.spotify.com/track/65GUvMEHSemavaT6Jmm3Iv"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 248672,
       "name": "Uyandithanda",
       "url": "https://open.spotify.com/track/03oeHk2ssQMsygWAQveyKv"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 278049,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 279832,
       "name": "Vuka (feat. Anthony Hamilton & Soweto Gospel Choir)",
       "url": "https://open.spotify.com/track/224GNyXOJP9ouS7Z9jbtzX"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 228600,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6LzGo9o3b7eZJ2Mh3VrDFi"

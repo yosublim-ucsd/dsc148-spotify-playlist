@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 69865,
+  "num_followers": 69954,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzQ3ZGE5NGQ1YjdlODFmMmE1ZDQ0ODU4YTUxODQxZTEwNTJmZTE0",
+  "snapshot_id": "MCxmNTM1ODU0YTI3ZjkxNDE1ZmI5NDNhNWI0MWM2YzU1MDRhNmUxOWQw",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -163,6 +163,22 @@
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "added_at": "2023-11-13 17:31:33",
+      "album": {
+        "name": "Une Autre Attente",
+        "url": "https://open.spotify.com/album/3txRsK90V4IwObiif90nJx"
+      },
+      "artists": [
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 162513,
+      "name": "Une Autre Attente",
+      "url": "https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -743,26 +759,6 @@
       "duration_ms": 207313,
       "name": "Bend The Round",
       "url": "https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB"
-    },
-    {
-      "added_at": "2023-06-27 02:51:10",
-      "album": {
-        "name": "Luces (Remix)",
-        "url": "https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Renato del Real",
-          "url": "https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6"
-        }
-      ],
-      "duration_ms": 199657,
-      "name": "Luces (Remix)",
-      "url": "https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4"
     },
     {
       "added_at": "2023-04-14 23:08:34",

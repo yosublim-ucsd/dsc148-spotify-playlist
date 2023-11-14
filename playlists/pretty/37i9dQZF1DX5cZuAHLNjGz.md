@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,420 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,061 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 |
 | 101 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 |
 
-Snapshot ID: `MCxhODRlYjNhNWNlNGY4ZmRmMmZmYjI3NmJhZjY0MTRkNmRlM2I2YmU1`
+Snapshot ID: `MCw0ODU4NTM1NTlmZDU5NzA2ZmNiZGExOWJkMjg3N2U2MzcwYzk0ZWQ1`

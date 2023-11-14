@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-456 songs - 1 day 1 hr 55 min
+458 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [BUBBLE BASS](https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [BUBBLE BASS](https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ) | 2:48 | 2021-12-17 | 2022-05-07 |
 | [Bubble Up](https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL) | [Bubble Up](https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL) | 2:48 | 2021-12-17 | 2022-08-14 |
 | [Buckle Up](https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Buckle Up](https://open.spotify.com/album/1Y7XTqyNmMflkVxWlLOBmz) | 3:15 | 2023-03-31 | 2023-06-30 |
-| [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-15 |  |
+| [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-15 | 2023-11-14 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2023-03-11 |
 | [Bullet Hole](https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v) | [Dark Matter EP](https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR) | 2:45 | 2021-12-17 | 2022-07-31 |
 | [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-21 | 2022-10-25 |
@@ -145,7 +145,7 @@
 | [Fall Apart](https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 5:20 | 2023-03-31 |  |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 | 2023-04-15 |
 | [Fantasy](https://open.spotify.com/track/1SIQqSE0P63y5z97Y7BNFm) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Fantasy](https://open.spotify.com/album/0jdqEWHHbDgli25Ap6gHbx) | 4:12 | 2023-03-31 | 2023-05-14 |
-| [Feedback](https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL) | [Infekt](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Feedback](https://open.spotify.com/album/2FcDexxgPzeqR9xPW1Szhk) | 2:58 | 2023-08-11 |  |
+| [Feedback](https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL) | [Infekt](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Feedback](https://open.spotify.com/album/2FcDexxgPzeqR9xPW1Szhk) | 2:58 | 2023-08-11 | 2023-11-14 |
 | [Feel Nothing](https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI) | [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh) | [Feel Nothing](https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2) | 2:27 | 2023-10-13 |  |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 | 2023-04-01 |
 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 | 2023-02-17 |  |
@@ -299,6 +299,7 @@
 | [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-06-03 | 2023-04-01 |
 | [Paradise](https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Paradise](https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG) | 3:30 | 2023-03-17 |  |
 | [Parallels](https://open.spotify.com/track/2SS2oPAFHFHUimjfwyoYyC) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Parallels](https://open.spotify.com/album/5fI00S2DlKDEegko9s0t0Z) | 3:12 | 2023-03-10 |  |
+| [Pit of the Maw](https://open.spotify.com/track/2alDalhotF1t7ldnToc0Ec) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SISTO](https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ) | [Pit of the Maw](https://open.spotify.com/album/2queNUHccK3awyRbA8Wf20) | 3:31 | 2023-11-10 |  |
 | [Playing With Fire](https://open.spotify.com/track/4ClJmxomQ0CZSuhrZWMQCK) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Playing With Fire](https://open.spotify.com/album/1aEjxEcvjm0afnrOlIqfZV) | 4:12 | 2023-09-29 |  |
 | [Pleasure Seeker \- Virtual Riot Remix](https://open.spotify.com/track/1VNUgCP4mm7EuOMP7jAmZZ) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Phantasmagorical](https://open.spotify.com/album/7uL3Va7rHAp58juYqkuM7e) | 2:03 | 2023-04-21 | 2023-11-11 |
 | [Pling Plong](https://open.spotify.com/track/1sMhsd4r7NkgGzAR3Ug87q) | [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW) | [Pling Plong](https://open.spotify.com/album/0rEB0YX6lXpcEbQzne8uaV) | 2:55 | 2021-12-17 | 2022-07-29 |
@@ -326,6 +327,7 @@
 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 | 2023-10-13 |  |
 | [Ravestab](https://open.spotify.com/track/6AlatqBSgJ0dkRB5Hak7Va) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Wax Gibbons EP](https://open.spotify.com/album/2byGPU6HriaXEvGCVsSFiw) | 2:57 | 2021-12-17 | 2022-03-12 |
 | [Raveyard](https://open.spotify.com/track/47Azb1Ud85D0xD9TIiLY4H) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Raveyard EP](https://open.spotify.com/album/6bZLh5NXERd8EMo447YbYL) | 2:30 | 2022-03-18 | 2023-02-26 |
+| [Red Bouquet](https://open.spotify.com/track/0ZuOjzPOK1J0Rc4FpDaCPY) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [Nikki Paige](https://open.spotify.com/artist/2C31l6mR38QGCGETH2sNJn) | [Red Bouquet](https://open.spotify.com/album/3haW0kTaYKiXicgg844cjb) | 3:37 | 2023-11-10 |  |
 | [REDLINE](https://open.spotify.com/track/2rAH5DmorvybHnY6wqFaIA) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Simulation](https://open.spotify.com/album/5iS3iVP4mj29YqqsdiAP3I) | 2:54 | 2021-12-17 | 2022-10-08 |
 | [RELOAD](https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [RELOAD](https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC) | 2:56 | 2022-05-13 | 2022-10-08 |
 | [Resonate](https://open.spotify.com/track/7wQc8LHQueTVPqUDzP6Yvr) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Resonate](https://open.spotify.com/album/6LWa95ZtGRMshL7ok2tIM5) | 3:02 | 2022-03-04 | 2023-04-01 |

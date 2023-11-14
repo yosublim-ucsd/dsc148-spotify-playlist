@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,813 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,914 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 83 | [Do u miss me ?](https://open.spotify.com/track/7kp2PHQnCb4j4zfDsg8vqg) | [Rsaku](https://open.spotify.com/artist/6GQoPeCJnEzIdZzA3IguUY) | [Do u miss me ?](https://open.spotify.com/album/6LE0uKGH8hbnn54M9OX4SR) | 4:07 |
 | 84 | [can't get over it](https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [can't get over it](https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5) | 2:12 |
 
-Snapshot ID: `MCw3MjZkMzA0OWMzM2Y0MDJjNzUwYzkwNzhlNTA2MTE4ZTY2MmZmOGU2`
+Snapshot ID: `MCwwNDUwYzY1MjM3ZjYyNDY1ZWJiMTU2MTVmODk4M2JmZjA5Y2YxMjRi`

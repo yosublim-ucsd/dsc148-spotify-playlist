@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,321 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,424 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
 | 100 | [Far Too Much \- Edit](https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Far Too Much \(Edit\)](https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2) | 3:15 |
 
-Snapshot ID: `MCxjYmZhZjk1OWFmM2YwNjM5ZTY3YmIyZDhmMWFhYWU3YjEwNTEwYzll`
+Snapshot ID: `MCw4MTJkYzljY2EzMGZiZjExZDEwZmU2Y2ZlZDQxMTE4YTg3OWFkYzU1`

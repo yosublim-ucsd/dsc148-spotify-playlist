@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-39 songs - 2 hr 19 min
+45 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,13 @@
 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2023-11-06 |  |
 | [How's this](https://open.spotify.com/track/6Wqmn89a8tItOh3NLEhNTD) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:19 | 2023-11-06 |  |
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2023-11-06 |  |
+| [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 | 2023-11-13 |  |
+| [ICARUS \(Inst.\)](https://open.spotify.com/track/47DASVFyegev3sT21EbV9c) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 | 2023-11-13 |  |
 | [Invitation](https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:54 | 2023-11-06 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2023-11-06 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-11-06 |  |
+| [My Days](https://open.spotify.com/track/0vEy6yAnaRKNub6ReRIRhO) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 | 2023-11-13 |  |
+| [My Days \(Inst.\)](https://open.spotify.com/track/1HzNevFrx0No5FdtshcVDB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 | 2023-11-13 |  |
 | [Night and Day](https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 | 2023-11-09 |  |
 | [Night and Day \(Acoustic Ver\)](https://open.spotify.com/track/3TyUUpKmsJ6bqtPT4g5dOF) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.2](https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0) | 3:21 | 2023-11-09 |  |
 | [Night and Day \(Contest Ver\)](https://open.spotify.com/track/0lwW5qHH7S6XfxYEKScVoe) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.2](https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0) | 3:46 | 2023-11-09 |  |
@@ -41,6 +45,8 @@
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2023-11-06 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2023-11-06 |  |
 | [Two Of Us](https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK) | [채연](https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D) | [Virginalness Bloom](https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY) | 3:03 | 2023-11-06 |  |
+| [We are](https://open.spotify.com/track/63LRh32O1eE0NbN2JsA8Rx) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 | 2023-11-13 |  |
+| [We are \(Inst.\)](https://open.spotify.com/track/3BcuKOI95PKAuBLP2EXnAj) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 | 2023-11-13 |  |
 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2023-11-06 |  |
 | [Why calling](https://open.spotify.com/track/6JrNdcEqbwt50I19SxJr2x) | [Diva](https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF) | [Snappy Diva's Second Album](https://open.spotify.com/album/4XG3swP5XIOrFzs1xd2lqF) | 4:07 | 2023-11-06 |  |
 | [애송이 \(CF \- 써니텐\)](https://open.spotify.com/track/2g0ZIGBR0gur3LMOiGBNfD) | [Lexy](https://open.spotify.com/artist/5C9rYLjMoYuwbbM34ReBU5) | [Lexury](https://open.spotify.com/album/1S0t8xkMJqpO4IfX7Pz6Lj) | 3:51 | 2023-11-06 |  |

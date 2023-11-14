@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-80 songs - 4 hr 4 min
+81 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 | 2021-11-19 |  |
 | [Jamaica Farewell](https://open.spotify.com/track/20FC3EJo4833v6fI0hmyqK) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC) | [Putumayo Kids Presents World Sing Along](https://open.spotify.com/album/53qajTvrFxNhXU9SdGkx6V) | 3:10 | 2021-11-19 | 2022-07-29 |
 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 | 2022-02-04 |  |
-| [Joy to the World](https://open.spotify.com/track/08d59tHb8uQvvWGVEnYsLl) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 2:37 | 2023-10-10 |  |
+| [Joy to the World](https://open.spotify.com/track/08d59tHb8uQvvWGVEnYsLl) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 2:37 | 2023-10-10 | 2023-11-14 |
 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 | 2021-11-19 | 2023-11-03 |
 | [Jumping Jacks \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:10 | 2021-11-19 |  |
 | [Just When You Think \- Kidz Version](https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:16 | 2021-11-19 |  |
@@ -54,6 +54,7 @@
 | [Learn Your State Capitols](https://open.spotify.com/track/5GBH7uQ6hX7umS4Bl9RZ8J) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 4:38 | 2021-11-19 | 2023-04-09 |
 | [Man Stop](https://open.spotify.com/track/12Llj63CAU32PYzOc40h8Z) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:59 | 2022-02-04 | 2023-11-04 |
 | [Man Stop](https://open.spotify.com/track/51VcV1Wqh57DzVa8Tew2qs) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby](https://open.spotify.com/album/3KS3og9IOPO3b4lypBkHaQ) | 1:59 | 2021-11-19 | 2022-07-29 |
+| [Man Stop](https://open.spotify.com/track/7IZNULeligccS1z83Bzjt8) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL) | 1:59 | 2023-10-10 |  |
 | [Me Myself And I](https://open.spotify.com/track/1o7pq0fvaVfQSKOKwQAHSo) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rap Story, Vol\. 1](https://open.spotify.com/album/5Sjktw73fCXEisILugMuVM) | 3:44 | 2021-11-19 | 2023-04-24 |
 | [Mi Gente](https://open.spotify.com/track/57rPxsDFpBnUp4Bw5uxIXP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:08 | 2021-11-19 |  |
 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 | 2022-02-04 |  |

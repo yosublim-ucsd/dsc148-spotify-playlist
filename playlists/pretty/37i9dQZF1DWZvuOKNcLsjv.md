@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,916 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,961 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 |
 | 100 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 |
 
-Snapshot ID: `MCw0MDM4YzBiOGVlOWQwNmVhZTZhZTE3Zjg3YWY1OTIwNWQzNjFkN2Fj`
+Snapshot ID: `MCw1NTQ0ZjFiNmQwNzM1NDYzYjY2OGRlNGJjNDlmYzAxYzJhYmEwMWM3`

@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187134,
+      "name": "Pretty Beautiful",
+      "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
+    },
+    {
+      "album": {
         "name": "Hope in Front of Me",
         "url": "https://open.spotify.com/album/7fY3WG6Ae45UiPbFYPDYCX"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 239653,
       "name": "Unfailing Love",
       "url": "https://open.spotify.com/track/7CdKRgZiFWgMWDIbbFURZA"

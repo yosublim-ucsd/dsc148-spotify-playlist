@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. Cover: Jonah Yano
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,224 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,244 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 106 | [Closer](https://open.spotify.com/track/1afMiKqXVRBunESLuUtCqJ) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [JODA](https://open.spotify.com/album/5QoX8eEaLS9XKFFzYcFC6B) | 4:59 |
 | 107 | [DOA](https://open.spotify.com/track/5O6OvEmhWKKt6Jpkq4B4g3) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [CURB](https://open.spotify.com/album/4R9JE7rZGzc2kBzUKgfT5x) | 3:12 |
 
-Snapshot ID: `MCw1N2ZkOTkyZjU3ZDk3MzgxZWNkZDdhODc2YzExNjRkYjhhNzVmZDQ1`
+Snapshot ID: `MCxmY2Y0ODA1ZWNiMzdmYTIxNGExNGQ0MWYyMmMwNDBhOWM5NzU1ZDMx`

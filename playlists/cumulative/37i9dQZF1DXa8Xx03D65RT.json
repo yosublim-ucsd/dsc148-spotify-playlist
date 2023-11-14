@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A Love Note",
+        "url": "https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU"
+      },
+      "artists": [
+        {
+          "name": "Thibaud Fleming",
+          "url": "https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126547,
+      "name": "A Love Note",
+      "url": "https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV"
+    },
+    {
+      "album": {
         "name": "A Moment Like This",
         "url": "https://open.spotify.com/album/1NF3qFuGSmROjzAQAzT8Rm"
       },
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA"
@@ -9200,7 +9218,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 129789,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy"
@@ -11292,7 +11310,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 164305,
       "name": "The Novelty Is Bound To Fade",
       "url": "https://open.spotify.com/track/1czGa9DmQSLn6LRYb5moi4"

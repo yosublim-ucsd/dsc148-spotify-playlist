@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-163 songs - 8 hr 10 min
+164 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,9 +161,10 @@
 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 | 2023-04-20 | 2023-07-14 |
 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 | 2023-02-02 | 2023-04-30 |
 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 | 2023-02-23 | 2023-03-31 |
-| [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 |  |
+| [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 | 2023-11-14 |
 | [Vamos A La Playa \- Dr Rude Remix](https://open.spotify.com/track/20HZWH7V52mxvcy0D9LZY8) | [Hak op de Tak](https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e), [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Vamos A La Playa \(Dr Rude Remix\)](https://open.spotify.com/album/5A9pHSSbNyu4RN5ak3KP8q) | 2:37 | 2023-02-09 | 2023-04-12 |
 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 | 2022-12-28 | 2023-04-12 |
+| [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 | 2023-11-09 |  |
 | [Weekend!](https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Weekend!](https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu) | 3:06 | 2023-09-27 |  |
 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 | 2023-04-13 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-22 | 2022-12-29 |

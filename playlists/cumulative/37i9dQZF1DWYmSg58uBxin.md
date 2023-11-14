@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-243 songs - 11 hr 20 min
+248 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2021-09-03 | 2023-09-09 |
 | [A82 \(Cello Version\)](https://open.spotify.com/track/6TMpieLJKF4pl2AMx9f5sN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Alice Allen](https://open.spotify.com/artist/5EhYBIoWiClQb9d8lPBnlC) | [A82 \(Cello Version\)](https://open.spotify.com/album/0p7uwkvw1HTT6AL4KsIfT9) | 2:40 | 2023-09-08 |  |
 | [Adagio in G Minor](https://open.spotify.com/track/2AjyreHCD6PKAtRGV2qsK5) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 4:26 | 2020-10-20\* | 2021-10-21 |
+| [Adventure In The Forest](https://open.spotify.com/track/1xx8YA238460AuNaGp9txW) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [Adventure In The Forest](https://open.spotify.com/album/6cUUEztc7cPMtOYVgGUT7h) | 2:04 | 2023-11-13 |  |
 | [After The Rain](https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [After The Rain](https://open.spotify.com/album/7tsPRVM0KZQrV7txpBoa4R) | 2:38 | 2022-07-22 | 2023-09-09 |
 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2023-09-09 |
@@ -129,6 +130,7 @@
 | [Lift You Up](https://open.spotify.com/track/4zt61UGwRgupmP0Nnora00) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:36 | 2023-09-08 |  |
 | [Light Pillars](https://open.spotify.com/track/2wwSUWVy8nttJ4htUbRAJc) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Light Pillars](https://open.spotify.com/album/39YVd7eeMkZtK7s7dpBdgF) | 2:40 | 2020-10-20\* | 2023-09-09 |
 | [Looking Back](https://open.spotify.com/track/6zDnGUDRPfzvQNcHAhdJ3T) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Looking Back](https://open.spotify.com/album/5ZmWkoX1e5QYjW4L2K7F32) | 2:50 | 2021-07-29 |  |
+| [Looking Out For You](https://open.spotify.com/track/5HiUuy4wQxWW1QaAGXNCET) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Looking Out For You](https://open.spotify.com/album/65hTmCf4NXGB5WSyd7g1iN) | 2:14 | 2023-11-13 |  |
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-09-26 |  |
 | [Love Lies Bleeding](https://open.spotify.com/track/5sQwJ3rAWhIe1B1kZiuG4X) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Love Lies Bleeding](https://open.spotify.com/album/1hyOH3QLhykwuNnsw0z1NB) | 2:09 | 2021-12-23 |  |
 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 | 2020-10-20\* | 2023-09-09 |
@@ -142,6 +144,7 @@
 | [Missing Harmony](https://open.spotify.com/track/2W08tDSfh59v7bw7v3Jani) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Missing Harmony](https://open.spotify.com/album/59FcURvu4YbOKsC0tvyXAe) | 3:41 | 2020-10-20\* | 2023-09-09 |
 | [Mistral](https://open.spotify.com/track/5jagNBf5f4KJuUtt1SG1ID) | [Eva Nordstroem](https://open.spotify.com/artist/0UbUiRmguo8sTWZMEaG1ZO) | [Mistral](https://open.spotify.com/album/2Zeq0dsOsavJwQisliP7FB) | 1:13 | 2020-10-20\* | 2023-09-09 |
 | [Moon Ballad](https://open.spotify.com/track/4v2YcdQ5O3jaL4kAo9RLMC) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:37 | 2020-10-20\* | 2023-09-09 |
+| [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 | 2023-11-13 |  |
 | [Moving Space](https://open.spotify.com/track/3m1hoXw6tRHXRqK37bNbax) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [In The Deep](https://open.spotify.com/album/3Zs6jLiLhNzQcwJFHq677C) | 3:04 | 2020-10-20\* | 2022-09-03 |
 | [Moving Towards Fine](https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 3:14 | 2020-10-20\* |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0dj9xrtRk4fNSwq9qpmLJj) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt) | 5:34 | 2022-09-09 | 2022-11-13 |
@@ -207,6 +210,7 @@
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2020-10-20\* | 2023-09-09 |
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* |  |
 | [Summer Snow](https://open.spotify.com/track/4953EuU1fRqRQBFsYNsMHs) | [Renata Szabo](https://open.spotify.com/artist/2Ld6f08VOXx90E5Lu2dLwv) | [Summer Snow](https://open.spotify.com/album/63utaJVYnUlUgpS00dkCC2) | 2:44 | 2020-10-20\* | 2023-09-09 |
+| [Summervale](https://open.spotify.com/track/3G7DGzqvFHsFMlsq7OddLH) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Summervale](https://open.spotify.com/album/6BXD9agE1HlJzyNw7NuLrq) | 2:25 | 2023-11-13 |  |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-09-08 |  |
 | [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 | 2023-09-18 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2020-10-28 |  |
@@ -216,6 +220,7 @@
 | [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2020-10-20\* | 2023-09-09 |
 | [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2020-10-20\* | 2023-09-09 |
 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 | 2020-10-20\* | 2023-09-09 |
+| [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 | 2023-11-13 |  |
 | [The Day After Tomorrow](https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 2:47 | 2020-10-20\* | 2023-09-09 |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-09-26 |  |
 | [The Essence](https://open.spotify.com/track/50Iw4pM6pLfisbWog0ysGF) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Pause To Think](https://open.spotify.com/album/00gHKH9fv0mUYsKqWBfK4x) | 3:19 | 2020-10-20\* | 2021-12-11 |

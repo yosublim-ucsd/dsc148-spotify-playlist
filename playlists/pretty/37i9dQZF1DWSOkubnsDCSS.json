@@ -1,12 +1,12 @@
 {
   "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: P Money",
-  "num_followers": 745113,
+  "num_followers": 745109,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTU3OGU4Yzg5MTkxMzA0OTRkMDU4NTcxZTU1MjhiZWNkMGE4MzY1",
+  "snapshot_id": "MCwyMzc3NWJlM2Y3ZDUzZTAzYzg2OGZiYTc2MzQ4ODQ1ZjhmMTBiOTMy",
   "tracks": [
     {
       "added_at": "2023-07-25 10:34:22",
@@ -631,46 +631,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 138613,
-      "name": "VEX",
-      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Shutdown Grime",
-        "url": "https://open.spotify.com/album/1DzqRQNrsQyv6RiDnTfE1w"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy"
-        },
-        {
-          "name": "Shao Dow",
-          "url": "https://open.spotify.com/artist/6DDdZ3Ezd3Sd2q5yf3z6vJ"
-        },
-        {
-          "name": "DubzCo",
-          "url": "https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh"
-        }
-      ],
-      "duration_ms": 172414,
-      "name": "Shutdown Grime",
-      "url": "https://open.spotify.com/track/61t8ZsP8nndIAr8rO5n6Xc"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Untraditional EP",
         "url": "https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA"
       },
@@ -699,6 +659,46 @@
       "duration_ms": 249926,
       "name": "Stuttering",
       "url": "https://open.spotify.com/track/0250N0i7iejMeIKvXOsT5M"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Shutdown Grime",
+        "url": "https://open.spotify.com/album/1DzqRQNrsQyv6RiDnTfE1w"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy"
+        },
+        {
+          "name": "Shao Dow",
+          "url": "https://open.spotify.com/artist/6DDdZ3Ezd3Sd2q5yf3z6vJ"
+        },
+        {
+          "name": "DubzCo",
+          "url": "https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh"
+        }
+      ],
+      "duration_ms": 172414,
+      "name": "Shutdown Grime",
+      "url": "https://open.spotify.com/track/61t8ZsP8nndIAr8rO5n6Xc"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 138613,
+      "name": "VEX",
+      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -795,58 +795,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "IC3 (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "IC3 (feat. Skepta) - Single Version",
-      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr"
-      },
-      "artists": [
-        {
-          "name": "dutchavelli",
-          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Talking Alot",
-        "url": "https://open.spotify.com/album/50z4BgMMEV24YqZiKauwPX"
-      },
-      "artists": [
-        {
-          "name": "Mystic",
-          "url": "https://open.spotify.com/artist/7CCxuhWfAVnHyZDDCeNIa4"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Talking Alot",
-      "url": "https://open.spotify.com/track/45U3b2vV513BuLWuFEXXiW"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "This Year",
         "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
       },
@@ -867,6 +815,58 @@
       "duration_ms": 178638,
       "name": "This Year",
       "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "IC3 (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "IC3 (feat. Skepta) - Single Version",
+      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Talking Alot",
+        "url": "https://open.spotify.com/album/50z4BgMMEV24YqZiKauwPX"
+      },
+      "artists": [
+        {
+          "name": "Mystic",
+          "url": "https://open.spotify.com/artist/7CCxuhWfAVnHyZDDCeNIa4"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Talking Alot",
+      "url": "https://open.spotify.com/track/45U3b2vV513BuLWuFEXXiW"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr"
+      },
+      "artists": [
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Conflict Of Interest",
-        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Fire and Brimstone",
-      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Don",
         "url": "https://open.spotify.com/album/2tGK7RMSxamEDszAudslu9"
       },
@@ -975,26 +959,6 @@
       "duration_ms": 178751,
       "name": "Don",
       "url": "https://open.spotify.com/track/2IpgY875kETOlXmmIhp8hj"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Fire and Brimstones",
-        "url": "https://open.spotify.com/album/268jedTcnOVXN3W0KKod3y"
-      },
-      "artists": [
-        {
-          "name": "Solsa",
-          "url": "https://open.spotify.com/artist/50NJJ13Wk1AJ8vchy03DkY"
-        },
-        {
-          "name": "e3 breaks",
-          "url": "https://open.spotify.com/artist/1rhkgh7hQkyqCelqSBTTx5"
-        }
-      ],
-      "duration_ms": 130392,
-      "name": "Fire and Brimstones",
-      "url": "https://open.spotify.com/track/5kHYhAoP4UYtnunMuvXVkx"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1019,6 +983,42 @@
       "duration_ms": 223000,
       "name": "Teachers Pets",
       "url": "https://open.spotify.com/track/5HAluJDwIe8r1Zt6ud1tFe"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Fire and Brimstones",
+        "url": "https://open.spotify.com/album/268jedTcnOVXN3W0KKod3y"
+      },
+      "artists": [
+        {
+          "name": "Solsa",
+          "url": "https://open.spotify.com/artist/50NJJ13Wk1AJ8vchy03DkY"
+        },
+        {
+          "name": "e3 breaks",
+          "url": "https://open.spotify.com/artist/1rhkgh7hQkyqCelqSBTTx5"
+        }
+      ],
+      "duration_ms": 130392,
+      "name": "Fire and Brimstones",
+      "url": "https://open.spotify.com/track/5kHYhAoP4UYtnunMuvXVkx"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Conflict Of Interest",
+        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Fire and Brimstone",
+      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Charizard Freestyle",
-        "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
+        "name": "Back on Smoke",
+        "url": "https://open.spotify.com/album/6so3sTls6BrScwIxUPwsm0"
       },
       "artists": [
         {
@@ -1360,13 +1360,13 @@
           "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
         },
         {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+          "name": "Ruginz",
+          "url": "https://open.spotify.com/artist/7a2I24SpgOlsdcTOR2HsQD"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Charizard Freestyle",
-      "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
+      "duration_ms": 128000,
+      "name": "Back on Smoke",
+      "url": "https://open.spotify.com/track/05veVlexxRBQslZSFIak3E"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
+        "name": "The Trials & Tribulations of C.E.O",
+        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
+      },
+      "artists": [
+        {
+          "name": "Chiedu Oraka",
+          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
+        },
+        {
+          "name": "Tawanda",
+          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "The Trials & Tribulations of C.E.O",
+      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
         "name": "Bout Dis",
         "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 240000,
       "name": "Bout Dis",
       "url": "https://open.spotify.com/track/0W2DfGz6T8nq7j9QLxksDx"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "The Trials & Tribulations of C.E.O",
-        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
-      },
-      "artists": [
-        {
-          "name": "Chiedu Oraka",
-          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
-        },
-        {
-          "name": "Tawanda",
-          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "The Trials & Tribulations of C.E.O",
-      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Back on Smoke",
-        "url": "https://open.spotify.com/album/6so3sTls6BrScwIxUPwsm0"
-      },
-      "artists": [
-        {
-          "name": "Footsie",
-          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
-        },
-        {
-          "name": "Ruginz",
-          "url": "https://open.spotify.com/artist/7a2I24SpgOlsdcTOR2HsQD"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Back on Smoke",
-      "url": "https://open.spotify.com/track/05veVlexxRBQslZSFIak3E"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Kurupt FM present The Lost Tape",
         "url": "https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu"
       },
@@ -1567,6 +1547,50 @@
       "duration_ms": 122906,
       "name": "Cash Beat AKA : Hoods Up Dub",
       "url": "https://open.spotify.com/track/0VWdSKQpWWYvwzu178BRpN"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Charizard Freestyle",
+        "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
+      },
+      "artists": [
+        {
+          "name": "Footsie",
+          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Charizard Freestyle",
+      "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1603,30 +1627,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
-      },
-      "artists": [
-        {
-          "name": "Big Zuu",
-          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Man in Meridian",
         "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
       },
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Country Bars",
-        "url": "https://open.spotify.com/album/1QT1zZyE4f2IUV9gkPr7ll"
+        "name": "Gridlock",
+        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
       },
       "artists": [
         {
           "name": "Eyez",
           "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        },
+        {
+          "name": "Zdot",
+          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
         }
       ],
-      "duration_ms": 165428,
-      "name": "Country Bars",
-      "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
+      "duration_ms": 155571,
+      "name": "Gridlock",
+      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
     },
     {
       "added_at": "2023-07-25 10:34:22",

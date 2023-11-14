@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 48451,
+  "num_followers": 48493,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Ships On The Ocean",
-      "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "The Blues",
         "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Ships On The Ocean",
+      "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        },
-        {
-          "name": "Sari Schorr",
-          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
-        }
-      ],
-      "duration_ms": 260497,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 124786,
       "name": "Please Tell Me Why",
       "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        },
+        {
+          "name": "Sari Schorr",
+          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
+        }
+      ],
+      "duration_ms": 260497,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 183120,
       "name": "Lonesome Road Blues",
       "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Chicago Blues Session Volume 12",
         "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Seattle to Greaseland",
-        "url": "https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc"
-      },
-      "artists": [
-        {
-          "name": "Joel Astley",
-          "url": "https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS"
-        }
-      ],
-      "duration_ms": 303370,
-      "name": "Karma Wheel",
-      "url": "https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Be Cool",
         "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 342677,
       "name": "Use As Needed",
       "url": "https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Seattle to Greaseland",
+        "url": "https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc"
+      },
+      "artists": [
+        {
+          "name": "Joel Astley",
+          "url": "https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS"
+        }
+      ],
+      "duration_ms": 303370,
+      "name": "Karma Wheel",
+      "url": "https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x"
     },
     {
       "added_at": "2023-10-02 12:57:01",

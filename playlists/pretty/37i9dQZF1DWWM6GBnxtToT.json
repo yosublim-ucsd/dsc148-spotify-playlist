@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 579101,
+  "num_followers": 579168,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
+  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Heartworks",
         "url": "https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 247493,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -287,6 +287,26 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Unknown Song",
+        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Paulina Eisenberg",
+          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
+        }
+      ],
+      "duration_ms": 250521,
+      "name": "Unknown Song",
+      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
@@ -343,26 +363,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Unknown Song",
-        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Paulina Eisenberg",
-          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
-        }
-      ],
-      "duration_ms": 250521,
-      "name": "Unknown Song",
-      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "in my mind",
         "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 161960,
       "name": "ich mags",
       "url": "https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -459,22 +475,6 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Acting My Age",
+        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "duration_ms": 222312,
+      "name": "Acting My Age",
+      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Acting My Age",
-        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 222312,
-      "name": "Acting My Age",
-      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Leoniden",
-        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 191169,
-      "name": "Sisters",
-      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Leoniden",
+        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 191169,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -947,18 +963,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K"
+        "name": "Don\u2019t Let Me Down",
+        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
         }
       ],
-      "duration_ms": 198019,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd"
+      "duration_ms": 200391,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1059,26 +1079,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Don\u2019t Let Me Down",
-        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
-        }
-      ],
-      "duration_ms": 200391,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "beautiful day",
         "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Pleasure Centre",
-        "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "IVAR",
-          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "In Plain Sight",
-      "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 185076,
       "name": "Hole Digger",
       "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Pleasure Centre",
+        "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
+        }
+      ],
+      "duration_ms": 228092,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Majored In Broken Hearts",
         "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 191499,
       "name": "Majored In Broken Hearts",
       "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Live Vol. 1",
-        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
-      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 163327,
       "name": "Aloe Vera (Clear My Mind)",
       "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Live Vol. 1",
+        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
+      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Take Me Home Boy",
+        "url": "https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 193163,
+      "name": "Take Me Home Boy",
+      "url": "https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Always on My Mind",
         "url": "https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Take Me Home Boy",
-        "url": "https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L"
+        "name": "Smiling Face",
+        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
       },
       "artists": [
         {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+          "name": "Cinemagraph",
+          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
         }
       ],
-      "duration_ms": 193163,
-      "name": "Take Me Home Boy",
-      "url": "https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG"
+      "duration_ms": 215610,
+      "name": "Smiling Face",
+      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1667,22 +1683,6 @@
       "duration_ms": 213418,
       "name": "Red & Blue",
       "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Smiling Face",
-        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
-      },
-      "artists": [
-        {
-          "name": "Cinemagraph",
-          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
-        }
-      ],
-      "duration_ms": 215610,
-      "name": "Smiling Face",
-      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
     }
   ],
   "unique_name": "Feelgood Indie",

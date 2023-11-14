@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Exploration",
+        "url": "https://open.spotify.com/album/3tgWHAwuMFYX4Bv1KhW4yx"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407569,
+      "name": "Exploration",
+      "url": "https://open.spotify.com/track/5F1zvhsJgKnoQ0SsHXYFcs"
+    },
+    {
+      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -3405,6 +3423,28 @@
     },
     {
       "album": {
+        "name": "LAY ME DOWN",
+        "url": "https://open.spotify.com/album/7Idybtn5vFMu6O9FBZIpPa"
+      },
+      "artists": [
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        },
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208818,
+      "name": "LAY ME DOWN",
+      "url": "https://open.spotify.com/track/50SJaoPsOsvhwxUCRP4WxD"
+    },
+    {
+      "album": {
         "name": "Let's Get It Right (Innellea Remix)",
         "url": "https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR"
       },
@@ -3682,7 +3722,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 437891,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
@@ -6660,7 +6700,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 190354,
       "name": "Time Keeper",
       "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"

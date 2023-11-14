@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 43621,
+  "num_followers": 43651,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRlMWMxOWMxMWRkNmY5YmY4ZmQ3ZjA2MzdlNTFkMThhMWIzNjc1",
+  "snapshot_id": "MCxkNDI0NzgyNGNkNDZkY2RkZWUxMjNkOGI4ZTRhNTA4NDhkZGU5NTdk",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Two-Fisted Mama",
+      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Piano-Blues & Boogie-Woogie",
         "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 224533,
       "name": "Boogie Woogie Country Man",
       "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Two-Fisted Mama",
-      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Lost in Boogie",
-        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
+        "name": "Jimmy Liggins And His Drops Of Joy",
+        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
       },
       "artists": [
         {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+          "name": "Jimmy Liggins and His Drops Of Joy",
+          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
         }
       ],
-      "duration_ms": 212453,
-      "name": "E-Flat Flyer",
-      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+      "duration_ms": 156733,
+      "name": "Cadillac Boogie",
+      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -383,34 +383,34 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Jimmy Liggins And His Drops Of Joy",
-        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
+        "name": "Lost in Boogie",
+        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
       },
       "artists": [
         {
-          "name": "Jimmy Liggins and His Drops Of Joy",
-          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
+      "duration_ms": 212453,
+      "name": "E-Flat Flyer",
+      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
     },
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Presenting Blind Blake",
-        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+        "name": "See You Later, Alligator",
+        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
       "artists": [
         {
-          "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+          "name": "Bobby Charles",
+          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Hastings Street",
-      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+      "duration_ms": 225000,
+      "name": "Later Alligator (See You Later, Alligator)",
+      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "See You Later, Alligator",
-        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
       "artists": [
         {
-          "name": "Bobby Charles",
-          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Later Alligator (See You Later, Alligator)",
-      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "So Swell",
         "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "New Orleans Piano (Mono)",
         "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Boogie Woogie Trio vol. 1",
         "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 125320,
       "name": "Boogie Woogie Prayer",
       "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie 50",
-        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "This Is Boogie Woogie!",
         "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 154826,
       "name": "Boogie In The City",
       "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie 50",
+        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Yancey Special",
+        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "duration_ms": 185861,
+      "name": "La Salle Street Breakdown",
+      "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 181893,
       "name": "State Street Jive",
       "url": "https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Yancey Special",
-        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        }
-      ],
-      "duration_ms": 185861,
-      "name": "La Salle Street Breakdown",
-      "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
     },
     {
       "added_at": "2023-09-15 11:42:58",

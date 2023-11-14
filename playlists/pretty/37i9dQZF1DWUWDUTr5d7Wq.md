@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 
 > Dive into the songwriting and production influences that inspired boygenius and laid the blueprint for their latest release, 'the record.'
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,323 likes - 82 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,410 likes - 82 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 | 50 | [Bloodstream](https://open.spotify.com/track/3jtKtHeXoh73RIqoxCOtXp) | [Evangelicals](https://open.spotify.com/artist/1rseIU9GBRFvJ0X7SXgC3X) | [The Evening Descends](https://open.spotify.com/album/0u6guo8yCJsnQAPE5YxZl8) | 4:13 |
 | 51 | [Money Changes Everything](https://open.spotify.com/track/5C2O6Tr274KQNxcmPnk2t2) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 5:05 |
 | 52 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
-| 53 | [I Wanna Destroy You](https://open.spotify.com/track/513KacJGb9NCQjBDE9Djft) | [The Soft Boys](https://open.spotify.com/artist/046wtejcUX9rhlzw2nlveT) | [Underwater Moonlight](https://open.spotify.com/album/5zDADNrsAKJXuo1FVd7xtY) | 2:53 |
+| 53 | [I Wanna Destroy You](https://open.spotify.com/track/46fQeIL1HNavzfjGeo9z0B) | [The Soft Boys](https://open.spotify.com/artist/046wtejcUX9rhlzw2nlveT) | [Underwater Moonlight](https://open.spotify.com/album/44VxP0Fkg76UGuppoC7CGg) | 2:53 |
 | 54 | [November](https://open.spotify.com/track/4ZZd1CLMuF50ZW7t515S6l) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [November](https://open.spotify.com/album/7qMGPOQMKvwqUL3XgHxqNd) | 4:26 |
 | 55 | [Surrender \('88 Version\) \(2023 Remaster\)](https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life \(35th Anniversary Edition; 2023 Remaster\)](https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t) | 3:47 |
 | 56 | [Blonde On Blonde](https://open.spotify.com/track/6v8zcxaefAOMtflaW47vEg) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:34 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 | 81 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 82 | [March](https://open.spotify.com/track/5nVDoEjDyn3CGwug0G9o2V) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 2:19 |
 
-Snapshot ID: `MCxmNmVjMTY3NmNkMmMwYjYxMzVjYjFkMGNiYmY2YWI2OWRlMDU4MTkx`
+Snapshot ID: `MCxlMTYyMDdkYjcwNTY3NzVhMGRhYzc0N2E2MTViMTMxZmI1NTI1YmNk`

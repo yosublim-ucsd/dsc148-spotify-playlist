@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 
 > La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,868 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 99 | [Síntomas](https://open.spotify.com/track/2QBpWDBpXFHMqGDpzloz5O) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Latidos](https://open.spotify.com/album/5YiqfVXsekY2Vxb4MGtSCG) | 3:00 |
 | 100 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
 
-Snapshot ID: `MCxhYTg0ZGZhZWNmYjAzZTc1ODJiMTYwYWVjODE3NzhkZmI0NzRlZjE2`
+Snapshot ID: `MCwzZWI2NzA0OTg1Y2I3OTY5ODg2OGU5Y2I1NDY5NjRmMmRhOWY4MzRi`

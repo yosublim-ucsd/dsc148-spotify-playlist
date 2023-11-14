@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Shane Eagle, Megan Thee Stallion, Rick Ross, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,813 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,961 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [I Know](https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:56 |
 | 50 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 |
 
-Snapshot ID: `MCwyNzNiYzFkMDBmODVhODUyZDk1MzhiY2Q0MGNiZjE5YWVmZmMwYzY5`
+Snapshot ID: `MCxjMzVhMDEwOTNkY2MzZDIzZGQxYjZhZDMzOThiNmY0MWJmZDBjNDJh`

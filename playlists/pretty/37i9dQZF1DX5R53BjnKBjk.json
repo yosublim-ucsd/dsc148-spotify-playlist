@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18546,
+  "num_followers": 18551,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFlZTI5ODQxMDExZWIyNmZiZjUyZjcyMWUxNTY1ZTM4ZjRlZjY2",
+  "snapshot_id": "MCxjNmRjYWI3YjA1NjNjOTNhMGExMmNhMThkODkwYWYzZDRhN2IxNzQw",
   "tracks": [
     {
       "added_at": "2023-09-29 03:03:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Aquino e a Orquestra Invis\u00edvel",
         "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 173880,
       "name": "MTV",
       "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+      },
+      "artists": [
+        {
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+        }
+      ],
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Repara",
-        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
-      },
-      "artists": [
-        {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Boca Aberta",
         "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Repara",
+        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
+      },
+      "artists": [
+        {
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -575,6 +575,22 @@
       "duration_ms": 183666,
       "name": "Quando Eu Falei Pra Ela",
       "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Como \u00c9 Que Faz",
+        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
+      },
+      "artists": [
+        {
+          "name": "Dogge",
+          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
+        }
+      ],
+      "duration_ms": 160747,
+      "name": "Como \u00c9 Que Faz",
+      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Como \u00c9 Que Faz",
-        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
+        "name": "Casal Desgra\u00e7a",
+        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
       "artists": [
         {
-          "name": "Dogge",
-          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
         }
       ],
-      "duration_ms": 160747,
-      "name": "Como \u00c9 Que Faz",
-      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
+      "duration_ms": 163809,
+      "name": "Casal Desgra\u00e7a",
+      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -679,22 +695,6 @@
       "duration_ms": 230588,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Casal Desgra\u00e7a",
-        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
-      },
-      "artists": [
-        {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Casal Desgra\u00e7a",
-      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "\u00d4 Lulu",
-        "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
-      },
-      "artists": [
-        {
-          "name": "dad\u00e1 Jo\u00e3ozinho",
-          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
-        }
-      ],
-      "duration_ms": 184646,
-      "name": "\u00d4 Lulu",
-      "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Poema Suspenso",
         "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178935,
       "name": "(((V\u00eanus)))",
       "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "\u00d4 Lulu",
+        "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
+      },
+      "artists": [
+        {
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
+        }
+      ],
+      "duration_ms": 184646,
+      "name": "\u00d4 Lulu",
+      "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 201734,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Ma\u00e7\u00e3 do Amor",
+        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
+      },
+      "artists": [
+        {
+          "name": "G\u00f3bi",
+          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
+        },
+        {
+          "name": "Bianca Rhoden",
+          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Te Ver de Novo",
+      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Esse Jogo",
         "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 201137,
       "name": "Devaneios",
       "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Ma\u00e7\u00e3 do Amor",
-        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
-      },
-      "artists": [
-        {
-          "name": "G\u00f3bi",
-          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
-        },
-        {
-          "name": "Bianca Rhoden",
-          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Te Ver de Novo",
-      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "N\u00e3o Complica",
+        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        }
+      ],
+      "duration_ms": 161668,
+      "name": "N\u00e3o Complica",
+      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "facetime",
         "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 181197,
       "name": "perigo !!!",
       "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "N\u00e3o Complica",
-        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
-      },
-      "artists": [
-        {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
-        }
-      ],
-      "duration_ms": 161668,
-      "name": "N\u00e3o Complica",
-      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
     },
     {
       "added_at": "2023-09-29 03:03:00",

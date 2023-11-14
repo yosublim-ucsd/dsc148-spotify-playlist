@@ -586,7 +586,7 @@
     {
       "album": {
         "name": "Underwater Moonlight",
-        "url": "https://open.spotify.com/album/5zDADNrsAKJXuo1FVd7xtY"
+        "url": "https://open.spotify.com/album/44VxP0Fkg76UGuppoC7CGg"
       },
       "artists": [
         {
@@ -597,6 +597,24 @@
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173373,
+      "name": "I Wanna Destroy You",
+      "url": "https://open.spotify.com/track/46fQeIL1HNavzfjGeo9z0B"
+    },
+    {
+      "album": {
+        "name": "Underwater Moonlight",
+        "url": "https://open.spotify.com/album/5zDADNrsAKJXuo1FVd7xtY"
+      },
+      "artists": [
+        {
+          "name": "The Soft Boys",
+          "url": "https://open.spotify.com/artist/046wtejcUX9rhlzw2nlveT"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-14",
       "duration_ms": 173373,
       "name": "I Wanna Destroy You",
       "url": "https://open.spotify.com/track/513KacJGb9NCQjBDE9Djft"

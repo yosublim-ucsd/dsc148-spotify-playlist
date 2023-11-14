@@ -1,12 +1,12 @@
 {
   "description": "This week's essential new pop tracks. Cover: AJR",
-  "num_followers": 69237,
+  "num_followers": 69267,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmI4MmRmMDZhZTllZDY4NzdjYTc1ZmQ5NDgwYjY3ZGU5MzNkOGY3",
+  "snapshot_id": "MCw5MzRmNTEzNzhjZTgyNzIxZTViZGI2YmViM2E0MzZlYmY3OGE3YzAz",
   "tracks": [
     {
       "added_at": "2023-11-10 18:32:24",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-11-10 18:32:24",
       "album": {
+        "name": "To Love Someone",
+        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "To Love Someone",
+      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
+    },
+    {
+      "added_at": "2023-11-10 18:32:24",
+      "album": {
         "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
@@ -215,6 +231,22 @@
       "duration_ms": 208293,
       "name": "28 - with Dean Lewis",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2023-11-10 18:32:24",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204992,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2"
     },
     {
       "added_at": "2023-11-10 18:32:24",
@@ -315,6 +347,22 @@
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2023-11-13 20:28:03",
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 153016,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH"
     },
     {
       "added_at": "2023-11-10 18:32:24",
@@ -1415,6 +1463,22 @@
     {
       "added_at": "2023-11-10 18:32:24",
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2023-11-10 18:32:24",
+      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
       },
@@ -1627,22 +1691,6 @@
       "duration_ms": 163509,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/1iyKspP2iddREZXUMNPUcb"
-    },
-    {
-      "added_at": "2023-11-10 18:32:24",
-      "album": {
-        "name": "You're Not A God",
-        "url": "https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys"
-      },
-      "artists": [
-        {
-          "name": "Jade LeMac",
-          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "You're Not A God",
-      "url": "https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT"
     }
   ],
   "unique_name": "New Pop Picks",

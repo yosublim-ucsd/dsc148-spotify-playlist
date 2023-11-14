@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4266,
+  "num_followers": 4268,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmVjNGJhNjk2NGMzZWY5YmRjOTg2ZWVmMzQ2MTRhYTcwOTBlZTJi",
+  "snapshot_id": "MCw5ZjA1OGU4ZmUxYzFkMjg0NDZlMjNiNjhkMzUyY2ZlNWQ5ZGY2NmY4",
   "tracks": [
     {
       "added_at": "2023-11-03 06:20:46",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 188293,
       "name": "Flu",
       "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "DA DA!",
+      "url": "https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
         "name": "NO MORE",
         "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
         }
       ],
-      "duration_ms": 174250,
-      "name": "DA DA!",
-      "url": "https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N"
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -775,22 +791,6 @@
       "duration_ms": 178232,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
     },
     {
       "added_at": "2023-11-03 06:20:46",

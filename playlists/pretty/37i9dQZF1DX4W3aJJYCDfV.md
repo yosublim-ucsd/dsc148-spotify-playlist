@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa \(pictured\), Chase & Status, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,242 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,300 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 149 | [Runnin'](https://open.spotify.com/track/3FQNBS4mPXhO1MdGN6e7Ro) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Dream Mclean](https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv), [Dame](https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s), [Wallace Rice](https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu) | [Runnin'](https://open.spotify.com/album/7cMWr0CvqMT4R2TW3DiL6f) | 3:26 |
 | 150 | [Over Now](https://open.spotify.com/track/5kuDEe2eXN8CeJ5t3Ehhwd) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Gwadalean](https://open.spotify.com/artist/6rzGJ8gb7uZgUYsDSPeARU) | [Over Now](https://open.spotify.com/album/2HknFZOxI3vS6wiVI50Z0Z) | 4:08 |
 
-Snapshot ID: `MCxlZDUyYmNlOTQ1ZTIxOWIzZmM2OGI5MWYzZjJiNjI3YWZjOTJiZjcz`
+Snapshot ID: `MCw3MjgxMzhkNTI0YjNmZmQ3NTc0ZjIxMDI4OTdjNzJjNDc5NDI5ZTdk`

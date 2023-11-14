@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! SOSA
 
-653 songs - 1 day 14 hr 39 min
+654 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [LOVE DESIRE](https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [LOVE DESIRE](https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3) | 2:51 | 2023-10-13 |  |
 | [Love In 8 Bit](https://open.spotify.com/track/5bbpAKnhuPbzfd7m8iDNnh) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Love In 8 Bit](https://open.spotify.com/album/5eK50LQ9JezmVyHm0FQK5x) | 3:58 | 2021-12-17 | 2022-01-21 |
 | [Love It or Not \(feat\. Infinite Coles\)](https://open.spotify.com/track/1klY5RDT7s0wXJrJjg0ftJ) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn), [Infinite Coles](https://open.spotify.com/artist/1OUKcUMWgpiUgctbvFS5PZ) | [Love It or Not \(feat\. Infinite Coles\)](https://open.spotify.com/album/0kfHrEyEVFOmS8GAYaugEn) | 3:14 | 2021-12-17 | 2022-03-04 |
-| [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 | 2023-07-06 |  |
+| [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 | 2023-07-06 | 2023-11-14 |
 | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/track/08BdwDsjgDp9N3ALRaKuYJ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/album/09PyXeLOshCAxaVs56KcMN) | 3:20 | 2022-08-18 | 2022-12-03 |
 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 | 2022-09-30 | 2023-02-04 |
 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2021-12-17 | 2022-03-10 |
@@ -488,6 +488,7 @@
 | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 | 2022-11-04 | 2023-04-07 |
 | [Ride with Me](https://open.spotify.com/track/5sNdKGysH1psecORNfilZV) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Ride with Me](https://open.spotify.com/album/6sMZobKh3zdJnGHu8c2isr) | 4:12 | 2023-04-13 | 2023-08-18 |
 | [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 | 2022-08-18 | 2023-01-13 |
+| [Rise Up](https://open.spotify.com/track/7Jdm5AztYoPpQXkAMccvGz) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Rise Up](https://open.spotify.com/album/5sah70zPvQjxjPmwTdP2ju) | 2:45 | 2023-11-13 |  |
 | [Riser](https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Riser](https://open.spotify.com/album/2Fph6wTWraY6XkhX3IZtrk) | 3:22 | 2022-02-18 | 2022-05-20 |
 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 | 2022-06-09 | 2022-07-22 |
 | [Rock That Beat](https://open.spotify.com/track/0Pvr5c2uNKJIAF7TILxi7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Rock That Beat](https://open.spotify.com/album/3FD7QSfkb6DDDrhsIsz4QG) | 2:50 | 2023-03-10 | 2023-09-08 |

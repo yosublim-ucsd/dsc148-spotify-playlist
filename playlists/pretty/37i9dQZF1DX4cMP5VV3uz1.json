@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 142796,
+  "num_followers": 142898,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE0YTczYzQ5OWFhOTU0NmE1NDI5MjQwYTdlOGFhOWI2NmRjYThm",
+  "snapshot_id": "MCw2MmYwZTliYWEwZjg3MzU4ZWU3MjJjNDgwMmVlY2U5ZDVmNDNjNzkz",
   "tracks": [
     {
       "added_at": "2023-10-20 09:26:23",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Out Of Nowhere",
         "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Where Do We Go (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Where Do We Go (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
@@ -551,26 +531,6 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "OUTSIDER",
-        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Carrie Baxter",
-          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FOUND LOVE (feat. Carrie Baxter)",
-      "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -599,6 +559,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Where Do We Go (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Where Do We Go (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 197241,
       "name": "Elemental",
       "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Carrie Baxter",
+          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FOUND LOVE (feat. Carrie Baxter)",
+      "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Getting Started (Chase & Status Remix)",
         "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 247210,
       "name": "Want You",
       "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1403,6 +1403,30 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Sliding",
+        "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Charlie Choppa",
+          "url": "https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Sliding",
+      "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Kraken",
         "url": "https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 209549,
       "name": "Renaissance (Edit)",
       "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Sliding",
-        "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "Charlie Choppa",
-          "url": "https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Sliding",
-      "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
     },
     {
       "added_at": "2023-10-20 09:26:23",

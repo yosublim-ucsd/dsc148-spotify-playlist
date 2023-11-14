@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-798 songs - 1 day 20 hr 15 min
+800 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,11 +526,13 @@
 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 | 2023-09-20 |  |
 | [Paint It, Black](https://open.spotify.com/track/1Vkk2yuOnFWjNWELQl81AN) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Selections from the HBO® Series\)](https://open.spotify.com/album/5UaeboVyWPWEdFB1TUEIc0) | 5:44 | 2019-09-29\* | 2021-03-14 |
 | [Palm Trees](https://open.spotify.com/track/7JEzvkKvp7McI192wWnd8L) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [We Loved Her Dearly](https://open.spotify.com/album/7InCoxx0uOLDvfkPKWsjhW) | 4:29 | 2021-03-16 | 2021-10-22 |
+| [PARANOIA](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP) | [HEARTSTEEL](https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [PARANOIA](https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc) | 3:18 | 2023-11-13 |  |
 | [Party Freaks \(feat\. Anna Yvette\)](https://open.spotify.com/track/3vSaO9kPmgBvdxrEQ1TBv4) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Rocket League x Monstercat Vol\. 2](https://open.spotify.com/album/7ignramjANJpFbUZuXHHso) | 3:33 | 2021-03-14 | 2021-05-26 |
 | [Party People](https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [The Zilliez](https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV) | [Party People](https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0) | 2:42 | 2022-12-09 |  |
 | [Patience](https://open.spotify.com/track/5VhHNAh8kZCBbIrVQudkIv) | [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Patience](https://open.spotify.com/album/67Z2NQvpbliA1BC0T9wDB0) | 2:24 | 2021-04-13 | 2022-02-24 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-04-13 |  |
 | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/album/7JWqADIrUFMSRExaRpaRll) | 1:35 | 2023-04-13 | 2023-04-16 |
+| [Peligro](https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peligro](https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M) | 2:25 | 2023-11-13 |  |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-10-19 | 2022-04-20 |
 | [Phantom Liberty](https://open.spotify.com/track/7hRLd8al1yptBLnvDpL2VC) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077: Phantom Liberty \(Original Score \- Deluxe Edition\)](https://open.spotify.com/album/7JuqioZeC7PFuW8zrXJSLh) | 5:47 | 2023-10-19 |  |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2021-05-24 | 2022-02-08 |

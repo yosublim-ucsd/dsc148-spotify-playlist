@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: G.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,666 likes - 73 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,667 likes - 73 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 72 | [O Que Ela Quer](https://open.spotify.com/track/3FaJUNbE7IoWvJ2trxgCGd) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [BINAN](https://open.spotify.com/artist/5gnFgEykufU2BSR8dv9QPh), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [O Que Ela Quer](https://open.spotify.com/album/6WXfxKS6K17UcPnmKMjxKy) | 4:04 |
 | 73 | [TEMPESTADE](https://open.spotify.com/track/3TZGXZR6KHM60DNopOEgLl) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m), [Dumas](https://open.spotify.com/artist/2tvSJaPwUVWy86RWnlZGs1), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt), [GAUD](https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt) | [TEMPESTADE](https://open.spotify.com/album/5lUsHZqJN7vGd8AKohAgEu) | 3:07 |
 
-Snapshot ID: `MCw3N2ZhYzRmN2JhODI5NDcwODkyMWVhNTBkMGVlNDk0Yzc1MzY1NTRj`
+Snapshot ID: `MCxiY2Y3Y2I4NjlkYmJhY2Y0MzliZTkyZWU0ZjllMDk4MjUxMTBjZmMw`

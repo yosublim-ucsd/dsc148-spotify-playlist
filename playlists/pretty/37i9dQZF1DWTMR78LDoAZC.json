@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 142675,
+  "num_followers": 142727,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy",
+  "snapshot_id": "MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Clean",
@@ -287,6 +271,22 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
@@ -483,6 +467,22 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "if we lived on the moon",
-        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
-      },
-      "artists": [
-        {
-          "name": "vivi rincon",
-          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
-        }
-      ],
-      "duration_ms": 151223,
-      "name": "if we lived on the moon",
-      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "INDUSTRY GAMES",
@@ -711,6 +695,22 @@
       "duration_ms": 241612,
       "name": "SONGS ABOUT YOU",
       "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "if we lived on the moon",
+        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
+      },
+      "artists": [
+        {
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
+        }
+      ],
+      "duration_ms": 151223,
+      "name": "if we lived on the moon",
+      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Freak Mode",
-        "url": "https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 157669,
-      "name": "Freak Mode",
-      "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Set My Heart On Fire Immediately",
@@ -911,6 +895,22 @@
       "duration_ms": 185826,
       "name": "Jason",
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Freak Mode",
+        "url": "https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 157669,
+      "name": "Freak Mode",
+      "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "The Art of Forgetting",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "How Many Times Have You Driven By",
         "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
       },
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Sex Education Original Soundtrack",
-        "url": "https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4"
-      },
-      "artists": [
-        {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
-        }
-      ],
-      "duration_ms": 222616,
-      "name": "Love You So Bad",
-      "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Someone Else",
@@ -1119,6 +1103,22 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Sex Education Original Soundtrack",
+        "url": "https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 222616,
+      "name": "Love You So Bad",
+      "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
     },
     {
       "added_at": "2023-03-07 19:29:41",

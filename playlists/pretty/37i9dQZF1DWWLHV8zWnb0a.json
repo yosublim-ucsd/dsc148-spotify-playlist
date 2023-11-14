@@ -1,12 +1,12 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 92542,
+  "num_followers": 92746,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDkyZDY3ZmNhY2UxMjM0MDM4Y2E5ODc5Yzk2ZWIxOTBmY2Q0MWZj",
+  "snapshot_id": "MCw3ZWQwYTg0MzE3Nzg1YTA3NTBkZDBiOGFjMTBjNGY2MWY1YzFlNjI4",
   "tracks": [
     {
       "added_at": "2023-02-13 22:53:29",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "Laid",
         "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 156666,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -219,34 +203,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Sehnsucht (Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 264947,
-      "name": "Engel",
-      "url": "https://open.spotify.com/track/5Zuboc3Cj9Ldnc8HyUnNUK"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Incesticide",
-        "url": "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Aneurysm",
-      "url": "https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s"
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -267,18 +235,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+        "name": "Sehnsucht (Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 209573,
-      "name": "Lovesong - 2010 Remaster",
-      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
+      "duration_ms": 264947,
+      "name": "Engel",
+      "url": "https://open.spotify.com/track/5Zuboc3Cj9Ldnc8HyUnNUK"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -299,6 +267,38 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Incesticide",
+        "url": "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Aneurysm",
+      "url": "https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Lovesong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
       "artists": [
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+      "duration_ms": 298253,
+      "name": "Cherub Rock - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -343,6 +343,38 @@
       "duration_ms": 204933,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 299560,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -379,6 +411,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Bloody Kisses (Top Shelf Edition)",
         "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
       },
@@ -395,24 +443,8 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "More Human Than Human",
-      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
       "artists": [
         {
@@ -420,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 299560,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+      "duration_ms": 253853,
+      "name": "Street Spirit (Fade Out)",
+      "url": "https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -436,25 +468,25 @@
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 298253,
-      "name": "Cherub Rock - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
+      "duration_ms": 202320,
+      "name": "Luna - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"
     },
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
         }
       ],
-      "duration_ms": 303973,
-      "name": "Roads",
-      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+      "duration_ms": 268760,
+      "name": "More Human Than Human",
+      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -487,22 +519,6 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Love You to Death",
-      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -543,6 +559,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 428800,
+      "name": "Love You to Death",
+      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -555,38 +587,6 @@
       "duration_ms": 237026,
       "name": "Unintended",
       "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 253853,
-      "name": "Street Spirit (Fade Out)",
-      "url": "https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Luna - 2011 Remaster",
-      "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -619,6 +619,22 @@
       "duration_ms": 253493,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Adore (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -667,22 +683,6 @@
       "duration_ms": 342000,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Adore (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 448466,
+      "name": "Pictures of You - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
@@ -807,6 +823,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "The Boatman's Call (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 327133,
       "name": "Cuts You Up",
       "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Selected Scenes from the End of the World",
-        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
-      },
-      "artists": [
-        {
-          "name": "London After Midnight",
-          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
-        }
-      ],
-      "duration_ms": 455853,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448466,
-      "name": "Pictures of You - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "The Boatman's Call (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
+        "name": "Selected Scenes from the End of the World",
+        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "London After Midnight",
+          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
         }
       ],
-      "duration_ms": 256120,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
+      "duration_ms": 455853,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Super Charger Heaven",
-      "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "Portishead",
         "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
       },
@@ -947,6 +931,54 @@
       "duration_ms": 240640,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 398933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Super Charger Heaven",
+      "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -999,34 +1031,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 398933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+      "duration_ms": 282560,
+      "name": "Venus as a Boy",
+      "url": "https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 282560,
-      "name": "Venus as a Boy",
-      "url": "https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs"
+      "duration_ms": 178640,
+      "name": "March Of The Pigs",
+      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "March Of The Pigs",
-      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-      },
-      "artists": [
-        {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "Murder Ballads (2011 - Remaster)",
         "url": "https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva"
       },
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+      },
+      "artists": [
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "A Letter to Elise",
-      "url": "https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa"
     }
   ],
   "unique_name": "Oscuros 90",

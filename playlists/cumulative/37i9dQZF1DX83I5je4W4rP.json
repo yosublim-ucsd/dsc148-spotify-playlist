@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
+      },
+      "artists": [
+        {
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
       },
@@ -480,7 +502,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 199109,
       "name": "Board Meeting",
       "url": "https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja"
@@ -1931,6 +1953,32 @@
     },
     {
       "album": {
+        "name": "Got Me On The Run (with Stick Figure and Pepper)",
+        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274498,
+      "name": "Got Me On The Run (with Stick Figure and Pepper)",
+      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1AvPIbANN0YDiEQYHFoprt"
       },
@@ -3012,7 +3060,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 224807,
       "name": "Message to the World",
       "url": "https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt"
@@ -3088,7 +3136,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 189264,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj"
@@ -4156,7 +4204,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 235294,
       "name": "Some Say the Ocean - Reggae Remix",
       "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
@@ -4687,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Tangerine Skies",
+        "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "Tangerine Skies",
+      "url": "https://open.spotify.com/track/7ETtJJC9GzPxUU2QhYiwJo"
+    },
+    {
+      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -4936,6 +5002,28 @@
       "duration_ms": 180800,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
+    },
+    {
+      "album": {
+        "name": "Tides (feat. Iration)",
+        "url": "https://open.spotify.com/album/07lCucJedPzc8LGYiAzUUa"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178894,
+      "name": "Tides (feat. Iration)",
+      "url": "https://open.spotify.com/track/2FlFIdtW73z2AfNHUUtSsG"
     },
     {
       "album": {

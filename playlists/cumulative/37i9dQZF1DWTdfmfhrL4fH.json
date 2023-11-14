@@ -7054,7 +7054,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 237173,
       "name": "Rebel Love Song",
       "url": "https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY"
@@ -7736,6 +7736,24 @@
       "duration_ms": 237666,
       "name": "She Keeps Me Up",
       "url": "https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy"
+    },
+    {
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "She's Out Of Her Mind",
+      "url": "https://open.spotify.com/track/4vQ6z9ZL5mdcQLmbZBvXrl"
     },
     {
       "album": {

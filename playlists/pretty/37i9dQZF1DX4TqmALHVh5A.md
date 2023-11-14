@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Johnny Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,135 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,158 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Le Pigeon](https://open.spotify.com/track/6dT08hM1qO8dx0HEWytgr6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Pigeon](https://open.spotify.com/album/7jf67ZHP55fFr0rDvRFV55) | 2:43 |
 | 50 | [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 |
 
-Snapshot ID: `MCw1MWRlYjE3ZmU1MTJiMTIxNzZmNzMyMjkxZGM5MTdjYjAzYjIzZDA2`
+Snapshot ID: `MCw3NDljMWNjYzI1NGRiZDA1YWMxNzIyZGQ3ZmYxNjU3ZmQyMDkxYjhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,365 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,371 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [LIKE A STAR](https://open.spotify.com/track/1RUxHoORlXma5gh9MZYZ5S) | [Rieki](https://open.spotify.com/artist/39bmzpp8fJjCy5rZBzitYo), [Marco](https://open.spotify.com/artist/2WyleO7iSJQocYwt0J62lB) | [LIKE A STAR](https://open.spotify.com/album/4tjJOy2iwfMy1fzhP24g8X) | 3:00 |
 | 100 | [Rơi Vào U Sầu](https://open.spotify.com/track/4dSqJH6oG57ov48ZzIgdlq) | [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6) | [Rơi Vào U Sầu](https://open.spotify.com/album/05cA6VOQmjhbM6tgPZW9Wd) | 3:26 |
 
-Snapshot ID: `MCxkM2ZkNzQ5MTg3NDVmY2UzNWU1NzBkZTBjMGE4M2ZlN2RkYzZjOThj`
+Snapshot ID: `MCw1MmQ2OTk1YjRiZmNlM2Y1M2EwNDQxYjJhZTk1NjFmYTljOTM3Y2Ri`

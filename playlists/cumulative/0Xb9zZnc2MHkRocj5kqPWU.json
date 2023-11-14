@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Epistrophy",
+        "url": "https://open.spotify.com/album/2L2K4tjWtmbp8ldkM88adt"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Epistrophy",
+      "url": "https://open.spotify.com/track/2U1cIjS5cocGGNEHt76HeP"
+    },
+    {
+      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
@@ -2317,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "Baroque Colours",
+        "url": "https://open.spotify.com/album/5QyKl7zQwEW8QYSMkCXYOK"
+      },
+      "artists": [
+        {
+          "name": "Johann Kuhnau",
+          "url": "https://open.spotify.com/artist/0Z38aqeqmuLRSksXEGOI0A"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66506,
+      "name": "Piano Improvisation 1 (After Prelude from Neue Clavier-\u00dcbung I, Partie V)",
+      "url": "https://open.spotify.com/track/4OX2bVtapCo8o6FLcBDLRj"
+    },
+    {
+      "album": {
         "name": "Mozart: The Complete Piano Sonatas",
         "url": "https://open.spotify.com/album/4pMwtuowDtXHviE9xPp6gi"
       },
@@ -3258,6 +3302,24 @@
       "duration_ms": 211240,
       "name": "Transcending",
       "url": "https://open.spotify.com/track/0sQrvjaZYDi3uZmi6mY1hO"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance (Extended Version)",
+        "url": "https://open.spotify.com/album/7c2cqEPUmdwXr5upWoKpQs"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292042,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/1p7s4bEbjLRRUSfu9qjkty"
     },
     {
       "album": {

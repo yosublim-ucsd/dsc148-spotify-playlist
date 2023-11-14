@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Los Rivera Destino",
-  "num_followers": 3962,
+  "num_followers": 3977,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY5ZjViOWViYzViNmRkOTQ4MDc0YjRiOWE0Zjc4NTIyNGMwMDgz",
+  "snapshot_id": "MCxkZTJmNTUzMDg3ZDU3NTc4N2ViYWEwOGIwZTQyYjc1ZjY0MTQ2Y2Y5",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Mi Secreto",
         "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Tejido de Laurel",
-        "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
-      },
-      "artists": [
-        {
-          "name": "Andrea Cruz",
-          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
-        }
-      ],
-      "duration_ms": 62986,
-      "name": "Hilos",
-      "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 285117,
       "name": "Solo Un Eco",
       "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Tejido de Laurel",
+        "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
+      },
+      "artists": [
+        {
+          "name": "Andrea Cruz",
+          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+        }
+      ],
+      "duration_ms": 62986,
+      "name": "Hilos",
+      "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -283,6 +283,22 @@
       "duration_ms": 177958,
       "name": "La Estrella del Show",
       "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Tu Mundo",
         "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Diamante y L\u00e1grima",
         "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 200174,
       "name": "Diamante y L\u00e1grima",
       "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Vibra",
         "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 174947,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Letra Pa' tu Coco",
+        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Live This One",
+      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "El Cuento de Cita",
         "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Letra Pa' tu Coco",
-        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Live This One",
-      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2023-11-10 05:00:00",

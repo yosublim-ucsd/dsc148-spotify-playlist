@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "'Tis So Sweet To Trust In Jesus",
+        "url": "https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4"
+      },
+      "artists": [
+        {
+          "name": "Everlasting Harmony",
+          "url": "https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146233,
+      "name": "'Tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/60w2O8kbSpNmDI1pZmDNaD"
+    },
+    {
+      "album": {
         "name": "A Baby Changes Everything",
         "url": "https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV"
       },
@@ -144,6 +162,24 @@
       "duration_ms": 168760,
       "name": "Adeste fideles (O Come All Ye Faithful) (arr. A. Delmoni)",
       "url": "https://open.spotify.com/track/6qR5mHYq1pVlBWDdrpmR90"
+    },
+    {
+      "album": {
+        "name": "All My Heart This Night Rejoices",
+        "url": "https://open.spotify.com/album/2kmqYiJSs6Ua9WG3Hdlwtx"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118171,
+      "name": "All My Heart This Night Rejoices",
+      "url": "https://open.spotify.com/track/2VUHg50B1h0dTrUwZo6029"
     },
     {
       "album": {
@@ -282,7 +318,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 144079,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/4YOZhMlGjYyamRhAvs4n2r"
@@ -307,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Angels In The Realms Of Glory",
+        "url": "https://open.spotify.com/album/5N9DVOm2aWo8XhVKvadJ0D"
+      },
+      "artists": [
+        {
+          "name": "John Crome",
+          "url": "https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138615,
+      "name": "Candlelight Carol",
+      "url": "https://open.spotify.com/track/3RJCyeDnzhhqhpRvdcohof"
+    },
+    {
+      "album": {
         "name": "Candlelight Carol",
         "url": "https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq"
       },
@@ -322,7 +376,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 167652,
       "name": "Candlelight Carol",
       "url": "https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N"
@@ -759,6 +813,24 @@
     },
     {
       "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC"
+      },
+      "artists": [
+        {
+          "name": "Chris Donner",
+          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142393,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3"
+    },
+    {
+      "album": {
         "name": "Peaceful Solo Piano Christmas 2",
         "url": "https://open.spotify.com/album/1HM8IfS4L23ezwo6mV5u2x"
       },
@@ -1030,10 +1102,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 158226,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/6TsGWVS5Rqhq018gkSI31E"
+    },
+    {
+      "album": {
+        "name": "O Little Town of Bethlehem",
+        "url": "https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT"
+      },
+      "artists": [
+        {
+          "name": "Silas Northwind",
+          "url": "https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157589,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2"
     },
     {
       "album": {

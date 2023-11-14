@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 296133,
       "name": "P\u00e1ginas De Amor",
       "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
@@ -3572,6 +3572,24 @@
       "duration_ms": 263619,
       "name": "Si se fue, se fue",
       "url": "https://open.spotify.com/track/1ZVE8ZUI31bleE7vEC8RQG"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228239,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
     },
     {
       "album": {

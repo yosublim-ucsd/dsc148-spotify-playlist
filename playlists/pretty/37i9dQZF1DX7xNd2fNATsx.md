@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,103 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,166 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 49 | [Space and the Woods \- Cenzo Townshend Mix](https://open.spotify.com/track/1ShnAaEZXE9Px2chAVLZUk) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 3:43 |
 | 50 | [Dawn of the Dead](https://open.spotify.com/track/7shiQ7egWBwnPPHaX1UT83) | [Does It Offend You, Yeah?](https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs) | [You Have No Idea What You're Getting Yourself Into](https://open.spotify.com/album/65KhNfhhdeIlKuT3ClZrMh) | 3:26 |
 
-Snapshot ID: `MCw1NzkxM2Q2MjcwMDAyN2EyYzdjM2U0NjY4ZTU4N2ExOWRlNjI3NDZh`
+Snapshot ID: `MCxmMGViMWQzZjI0MmQ1NDMxNjdkN2FhMTUzYjBjZWI0YTNiZWEwZThi`

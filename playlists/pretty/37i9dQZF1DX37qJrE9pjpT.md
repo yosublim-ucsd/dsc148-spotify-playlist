@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [My confession](https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL) | [Innomatix](https://open.spotify.com/artist/2N6seBgLo0Ec074O3v9NZB), [Justin lico](https://open.spotify.com/artist/130wK2o4WKZ5Jad06YoYzz) | [My confession](https://open.spotify.com/album/3Ko0dCltdrkx3tEfDCzNim) | 3:31 |
 | 50 | [Future Wife](https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Mkwawa](https://open.spotify.com/artist/4RIy8pk0S2X84NZGn3Kgcc) | [Love Bite](https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj) | 3:47 |
 
-Snapshot ID: `MCwwNmRmMzVhNWJlNGE3OWFjOTRkMjJhNTU4YzVjMTYzZGY1MTEyZjkz`
+Snapshot ID: `MCwxOGIyMzRkNDA5ZjI3MDljZTdjYTYzMDhhZjhiMDgyMWJkMDRmZjNl`

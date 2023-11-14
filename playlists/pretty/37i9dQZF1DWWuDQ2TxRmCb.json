@@ -1,12 +1,12 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
-  "num_followers": 68418,
+  "num_followers": 68456,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGU4NTJhOTkwNDVhYmE5M2EwNmVmMGFkNWEwOTlmZWZlNTgxMGZh",
+  "snapshot_id": "MCw1OWRjOWIxNzg2YjA5MzQzOTYyODg2OTIwNGJmYjg5N2I3ZmJmZWUy",
   "tracks": [
     {
       "added_at": "2023-10-26 06:03:35",
@@ -301,30 +301,6 @@
       "url": "https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM"
     },
     {
-      "added_at": "2023-10-05 07:09:19",
-      "album": {
-        "name": "Maari Maavadi",
-        "url": "https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Osman Mir",
-          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
-        },
-        {
-          "name": "Aamir Mir",
-          "url": "https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6"
-        }
-      ],
-      "duration_ms": 291509,
-      "name": "Maari Maavadi",
-      "url": "https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU"
-    },
-    {
       "added_at": "2023-09-11 05:40:51",
       "album": {
         "name": "Mehndi Te Vavi",
@@ -347,30 +323,6 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Chanda Jhaanke",
-        "url": "https://open.spotify.com/album/61r6m0nwOsuAJdt1NNwvXG"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Salim Merchant",
-          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-        },
-        {
-          "name": "Hansraj Raghuwanshi",
-          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
-        }
-      ],
-      "duration_ms": 218498,
-      "name": "Chanda Jhaanke",
-      "url": "https://open.spotify.com/track/5X3oePi6rfWKfwwcAbjXQL"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
         "name": "Runak Jhunak",
         "url": "https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT"
       },
@@ -383,6 +335,30 @@
       "duration_ms": 190539,
       "name": "Runak Jhunak",
       "url": "https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Samjhe Na",
+        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -435,6 +411,30 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
+        "name": "Chanda Jhaanke",
+        "url": "https://open.spotify.com/album/61r6m0nwOsuAJdt1NNwvXG"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Hansraj Raghuwanshi",
+          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "duration_ms": 218498,
+      "name": "Chanda Jhaanke",
+      "url": "https://open.spotify.com/track/5X3oePi6rfWKfwwcAbjXQL"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
         "name": "Ek Nazar",
         "url": "https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc"
       },
@@ -447,30 +447,6 @@
       "duration_ms": 444600,
       "name": "Ek Nazar",
       "url": "https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Samjhe Na",
-        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
-        }
-      ],
-      "duration_ms": 197277,
-      "name": "Samjhe Na",
-      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -503,6 +479,30 @@
       "duration_ms": 265728,
       "name": "Maye Ni Meriye",
       "url": "https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD"
+    },
+    {
+      "added_at": "2023-10-05 07:09:19",
+      "album": {
+        "name": "Maari Maavadi",
+        "url": "https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        },
+        {
+          "name": "Aamir Mir",
+          "url": "https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6"
+        }
+      ],
+      "duration_ms": 291509,
+      "name": "Maari Maavadi",
+      "url": "https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -651,30 +651,6 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
         "name": "Chhap Tilak",
         "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
       },
@@ -699,6 +675,30 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
         "name": "Hukus Bukus",
         "url": "https://open.spotify.com/album/5ORGx0mjAyoPn2LSDRzbku"
       },
@@ -711,78 +711,6 @@
       "duration_ms": 246822,
       "name": "Hukus Bukus",
       "url": "https://open.spotify.com/track/50A0o1uOb6TW2bdbJFrp8F"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Ekla Cholo Re",
-        "url": "https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo"
-      },
-      "artists": [
-        {
-          "name": "Paroma Dasgupta",
-          "url": "https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Ekla Cholo Re",
-      "url": "https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Muraliya",
-        "url": "https://open.spotify.com/album/5MjZEjF2ox16HlOd2J6Rh9"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 255630,
-      "name": "Muraliya",
-      "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Sajaniya",
-        "url": "https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp"
-      },
-      "artists": [
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        }
-      ],
-      "duration_ms": 331190,
-      "name": "Sajaniya",
-      "url": "https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Peele Amiras (Sabr)",
-        "url": "https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        }
-      ],
-      "duration_ms": 315869,
-      "name": "Peele Amiras - Sabr",
-      "url": "https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -807,26 +735,74 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Mooch (From Sonic Roots - Songs of Soil)",
-        "url": "https://open.spotify.com/album/063gO0cVwsM9Yq0agVVHLj"
+        "name": "Muraliya",
+        "url": "https://open.spotify.com/album/5MjZEjF2ox16HlOd2J6Rh9"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 255630,
+      "name": "Muraliya",
+      "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Peele Amiras (Sabr)",
+        "url": "https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        }
+      ],
+      "duration_ms": 315869,
+      "name": "Peele Amiras - Sabr",
+      "url": "https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Ekla Cholo Re",
+        "url": "https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo"
+      },
+      "artists": [
+        {
+          "name": "Paroma Dasgupta",
+          "url": "https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Ekla Cholo Re",
+      "url": "https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Sajaniya",
+        "url": "https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp"
+      },
+      "artists": [
         {
           "name": "Mame Khan",
           "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
         }
       ],
-      "duration_ms": 222712,
-      "name": "Mooch (From Sonic Roots - Songs of Soil)",
-      "url": "https://open.spotify.com/track/5Ahp1Ru3jrl1pDTyFmFVFa"
+      "duration_ms": 331190,
+      "name": "Sajaniya",
+      "url": "https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -887,18 +863,26 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Saawariya",
-        "url": "https://open.spotify.com/album/6oWXro6c6y4pD2CIKPN2xg"
+        "name": "Mooch (From Sonic Roots - Songs of Soil)",
+        "url": "https://open.spotify.com/album/063gO0cVwsM9Yq0agVVHLj"
       },
       "artists": [
         {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
         }
       ],
-      "duration_ms": 291382,
-      "name": "Saawariya",
-      "url": "https://open.spotify.com/track/2qdj04pkNkCo9kuVF8sdKv"
+      "duration_ms": 222712,
+      "name": "Mooch (From Sonic Roots - Songs of Soil)",
+      "url": "https://open.spotify.com/track/5Ahp1Ru3jrl1pDTyFmFVFa"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -959,6 +943,22 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/6oWXro6c6y4pD2CIKPN2xg"
+      },
+      "artists": [
+        {
+          "name": "Nyasa",
+          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
+        }
+      ],
+      "duration_ms": 291382,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/2qdj04pkNkCo9kuVF8sdKv"
     },
     {
       "added_at": "2023-09-11 05:40:51",

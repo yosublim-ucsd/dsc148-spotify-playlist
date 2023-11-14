@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-523 songs - 1 day 16 hr 13 min
+524 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Elinde Sazin Qurbani](https://open.spotify.com/track/0ywJlxGPnsWkPKWlo9RSfb) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:07 | 2022-03-25 |  |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-12 |  |
 | [Ellegatan](https://open.spotify.com/track/0iFgDHjjfI0BIH6IdFyWmE) | [Emil Ingmar](https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E) | [Karlavagnen](https://open.spotify.com/album/6RiKhHeJMrZVjggdWMdl2g) | 5:52 | 2022-05-25 |  |
-| [Ellipse](https://open.spotify.com/track/5kI32ifKfLTC0RuYZvsq2a) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Ellipse](https://open.spotify.com/album/4rkPj0jRJcL8S6pveZIvPu) | 2:35 | 2023-03-10 |  |
+| [Ellipse](https://open.spotify.com/track/5kI32ifKfLTC0RuYZvsq2a) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Ellipse](https://open.spotify.com/album/4rkPj0jRJcL8S6pveZIvPu) | 2:35 | 2023-03-10 | 2023-11-14 |
 | [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 | 2023-11-07 |
 | [End Music](https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [At the Movies](https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj) | 4:00 | 2023-11-10 |  |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
@@ -458,6 +458,7 @@
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [There Is No Music](https://open.spotify.com/track/3zJ8fYyoaAMOkQbhb86Yxb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 6:08 | 2022-02-10 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-11-12 |  |
+| [These Foolish Things](https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [These Foolish Things](https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ) | 5:41 | 2023-11-10 |  |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-11-12 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-02 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |

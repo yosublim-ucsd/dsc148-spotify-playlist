@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,051 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,101 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 22 | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd) | 3:41 |
 | 23 | [REPLAY \(feat\. CLARA\)](https://open.spotify.com/track/7kpOVh9aXFebATgVR5HGg7) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [REPLAY \(feat\. CLARA\)](https://open.spotify.com/album/7zaIi38D3my8g10sIkaadq) | 2:44 |
 | 24 | [VITTORIO NEVES](https://open.spotify.com/track/6pdftuCHDQJgS6LhT4yWoJ) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [VITTORIO NEVES](https://open.spotify.com/album/3EdGPemfq5PxXUzPyg3Skh) | 2:09 |
-| 25 | [HORSE DANCE \(feat\. Yung Snapp, DrefGold, Side Baby\)](https://open.spotify.com/track/3S4tSMSUWE3EA5jKy5Vwwh) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [Kiid](https://open.spotify.com/artist/47n6LhYrL1ifDqyNh83pdr), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:03 |
+| 25 | [HORSE DANCE \(feat\. Yung Snapp, DrefGold, Side Baby\)](https://open.spotify.com/track/3S4tSMSUWE3EA5jKy5Vwwh) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:03 |
 | 26 | [TU T'E SCURDAT' 'E ME](https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 4:01 |
 | 27 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 |
 | 28 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Peccati \(feat\. J Lord\)](https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Peccati \(feat\. J Lord\)](https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb) | 2:31 |
 | 55 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCw4OWIzZDc4MDdiNTY5NjdkZjk5YTM0MjRmNTk3NjgwMWMzYjg5MjA1`
+Snapshot ID: `MCwxNzJlZmFjMmNmNTM0ZmIzNmI5OTYxNmUwMmI1Y2I1MjlkMjhiZWY0`

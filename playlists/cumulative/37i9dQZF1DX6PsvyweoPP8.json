@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Amanhecer",
+        "url": "https://open.spotify.com/album/5ludmz2fQPSnAZgl5Ynff8"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "At\u00e9 o Amanhecer",
+      "url": "https://open.spotify.com/track/1SBz05f5xeykR0m9NR6F3p"
+    },
+    {
+      "album": {
         "name": "Babal\u00fa",
         "url": "https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc"
       },
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 166633,
       "name": "N\u00e3o Demora",
       "url": "https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn"
@@ -3072,6 +3090,32 @@
       "duration_ms": 174247,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/5BfFijhUUufXUyfvP9OtQE"
+    },
+    {
+      "album": {
+        "name": "Pior Vers\u00e3o",
+        "url": "https://open.spotify.com/album/3Glr3o6a1PTgzmDD2b09mC"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Mc India",
+          "url": "https://open.spotify.com/artist/0NseDkNLAVBv2OZY5wquS7"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Pior Vers\u00e3o",
+      "url": "https://open.spotify.com/track/5rcppSnTGjm0H8rORK2QwX"
     },
     {
       "album": {
@@ -3646,7 +3690,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 170879,
       "name": "Tarada",
       "url": "https://open.spotify.com/track/069FbewhflCkFycPuYqdro"

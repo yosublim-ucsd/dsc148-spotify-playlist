@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6RSJAsEDz7H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6RSJAsEDz7H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6RSJAsEDz7H)
 
-### [Grand Theft Auto](https://open.spotify.com/playlist/37i9dQZF1DX6RSJAsEDz7H)
+### [Grand Theft Auto Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6RSJAsEDz7H)
 
-> Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
+> Listen to all the iconic tracks from GTA, all in one place.
 
-205 songs - 14 hr 16 min
+206 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Get Innocuous!](https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:11 | 2021-11-17 |  |
 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 | 2022-02-04 |  |
 | [Got Me Coming Back Rite Now](https://open.spotify.com/track/4WQukt2kUDqgWVMXyjyMZK) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Sinner: KDJ\-48](https://open.spotify.com/album/4FtTVWbQrzbgppwycFSHFa) | 5:54 | 2021-11-17 |  |
+| [Grand Theft Auto: San Andreas \(Official Theme Song\)](https://open.spotify.com/track/724X0Tdkai2En19Vi1HGUH) | [Michael Hunter](https://open.spotify.com/artist/4J86DBDnC5acWsN0dpZe3j) | [Grand Theft Auto: San Andreas \(Official Theme Song\)](https://open.spotify.com/album/20kEyCFY0DQz9VwbhxkKgZ) | 1:28 | 2023-11-13 |  |
 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 | 2021-11-17 |  |
 | [Hold Up \(feat\. Nipsey Hustle\)](https://open.spotify.com/track/1jxrIScT7WcT5MFZVZZpxk) | [Marion Band$](https://open.spotify.com/artist/7oCbBiAkDv2eMDU5LGB9NL), [Nipsey Hustle](https://open.spotify.com/artist/6FcvRNZ8o4IUkD91v0UvpN) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 3:52 | 2021-11-17 |  |
 | [Hold Up \(feat\. Nipsey Hustle\)](https://open.spotify.com/track/240mp2P9Iv7iqG30Y8eu3L) | [Marion Band$](https://open.spotify.com/artist/7oCbBiAkDv2eMDU5LGB9NL), [Nipsey Hustle](https://open.spotify.com/artist/6FcvRNZ8o4IUkD91v0UvpN) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 3:52 | 2021-11-17 | 2022-11-30 |
@@ -153,7 +154,7 @@
 | [Salgo Pa' la Calle](https://open.spotify.com/track/5hpwyyJJ2JyozFVVRJsfLp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 4:27 | 2021-12-18 |  |
 | [san andreas theme song](https://open.spotify.com/track/3rp1uFBHe72uxyXx1Dz9io) | [Xenoner](https://open.spotify.com/artist/6CyTY01MSE05psT3dC7ep0) | [san andreas theme song](https://open.spotify.com/album/3EyFSWaRWqgih5PvAMZQOG) | 1:26 | 2021-11-17 | 2023-02-23 |
 | [San Andreas Theme Song](https://open.spotify.com/track/5f7F8ovtEmFzOdyN5fTOKl) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Original Mixtape](https://open.spotify.com/album/5eH1GJwSmZXI4Xebe1A9X3) | 1:26 | 2021-11-17 | 2023-02-19 |
-| [San Andreas Theme Song](https://open.spotify.com/track/2w7eLhPSwlf70q9dQ1LGpR) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Theme Song](https://open.spotify.com/album/5pEbIWfJhC6lOsxcEHY4dX) | 1:26 | 2021-11-17 |  |
+| [San Andreas Theme Song](https://open.spotify.com/track/2w7eLhPSwlf70q9dQ1LGpR) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Theme Song](https://open.spotify.com/album/5pEbIWfJhC6lOsxcEHY4dX) | 1:26 | 2021-11-17 | 2023-11-14 |
 | [Sharivari](https://open.spotify.com/track/7muqmpmlYfuSTkp08X6WKl) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Party Store](https://open.spotify.com/album/6rY0hRrHzhlUEC2ICWBWEJ) | 5:36 | 2021-11-17 |  |
 | [Skinny Jeans](https://open.spotify.com/track/2Xf4YEfJ3G3Nh0Jpl10JGT) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/2rVj3edIscNUTwnEkiw4po) | 3:20 | 2021-12-18 |  |
 | [Skinny Jeans](https://open.spotify.com/track/5oJIwq4dlZ9Bv1DSTM5Jqh) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/5euwdoUkc5wdS99Qw2g4nV) | 3:20 | 2021-12-18 | 2022-11-12 |

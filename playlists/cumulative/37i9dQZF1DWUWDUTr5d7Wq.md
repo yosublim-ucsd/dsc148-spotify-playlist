@@ -4,7 +4,7 @@
 
 > Dive into the songwriting and production influences that inspired boygenius and laid the blueprint for their latest release, 'the record.'
 
-83 songs - 5 hr 50 min
+84 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I Hate Everything](https://open.spotify.com/track/5wNoVWKIppccGGmRrjNoJC) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 4:42 | 2023-07-21 |  |
 | [I Remember](https://open.spotify.com/track/1cNXn9G8hpkEY8PDNU2xu3) | [Molly Drake](https://open.spotify.com/artist/1789Un2gEvELbBTnHoS9Rl) | [The Tide's Magnificence: Songs and Poems of Molly Drake](https://open.spotify.com/album/5v2lV8gSQ4KLjE983D6p9D) | 3:04 | 2023-07-21 |  |
 | [I Remember](https://open.spotify.com/track/5o1MuEDSjxKOeycJ3URtaY) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG) | 4:23 | 2023-07-21 |  |
-| [I Wanna Destroy You](https://open.spotify.com/track/513KacJGb9NCQjBDE9Djft) | [The Soft Boys](https://open.spotify.com/artist/046wtejcUX9rhlzw2nlveT) | [Underwater Moonlight](https://open.spotify.com/album/5zDADNrsAKJXuo1FVd7xtY) | 2:53 | 2023-07-21 |  |
+| [I Wanna Destroy You](https://open.spotify.com/track/46fQeIL1HNavzfjGeo9z0B) | [The Soft Boys](https://open.spotify.com/artist/046wtejcUX9rhlzw2nlveT) | [Underwater Moonlight](https://open.spotify.com/album/44VxP0Fkg76UGuppoC7CGg) | 2:53 | 2023-07-21 |  |
+| [I Wanna Destroy You](https://open.spotify.com/track/513KacJGb9NCQjBDE9Djft) | [The Soft Boys](https://open.spotify.com/artist/046wtejcUX9rhlzw2nlveT) | [Underwater Moonlight](https://open.spotify.com/album/5zDADNrsAKJXuo1FVd7xtY) | 2:53 | 2023-07-21 | 2023-11-14 |
 | [I Went To The Store One Day](https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 4:26 | 2023-07-21 |  |
 | [I'm So Tired](https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Instrument Soundtrack](https://open.spotify.com/album/1owNOVlXTqmDVo4M2Z20uk) | 1:58 | 2023-07-21 |  |
 | [Is There A Ghost](https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 2:59 | 2023-07-21 |  |

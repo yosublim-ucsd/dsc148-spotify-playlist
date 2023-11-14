@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 126541,
+  "num_followers": 126572,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
+  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -119,54 +119,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "El Fin del Mar",
-        "url": "https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "El Fin del Mar",
-      "url": "https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 233012,
-      "name": "Sueno en Paraguay",
-      "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -187,18 +139,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Orcas",
-        "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
+        "name": "El Fin del Mar",
+        "url": "https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK"
       },
       "artists": [
         {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 335292,
-      "name": "Uno Resuena",
-      "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
+      "duration_ms": 258687,
+      "name": "El Fin del Mar",
+      "url": "https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -219,6 +171,54 @@
       "duration_ms": 254815,
       "name": "Coraz\u00f3n de Rub\u00ed",
       "url": "https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 233012,
+      "name": "Sueno en Paraguay",
+      "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Orcas",
+        "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
+      },
+      "artists": [
+        {
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+        }
+      ],
+      "duration_ms": 335292,
+      "name": "Uno Resuena",
+      "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 273067,
+      "name": "Eso Que Tu Haces",
+      "url": "https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 260504,
       "name": "Tarpuricusum Sarata - Captain Planet Remix",
       "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 273067,
-      "name": "Eso Que Tu Haces",
-      "url": "https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Land of the Incas (Music of the Andes)",
         "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 308880,
       "name": "Wipala",
       "url": "https://open.spotify.com/track/7uxmsieVovltullEN2B8QU"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
     },
     {
       "added_at": "2023-09-29 18:58:26",

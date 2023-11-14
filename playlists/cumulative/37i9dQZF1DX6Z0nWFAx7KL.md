@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-171 songs - 8 hr 33 min
+172 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Hold On Tight](https://open.spotify.com/track/03YFjP88VNLZID5o112R3W) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [ASTIR](https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Hold On Tight](https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl) | 3:26 | 2023-02-16 |  |
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2022-10-21 |  |
 | [Hold You Down](https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Hold You Down](https://open.spotify.com/album/3GjLINFWwkDBAylZHl4jLY) | 2:38 | 2022-10-21 | 2022-12-24 |
+| [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 | 2023-11-13 |  |
 | [I Blame You](https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [I Blame You](https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb) | 2:12 | 2022-09-29 |  |
 | [I Can See](https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [I Can See](https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk) | 2:10 | 2023-06-08 |  |
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
@@ -176,7 +177,7 @@
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-05-24 |  |
 | [Who You](https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Who You](https://open.spotify.com/album/4vwgBge6JFZbVCT6Y9OXbn) | 3:25 | 2023-07-27 | 2023-09-08 |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 | 2023-02-15 |
-| [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 |  |
+| [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 | 2023-11-14 |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 | 2023-03-23 |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 | 2022-11-17 |
 

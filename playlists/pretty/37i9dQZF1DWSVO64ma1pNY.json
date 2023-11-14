@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 294493,
+  "num_followers": 294623,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTc3MWJkOTQ2ZWYwYmJiODUwMGRkMDgyMzY1NDVhNzI2N2JkN2Q5",
+  "snapshot_id": "MCw5NTEyMzUwZjBkZjEzNGU0MzI3M2U5YTkwMjAyMjNkNTdhZDhlOTcy",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Testify",
-      "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Dosage",
-        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Adelitas Way",
         "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 190133,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Dosage",
+        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Sci-Fi Crimes",
         "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "The Truth Is... (Special Edition)",
         "url": "https://open.spotify.com/album/2JUpjRRxWKUZwVwY9sTXS1"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 219360,
       "name": "Bitch Came Back",
       "url": "https://open.spotify.com/track/6kp8F9FpHXzjga2MeRDSG8"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -799,22 +815,6 @@
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "hot girl bummer",
         "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 191333,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1063,6 +1047,22 @@
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "The Champion",
+      "url": "https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 209542,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "The Champion",
-      "url": "https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Life Support / Ms. Supernova",
         "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1399,6 +1383,22 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Times Like These",
-        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209976,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Times Like These",
+        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Never Ending Moment",
-        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Never Ending Moment",
-      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
     }
   ],
   "unique_name": "Anger Management",

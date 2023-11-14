@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1627845,
+  "num_followers": 1628202,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmQxN2IzZjFjMTJmZTFkNTczNjQ1NTljZGJhOGYxN2FmMmQwZTQw",
+  "snapshot_id": "MCwzMDU2Mjk0M2M2OGM1ODk5YjA4NzdmNzQ0YjI5OGIzZDk0ZDE0MGNj",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Palm Trees and Power Lines",
         "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
       },
@@ -607,22 +575,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "Such Great Heights - Remastered",
-      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
       },
@@ -635,6 +587,38 @@
       "duration_ms": 243226,
       "name": "If It Means A Lot To You",
       "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Such Great Heights - Remastered",
+      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Dying Is Your Latest Fashion",
         "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 187880,
       "name": "Situations",
       "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Brick by Boring Brick",
-      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -763,6 +747,22 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Now You See Inside",
-        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
-      },
-      "artists": [
-        {
-          "name": "SR-71",
-          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 193920,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Now You See Inside",
+        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
+      },
+      "artists": [
+        {
+          "name": "SR-71",
+          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "All That I've Got",
-      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Instant Gratification",
+        "url": "https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "We Own the Night",
+      "url": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 475093,
-      "name": "Transatlanticism",
-      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 475093,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1195,22 +1211,6 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Instant Gratification",
-        "url": "https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "We Own the Night",
-      "url": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Can't Be Saved",
+      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Fast Times At Barrington High",
         "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Can't Be Saved",
-      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Diary (2009 Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Reach For The Sun",
-        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "The Permanent Rain",
-      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Decadence",
         "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 203733,
       "name": "Beating Heart Baby",
       "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Accidents",
-      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Dear Diary, My Teen Angst Has A Body Count",
         "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 159346,
       "name": "Emily",
       "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1727,38 +1727,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Chroma",
-        "url": "https://open.spotify.com/album/6YdfLXc1XlgsDeHCg6e37Q"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/6doBxUbuslAgelILAjXO95"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "J.A.C.K.",
         "url": "https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr"
       },
@@ -1787,6 +1755,38 @@
       "duration_ms": 184440,
       "name": "So Contagious",
       "url": "https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Chroma",
+        "url": "https://open.spotify.com/album/6YdfLXc1XlgsDeHCg6e37Q"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/6doBxUbuslAgelILAjXO95"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Tell All Your Friends (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 211546,
       "name": "Cute Without The 'E' (Cut From The Team)",
       "url": "https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Straylight Run",
-        "url": "https://open.spotify.com/album/0qmuncsb6pmir65ZSpAySM"
-      },
-      "artists": [
-        {
-          "name": "Straylight Run",
-          "url": "https://open.spotify.com/artist/1tjsxXugls5CwUxSlsDgKB"
-        }
-      ],
-      "duration_ms": 241453,
-      "name": "Existentialism On Prom Night",
-      "url": "https://open.spotify.com/track/7GUizFgoBcD2RT6BKIdOYl"
     }
   ],
   "unique_name": "Emo Forever",

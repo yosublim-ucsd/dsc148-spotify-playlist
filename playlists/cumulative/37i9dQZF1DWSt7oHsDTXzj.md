@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-217 songs - 11 hr 56 min
+218 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Driving Under Stars](https://open.spotify.com/track/0wwhVMPo09vXS4uGTgOS2d) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3x0TYmUqWVg1g4I2Hdvra1) | 3:41 | 2021-11-12 | 2022-07-27 |
 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 | 2021-11-12 |  |
 | [Everything Is One Big Christmas Tree](https://open.spotify.com/track/4iNWgE5JkuZfB2TrRmVFj2) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Realism \(Standard\)](https://open.spotify.com/album/3JaKUx1XHOR0kWiNXdje2h) | 2:24 | 2021-11-12 | 2022-07-24 |
+| [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/4FMb5NDvglJfEbzjjoz3Xb) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:50 | 2023-10-16 |  |
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/1hpxwEmbL3papTRjdM0Ok2) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:51 | 2022-12-23 | 2023-01-28 |
 | [Fallen Snow](https://open.spotify.com/track/5uizeP3Oyp9hBglDVtMDmR) | [Au Revoir Simone](https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq) | [The Bird Of Music](https://open.spotify.com/album/1kNdPs1pfLW1TRN93X9ZT2) | 3:45 | 2021-11-12 | 2022-07-24 |
 | [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 | 2021-11-12 | 2022-07-29 |
@@ -164,7 +165,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5pzEgKArztxeQZmFfnSsBE) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/2jl6Yn3j1xfN6GWDoSMbHn) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/7ud0O2AQDopiy12slERpWG) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/4weBbbWNHkVUshQRRQdJUP) | 3:27 | 2021-12-15 | 2022-07-23 |
 | [Santa Stay Home](https://open.spotify.com/track/2VzSeBsCm5lqbIHEUvM9UQ) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA), [Rich Morel](https://open.spotify.com/artist/7DOTbVfxnUonnnlEpeg3ko) | [Santa Stay Home](https://open.spotify.com/album/1wwAbDU3K2q46LTo1FzX7A) | 4:00 | 2021-11-12 | 2022-07-27 |
-| [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 | 2021-11-12 |  |
+| [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 | 2021-11-12 | 2023-11-14 |
 | [Silent Night](https://open.spotify.com/track/0NVk0WwXd7bZG2jpKgFEeS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/2uV3toNhIWZJx63And14NO) | 2:36 | 2022-12-23 | 2023-01-24 |
 | [Silent Night](https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/0uCK9gB2Qc25UJZ23AcWnM) | 2:36 | 2021-11-12 | 2022-07-29 |
 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 | 2022-12-23 | 2023-11-06 |

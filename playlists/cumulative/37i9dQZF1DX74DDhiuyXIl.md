@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-346 songs - 1 day 0 hr 58 min
+348 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [I'll Be Missing You](https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I'll Be Missing You](https://open.spotify.com/album/6DdWMOdkrnUORonnh8Xkhk) | 3:08 | 2022-06-06 | 2022-07-21 |
 | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/track/6NSIhIAlPt7ibeTERkiqTc) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/album/6NGi0ac8CqDapbpM1Zqbcq) | 3:12 | 2022-06-20 | 2022-07-28 |
 | [Long Gone](https://open.spotify.com/track/6IAKbyQ5Qc5SOcSVhHv4Bx) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Workers Original Soundtrack EP 2](https://open.spotify.com/album/36rgzYqakTgIpIgO142kOr) | 4:25 | 2022-06-13 | 2022-07-23 |
-| [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 | 2022-07-25 |  |
+| [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 | 2022-07-25 | 2023-11-14 |
 | [Love Yourself](https://open.spotify.com/track/0rWyscDVZbgTKRKtjPPy1X) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [.....那些美麗的相遇](https://open.spotify.com/album/71PV7hkfS3aqdW1b8aMEOb) | 3:01 | 2022-06-06 | 2022-07-29 |
 | [My Dear Father \- "Workers the Movie" Theme Song](https://open.spotify.com/track/5rL7fD2TKWItLZNpvZprnC) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [My Dear Father](https://open.spotify.com/album/6BzXXPB49JFeJqWoqM9eDm) | 5:25 | 2023-04-04 | 2023-04-11 |
 | [Never Again](https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK) | 4:00 | 2023-07-31 | 2023-08-08 |
@@ -117,6 +117,7 @@
 | [可惜了 \(電影《大約在冬季》主題片尾曲\)](https://open.spotify.com/track/6t9yroLrmNDVfOV2AicYmm) | [Chyi Chin](https://open.spotify.com/artist/4VhiuMC32Qj7pVW3e6Nlms), [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [可惜了 \(電影《大約在冬季》主題片尾曲\)](https://open.spotify.com/album/6tjVDuKYuqubiBizWK4Asq) | 4:26 | 2022-06-20 | 2022-06-24 |
 | [台北某個地方](https://open.spotify.com/track/3LQ0RDsFVMYrUfPYOgncCh) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [沙發海](https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA) | 4:16 | 2022-06-13 |  |
 | [同.情](https://open.spotify.com/track/2nQ3JmUlwRdnkt6pRwOrpC) | [黃靖倫](https://open.spotify.com/artist/511uHEaNtVZFirzh4Q46d8) | [同.情](https://open.spotify.com/album/5LU2xEOtIM2ZdAmvOyyWXs) | 4:34 | 2022-11-29 | 2022-12-06 |
+| [向海而生](https://open.spotify.com/track/1lchFWRwWzvJvfgLhrio9F) | [陳楚生](https://open.spotify.com/artist/0IMkw0VaxHpS2AV23qlO9v) | [向海而生](https://open.spotify.com/album/54O2EBGNazC121OHw4iQeB) | 4:12 | 2023-11-13 |  |
 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 | 2023-10-02 |  |
 | [唯一 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [唯一](https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v) | 4:41 | 2023-06-26 |  |
 | [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-06-06 | 2022-07-28 |
@@ -170,6 +171,7 @@
 | [就让这大雨全都落下](https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就让这大雨全都落下](https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v) | 4:14 | 2023-05-08 |  |
 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 | 2022-07-25 |  |
 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 | 2022-08-08 | 2022-09-20 |
+| [幸福还好 \- Chinese](https://open.spotify.com/track/5c3dkrfYLdmTIY3ZQxVYbO) | [Soo Wincci](https://open.spotify.com/artist/4e4wVXnFUIJ5EbcW9GtL2n) | [幸福还好 \(Chinese\)](https://open.spotify.com/album/2IlyPTydzgAZa5YEfGA7EX) | 4:38 | 2023-11-13 |  |
 | [很小很小](https://open.spotify.com/track/2uYtFTwlonn8X0cPkTlWTW) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 5:13 | 2022-06-06 | 2022-07-22 |
 | [後來後來](https://open.spotify.com/track/7bjAz9j9zcqrjjeyUhxka9) | [杨小壮](https://open.spotify.com/artist/6ok813AZNboZFozd0HEahX) | [後來後來](https://open.spotify.com/album/49dIl8iGU7Y4Dq7B8VIvSr) | 3:27 | 2023-10-30 | 2023-11-07 |
 | [微光](https://open.spotify.com/track/0AsejfHS4I68FDUGWhNf4r) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [微光](https://open.spotify.com/album/6PT0H6QcMsTdlvBBMCwKQB) | 4:13 | 2022-06-06 | 2022-07-28 |
@@ -246,7 +248,7 @@
 | [最初的愛\(《天賜的聲音第四季》綜藝主題曲\)](https://open.spotify.com/track/1WKLkc1V1GFq03COtx6UYQ) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [最初的愛](https://open.spotify.com/album/7vLDbcdGFaf9epzLD5EtKY) | 4:11 | 2023-04-24 | 2023-05-12 |
 | [最勇敢的事 \(電影《陪你很久很久》宣傳曲\)](https://open.spotify.com/track/1h3oyOs2eFKJzy9CEG1xvA) | [龔言脩](https://open.spotify.com/artist/18luxd1vZzmJ6P13eISD58) | [最勇敢的事 \(電影《陪你很久很久》宣傳曲\)](https://open.spotify.com/album/59tSnyWgyRe04KMrEPqF4U) | 4:48 | 2022-06-06 | 2022-06-29 |
 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 | 2022-06-20 | 2023-06-20 |
-| [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 | 2022-06-06 |  |
+| [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 | 2022-06-06 | 2023-11-14 |
 | [最美的地方](https://open.spotify.com/track/4NFWjLRDqcCdOGmMRg4hmL) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [最美的地方](https://open.spotify.com/album/6KWYn8amTApFMCwpuABBF5) | 3:58 | 2023-04-24 | 2023-05-02 |
 | [會找到我](https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [會找到我](https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc) | 3:48 | 2023-07-17 | 2023-09-16 |
 | [月心說](https://open.spotify.com/track/4jAVdVZUiPUQQKeKBDxedz) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [月心說](https://open.spotify.com/album/0tX5D7Kj42NQCLDXk5kiAy) | 3:51 | 2023-03-21 | 2023-03-28 |

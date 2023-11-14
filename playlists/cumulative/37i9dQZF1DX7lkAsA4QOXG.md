@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-179 songs - 14 hr 8 min
+180 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Car Wash](https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 7:12 | 2022-09-13 |  |
 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 | 2023-05-03 |  |
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
-| [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 | 2023-09-15 |  |
+| [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 | 2023-09-15 | 2023-11-14 |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-10-08 |
 | [Conversation](https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H) | 4:23 | 2022-11-24 |  |
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
@@ -168,6 +168,7 @@
 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4Muibci7HTkxT10kNBgHIs) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Timeless Tales \[For Changing Times\]](https://open.spotify.com/album/0yioztetjswvCXmqn91t0s) | 5:07 | 2023-05-30 | 2023-08-25 |
 | [Tonight](https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'](https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop) | 3:46 | 2022-09-22 |  |
 | [True Love Waits \(Radiohead\)](https://open.spotify.com/track/0Z5FjFtvNrYgAOwLHWQX2R) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [True Love Waits \(Radiohead\)](https://open.spotify.com/album/2lmDwUVO7qRVqi2jWIiJro) | 3:44 | 2023-05-30 | 2023-11-05 |
+| [True Love Waits \(Radiohead\)](https://open.spotify.com/track/6os2m5ftH4LYEkum1BfP3O) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Stitches](https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF) | 3:44 | 2023-10-27 |  |
 | [Vincent](https://open.spotify.com/track/6adWVN7hPrztmftktK3zES) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 5:53 | 2023-04-19 |  |
 | [Viva la Vida](https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Viva la Vida](https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G) | 2:39 | 2023-03-28 |  |
 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 | 2022-09-13 |  |

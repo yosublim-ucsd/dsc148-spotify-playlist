@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 195895,
       "name": "Love Me Back",
       "url": "https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98"
@@ -9642,6 +9642,28 @@
       "duration_ms": 183112,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/5sah70zPvQjxjPmwTdP2ju"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "London Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/7Jdm5AztYoPpQXkAMccvGz"
     },
     {
       "album": {

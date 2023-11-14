@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno music, updated every friday \ud83d\udd25\ud83d\udd0a | tech house - house - techno - rave - party - bangers - tiktok techno - dance | Submit via Instagram: @subshiftmusic",
-  "num_followers": 6770,
+  "num_followers": 6779,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzkxOCwzYzRmNTk4ODk1NzUyMzViM2RjNTU1OGU4YTBiZTQzMmY1MjYzOTEx",
+  "snapshot_id": "NzkyNCwzMTdlYWNkNTBkZDgzNDQ2OWI2NzgyMzIyMGYzNWI1YTM4YzhhMTg5",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:41",
@@ -191,6 +191,54 @@
       "duration_ms": 224526,
       "name": "Pumping Iron - TR710",
       "url": "https://open.spotify.com/track/0Jdz3oXx2Fj6gh0LJkf4i0"
+    },
+    {
+      "added_at": "2023-11-13 12:03:06",
+      "album": {
+        "name": "Phone (Remix Package)",
+        "url": "https://open.spotify.com/album/2gjm70X9ASc86NQHFQONyY"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        },
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "Phone - VLTRA Remix",
+      "url": "https://open.spotify.com/track/2m4s3761CzsYyH5lYoF4qu"
+    },
+    {
+      "added_at": "2023-11-13 13:11:31",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/6IoynviOeMpv2BkQ4fLds7"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/6pQmq4OED8Lrt9tC4zsej8"
+        }
+      ],
+      "duration_ms": 201551,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/0Co3Y36bP8ZUQ3gGieVb7P"
     },
     {
       "added_at": "2023-11-10 00:04:59",
@@ -651,6 +699,38 @@
       "duration_ms": 359039,
       "name": "Driven Pain - Original Mix",
       "url": "https://open.spotify.com/track/1rN8VJ0G6bpdsa95lda0pg"
+    },
+    {
+      "added_at": "2023-11-13 12:04:37",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/77qHqZz6WspLiUtuFMtQiR"
+      },
+      "artists": [
+        {
+          "name": "9R4Y",
+          "url": "https://open.spotify.com/artist/5n3xdPC0zbQqVSeDhmHXKi"
+        }
+      ],
+      "duration_ms": 165590,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/155nN2sn4QaLnPspO3U1qP"
+    },
+    {
+      "added_at": "2023-11-13 12:05:37",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/5i7zFfrVqSp41WhKJz0gKA"
+      },
+      "artists": [
+        {
+          "name": "Carlos Pires",
+          "url": "https://open.spotify.com/artist/2XZwN2FxtqAlpsnk1XNr8i"
+        }
+      ],
+      "duration_ms": 360680,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/5lKF3KIuJnXJDjgabjD8tu"
     }
   ],
   "unique_name": "Tech House Shifters",

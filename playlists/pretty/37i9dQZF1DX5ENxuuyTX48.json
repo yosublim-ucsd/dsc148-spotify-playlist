@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Mawar de Jongh",
-  "num_followers": 17061,
+  "num_followers": 17090,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNlNmYyZTU3NmY5ZmE4MjUzYzczNjdiZGQ3YWY5MzJlNmY0OGYx",
+  "snapshot_id": "MCw0Y2EwNzhiMGU1YWI2MTZlYWNhYzAyYWFhMjAyM2MzMjkzNjQyZWY0",
   "tracks": [
     {
       "added_at": "2023-11-10 07:54:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-10 07:54:00",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
-      },
-      "artists": [
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
-    },
-    {
-      "added_at": "2023-11-10 07:54:00",
-      "album": {
         "name": "Renung Resah",
         "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
@@ -671,6 +655,42 @@
       "duration_ms": 240000,
       "name": "Diri",
       "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
+    },
+    {
+      "added_at": "2023-11-10 07:54:00",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
+    },
+    {
+      "added_at": "2023-11-10 07:54:00",
+      "album": {
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 210801,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
     },
     {
       "added_at": "2023-11-10 07:54:00",
@@ -707,26 +727,6 @@
       "duration_ms": 311496,
       "name": "Usik",
       "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
-    },
-    {
-      "added_at": "2023-11-10 07:54:00",
-      "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 210801,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
     },
     {
       "added_at": "2023-11-10 07:54:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-11-10 07:54:00",
       "album": {
-        "name": "Berona",
-        "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
       },
       "artists": [
         {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Luka",
-      "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
     }
   ],
   "unique_name": "OTW ",

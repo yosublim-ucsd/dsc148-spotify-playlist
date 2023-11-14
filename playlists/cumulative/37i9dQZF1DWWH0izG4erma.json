@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z"
+    },
+    {
+      "album": {
         "name": "Kinda Bar",
         "url": "https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj"
       },
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-14",
       "duration_ms": 221401,
       "name": "Neon Light",
       "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The biggest songs in today's Rock scene\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,569 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,606 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 | 100 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 5:50 |
 
-Snapshot ID: `MCwwZTM1MDM0MmQyNmQwYzhmZmI3MTZhZWQ2OTEzZTk2MTAyOThjYzFm`
+Snapshot ID: `MCxmMGRjN2UyNGE0MmUyMGQ3MDU0NjU0YTJjZWM2NmEwYzQ2ZTA3ZGUx`

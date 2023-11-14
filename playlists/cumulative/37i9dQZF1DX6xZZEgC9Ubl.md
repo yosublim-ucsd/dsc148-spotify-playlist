@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-893 songs - 1 day 16 hr 31 min
+895 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 | 2022-07-22 | 2022-07-26 |
 | [Bulletproof](https://open.spotify.com/track/5qWDtYGkZNJxj8cw4UNVLU) | [SAM LEX](https://open.spotify.com/artist/3qS9hbnV1go0xKB1fm1Znd) | [Bulletproof](https://open.spotify.com/album/1DPYFEfKHKjWTQnZEpYoYa) | 3:07 | 2021-01-16 | 2022-06-30 |
 | [california world](https://open.spotify.com/track/7kjYPapOatvPuqPuMn4TgM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R), [Craig Xen](https://open.spotify.com/artist/5bCwYvvFvWOEXtO9W7p0Iv) | [CALIFORNIA GIRLS](https://open.spotify.com/album/4W0UHmB35BRaSp8gge7x73) | 4:51 | 2021-02-03 | 2022-03-21 |
+| [CALL ME INSTEAD \(feat\. Youngboy Never Broke Again & Robert Glasper\)](https://open.spotify.com/track/69hFLxRnzg80zqVOfhTPwW) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:17 | 2023-11-13 |  |
 | [Call Me Nobody \(feat\. Lil Wayne & Isaiah Lyric\)](https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL) | [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Isaiah Lyric](https://open.spotify.com/artist/7FbliII8BMwXlSQFcihHHj) | [Crazy](https://open.spotify.com/album/70pOd4t3YIh6A6Iv3BAi7f) | 3:41 | 2021-03-14 | 2022-07-29 |
 | [CALL!](https://open.spotify.com/track/6nGnG6NsO77qRkXa9eqDna) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [HABITS](https://open.spotify.com/album/1Id0Mj1E6NyiwBmRjFskD9) | 2:50 | 2022-10-07 | 2022-10-15 |
 | [Can You Help Me](https://open.spotify.com/track/72D79mMBu1fs0DbnUU7Ecq) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Can You Help Me](https://open.spotify.com/album/0SkVwoOczCEidtYJomzX8m) | 2:53 | 2021-01-15 | 2021-06-19 |
@@ -776,6 +777,7 @@
 | [THE EDGE](https://open.spotify.com/track/2r12MtRWVSKkRywwuHGDkU) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [THE EDGE](https://open.spotify.com/album/7EchgUCpv1GLBRyNWvVFwz) | 2:30 | 2021-07-24 | 2022-06-14 |
 | [the fire in your eyes keeps me warm](https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Arvnd](https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx) | [some boring love stories pt 5](https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63) | 3:13 | 2020-12-13\* | 2022-04-21 |
 | [The First Step of Becoming God Is a Bottle to the Face](https://open.spotify.com/track/5b1AFXSpHfQyL5mGzGAEMM) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [The First Step of Becoming God Is a Bottle to the Face](https://open.spotify.com/album/57rNX9qB9mk0b0aKJkU3Sf) | 3:00 | 2021-06-26 | 2021-12-21 |
+| [THE LINE \(feat\. d4vd\)](https://open.spotify.com/track/6peLcllXcq0BQ6XiwtlVA7) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:32 | 2023-11-13 |  |
 | [the outside](https://open.spotify.com/track/4n1T6CkR5UY0J4QLF2MKcu) | [Vorsa](https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g) | [the outside](https://open.spotify.com/album/6H7t6fTP5fSQrvfPo49hPH) | 2:23 | 2021-04-24 | 2022-04-22 |
 | [the overthinker](https://open.spotify.com/track/21Pkk76qnEgB5d0iDot4Dk) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [the overthinker](https://open.spotify.com/album/2dFilrvVa8lmEQ3H7ipSLv) | 3:16 | 2021-03-19 | 2022-07-28 |
 | [the porch](https://open.spotify.com/track/33arAGN57qccO1N76QXN1d) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [the porch](https://open.spotify.com/album/2VoUvcGz5o1JVk9T75leaX) | 2:24 | 2022-01-14 | 2022-01-19 |

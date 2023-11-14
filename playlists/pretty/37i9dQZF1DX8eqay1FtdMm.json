@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bRothy(\ub85c\uc2dc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326276,
+  "num_followers": 326307,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzg5NDczYzBjOWIxOTA1MTU5MDdjYjYxZjZlMDMyY2ZiZDBmZmQ3",
+  "snapshot_id": "MCxjZTkzY2YxZDIzODllNWZkOTI1MWEzZmMwYjA3NTNjMTYyZGM1YTNm",
   "tracks": [
     {
       "added_at": "2023-11-10 09:44:47",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "Love, Yerin",
-        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -407,6 +391,38 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Love, Yerin",
+        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "When This Rain Stops",
+      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -447,22 +463,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "When This Rain Stops",
-      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "I'll Always Be With You",
-      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "Do",
         "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 165986,
       "name": "Do",
       "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
         "name": "Her Private Life (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 266986,
       "name": "Such a thing",
       "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
         "name": "It'll pass",
         "url": "https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1315,6 +1299,38 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-11-10 09:44:47",
@@ -1371,6 +1387,22 @@
     {
       "added_at": "2023-11-10 09:44:47",
       "album": {
+        "name": "Trip: Tape #01",
+        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Holding hands or walking together.",
+      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+    },
+    {
+      "added_at": "2023-11-10 09:44:47",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
       },
@@ -1387,38 +1419,6 @@
       "duration_ms": 214355,
       "name": "Time Spent Walking Through Memories (Feat. 10CM)",
       "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2023-11-10 09:44:47",
-      "album": {
-        "name": "Trip: Tape #01",
-        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Holding hands or walking together.",
-      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
     },
     {
       "added_at": "2023-11-10 09:44:47",

@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Adri Torron
 
-504 songs - 1 day 1 hr 21 min
+505 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Energia](https://open.spotify.com/track/3oot6YbOkial5BIJAvEra8) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Energia](https://open.spotify.com/album/5OBkkS1adIEouu18tESdW3) | 2:35 | 2022-03-21 | 2022-05-21 |
 | [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-01-20 | 2023-02-18 |
 | [Enredado](https://open.spotify.com/track/0OB8T9rkWtd8AkUKOwNiuJ) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Enredado](https://open.spotify.com/album/5PNzzawGM6qicExQSakMxb) | 2:56 | 2022-03-21 | 2022-07-09 |
+| [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-11-10 |  |
 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 | 2022-09-23 | 2022-12-10 |
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-09-09 | 2023-03-11 |
 | [Eso Que Tenés](https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eso Que Tenés](https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ) | 2:44 | 2022-04-01 | 2022-12-10 |
@@ -402,7 +403,7 @@
 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 | 2022-03-21 | 2022-07-09 |
 | [REVOLUCION AZUL](https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [REVOLUCION AZUL](https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm) | 4:14 | 2023-10-06 |  |
 | [Robot](https://open.spotify.com/track/5Dgbojt1HsytRAL3Vss7HI) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Robot](https://open.spotify.com/album/3elKRJXnVQT9ID2kNooi0P) | 2:22 | 2022-05-06 | 2022-08-09 |
-| [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 | 2023-08-04 |  |
+| [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 | 2023-08-04 | 2023-11-14 |
 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 | 2023-04-14 | 2023-09-02 |
 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 | 2022-10-07 | 2022-12-10 |
 | [S.H.E.A](https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [S.H.E.A](https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL) | 3:10 | 2023-02-24 | 2023-07-08 |

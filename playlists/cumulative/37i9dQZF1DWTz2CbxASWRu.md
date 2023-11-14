@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-388 songs - 1 day 4 hr 41 min
+389 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2023-07-10 |  |
 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 | 2023-07-10 |  |
 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 | 2023-07-10 |  |
-| [Kisasa Kisas](https://open.spotify.com/track/6ArwNGBU2aBHf1hLIQWmm8) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kisasa Kisas b/w Erkilet Güzeli](https://open.spotify.com/album/4BNMUwnfonwUG2Ma9KdodA) | 3:49 | 2023-07-10 | 2023-09-04 |
+| [Kisasa Kisas](https://open.spotify.com/track/6ArwNGBU2aBHf1hLIQWmm8) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kisasa Kisas b/w Erkilet Güzeli](https://open.spotify.com/album/4BNMUwnfonwUG2Ma9KdodA) | 3:49 | 2023-07-10 |  |
 | [Kossa Kossa](https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 4:08 | 2023-07-10 |  |
 | [Kumbayeo](https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo](https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q) | 3:34 | 2023-07-10 |  |
 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 | 2023-07-10 |  |
@@ -273,7 +273,7 @@
 | [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2023-07-10 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2023-07-10 |  |
-| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 |  |
+| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 | 2023-11-14 |
 | [Ototoa](https://open.spotify.com/track/17eRr1u5GeuZiKpOmCi9gw) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 4:15 | 2023-07-10 |  |
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-07-10 |  |
 | [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |
@@ -311,6 +311,7 @@
 | [Sakla Beni](https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/0LBQVMsur8H3i3mwKkXV20) | 4:40 | 2023-07-10 |  |
 | [Samba de Verão](https://open.spotify.com/track/4ZxCL1QHcscbhxVDpkpoI7) | [Bahia Bahia Bahia](https://open.spotify.com/artist/5MbdV2ChR2UTRO6yczv6gj) | [A Rã EP](https://open.spotify.com/album/304Bab3sFlZCbt76DhqXh2) | 3:15 | 2023-07-10 |  |
 | [Samba Malató](https://open.spotify.com/track/67XnVq3LNc4nByje3F2kOL) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Oilando](https://open.spotify.com/album/2jsOKtBQHgnOzVXjdOmGn0) | 3:25 | 2023-07-10 |  |
+| [Santa Sofia](https://open.spotify.com/track/5Of1TpUNx9vwu3ktigxt38) | [Desmadre Orkesta](https://open.spotify.com/artist/2raoGXptT9COV1Iv1nVFYk) | [Santa Sofia](https://open.spotify.com/album/4ilzlculu8nJHuZscovQnT) | 3:08 | 2023-11-13 |  |
 | [Santé](https://open.spotify.com/track/3vXnuFnC5RhPGwsFi0ORcI) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Santé](https://open.spotify.com/album/5ZbmaYVO7Pg5TAGRQXleI5) | 3:10 | 2023-07-10 |  |
 | [Saùde](https://open.spotify.com/track/0eiLjsux480qRTmDnNRJJg) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K), [Tibau Tavares](https://open.spotify.com/artist/68nqiiRYrs28v1JAQfM0A9) | [Tibau](https://open.spotify.com/album/7p8X1wJrhRZzO0R3BFyrrJ) | 4:35 | 2023-07-10 |  |
 | [Si Te Contara \(If I Told You\)](https://open.spotify.com/track/3ualr3pvN65rhjN2PqSE6j) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Dos lágrimas](https://open.spotify.com/album/7c9foQ4zPGCwQoX6avMpJC) | 3:16 | 2023-07-10 |  |
@@ -352,7 +353,7 @@
 | [Ti\-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 6:12 | 2023-07-10 | 2023-10-20 |
 | [Ti\-de](https://open.spotify.com/track/4JJEfYFamGRfmz9nG6fx1w) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 6:12 | 2023-07-10 |  |
 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/6OghUc8FwEZOvEszyVud28) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:33 | 2023-07-10 |  |
-| [Tiku La Hina](https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k) | [Samito](https://open.spotify.com/artist/2LwqwmIDSWwNV1lDjqKqCN) | [Tiku La Hina](https://open.spotify.com/album/7uFTZvSJt4bZeoGZxNSyYe) | 4:02 | 2023-07-10 |  |
+| [Tiku La Hina](https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k) | [Samito](https://open.spotify.com/artist/2LwqwmIDSWwNV1lDjqKqCN) | [Tiku La Hina](https://open.spotify.com/album/7uFTZvSJt4bZeoGZxNSyYe) | 4:02 | 2023-07-10 | 2023-11-14 |
 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 | 2023-07-10 |  |
 | [Tite jeanne](https://open.spotify.com/track/015bKqyOq3f9pAhpvQb9cV) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Satingarona, Vol\. 1](https://open.spotify.com/album/1ylysR6fqyNNJmuuyCIf5C) | 4:59 | 2023-07-10 |  |
 | [Tive Razão](https://open.spotify.com/track/2xaMV3NPiEHcd8tlSkGH2M) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw) | [Cru](https://open.spotify.com/album/6KFJoqStaKw7VRMmoh1d6j) | 4:32 | 2023-07-10 |  |

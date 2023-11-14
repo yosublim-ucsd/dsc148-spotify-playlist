@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-267 songs - 14 hr 32 min
+268 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Fall in Love \- Acoustic](https://open.spotify.com/track/17DTmTAm5l3P8vvC8lO25z) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12/12 \(Acoustic Pt\. 1\)](https://open.spotify.com/album/1ZGQkU4wtCJ0sNHQYlDQ6w) | 2:45 | 2021-12-17 | 2022-07-09 |
 | [Fighting \- Acoustic](https://open.spotify.com/track/3ICJRbE7pf8Abk4uZiUMBH) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Fighting \(Acoustic\)](https://open.spotify.com/album/5RzLNJyVz0Z8XGWsAALX7l) | 3:47 | 2022-07-08 | 2022-07-12 |
 | [First Goodbye](https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:52 | 2021-12-17 | 2023-02-05 |
+| [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 | 2023-11-10 |  |
 | [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-05-19 | 2023-11-03 |
 | [For What It’s Worth \- Acoustic](https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8) | 2:58 | 2023-02-03 |  |
 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 | 2022-05-20 |  |
@@ -129,7 +130,7 @@
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 | 2023-05-15 |
 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 | 2023-09-03 |
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-05-13 |
-| [Last Rodeo \- Acoustic](https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo \(Acoustic\)](https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV) | 3:10 | 2023-09-01 |  |
+| [Last Rodeo \- Acoustic](https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo \(Acoustic\)](https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV) | 3:10 | 2023-09-01 | 2023-11-14 |
 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 | 2023-02-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |
 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2021-12-17 | 2023-08-06 |

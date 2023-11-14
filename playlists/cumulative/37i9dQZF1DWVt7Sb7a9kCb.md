@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-274 songs - 14 hr 16 min
+275 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 | 2023-02-17 | 2023-05-27 |
 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 | 2022-05-25 |  |
 | [Copacabana](https://open.spotify.com/track/3WpwJ92Gb6haFfHVNo0Hjz) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [Copacabana](https://open.spotify.com/album/0CGVIFlkgb7AeoyMaRYgyo) | 2:27 | 2022-06-03 | 2022-07-13 |
+| [COSTA RICA](https://open.spotify.com/track/2UuaUs96rWIRGwfUpS4vuv) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 2:33 | 2023-11-13 |  |
 | [Cuando Estás Tú](https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Cuando Estás Tú](https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC) | 2:57 | 2022-06-03 | 2022-07-29 |
 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 | 2022-05-25 | 2022-07-29 |
 | [Curiosidad](https://open.spotify.com/track/0LYVHIR9bCSaTqdsgh10s1) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr), [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0) | [Curiosidad](https://open.spotify.com/album/1EXt7VjgvIUSkWSxVzaUwu) | 2:52 | 2022-05-28 | 2022-06-19 |
@@ -185,7 +186,7 @@
 | [No Soy Para Ti](https://open.spotify.com/track/4OhA5zmTkT49m0dOBqDOap) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [No Soy Para Ti](https://open.spotify.com/album/4do5kdrxqJkqEsLFX0I4bE) | 2:34 | 2022-06-03 | 2022-07-27 |
 | [No Va Na'](https://open.spotify.com/track/3P8LkD2AhZmk75Wxb4QyFy) | [El Gato Indio](https://open.spotify.com/artist/5SHbLHAnDRtGhCOtMLFNYW) | [No Va Na'](https://open.spotify.com/album/72CqHC3tdv7uqZrPoHeIVa) | 3:14 | 2023-03-17 | 2023-04-15 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-08-08 |  |
-| [Nota](https://open.spotify.com/track/5bC850rBpoHkvF0Nx4t2YM) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [MILLAS](https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ) | 1:59 | 2023-10-27 |  |
+| [Nota](https://open.spotify.com/track/5bC850rBpoHkvF0Nx4t2YM) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [MILLAS](https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ) | 1:59 | 2023-10-27 | 2023-11-14 |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-05-25 | 2023-01-14 |
 | [Numb The Pain](https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Numb The Pain](https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv) | 3:26 | 2023-10-27 |  |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-11-25 |  |

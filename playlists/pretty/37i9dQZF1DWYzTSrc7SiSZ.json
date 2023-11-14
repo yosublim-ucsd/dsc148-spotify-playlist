@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 669214,
+  "num_followers": 669265,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTc2ZmIyYjgyZWQwNTQ4NDczNGFiYmFlZjFjMTIwYTY2NDkyMTg4",
+  "snapshot_id": "MCxmMTY5YzRmYzNlZDY2MWQ1MTQxYTQ3YTFiYmI0MjFiYWQ5Njg1MWYy",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Wu Wu",
         "url": "https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 207727,
       "name": "Wu Wu",
       "url": "https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Handful of Water",
+        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 151746,
+      "name": "Handful of Water",
+      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "17 (feat. Giulia Be)",
         "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 160722,
       "name": "17 (feat. Giulia Be)",
       "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Handful of Water",
-        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 151746,
-      "name": "Handful of Water",
-      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Dieciseis",
         "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan"
       },
@@ -911,30 +911,6 @@
       "duration_ms": 190120,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
-        }
-      ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -971,6 +947,30 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Pajaritos",
         "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Visa",
-        "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "Visa",
-      "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Visa",
+        "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "Visa",
+      "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "dosextra\u00f1os",
         "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 227244,
       "name": "dosextra\u00f1os",
       "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 221322,
       "name": "Bolitas",
       "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Paralizado",
-        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Paralizado",
+        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Paralizado",
+      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Escorpio",
+        "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Knock Out",
+      "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "7 de febrero",
         "url": "https://open.spotify.com/album/3drXdjre1aVmmXy43XDvbs"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 193953,
       "name": "7 de febrero",
       "url": "https://open.spotify.com/track/2S0RpAiBKgdVyelIjFDc0L"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Escorpio",
-        "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Knock Out",
-      "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
     }
   ],
   "unique_name": "Chill Latino",

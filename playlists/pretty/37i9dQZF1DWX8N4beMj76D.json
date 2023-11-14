@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10193,
+  "num_followers": 10195,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjdiYmNlNGY1YWZjMzg1NTg5OTRkZTgyNzkyZjRmYTA2ZDZlYmE3",
+  "snapshot_id": "MCxkMDg5MWVlNmZhZTU1ZDE5MDdhMmM0ZGU3ODFiYjlhMDg2N2MwYzY2",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -211,22 +211,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Live Songs",
         "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 245493,
       "name": "Passing Through - Live",
       "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -323,6 +323,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Be for Real",
+      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
         }
       ],
-      "duration_ms": 268853,
-      "name": "Be for Real",
-      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+      "duration_ms": 284973,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -383,22 +399,6 @@
       "duration_ms": 221093,
       "name": "I Can't Forget",
       "url": "https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 284973,
-      "name": "The Traitor",
-      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -419,6 +419,22 @@
       "duration_ms": 312760,
       "name": "Here It Is",
       "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -475,38 +491,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Is Your Love Big Enough? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Hey, That's No Way to Say Goodbye (with Chilly Gonzales on Piano) - Piano by Chilly Gonzales in Paris",
-      "url": "https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "From Her to Eternity (2009 - Remaster)",
         "url": "https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Is Your Love Big Enough? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Hey, That's No Way to Say Goodbye (with Chilly Gonzales on Piano) - Piano by Chilly Gonzales in Paris",
+      "url": "https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 246760,
       "name": "Story Of Isaac",
       "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Cowgirl's Prayer",
-        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 335906,
-      "name": "Ballad of a Runaway Horse",
-      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -575,6 +559,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Cowgirl's Prayer",
+        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 335906,
+      "name": "Ballad of a Runaway Horse",
+      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "20 ODD YEARS",
         "url": "https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 215853,
       "name": "Who by Fire (feat. Jenn Grant)",
       "url": "https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -607,22 +623,6 @@
       "duration_ms": 326684,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Dear Heather",
-        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     },
     {
       "added_at": "2018-12-06 19:29:22",

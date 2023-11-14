@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Grian Chatten
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,912 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,962 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Killing My Borrowed Time](https://open.spotify.com/track/53JhpHJVdE0TxXiZ6p387I) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 3:17 |
 | 50 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 |
 
-Snapshot ID: `MCw5MzAyMmQ5YjlmNDQ4Yjg3YWZmNDgwZDk1NzhjODkyZTZmNTkyZTcy`
+Snapshot ID: `MCwwMDY0YWRiMGFjMDk3NzQ1MDMzOWE1OGYwM2U1YTlhMjQ1MWM5N2I0`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjZmYTE3YWI3MzEzZTU3MzhmOWE0YjgwYzI2MzM5NGU2NGQzODgz",
+  "snapshot_id": "MCw0ZWJkNTE4ODg2OTNjYTgyYjcxMjQzMzdhZDU4NGNlYTQzYmFlNDU4",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
         "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 184853,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Snowed In",
-        "url": "https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Snowed In",
-      "url": "https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Her Eyes the Stars",
         "url": "https://open.spotify.com/album/48ebzqjjqID3hei5FH0Ijg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 130000,
       "name": "Her Eyes the Stars",
       "url": "https://open.spotify.com/track/6nwqhRmNfARpidQFUEwjeB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Snowed In",
+        "url": "https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Snowed In",
+      "url": "https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Maiestas",
-        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
-      },
-      "artists": [
-        {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
-        }
-      ],
-      "duration_ms": 171452,
-      "name": "Maiestas",
-      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Eyes Closed And Traveling",
         "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Maiestas",
+        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
+      },
+      "artists": [
+        {
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+        }
+      ],
+      "duration_ms": 171452,
+      "name": "Maiestas",
+      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
-      },
-      "artists": [
-        {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "A Letter Home",
         "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 139500,
       "name": "A Letter Home",
       "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO"
+        "name": "October",
+        "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Regina Mira",
+          "url": "https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC"
+      "duration_ms": 119726,
+      "name": "The Winding Paths",
+      "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO"
       },
       "artists": [
         {
-          "name": "Regina Mira",
-          "url": "https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
         }
       ],
-      "duration_ms": 119726,
-      "name": "The Winding Paths",
-      "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
+      "duration_ms": 134706,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "For the Love of Love",
+        "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
+      },
+      "artists": [
+        {
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+        }
+      ],
+      "duration_ms": 143251,
+      "name": "For the Love of Love",
+      "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Hearts of Us",
         "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 166795,
       "name": "Branches \u00e9toil\u00e9es",
       "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "For the Love of Love",
-        "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 143251,
-      "name": "For the Love of Love",
-      "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Isonzo",
-        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
       },
       "artists": [
         {
-          "name": "Davorka Poljak",
-          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
         }
       ],
-      "duration_ms": 107500,
-      "name": "Isonzo",
-      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Isonzo",
+        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
+      },
+      "artists": [
+        {
+          "name": "Davorka Poljak",
+          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+        }
+      ],
+      "duration_ms": 107500,
+      "name": "Isonzo",
+      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Airbourne",
         "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 238588,
       "name": "Airbourne",
       "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Lizards play",
-        "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
       "artists": [
         {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
         }
       ],
-      "duration_ms": 146569,
-      "name": "Lizards play",
-      "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1527,6 +1511,22 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Lizards play",
+        "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 146569,
+      "name": "Lizards play",
+      "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
     },
     {
       "added_at": "2023-03-12 10:18:38",

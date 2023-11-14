@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,702 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,684 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
 | 100 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 |
 
-Snapshot ID: `MCw1ZGU5ZjQ4ZmU5M2RjNWY0YjYxMjUyOGEyYjlmZmU2YmZlOTQ5MzAx`
+Snapshot ID: `MCxlMDcwNWNiOTZjZDU4Yjk5N2U5ZjJkNDEyOTUzMmE2YzIxOTEwYmVi`

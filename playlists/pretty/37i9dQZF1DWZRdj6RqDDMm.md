@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 86 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,470 likes - 86 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 85 | [ANGELS](https://open.spotify.com/track/5kjPddNRxO0H4DkKfaZjNl) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [ANGELS](https://open.spotify.com/album/3Inj7Hu0KzqT2VImIrnLpL) | 2:57 |
 | 86 | [Sacrifices](https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Sacrifices](https://open.spotify.com/album/05jjR9mGXTvLf2x8QYoiOq) | 3:28 |
 
-Snapshot ID: `MCxhMDljMDNiNTU3OThlNzE2MTI0NzExZTgwOTRlNzFkNTM5ZmJmZGRh`
+Snapshot ID: `MCw4YWYyMzQ0NDZkMDkzYzA0NTBmYmI5YmQ4ODhjYTAwZTlmMDFkMmQ0`
