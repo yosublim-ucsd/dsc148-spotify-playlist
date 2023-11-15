@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7039\)
+## Playlists \(7040\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -5091,6 +5091,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [The Victorians](/playlists/pretty/37i9dQZF1DWZxkZk4wnQ5T.md)
 - [The WISHLIST](/playlists/pretty/37i9dQZF1DXdMR9DIC5ADT.md)
 - [The Warm\-Up](/playlists/pretty/37i9dQZF1DWXZua9Shbhpk.md)
+- [The Weekly Rotation](/playlists/pretty/2X6kTAPPf4hxJQ2shs68lK.md)
 - [The Wilds](/playlists/pretty/37i9dQZF1DWUDoJcM4v6Tm.md)
 - [The Wind Down](/playlists/pretty/37i9dQZF1DWYYeI1QdFxzU.md)
 - [The Witcher Official Playlist](/playlists/pretty/37i9dQZF1DX1IWggFU8R1w.md)
