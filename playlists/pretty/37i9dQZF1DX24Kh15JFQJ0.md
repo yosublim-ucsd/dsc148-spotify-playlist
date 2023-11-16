@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,720 likes - 182 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,746 likes - 182 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

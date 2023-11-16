@@ -1,6 +1,6 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 786401,
+  "num_followers": 786520,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
+        "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
         "name": "Monomania",
         "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 217756,
       "name": "Eu Me Lembro",
       "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
-      },
-      "artists": [
-        {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
         "name": "Ideologia",
         "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 185000,
       "name": "Minha Flor Meu Beb\u00ea",
       "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
+      },
+      "artists": [
+        {
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+        }
+      ],
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Bela Flor",
-      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
         "name": "As Super Novas",
         "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 246280,
       "name": "Quando A Chuva Passar",
       "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Bela Flor",
+      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
         }
       ],
-      "duration_ms": 222911,
-      "name": "Que Seja Pra Ficar",
-      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Que Seja Pra Ficar",
+      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 212758,
       "name": "Uma Vida \u00e9 Pouco Pra Te Amar",
       "url": "https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
-        "name": "coisa mais bonita",
-        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 176103,
-      "name": "coisa mais bonita",
-      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 193029,
-      "name": "Cosquinha No Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
         "name": "Outono",
         "url": "https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 219257,
       "name": "Anjo Protetor",
       "url": "https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 193029,
+      "name": "Cosquinha No Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy"
     },
     {
       "added_at": "2023-10-23 12:44:30",

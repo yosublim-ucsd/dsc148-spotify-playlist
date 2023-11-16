@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: VANDALISBIN , Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Elijah Malik , Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 193520,
       "name": "Allein",
       "url": "https://open.spotify.com/track/0sfk1DGYZeiHLrX7FTfBPM"
@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Babyblau",
+        "url": "https://open.spotify.com/album/7MEVmQnrrd5fhi94FBLMii"
+      },
+      "artists": [
+        {
+          "name": "Prilly",
+          "url": "https://open.spotify.com/artist/5Ccg6jqc3HTMttGQA8jlro"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "Babyblau",
+      "url": "https://open.spotify.com/track/3dd49Q5QTFx7QPkRxSfdEa"
+    },
+    {
+      "album": {
         "name": "Back To The Roots",
         "url": "https://open.spotify.com/album/1pOUgIh2725gfM990d7ebO"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 251150,
       "name": "Black Swarms",
       "url": "https://open.spotify.com/track/129EcBG38OROKW3K0jW9LT"
@@ -3351,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6U7GsO6rUA6WMIzTuEnV2x"
+      },
+      "artists": [
+        {
+          "name": "SUZ\u00e9",
+          "url": "https://open.spotify.com/artist/0gqgQYlI6dpyIVmOLDemGQ"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423397,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/7gY3CDLjByjqUpHYZnbVVB"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/7bDvu9uFRy5x8l5IFwIqZ4"
       },
@@ -3804,6 +3840,24 @@
       "duration_ms": 352011,
       "name": "Desire",
       "url": "https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo"
+    },
+    {
+      "album": {
+        "name": "Desiring Machines",
+        "url": "https://open.spotify.com/album/2jL8t5HbCPaIkC4duTAfCp"
+      },
+      "artists": [
+        {
+          "name": "Atka",
+          "url": "https://open.spotify.com/artist/49MRn294La2ofVJ2w9ZaJv"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298405,
+      "name": "Desiring Machines",
+      "url": "https://open.spotify.com/track/6p3d5fNZj0olwXS8eL4SEE"
     },
     {
       "album": {
@@ -5474,7 +5528,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 429290,
       "name": "Five Finger Discount",
       "url": "https://open.spotify.com/track/4euOAVYIMxWAvx1yHkTHmE"
@@ -5774,7 +5828,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 297265,
       "name": "Future Holds",
       "url": "https://open.spotify.com/track/6YNSajixFoJriODKAsyFAr"
@@ -6132,7 +6186,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 201951,
       "name": "Glanz und Schimmer",
       "url": "https://open.spotify.com/track/3jyay81l2lnGWBPUsaNr9C"
@@ -6314,6 +6368,24 @@
       "duration_ms": 225000,
       "name": "Gotta Do This, Gurl",
       "url": "https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ"
+    },
+    {
+      "album": {
+        "name": "Gotta Go",
+        "url": "https://open.spotify.com/album/19tFGF2ecrhCz200pdT8y1"
+      },
+      "artists": [
+        {
+          "name": "Red Ocean",
+          "url": "https://open.spotify.com/artist/0c3hIYA5fVYtCekz5T8y3n"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189273,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/5JFn4fgvV39uXk18d71391"
     },
     {
       "album": {
@@ -7328,6 +7400,24 @@
       "duration_ms": 210138,
       "name": "How Far",
       "url": "https://open.spotify.com/track/3Qe7XWT704KD1hi4CwWb9d"
+    },
+    {
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/5ok6iPVyhkC7DsMSwJA9fJ"
+      },
+      "artists": [
+        {
+          "name": "The Usual Boys",
+          "url": "https://open.spotify.com/artist/1KXoXFPP4th1jgFXBccCff"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173349,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/1DH5ClVVdaAbJO6blPoiGy"
     },
     {
       "album": {
@@ -11012,7 +11102,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 241243,
       "name": "nuages",
       "url": "https://open.spotify.com/track/2WXmhnX5pDzeuXyrK3Rbba"
@@ -13138,7 +13228,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 342231,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7fVeaVDxRrcnnKB6TLj9uE"
@@ -13462,7 +13552,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 134587,
       "name": "SHOTS",
       "url": "https://open.spotify.com/track/2eLrZ1m4gmeKEUBZ14FctK"
@@ -15299,6 +15389,24 @@
     },
     {
       "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/6w713anjcib82BcZaP9BqE"
+      },
+      "artists": [
+        {
+          "name": "Les Yeux Sans Visage",
+          "url": "https://open.spotify.com/artist/3haLGMwPuFiW5spBAgTgcb"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/1muhuIPxC7BwJwDmTkRxFE"
+    },
+    {
+      "album": {
         "name": "Tightrope",
         "url": "https://open.spotify.com/album/1YPwlrD9EFnQncVbXDsLEf"
       },
@@ -15332,6 +15440,24 @@
       "duration_ms": 190000,
       "name": "Timber",
       "url": "https://open.spotify.com/track/6VzXB12CGKLS6Kc5Inha8P"
+    },
+    {
+      "album": {
+        "name": "Time for Us",
+        "url": "https://open.spotify.com/album/3M2Xhw60yNd3hJ9U3ukQcS"
+      },
+      "artists": [
+        {
+          "name": "Lalu",
+          "url": "https://open.spotify.com/artist/3EeikbdxXtVV1PsTiXQbLs"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "Time for Us",
+      "url": "https://open.spotify.com/track/03hTMTJujRmDTV7P1aSgGl"
     },
     {
       "album": {
@@ -15787,6 +15913,28 @@
     },
     {
       "album": {
+        "name": "Trophies",
+        "url": "https://open.spotify.com/album/5kbz9Q7ujqiXAkmJHAQFV7"
+      },
+      "artists": [
+        {
+          "name": "Elijah Malik",
+          "url": "https://open.spotify.com/artist/2WLfCdBLX8d9BTrE0K9bjT"
+        },
+        {
+          "name": "the Kii",
+          "url": "https://open.spotify.com/artist/5xr7NsbwQJjvIeFmvCWYF4"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/3UmdAQVw4ncXzOATtEwIKi"
+    },
+    {
+      "album": {
         "name": "Trust Me When I Lie",
         "url": "https://open.spotify.com/album/1L0JNUvXNjaRiSZGxGBn8Z"
       },
@@ -15798,7 +15946,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191400,
       "name": "Trust Me When I Lie",
       "url": "https://open.spotify.com/track/669pBel16P5pZJxM20T7OA"
@@ -16690,6 +16838,24 @@
       "duration_ms": 156807,
       "name": "When I Was Born",
       "url": "https://open.spotify.com/track/0FRodw2mg6dJJ44fzhjJrn"
+    },
+    {
+      "album": {
+        "name": "On My Windowsill",
+        "url": "https://open.spotify.com/album/2gd7Mm7HJwItWwTixHpEpe"
+      },
+      "artists": [
+        {
+          "name": "filt",
+          "url": "https://open.spotify.com/artist/5oTw2ED95kOO25K6njQDNL"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205902,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/7C8VN4OpII4ZnnaoxkgzBc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,555 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,711 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 31 | [Wine Slow](https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Wine Slow](https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L) | 3:01 |
 | 32 | [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 |
 | 33 | [Pourquoi](https://open.spotify.com/track/1ivRvCyLMNSWuVZ25a9rf6) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Pourquoi](https://open.spotify.com/album/2OPzyKmOwQErxw9sxWXbLd) | 2:41 |
-| 34 | [Vécu \- Bonus Track](https://open.spotify.com/track/1HuefEfJ2y1o9QjmVmwPAY) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Vécu \(Bonus Track\)](https://open.spotify.com/album/7dmoqxxkrkcgMNMRLM6pkf) | 3:00 |
-| 35 | [Garde Le](https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Garde Le](https://open.spotify.com/album/1juOthaPbiYisCAAi4sJsv) | 3:23 |
-| 36 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 |
-| 37 | [Prouver](https://open.spotify.com/track/7dXepJOiMWsBqEsQ6XIvS0) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Prouver](https://open.spotify.com/album/40oDpUtXCb0HjsWZG134wA) | 3:15 |
-| 38 | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB) | [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa) | 2:59 |
-| 39 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 |
-| 40 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 |
+| 34 | [Garde Le](https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Garde Le](https://open.spotify.com/album/1juOthaPbiYisCAAi4sJsv) | 3:23 |
+| 35 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 |
+| 36 | [Prouver](https://open.spotify.com/track/7dXepJOiMWsBqEsQ6XIvS0) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Prouver](https://open.spotify.com/album/40oDpUtXCb0HjsWZG134wA) | 3:15 |
+| 37 | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB) | [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa) | 2:59 |
+| 38 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 |
+| 39 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 |
 
-Snapshot ID: `MCxhNDM3NzZkY2ViODk3NmMxZDM2YWVlNDc0MWMzMDQxMjVjYjc2YjA2`
+Snapshot ID: `MCw0ODU5OTQwOWEzYzBjYzE1YzY4YmFkZTRmYjZhZGQ5ZWViYTVhOWVj`

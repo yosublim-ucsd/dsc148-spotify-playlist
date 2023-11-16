@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-458 songs - 1 day 2 hr 2 min
+459 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Hypnotic](https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Hypnotic EP](https://open.spotify.com/album/3YX26AlAsr09SsX7adaLwY) | 2:56 | 2022-10-21 | 2022-12-08 |
 | [I Can Feel It](https://open.spotify.com/track/4FZ4SAkkCrIqzaRqh7EVvM) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [I Can Feel It](https://open.spotify.com/album/1MPcz9Fd6Rce6zUV17Vwxe) | 3:28 | 2021-12-17 | 2022-09-11 |
 | [I Don't Care](https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [I Don't Care](https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw) | 3:55 | 2021-12-17 | 2022-10-29 |
+| [I Had Everything](https://open.spotify.com/track/0HZDIyQizC8C2hX3jE8Git) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f) | [Catharsis](https://open.spotify.com/album/6lZkwzNgYHbs6VJD9VzMYA) | 4:38 | 2023-11-10 |  |
 | [I Know](https://open.spotify.com/track/5oslaeVoAfbVvtDtB91wVC) | [Kozah](https://open.spotify.com/artist/0g6PJw04eyN85JxQAGGdF4), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [I Know](https://open.spotify.com/album/4BpSGPmqlm2WRAWeFoAOgl) | 3:26 | 2022-08-05 | 2022-09-15 |
 | [I Like It When You Move](https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [I Like It When You Move](https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3) | 3:02 | 2023-08-25 |  |
 | [I'm Delighted](https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [I'm Delighted](https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h) | 5:39 | 2022-09-30 | 2023-10-14 |
@@ -381,7 +382,7 @@
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
 | [Skull Machine](https://open.spotify.com/track/2cOWubLiLHeYDpUMIxq0qM) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Portals](https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj) | 3:15 | 2023-11-03 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-17 | 2023-05-13 |
-| [Solar Plexus](https://open.spotify.com/track/3cxiRmB1lT8GGrUup4E0w9) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Quorum EP](https://open.spotify.com/album/5wWG3D6UgzV13EFjSrOVjP) | 3:45 | 2023-08-25 |  |
+| [Solar Plexus](https://open.spotify.com/track/3cxiRmB1lT8GGrUup4E0w9) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Quorum EP](https://open.spotify.com/album/5wWG3D6UgzV13EFjSrOVjP) | 3:45 | 2023-08-25 | 2023-11-16 |
 | [Solastalgia](https://open.spotify.com/track/3MpqvGAioZvFXQBkXuyjp6) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Solastalgia](https://open.spotify.com/album/0s1DT18ce8ZvQZMoUAUi93) | 3:36 | 2021-12-17 | 2022-09-05 |
 | [Someone Else](https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Someone Else](https://open.spotify.com/album/66SfUtpfmIJQ5ntfPUlqKE) | 3:28 | 2022-09-30 | 2023-05-21 |
 | [Something Real](https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Prismata \(Dark\)](https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht) | 3:05 | 2022-06-24 | 2023-08-25 |

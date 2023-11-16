@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,914 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,049 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 15 | [The Rhythm](https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [The Rhythm](https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2) | 2:47 |
 | 16 | [A&S](https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL) | 3:20 |
 | 17 | [Higher](https://open.spotify.com/track/1qeoq1tI6uUprUJNgnVRvp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Higher](https://open.spotify.com/album/3o4TCYWSKJnaujokMj0aa6) | 3:32 |
-| 18 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 |
+| 18 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7) | 3:26 |
 | 19 | [Fighting For You](https://open.spotify.com/track/7L71jX5uDYFXBCVCvZzb9D) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Come True](https://open.spotify.com/album/3d8NRzwbtsrbyfYE3JRSZQ) | 2:53 |
 | 20 | [The Switch](https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [The Switch](https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S) | 3:26 |
 | 21 | [Aisha](https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Aisha](https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Nex Cassel e DJ Craim in cover.",
-  "num_followers": 37171,
+  "num_followers": 37223,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "S.U.N.S.H.I.N.E.",
-        "url": "https://open.spotify.com/album/2rBPoiJrMVtV74pQK5zGQ0"
+        "name": "Fabiano detto Inoki",
+        "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
       },
       "artists": [
         {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        },
-        {
-          "name": "DJ Myke",
-          "url": "https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 473322,
-      "name": "S.U.N.S.H.I.N.E.",
-      "url": "https://open.spotify.com/track/6cNKQMBHY9Yt94fDQVA94t"
+      "duration_ms": 232986,
+      "name": "Non mi avrete mai",
+      "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Fabiano detto Inoki",
-        "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
+        "name": "S.U.N.S.H.I.N.E.",
+        "url": "https://open.spotify.com/album/2rBPoiJrMVtV74pQK5zGQ0"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        },
+        {
+          "name": "DJ Myke",
+          "url": "https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O"
         }
       ],
-      "duration_ms": 232986,
-      "name": "Non mi avrete mai",
-      "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
+      "duration_ms": 473322,
+      "name": "S.U.N.S.H.I.N.E.",
+      "url": "https://open.spotify.com/track/6cNKQMBHY9Yt94fDQVA94t"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
         "name": "Ci sentiamo poi",
         "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 130373,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "SPECIALIST",
-        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 145446,
-      "name": "SPECIALIST",
-      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
+        "name": "SPECIALIST",
+        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 145446,
+      "name": "SPECIALIST",
+      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -1719,6 +1719,34 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
+        "name": "Sacrosanto",
+        "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        },
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 158943,
+      "name": "Sembrava Impossibile",
+      "url": "https://open.spotify.com/track/4wg7YaPFve0vjqiF0xEbRh"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
         "name": "Iron Maiden",
         "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
       },
@@ -1795,6 +1823,26 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
+        "name": "Sotto effetto stono",
+        "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        },
+        {
+          "name": "Danny Losito",
+          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
+      "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1867,74 +1915,6 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Sotto effetto stono",
-        "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        },
-        {
-          "name": "Danny Losito",
-          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
-      "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
-        "name": "Sacrosanto",
-        "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        },
-        {
-          "name": "Sissi",
-          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 158943,
-      "name": "Sembrava Impossibile",
-      "url": "https://open.spotify.com/track/4wg7YaPFve0vjqiF0xEbRh"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
-        "name": "Reddito passivo",
-        "url": "https://open.spotify.com/album/1idVm5wE0yEv98Zv2cUSkq"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Reddito passivo",
-      "url": "https://open.spotify.com/track/4UrVWE8BON0sYtDEHocZRT"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
         "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
@@ -1971,22 +1951,22 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
       },
       "artists": [
         {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
         },
         {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -2007,22 +1987,38 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
         },
         {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -2071,18 +2067,22 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+        "name": "Reddito passivo",
+        "url": "https://open.spotify.com/album/1idVm5wE0yEv98Zv2cUSkq"
       },
       "artists": [
         {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
         }
       ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
+      "duration_ms": 224000,
+      "name": "Reddito passivo",
+      "url": "https://open.spotify.com/track/4UrVWE8BON0sYtDEHocZRT"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -2207,22 +2207,42 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Fai Il Bravo",
-        "url": "https://open.spotify.com/album/7GSENlwnihb4PiGB6dPJ2G"
+        "name": "107 Elementi",
+        "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         },
         {
-          "name": "Grido",
-          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+          "name": "Chico Mdee",
+          "url": "https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek"
+        },
+        {
+          "name": "Anna Marotta",
+          "url": "https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr"
         }
       ],
-      "duration_ms": 175124,
-      "name": "Fai Il Bravo",
-      "url": "https://open.spotify.com/track/4NCGrDj3x1wboFL0BmKPSy"
+      "duration_ms": 293160,
+      "name": "Guerra E Pace",
+      "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -2267,30 +2287,6 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "107 Elementi",
-        "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Chico Mdee",
-          "url": "https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek"
-        },
-        {
-          "name": "Anna Marotta",
-          "url": "https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Guerra E Pace",
-      "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -2307,18 +2303,22 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+        "name": "Fai Il Bravo",
+        "url": "https://open.spotify.com/album/7GSENlwnihb4PiGB6dPJ2G"
       },
       "artists": [
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
         }
       ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+      "duration_ms": 175124,
+      "name": "Fai Il Bravo",
+      "url": "https://open.spotify.com/track/4NCGrDj3x1wboFL0BmKPSy"
     },
     {
       "added_at": "2023-11-09 23:01:00",
@@ -2375,26 +2375,6 @@
     {
       "added_at": "2023-11-09 23:01:00",
       "album": {
-        "name": "Intro 2023 (5tate of Mind freestyle)",
-        "url": "https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 88529,
-      "name": "Intro 2023 (5tate of Mind freestyle)",
-      "url": "https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM"
-    },
-    {
-      "added_at": "2023-11-09 23:01:00",
-      "album": {
         "name": "Odio Pieno",
         "url": "https://open.spotify.com/album/4OzxfmcyUrMc5SXxbcaV65"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 181333,
       "name": "Colpi di tosse",
       "url": "https://open.spotify.com/track/2snXy0KrRLruaTJBIaoPl5"
+    },
+    {
+      "added_at": "2023-11-09 23:01:00",
+      "album": {
+        "name": "Intro 2023 (5tate of Mind freestyle)",
+        "url": "https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 88529,
+      "name": "Intro 2023 (5tate of Mind freestyle)",
+      "url": "https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM"
     },
     {
       "added_at": "2023-11-09 23:01:00",

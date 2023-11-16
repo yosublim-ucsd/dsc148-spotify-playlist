@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-157 songs - 13 hr 17 min
+158 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [My Friend Of Misery](https://open.spotify.com/track/14A7YuFDIVykJBGXcipCpp) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend Of Misery](https://open.spotify.com/album/6f4xneECqUb0JELhNa3KzN) | 6:47 | 2021-12-01 | 2022-07-29 |
 | [My Friend of Misery](https://open.spotify.com/track/4VgstGQR0BW7wamAFNEz6A) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend of Misery](https://open.spotify.com/album/0v08kiSBOOoy59PZOIscFW) | 6:47 | 2021-12-01 | 2022-12-01 |
 | [My Friend of Misery](https://open.spotify.com/track/6FeKmeXJnvhy3h9aOC99HV) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Metallica Blacklist](https://open.spotify.com/album/73pUIoNvoi8m51Vg97CAKX) | 6:47 | 2021-12-01 | 2022-11-13 |
+| [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 | 2022-11-30 |  |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-11-30 | 2023-04-29 |
-| [Mystics \- Live](https://open.spotify.com/track/6oQa3e5vox8Izx1EQkKFEV) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/4T8tt0NgcFY8DcRXo5rp4I) | 3:47 | 2022-11-30 |  |
+| [Mystics \- Live](https://open.spotify.com/track/6oQa3e5vox8Izx1EQkKFEV) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/4T8tt0NgcFY8DcRXo5rp4I) | 3:47 | 2022-11-30 | 2023-11-16 |
 | [Nascentia Suite: All Up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/track/4HgeqSM6txLTsaneFrfDNU) | [Steve Slagle](https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Clark Gayton](https://open.spotify.com/artist/4pNVrj94ZiFangbDh50OlI) | [Nascentia Suite: All up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/album/7N21V8876vqUT8vmlD8SdL) | 8:14 | 2021-12-01 | 2022-12-01 |
 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 | 2022-11-30 |  |
 | [Network of 3](https://open.spotify.com/track/6XSEJN0k4yL6z0bGJ1s4Fx) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Network of 3](https://open.spotify.com/album/7DNX7AQuLm88uS4MHsIjvB) | 4:15 | 2022-11-30 |  |

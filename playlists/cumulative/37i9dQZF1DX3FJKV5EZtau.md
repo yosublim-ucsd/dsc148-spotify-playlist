@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-401 songs - 22 hr 59 min
+402 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [love u!!](https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:30 | 2023-09-08 |  |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 |  |
 | [Lovely Scars](https://open.spotify.com/track/1nMByGsOn1wJrl8S6wtGEr) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Lovely Scars](https://open.spotify.com/album/3KBabliuaGJPsdlESKtg58) | 4:21 | 2022-01-07 | 2022-07-29 |
-| [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2022-01-07 |  |
+| [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2022-01-07 | 2023-11-16 |
 | [Lune](https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Lune](https://open.spotify.com/album/2dliQpKdUMkgEp5NUMdgfL) | 4:50 | 2022-01-07 | 2022-10-16 |
 | [Maboroshi](https://open.spotify.com/track/5euHZw4X82pmE12LUP7Zam) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Maboroshi](https://open.spotify.com/album/48NJffm2f5RAu5hfXjJc5B) | 4:04 | 2022-01-07 |  |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2022-01-07 | 2022-07-28 |
@@ -301,6 +301,7 @@
 | [Reality Surf](https://open.spotify.com/track/7bN1xfvn1fB0mhKcdCK4un) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/6RKwoaGftOUrIugxRIBPqZ) | 2:03 | 2022-07-14 | 2022-08-06 |
 | [Remember](https://open.spotify.com/track/60NupHAR0J54haO984RG5t) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Remember](https://open.spotify.com/album/1LIS9D8Or6SmqFK8RPLiMH) | 3:58 | 2022-01-07 | 2023-01-27 |
 | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky) | 3:37 | 2022-07-14 | 2022-08-06 |
+| [Rivers \(with Kyle Reynolds\)](https://open.spotify.com/track/4SP9TuXHcNuEG5xIzdd7Jq) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Duality](https://open.spotify.com/album/4qQVdqYI0FMB8A9UoXSorx) | 2:57 | 2023-11-10 |  |
 | [Runaway](https://open.spotify.com/track/1ojGSqkSVnxU5tlu5JWlel) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/1R0DbDkDysbJ6sb67stjMU) | 3:55 | 2023-03-10 |  |
 | [Runaway](https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/7uWgf6BGGUW6E2y9Pljzxa) | 3:55 | 2022-01-07 | 2023-02-16 |
 | [Rush](https://open.spotify.com/track/09SNUbxd7e1cn6MTYhdz6P) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/6TzwR0RkTOWE4Z1UO8dXZD) | 2:52 | 2022-12-16 | 2023-03-02 |

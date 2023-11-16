@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Sum 41 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,671 likes - 105 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,674 likes - 105 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

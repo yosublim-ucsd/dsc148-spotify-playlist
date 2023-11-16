@@ -4,7 +4,7 @@
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-119 songs - 8 hr 24 min
+120 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hope Has a Name](https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV) | 4:48 | 2020-07-23 | 2022-07-29 |
 | [Hope in Front of Me](https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:37 | 2020-07-23 | 2023-11-04 |
 | [Hope in Front of Me](https://open.spotify.com/track/4SmYmorGcZ2MBTO1RAkl3m) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope in Front of Me](https://open.spotify.com/album/7fY3WG6Ae45UiPbFYPDYCX) | 3:37 | 2020-07-23 | 2022-07-29 |
+| [Hope in Front of Me](https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:37 | 2020-07-23 |  |
 | [Hope Returns](https://open.spotify.com/track/4tfpo5whNasRR4vLTX5sZD) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:53 | 2020-07-23 |  |
 | [I Am No Victim](https://open.spotify.com/track/7BGdBoVEVYUB0tbcWXMTbA) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [I Am No Victim](https://open.spotify.com/album/0x5D4xCGovCnBL2voLUnde) | 4:41 | 2020-07-23 | 2022-07-27 |
 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 | 2020-07-23 |  |
@@ -76,7 +77,7 @@
 | [My Hope Is In You](https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe](https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn) | 4:14 | 2020-07-23 | 2022-07-19 |
 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 | 2020-07-23 |  |
 | [My Lighthouse](https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [The Art Of Celebration](https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b) | 3:44 | 2020-07-23 |  |
-| [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 | 2020-07-23 |  |
+| [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 | 2020-07-23 | 2023-11-16 |
 | [My Prayer For You](https://open.spotify.com/track/3CBWUe9fquqcnfvGaukcjT) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [My Prayer for You](https://open.spotify.com/album/44z0gmbxgYaRmdmR8fdbQ7) | 4:04 | 2020-07-23 | 2022-07-29 |
 | [Need You Now \(How Many Times\)](https://open.spotify.com/track/3oCy1o9lrIvgFC1T7kfTNv) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:12 | 2020-07-23 | 2022-07-07 |
 | [No Longer Slaves \(Radio Version\) \[feat\. Jonathan David Helser & Melissa Helser\]](https://open.spotify.com/track/37sWianweYMt42ZoSABn6y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [No Longer Slaves \(Radio Version\) \[feat\. Jonathan David Helser & Melissa Helser\]](https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0) | 4:07 | 2020-07-23 | 2022-07-29 |

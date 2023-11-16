@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,343 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,412 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 39 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 40 | [All Better](https://open.spotify.com/track/2DfZp0Ho5MhZwTANjHtlHe) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [All Better](https://open.spotify.com/album/0yEXMoT2VV4BZIZZIJXPEr) | 3:14 |
 | 41 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
-| 42 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 |
+| 42 | [Miracle](https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:59 |
 | 43 | [A Part Is Better Than Zero](https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0) | [Lessons That We Swear to Keep](https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt) | 2:51 |
 | 44 | [Camp Orchestra / Metallic Taste \- Medley \| Live in Santa Ana \| 2023](https://open.spotify.com/track/0txQHeeC5Jt9w42HujbLiP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Camp Orchestra / Metallic Taste \(Medley \| Live in Santa Ana \| 2023\)](https://open.spotify.com/album/3sojjjpBVjBNhsgSh5aOXl) | 7:53 |
 | 45 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |

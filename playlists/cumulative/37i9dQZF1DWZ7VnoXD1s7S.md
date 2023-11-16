@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-161 songs - 7 hr 28 min
+162 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Ache](https://open.spotify.com/track/3tOx7feTSndrn23Pv5LKjX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 1:22 | 2022-11-07 | 2023-06-13 |
 | [Agony \- Instrumental](https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm) | 5:01 | 2023-08-30 | 2023-11-13 |
 | [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2023-08-16 | 2023-09-25 |
-| [Agony \- Instrumental](https://open.spotify.com/track/0gxzHDIO2IhhgV5j8lfRn2) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Agony \(Instrumental\)](https://open.spotify.com/album/5chMOIdoi8SM5SGTLZCF3Y) | 5:01 | 2023-08-30 |  |
+| [Agony \- Instrumental](https://open.spotify.com/track/0gxzHDIO2IhhgV5j8lfRn2) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Agony \(Instrumental\)](https://open.spotify.com/album/5chMOIdoi8SM5SGTLZCF3Y) | 5:01 | 2023-08-30 | 2023-11-16 |
+| [Agony \- Instrumental](https://open.spotify.com/track/1nO49nVkqlqOHU8mrjAVWu) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Agony \(Instrumental\)](https://open.spotify.com/album/6WF6Q0Ihfc5ZmbxICIuRnN) | 5:01 | 2023-08-30 |  |
 | [Agony \- Remix](https://open.spotify.com/track/0YsQ6dgNby7nascEb12v6G) | [NVBR](https://open.spotify.com/artist/51U1llIay9sKYGWqp76q5U) | [Agony \(Remix\)](https://open.spotify.com/album/5Xj154q0kijKbdlMVAwalw) | 5:01 | 2023-08-30 | 2023-09-30 |
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2022-12-21 | 2023-02-02 |
 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 | 2022-12-21 |  |

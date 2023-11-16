@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,821 likes - 123 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,877 likes - 123 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 39 | [Good Time To Me \(feat\. Lainey Wilson\) \(Live From Nashville's Big Bash\)](https://open.spotify.com/track/4skqcqegMq41BXYpJp0C9Z) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/1vsE3mQE0OdmBv2VfMhjs1) | 3:02 |
 | 40 | [Wish for the World \- Live from Nashville](https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:39 |
 | 41 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
-| 42 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Baba O'Riley \(Live at Fenway Park, Boston, MA, 08.20.2016\)](https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY) | 7:51 |
+| 42 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 7:51 |
 | 43 | [Back Where I Come From \- Live](https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 4:45 |
 | 44 | [Creek Will Rise \- Live](https://open.spotify.com/track/0bZiAP7fav7CS9Ay3Zgv70) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Live\)](https://open.spotify.com/album/4Uf3xJWBGRwrRfJyBb2x0m) | 3:53 |
 | 45 | [Beautiful Crazy \(feat\. Leon Bridges\) \- Live](https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beautiful Crazy \(feat\. Leon Bridges\) \[Live\]](https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO) | 3:06 |

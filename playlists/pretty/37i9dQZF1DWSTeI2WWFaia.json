@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Westside Gunn",
-  "num_followers": 1617795,
+  "num_followers": 1617844,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -302,15 +302,11 @@
         {
           "name": "Westside Gunn",
           "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 171192,
-      "name": "Suicide in Selfridges",
-      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
+      "duration_ms": 107992,
+      "name": "FLYGOD 2x",
+      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -490,11 +486,15 @@
         {
           "name": "Westside Gunn",
           "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 107992,
-      "name": "FLYGOD 2x",
-      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
+      "duration_ms": 171192,
+      "name": "Suicide in Selfridges",
+      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe"
-      },
-      "artists": [
-        {
-          "name": "Millyz",
-          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
-        }
-      ],
-      "duration_ms": 185838,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "beauty supply",
-      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "Runway",
         "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
+    },
+    {
+      "added_at": "2023-11-10 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
+    },
+    {
+      "added_at": "2023-11-10 04:00:00",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "duration_ms": 185838,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 205185,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "SUNDAY DINNER",
         "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 205185,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM"
+    },
+    {
+      "added_at": "2023-11-10 04:00:00",
+      "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
       },
@@ -875,6 +875,46 @@
       "duration_ms": 210624,
       "name": "Slow it Down",
       "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
+    },
+    {
+      "added_at": "2023-11-10 04:00:00",
+      "album": {
+        "name": "Bobby Boucher",
+        "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Bobby Boucher",
+      "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
+    },
+    {
+      "added_at": "2023-11-10 04:00:00",
+      "album": {
+        "name": "California Poppy 3",
+        "url": "https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 111058,
+      "name": "Dandelion Root",
+      "url": "https://open.spotify.com/track/5yKFERRRuX8fxBGnJkFY8o"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -899,22 +939,6 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "California Poppy 3",
-        "url": "https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        }
-      ],
-      "duration_ms": 111058,
-      "name": "Dandelion Root",
-      "url": "https://open.spotify.com/track/5yKFERRRuX8fxBGnJkFY8o"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -959,30 +983,6 @@
       "duration_ms": 137945,
       "name": "Harlem World 97 (feat. Estelle)",
       "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Start Finish Repeat",
-        "url": "https://open.spotify.com/album/0jFuO3558SHKGCMOiGyU8n"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Termanology",
-          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 186136,
-      "name": "Houston BBQ (feat. Bun B)",
-      "url": "https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh"
     }
   ],
   "unique_name": "Spilled Ink",

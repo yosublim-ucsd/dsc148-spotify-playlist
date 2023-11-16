@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-144 songs - 10 hr 4 min
+145 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [10,000 Reasons \(Bless The Lord\)](https://open.spotify.com/track/62ESFZYSM6LhMPYbXQGYNx) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/7g1PlQ8FKj3oqvaBHkQTSB) | 2:23 | 2018-02-14 | 2022-07-29 |
 | [1A](https://open.spotify.com/track/7DBHgRCxyDh8G3p62yHd9g) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Monads](https://open.spotify.com/album/2qrEhYgAOyshZHr08hlMaf) | 1:41 | 2018-02-14 | 2023-07-29 |
 | [5am](https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0) | 4:42 | 2023-07-28 | 2023-10-31 |
+| [5am](https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET) | 4:42 | 2023-07-28 |  |
 | [A Dream Familiar](https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD) | [Daniel Jorgensen](https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ) | [A Search for Somewhere Else](https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs) | 2:32 | 2018-02-14 |  |
 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 | 2018-02-14 |  |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2023-07-28 |  |
@@ -48,7 +49,7 @@
 | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U), [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb) | 3:30 | 2023-07-28 |  |
 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 | 2023-07-28 |  |
 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 | 2023-07-28 |  |
-| [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 | 2023-07-28 |  |
+| [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 | 2023-07-28 | 2023-11-16 |
 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 | 2023-07-28 |  |
 | [Good Things](https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Luis Vicens](https://open.spotify.com/artist/3rCr2BPIbxiC5aikVFhPlk) | [Walk with You](https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV) | 6:14 | 2023-07-28 |  |
 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 | 2023-07-28 |  |

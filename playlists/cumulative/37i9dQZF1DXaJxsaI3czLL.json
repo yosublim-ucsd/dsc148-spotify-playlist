@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 303631,
       "name": "Ame ga Yandara",
       "url": "https://open.spotify.com/track/0gQlQ6SjuwbLNdIPGqrXBz"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 253534,
       "name": "Brother",
       "url": "https://open.spotify.com/track/08xTPwrXO0v8LhDmCsI0cC"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 199113,
       "name": "CAREFREE",
       "url": "https://open.spotify.com/track/6RyqEix17XNNzdvhU8FrFK"
@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Deep Blue (feat. \u30ab\u30b3\u30a4\u30df\u30af)",
+        "url": "https://open.spotify.com/album/0CqGadhjfGmQIPY41VaGZs"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        },
+        {
+          "name": "Miku Kakoi",
+          "url": "https://open.spotify.com/artist/5alTj7erIXRIQbrUC2Cv1v"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316381,
+      "name": "Deep Blue - feat. \u30ab\u30b3\u30a4\u30df\u30af",
+      "url": "https://open.spotify.com/track/6Npd95zNGjg4wMhIN1ipDh"
+    },
+    {
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/0WcB8yWpupgALCIrjfBEJG"
       },
@@ -880,7 +902,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 222475,
       "name": "End roll",
       "url": "https://open.spotify.com/track/21IHn3CtFPf3f5XwstNAep"
@@ -1032,6 +1054,24 @@
       "duration_ms": 231772,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/63m3h54z2rge3HTbjGe3Bb"
+    },
+    {
+      "album": {
+        "name": "PALN ROLAN",
+        "url": "https://open.spotify.com/album/4xuF1QxxptPcvHHyX0d3ZC"
+      },
+      "artists": [
+        {
+          "name": "zuni",
+          "url": "https://open.spotify.com/artist/6im7758Y3E6Kf4mJMSNGgG"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "FREEZA",
+      "url": "https://open.spotify.com/track/3fPx4UDwtTK1Qa3VDiYqlv"
     },
     {
       "album": {
@@ -2515,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "YAMI\uff0fYO\uff0fAKE",
+        "url": "https://open.spotify.com/album/43riQ3B9dmCTPmJdKQX8LD"
+      },
+      "artists": [
+        {
+          "name": "noid",
+          "url": "https://open.spotify.com/artist/2fmNCUJ5ne4OgRofGX4iQT"
+        },
+        {
+          "name": "\u6210\u5c71\u5185(sleepy.ab)",
+          "url": "https://open.spotify.com/artist/7CE7DciBrq4HZUSzF5N1CK"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329008,
+      "name": "paradiselost - feat.\u6210\u5c71\u5185(sleepy.ab)",
+      "url": "https://open.spotify.com/track/2t6MxMhjkpVFoJTzWfu0Sv"
+    },
+    {
+      "album": {
         "name": "Kitrist II",
         "url": "https://open.spotify.com/album/2JUW82k0C8jdT6MPuxX4D5"
       },
@@ -2526,7 +2588,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 407080,
       "name": "Parthenon Ginzadoori",
       "url": "https://open.spotify.com/track/1NIcSBsiCg0cfrDAc9O7LV"
@@ -2692,7 +2754,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 237100,
       "name": "Rivulet",
       "url": "https://open.spotify.com/track/4iGGqWrGqEBZdEFqbbG2DB"
@@ -4225,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "Tampopo*2\u25cb2\u25cf",
+        "url": "https://open.spotify.com/album/1TfzynF4HJJ1UsqyOCTlc0"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u5c71\u670b\u5b50",
+          "url": "https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142380,
+      "name": "\u3072\u3068\u308a\u306e\u3072\u304b\u308a",
+      "url": "https://open.spotify.com/track/4XxIEULv9OTSfavusoYSL7"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
@@ -4463,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269301,
+      "name": "\u30af\u30ec\u30a4",
+      "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a7\u30a4\u30af\u30ef\u30fc\u30eb\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
         "url": "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR"
       },
@@ -4492,7 +4590,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 359707,
       "name": "\u30b0\u30c3\u30d0\u30a4\u30fb\u30d9\u30a4\u30d3\u30fc",
       "url": "https://open.spotify.com/track/5clahllWaMb4oN7NwkCoy1"
@@ -5280,7 +5378,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 295899,
       "name": "\u606f\u7d99\u304e",
       "url": "https://open.spotify.com/track/2kgovYj0rviDMAm3NsB54t"
@@ -6532,7 +6630,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 193162,
       "name": "\u967d\u306e\u5149",
       "url": "https://open.spotify.com/track/5sPGdKrfakWBcXjozOzkPA"

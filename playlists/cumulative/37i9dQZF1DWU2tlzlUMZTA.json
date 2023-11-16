@@ -905,6 +905,32 @@
     },
     {
       "album": {
+        "name": "Pippa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3V25WTRWkyGPzP0biJLSWm"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "MC Heam",
+          "url": "https://open.spotify.com/artist/2vukE84hCaAdQrqMoOgW8Y"
+        },
+        {
+          "name": "Krystal",
+          "url": "https://open.spotify.com/artist/1Fhoyry3eSgNnMgkdd01uq"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166002,
+      "name": "Rampage - From \"Pippa\"",
+      "url": "https://open.spotify.com/track/2ZJ6pHT5DWGkZ0Zyl9dJ5f"
+    },
+    {
+      "album": {
         "name": "Bloody Daddy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl"
       },

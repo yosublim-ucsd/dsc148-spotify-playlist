@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMjY1NDAsMDAwMDAwMDA3ZGM1ZGE5NmM2OTFjNGJkNDg4YjYzZjc0NTgyOWRkZg==",
+  "snapshot_id": "MjgzMjY1NDAsMDAwMDAwMDBmM2FkZmZkYzVhYjNkZDgzZTI2NzBkZDQ1N2E2MGRhNA==",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -87,34 +87,46 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Wu Holocron",
-        "url": "https://open.spotify.com/album/0Izk1JE4cBEo3dji3iJQQY"
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
       },
       "artists": [
         {
-          "name": "Metacaum",
-          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
-        },
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 493400,
+      "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "George Stinney Jr.",
+        "url": "https://open.spotify.com/album/2IPkyVo7wOhVaOKZoMftrC"
+      },
+      "artists": [
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
         },
         {
           "name": "RZA",
           "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         },
         {
-          "name": "Jason Greenhart",
-          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
         },
         {
           "name": "ONIONZ BEATZ",
           "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Wu Holocron",
-      "url": "https://open.spotify.com/track/1uGTc59Higw0XZ9vUHedGN"
+      "duration_ms": 182047,
+      "name": "George Stinney Jr.",
+      "url": "https://open.spotify.com/track/3rnuDuBhRwkNYwXtgbQQaH"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -167,22 +179,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
-        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 493400,
-      "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "An Osirian Dream (Og & Theo Parrish Takes)",
         "url": "https://open.spotify.com/album/1PlNpjvS526hxb44ffidDH"
       },
@@ -199,6 +195,26 @@
       "duration_ms": 214199,
       "name": "An Osirian Dream - Beatless version",
       "url": "https://open.spotify.com/track/6YsmUJnu7dD2CQ6CLI2joP"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "20 Min (Lil Uzi Vert Sped Up Version)",
+        "url": "https://open.spotify.com/album/78ZZaxdTTTmYK6Gy2cR91R"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 168404,
+      "name": "20 Min - Lil Uzi Vert Sped Up Version",
+      "url": "https://open.spotify.com/track/4HuCangqyM61nXoyfZzaHg"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -223,22 +239,34 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Futsal Shuffle 2020 (Lil Uzi Vert Sped Up Version)",
-        "url": "https://open.spotify.com/album/1mNz2nESdy12Phzr6WQi9D"
+        "name": "Wu Holocron",
+        "url": "https://open.spotify.com/album/0Izk1JE4cBEo3dji3iJQQY"
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "ONIONZ BEATZ",
+          "url": "https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM"
         }
       ],
-      "duration_ms": 151857,
-      "name": "Futsal Shuffle 2020 - Lil Uzi Vert Sped Up Version",
-      "url": "https://open.spotify.com/track/1ONh4PLY63wOVZLZSNyHBm"
+      "duration_ms": 188160,
+      "name": "Wu Holocron",
+      "url": "https://open.spotify.com/track/1uGTc59Higw0XZ9vUHedGN"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -383,6 +411,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Neighbors",
+        "url": "https://open.spotify.com/album/5mU4UlDKgQr6vfg9ONiDfK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Neighbors",
+      "url": "https://open.spotify.com/track/5FhskiM8UA8gDiRBbGbvcE"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Demon Muppy",
         "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
       },
@@ -411,6 +459,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "The Messy EP",
+        "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
+      },
+      "artists": [
+        {
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2RFej8NhyS655ukYAFr0XN"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Asteroids",
         "url": "https://open.spotify.com/album/4osw7iYvgvJuMpPZqJUgC7"
       },
@@ -427,42 +491,6 @@
       "duration_ms": 155179,
       "name": "Asteroids",
       "url": "https://open.spotify.com/track/1jtM7Xnl89XD1FgANm7qYs"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Neighbors",
-        "url": "https://open.spotify.com/album/5mU4UlDKgQr6vfg9ONiDfK"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Neighbors",
-      "url": "https://open.spotify.com/track/5FhskiM8UA8gDiRBbGbvcE"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Messy EP",
-        "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
-      },
-      "artists": [
-        {
-          "name": "Margaux Beylier",
-          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/2RFej8NhyS655ukYAFr0XN"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -583,26 +611,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
         "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
       },
@@ -619,6 +627,26 @@
       "duration_ms": 215682,
       "name": "Only the Young - Steve Perry & Bryce Miller Remix",
       "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -799,26 +827,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Power Them Off",
-        "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
-      },
-      "artists": [
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 400697,
-      "name": "Power Them Off",
-      "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -855,6 +863,26 @@
       "duration_ms": 116293,
       "name": "Better Place (Family Harmony)",
       "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Power Them Off",
+        "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
+      },
+      "artists": [
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 400697,
+      "name": "Power Them Off",
+      "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
     },
     {
       "added_at": "2023-11-10 05:00:00",

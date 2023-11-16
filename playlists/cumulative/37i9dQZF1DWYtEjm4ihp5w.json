@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: ElGrandeToto",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Abduh",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 148383,
       "name": "Chabiba",
       "url": "https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo"
@@ -2556,6 +2556,24 @@
       "duration_ms": 265806,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
+    },
+    {
+      "album": {
+        "name": "Skhoon",
+        "url": "https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179178,
+      "name": "Skhoon",
+      "url": "https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy"
     },
     {
       "album": {

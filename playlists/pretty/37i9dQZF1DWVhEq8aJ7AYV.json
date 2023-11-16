@@ -1,6 +1,6 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 69733,
+  "num_followers": 69770,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 88253,
-      "name": "Tangatutanga",
-      "url": "https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Invisible Girl",
         "url": "https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 190413,
       "name": "I\u2019ll Be Loving You",
       "url": "https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "Surf Mongol",
+      "url": "https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "A-Haunting We Will Go-Go",
-        "url": "https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk"
-      },
-      "artists": [
-        {
-          "name": "The Ghastly Ones",
-          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Haulin' Hearse",
-      "url": "https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Surf Extremo",
         "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 139400,
       "name": "Fuera Ropa",
       "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "A-Haunting We Will Go-Go",
+        "url": "https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk"
+      },
+      "artists": [
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Haulin' Hearse",
+      "url": "https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
         }
       ],
-      "duration_ms": 97200,
-      "name": "Surf Mongol",
-      "url": "https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE"
+      "duration_ms": 88253,
+      "name": "Tangatutanga",
+      "url": "https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+        "name": "Daikaiju",
+        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
       },
       "artists": [
         {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+          "name": "Daikaiju",
+          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
         }
       ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
+      "duration_ms": 506360,
+      "name": "Farewell to Monster Island",
+      "url": "https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Daikaiju",
-        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "Daikaiju",
-          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 506360,
-      "name": "Farewell to Monster Island",
-      "url": "https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m"
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -713,7 +713,7 @@
         }
       ],
       "duration_ms": 223986,
-      "name": "Chamula",
+      "name": "Chamula - (En Vivo En El Multiforo Alicia)",
       "url": "https://open.spotify.com/track/4rl2MSnaN6ba60oMaYOaEW"
     },
     {
@@ -731,22 +731,6 @@
       "duration_ms": 191040,
       "name": "Apache - Stereo",
       "url": "https://open.spotify.com/track/0iZ7IbC5eHHeEVIadW61rT"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Mondo Zombie Boogaloo",
-        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "It's Monster Surfing Time",
-      "url": "https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 116013,
       "name": "Tiki Surf",
       "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Surf Riders from the Swamp Lagoon",
-        "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Popcorno Revenge",
-      "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Surf Party: Best Of The Surfaris - Live!",
         "url": "https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Death Calavera 2.2",
-        "url": "https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW"
+        "name": "Surf Riders from the Swamp Lagoon",
+        "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
       },
       "artists": [
         {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
         }
       ],
-      "duration_ms": 172573,
-      "name": "Vaquero",
-      "url": "https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg"
+      "duration_ms": 154000,
+      "name": "Popcorno Revenge",
+      "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Aquellos Maravillosos 90",
-        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
+        "name": "Death Calavera 2.2",
+        "url": "https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW"
       },
       "artists": [
         {
-          "name": "Doctor Explosion",
-          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+          "name": "Los Elasticos",
+          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
         }
       ],
-      "duration_ms": 142333,
-      "name": "Dra\u0301cula \u201dYe-ye\u201d",
-      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
+      "duration_ms": 172573,
+      "name": "Vaquero",
+      "url": "https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Savage Island!",
+        "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 130479,
+      "name": "Lord Hunt Surf Party",
+      "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Rock en Espanol, Vol. 1",
-        "url": "https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Hey Lupe",
-      "url": "https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Sonido Bestia",
         "url": "https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc"
       },
@@ -991,18 +975,34 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Savage Island!",
-        "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
+        "name": "Aquellos Maravillosos 90",
+        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
       },
       "artists": [
         {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
         }
       ],
-      "duration_ms": 130479,
-      "name": "Lord Hunt Surf Party",
-      "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
+      "duration_ms": 142333,
+      "name": "Dra\u0301cula \u201dYe-ye\u201d",
+      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Rock en Espanol, Vol. 1",
+        "url": "https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Hey Lupe",
+      "url": "https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Daikaiju",
-        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
-      },
-      "artists": [
-        {
-          "name": "Daikaiju",
-          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "The Trouble With Those Mothra Girls",
-      "url": "https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Surf Extremo",
         "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Jet Set",
-        "url": "https://open.spotify.com/album/78GXYcIUJryEegdJksbQ2i"
+        "name": "Daikaiju",
+        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
       },
       "artists": [
         {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+          "name": "Daikaiju",
+          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
         }
       ],
-      "duration_ms": 209453,
-      "name": "New Siberia",
-      "url": "https://open.spotify.com/track/6Pc50RJY1VmPT8AowAvQwE"
+      "duration_ms": 209746,
+      "name": "The Trouble With Those Mothra Girls",
+      "url": "https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/78GXYcIUJryEegdJksbQ2i"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "New Siberia",
+      "url": "https://open.spotify.com/track/6Pc50RJY1VmPT8AowAvQwE"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "\u00a1Puedes O No Puedes!",
         "url": "https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 132360,
       "name": "Lancha Con Fondo De Cristal",
       "url": "https://open.spotify.com/track/3y0nZ0vHHBhmqRdYuz0DNV"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Bomber Man",
+        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 134443,
+      "name": "Bomber Man",
+      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1187,38 +1203,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Guitars In Orbit",
-        "url": "https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc"
-      },
-      "artists": [
-        {
-          "name": "Los Twang! Marvels",
-          "url": "https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL"
-        }
-      ],
-      "duration_ms": 123107,
-      "name": "Swan's Lake",
-      "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Bomber Man",
-        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 134443,
-      "name": "Bomber Man",
-      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Canciones Basura",
         "url": "https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 171080,
       "name": "Abuela Zombie",
       "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Guitars In Orbit",
+        "url": "https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc"
+      },
+      "artists": [
+        {
+          "name": "Los Twang! Marvels",
+          "url": "https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL"
+        }
+      ],
+      "duration_ms": 123107,
+      "name": "Swan's Lake",
+      "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"
     },
     {
       "added_at": "2023-07-28 06:00:00",

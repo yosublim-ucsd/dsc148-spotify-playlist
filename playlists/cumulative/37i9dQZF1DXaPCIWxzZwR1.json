@@ -9863,6 +9863,28 @@
     },
     {
       "album": {
+        "name": "fault in the stars",
+        "url": "https://open.spotify.com/album/1iOQat5AF7YwqkVBmHdcNt"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "fault in the stars",
+      "url": "https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo"
+    },
+    {
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },

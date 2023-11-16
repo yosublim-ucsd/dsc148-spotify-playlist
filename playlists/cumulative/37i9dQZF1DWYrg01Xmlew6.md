@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-255 songs - 11 hr 56 min
+256 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [300](https://open.spotify.com/track/6sGjCLGlRhFrPJ54i5b343) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [300](https://open.spotify.com/album/3Hya24KHiKeSDruZiZRw84) | 2:18 | 2023-10-26 |  |
 | [365 ANDROMEDA](https://open.spotify.com/track/0Sj67WJfyuGp06ABJH0B7M) | [Dome Flame](https://open.spotify.com/artist/5QWbGP2dTpUGHzxR6g0YLq), [Flyboy](https://open.spotify.com/artist/4UvqRWkkxG8KbXYzmxEYgJ), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [365 ANDROMEDA](https://open.spotify.com/album/5ZfoFzsKrOUJf0Ma2FBPRQ) | 3:45 | 2023-09-28 | 2023-10-13 |
 | [64 Bare](https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [64 Bare](https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj) | 2:41 | 2023-04-20 | 2023-05-12 |
+| [A VUO FRNÌ](https://open.spotify.com/track/0ZNZzAfNAqTi6zvHmfcIp9) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [A VUO FRNÌ](https://open.spotify.com/album/2uZtsCmnf5aG7N70iTnsji) | 2:59 | 2023-11-15 |  |
 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 | 2022-11-10 |  |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-10 | 2022-05-13 |
 | [Addo Staje](https://open.spotify.com/track/3AE8w0nzeosiLXfXRVQOXg) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Addo Staje](https://open.spotify.com/album/1nAiRosddjANStcOVnGUxF) | 3:15 | 2023-05-04 | 2023-06-02 |
@@ -233,7 +234,7 @@
 | [Tetti \(feat\. Yung Snapp\)](https://open.spotify.com/track/7iJ95DAak22eCvQMLt44pB) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Tetti \(feat\. Yung Snapp\)](https://open.spotify.com/album/6qlwBaYchelwWoYPJkuQ0B) | 2:42 | 2022-05-10 | 2022-07-08 |
 | [The Prayer](https://open.spotify.com/track/2a15qzOY3CVCPD5b79EmB1) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:31 | 2022-05-10 | 2022-05-17 |
 | [TIK TOK](https://open.spotify.com/track/20t5iixTDSQq5jzl1DO5pQ) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [TIK TOK](https://open.spotify.com/album/3HzyU4PxIww2bPHiqnGblG) | 2:39 | 2022-06-02 | 2022-07-08 |
-| [Tip Tap](https://open.spotify.com/track/01HIRt67ZPMDfNNByTdw88) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ), [GIA](https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq) | [Tip Tap](https://open.spotify.com/album/2ZkmQGzySkO7KEzUF6lYlL) | 2:51 | 2023-11-02 |  |
+| [Tip Tap](https://open.spotify.com/track/01HIRt67ZPMDfNNByTdw88) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ), [GIA](https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq) | [Tip Tap](https://open.spotify.com/album/2ZkmQGzySkO7KEzUF6lYlL) | 2:51 | 2023-11-02 | 2023-11-16 |
 | [TOP BOY ⨳ \(con GEOLIER\)](https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 2:12 | 2022-05-10 | 2023-01-06 |
 | [TOP GAMMA \(feat\. Vettosi\)](https://open.spotify.com/track/3jRMMZ9mWADGUFJCCpN8hU) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:49 | 2023-04-13 | 2023-04-28 |
 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 | 2022-05-10 |  |

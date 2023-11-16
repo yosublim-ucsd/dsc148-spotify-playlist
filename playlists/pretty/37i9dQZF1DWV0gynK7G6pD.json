@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Anne Sophie Mutter",
-  "num_followers": 694836,
+  "num_followers": 695061,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZlOWIwMmYyOGIzYmI2Y2JkY2Q4YTdmNzExZWJhYjU0MjgzN2Fj",
+  "snapshot_id": "MCxkOGRkNDhkNGNhOTJlZjY3OTI0MjgzN2M0NzQ3N2NjMDYxODY0Mjlj",
   "tracks": [
     {
       "added_at": "2023-11-10 04:00:00",
@@ -115,30 +115,6 @@
       "duration_ms": 107906,
       "name": "Frost - Grand Piano",
       "url": "https://open.spotify.com/track/2yin84KZ18N91DMrUj10Rz"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Mascagni: Cavalleria Rusticana, Intermezzo Sinfonico",
-        "url": "https://open.spotify.com/album/2LOY9WloyPv6u3O9UDcyd1"
-      },
-      "artists": [
-        {
-          "name": "Pietro Mascagni",
-          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
-        },
-        {
-          "name": "Balthasar Neumann Orchestra",
-          "url": "https://open.spotify.com/artist/5F0V8h4fbQoEmPKHZgGnY2"
-        },
-        {
-          "name": "Thomas Hengelbrock",
-          "url": "https://open.spotify.com/artist/0CaXtI4s9EspCrxtchb1fu"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Cavalleria Rusticana: Intermezzo Sinfonico",
-      "url": "https://open.spotify.com/track/30kBUDr1wGoLuCwQgCKqwR"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -775,7 +751,7 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "A Ceremony of Carols",
+        "name": "A Ceremony of Carols \u2013 This Little Babe",
         "url": "https://open.spotify.com/album/2KGrccOljGq5LI51a26pa0"
       },
       "artists": [
@@ -793,7 +769,7 @@
         }
       ],
       "duration_ms": 85350,
-      "name": "A Ceremony of Carols",
+      "name": "A Ceremony of Carols \u2013 This Little Babe",
       "url": "https://open.spotify.com/track/3iUfj9fwFmDvjhaCXuqAAY"
     },
     {
@@ -936,24 +912,16 @@
       },
       "artists": [
         {
-          "name": "Michael Praetoruis",
-          "url": "https://open.spotify.com/artist/4MkFqzvQ2mtdKOiCEND8H1"
+          "name": "Michael Praetorius",
+          "url": "https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2"
         },
         {
-          "name": "Mirjam-Luise M\u00fcnzel",
-          "url": "https://open.spotify.com/artist/2iCQjkOzOZ2cDGpgTNutTy"
-        },
-        {
-          "name": "Aileen Henry",
-          "url": "https://open.spotify.com/artist/4dXb8D3FwyQ0mJonNhYA06"
-        },
-        {
-          "name": "Toby Carr",
-          "url": "https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3"
+          "name": "Lux Musicae London",
+          "url": "https://open.spotify.com/artist/3ngZeokwNSWZHGiOgDKolb"
         }
       ],
       "duration_ms": 95675,
-      "name": "From Terpsichore, Musarum Aoniarum,, Pub. 1612: Bransle de la Torche XV",
+      "name": "Bransle de la Torche (Arr. for Recorder, Lute & Harp by Mirjam-Luise M\u00fcnzel): Bransle de la Torche (Arr. for Recorder, Lute & Harp by Mirjam-Luise M\u00fcnzel)",
       "url": "https://open.spotify.com/track/3VBa1t5YuTPZvhqVaZpMnp"
     },
     {

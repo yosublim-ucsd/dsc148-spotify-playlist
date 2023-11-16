@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 168000,
       "name": "Banan Melon Kiwi & Citron",
       "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
@@ -11402,7 +11402,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 202954,
       "name": "Har Dig",
       "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
@@ -18995,6 +18995,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
         "name": "My Sister's Crown",
         "url": "https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp"
       },
@@ -22362,7 +22380,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 121219,
       "name": "RID MIG SOM EN DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"

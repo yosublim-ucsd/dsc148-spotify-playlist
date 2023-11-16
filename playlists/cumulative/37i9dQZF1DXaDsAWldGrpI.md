@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-139 songs - 9 hr 48 min
+140 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [All About Tonight \- Live](https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:39 | 2021-07-22 |  |
 | [American Honey \- Live](https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:43 | 2021-07-22 |  |
 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 | 2021-07-22 |  |
-| [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Baba O'Riley \(Live at Fenway Park, Boston, MA, 08.20.2016\)](https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY) | 7:51 | 2023-10-27 |  |
+| [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 7:51 | 2023-11-10 |  |
+| [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Baba O'Riley \(Live at Fenway Park, Boston, MA, 08.20.2016\)](https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY) | 7:51 | 2023-10-27 | 2023-11-16 |
 | [Back Where I Come From \- Live](https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 4:45 | 2021-07-22 |  |
 | [Beautiful Crazy \(feat\. Leon Bridges\) \- Live](https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beautiful Crazy \(feat\. Leon Bridges\) \[Live\]](https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO) | 3:06 | 2021-07-22 |  |
 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 | 2021-07-22 |  |

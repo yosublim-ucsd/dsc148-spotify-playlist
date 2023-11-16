@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Goldie Boutilier
 
-508 songs - 1 day 7 hr 20 min
+509 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Broken Token](https://open.spotify.com/track/2zYDk8l0CJApb7hUNRAFve) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 2:38 | 2022-10-28 | 2022-11-13 |
 | [Bubba Shot the Jukebox](https://open.spotify.com/track/7I2GxY2DVhw63KjUBg0WvZ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 2](https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ) | 3:08 | 2021-12-17 | 2022-03-12 |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2022-11-25 |  |
-| [Bury Me in My Hometown](https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Bury Me In My Hometown](https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX) | 3:35 | 2023-06-30 |  |
+| [Bury Me in My Hometown](https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Bury Me In My Hometown](https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX) | 3:35 | 2023-06-30 | 2023-11-16 |
+| [Bury Me in My Hometown](https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:35 | 2023-11-10 |  |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2022-04-08 | 2022-08-20 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 | 2022-04-09 |
 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 | 2023-04-28 |  |

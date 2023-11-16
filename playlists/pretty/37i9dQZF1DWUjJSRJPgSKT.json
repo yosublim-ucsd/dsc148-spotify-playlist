@@ -1,6 +1,6 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 20375,
+  "num_followers": 20568,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-26 08:13:20",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 442173,
-      "name": "Scrapple From The Apple - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7"
-    },
-    {
-      "added_at": "2023-10-26 08:13:20",
-      "album": {
         "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
         "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 428373,
       "name": "Salt Peanuts",
       "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
+    },
+    {
+      "added_at": "2023-10-26 08:13:20",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 442173,
+      "name": "Scrapple From The Apple - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7"
     },
     {
       "added_at": "2023-10-26 08:13:20",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-10-26 08:13:20",
       "album": {
+        "name": "The Best Of Horace Silver",
+        "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
+        }
+      ],
+      "duration_ms": 435560,
+      "name": "Nutville",
+      "url": "https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo"
+    },
+    {
+      "added_at": "2023-10-26 08:13:20",
+      "album": {
         "name": "Here Comes Louis Smith (Remastered)",
         "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 401560,
       "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
-    },
-    {
-      "added_at": "2023-10-26 08:13:20",
-      "album": {
-        "name": "The Best Of Horace Silver",
-        "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        },
-        {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
-        }
-      ],
-      "duration_ms": 435560,
-      "name": "Nutville",
-      "url": "https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo"
     },
     {
       "added_at": "2023-10-26 08:13:20",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-26 08:13:20",
       "album": {
-        "name": "Song For My Father",
-        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 370626,
-      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
-    },
-    {
-      "added_at": "2023-10-26 08:13:20",
-      "album": {
         "name": "Now He Sings, Now He Sobs",
         "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 830000,
       "name": "Steps-What Was - Digitally Remastered",
       "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
+    },
+    {
+      "added_at": "2023-10-26 08:13:20",
+      "album": {
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 370626,
+      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
     },
     {
       "added_at": "2023-10-26 08:13:20",

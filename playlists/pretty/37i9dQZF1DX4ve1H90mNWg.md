@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="spotify:artist:44JW18XzNr86kKNWJq8eg1">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,344 likes - 67 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,378 likes - 67 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

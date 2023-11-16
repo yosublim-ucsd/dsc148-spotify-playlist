@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,267 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,263 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 22 | [put me back together](https://open.spotify.com/track/2ABe8nKeaF0XMGhusX5VYr) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [put me back together](https://open.spotify.com/album/1JafWAXlaQAxT7M2TVU9aB) | 3:38 |
 | 23 | [MY LUV](https://open.spotify.com/track/70n1xQFzzWiOecwe7d9zTa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MY LUV](https://open.spotify.com/album/0REbM9wwrpALt47XRDI5jc) | 2:32 |
 | 24 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 |
-| 25 | [Poduszka](https://open.spotify.com/track/4d9jglP0b8TlQN9fOOAdLd) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/1nwwoJavMoYDULwVqyn51W) | 3:44 |
+| 25 | [Poduszka](https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv) | 3:44 |
 | 26 | [It Wasn't Love](https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:11 |
 | 27 | [LOML](https://open.spotify.com/track/1vrX6ySkCac6WIUGlPptaz) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [LOML](https://open.spotify.com/album/2q2FBCq3gMZ46JF1kuBWJC) | 2:30 |
 | 28 | [CARAMELLE](https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Infinit](https://open.spotify.com/track/0OfFRnxYnkeebUWDGqorD5) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Infinit](https://open.spotify.com/album/2UCIBmgKHSTQY9qQpvxgDv) | 3:25 |
 | 50 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 |
 
-Snapshot ID: `MCwxZTk1ZWVjODhkZTU5YTliYTczY2NmZWY2ZGMwNjM1YzA4MTkyYmVi`
+Snapshot ID: `MCxhZjY1NjY1MGMyNDZlZWQ5ZGI3ZjAwNDQzM2Y4MDRlYzg2ODY5MTJk`

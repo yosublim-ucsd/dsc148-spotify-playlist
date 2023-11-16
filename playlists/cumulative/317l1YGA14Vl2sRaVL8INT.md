@@ -4,7 +4,7 @@
 
 > Its pop punk, its the best
 
-111 songs - 5 hr 59 min
+112 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 | 2023-02-12 |  |
 | [Low Tide](https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Low Tide](https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV) | 3:37 | 2023-02-12 |  |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-08-04 |  |
+| [Mid\-Life Crisis](https://open.spotify.com/track/4mIPAGHYChqXjnE3iHYisL) | [House Parties](https://open.spotify.com/artist/7KZlkjHhyW3VkxrOVFwGYe) | [Mid\-Life Crisis](https://open.spotify.com/album/2D44ATAYOdYBkz326n0xBR) | 2:56 | 2023-11-14 |  |
 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-16 |  |
 | [Misfits](https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:58 | 2023-10-17 |  |
 | [My Friends Over You](https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks and Stones](https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK) | 3:40 | 2022-11-13 |  |

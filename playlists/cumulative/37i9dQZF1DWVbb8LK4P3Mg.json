@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
+  "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: DeVita)",
   "name": "Christmas K-Pop",
   "tracks": [
     {
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "album": {
         "name": "FNC LAB #2 'It's Christmas'",
         "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
       },
@@ -2216,7 +2234,7 @@
       },
       "artists": [
         {
-          "name": "meenoi",
+          "name": "MEENOI",
           "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         },
         {
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 213538,
       "name": "Winter Love",
       "url": "https://open.spotify.com/track/7n4kpBR9G7CG63mpgTL4PG"

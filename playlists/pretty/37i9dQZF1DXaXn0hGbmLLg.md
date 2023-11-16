@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! <a href="spotify:artist:6zWJfH1TTmIqEi7EV35HGr">Pip Blom</a> is EQUAL Netherlands ambassador for November
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,497 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,516 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can Be Your Man](https://open.spotify.com/track/7fyn3XMmB6uxFpMF1DuwoE) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Bobbie](https://open.spotify.com/album/4TIk4RTumnh1BkDboVbUAd) | 3:36 |
-| 2 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
+| 2 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 |
 | 3 | [your girl](https://open.spotify.com/track/3VllMZ9CxrnFxPXheIjjJZ) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [your girl](https://open.spotify.com/album/0XnkQw1MuibGGpvaIVJ7so) | 3:23 |
 | 4 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
 | 5 | [Leef je in mij](https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Leef je in mij](https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV) | 3:16 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 66 | [Sorry dat ik stoor](https://open.spotify.com/track/1otdNSbercygfjKDmtSNTZ) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Sorry dat ik stoor](https://open.spotify.com/album/4d19JlNDJ2OwrGBWETU3rP) | 3:24 |
 | 67 | [Verdwijnen](https://open.spotify.com/track/5zLzSpToBAVDR6a8u4ambI) | [Rosann](https://open.spotify.com/artist/3dE7on3BB65SgLwpiloMsT) | [Verdwijnen](https://open.spotify.com/album/5ZP298nZZ4vNkoXDErzjmd) | 3:51 |
 
-Snapshot ID: `MCxiNDkyODM0MzRiOGEwYTI4N2EzMTVlMjY4YjFjMGZiZWE2YmExMjU5`
+Snapshot ID: `MCwzN2IzMDFlZmY0NmU1NWNjYjUwNGYxMzFhZWU4OGMzN2VmMjAxNzc0`

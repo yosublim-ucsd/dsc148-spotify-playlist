@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: BJ The Chicago Kid
 
-1,763 songs - 3 day 22 hr 0 min
+1,764 songs - 3 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 | 2022-03-04 | 2022-04-16 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-13 | 2022-07-09 |
 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 | 2022-04-01 | 2022-05-14 |
+| [Last Page](https://open.spotify.com/track/3KDPSpHzY5cegiICdgq2l9) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Last Page](https://open.spotify.com/album/5LJAa3XFNU5XQl8OFgC8Mc) | 2:55 | 2023-11-14 |  |
 | [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 | 2023-03-17 | 2023-05-27 |
 | [Late Nights](https://open.spotify.com/track/4Akv7im73zdPuVKwsiqhQS) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights With Jeremih](https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4) | 3:04 | 2022-03-11 | 2022-04-16 |
 | [Late Show](https://open.spotify.com/track/5I3CwhQ0Q5IyHnr1HRAIB3) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Late Show](https://open.spotify.com/album/2GHtbcQZP7exIJ0DmIdudB) | 3:13 | 2023-10-06 | 2023-11-04 |
@@ -1764,7 +1765,7 @@
 | [YOU GOTTA MAN](https://open.spotify.com/track/0pA0yHZ8gMyyoZwDKsOHs4) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [YOU GOTTA MAN](https://open.spotify.com/album/34dGsJB1Nv7hxUu724pUEt) | 3:17 | 2023-05-26 | 2023-07-08 |
 | [you know.](https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [you know.](https://open.spotify.com/album/1URgQgR5u5Fvt4lSf7VuKK) | 3:55 | 2022-07-15 | 2022-07-30 |
 | [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-16 | 2023-02-25 |
-| [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 | 2023-10-27 |  |
+| [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 | 2023-10-27 |  |
 | [You Still Ain't Shit](https://open.spotify.com/track/7soKxyV0lIoh9BlbWmuUBZ) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [You Still Ain't Shit](https://open.spotify.com/album/5i6PTLpU0ge7KC1wrxNnGO) | 2:56 | 2023-05-12 | 2023-06-24 |
 | [You Want It \(Lehla Samia\)](https://open.spotify.com/track/2YC242xwNEvrY5jZEcZl96) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:43 | 2023-10-06 |  |
 | [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 | 2023-10-27 |  |

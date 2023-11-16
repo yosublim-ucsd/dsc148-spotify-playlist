@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 447883,
+  "num_followers": 448217,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+        "name": "Melt Away",
+        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+      "duration_ms": 206500,
+      "name": "I'm a Kid",
+      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -351,18 +347,22 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Melt Away",
-        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 206500,
-      "name": "I'm a Kid",
-      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -659,6 +639,50 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U"
+      },
+      "artists": [
+        {
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Michael Lange",
+          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Sing It Back (Boris Musical Mix) (Edit)",
+      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
         "name": "Don't You Like It?",
         "url": "https://open.spotify.com/album/333qTz81Y5I5u2wO7qZgOA"
       },
@@ -671,6 +695,22 @@
       "duration_ms": 226043,
       "name": "Don't You Like It?",
       "url": "https://open.spotify.com/track/7ztjUaIJRxoAGfIMqn6ijO"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 281381,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -695,22 +735,6 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 281381,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -763,30 +787,6 @@
       "duration_ms": 266906,
       "name": "JOY (God Only Knows)",
       "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
-        "name": "Sing It Back",
-        "url": "https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U"
-      },
-      "artists": [
-        {
-          "name": "Moloko",
-          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
-        },
-        {
-          "name": "Boris Dlugosch",
-          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
-        },
-        {
-          "name": "Michael Lange",
-          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Sing It Back (Boris Musical Mix) (Edit)",
-      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
+        "name": "P r a i s e Y o u u u u",
+        "url": "https://open.spotify.com/album/5dGWA0EWbJFi5GXJKYLCMY"
+      },
+      "artists": [
+        {
+          "name": "leydown n chill",
+          "url": "https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "P r a i s e Y o u u u u",
+      "url": "https://open.spotify.com/track/4XTjYgnaZJT8HmWZqlS9FX"
+    },
+    {
+      "added_at": "2023-10-20 15:30:52",
+      "album": {
         "name": "Currents B-Sides & Remixes",
         "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 204226,
       "name": "Let It Go (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
-    },
-    {
-      "added_at": "2023-10-20 15:30:52",
-      "album": {
-        "name": "Diana (You Don't Even Know)",
-        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Diana (You Don't Even Know)",
-      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
     }
   ],
   "unique_name": "Serotonin",

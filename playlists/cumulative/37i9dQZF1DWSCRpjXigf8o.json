@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/4HQwiXVf1Zl7h7T1rm6DpF"
+      },
+      "artists": [
+        {
+          "name": "the band apart (naked)",
+          "url": "https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231939,
+      "name": "A Name of New Era",
+      "url": "https://open.spotify.com/track/56EJzfod2MjSEimUA1RjAK"
+    },
+    {
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191200,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm"
@@ -636,6 +654,28 @@
       "duration_ms": 222889,
       "name": "Aselestine - Bunker Session",
       "url": "https://open.spotify.com/track/5APOkC9qu8igSKMFnPWuV3"
+    },
+    {
+      "album": {
+        "name": "Ashita Tenki Ni Nare (Cover)",
+        "url": "https://open.spotify.com/album/46oivT9zupslDZBLGCGBKR"
+      },
+      "artists": [
+        {
+          "name": "Lisa Halim",
+          "url": "https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269506,
+      "name": "Ashita Tenki Ni Nare - Cover",
+      "url": "https://open.spotify.com/track/7E95CpDp0MERvOhcPTDuv0"
     },
     {
       "album": {
@@ -4751,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187056,
+      "name": "Never Saw It Coming",
+      "url": "https://open.spotify.com/track/25HpCBspDVXL1XigIDzLwF"
+    },
+    {
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -4820,7 +4878,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
@@ -5700,7 +5758,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
@@ -6370,6 +6428,24 @@
       "duration_ms": 191207,
       "name": "The Show (with John Legend)",
       "url": "https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz"
+    },
+    {
+      "album": {
+        "name": "The translator sings",
+        "url": "https://open.spotify.com/album/1J0uPRxwn9MqJBX1DU30Qt"
+      },
+      "artists": [
+        {
+          "name": "\u771e\u540d\u5b50 \u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169856,
+      "name": "The translator sings",
+      "url": "https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM"
     },
     {
       "album": {
@@ -8156,7 +8232,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 296874,
       "name": "\u671d\u307e\u3060\u304d",
       "url": "https://open.spotify.com/track/2nOOogBHzumPaaacgXt0jQ"

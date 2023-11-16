@@ -2525,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "vibraciones",
+        "url": "https://open.spotify.com/album/0B9yE3RrtvowCLX10rRf7Y"
+      },
+      "artists": [
+        {
+          "name": "Lev\u00ed Music Worship",
+          "url": "https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8"
+        },
+        {
+          "name": "Leonela Alzate",
+          "url": "https://open.spotify.com/artist/4w4HO7HZlKTGSuUzZw5Yat"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312536,
+      "name": "Vibraciones",
+      "url": "https://open.spotify.com/track/5taIeXVNO1BjAbClgOU8PY"
+    },
+    {
+      "album": {
         "name": "Vibraciones",
         "url": "https://open.spotify.com/album/799WgK4Lch0C8dRdhqRuWt"
       },
@@ -2540,7 +2562,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 312536,
       "name": "Vibraciones",
       "url": "https://open.spotify.com/track/7H40dIIXn7X9LBAgiFfMzy"

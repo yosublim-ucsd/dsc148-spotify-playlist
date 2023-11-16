@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Barry Can't Swim
 
-1,016 songs - 2 day 17 hr 35 min
+1,017 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 | 2023-08-04 | 2023-09-09 |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-10-05 | 2022-11-19 |
 | [Breathe](https://open.spotify.com/track/6t67AAAEnSbWvEXJpEaJpj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Breathe](https://open.spotify.com/album/0I6VuIvd99qFcRRd6tEI4a) | 4:36 | 2022-03-25 | 2022-04-16 |
-| [Breathe \(Looking At Gibraltar\)](https://open.spotify.com/track/6JS37Q5cMDFdWXJq1RKupE) | [Shit Robot](https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ), [Suzi Horn](https://open.spotify.com/artist/4SyhggzJ0Q6JBSGJYoDcxd) | [Breathe \(Looking At Gibraltar\)](https://open.spotify.com/album/5xSUHkQFDIQbeNFnyQG8Ae) | 5:25 | 2023-10-02 |  |
+| [Breathe \(Looking At Gibraltar\)](https://open.spotify.com/track/6JS37Q5cMDFdWXJq1RKupE) | [Shit Robot](https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ), [Suzi Horn](https://open.spotify.com/artist/4SyhggzJ0Q6JBSGJYoDcxd) | [Breathe \(Looking At Gibraltar\)](https://open.spotify.com/album/5xSUHkQFDIQbeNFnyQG8Ae) | 5:25 | 2023-10-02 | 2023-11-16 |
+| [Breathe \(Looking At Gibraltar\)](https://open.spotify.com/track/6UbTEaEPnNVYrJelrjMrWM) | [Shit Robot](https://open.spotify.com/artist/2ZvXaOrinJFZDexa3fWqMZ), [Suzi Horn](https://open.spotify.com/artist/4SyhggzJ0Q6JBSGJYoDcxd) | [5 Songs](https://open.spotify.com/album/6r8OBqu7LrXXo9bxCwd6c1) | 5:25 | 2023-10-06 |  |
 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 | 2023-01-13 | 2023-02-25 |
 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 | 2021-10-08 | 2022-04-21 |
 | [Breathing](https://open.spotify.com/track/4vKEzzWe1W1xYI5foZu15g) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Breathing](https://open.spotify.com/album/1OZYHN7RxP2o8zg45RFF5n) | 4:46 | 2022-07-08 | 2022-08-10 |

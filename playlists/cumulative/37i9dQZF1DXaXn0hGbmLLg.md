@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! <a href="spotify:artist:6zWJfH1TTmIqEi7EV35HGr">Pip Blom</a> is EQUAL Netherlands ambassador for November
 
-1,283 songs - 2 day 19 hr 44 min
+1,284 songs - 2 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1207,7 +1207,8 @@
 | [WATER](https://open.spotify.com/track/1QrG8bIk6vfQwfAFW8kRds) | [Pink Oculus](https://open.spotify.com/artist/0Fgve0HNaQEPK4xupHohzg) | [WATER \|\| AWAY](https://open.spotify.com/album/1pwVKeMKO7Tbdh4CSy4kt3) | 2:59 | 2022-04-05 | 2022-05-04 |
 | [WATER](https://open.spotify.com/track/4cVoyLL8F2I1cMFlVLM7kX) | [Pink Oculus](https://open.spotify.com/artist/0Fgve0HNaQEPK4xupHohzg) | [Before Wisdom](https://open.spotify.com/album/4L7opHDpXv97d0I6goVhGn) | 2:59 | 2022-11-29 | 2023-01-04 |
 | [Water Runs Deep](https://open.spotify.com/track/0JaPrm00oPhftVc89RplxF) | [The Visual](https://open.spotify.com/artist/5bFE4VXlLKRrC8vxZ0QDyh) | [A Night By The Shore](https://open.spotify.com/album/43DnogrpWRccMKsXJ1sNv0) | 4:19 | 2023-01-03 | 2023-02-01 |
-| [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2023-11-07 |  |
+| [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 | 2023-11-07 |  |
+| [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2023-11-07 | 2023-11-16 |
 | [Wave](https://open.spotify.com/track/4kr6mXnmVQcnvx4neg3a9f) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Wave](https://open.spotify.com/album/0auzMRhylMKztAb6sfSb96) | 2:45 | 2022-11-01 | 2022-11-30 |
 | [We Are One](https://open.spotify.com/track/2V8tecmljhjwt3yR5YkkBG) | [Berget Lewis](https://open.spotify.com/artist/56EYDRc4IlffrNZyE5vtOx) | [We Are One](https://open.spotify.com/album/0cOWbZAgniANVwSm336Kku) | 3:18 | 2023-06-06 | 2023-07-05 |
 | [We Both Know](https://open.spotify.com/track/2z5yK2Z8km13oUc19dCViQ) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Tales of Adolescence](https://open.spotify.com/album/6npQ3o3K0LTCe0tAABGg0w) | 4:14 | 2022-04-05 | 2022-05-04 |

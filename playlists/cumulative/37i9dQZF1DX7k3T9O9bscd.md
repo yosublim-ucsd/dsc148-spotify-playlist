@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-293 songs - 23 hr 40 min
+294 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Fanfare for Effective Freedom](https://open.spotify.com/track/3oVZYXAb0rzN6MELLiFXPa) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV) | [The Common Task](https://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco) | 7:21 | 2021-11-12 | 2022-07-29 |
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-11-15 |  |
 | [Fantôme](https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Fantôme](https://open.spotify.com/album/35LP1ys9GIAUAIrk7XT3RZ) | 5:06 | 2021-11-12 | 2022-07-29 |
+| [Feel so Fine](https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO) | [El Goodo](https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7) | [Coyote](https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf) | 3:57 | 2023-08-02 |  |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-04-12 |  |
 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 | 2023-04-07 |  |
 | [Fishbelly 86 Onions](https://open.spotify.com/track/7HiyaZlTkSRWvLrHfBMcqz) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Fishbelly 86 Onions](https://open.spotify.com/album/1rQg83IzxLuBv2WEYywn6c) | 6:02 | 2021-11-12 | 2022-07-29 |
@@ -150,7 +151,7 @@
 | [Kepler\-22b](https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 3:12 | 2022-04-20 |  |
 | [Kepler\-22b](https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Kepler\-22b](https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP) | 3:12 | 2022-04-20 | 2022-09-10 |
 | [La Trampa](https://open.spotify.com/track/4Ap9BAQ88XsI4aC6BN2Fic) | [Fumaça Preta](https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi) | [Impuros Fanáticos](https://open.spotify.com/album/2ZqLBWbe85F9FH8gHANGWE) | 2:52 | 2021-11-12 | 2022-07-14 |
-| [Lady Rachel](https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV) | 5:10 | 2021-11-12 |  |
+| [Lady Rachel](https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV) | 5:10 | 2021-11-12 | 2023-11-16 |
 | [Lady Rachel](https://open.spotify.com/track/6Fg29nXfSaMbz3o83ky0vk) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4HqBey3hq7tSerfBANaDLt) | 5:10 | 2021-11-12 | 2022-07-26 |
 | [Lateral Alice \- Cavern of Anti\-Matter Remix](https://open.spotify.com/track/3p3PuntYTsPXM1sejy8M7x) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Lateral Alice \(Cavern of Anti\-Matter Remix\)](https://open.spotify.com/album/5NzQWhPUS4V1Fv4fajmNw6) | 7:39 | 2021-11-12 | 2022-07-29 |
 | [Laurel](https://open.spotify.com/track/731zJvctJhEbbeLEfFw84L) | [Froth](https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U) | [Duress](https://open.spotify.com/album/0lkk9JOlLxz4w5x9nHjMyb) | 3:15 | 2021-11-12 | 2022-07-27 |

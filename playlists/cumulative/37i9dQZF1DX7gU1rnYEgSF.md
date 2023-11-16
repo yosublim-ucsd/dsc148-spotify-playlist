@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-117 songs - 3 hr 52 min
+118 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Did You See a Dinosaur Today?](https://open.spotify.com/track/4Pygb5NREJO6pXEXdOd6Ah) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr) | 1:51 | 2022-01-14 | 2022-07-29 |
 | [Did You See A Dinosaur Today?](https://open.spotify.com/track/7sOX44wOMbYEJrhdoYkf97) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F) | 1:51 | 2022-07-08 |  |
 | [Dig It Up](https://open.spotify.com/track/7lVGjuWs3hxEK40eAL6cSO) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Dinosaur Songs](https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj) | 1:16 | 2022-01-14 |  |
-| [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 | 2022-01-14 |  |
+| [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 | 2022-01-14 | 2023-11-16 |
+| [Dino Groove](https://open.spotify.com/track/5Um0oX2EdKjq3Jb5lzKZPA) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse](https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B) | 2:39 | 2023-07-28 |  |
 | [Dino Rap](https://open.spotify.com/track/7keBoSqDEfhfTCqW7BzWzw) | [The Kerplunks](https://open.spotify.com/artist/1FtSjJqBHqIdhB4jW1E7Hy) | [Walk On](https://open.spotify.com/album/7C4z3FagwSJYuoBSMJ9T86) | 2:03 | 2022-01-14 |  |
 | [Dino\-dino\-dinosaur](https://open.spotify.com/track/3YUewYkLTxa4Out5wF9bsr) | [Rick & Audrey](https://open.spotify.com/artist/6osU6dIAUuyqlnv9kzly6a) | [Imagine That!](https://open.spotify.com/album/6kE0BtzzksGe9Gsh6f5F3X) | 3:13 | 2022-01-14 |  |
 | [Dinosaur](https://open.spotify.com/track/38a59nQuRmFI5AqXBMWfm6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/35spzlfd5pY8DoEQaVXcS1) | 2:19 | 2022-08-16 |  |

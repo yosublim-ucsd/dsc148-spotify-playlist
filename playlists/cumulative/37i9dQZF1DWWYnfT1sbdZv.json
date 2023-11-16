@@ -849,6 +849,32 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER PLATINUM NUMBER 12 Night Time Wander",
+        "url": "https://open.spotify.com/album/5iS7mC2shkAOJY1dDCFlal"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u3064\u304b\u3055 (CV: \u6cb3\u702c\u8309\u5e0c)",
+          "url": "https://open.spotify.com/artist/5iid9GDrtXuUzOafbU7Yil"
+        },
+        {
+          "name": "\u5927\u69fb\u552f (CV: \u5c71\u4e0b\u4e03\u6d77)",
+          "url": "https://open.spotify.com/artist/7u7eXSWnUjT4sgkPsWcOhs"
+        },
+        {
+          "name": "\u516b\u795e\u30de\u30ad\u30ce (CV: \u4e8c\u30ce\u5bae\u3086\u3044)",
+          "url": "https://open.spotify.com/artist/5vyGBMHNEpUdZMeC7HMxQv"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134253,
+      "name": "Night Time Wander - GAME VERSION",
+      "url": "https://open.spotify.com/track/2kdF6fD6Niagp1wVFMVeK7"
+    },
+    {
+      "album": {
         "name": "Nightwear (GAME VERSION)",
         "url": "https://open.spotify.com/album/1EGexWBe9xmbIr3qh79X23"
       },
@@ -1816,7 +1842,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 252506,
       "name": "\u304a\u306d\u3060\u308a Shall We \u301c?",
       "url": "https://open.spotify.com/track/41JQj4esuC3YHwmXIjFrNo"
@@ -2698,7 +2724,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 127526,
       "name": "\u30cf\u30a4\u30d5\u30a1\u30a4\u2606\u30c7\u30a4\u30ba - GAME VERSION",
       "url": "https://open.spotify.com/track/5L1gFNDOtr9ng76f4XJngo"
@@ -3154,7 +3180,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 123542,
       "name": "\u5171\u9cf4\u4e16\u754c\u306e\u5b58\u5728\u8ad6 - GAME VERSION",
       "url": "https://open.spotify.com/track/2lIxfwIkOeXU8z5bWTUMd4"
@@ -3176,7 +3202,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 128524,
       "name": "\u51f8\u51f9\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc - GAME VERSION",
       "url": "https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V"
@@ -3518,7 +3544,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 124173,
       "name": "\u661f\u74b0\u4e16\u754c - GAME VERSION",
       "url": "https://open.spotify.com/track/05OhMiKu67B7gbCDdX0WPA"

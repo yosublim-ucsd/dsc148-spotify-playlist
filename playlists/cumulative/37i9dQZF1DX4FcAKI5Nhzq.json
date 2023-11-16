@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: ZEROBASEONE",
+  "description": "Future K-Pop hits! Cover: Crush",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 211000,
       "name": "BLOOD ON MY HANDS (Feat. Paul Blanco & DeVita)",
       "url": "https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J"
@@ -4971,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "Fadeaway (From \"GARBAGE TIME\")",
+        "url": "https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "Fadeaway",
+      "url": "https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp"
       },
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 165266,
       "name": "Give You My All",
       "url": "https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk"
@@ -6852,6 +6870,24 @@
       "duration_ms": 201724,
       "name": "HIT YA!",
       "url": "https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Hmm-cheat",
+      "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
     },
     {
       "album": {
@@ -8092,6 +8128,24 @@
       "duration_ms": 228466,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh"
+    },
+    {
+      "album": {
+        "name": "iykyk",
+        "url": "https://open.spotify.com/album/4jd2zPWyPBE1mmX5MSkCH8"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "JUNK FOOD",
+      "url": "https://open.spotify.com/track/5aEdNj5hYLKwSiO9vKK552"
     },
     {
       "album": {
@@ -15744,7 +15798,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 184280,
       "name": "Unbeatable",
       "url": "https://open.spotify.com/track/0m8tFKjRmnFPtTk8URIWw2"

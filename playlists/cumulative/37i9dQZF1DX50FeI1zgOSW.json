@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 203900,
       "name": "Kaadhal Trap",
       "url": "https://open.spotify.com/track/4MQM1DjOGvi65msWaaxT1F"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 182608,
       "name": "Kadhal Nadhi",
       "url": "https://open.spotify.com/track/3kEnnTKurE8gPxO0SbuEgb"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 184269,
       "name": "Kazhivara",
       "url": "https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m"
@@ -1653,6 +1653,50 @@
     },
     {
       "album": {
+        "name": "Love Music",
+        "url": "https://open.spotify.com/album/0h65C4dCFkyDspKG4xvtfy"
+      },
+      "artists": [
+        {
+          "name": "Rejoy",
+          "url": "https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA"
+        },
+        {
+          "name": "Beaulah Jeni",
+          "url": "https://open.spotify.com/artist/6Uf6u12bC3D1qAEsYAnifH"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236054,
+      "name": "Love Music",
+      "url": "https://open.spotify.com/track/6eAndPkRqAOrvVd01wg9LF"
+    },
+    {
+      "album": {
+        "name": "Love Rocket",
+        "url": "https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM"
+      },
+      "artists": [
+        {
+          "name": "Yokesh Ravilla",
+          "url": "https://open.spotify.com/artist/5AhtI9OadgjCSkFvNpUGsR"
+        },
+        {
+          "name": "Sathish K",
+          "url": "https://open.spotify.com/artist/1A5uByEnQ5Qhim7K8CfPhC"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192017,
+      "name": "Love Rocket",
+      "url": "https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA"
+    },
+    {
+      "album": {
         "name": "Maarambari",
         "url": "https://open.spotify.com/album/3av6K5LWeEqxsbeXHxjLxd"
       },
@@ -1676,6 +1720,24 @@
       "duration_ms": 199859,
       "name": "Maarambari",
       "url": "https://open.spotify.com/track/4xPz0QQczOI5mllfIhamHP"
+    },
+    {
+      "album": {
+        "name": "Makal",
+        "url": "https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r"
+      },
+      "artists": [
+        {
+          "name": "Sudeep Palanad",
+          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246823,
+      "name": "Makal",
+      "url": "https://open.spotify.com/track/4HyqWvunNGcNrkz9Ik4Wsh"
     },
     {
       "album": {
@@ -1818,7 +1880,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 64864,
       "name": "Mayangi Porene",
       "url": "https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su"
@@ -1942,7 +2004,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 117482,
       "name": "Montage - From \"Think Specials\"",
       "url": "https://open.spotify.com/track/2aCkQwJH8IiKHPw9q8SGjB"
@@ -2240,7 +2302,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 139534,
       "name": "O Kanmani",
       "url": "https://open.spotify.com/track/68qULgdwekQsDH181V4BQ2"
@@ -2430,7 +2492,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 175415,
       "name": "Poidhana",
       "url": "https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk"
@@ -2576,7 +2638,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 208275,
       "name": "Rain Rain Poi Thola",
       "url": "https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG"
@@ -2842,7 +2904,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 330731,
       "name": "Thamarai Poovilum",
       "url": "https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K"
@@ -3452,7 +3514,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 202085,
       "name": "Vengai Penne",
       "url": "https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT"
@@ -3500,6 +3562,24 @@
       "duration_ms": 193920,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq"
+    },
+    {
+      "album": {
+        "name": "Vittu Pogathae",
+        "url": "https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe"
+      },
+      "artists": [
+        {
+          "name": "Ramana",
+          "url": "https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236284,
+      "name": "Vittu Pogathae",
+      "url": "https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT"
     },
     {
       "album": {

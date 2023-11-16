@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -1726,10 +1744,28 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 141334,
       "name": "ALL MY FELLAS",
       "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
+    },
+    {
+      "album": {
+        "name": "ALL MY FELLAS",
+        "url": "https://open.spotify.com/album/46HTJ6Xxm5Gcm3YRjHxG5G"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141334,
+      "name": "ALL MY FELLAS",
+      "url": "https://open.spotify.com/track/4L19kkt7TytOv3YBAxiHkA"
     },
     {
       "album": {
@@ -2352,6 +2388,24 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
+        "name": "Aprovechame (Cris Mj - ia) IAVERSO #1",
+        "url": "https://open.spotify.com/album/601kUgYSKK1ySoEAtYe03S"
+      },
+      "artists": [
+        {
+          "name": "Shelbyboy",
+          "url": "https://open.spotify.com/artist/3YRHwwzZFs4kEw6kPgJ8zI"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121283,
+      "name": "Aprovechame (Cris Mj - ia) IAVERSO #1",
+      "url": "https://open.spotify.com/track/0RGJntz0mZMZ3R8EODpP5g"
     },
     {
       "album": {
@@ -4731,6 +4785,32 @@
     },
     {
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
         "name": "MAXIDENT",
         "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
       },
@@ -5557,6 +5637,36 @@
     },
     {
       "album": {
+        "name": "Con To (feat. Flow Nasty)",
+        "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        },
+        {
+          "name": "Flow Nasty",
+          "url": "https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132539,
+      "name": "Con To (feat. Flow Nasty)",
+      "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
+    },
+    {
+      "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
       },
@@ -5736,7 +5846,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
@@ -6612,6 +6722,24 @@
     {
       "album": {
         "name": "DEMO #1: Karol",
+        "url": "https://open.spotify.com/album/4HMFl8YviEq8Z0C7TszLnP"
+      },
+      "artists": [
+        {
+          "name": "Flow GPT",
+          "url": "https://open.spotify.com/artist/2qWhwavm7lOwuvM7r22nne"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "DEMO #1: Karol",
+      "url": "https://open.spotify.com/track/4RjAW7vhj1CHEvmBYpbzkE"
+    },
+    {
+      "album": {
+        "name": "DEMO #1: Karol",
         "url": "https://open.spotify.com/album/4VYU93L6ejCG98ybRCn66c"
       },
       "artists": [
@@ -6648,6 +6776,24 @@
     {
       "album": {
         "name": "DEMO #4: BellaK.O.",
+        "url": "https://open.spotify.com/album/4VACPk9Gjlk0d8mmC20sO1"
+      },
+      "artists": [
+        {
+          "name": "Flow GPT",
+          "url": "https://open.spotify.com/artist/2qWhwavm7lOwuvM7r22nne"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463737,
+      "name": "DEMO #4: BellaK.O.",
+      "url": "https://open.spotify.com/track/2eQFpLpV3jteALVz85YKIs"
+    },
+    {
+      "album": {
+        "name": "DEMO #4: BellaK.O.",
         "url": "https://open.spotify.com/album/1niZ8SM288gtSyKw1nYbeK"
       },
       "artists": [
@@ -6665,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "DEMO #5: nostalgIA",
+        "url": "https://open.spotify.com/album/1F4P8ry4GpaSoDpeemyqht"
+      },
+      "artists": [
+        {
+          "name": "Flow GPT",
+          "url": "https://open.spotify.com/artist/2qWhwavm7lOwuvM7r22nne"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222133,
+      "name": "DEMO #5: nostalgIA",
+      "url": "https://open.spotify.com/track/5ne3gNVpzya4jOH8hOmNkL"
+    },
+    {
+      "album": {
         "name": "Demo 5 Nostalgia Intro (Remix)",
         "url": "https://open.spotify.com/album/0ZbmoD40C6v3C0E9OA2yEw"
       },
@@ -6676,7 +6840,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 215055,
       "name": "Demo 5 Nostalgia Intro - Remix",
       "url": "https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj"
@@ -6904,7 +7068,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 262153,
       "name": "Devuelvete (Guaracha)",
       "url": "https://open.spotify.com/track/1SODbO76xvYjobGXyvQA15"
@@ -8263,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/4jRue9Ub0QsHVjbEJiwgSt"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141843,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0"
+    },
+    {
+      "album": {
         "name": "En Argentina Naci",
         "url": "https://open.spotify.com/album/3lKaP0P4vprTqAGFsrvI0G"
       },
@@ -9321,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "Fina Fina",
+        "url": "https://open.spotify.com/album/7BmA1VyVACTm0zfHMKzDJx"
+      },
+      "artists": [
+        {
+          "name": "javiers77",
+          "url": "https://open.spotify.com/artist/6xfV8MD3pk0U7hR2Lwj4eB"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200580,
+      "name": "Fina Fina",
+      "url": "https://open.spotify.com/track/1Wknk6vdXzczOS96JkMwO3"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -9372,6 +9572,24 @@
       "duration_ms": 165831,
       "name": "Five Nights at Freddy's",
       "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
+    },
+    {
+      "album": {
+        "name": "Five Nights at Freddy's (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/01KywY7C5p1Vv2BNyKci34"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136021,
+      "name": "Five Nights at Freddy's",
+      "url": "https://open.spotify.com/track/0DdYEWziPqBCMFniUUEF0G"
     },
     {
       "album": {
@@ -11280,7 +11498,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 221714,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
@@ -12329,6 +12547,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "album": {
         "name": "IT GIRL",
         "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
       },
@@ -13312,7 +13548,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 226841,
       "name": "La Noche Est\u00e1",
       "url": "https://open.spotify.com/track/0NNV0t2jwoLBViOxM6IZHo"
@@ -16370,6 +16606,24 @@
     {
       "album": {
         "name": "Mi Primera Chamba",
+        "url": "https://open.spotify.com/album/4uuMh3vNYfYSMF4FHtZiHb"
+      },
+      "artists": [
+        {
+          "name": "Eladio chambion",
+          "url": "https://open.spotify.com/artist/0pu2rZxTGqnfz1GB6xKKyT"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231156,
+      "name": "Mi Primera Chamba",
+      "url": "https://open.spotify.com/track/7iIdxOrsBlv0D0geWSSOcQ"
+    },
+    {
+      "album": {
+        "name": "Mi Primera Chamba",
         "url": "https://open.spotify.com/album/00hHsVMPA8DuPZBYiLjjqb"
       },
       "artists": [
@@ -16442,6 +16696,28 @@
       "duration_ms": 221492,
       "name": "Mi Se\u00f1orita",
       "url": "https://open.spotify.com/track/2EGzZUkKOz4R0RoaHsvsqP"
+    },
+    {
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Mia Na' Mas",
+      "url": "https://open.spotify.com/track/0QlLclyUHQs859oPptz6qh"
     },
     {
       "album": {
@@ -18132,7 +18408,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 148314,
       "name": "No Me Sueltes",
       "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
@@ -18575,6 +18851,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+    },
+    {
+      "album": {
         "name": "Nube",
         "url": "https://open.spotify.com/album/0Z5z0rLPRVy50eo4jLHrwt"
       },
@@ -18754,6 +19048,28 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "album": {
+        "name": "Oah Oah",
+        "url": "https://open.spotify.com/album/3Xcw4SFQDYAGz73hVZuMv1"
+      },
+      "artists": [
+        {
+          "name": "TobarJeremias",
+          "url": "https://open.spotify.com/artist/5Hg3OJRuPzzWQh1O5Iqdxx"
+        },
+        {
+          "name": "Cristophe MJ",
+          "url": "https://open.spotify.com/artist/2oFvA5382qABQHodDIvSBT"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140461,
+      "name": "Oah Oah",
+      "url": "https://open.spotify.com/track/3RjfJ510iifdsQs06QAELV"
     },
     {
       "album": {
@@ -19184,7 +19500,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -19202,7 +19518,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -20521,6 +20837,24 @@
     },
     {
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY"
       },
@@ -20676,7 +21010,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -21268,7 +21602,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
@@ -21974,7 +22308,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -25152,7 +25486,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 120035,
       "name": "Suenan Los Deportivos",
       "url": "https://open.spotify.com/track/42ONWVMZm7I4ioYLYEO712"
@@ -26563,6 +26897,24 @@
     },
     {
       "album": {
+        "name": "Tiempo Perdido",
+        "url": "https://open.spotify.com/album/6THmfCPSaDteWMmFRyAbJe"
+      },
+      "artists": [
+        {
+          "name": "Prod Socram",
+          "url": "https://open.spotify.com/artist/4U8C0APjzrrDmSDmMFQeRa"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169481,
+      "name": "Tiempo Perdido",
+      "url": "https://open.spotify.com/track/77S5hcSZ92RorzzHbpTtJZ"
+    },
+    {
+      "album": {
         "name": "Final Lap",
         "url": "https://open.spotify.com/album/6GRZoiLnmhmwmdr8klWsyW"
       },
@@ -27236,7 +27588,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 172398,
       "name": "Tu Mama",
       "url": "https://open.spotify.com/track/58XHvZqkFbyQj6EW8CHbMI"
@@ -27608,7 +27960,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 177854,
       "name": "t\u00fa no",
       "url": "https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY"
@@ -28938,7 +29290,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -29028,7 +29380,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 206133,
       "name": "We Got the Moves",
       "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
@@ -29118,7 +29470,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 125062,
       "name": "WHAT U KNOW BOUT LOVE - SHISHI RMX",
       "url": "https://open.spotify.com/track/4KVb9XgRT17hTiCfoGmZka"

@@ -2,7 +2,7 @@
 
 ### [Disney Lullaby](https://open.spotify.com/playlist/37i9dQZF1DX0zmsulfyDdq)
 
-> Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
+> Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
 201 songs - 9 hr 54 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,461 likes - 130 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,446 likes - 130 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 40 | [Pumpkin Party](https://open.spotify.com/track/5QngzdLq2rAyeSfyOqFs97) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Pumpkin Party](https://open.spotify.com/album/74n24toiPe1cSKO962h10V) | 3:00 |
 | 41 | [The Monsters In The House](https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:04 |
 | 42 | [BOO!](https://open.spotify.com/track/2mCzGRsiuMYDZnc9q7N7Hu) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Play Along With Sam: BOO!](https://open.spotify.com/album/7mxuyTQ5lj6KFelI8zv8EW) | 2:04 |
-| 43 | [Witch's Flight](https://open.spotify.com/track/7uWpi2uIxRFdIRY2L3nfsr) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Halloween Bops!](https://open.spotify.com/album/3oQnuPBJdpMs4eirlc6kPZ) | 2:21 |
+| 43 | [Witch's Flight](https://open.spotify.com/track/0xNYsD4YmFrN1C1VaB8coE) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Halloween Bops!](https://open.spotify.com/album/0jysWIywvaFCww3PV8yb3c) | 2:21 |
 | 44 | [The Munsters' Theme](https://open.spotify.com/track/7kuCHonhRzHG1O5EJ5AYBh) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [A Scary Very Halloween](https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick) | 2:06 |
 | 45 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 |
 | 46 | [Peekaboo!](https://open.spotify.com/track/39wGdxjdIChhASl1jE3jvG) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:03 |

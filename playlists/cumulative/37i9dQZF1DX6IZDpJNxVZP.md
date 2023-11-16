@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-213 songs - 9 hr 29 min
+214 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Witch Doctor](https://open.spotify.com/track/36mtpa7tGI9mSB4yIG98Ni) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Spooktacular Hits 2021](https://open.spotify.com/album/2c1lxRoEyvJ7lYYE6X5xvO) | 2:25 | 2022-10-11 | 2022-11-14 |
 | [Witch Doctor](https://open.spotify.com/track/7unF15gTsfTYA99K61gHw5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 2:25 | 2021-08-30 | 2022-07-29 |
 | [Witch Doctor](https://open.spotify.com/track/6MYgiBe0fh6YOr0m5dceRy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 2:40 | 2021-09-10 |  |
-| [Witch's Flight](https://open.spotify.com/track/7uWpi2uIxRFdIRY2L3nfsr) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Halloween Bops!](https://open.spotify.com/album/3oQnuPBJdpMs4eirlc6kPZ) | 2:21 | 2021-09-24 |  |
+| [Witch's Flight](https://open.spotify.com/track/0xNYsD4YmFrN1C1VaB8coE) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Halloween Bops!](https://open.spotify.com/album/0jysWIywvaFCww3PV8yb3c) | 2:21 | 2023-10-27 |  |
+| [Witch's Flight](https://open.spotify.com/track/7uWpi2uIxRFdIRY2L3nfsr) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Halloween Bops!](https://open.spotify.com/album/3oQnuPBJdpMs4eirlc6kPZ) | 2:21 | 2021-09-24 | 2023-11-16 |
 | [Witchy Woman](https://open.spotify.com/track/2ue226HXGINwAKcb9ILXZE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:10 | 2021-09-10 |  |
 | [Yo, Ho! \(A Pirate's Life For Me\) \- From "Pirates of the Caribbean"](https://open.spotify.com/track/2oj1WfUGiBa8eCyMx5D3I5) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 4:44 | 2021-08-30 |  |
 

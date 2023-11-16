@@ -1,6 +1,6 @@
 {
   "description": "Today's Hip-Hop with Jack Harlow, Kodak Black, Lil Durk and The Kid LAROI!",
-  "num_followers": 824172,
+  "num_followers": 824322,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
-        "name": "When I Was Dead",
+        "name": "When I Was Dead (Original Version)",
         "url": "https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc"
       },
       "artists": [
@@ -862,10 +862,6 @@
         {
           "name": "Teejay",
           "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
         }
       ],
       "duration_ms": 163190,

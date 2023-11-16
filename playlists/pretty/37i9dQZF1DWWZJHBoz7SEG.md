@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Rolitas frescas para comenzar el finde con Piso 21, Dua Lipa, Cali y el Dandee y Mon Laferte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,792 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,991 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 34 | [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:15 |
 | 35 | [Triada](https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX), [Vicky MC](https://open.spotify.com/artist/2sF3CgV1tKubYGTUSKPenC), [Crismo VC](https://open.spotify.com/artist/3bsKe2QwZ3UOWugCtde85U) | [Triada](https://open.spotify.com/album/38CP274HAcOq0ajInkz2fH) | 4:29 |
 | 36 | [Aquel Lugar](https://open.spotify.com/track/6AstFrozWZhkWxdSpeMAD2) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Aquel Lugar](https://open.spotify.com/album/3VIT5bCyAGgVdnmrs44bAC) | 3:41 |
-| 37 | [Azótame](https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B) | [Poeta Callejero](https://open.spotify.com/album/2sTSCaVwAZ0mviMAYXsnw7) | 2:38 |
+| 37 | [Azótame](https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Poeta Callejero](https://open.spotify.com/album/2sTSCaVwAZ0mviMAYXsnw7) | 2:38 |
 | 38 | [Muñeca de lego](https://open.spotify.com/track/5Q7yF13xbkKXh2f5rrgYdK) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [BAD BITCHES](https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt) | 2:35 |
 | 39 | [EN VISTO](https://open.spotify.com/track/4vkpX20Y5pDXuF2iIVYb4e) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [EN VISTO](https://open.spotify.com/album/6zwXzb1EHzP8A7pKQJFqwo) | 1:50 |
 | 40 | [te acuerdas de mi?](https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:27 |

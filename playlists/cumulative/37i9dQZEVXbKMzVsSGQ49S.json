@@ -4917,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Crypto",
+        "url": "https://open.spotify.com/album/4eKLs56v2jsS58WmbMKPl9"
+      },
+      "artists": [
+        {
+          "name": "Elias Gaouro",
+          "url": "https://open.spotify.com/artist/4gI1bDpI56YjIkH3xOt0Xx"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145502,
+      "name": "Crypto",
+      "url": "https://open.spotify.com/track/010H0Dcdd14DW0TOFXUkJD"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -6766,7 +6784,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 278593,
       "name": "Ef \u00e9g nenni",
       "url": "https://open.spotify.com/track/6bCu7FswJ645hR55DcuNbl"
@@ -8700,7 +8718,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 252920,
       "name": "FL\u00ddG UPP",
       "url": "https://open.spotify.com/track/2iHiVyfDAm6EjhkGELpqPK"
@@ -13616,7 +13634,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -16338,7 +16356,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -18128,7 +18146,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -18614,7 +18632,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 160909,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/51M3PAEvEU7hwDfInkevgq"
@@ -22297,6 +22315,28 @@
     },
     {
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -22558,7 +22598,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 165812,
       "name": "R\u00fantarinn",
       "url": "https://open.spotify.com/track/2cHBypBYR5pXwBRA3jCxwb"
@@ -24182,7 +24222,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -25968,7 +26008,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 122458,
       "name": "S\u00cdMINN DAU\u00d0UR",
       "url": "https://open.spotify.com/track/6U5MIskPdgu9RXyHmaczp9"
@@ -30932,7 +30972,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 179908,
       "name": "\u00cd s\u00ed\u00f0asta skipti",
       "url": "https://open.spotify.com/track/0s6wluanO3gDy0IU5wyQYW"

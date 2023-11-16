@@ -76,7 +76,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 188759,
       "name": "A New Spring",
       "url": "https://open.spotify.com/track/3cwML7ybj0fRZWMG7fx0vV"
@@ -898,6 +898,24 @@
       "duration_ms": 238706,
       "name": "Fork In The Rhodes",
       "url": "https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK"
+    },
+    {
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4OhdSAUk38vuqxwdWEBLn4"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287675,
+      "name": "FRAGILE",
+      "url": "https://open.spotify.com/track/1BY7dyFvIb0GilbJp7MZ82"
     },
     {
       "album": {

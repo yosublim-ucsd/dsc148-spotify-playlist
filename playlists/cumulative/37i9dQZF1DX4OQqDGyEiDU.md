@@ -4,11 +4,12 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-538 songs - 1 day 6 hr 44 min
+539 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 | 2022-06-30 | 2022-07-04 |
+| [\(Dear My\) Sixteen](https://open.spotify.com/track/1giCRP76c0Qc4dcyzT61Dz) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [OTAKARA ARCA](https://open.spotify.com/album/5GcPD70GI4PKW0HkrqDSRr) | 2:19 | 2023-11-14 |  |
 | [\*ハロー、プラネット。](https://open.spotify.com/track/7ik5ZgXgjOj09MgqoMPZGD) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [ボーカロイドは終末鳥の夢を見るか?](https://open.spotify.com/album/6xLb6DYNftzLt6pgGGOJSM) | 5:01 | 2022-06-14 | 2022-07-26 |
 | [\-ERROR](https://open.spotify.com/track/6hNEOWmQNiZ9ZqJmwdkcl1) | [cillia](https://open.spotify.com/artist/5gDyO3OywEw4lcKIFpspyX) | [\-ERROR](https://open.spotify.com/album/5j1oxI6o9dJbJ0q0z7tiue) | 4:00 | 2022-06-14 | 2022-07-03 |
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2022-08-11 | 2023-01-13 |
@@ -159,7 +160,7 @@
 | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/track/060o2JWYP7I22bHf7ZpWfV) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/album/2kCOKJUHG8bLievJdoXaJy) | 3:28 | 2022-06-09 | 2022-07-27 |
 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 | 2022-07-12 | 2022-07-15 |
 | [Weekender Girl](https://open.spotify.com/track/09Fx51otY6lZNfwHACp57U) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Upload](https://open.spotify.com/album/7LP4mt5orMMrzqiOWIFYT4) | 3:33 | 2022-06-23 | 2022-06-29 |
-| [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 | 2023-04-20 |  |
+| [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 | 2023-04-20 | 2023-11-16 |
 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 | 2022-10-13 |  |
 | [Wonder of Wonder](https://open.spotify.com/track/3Mx9BRnML0cHrdfulaKFfu) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Wonder of Wonder](https://open.spotify.com/album/38tj7VvLfkBEJksWb8DHNP) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 | 2022-06-14 | 2022-06-22 |

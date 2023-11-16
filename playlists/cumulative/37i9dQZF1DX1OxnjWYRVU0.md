@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-450 songs - 19 hr 58 min
+451 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Killing Me Softly \- Cover Extended Mix](https://open.spotify.com/track/1N2P0mUsBSoQDQ9ASJGrSu) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Summer Sounds](https://open.spotify.com/album/4zj2VYjQkaM5atgkcTP26h) | 4:45 | 2022-10-27 | 2023-09-17 |
 | [Killing Me Softly \- Extended](https://open.spotify.com/track/2tvSMaaKNG8vOZcAOAlsQY) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/7MqYR3rW5zMzDzPRXbAipY) | 4:45 | 2022-10-11 | 2023-02-16 |
 | [Killing Me Softly \- Extended](https://open.spotify.com/track/3j6zKAjD2IU3M17yWDeHiJ) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/4EEOdUVTSZE4mKST4BiiRF) | 4:45 | 2022-01-13 | 2022-10-20 |
-| [Killing Me Softly \- Extended Version](https://open.spotify.com/track/3tm4mHMZaU7Z0TWT012gBX) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended Version\)](https://open.spotify.com/album/3E92QT8iZ3F3mKLBUPIn6i) | 4:45 | 2023-06-29 |  |
+| [Killing Me Softly \- Extended](https://open.spotify.com/track/4ABvyiAGo1ui3oynUwwP9M) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/7ePhf2nzQxQ1EleIPJtbVD) | 4:45 | 2023-10-27 |  |
+| [Killing Me Softly \- Extended Version](https://open.spotify.com/track/3tm4mHMZaU7Z0TWT012gBX) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended Version\)](https://open.spotify.com/album/3E92QT8iZ3F3mKLBUPIn6i) | 4:45 | 2023-06-29 | 2023-11-16 |
 | [Killing Me Softly \- Extended Version](https://open.spotify.com/track/4rUEDeURt4qNJUuyiffA10) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended Version\)](https://open.spotify.com/album/7K4Xm4XPKSx3oeM0mjSv7O) | 4:45 | 2022-10-27 | 2023-09-16 |
 | [Kylie](https://open.spotify.com/track/4Tp5xH1a5sGHGvryrQ7ZIa) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/3cCW4JoslwfcrlaAWpWHFq) | 2:51 | 2023-06-29 | 2023-07-01 |
 | [Kylie](https://open.spotify.com/track/5Tvr4qyXcmggPVOxGE1ULS) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/4xW5897r9lZkK2oLAdM1QP) | 2:51 | 2023-06-29 |  |

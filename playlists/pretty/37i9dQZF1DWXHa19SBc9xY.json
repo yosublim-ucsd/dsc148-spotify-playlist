@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 81534,
+  "num_followers": 81712,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Maior Que N\u00f3s",
         "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 172119,
       "name": "Maior Que N\u00f3s",
       "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Estrelas",
+        "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Luiz",
+          "url": "https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Estrelas",
+      "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Estrelas",
-        "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Luiz",
-          "url": "https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Estrelas",
-      "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
     },
     {
       "added_at": "2023-10-20 03:00:00",

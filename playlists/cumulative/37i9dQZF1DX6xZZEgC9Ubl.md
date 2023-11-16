@@ -2,9 +2,9 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood\. Cover: Chri$tian Gate$
+> Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-895 songs - 1 day 16 hr 37 min
+896 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [big talk](https://open.spotify.com/track/4lghbrxf9haQUp6BuRjAEq) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [big talk](https://open.spotify.com/album/0UbnM2uDTcv47CtHZTgdlz) | 2:02 | 2021-03-25 | 2022-07-29 |
 | [Billion Dollar Baby](https://open.spotify.com/track/2xI6cGymymC0cryJhfl71l) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Billion Dollar Baby](https://open.spotify.com/album/0F74gQslQ8AHQFY71JvdmT) | 1:55 | 2021-08-07 | 2022-04-21 |
 | [BirdsFlyStoned](https://open.spotify.com/track/2Sj6iNcBT206zP3ur65nUU) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Alabama Pimpin](https://open.spotify.com/album/50I7v1fJ58BRL9JTnmwDdJ) | 2:37 | 2022-01-14 | 2022-07-29 |
+| [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-15 |  |
 | [Bloody Sneakers](https://open.spotify.com/track/18lLws8BLoDdmN9wsBB1Ww) | [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Bloody Sneakers](https://open.spotify.com/album/4sHghm2chbf8xieNzuMK9U) | 2:28 | 2021-01-15 | 2021-02-07 |
 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 | 2022-02-11 |  |
 | [Bones](https://open.spotify.com/track/107BkuE9vyTubKDDyWmm8y) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Bones](https://open.spotify.com/album/1u3bvQ40q2AMtLoXw0fBu8) | 3:47 | 2022-04-22 |  |

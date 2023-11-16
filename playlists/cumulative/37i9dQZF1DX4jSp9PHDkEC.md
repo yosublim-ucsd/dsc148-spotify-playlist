@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-341 songs - 22 hr 51 min
+342 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2023-01-17 |  |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2023-01-17 |  |
 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 | 2023-01-17 |  |
-| [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 | 2023-01-17 | 2023-10-22 |
+| [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 | 2023-01-17 |  |
 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 | 2023-01-17 | 2023-11-10 |
 | [DIVER](https://open.spotify.com/track/0ZFl3lTd1hPcmC3ibzsNEr) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [I Want The Door To Open](https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl) | 3:01 | 2023-01-17 |  |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2023-01-17 |  |
@@ -93,6 +93,7 @@
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2023-01-17 |  |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2023-01-17 | 2023-10-30 |
 | [Dreams](https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/1tNF8fGMGdCpHnZybCGW0R) | 4:39 | 2023-01-17 | 2023-11-04 |
+| [Dreams](https://open.spotify.com/track/4cqtXFFWc1AZaPw2qX8anQ) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:39 | 2023-01-17 |  |
 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 | 2023-01-17 |  |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-25 |  |
 | [Ella](https://open.spotify.com/track/2gaW5ipLhRzLkDJB9ATZNY) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Ella](https://open.spotify.com/album/07emV4JgFOz8ld0BgVakV1) | 3:07 | 2023-01-17 |  |
@@ -105,7 +106,7 @@
 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2023-01-17 | 2023-11-12 |
 | [Felt](https://open.spotify.com/track/4ZYMSm3o3AO9U2fUPfrU6f) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Cloth](https://open.spotify.com/album/1wjACzJBtfygdPfQbTAwQi) | 3:58 | 2023-06-27 |  |
 | [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 | 2023-01-17 | 2023-11-10 |
-| [Fire in Cairo](https://open.spotify.com/track/71Znjl8mUrHfSg38OQU8bb) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [A Sentimental Education](https://open.spotify.com/album/4jviCKhoJB3Y2F3MA6vLoD) | 3:29 | 2023-01-17 |  |
+| [Fire in Cairo](https://open.spotify.com/track/71Znjl8mUrHfSg38OQU8bb) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [A Sentimental Education](https://open.spotify.com/album/4jviCKhoJB3Y2F3MA6vLoD) | 3:29 | 2023-01-17 | 2023-11-16 |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2023-01-17 |  |
 | [Fisher Island Sound](https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 2:44 | 2023-01-17 |  |
 | [Five Minutes](https://open.spotify.com/track/7ERTi1RsIo6jtM8zaziUlQ) | [Her](https://open.spotify.com/artist/1T2WeXEi0XlZiPpjjDAY0L) | [Her Tape \#1](https://open.spotify.com/album/46Bec3H2EincHIIyyhEsMD) | 3:44 | 2023-01-17 |  |
@@ -120,7 +121,7 @@
 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 | 2023-01-17 |  |
 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 | 2023-01-17 |  |
 | [Goodbye \(feat\. Soap&Skin\) \[Theme from Dark, A Netflix Original Series\]](https://open.spotify.com/track/3wAEhWSx5GvfCkqJ1SPA5S) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Goodbye \(feat\. Soap&Skin\) \[Theme from Dark, A Netflix Original Series\]](https://open.spotify.com/album/04iB0QL1U7VtwMDsbgFlRT) | 4:16 | 2023-01-17 |  |
-| [Grands Boulevards](https://open.spotify.com/track/6lLw86s4tPBSvF9nZVGoCj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:34 | 2023-01-17 |  |
+| [Grands Boulevards](https://open.spotify.com/track/6lLw86s4tPBSvF9nZVGoCj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:34 | 2023-01-17 | 2023-11-16 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2023-01-17 |  |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2023-01-17 |  |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u751f\u547d\u592a\u77ed\u4fc3 \u75db\u592a\u6e05\u695a \u624d\u8b93\u4f60\u8b93\u6211 \u611b\u5230\u7121\u9000\u8def\u3002",
-  "num_followers": 192039,
+  "num_followers": 192056,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 236133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u591c\u8c93",
-        "url": "https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs"
+        "name": "Just Sing It",
+        "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
       },
       "artists": [
         {
-          "name": "Della",
-          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
         }
       ],
-      "duration_ms": 282400,
-      "name": "\u6211\u611b\u4ed6",
-      "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
+      "duration_ms": 248573,
+      "name": "\u8857\u89d2\u7684\u795d\u798f",
+      "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "Just Sing It",
-        "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
+        "name": "\u591c\u8c93",
+        "url": "https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs"
       },
       "artists": [
         {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
         }
       ],
-      "duration_ms": 248573,
-      "name": "\u8857\u89d2\u7684\u795d\u798f",
-      "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
+      "duration_ms": 282400,
+      "name": "\u6211\u611b\u4ed6",
+      "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
     },
     {
       "added_at": "2023-03-31 13:22:19",

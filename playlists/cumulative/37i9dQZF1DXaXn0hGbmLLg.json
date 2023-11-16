@@ -22292,7 +22292,7 @@
     {
       "album": {
         "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
+        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
       },
       "artists": [
         {
@@ -22303,6 +22303,24 @@
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
+    },
+    {
+      "album": {
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"

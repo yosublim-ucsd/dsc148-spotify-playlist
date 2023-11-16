@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 212692,
       "name": "Aangan",
       "url": "https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 267660,
       "name": "Aisa Lagey - Reprise",
       "url": "https://open.spotify.com/track/6rKrjP0W8yNi24vigkhE0A"
@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Haseen Zindagi",
+        "url": "https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Haseen Zindagi",
+      "url": "https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9"
+    },
+    {
+      "album": {
         "name": "Heer Ranjha (Reprise)",
         "url": "https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7"
       },
@@ -1544,6 +1562,32 @@
       "duration_ms": 218763,
       "name": "Jaane Kyun (Reimagined)",
       "url": "https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH"
+    },
+    {
+      "album": {
+        "name": "Rainbow Rishta (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3IXFgyqzSSkwWZAlX03WW1"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Das",
+          "url": "https://open.spotify.com/artist/4qexwHVCNoPsxn0LvwWoSE"
+        },
+        {
+          "name": "Karshni Nair",
+          "url": "https://open.spotify.com/artist/3gh2nrv0WJZLZBMtAtF6V1"
+        },
+        {
+          "name": "Sankalp Kapur",
+          "url": "https://open.spotify.com/artist/40qP0qbcQABkLZnOZD5PYq"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122883,
+      "name": "Jaani Pehchani Si",
+      "url": "https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB"
     },
     {
       "album": {
@@ -2686,7 +2730,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 144000,
       "name": "Nai Lagda",
       "url": "https://open.spotify.com/track/6CfBIO3VC5zVybvTf6zH2V"
@@ -3536,6 +3580,24 @@
       "duration_ms": 195517,
       "name": "Teri Baaton Mein",
       "url": "https://open.spotify.com/track/5juIfRjWCX15RvLD6AKqWr"
+    },
+    {
+      "album": {
+        "name": "TERI TARAF",
+        "url": "https://open.spotify.com/album/5CBVwWEezDX6wJDCB4er4d"
+      },
+      "artists": [
+        {
+          "name": "Reshabh Chhabra",
+          "url": "https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115636,
+      "name": "TERI TARAF",
+      "url": "https://open.spotify.com/track/7IM2LoledPZW7LdphkADIB"
     },
     {
       "album": {

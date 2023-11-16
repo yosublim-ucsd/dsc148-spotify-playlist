@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Riordan
 
-1,340 songs - 3 day 4 hr 42 min
+1,341 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,7 +843,7 @@
 | [Ole](https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen) | 2:38 | 2023-02-17 | 2023-06-10 |
 | [On & On](https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [On & On](https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV) | 2:45 | 2023-09-15 |  |
 | [On & On \- Kevin McKay Remix](https://open.spotify.com/track/4PUpNh8xGyWxjyNB4Wf8ZY) | [Francesco Poggi](https://open.spotify.com/artist/0kLNTRYte4lXSc4deAGDVZ), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [On & On \(Kevin McKay Remix\)](https://open.spotify.com/album/0Loqru4GwLUyDo0t26CaPp) | 2:55 | 2022-05-13 | 2022-07-02 |
-| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 |  |
+| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 | 2023-11-16 |
 | [On My Mind](https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/1JrGKRGG626YiCc6qR18dW) | 3:09 | 2021-11-26 | 2022-04-02 |
 | [On My Own Now \- Acid Dub](https://open.spotify.com/track/77vlyt3PVBnNfHlgW389ic) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [On My Own Now \(feat\. Lady Donli\)](https://open.spotify.com/album/00gnZMx0r1mof84qF9laNf) | 5:11 | 2022-12-28 | 2023-01-06 |
 | [On The Beach \- Eli Brown Remix](https://open.spotify.com/track/2mHsfuHrY40djfLRFVxCm2) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [On The Beach \(Eli Brown Remix\)](https://open.spotify.com/album/1LCjO7MbI7HFAdce5VxnCN) | 3:29 | 2022-12-16 | 2023-03-04 |
@@ -1177,6 +1177,7 @@
 | [The Movement](https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Movement](https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC) | 3:04 | 2023-04-28 | 2023-08-12 |
 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 | 2022-10-28 | 2023-04-01 |
 | [The Records](https://open.spotify.com/track/3yeJpI0m4HAbMVbZspMFgo) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [The Records](https://open.spotify.com/album/6enQqqHf1TgwVe1Zu7Krq1) | 3:28 | 2022-05-13 | 2022-05-28 |
+| [The Rhythm](https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [The Rhythm](https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2) | 2:47 | 2023-11-10 |  |
 | [The Rhythm](https://open.spotify.com/track/00nvluAXKcXmdr4z8HsbHP) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [The Rhythm](https://open.spotify.com/album/5Uvfmx3R1O88Bt6DdZ5ll2) | 3:03 | 2023-04-28 | 2023-07-01 |
 | [THE SHAKER](https://open.spotify.com/track/27QFHjR2LcsSrlV6GVINPP) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [THE STATEMENT PT.2](https://open.spotify.com/album/4a1a97jWktDkgjXnZWq6y8) | 3:29 | 2023-03-03 | 2023-04-24 |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-07-07 |  |

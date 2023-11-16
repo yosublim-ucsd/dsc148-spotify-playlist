@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Tous vos Hits Disney préférés, y compris les chansons de La Petite Sirène.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,173 likes - 88 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,263 likes - 88 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

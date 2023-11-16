@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,371 likes - 61 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,373 likes - 61 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

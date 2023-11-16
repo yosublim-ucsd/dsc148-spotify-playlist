@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-77 songs - 5 hr 40 min
+78 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Liscannor Bay](https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/0gurWRwbN6vQoZe7kJJAwf) | 5:02 | 2021-10-12 | 2022-10-19 |
 | [Liscannor Bay](https://open.spotify.com/track/560IhdGKuEZyrgK9a7wJCG) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/46m6GZTJWRMqQzjJQK5f27) | 5:02 | 2022-03-11 |  |
 | [Lisdoonvarna](https://open.spotify.com/track/05KvSXpXEWd3YCwTPG0xu9) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [On the Road](https://open.spotify.com/album/0pGk5GqEidvPcTratzBAyJ) | 5:06 | 2021-10-12 |  |
+| [Lonely Island](https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Lonely Island](https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8) | 3:58 | 2023-11-14 |  |
 | [Medley: The Recruiting Sergeant / The Rocky Road to Dublin / Galway Races](https://open.spotify.com/track/1boQR0hrVk6rJ7r2JbpvLh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:04 | 2021-10-12 |  |
 | [Molly Malone](https://open.spotify.com/track/1GazB5THk261IzsgVMqBb8) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [Josh White Vol\. 6 \(1944\-1945\)](https://open.spotify.com/album/4c9MAxVq5yNSRsnERU2FpD) | 3:08 | 2021-10-12 | 2022-03-08 |
 | [My Lagan Love](https://open.spotify.com/track/2xIzwZ3R6gHGUQo5lBngG2) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Voice of Ages \(Deluxe Edition\)](https://open.spotify.com/album/6tjF20Xh7kOpkv3rvRU1mt) | 4:27 | 2021-10-12 |  |

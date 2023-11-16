@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: MIHYANG MOON(\ubb38\ubbf8\ud5a5))",
+  "description": "All about Korean Jazz hits & new (Cover: YUJIN KIM(\uae40\uc720\uc9c4))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -704,6 +704,24 @@
       "duration_ms": 579840,
       "name": "Consolation",
       "url": "https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p"
+    },
+    {
+      "album": {
+        "name": "Extraordinary",
+        "url": "https://open.spotify.com/album/0sNQgCPq9IidNOikkedQJ3"
+      },
+      "artists": [
+        {
+          "name": "YUJIN KIM",
+          "url": "https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364213,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/0e0H9w9UvDk5LkqNS4OkSl"
     },
     {
       "album": {

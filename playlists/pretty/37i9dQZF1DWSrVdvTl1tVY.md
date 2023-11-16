@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! SOSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,055 likes - 110 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,157 likes - 110 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 14 | [Take My Hand \(feat\. Josh Barry\)](https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Take My Hand \(feat\. Josh Barry\)](https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc) | 2:51 |
 | 15 | [About You](https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Do That EP](https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa) | 2:43 |
 | 16 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
-| 17 | [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ), [James Jackson](https://open.spotify.com/artist/5pCbypT4B7IpJUqNs5B4Oe), [Simon Bird](https://open.spotify.com/artist/3bVbrTjXzVK4YPRhrwaC3c) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 |
+| 17 | [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 |
 | 18 | [U Won't See Me](https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [U Won't See Me](https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7) | 3:06 |
 | 19 | [Homework](https://open.spotify.com/track/42llopuPT07jtnXsuTuV7u) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Homework](https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N) | 3:34 |
 | 20 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |

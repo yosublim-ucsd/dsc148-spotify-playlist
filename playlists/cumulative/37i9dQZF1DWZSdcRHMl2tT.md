@@ -4,11 +4,12 @@
 
 > Chill house beats for hanging out in the sun.
 
-397 songs - 20 hr 7 min
+401 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10pm](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [10pm](https://open.spotify.com/album/7MJsQ6xb1pxzQxwyjM3FbU) | 2:48 | 2023-02-24 |  |
+| [1927 Swim Club](https://open.spotify.com/track/4G8vy74V2geCTu8YqKL8jq) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [1927 Swim Club](https://open.spotify.com/album/21VtTlfqR3wtiscsOQroOn) | 2:13 | 2023-11-14 |  |
 | [3 ways of summer](https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [3 ways of summer](https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C) | 3:07 | 2022-11-25 | 2023-07-14 |
 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 | 2022-10-28 |  |
 | [A long beat](https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [A long beat](https://open.spotify.com/album/2plRSqTfwrO8q5jS9UTS4B) | 3:05 | 2023-01-20 |  |
@@ -70,6 +71,7 @@
 | [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 | 2023-07-07 |  |
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 | 2022-07-15 |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2022-04-05 | 2022-05-20 |
+| [COCKTAILS & COCONUTS](https://open.spotify.com/track/6WQFL3SRK8eHviCbX6D7xK) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUNGALOW ANTHEM](https://open.spotify.com/album/0SEbWWn9LjHvSMBY4FXCPG) | 2:32 | 2023-11-14 |  |
 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 | 2023-04-28 |  |
 | [Come With Me](https://open.spotify.com/track/2778ucz8lkSP0Efmol7VO0) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Come With Me](https://open.spotify.com/album/5DqD3yuOiuaWyArTzCErwl) | 3:02 | 2022-05-27 | 2022-07-01 |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-04-05 |  |
@@ -236,6 +238,7 @@
 | [mountain](https://open.spotify.com/track/6JtMovP0UgsvVVf1vASe6E) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4GeP2NS4IWAa9gf24uAz6W) | 1:54 | 2023-03-16 | 2023-07-29 |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-04-05 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-04-05 | 2022-07-29 |
+| [Naxos Sunset](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF) | [Pink Villa](https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk) | [Naxos Sunset](https://open.spotify.com/album/4joPms8KMyzOsh9tY4MLdb) | 2:11 | 2023-11-14 |  |
 | [New Begs](https://open.spotify.com/track/4rODkpSqMBFfnBpw9V8Zln) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [New Begs EP](https://open.spotify.com/album/4F3J30MOpILKFohP0IfrFx) | 3:50 | 2022-04-05 | 2022-07-29 |
 | [New Body](https://open.spotify.com/track/25hdCrZ2At7T6rb83Cuqyk) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [SUCIA!](https://open.spotify.com/artist/4phVhN1ZvL8HshQ5UE7Wec) | [Half Moon Bay](https://open.spotify.com/album/1m8EjkInRMWiIxtJLYBfRI) | 4:07 | 2022-08-12 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-05 |  |
@@ -382,6 +385,7 @@
 | [Upside](https://open.spotify.com/track/3xqjgRw2hmbNX3MlKiAmV0) | [Kriz Luna](https://open.spotify.com/artist/4J2cbs2Cl60uWpSxcpnrjV) | [Upside](https://open.spotify.com/album/40f0AIYOvhhmdsQbr6EH2z) | 3:15 | 2022-04-05 |  |
 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 | 2022-04-05 | 2022-05-20 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-05 |  |
+| [Vanilla Perfume](https://open.spotify.com/track/3gn6rpdlKqyrK1tNlGUcd6) | [LE OBAL](https://open.spotify.com/artist/3L04IscPrn4iwZ4WaDO6QL) | [Vanilla Perfume](https://open.spotify.com/album/2y4Lbxsw14QkNW1utgn8hl) | 2:34 | 2023-11-14 |  |
 | [Velleity](https://open.spotify.com/track/4HQ41ym9uibfzg3rDtEYcm) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Velleity](https://open.spotify.com/album/4huMtPAQYTHoD8Rc3ExI3n) | 3:32 | 2022-09-09 |  |
 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2022-08-05 |  |
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2022-04-05 |  |

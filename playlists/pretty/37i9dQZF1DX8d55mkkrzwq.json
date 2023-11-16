@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Electric Slide: with friends...",
-        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
-      },
-      "artists": [
-        {
-          "name": "Electric Slide Music Makers",
-          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
-        }
-      ],
-      "duration_ms": 128426,
-      "name": "Chicken Dance",
-      "url": "https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Play With Me, Sing Along!",
         "url": "https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 170614,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "Electric Slide: with friends...",
+        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
+      },
+      "artists": [
+        {
+          "name": "Electric Slide Music Makers",
+          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
+        }
+      ],
+      "duration_ms": 128426,
+      "name": "Chicken Dance",
+      "url": "https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Do as I'm Doing",
-        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 116956,
-      "name": "Do as I'm Doing",
-      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Chickie Chickie Beat",
         "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 99914,
       "name": "Chickie Chickie Beat",
       "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "Do as I'm Doing",
+        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 116956,
+      "name": "Do as I'm Doing",
+      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Stomp & Clap Dance",
-        "url": "https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Stomp & Clap Dance",
-      "url": "https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Preschool Songs Volume 2",
         "url": "https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 193802,
       "name": "Robot Song",
       "url": "https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "Stomp & Clap Dance",
+        "url": "https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "Stomp & Clap Dance",
+      "url": "https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm"
     }
   ],
   "unique_name": "Dance Challenge",

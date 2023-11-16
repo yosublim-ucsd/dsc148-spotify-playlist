@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "You are a mood, so is this playlist. \u2728 Cover - Shreya Jain, Nakul Chugh\n",
+  "description": "You are a mood, so is this playlist. \u2728 Cover - Kayan",
   "name": "#GRWM Indie",
   "tracks": [
+    {
+      "album": {
+        "name": "52",
+        "url": "https://open.spotify.com/album/06eYyCAXsUb8lPce8m5Kch"
+      },
+      "artists": [
+        {
+          "name": "Kayan",
+          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "52",
+      "url": "https://open.spotify.com/track/2UJR46ZpnWkMsO43n3wup7"
+    },
     {
       "album": {
         "name": "Mimmi",
@@ -748,10 +770,36 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 158446,
       "name": "Noor",
       "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
+    },
+    {
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL"
     },
     {
       "album": {

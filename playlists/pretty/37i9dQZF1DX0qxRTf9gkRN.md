@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Sharon Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,584 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,634 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE?si=qdWK3\-k8R2u1\_TroCpsRWg">Kevin Abstract</a> and the songs that shape his alternative spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,452 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,596 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

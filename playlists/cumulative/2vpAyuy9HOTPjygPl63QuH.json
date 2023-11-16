@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/13elfZOEM1WNulyWofALHI"
+      },
+      "artists": [
+        {
+          "name": "RAFA MOON",
+          "url": "https://open.spotify.com/artist/4KNx3tce4EeLLjuYbNi9LD"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281725,
+      "name": "Back Room",
+      "url": "https://open.spotify.com/track/3Tb9hYVJVEgbriZqU0JKJt"
+    },
+    {
+      "album": {
         "name": "Back To The Basics",
         "url": "https://open.spotify.com/album/2iQVizucef5aQByTnDGF2q"
       },
@@ -6890,6 +6908,28 @@
       "duration_ms": 209523,
       "name": "Driving Slow",
       "url": "https://open.spotify.com/track/3NeEbIDaiOianxnZQhioFl"
+    },
+    {
+      "album": {
+        "name": "Drogas",
+        "url": "https://open.spotify.com/album/28vMnPQEEqDpKgKQBv8Q2v"
+      },
+      "artists": [
+        {
+          "name": "LegacyOfficial",
+          "url": "https://open.spotify.com/artist/4Dx15BmtLeUErq8Q0fJHRU"
+        },
+        {
+          "name": "Quas",
+          "url": "https://open.spotify.com/artist/3hRk5PhwEm3fuZ4mwVJ7ST"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "Drogas",
+      "url": "https://open.spotify.com/track/0ONu0O4p2KOnv1IQysoZvJ"
     },
     {
       "album": {

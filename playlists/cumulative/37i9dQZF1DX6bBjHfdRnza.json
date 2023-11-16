@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Matrefakt. Artwork by Rewina Beshue. ",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Loukeman. Artwork by Rewina Beshue. ",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 232321,
       "name": "0101",
       "url": "https://open.spotify.com/track/3WN5rtYKalSLobWAtEQ51m"
+    },
+    {
+      "album": {
+        "name": "0800 LOVE",
+        "url": "https://open.spotify.com/album/373hFZOZ5coIg1LNhg7YUi"
+      },
+      "artists": [
+        {
+          "name": "suncream",
+          "url": "https://open.spotify.com/artist/6xr2oZh55DpYQ2YJsvuatx"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "0800 LOVE",
+      "url": "https://open.spotify.com/track/1EriyC6kyHFtp43CALI8wO"
     },
     {
       "album": {
@@ -964,7 +982,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 179090,
       "name": "agony",
       "url": "https://open.spotify.com/track/0JvhSZngvrshUUlFCtA6uD"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 181967,
       "name": "Body Beat",
       "url": "https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu"
@@ -3866,6 +3884,28 @@
       "duration_ms": 174005,
       "name": "Bow Street",
       "url": "https://open.spotify.com/track/5hH5wT6OP4rwTYxW5Omk9h"
+    },
+    {
+      "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/1wl4Y5IoChQlo4qjdjZjpj"
+      },
+      "artists": [
+        {
+          "name": "Snoozyshemp",
+          "url": "https://open.spotify.com/artist/0ab0EK87uk5lVcY2HvTfNo"
+        },
+        {
+          "name": "Pixiedustgf",
+          "url": "https://open.spotify.com/artist/0ug1VfREt12POo5WcOfPar"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/3CzTB76dGueXubpR3SKqFg"
     },
     {
       "album": {
@@ -4227,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "Take/Brokenheart",
+        "url": "https://open.spotify.com/album/4DKmiBFFd2JL4msQqcgXlL"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Brokenheart",
+      "url": "https://open.spotify.com/track/5EhOAHzEgh3ZdeZXk0MDAf"
+    },
+    {
+      "album": {
         "name": "Monday In Spoons, Friday At Rooftop",
         "url": "https://open.spotify.com/album/7g1ls2qh4fXqNqzIqQTey1"
       },
@@ -4394,7 +4452,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 235036,
       "name": "C-Quence Of Calamities - Sedef Adasi Remix",
       "url": "https://open.spotify.com/track/7E7LJpIEOCSvdUdYgKP3Cz"
@@ -5810,6 +5868,28 @@
       "duration_ms": 332580,
       "name": "Come Back To Earth",
       "url": "https://open.spotify.com/track/7H0J2Leg2omZxZFwqkdAML"
+    },
+    {
+      "album": {
+        "name": "Worldwide Link-Up",
+        "url": "https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO"
+      },
+      "artists": [
+        {
+          "name": "Dana Lu",
+          "url": "https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj"
+        },
+        {
+          "name": "Taina Rain",
+          "url": "https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K"
     },
     {
       "album": {
@@ -7633,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "Discotheque",
+        "url": "https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "Discotheque",
+      "url": "https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE"
+    },
+    {
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok"
       },
@@ -9356,7 +9454,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 212093,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/0smhYLzS4wSETI2ALFrIXr"
@@ -10894,6 +10992,28 @@
       "duration_ms": 477480,
       "name": "Flip Trix",
       "url": "https://open.spotify.com/track/2IMTDM2V4PIIXsNBnxjNdG"
+    },
+    {
+      "album": {
+        "name": "FLOATING",
+        "url": "https://open.spotify.com/album/4wFUSdJtWsiX8gZ1lvve9T"
+      },
+      "artists": [
+        {
+          "name": "Htet",
+          "url": "https://open.spotify.com/artist/3LQ5d2MM3bji1JwvalqjDD"
+        },
+        {
+          "name": "Ren Carter",
+          "url": "https://open.spotify.com/artist/5SUcV9zgkgubuNxk4MIppv"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "FLOATING",
+      "url": "https://open.spotify.com/track/71XL1ZEVyW1rRTbGUS1VZI"
     },
     {
       "album": {
@@ -14340,7 +14460,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 398766,
       "name": "Hotwing",
       "url": "https://open.spotify.com/track/38GxnU3s0zz0VGUwQrjBYS"
@@ -18844,6 +18964,24 @@
       "duration_ms": 380000,
       "name": "Machines Have Awaken",
       "url": "https://open.spotify.com/track/1SMmmuH3jP0ZtnkmwToLj3"
+    },
+    {
+      "album": {
+        "name": "Hit It / Mad",
+        "url": "https://open.spotify.com/album/5TEkVbo3Bmb6G5TLWu79Ng"
+      },
+      "artists": [
+        {
+          "name": "Natalie Red",
+          "url": "https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113045,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/0Yi4MhBiS0VN5lSmoZOq8N"
     },
     {
       "album": {
@@ -25807,6 +25945,24 @@
     },
     {
       "album": {
+        "name": "Say What You Mean",
+        "url": "https://open.spotify.com/album/2d5iXBbXiKVqyz3agZdGDQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Sabrina The Teenage DJ",
+          "url": "https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306847,
+      "name": "Say What You Mean",
+      "url": "https://open.spotify.com/track/5QxF0MvouQrAzn76VLnF2O"
+    },
+    {
+      "album": {
         "name": "Scoop EP",
         "url": "https://open.spotify.com/album/57g2BXsurXVsaK2TpqkrxU"
       },
@@ -26274,7 +26430,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 330468,
       "name": "She Said",
       "url": "https://open.spotify.com/track/4w6qHqUSwgsE7WDtOqo6u5"
@@ -26716,7 +26872,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 289910,
       "name": "Sky Light",
       "url": "https://open.spotify.com/track/5T09fG328uz3tSc3bK1Tv2"
@@ -29106,7 +29262,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 295111,
       "name": "Take Blue In",
       "url": "https://open.spotify.com/track/3yWcGOtGRdH20PF3YQ2rlI"
@@ -29200,6 +29356,24 @@
       "duration_ms": 178165,
       "name": "Take Me Under",
       "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
+    },
+    {
+      "album": {
+        "name": "Take You Back",
+        "url": "https://open.spotify.com/album/5QC8Vbr0mCpxqCA0fIFFB7"
+      },
+      "artists": [
+        {
+          "name": "Pagan",
+          "url": "https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Take You Back",
+      "url": "https://open.spotify.com/track/0BvGRysvBiEOq6tcamIHyO"
     },
     {
       "album": {
@@ -29398,7 +29572,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 280802,
       "name": "Te Veo En Londres",
       "url": "https://open.spotify.com/track/5qyeYLwayS3ZL9u0nJk16B"
@@ -30320,6 +30494,24 @@
       "duration_ms": 472493,
       "name": "The Siren's Song",
       "url": "https://open.spotify.com/track/6wNUdWMhi6BqpBUR6Ewq02"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Disco",
+        "url": "https://open.spotify.com/album/0xEJNVEI8n8Mo1V4OZ8v9D"
+      },
+      "artists": [
+        {
+          "name": "Suite Simone",
+          "url": "https://open.spotify.com/artist/5ohS7JrlDJKvWFDG9diyip"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170135,
+      "name": "The Sound Of Disco",
+      "url": "https://open.spotify.com/track/5jkFYp3r8ACh3aNDki2oCz"
     },
     {
       "album": {
@@ -31866,7 +32058,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 243720,
       "name": "Unique",
       "url": "https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl"

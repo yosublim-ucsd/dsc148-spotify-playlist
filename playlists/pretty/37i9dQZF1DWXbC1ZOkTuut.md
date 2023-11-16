@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Juan De Ron, Eduardo Laguna, Christian Lara, Nivel, Omar Rodriquez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,425 likes - 176 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,508 likes - 176 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

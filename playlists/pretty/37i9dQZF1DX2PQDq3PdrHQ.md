@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,261 likes - 308 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,971 likes - 308 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 5 | [Travel by Night](https://open.spotify.com/track/0csl0mkkpaPCtMhvm54f4a) | [Itsuju](https://open.spotify.com/artist/3PUVlFHrSamIkjf9UWphev) | [Travel By Night](https://open.spotify.com/album/2caQtRv2tcZTD7fv7P38PA) | 2:20 |
 | 6 | [patterns](https://open.spotify.com/track/2Q9N46Bf109iXeI5xnLxOx) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [patterns](https://open.spotify.com/album/2X07aMD9HEl0tlOTDz5CA0) | 2:56 |
 | 7 | [Moonlight](https://open.spotify.com/track/0lPJh8EP9kStGPLw1IC4a0) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Moonlight](https://open.spotify.com/album/5M9gQ8RqT4Ryqgmf0qv98E) | 2:23 |
-| 8 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 |
+| 8 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 |
 | 9 | [Cozy Cabin](https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Cozy Cabin](https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9) | 2:08 |
 | 10 | [bloom](https://open.spotify.com/track/2xiOB4lyPl1V9901Gv3UDv) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [bloom EP](https://open.spotify.com/album/7aFj2Ju5lZVHRFvYRqNzYp) | 2:12 |
 | 11 | [garden gnomes](https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [garden gnomes](https://open.spotify.com/album/3qtLuyrhyW7G8GXJI9Xly3) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-120 songs - 6 hr 7 min
+122 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Little Soul](https://open.spotify.com/track/00t78SKl7PHj3KfQ54fenL) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 5:41 | 2022-07-22 |  |
 | [Acid Raindrops \- Instrumental](https://open.spotify.com/track/13VTI8Azbyt0HW8XEMZIKY) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 | 2023-03-02 |  |
 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-10 |  |
-| [Amalfi](https://open.spotify.com/track/2mFXGxuPmNSnz8CEiVWPyO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:02 | 2023-09-15 |  |
+| [Amalfi](https://open.spotify.com/track/2mFXGxuPmNSnz8CEiVWPyO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:02 | 2023-09-15 | 2023-11-16 |
 | [ATLiens \- Instrumental](https://open.spotify.com/track/5YvXuk6Jei13V71KSFQ0fs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4PID9ExpAM3SuYCPlBseRv) | 3:41 | 2022-07-22 | 2023-02-01 |
 | [Azisa \- Instrumental](https://open.spotify.com/track/6QGgUrvDvfQVeMlMuVKjQ6) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 2:24 | 2022-10-14 |  |
 | [Azisa \- Instrumental](https://open.spotify.com/track/0YxaVlAixd2nseGIdkoihf) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Azisa \(Instrumental\)](https://open.spotify.com/album/2N50vIkJsXhrNXQuJx0KfC) | 2:26 | 2022-08-19 | 2022-11-20 |
@@ -66,6 +66,7 @@
 | [Jam On It](https://open.spotify.com/track/08OHpvm1MmHuWZnLZrRnxO) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [BEATS FROM THE 90's](https://open.spotify.com/album/5gmtiIxZ1cYc40JpMLTMK0) | 3:13 | 2022-07-22 |  |
 | [John Gotti \- Instrumental](https://open.spotify.com/track/1cGkCqQaLjuMSpQeKEUhXh) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Small Professor](https://open.spotify.com/artist/50wcJriOZeC8PbLSk8X9QP), [AG Da Coroner](https://open.spotify.com/artist/736quRgvvGLe7eBO18oUzx), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [86 Witness \(Instrumentals\)](https://open.spotify.com/album/5t8JvlQa4ZNZBDaeYua6mf) | 3:18 | 2023-03-02 |  |
 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 | 2023-05-02 |  |
+| [Late Evening](https://open.spotify.com/track/0sTVGD0aRZ1SQ37q0eLZoS) | [Kezz Beats](https://open.spotify.com/artist/6UfsrHXyOdIVCWnv4YSou3) | [Late Evening](https://open.spotify.com/album/1MNWCI5nvnLlsja6rpetro) | 2:28 | 2023-11-15 |  |
 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 | 2023-10-10 |  |
 | [Listen to your heart](https://open.spotify.com/track/0BODaqe1PfKlFtV2rjtY9D) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Elsa](https://open.spotify.com/album/2o1BLv6s8yEj7AbTiul87R) | 3:16 | 2022-10-14 | 2023-01-11 |
 | [Listen to your heart](https://open.spotify.com/track/2ov6f8mXppqPHffDiCKZtZ) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Listen to your heart](https://open.spotify.com/album/2rkomgqyv6owGar7tmmW2Y) | 3:16 | 2022-09-02 | 2022-11-20 |
@@ -78,6 +79,7 @@
 | [My Street](https://open.spotify.com/track/1TyPatt6gp9mLRW18GuExN) | [KLIM Beats](https://open.spotify.com/artist/37rwydiu8MSMey87ktxdPT) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 1:54 | 2023-06-15 |  |
 | [N.Y.S.O.M\. \#20](https://open.spotify.com/track/4GgFRWzP9vAviZhWbd8ZFp) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Beats That Collected Dust Vol\. 2](https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX) | 3:33 | 2022-07-22 |  |
 | [Naturally \(Instrumental\)](https://open.spotify.com/track/2BGjr2M2pUdJ8GCAeS1A4A) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:42 | 2023-09-15 |  |
+| [No Bad Thoughts](https://open.spotify.com/track/2RQmw3XOLPVO425zmdIgOA) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Zod](https://open.spotify.com/artist/35gOMrYr6tnnuUrnU5fosv) | [No Bad Thoughts](https://open.spotify.com/album/3SNihfZvCdZvAG37ETYi76) | 2:13 | 2023-11-15 |  |
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2022-07-22 |  |
 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2023-05-02 |  |
 | [Quotas](https://open.spotify.com/track/0qOicDKD4pHBvdcbxnW5A7) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#2](https://open.spotify.com/album/1KZTSCU5psinmwZr7ziKGF) | 2:15 | 2023-06-15 |  |

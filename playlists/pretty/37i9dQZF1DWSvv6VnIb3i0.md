@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,821 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,050 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 28 | [Marly\-Gomont](https://open.spotify.com/track/42SUjSOr2tsUmOIlYBX04Z) | [Kamini](https://open.spotify.com/artist/0AFEmxYJqHfNUtADd6eWhc) | [Psychostar World](https://open.spotify.com/album/2mkgMkWDs1Xi2Sqzd4oxVF) | 5:08 |
 | 29 | [Petite sœur](https://open.spotify.com/track/5caNvNBHlyOlpBZQXSH9Jd) | [Laam](https://open.spotify.com/artist/2r6iIiC4UZtRdEDxRekU98) | [Petite sœur](https://open.spotify.com/album/0Rv39XV4OxBycL3YTSSAST) | 3:50 |
 | 30 | [Double je \- Remix](https://open.spotify.com/track/1EDQN7WMV9En0OhQuLBO6P) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Inventaire](https://open.spotify.com/album/0u5Y7yUXTvK0yT6WektGVL) | 3:16 |
-| 31 | [Elle me contrôle](https://open.spotify.com/track/38k9TH0Icrc4L68iICmWgd) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Sweety](https://open.spotify.com/artist/2rjn0MFHWBb46JOGo1yasB) | [Musique de lovers](https://open.spotify.com/album/1GbnWa1Jvt4p8FYRLZ1FKQ) | 3:46 |
+| 31 | [Elle me contrôle](https://open.spotify.com/track/27kV1kvGUacbiRpf1VsQWe) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Lady Sweety](https://open.spotify.com/artist/0PAaEZtd88SWagBZrbRZT4) | [M\. Pokora](https://open.spotify.com/album/6JidpQNfJzopxZjqbak9TG) | 3:46 |
 | 32 | [Ulysse](https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7) | [Ridan](https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz) | [L'Ange De Mon Démon](https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0) | 3:39 |
 | 33 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 |
 | 34 | [Angela](https://open.spotify.com/track/76a47vlZKvdJeotrpMYuvQ) | [Saian Supa Crew](https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6) | [Klr](https://open.spotify.com/album/3mGbYjpwZAseVYLmQakxcL) | 3:46 |

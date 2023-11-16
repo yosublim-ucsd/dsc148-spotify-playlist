@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Beach Pizza",
+        "url": "https://open.spotify.com/album/2Pb3gyChc9ckEqAQLfcJFl"
+      },
+      "artists": [
+        {
+          "name": "Undefined Space",
+          "url": "https://open.spotify.com/artist/4tvalX4nEpCqTBOyUR3U19"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159107,
+      "name": "Beach Pizza",
+      "url": "https://open.spotify.com/track/5kAIhNF6LkPWSsNLSoLBd4"
+    },
+    {
+      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY"
       },
@@ -1040,6 +1058,24 @@
       "duration_ms": 247830,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/4FmayqmwkbAw2wMWVq2A1B"
+    },
+    {
+      "album": {
+        "name": "End of Story",
+        "url": "https://open.spotify.com/album/1me7BXh024dO5wsWukirT4"
+      },
+      "artists": [
+        {
+          "name": "IBBIZ",
+          "url": "https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159107,
+      "name": "End of Story",
+      "url": "https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk"
     },
     {
       "album": {
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Pathway Across",
+        "url": "https://open.spotify.com/album/7uVGcuCXGfGujm16wmZjez"
+      },
+      "artists": [
+        {
+          "name": "Altitude Chill",
+          "url": "https://open.spotify.com/artist/2vPjdJVB78DdGawUuz9fGu"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140466,
+      "name": "Pathway Across",
+      "url": "https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK"
+    },
+    {
+      "album": {
         "name": "Peachess",
         "url": "https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw"
       },
@@ -2802,7 +2856,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 132564,
       "name": "Started Falling",
       "url": "https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX"
@@ -2842,6 +2896,24 @@
       "duration_ms": 151666,
       "name": "Straight Curves",
       "url": "https://open.spotify.com/track/2t7tr3u3eP9maEcdnxdWco"
+    },
+    {
+      "album": {
+        "name": "Strong Loop",
+        "url": "https://open.spotify.com/album/5dBCPoyQXS5aZqerosWSfb"
+      },
+      "artists": [
+        {
+          "name": "Marin Lavelle",
+          "url": "https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "Strong Loop",
+      "url": "https://open.spotify.com/track/2ZEstObcEPL43DIDk57NI9"
     },
     {
       "album": {
@@ -3452,6 +3524,24 @@
       "duration_ms": 340645,
       "name": "Water",
       "url": "https://open.spotify.com/track/6CD5nbE9zvNOdJbnwfQyVM"
+    },
+    {
+      "album": {
+        "name": "Weekend At Ibiza",
+        "url": "https://open.spotify.com/album/0vXpEhJbuDmZoRhfamRkzp"
+      },
+      "artists": [
+        {
+          "name": "Leon Cox",
+          "url": "https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141366,
+      "name": "Weekend At Ibiza",
+      "url": "https://open.spotify.com/track/4Dwp8PVZL99b2neUZ5qSgW"
     },
     {
       "album": {

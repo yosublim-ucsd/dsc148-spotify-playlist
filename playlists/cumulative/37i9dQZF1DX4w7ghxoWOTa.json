@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "White Lyrical Kingdom",
+        "url": "https://open.spotify.com/album/4QC4x75GRyTk1btQkxUWZS"
+      },
+      "artists": [
+        {
+          "name": "i\u2606Ris",
+          "url": "https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284050,
+      "name": "White Lyrical Kingdom",
+      "url": "https://open.spotify.com/track/2lZZCsLdqbkCtEADTsx9w1"
+    },
+    {
+      "album": {
         "name": "\u3059\u30fc\u3071\u30fc\u2606\u3042\u3075\u3047\u304f\u3057\u3087\u3093",
         "url": "https://open.spotify.com/album/1LojY5xVLFKM2ufqKgCZZS"
       },

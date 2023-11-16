@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 ### [Stretching](https://open.spotify.com/playlist/37i9dQZF1DX7FiQUm1UvSn)
 
-> The best soundtrack to relax and stretch your body before or after training!
+> ¡La mejor musica para relajarte y estirar tu cuerpo antes o después del entrenamiento!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,101 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,181 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

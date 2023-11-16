@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,081 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,198 likes - 90 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 27 | [Bedona](https://open.spotify.com/track/6qMij3wV7GhTOP3hHhZ0WX) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Notun Srot](https://open.spotify.com/album/2NcFsal4cYid6BsZVTqFJy) | 4:09 |
 | 28 | [Meye](https://open.spotify.com/track/0mncMDi5ID5KTbeeBPBvzI) | [Ayub Bachchu](https://open.spotify.com/artist/7fP06sphQmnvvioXOWZMCF) | [Mixed Album Super Hit Vol\. 1](https://open.spotify.com/album/4PDa4Od5d6I6W8DZpDaPIW) | 5:53 |
 | 29 | [Epitaph](https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 6:43 |
-| 30 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
+| 30 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
 | 31 | [Bhrom](https://open.spotify.com/track/20tqANKua7Erq6u3yfT8tj) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:34 |
 | 32 | [Na Pawar Golpo](https://open.spotify.com/track/1vz2SrkLov7vyaZEtZBJLK) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Na Pawar Golpo](https://open.spotify.com/album/6q6vxChMMbZYeEHhiNNsXg) | 5:01 |
 | 33 | [Tor Premete Ondho Holam](https://open.spotify.com/track/2NfzCLsMZ21npvmG43sxo5) | [James](https://open.spotify.com/artist/43DXfWPwwLghg7FIAfGmM8) | [Tor Premete Ondho Holam](https://open.spotify.com/album/5fU9HjoFqcKUESUn6ZBQfj) | 5:12 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 35 | [Behula](https://open.spotify.com/track/18KPyTq6Al56l0vMPQFjR1) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Behula](https://open.spotify.com/album/5IWfT7VFhPUUpBMZ75lJKG) | 3:52 |
 | 36 | [Dusshopno](https://open.spotify.com/track/6T4yBITRdTX6OsedSy5bwy) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Dusshopno](https://open.spotify.com/album/0AXTTesB1lQbgc4LfiJWum) | 5:06 |
 | 37 | [Rupkotha](https://open.spotify.com/track/1RESTN39VEH6lAq8H1D2Ud) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 6:37 |
-| 38 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 |
+| 38 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 |
 | 39 | [Biprotip](https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 7:51 |
 | 40 | [Etota Valobasi](https://open.spotify.com/track/3MjtyQvkVOo0TahwcZe10N) | [Recall](https://open.spotify.com/artist/572qv57FCJcsiZcx5BXIVG) | [Onnothay](https://open.spotify.com/album/4QyNEpKSA1koVFPiK8IXLE) | 3:40 |
 | 41 | [Aushomapto](https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:59 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 64 | [Odhora](https://open.spotify.com/track/6VAXwno04nsvHT65KbuxQu) | [Vibe](https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j) | [Chena Jogot](https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP) | 4:43 |
 | 65 | [Chaite Paro 2](https://open.spotify.com/track/2VpwAV3gsadE2zV2JpkoWI) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:05 |
 | 66 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 |
-| 67 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 |
+| 67 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 |
 | 68 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 |
 | 69 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 |
 | 70 | [Khoye Jawa Chaad](https://open.spotify.com/track/7drgfsb1o3LPQQc5tHZW8O) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Khoye Jawa Chaad](https://open.spotify.com/album/0FwGhAmAhssWTEzv9P0VYX) | 4:13 |

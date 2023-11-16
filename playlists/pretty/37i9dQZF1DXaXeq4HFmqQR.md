@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Ambar Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,918 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,966 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 4 | [Carambita](https://open.spotify.com/track/5PGj2N7XF82ZHJzXq94by7) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Carambita](https://open.spotify.com/album/0ZoMyUZZDohtpbNgImIFiO) | 3:00 |
 | 5 | [Picante](https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI) | [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [22](https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw) | 2:02 |
 | 6 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
-| 7 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
-| 8 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
-| 9 | [Libre](https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [Libre](https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a) | 3:47 |
-| 10 | [La Flecha](https://open.spotify.com/track/4OmQRrXd9DeTgRWg0OsQnY) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [La Flecha](https://open.spotify.com/album/7zqfo1L690gO9IwdmhDuQU) | 3:31 |
-| 11 | [Nunca se hace tarde](https://open.spotify.com/track/1gRTwgqWmetQQOheMLc4u5) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb), [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [Nunca se hace tarde](https://open.spotify.com/album/72V2LemTV8kAcYgPnY1e4T) | 3:41 |
+| 7 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
+| 8 | [Libre](https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [Libre](https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a) | 3:47 |
+| 9 | [Nunca se hace tarde](https://open.spotify.com/track/1gRTwgqWmetQQOheMLc4u5) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb), [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [Nunca se hace tarde](https://open.spotify.com/album/72V2LemTV8kAcYgPnY1e4T) | 3:41 |
+| 10 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
+| 11 | [La Flecha](https://open.spotify.com/track/4OmQRrXd9DeTgRWg0OsQnY) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [La Flecha](https://open.spotify.com/album/7zqfo1L690gO9IwdmhDuQU) | 3:31 |
 | 12 | [Estoy de Paso](https://open.spotify.com/track/1BWOun5WXM2KoKAXB9sDyP) | [Sadika](https://open.spotify.com/artist/1A9IMolQsjvQpR5FrmimHn), [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK) | [Estoy de Paso](https://open.spotify.com/album/3z6uSFdyLskALr1p6vDozV) | 2:48 |
 | 13 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 14 | [Decreté](https://open.spotify.com/track/6BuEjDpOcyPmUSMswkIA1r) | [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP) | [Decreté](https://open.spotify.com/album/5MQ8LSIJowwR2ocwtLm47T) | 3:17 |
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [Nunca Fue](https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5) | [Una Típica Francisca](https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Nunca Fue](https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG) | 4:42 |
 | 23 | [Mi Matria \(feat\. Emaflu & DJ Cidtronyck\)](https://open.spotify.com/track/0peJkeERCaAQA76PgkpUos) | [La Deyabu](https://open.spotify.com/artist/0lGEierpxyPwtani40A4N6), [DJ Cidtronyck](https://open.spotify.com/artist/6Cjoe6OAPXUgtbggfHNSLq), [EmaFlu](https://open.spotify.com/artist/0vYlWENPOfFPy9Ijl8d5dS) | [Matria](https://open.spotify.com/album/6P4WQdBxz7JYbggmCp0CRm) | 4:05 |
 | 24 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
-| 25 | [Que Va a Pasar Mañana](https://open.spotify.com/track/63o8Pbo6BRJruT3c49u7O9) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Zeidah](https://open.spotify.com/artist/1O9mz0prX39vdd3lsmhtXm), [Gonem Beats](https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ) | [Que Va a Pasar Mañana](https://open.spotify.com/album/4bxIImUZF5qvGIaopVfzwU) | 3:16 |
-| 26 | [P.A.V](https://open.spotify.com/track/6cDOXthhtIxWb0nSlerHNZ) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Knom](https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:32 |
+| 25 | [P.A.V](https://open.spotify.com/track/6cDOXthhtIxWb0nSlerHNZ) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Knom](https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:32 |
+| 26 | [Que Va a Pasar Mañana](https://open.spotify.com/track/63o8Pbo6BRJruT3c49u7O9) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Zeidah](https://open.spotify.com/artist/1O9mz0prX39vdd3lsmhtXm), [Gonem Beats](https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ) | [Que Va a Pasar Mañana](https://open.spotify.com/album/4bxIImUZF5qvGIaopVfzwU) | 3:16 |
 | 27 | [En Paz](https://open.spotify.com/track/63k28SPq02CplOq9pZHhrz) | [Michu MC](https://open.spotify.com/artist/0aGeXTq3yd9xoAIJajDNbc) | [En Paz](https://open.spotify.com/album/2T8UUebWfuNTCN0mqRVaRB) | 3:57 |
 | 28 | [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 |
 | 29 | [Contrabando](https://open.spotify.com/track/728lajhL7SHX5kytHyANdU) | [Vunbeats](https://open.spotify.com/artist/0NBSz8jDx66uHWBr3jnB9v), [Lamisty](https://open.spotify.com/artist/3hopHPeDSyx6VwRGsYLbsK) | [Contrabando](https://open.spotify.com/album/6Y5AmjPH3HSTkjxbdwvKut) | 2:56 |
 | 30 | [Lucha](https://open.spotify.com/track/7aebFEUEPcQWTrvrXX1pP5) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Cupido](https://open.spotify.com/album/0TEdJd353hOnypz4ewVMQt) | 3:26 |
 
-Snapshot ID: `MCxmZWIxYTVjMjAzOTdiODA2M2UzMzNkZmExMzJhODdhNzYxYWI1NmY1`
+Snapshot ID: `MCxmMDMyMzAxOTg3YmY4YmUzZGNjMDVmNzZhMTQ2YTdiZjU5YjkzMjQw`

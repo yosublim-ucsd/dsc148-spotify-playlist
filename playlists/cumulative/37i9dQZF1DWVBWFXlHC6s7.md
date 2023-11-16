@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-57 songs - 3 hr 34 min
+58 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Moqueca](https://open.spotify.com/track/6Yj0ks8hjDNdBoaIEh4qor) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2HwJ0CA2decIfEMxfBnYwJ) | 4:04 | 2023-01-20 | 2023-06-12 |
 | [Morro do Barraco Sem Água](https://open.spotify.com/track/1TxZ3YTh0i1pKlQE37grQX) | [Lemos & Debétio](https://open.spotify.com/artist/5NpcrcGcWkjihQktEMNIKu) | [Morro do Barraco Sem Água](https://open.spotify.com/album/52yTCl3qAkQiMpT4thQ1FQ) | 2:49 | 2023-01-20 | 2023-08-26 |
 | [Na baixa do sapateiro](https://open.spotify.com/track/0EFgQPupq1L5Xk8pipKhI1) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:26 | 2023-01-20 |  |
-| [O Amigo De Nova York](https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Grandes Temazos: Brasileños](https://open.spotify.com/album/6AqBCwtkW4NKSBxiqTMHmV) | 4:12 | 2023-01-20 |  |
+| [O Amigo De Nova York](https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Grandes Temazos: Brasileños](https://open.spotify.com/album/6AqBCwtkW4NKSBxiqTMHmV) | 4:12 | 2023-01-20 | 2023-11-16 |
+| [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 | 2023-09-01 |  |
 | [Olha Quem Tá Chegando](https://open.spotify.com/track/1VjA1oLevESicjs7Y3ueZe) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Sempre](https://open.spotify.com/album/2w5cyRvz7tVdrepQjcLPRV) | 6:35 | 2023-01-20 |  |
 | [Onda](https://open.spotify.com/track/2ufnnZAVCoEoShQjdRgwS1) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 7:44 | 2023-01-20 |  |
 | [Pedras de Cristal](https://open.spotify.com/track/6gsJr2pXytbHhl6px4mJUl) | [Junior Mendes](https://open.spotify.com/artist/7xNJVZXROiRM1nVTjqHE5L) | [Copacabana Sadia](https://open.spotify.com/album/4bUdDoSdFhXBm5nlvWVuI4) | 3:47 | 2023-01-20 |  |

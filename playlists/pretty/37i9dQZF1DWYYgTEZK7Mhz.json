@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 24310,
+  "num_followers": 24373,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Magnifico delirio (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/1JtohZbJ5rSHvLlyhiyvqs"
+      },
+      "artists": [
+        {
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Kobra",
+      "url": "https://open.spotify.com/track/4z1vPS8NFHrNBpriHxeu45"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Italian Classics: Fred Bongusto, Vol. 1",
         "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 135720,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/4xtYHxx1Gzb5vxlY3sVICD"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Magnifico delirio (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/1JtohZbJ5rSHvLlyhiyvqs"
-      },
-      "artists": [
-        {
-          "name": "Donatella Rettore",
-          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Kobra",
-      "url": "https://open.spotify.com/track/4z1vPS8NFHrNBpriHxeu45"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "40 Grandi Successi",
-        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fontana",
-          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Il Mondo",
-      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Nell'aria",
         "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 242640,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "40 Grandi Successi",
+        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Un'estate al mare / Bing bang being [Digital 45]",
-        "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
+        "name": "Catherine Spaak",
+        "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
       "artists": [
         {
-          "name": "Giuni Russo",
-          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
+          "name": "Catherine Spaak",
+          "url": "https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Un'estate al mare",
-      "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
+      "duration_ms": 129573,
+      "name": "L'esercito del surf",
+      "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Catherine Spaak",
-        "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
+        "name": "Un'estate al mare / Bing bang being [Digital 45]",
+        "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
       },
       "artists": [
         {
-          "name": "Catherine Spaak",
-          "url": "https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2"
+          "name": "Giuni Russo",
+          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
         }
       ],
-      "duration_ms": 129573,
-      "name": "L'esercito del surf",
-      "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
+      "duration_ms": 198373,
+      "name": "Un'estate al mare",
+      "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
     },
     {
       "added_at": "2023-06-05 07:42:38",

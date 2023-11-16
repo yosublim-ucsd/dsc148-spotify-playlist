@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,570 likes - 83 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,611 likes - 83 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

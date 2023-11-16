@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-477 songs - 1 day 8 hr 10 min
+478 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Demba \- Demi Riquísimo Remix \- Edit](https://open.spotify.com/track/5h3wUqwOnkxrHRyGuEIafF) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Trio Da Kali](https://open.spotify.com/artist/1DGgYTjkEw1sxzCBcXqZU5) | [Demba \(Demi Riquísimo Remix\)](https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE) | 3:56 | 2022-01-14 | 2022-07-20 |
 | [Desire](https://open.spotify.com/track/0WdiVvjH6uajYCcxPTmsy9) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/36BKV0HxVYyJldaw98fFOK) | 5:54 | 2022-04-06 | 2022-04-12 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-08-04 | 2023-09-02 |
-| [Diana \(You Don't Even Know\)](https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Diana \(You Don't Even Know\)](https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI) | 3:24 | 2022-01-14 |  |
+| [Diana \(You Don't Even Know\)](https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Diana \(You Don't Even Know\)](https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI) | 3:24 | 2022-01-14 | 2023-11-16 |
 | [Different Kinds of People](https://open.spotify.com/track/3GEmPTpDTiPWyeHQVmYeMg) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Different Kinds of People](https://open.spotify.com/album/2vpi1QyC7RVqetk2sXYEb5) | 2:25 | 2022-11-16 | 2023-05-23 |
 | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/track/1n0roMNZNxclnLraBmA7tl) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/album/0nqsJtrW8MbEuRfNJmHTKC) | 2:54 | 2022-04-15 | 2022-04-17 |
 | [Disco Kitchen](https://open.spotify.com/track/00eHtpRr74BgWQN7u6vEHT) | [Gardens & Villa](https://open.spotify.com/artist/5NgfalfOtMDHkJ0SbFAxyA) | [Gordon Von Zilla Presents](https://open.spotify.com/album/7BBG2McZxe7XHPmFzhDjjc) | 3:20 | 2021-12-03 | 2022-07-15 |
@@ -337,6 +337,7 @@
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-05-03 | 2022-05-31 |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2022-04-06 |  |
 | [Over And Over](https://open.spotify.com/track/6PDW59pqsge5R5AhCWJVmf) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All The Time](https://open.spotify.com/album/5mibrsvb9I4qBsS2ybnZHC) | 4:38 | 2022-01-14 | 2022-02-17 |
+| [P r a i s e Y o u u u u](https://open.spotify.com/track/4XTjYgnaZJT8HmWZqlS9FX) | [leydown n chill](https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl) | [P r a i s e Y o u u u u](https://open.spotify.com/album/5dGWA0EWbJFi5GXJKYLCMY) | 3:50 | 2023-10-20 |  |
 | [Paréo](https://open.spotify.com/track/0AbEPKqWLMEqxizkLZsiNq) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Paréo](https://open.spotify.com/album/4cOrkQ1SuL8wxcjXwqu34j) | 4:02 | 2022-04-15 | 2022-04-20 |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-01-14 | 2022-08-02 |
 | [Peace Of Mind \- Virgil Abloh Remix with Fela Kuti](https://open.spotify.com/track/3hGW03fS5b2hXZmJfzvrF7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790) | [Peace Of Mind \(Virgil Abloh Remix with Fela Kuti\)](https://open.spotify.com/album/0etqmlQMODyhKWtFYCC94p) | 4:51 | 2022-04-06 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse liedjes! Cover: FLEMMING & Boef
 
-414 songs - 20 hr 6 min
+416 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Popstar](https://open.spotify.com/track/1GC9tmklZQlK4gae2qJUJa) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Verbinding](https://open.spotify.com/album/2cPEG61GY9UQVPuI00YRMw) | 2:14 | 2023-06-29 | 2023-08-18 |
 | [PROBLEEM](https://open.spotify.com/track/22UbNMNZsFftv6nwNv6Bmm) | [Dirikteur](https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA) | [PROBLEEM](https://open.spotify.com/album/2US0jASNyZgkL0NYQo8MHs) | 2:37 | 2023-10-26 | 2023-11-10 |
 | [Proosten](https://open.spotify.com/track/17RCtGei6r6tWw1QGZEJfE) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:02 | 2023-05-09 | 2023-05-19 |
-| [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2023-08-17 |  |
+| [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2023-08-17 | 2023-11-16 |
 | [Reden](https://open.spotify.com/track/01D46oDUTJaykFjldVmWEe) | [Boaz Tooren](https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs) | [Reden](https://open.spotify.com/album/1ubTnY6I7QZsnZqbOiQPYR) | 2:52 | 2023-08-24 | 2023-09-15 |
 | [Reden](https://open.spotify.com/track/27C4hWKoHD15w2UjiOGxdq) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Reden](https://open.spotify.com/album/4paknEHWj4kZ9YCCHRTgb3) | 2:36 | 2023-09-07 | 2023-10-20 |
 | [Rolling Stone](https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Rolling Stone](https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F) | 2:25 | 2023-09-21 | 2023-10-06 |
@@ -316,6 +316,7 @@
 | [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 | 2023-08-03 | 2023-11-10 |
 | [SANGRIA](https://open.spotify.com/track/1rB3PaSergrJ8AFHjrcBtG) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SANGRIA](https://open.spotify.com/album/0OwpIDXfSxvw0yDalHmR45) | 2:14 | 2023-07-20 | 2023-09-01 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-11-09 |  |
+| [September](https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [September](https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv) | 3:53 | 2023-11-14 |  |
 | [Sexy](https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Sexy](https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek) | 2:12 | 2023-04-20 | 2023-08-18 |
 | [Signalen](https://open.spotify.com/track/3sXuzqUTUbLQqAcCYvNu1B) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Signalen](https://open.spotify.com/album/3vBChoujwlS8ncQ1yU01Pe) | 3:19 | 2023-05-18 | 2023-06-02 |
 | [Simone](https://open.spotify.com/track/233KjtSp13hed57BJgRjul) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Simone](https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y) | 2:30 | 2023-06-22 | 2023-09-15 |
@@ -394,7 +395,8 @@
 | [Wat ik Zocht](https://open.spotify.com/track/3gMNloOnIjQ9eZzQhiiDrb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 2:52 | 2023-10-05 | 2023-10-25 |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-02 | 2023-06-30 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-25 |
-| [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2023-10-19 |  |
+| [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 | 2023-11-09 |  |
+| [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2023-10-19 | 2023-11-16 |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [We Vieren Het Toch](https://open.spotify.com/track/0lGq8CN6aFfJ7LuOQbZn8f) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:30 | 2023-08-17 | 2023-09-08 |
 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 | 2023-09-07 | 2023-11-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,119 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,140 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 44 | [Auditorium](https://open.spotify.com/track/4JvovpjvPhVNOCwSzLxueY) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 4:28 |
 | 45 | [Times \(feat\. Lex Amor\)](https://open.spotify.com/track/5Ga0y2pc3M5nGLK6Pdmo70) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/36ViqkFmLJGdZuBVq9euD0) | 6:12 |
 | 46 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 |
-| 47 | [Mystics \- Live](https://open.spotify.com/track/6oQa3e5vox8Izx1EQkKFEV) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/4T8tt0NgcFY8DcRXo5rp4I) | 3:47 |
+| 47 | [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 |
 | 48 | [Someday We'll Fly](https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language \-Self Translation\-](https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm) | 8:24 |
 | 49 | [Chandler](https://open.spotify.com/track/5iRwSWZwwpfDXL33Z7BYAA) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/6vaViTZ9Hqlj2zo30JVR4U) | 3:41 |
 | 50 | [Big Foot \(feat\. Joshua Redman\)](https://open.spotify.com/track/3X0HDn9m6yXzAyjV0VZugH) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [StandArt](https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP) | 7:30 |

@@ -1,103 +1,47 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney.",
-  "num_followers": 166207,
+  "num_followers": 166213,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmYwZDM1MTVkYjVjYmI2NDRlNDRmNGY0NjMwMmVhNjdkYTcwN2M4",
+  "snapshot_id": "MCxmNjM4YTdkMzIyNDFhYzIyZTdjNDIxOGYzMmM2MGRkYjBjYTExZjRk",
   "tracks": [
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
-        "name": "Elemental (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
+        "name": "Mi deseo (De \"Wish: El Poder de los Deseos\")",
+        "url": "https://open.spotify.com/album/4x7IYIGk0Py8WgMDA54wtU"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/4JMFuXaUW3P9P3l324vCoG"
-      },
-      "artists": [
-        {
-          "name": "Yatzil Aguirre",
-          "url": "https://open.spotify.com/artist/4VY7dLY79eX2M52UWV7583"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Parte de \u00e9l",
-      "url": "https://open.spotify.com/track/7DEIeEbkqRxINlC1S9a9dx"
-    },
-    {
-      "added_at": "2023-11-06 15:35:18",
-      "album": {
-        "name": "This Is The Thanks I Get?! (From \"Wish\")",
-        "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
-      },
-      "artists": [
-        {
-          "name": "Chris Pine",
-          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "This Is The Thanks I Get?! - From \"Wish\"",
-      "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Married Life",
-      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
         }
       ],
       "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
+      "name": "Mi deseo - De \"Wish: El Poder de los Deseos\"",
+      "url": "https://open.spotify.com/track/3719i1h2B5k5AS5jlCCgST"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sarahi",
+          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Libre Soy",
+      "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -121,7 +65,95 @@
       "url": "https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "\u00bfY as\u00ed van a agradecer? (De \"Wish: El Poder de los Deseos\")",
+        "url": "https://open.spotify.com/album/1Ej6XOxuPrC9uQ6ia9GQci"
+      },
+      "artists": [
+        {
+          "name": "Pepe Vilchis",
+          "url": "https://open.spotify.com/artist/78lQS3nl34iuoGN8zs7KMi"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "\u00bfY as\u00ed van a agradecer? - De \"Wish: El Poder de los Deseos\"",
+      "url": "https://open.spotify.com/track/5M9zwd58rRXEHOeUxJMEKY"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Elemental (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/4JMFuXaUW3P9P3l324vCoG"
+      },
+      "artists": [
+        {
+          "name": "Yatzil Aguirre",
+          "url": "https://open.spotify.com/artist/4VY7dLY79eX2M52UWV7583"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Parte de \u00e9l",
+      "url": "https://open.spotify.com/track/7DEIeEbkqRxINlC1S9a9dx"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Ratatouille (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
@@ -141,23 +173,7 @@
       "url": "https://open.spotify.com/track/02JIdsrod3BYucThfUFDUX"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
@@ -173,7 +189,55 @@
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Colombia, Mi Encanto",
+      "url": "https://open.spotify.com/track/1DgS5IMm8ffbZ78GbIPlOM"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
@@ -197,23 +261,23 @@
       "url": "https://open.spotify.com/track/7Cux0Rc1hY5Pt5T28apnzv"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
-        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+        "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Irasema Terrazas",
+          "url": "https://open.spotify.com/artist/1lLbqV8uwF5D9MK8w4im3j"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Colombia, Mi Encanto",
-      "url": "https://open.spotify.com/track/1DgS5IMm8ffbZ78GbIPlOM"
+      "duration_ms": 199386,
+      "name": "La Bella y La Bestia",
+      "url": "https://open.spotify.com/track/3NUHJBJAGh6eRqN9iuBFni"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
@@ -233,43 +297,7 @@
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "Disney Summer Songs",
-        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
-      },
-      "artists": [
-        {
-          "name": "Mark Keali'i Ho'omalu",
-          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
-        },
-        {
-          "name": "Kamehameha Schools Children's Chorus",
-          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
-      },
-      "artists": [
-        {
-          "name": "Carmen Sarahi",
-          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Libre Soy",
-      "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
@@ -285,39 +313,7 @@
       "url": "https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo"
-      },
-      "artists": [
-        {
-          "name": "Klaus Badelt",
-          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
-        }
-      ],
-      "duration_ms": 90426,
-      "name": "He's a Pirate",
-      "url": "https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
-      },
-      "artists": [
-        {
-          "name": "Irasema Terrazas",
-          "url": "https://open.spotify.com/artist/1lLbqV8uwF5D9MK8w4im3j"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "La Bella y La Bestia",
-      "url": "https://open.spotify.com/track/3NUHJBJAGh6eRqN9iuBFni"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Tarzan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
@@ -333,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
@@ -353,7 +349,23 @@
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo"
+      },
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "duration_ms": 90426,
+      "name": "He's a Pirate",
+      "url": "https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
@@ -385,7 +397,7 @@
       "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Lion King: Special Edition",
         "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
@@ -409,7 +421,7 @@
       "url": "https://open.spotify.com/track/5iA6APikmuIeaAe9MMluny"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Turning Red (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
@@ -445,7 +457,7 @@
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -461,7 +473,7 @@
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -481,7 +493,7 @@
       "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
@@ -497,7 +509,7 @@
       "url": "https://open.spotify.com/track/74pJGDsreytr8eTgaG2nGW"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -517,7 +529,7 @@
       "url": "https://open.spotify.com/track/2FkSd709jZmvngPNUg7jkQ"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -557,7 +569,7 @@
       "url": "https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
@@ -573,7 +585,7 @@
       "url": "https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
@@ -589,7 +601,7 @@
       "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Turning Red (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
@@ -625,7 +637,7 @@
       "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -641,7 +653,7 @@
       "url": "https://open.spotify.com/track/3f3eX1P1jcRAmnBggOCRo3"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
         "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
@@ -657,7 +669,7 @@
       "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
@@ -677,7 +689,7 @@
       "url": "https://open.spotify.com/track/5mRNFh0zp9qY1kDpecN9ot"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
@@ -693,7 +705,7 @@
       "url": "https://open.spotify.com/track/4YLKSQgmCpl3TS1k4p7rpS"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Desde hoy",
         "url": "https://open.spotify.com/album/211cKsvaaQNmmxlxz3QB9y"
@@ -709,7 +721,7 @@
       "url": "https://open.spotify.com/track/3q8yfHfQqfd0ShcTJC20aH"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
@@ -725,7 +737,7 @@
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
@@ -745,7 +757,7 @@
       "url": "https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "When You Wish Upon a Star (From \"Disney 100\")",
         "url": "https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH"
@@ -761,7 +773,7 @@
       "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -777,7 +789,7 @@
       "url": "https://open.spotify.com/track/5IpadzdYReC5SKGQWVa7jw"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Disney Princesas: Canciones de las Princesas",
         "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
@@ -793,7 +805,7 @@
       "url": "https://open.spotify.com/track/2jyOvWnLtMvw859fM2koYR"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Tarzan (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm"
@@ -813,7 +825,7 @@
       "url": "https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Cruella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq"
@@ -829,7 +841,7 @@
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Baby Mine (From \"Dumbo\")",
         "url": "https://open.spotify.com/album/6e9I7W5LrZ512paeUY7hS4"
@@ -845,27 +857,7 @@
       "url": "https://open.spotify.com/track/2ufkOFn5LKYNoAdss0GUKR"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
-        "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 174380,
-      "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
-      "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
@@ -881,7 +873,7 @@
       "url": "https://open.spotify.com/track/5qTLa1r2rxIiO7Bc4RZaTO"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/0W4UPlbJs8lgX1bAKxzavM"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
@@ -917,7 +909,7 @@
       "url": "https://open.spotify.com/track/4deFjaHvIsvW4WtKuxxvdN"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
@@ -937,7 +929,27 @@
       "url": "https://open.spotify.com/track/1W3Ec5DR3MTumKVz0W8ahL"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
+      "album": {
+        "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 174380,
+      "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "A Goofy Movie",
         "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
@@ -957,7 +969,7 @@
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
@@ -981,7 +993,7 @@
       "url": "https://open.spotify.com/track/5c2gEGVPlMW4HNgLkAaBrq"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
@@ -997,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6tSjLKma2kitI4azWbOK4W"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "It's All Right (From \"Soul\"/Duet Version)",
         "url": "https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f"
@@ -1017,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
@@ -1033,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
@@ -1049,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6GTcMZqvnPzBvOeylpRSdk"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
@@ -1069,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
@@ -1085,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0tZqXCvOx44WKqcgEZtIRl"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -1101,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6dlqAP1A3eTXz6n3YAb9cx"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Siempre A Mi Lado",
         "url": "https://open.spotify.com/album/4ZplhhWfmxtjMU7U5yljyE"
@@ -1117,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6h7rxUcbbsjD3ooBv0EIpQ"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
@@ -1137,7 +1149,7 @@
       "url": "https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -1153,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3Z4X358heVKuZttTdKfWFs"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
@@ -1169,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
@@ -1185,7 +1197,7 @@
       "url": "https://open.spotify.com/track/2I0GqVo4ezonSOV8jSUURx"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Aladd\u00edn (Banda De Sonido Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs"
@@ -1201,7 +1213,7 @@
       "url": "https://open.spotify.com/track/1baxg5MMisZ7VzaXzbRnxC"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
@@ -1217,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6mHFhk4i8hhQbVnW1yleq2"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Zero (From the Original Motion Picture \"Ralph Breaks The Internet\")",
         "url": "https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq"
@@ -1233,7 +1245,7 @@
       "url": "https://open.spotify.com/track/0cDwUAF7yQrOLRcFfJpSc2"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
@@ -1253,7 +1265,7 @@
       "url": "https://open.spotify.com/track/5d22scOOfbrK7GHy3ZTT3s"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Toy Story 4 (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1G0VpX9r2fy0G3VCxGuoIB"
@@ -1269,7 +1281,7 @@
       "url": "https://open.spotify.com/track/49wVOH6Hxg0iviNtRJKxvG"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
@@ -1285,7 +1297,7 @@
       "url": "https://open.spotify.com/track/5UK5ZeUAzy3Am4VeU6ouV8"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Your Favorite Songs from 100 Disney Channel Original Movies",
         "url": "https://open.spotify.com/album/5gmYqZjyX50yWhiT31hUxJ"
@@ -1305,7 +1317,7 @@
       "url": "https://open.spotify.com/track/1570rO6Ld2CQtylj79nZuI"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
@@ -1321,7 +1333,7 @@
       "url": "https://open.spotify.com/track/0eWKSctySYiPDCF6JfqWOp"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
@@ -1341,7 +1353,7 @@
       "url": "https://open.spotify.com/track/167XxZYPzDURPVxCvNQ9Mo"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Reflection (2020) [From \"Mulan\"]",
         "url": "https://open.spotify.com/album/7uuzR6IeZUaKzeExKYkk2Y"
@@ -1357,7 +1369,7 @@
       "url": "https://open.spotify.com/track/437eNQXusBT4q9q3f34oW9"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Best of High School Musical: The Musical: The Series",
         "url": "https://open.spotify.com/album/2Kl59l5SsBqr7cWPXrm4og"
@@ -1381,7 +1393,7 @@
       "url": "https://open.spotify.com/track/4lz6AGwkiXEQy5FIbYf84f"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2fRrKgbvod0kb4eRDknk3M"
@@ -1401,7 +1413,7 @@
       "url": "https://open.spotify.com/track/0NiIRfsKSAnlj5veylXT2Z"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
@@ -1425,7 +1437,7 @@
       "url": "https://open.spotify.com/track/2BFnHiGCfLy5Z96yMeO50g"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
@@ -1441,7 +1453,7 @@
       "url": "https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Ralph Breaks the Internet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YWNDk8pwKyWE9PhjCTiJG"
@@ -1457,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2cOE7d35PyfAh9M7DglPk0"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
@@ -1501,7 +1513,7 @@
       "url": "https://open.spotify.com/track/4zDfgax6Ihb0UWdour1ZEs"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
@@ -1517,7 +1529,7 @@
       "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "El Rey Le\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2Z2emaEPoi5Kjro2EbKpGV"
@@ -1545,7 +1557,7 @@
       "url": "https://open.spotify.com/track/1UNH5Hps9PVNqwWCJ8J1jp"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -1561,23 +1573,7 @@
       "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "La Cenicienta (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/2Uys6MBZkH1LhkJUxMLsBd"
-      },
-      "artists": [
-        {
-          "name": "Coro - La Cenicienta",
-          "url": "https://open.spotify.com/artist/05D2DYmdOr55XT42iBwqHQ"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Cenicienta",
-      "url": "https://open.spotify.com/track/3SV96ua0nZtnKYtE5tT8Ai"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -1593,7 +1589,7 @@
       "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
@@ -1617,7 +1613,7 @@
       "url": "https://open.spotify.com/track/3vAkxLPdOML7BEl0tUaB5z"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4DICg8OwDUc3mR1Oi0Wxqe"
@@ -1633,7 +1629,7 @@
       "url": "https://open.spotify.com/track/3x3LDwksbVDJW0P1dAmX4u"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Lion King: Special Edition",
         "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
@@ -1661,7 +1657,7 @@
       "url": "https://open.spotify.com/track/5khPZny1Hf4w1XyHrZ6T0n"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Aladd\u00edn (Banda De Sonido Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs"
@@ -1681,7 +1677,7 @@
       "url": "https://open.spotify.com/track/5pGJgq1KxaRHEOZTD0egWL"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
@@ -1713,7 +1709,7 @@
       "url": "https://open.spotify.com/track/2f2F4z8BOi15hum9aEVDUP"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Frozen 2 (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2"
@@ -1733,23 +1729,7 @@
       "url": "https://open.spotify.com/track/6UWaMec3jc3ESl5hfSaejU"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
-      "album": {
-        "name": "La Bella Durmiente (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/39k6mtRUMjSdkFHB88Rms0"
-      },
-      "artists": [
-        {
-          "name": "Coros - La Bella Durmiente",
-          "url": "https://open.spotify.com/artist/07Gig9aJZ6bx2XHB6vMxei"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Eres T\u00fa el Pr\u00edncipe Azul",
-      "url": "https://open.spotify.com/track/4d2EiN35xmFmta9A6P8Szu"
-    },
-    {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
@@ -1765,7 +1745,7 @@
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
@@ -1781,7 +1761,7 @@
       "url": "https://open.spotify.com/track/1aYdJNJT480JVCPYayogh6"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Vive tu historia",
         "url": "https://open.spotify.com/album/5j6KdKkUHbV1T7RLLhfGny"
@@ -1797,7 +1777,7 @@
       "url": "https://open.spotify.com/track/6wDIVxNFMKCeSNgV8A3S8z"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "La Cenicienta (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/3T3oHdX6EzhQ3YTOjpsnek"
@@ -1813,7 +1793,7 @@
       "url": "https://open.spotify.com/track/16zRwu3cbIqGtSJY249y3J"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
@@ -1829,7 +1809,7 @@
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
@@ -1857,7 +1837,7 @@
       "url": "https://open.spotify.com/track/3taMkY9CwwphIT4Ch1MEWq"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW"
@@ -1873,7 +1853,7 @@
       "url": "https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
@@ -1889,7 +1869,7 @@
       "url": "https://open.spotify.com/track/38SueFAjT6jtFneyoQamYi"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Pocahontas (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS"
@@ -1905,7 +1885,7 @@
       "url": "https://open.spotify.com/track/7AsZ5WyFcF0vGRdkPl0F87"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
@@ -1921,7 +1901,7 @@
       "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
     },
     {
-      "added_at": "2023-10-18 17:00:00",
+      "added_at": "2023-11-15 20:54:52",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"

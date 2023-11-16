@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "3 Sense",
+        "url": "https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Anorre",
+          "url": "https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh"
+        },
+        {
+          "name": "The NGHBRS",
+          "url": "https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "3 Sense",
+      "url": "https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit"
+    },
+    {
+      "album": {
         "name": "9 to 5",
         "url": "https://open.spotify.com/album/66W9hAU2PxiBnw0Vpj51Qj"
       },
@@ -276,7 +302,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 185578,
       "name": "Altered Destiny - Chill Mix",
       "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
@@ -410,6 +436,24 @@
       "duration_ms": 315200,
       "name": "Aperol Spiritz",
       "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
+    },
+    {
+      "album": {
+        "name": "Arbora",
+        "url": "https://open.spotify.com/album/5DLGmdDcettb6PPnfu11ch"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220975,
+      "name": "Arbora",
+      "url": "https://open.spotify.com/track/1QgbpXgP9AGnEwTHtA51Al"
     },
     {
       "album": {
@@ -874,7 +918,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
@@ -1168,6 +1212,24 @@
       "duration_ms": 297435,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/4mM8UJEAUHyPb6wa129GRf"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/03mhpyzIJwGvoyJzoij8aN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214408,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ"
     },
     {
       "album": {
@@ -1552,7 +1614,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 307889,
       "name": "DAWN - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
@@ -1668,7 +1730,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 260786,
       "name": "Designer Love - Short Version",
       "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
@@ -2798,7 +2860,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 224262,
       "name": "Home",
       "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
@@ -3108,7 +3170,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 253195,
       "name": "Inner Child - Patrice B\u00e4umel Remix",
       "url": "https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE"
@@ -3603,6 +3665,28 @@
     },
     {
       "album": {
+        "name": "Let Me Out",
+        "url": "https://open.spotify.com/album/2wjZRBDyv6WtFUjfzK65wn"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313174,
+      "name": "Let Me Out",
+      "url": "https://open.spotify.com/track/67qAVjzBUVVs8RALR2AQ3K"
+    },
+    {
+      "album": {
         "name": "Like A Friend",
         "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
       },
@@ -3614,7 +3698,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 202926,
       "name": "Like A Friend - Radio Edit",
       "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
@@ -3913,6 +3997,36 @@
     },
     {
       "album": {
+        "name": "Mama Thula",
+        "url": "https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Suffocate SA",
+          "url": "https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361493,
+      "name": "Mama Thula",
+      "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
+    },
+    {
+      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4"
       },
@@ -4056,6 +4170,32 @@
       "duration_ms": 176949,
       "name": "Milkshake 20 - Alex Wann Remix",
       "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
+    },
+    {
+      "album": {
+        "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+        "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503475,
+      "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
     },
     {
       "album": {
@@ -4266,7 +4406,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
@@ -4376,7 +4516,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 373487,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
@@ -4614,6 +4754,36 @@
       "duration_ms": 420003,
       "name": "Octoarp",
       "url": "https://open.spotify.com/track/32ars8bDAg6bz9NwRoqOMY"
+    },
+    {
+      "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
     },
     {
       "album": {
@@ -5202,7 +5372,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
@@ -5392,7 +5562,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 285123,
       "name": "Roda",
       "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
@@ -6736,6 +6906,32 @@
     {
       "album": {
         "name": "Voices Above",
+        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
+      },
+      "artists": [
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
+    },
+    {
+      "album": {
+        "name": "Voices Above",
         "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
       },
       "artists": [
@@ -7364,6 +7560,24 @@
       "duration_ms": 294206,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/4YRv0AhALPCF7t7nnFVzXT"
+    },
+    {
+      "album": {
+        "name": "SILVERLAKE 03",
+        "url": "https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311622,
+      "name": "YOUR NAME",
+      "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"
     },
     {
       "album": {

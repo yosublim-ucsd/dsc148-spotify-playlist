@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring niina
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,393 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,498 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 101 | [Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Things I Only Imagined](https://open.spotify.com/album/5ANOR6eqngklTxd2fqwtvC) | 2:07 |
 | 102 | [Meteor](https://open.spotify.com/track/3q53rFJ6wnhLhm6W8VlA8P) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Meteor](https://open.spotify.com/album/5uozo9ZNHo3vI7x14cWzmW) | 2:51 |
 | 103 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 |
-| 104 | [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 |
+| 104 | [Array](https://open.spotify.com/track/1CG4BeMSNkPdzEieKWVuDH) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/3e9iO7RuGGNqhkiu2VPSLV) | 2:55 |
 | 105 | [Lab \- black balloons Remix](https://open.spotify.com/track/34zfM258Ht6YwQToo7Olr9) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [Lab \(black balloons Remix\)](https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os) | 3:22 |
 | 106 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
 | 107 | [Ricochet](https://open.spotify.com/track/7zjXqhQCS40Tl7vT31fBSE) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Ricochet](https://open.spotify.com/album/66LEoqBH2wT2IWuYvQGatv) | 2:42 |

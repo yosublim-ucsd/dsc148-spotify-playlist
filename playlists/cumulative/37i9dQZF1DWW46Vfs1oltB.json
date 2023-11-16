@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 168525,
       "name": "25 (Feat. YANGHONGWON)",
       "url": "https://open.spotify.com/track/1UhHzGWhYLZqwdcySxRolP"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 136973,
       "name": "Apocalypse Prod. PEEJAY",
       "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 176000,
       "name": "Asphalt (feat. pH-1)",
       "url": "https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 164266,
       "name": "BAD BOY (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF"
@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 249571,
       "name": "Carpe Diem (feat. SILKYBOIS)",
       "url": "https://open.spotify.com/track/4B8F8POgJcQBlAxX4WePJF"
@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 188162,
       "name": "Chuck Taylor (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/5DK0Sa8LnaitE7CjyGUTti"
@@ -5276,7 +5276,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 150906,
       "name": "DO WHAT MOVES YOU",
       "url": "https://open.spotify.com/track/3xz8SHm92SMqRVg48aNPwE"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 186773,
       "name": "Doctor Fish",
       "url": "https://open.spotify.com/track/22M3uYMnr2waPuYBYAfhXI"
@@ -6840,7 +6840,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 94962,
       "name": "Flower freestyle",
       "url": "https://open.spotify.com/track/6VdjYiQrSRFOtbG71XTVIq"
@@ -8957,6 +8957,24 @@
     },
     {
       "album": {
+        "name": "HiiPEBEAST",
+        "url": "https://open.spotify.com/album/3qjPCDIl5DgVU5T200JIcq"
+      },
+      "artists": [
+        {
+          "name": "Shyboiitobii",
+          "url": "https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152710,
+      "name": "HiiPEBEAST",
+      "url": "https://open.spotify.com/track/5mzrpo8EIHh5FxKu5eK7l3"
+    },
+    {
+      "album": {
         "name": "Behind you touch OST Part 1",
         "url": "https://open.spotify.com/album/3yl9LCPKeBrXhFwNO1uxoz"
       },
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 181734,
       "name": "HONDA !",
       "url": "https://open.spotify.com/track/0yurxXDL2EC9dFyZJXy39y"
@@ -10535,6 +10553,28 @@
     },
     {
       "album": {
+        "name": "JINJU",
+        "url": "https://open.spotify.com/album/2bONw3vSwq0PhUe2krVbJH"
+      },
+      "artists": [
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178250,
+      "name": "JINJU",
+      "url": "https://open.spotify.com/track/7wWcpvtcX4ZVL6C0WziIOQ"
+    },
+    {
+      "album": {
         "name": "BLACK OUT",
         "url": "https://open.spotify.com/album/1mPCTXTcQSswklvSYPkOUA"
       },
@@ -10916,6 +10956,24 @@
       "duration_ms": 278200,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Now",
+        "url": "https://open.spotify.com/album/2BuIQbe2kvN5FPlv4YWkma"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Kiss Me Now",
+      "url": "https://open.spotify.com/track/4peJedknibnj2QZMmb1e2c"
     },
     {
       "album": {
@@ -11984,7 +12042,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 148080,
       "name": "LIT (feat. BOBBY)",
       "url": "https://open.spotify.com/track/3qLnIquoiaNWYrCH5fIusV"
@@ -12050,7 +12108,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 222232,
       "name": "Look What I Did (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
@@ -13422,7 +13480,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 239280,
       "name": "Mine (Prod. Seong Guk, Matt, niceshotnick)",
       "url": "https://open.spotify.com/track/1bx3jwrwobANkqaV4sglkC"
@@ -14008,7 +14066,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 149950,
       "name": "MULTIPLY",
       "url": "https://open.spotify.com/track/6UhQdJPSWauA2uQ3mX8sxW"
@@ -15526,7 +15584,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 214273,
       "name": "Over The Mountain (Prod. dress)",
       "url": "https://open.spotify.com/track/5AHXMr5z1TfXXi91ZpsYhG"
@@ -16706,7 +16764,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 268759,
       "name": "Ransome (Feat. BILL STAX)",
       "url": "https://open.spotify.com/track/31HhKQyZZI0PEzdrhZ4IGo"
@@ -17146,7 +17204,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 136706,
       "name": "RINDAMAN (Feat. ZICO)",
       "url": "https://open.spotify.com/track/5zoGBq6N98J1NnLeB2OPPy"
@@ -19676,7 +19734,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 220083,
       "name": "SWEAT (Prod. JINBO)",
       "url": "https://open.spotify.com/track/56cxM1ebfS9wD2v8Ub0nvh"
@@ -21064,7 +21122,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 221510,
       "name": "Turns Out (feat. foggyatthebottom)",
       "url": "https://open.spotify.com/track/6rn5H8WeT0jxbC5phicnyV"
@@ -22182,7 +22240,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 147906,
       "name": "WHAT",
       "url": "https://open.spotify.com/track/0PnKsGNKY7CFdqlM7qV7uB"
@@ -22758,7 +22816,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 213000,
       "name": "WORK HARD PLAY HARD",
       "url": "https://open.spotify.com/track/7m4Ney6RDEtKQf6n52F1qA"
@@ -22902,7 +22960,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 240680,
       "name": "X",
       "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"

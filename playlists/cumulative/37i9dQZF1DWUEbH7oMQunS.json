@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
+    },
+    {
+      "album": {
         "name": "A Search for Somewhere Else",
         "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
       },
@@ -760,7 +778,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 187058,
       "name": "God Keep Us",
       "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"

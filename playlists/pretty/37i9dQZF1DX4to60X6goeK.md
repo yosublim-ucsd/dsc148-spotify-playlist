@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Bou
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,981 likes - 55 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,116 likes - 55 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4DTZ8cBptl7NzqHrH7wVfU"
+      },
+      "artists": [
+        {
+          "name": "Michael Parker",
+          "url": "https://open.spotify.com/artist/4Pt8SOQa9s8qftzbBPPC76"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140812,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4"
+    },
+    {
+      "album": {
         "name": "Ain't Gonna Break",
         "url": "https://open.spotify.com/album/2nueTq2RzhiXpqrUcGDfY9"
       },

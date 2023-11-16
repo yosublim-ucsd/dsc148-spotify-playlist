@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: RedSpin
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,955 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,135 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
 | 2 | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 |
-| 3 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:38 |
+| 3 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:34 |
 | 4 | [เพื่อนกันไม่เลิกกัน \(Close Friend\)](https://open.spotify.com/track/7xfqTNAUFmbM1wlmCPxRmQ) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [bamm NEXT DOOR](https://open.spotify.com/album/4uem2B1Wez6SwW9lsRDWyF) | 4:00 |
 | 5 | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\)](https://open.spotify.com/track/75PNvxakeoKFP7dxdGDWLb) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\) \- Single](https://open.spotify.com/album/0GCaqJpZqxcszozlequwGC) | 3:18 |
 | 6 | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/track/7sBi5mkwgckfb68RDRWKMS) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/album/1fkjw8BqsMHwXc5gWzDGUo) | 3:35 |

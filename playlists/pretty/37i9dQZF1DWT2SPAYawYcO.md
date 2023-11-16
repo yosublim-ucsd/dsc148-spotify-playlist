@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,405 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,505 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 19 | [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 |
 | 20 | [SEX ON THE BEACH](https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [SEX ON THE BEACH](https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi) | 3:10 |
 | 21 | [Night And Day](https://open.spotify.com/track/3ft4mH3OVLkJDLC8vVZENd) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Night And Day](https://open.spotify.com/album/0GUU9v3LwldhCxI70N1eYV) | 2:01 |
-| 22 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 |
+| 22 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 |
 | 23 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 24 | [BANDS!](https://open.spotify.com/track/00DcGQYevuWmUzqXetdczu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BANDS!](https://open.spotify.com/album/2AGvFNr5drvor5NZhh0oTe) | 2:22 |
 | 25 | [It's All Over You](https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Chasing Nirvana](https://open.spotify.com/album/6508WBT3t0ON8b5KBQL37m) | 2:56 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 60 | [Dress](https://open.spotify.com/track/4GRvesPS6gPU8AV2RUgECk) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Dress](https://open.spotify.com/album/7sYU3TwTLUFudBlbnWWMM4) | 3:11 |
 | 61 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
 | 62 | [Mangos](https://open.spotify.com/track/2ckFO1sBiKvLQpuiB9jDaC) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Mangos](https://open.spotify.com/album/2vFtPglhOz8e8qh7WlyYqs) | 3:10 |
-| 63 | [Firebreak](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 |
+| 63 | [Firebreak \- Edit](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak \(Edit\)](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 |
 | 64 | [Throw It Up](https://open.spotify.com/track/4dogtEQFkylua9BibcEjOJ) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Throw It Up](https://open.spotify.com/album/0x86GbQsCSydYWCvXL8S1g) | 2:50 |
 | 65 | [Can I Ask](https://open.spotify.com/track/7JoXLJvW945zqZbLJ7m6UV) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [A Place To Exist](https://open.spotify.com/album/6YJiZMFmsdjzvLKmwyrRuJ) | 2:38 |
 | 66 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 |

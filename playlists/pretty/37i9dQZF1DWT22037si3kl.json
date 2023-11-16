@@ -1,6 +1,6 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 134419,
+  "num_followers": 134619,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -91,34 +91,6 @@
     {
       "added_at": "2023-11-13 15:17:50",
       "album": {
-        "name": "Mandona (Se eu te dissesse)",
-        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Mandona (Se eu te dissesse)",
-      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
-    },
-    {
-      "added_at": "2023-11-13 15:17:50",
-      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -151,6 +123,34 @@
       "duration_ms": 163636,
       "name": "Mesma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
+    },
+    {
+      "added_at": "2023-11-13 15:17:50",
+      "album": {
+        "name": "Mandona (Se eu te dissesse)",
+        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Mandona (Se eu te dissesse)",
+      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
     },
     {
       "added_at": "2023-11-13 15:17:50",
@@ -311,6 +311,30 @@
     {
       "added_at": "2023-11-13 15:17:50",
       "album": {
+        "name": "Sem Compaix\u00e3o",
+        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
+    },
+    {
+      "added_at": "2023-11-13 15:17:50",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2023-11-13 15:17:50",
-      "album": {
-        "name": "Sem Compaix\u00e3o",
-        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
     },
     {
       "added_at": "2023-11-13 15:17:50",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-13 15:17:50",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2023-11-13 15:17:50",
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 201869,
       "name": "Ensinamento do Pai",
       "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
-    },
-    {
-      "added_at": "2023-11-13 15:17:50",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2023-11-13 15:17:50",
@@ -979,30 +979,6 @@
     {
       "added_at": "2023-11-13 15:17:50",
       "album": {
-        "name": "Passo de Piet",
-        "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
-      },
-      "artists": [
-        {
-          "name": "Phl Notunrboy",
-          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
-        },
-        {
-          "name": "lucashenriqeee",
-          "url": "https://open.spotify.com/artist/3PlfbUseluH6JMWkrM5EIP"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Passo de Piet",
-      "url": "https://open.spotify.com/track/1hk75DQiC1mRc2pdu8yAmM"
-    },
-    {
-      "added_at": "2023-11-13 15:17:50",
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 130690,
       "name": "Fases",
       "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
+    },
+    {
+      "added_at": "2023-11-13 15:17:50",
+      "album": {
+        "name": "Passo de Piet",
+        "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "lucashenriqeee",
+          "url": "https://open.spotify.com/artist/3PlfbUseluH6JMWkrM5EIP"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Passo de Piet",
+      "url": "https://open.spotify.com/track/1hk75DQiC1mRc2pdu8yAmM"
     },
     {
       "added_at": "2023-11-13 15:17:50",
@@ -1249,7 +1249,7 @@
       "artists": [
         {
           "name": "Ogtitu7",
-          "url": "https://open.spotify.com/artist/3qjbHhl2KCV3oywwcJnHE8"
+          "url": "https://open.spotify.com/artist/2ff0iALSRFoinMI8riWXUV"
         },
         {
           "name": "TTF",

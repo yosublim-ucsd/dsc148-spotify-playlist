@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3Vol.4",
+        "url": "https://open.spotify.com/album/1QV7TzDf6neA0n9AkoJK5m"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249566,
+      "name": "chAngE - Cover",
+      "url": "https://open.spotify.com/track/71OfBuAMF2HOkrZeb62FH0"
+    },
+    {
+      "album": {
         "name": "Chocolate Bass Recipe",
         "url": "https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH"
       },
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 276902,
       "name": "\u30d6\u30eb\u30fc\u30e0\u30d6\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/4G7Wsp4nJNLg55Mp6RRU1s"

@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "Carmina XVII",
+        "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
+      },
+      "artists": [
+        {
+          "name": "BLUEM",
+          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
+        },
+        {
+          "name": "Tarta Relena",
+          "url": "https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240476,
+      "name": "Carmina XVII",
+      "url": "https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN"
+    },
+    {
+      "album": {
         "name": "Fall to Pieces",
         "url": "https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO"
       },
@@ -1122,6 +1144,24 @@
       "duration_ms": 266718,
       "name": "Fear is your Only God",
       "url": "https://open.spotify.com/track/5E4PTNUV7RPpIZCEOM1lD2"
+    },
+    {
+      "album": {
+        "name": "Calla",
+        "url": "https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249748,
+      "name": "Field of Flowers",
+      "url": "https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p"
     },
     {
       "album": {
@@ -1947,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Death Is Home",
+        "url": "https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP"
+      },
+      "artists": [
+        {
+          "name": "A\u00efsha Devi",
+          "url": "https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272990,
+      "name": "Mind Era",
+      "url": "https://open.spotify.com/track/3b0EPvZqJV2BYe599jrhEd"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
       },
@@ -2300,7 +2358,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 237040,
       "name": "Not the News",
       "url": "https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI"
@@ -3076,7 +3134,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 215482,
       "name": "Teeth Agape",
       "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
@@ -3722,7 +3780,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 350168,
       "name": "Wasting",
       "url": "https://open.spotify.com/track/24ecRdvvKcZCFdmebEJ1X8"

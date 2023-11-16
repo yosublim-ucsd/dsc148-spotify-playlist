@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,592 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,616 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 9 | [Unglitched \- BéTé Remix](https://open.spotify.com/track/1WLTAxanQcgPQmJNSJN15X) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [BéTé](https://open.spotify.com/artist/7HMCyoB6sHalUrXDRoiQB4) | [Unglitched](https://open.spotify.com/album/2TazrwgMouDruGAyYhvUp6) | 6:36 |
 | 10 | [Behind The Wall \- Tiefe Wasser Berlin's Singin' Bird Dub](https://open.spotify.com/track/79Cw6dmzpccnxBBeORKGlk) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Behind The Wall \(Tiefe Wasser Berlin's Singin' Bird Dub\)](https://open.spotify.com/album/31xw6C07bXPFoodEmzZQSo) | 5:20 |
 | 11 | [Mantola \- Original](https://open.spotify.com/track/34Fwzcj3NGXsBS1IiXdveZ) | [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Badarchin, Vol\. 02](https://open.spotify.com/album/0fJI9pW80m4E4FvlvxamNz) | 6:26 |
-| 12 | [Kubatur](https://open.spotify.com/track/1vmZrbwBInR048h5dSuh3t) | [GFDF](https://open.spotify.com/artist/3WPJZqRJt0MNV5GrL8acMH), [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [KYONGPAUL](https://open.spotify.com/artist/4zy5g7xdWMP1adk6zGHeVx) | [Kubatur](https://open.spotify.com/album/1YXgYZ8mjXdPmPkazQ2Ibo) | 6:22 |
+| 12 | [Kubatur](https://open.spotify.com/track/1vmZrbwBInR048h5dSuh3t) | [GFDF](https://open.spotify.com/artist/3WPJZqRJt0MNV5GrL8acMH), [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kyong Sono](https://open.spotify.com/artist/4zy5g7xdWMP1adk6zGHeVx) | [Kubatur](https://open.spotify.com/album/1YXgYZ8mjXdPmPkazQ2Ibo) | 6:22 |
 | 13 | [A Glitch](https://open.spotify.com/track/3E14RZfj8Wt9WtFdJ0Qj6f) | [Planet Caravan](https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5) | [A Glitch](https://open.spotify.com/album/6SaEmxtunTWm1r2FgcQ5lH) | 6:14 |
 | 14 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 |
 | 15 | [Burning Lobster](https://open.spotify.com/track/142FwsImZ1MZmUnKdY2Jll) | [Shimon \(Fr\)](https://open.spotify.com/artist/3rN9xqLR59j3NAn0VM9rGR), [PKM](https://open.spotify.com/artist/5xmOuNCskJkhnlSV3Qkx3v) | [Krypte EP](https://open.spotify.com/album/6yVPH1OeqeZdIUKN0P6Mc4) | 7:19 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Bellakath",
-  "num_followers": 912445,
+  "num_followers": 912413,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJmZjQ4YzYwOGY5NDYzOWU2MzAxODM4ZTliYjU5OTVlOTk5ZTYy",
+  "snapshot_id": "MCw1OWVlN2ZlZDY4NmVjYzQwNTljM2RiY2RhMDI1MTIyMTNiZmZiZWIw",
   "tracks": [
     {
       "added_at": "2023-11-08 04:01:00",
@@ -191,6 +191,22 @@
       "duration_ms": 167859,
       "name": "Acaramelao / End\u00falzame los O\u00eddos - Headphone Mix",
       "url": "https://open.spotify.com/track/4nbDc7f97uUIno916znqQM"
+    },
+    {
+      "added_at": "2023-11-14 14:18:27",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -475,34 +491,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Dalie",
-        "url": "https://open.spotify.com/album/5GIUF3gHNmZpa684imXQ5J"
-      },
-      "artists": [
-        {
-          "name": "Kamo Mphela",
-          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
-        },
-        {
-          "name": "Baby S.O.N",
-          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
-        }
-      ],
-      "duration_ms": 280424,
-      "name": "Dalie",
-      "url": "https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -515,6 +503,22 @@
       "duration_ms": 137533,
       "name": "SAOKO",
       "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "added_at": "2023-11-14 14:18:27",
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -599,22 +603,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Merkitt\u00e4v\u00e4t erot",
-        "url": "https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK"
-      },
-      "artists": [
-        {
-          "name": "BEHM",
-          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
-        }
-      ],
-      "duration_ms": 186282,
-      "name": "Syntym\u00e4p\u00e4iv\u00e4! (Viel\u00e4 KRRAN jee)",
-      "url": "https://open.spotify.com/track/558Lsb6twiXsgxhaHxyEoh"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Untuk Dunia, Cinta, dan Kotornya",
         "url": "https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf"
       },
@@ -627,6 +615,22 @@
       "duration_ms": 297750,
       "name": "Berpayung Tuhan",
       "url": "https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Merkitt\u00e4v\u00e4t erot",
+        "url": "https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK"
+      },
+      "artists": [
+        {
+          "name": "BEHM",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "duration_ms": 186282,
+      "name": "Syntym\u00e4p\u00e4iv\u00e4! (Viel\u00e4 KRRAN jee)",
+      "url": "https://open.spotify.com/track/558Lsb6twiXsgxhaHxyEoh"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -725,6 +729,22 @@
       "url": "https://open.spotify.com/track/5lArsjEue0iJAZeoPv3RJV"
     },
     {
+      "added_at": "2023-11-14 14:18:27",
+      "album": {
+        "name": "Good bye-bye",
+        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "Good bye-bye",
+      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
+    },
+    {
       "added_at": "2023-11-08 04:01:00",
       "album": {
         "name": "We Can Be Anything",
@@ -739,42 +759,6 @@
       "duration_ms": 201047,
       "name": "We Can Be Anything",
       "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
-        "name": "Saanware Aijaiyo",
-        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
-      },
-      "artists": [
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        }
-      ],
-      "duration_ms": 234713,
-      "name": "Saanware Aijaiyo",
-      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
-        "name": "Internet Love",
-        "url": "https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB"
-      },
-      "artists": [
-        {
-          "name": "VSTRA",
-          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
-        }
-      ],
-      "duration_ms": 219082,
-      "name": "Internet Love",
-      "url": "https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1035,6 +1019,34 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
+        "name": "Dalie (feat. Baby S.O.N)",
+        "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        }
+      ],
+      "duration_ms": 280424,
+      "name": "Dalie (feat. Baby S.O.N)",
+      "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
         "name": "F\u0103r\u0103 Te Merau",
         "url": "https://open.spotify.com/album/2N7CbtksyOtSHqEXrSixZ7"
       },
@@ -1071,6 +1083,22 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
+        "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
+        "url": "https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw"
+      },
+      "artists": [
+        {
+          "name": "DIDIxDADA",
+          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+        }
+      ],
+      "duration_ms": 214144,
+      "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
+      "url": "https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR"
       },
@@ -1091,34 +1119,18 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
-        "url": "https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw"
+        "name": "Di Arsy-Mu",
+        "url": "https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7"
       },
       "artists": [
         {
-          "name": "DIDIxDADA",
-          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
         }
       ],
-      "duration_ms": 214144,
-      "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
-      "url": "https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
-        "name": "Hay aliya",
-        "url": "https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR"
-      },
-      "artists": [
-        {
-          "name": "Numidia Lezoul",
-          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Hay aliya",
-      "url": "https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3"
+      "duration_ms": 346267,
+      "name": "Di Arsy-Mu",
+      "url": "https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1159,38 +1171,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Di Arsy-Mu",
-        "url": "https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7"
-      },
-      "artists": [
-        {
-          "name": "Lesti",
-          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
-        }
-      ],
-      "duration_ms": 346267,
-      "name": "Di Arsy-Mu",
-      "url": "https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Ta Que Tiembla",
-      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Wild Girl",
         "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
@@ -1211,18 +1191,18 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "\u5a01\u5ec9",
-        "url": "https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
       "artists": [
         {
-          "name": "Denise Ho",
-          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 305293,
-      "name": "\u5a01\u5ec9",
-      "url": "https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K"
+      "duration_ms": 168755,
+      "name": "Ta Que Tiembla",
+      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1239,6 +1219,22 @@
       "duration_ms": 219787,
       "name": "berlin U5",
       "url": "https://open.spotify.com/track/6S3oslrDkG9vyTDrtyjokA"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "\u5a01\u5ec9",
+        "url": "https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        }
+      ],
+      "duration_ms": 305293,
+      "name": "\u5a01\u5ec9",
+      "url": "https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K"
     },
     {
       "added_at": "2023-11-08 04:01:00",

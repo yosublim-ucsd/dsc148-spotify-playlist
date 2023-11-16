@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Cleffy
 
-1,399 songs - 2 day 18 hr 2 min
+1,400 songs - 2 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,8 @@
 | [letzte bahn](https://open.spotify.com/track/6fTI49dP120DsxFQ1NZFwb) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [letzte bahn](https://open.spotify.com/album/7qyRma7f4IMFf3oTQBArDd) | 2:45 | 2023-04-20 | 2023-05-05 |
 | [Letztes Liebeslied](https://open.spotify.com/track/4Btio8Og0IzYk93AD6fQLc) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [SANITO](https://open.spotify.com/artist/45vHPR6n5JrfHQusM0zbT2), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Letztes Liebeslied](https://open.spotify.com/album/75dxadbFrGH1cIzEc4aUH4) | 2:54 | 2022-08-11 | 2022-08-26 |
 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 | 2023-08-07 | 2023-10-13 |
-| [LiEBE AUF DER RÜCKBANK \- Endzone](https://open.spotify.com/track/3OfIb4uHlA0E9wz86rkb4W) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK EP](https://open.spotify.com/album/3elIgVMmYaYlKxW4wJoK55) | 2:58 | 2023-10-19 |  |
+| [LiEBE AUF DER RÜCKBANK \- Endzone](https://open.spotify.com/track/3OfIb4uHlA0E9wz86rkb4W) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK EP](https://open.spotify.com/album/3elIgVMmYaYlKxW4wJoK55) | 2:58 | 2023-10-19 | 2023-11-16 |
+| [LiEBE AUF DER RÜCKBANK \- Endzone](https://open.spotify.com/track/41ap50dcbzcjO7ZmNkBra3) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK EP](https://open.spotify.com/album/1WDIcTIBSmOR2EZvviaRTf) | 2:58 | 2023-11-14 |  |
 | [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 | 2023-10-26 |  |
 | [Liebe Grüße](https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Liebe Grüße](https://open.spotify.com/album/6L16lSz9FFaDxv1wm3SQPL) | 2:15 | 2023-11-02 | 2023-11-10 |
 | [Liebeslieder](https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Liebeslieder](https://open.spotify.com/album/0MdYyPd4nmLeSAHEM6ABMZ) | 2:06 | 2022-09-09 | 2022-11-04 |

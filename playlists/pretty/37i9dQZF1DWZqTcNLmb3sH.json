@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 55583,
+  "num_followers": 55616,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTEzMTZmYzliMWYzZGQyODVlOTQyNWUwMmI0Mjg5ZjdjZjBiNWJm",
+  "snapshot_id": "MCwzOGIwZGQwZjc1N2I4NTY0MzgyNDA0MzAwZGNhODEzMDljNDk0Y2Jm",
   "tracks": [
+    {
+      "added_at": "2023-11-15 12:36:47",
+      "album": {
+        "name": "Sapta Sagaradaache Ello - Side B Title Track (From \"Sapta Sagaradaache Ello - Side B\")",
+        "url": "https://open.spotify.com/album/0uVxwxuzk53IbEa5SAAvKm"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        },
+        {
+          "name": "Karthik Chennoji Rao",
+          "url": "https://open.spotify.com/artist/5KgNFugdTwo3Ut6cO4rBKu"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Sapta Sagaradaache Ello - Side B Title Track (From \"Sapta Sagaradaache Ello - Side B\")",
+      "url": "https://open.spotify.com/track/6NYDLGkaITUCpnLtkxSBpx"
+    },
     {
       "added_at": "2023-11-06 09:53:51",
       "album": {
@@ -53,6 +77,26 @@
       "url": "https://open.spotify.com/track/2YebLA7W7asVeiLPetGu2L"
     },
     {
+      "added_at": "2023-11-14 12:51:44",
+      "album": {
+        "name": "SuperHero HanuMan (From \"HanuMan\") [Kannada] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/3gKVuxzjwOCtG7yVNsaRSb"
+      },
+      "artists": [
+        {
+          "name": "Sai Veda Vagdevi",
+          "url": "https://open.spotify.com/artist/581Act09xZmnig5orCHZpw"
+        },
+        {
+          "name": "Prakruthi Reddy",
+          "url": "https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN"
+        }
+      ],
+      "duration_ms": 228913,
+      "name": "SuperHero HanuMan (From \"HanuMan\") [Kannada]",
+      "url": "https://open.spotify.com/track/6lp827xJFe7epEZXdZNvA9"
+    },
+    {
       "added_at": "2023-11-09 11:54:06",
       "album": {
         "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
@@ -71,6 +115,78 @@
       "duration_ms": 277635,
       "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
       "url": "https://open.spotify.com/track/2YUeI6etyJniTFjGFplqvd"
+    },
+    {
+      "added_at": "2023-11-15 09:54:00",
+      "album": {
+        "name": "Jeevamaana (From \"Garadi\")",
+        "url": "https://open.spotify.com/album/3wy7tCMVwKKKX8dqikIXqr"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 226434,
+      "name": "Jeevamaana (From \"Garadi\")",
+      "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
+    },
+    {
+      "added_at": "2023-11-14 04:21:09",
+      "album": {
+        "name": "Kaadaadi",
+        "url": "https://open.spotify.com/album/55bfiEiM2iDbSrhqW14wyZ"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "N. Maruthi",
+          "url": "https://open.spotify.com/artist/2eMm3bT7FIwqLYhZJZiyVw"
+        }
+      ],
+      "duration_ms": 214472,
+      "name": "Haleya Haleya",
+      "url": "https://open.spotify.com/track/0BjjZKBNJ1g9sejyOGnkMI"
+    },
+    {
+      "added_at": "2023-11-14 12:49:38",
+      "album": {
+        "name": "Nanna Ravi Neene (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/2AG9iEIflTbPo9wq4YkFKR"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Harshavardhan Rameshwar",
+          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 321675,
+      "name": "Nanna Ravi Neene (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/2yL2P8gYU326hVSL92x7XM"
     },
     {
       "added_at": "2023-11-09 11:55:07",

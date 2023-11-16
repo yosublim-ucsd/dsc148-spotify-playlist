@@ -5660,7 +5660,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 185261,
       "name": "Radio",
       "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
@@ -5866,6 +5866,28 @@
       "duration_ms": 121451,
       "name": "Satisfyer",
       "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233051,
+      "name": "September",
+      "url": "https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C"
     },
     {
       "album": {
@@ -7330,6 +7352,24 @@
     {
       "album": {
         "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
+    },
+    {
+      "album": {
+        "name": "Waterdicht",
         "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
       },
       "artists": [
@@ -7340,7 +7380,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"

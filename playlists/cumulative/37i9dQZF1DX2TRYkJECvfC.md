@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-440 songs - 1 day 13 hr 58 min
+442 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,9 +110,10 @@
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2021-12-08 |  |
 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 | 2021-12-08 |  |
 | [Erhu](https://open.spotify.com/track/0sXODNdDzktWJGs5X8lIym) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [SF](https://open.spotify.com/album/7ceDiBTfAmQdHRD7orCyol) | 6:21 | 2021-12-08 | 2022-06-01 |
+| [Evaporate \(feat\. PaulWetz\) \- Edit](https://open.spotify.com/track/6ZaR7Fb1N0bI40eqT0Do0W) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Evaporate EP](https://open.spotify.com/album/6WRf5d1VlRrV2Y3Agzitee) | 4:28 | 2023-11-10 |  |
 | [Evaporate ft\. PaulWetz \- Edit](https://open.spotify.com/track/6NWAAl3Awelh8I7cs4ud2w) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Evaporate EP](https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1) | 4:28 | 2021-12-08 | 2023-11-05 |
 | [Every Cow Has A Bird \- original mix](https://open.spotify.com/track/1Gu8YosrIxq31SoQA1Nwfh) | [Guti & Dubshape](https://open.spotify.com/artist/6tJPCovbmTJlZiKQ89583A) | [Every Cow Has A Bird / Bueno](https://open.spotify.com/album/6liHJOZ7VRPt96kREPCKN1) | 7:55 | 2022-05-03 | 2023-11-05 |
-| [EVERYTHINGSALRIGHT](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [EVERYTHINGSALRIGHT](https://open.spotify.com/album/6fxy5Sv8laZHCodqu9ICQG) | 2:55 | 2023-06-30 |  |
+| [EVERYTHINGSALRIGHT](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [EVERYTHINGSALRIGHT](https://open.spotify.com/album/6fxy5Sv8laZHCodqu9ICQG) | 2:55 | 2023-06-30 | 2023-11-16 |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-28 |  |
 | [Fade](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Fade](https://open.spotify.com/album/29CnJBF1VbNG79dvyguEzj) | 3:18 | 2023-02-03 |  |
 | [Fade \- Fatima & Jerome Interpretation](https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 6:03 | 2021-12-08 | 2023-03-07 |
@@ -222,7 +223,7 @@
 | [Majika](https://open.spotify.com/track/61viWAXyKA61e0Gxv2j6Q6) | [Heliotype](https://open.spotify.com/artist/5N4dVbRP8Iu2sbKC8r8JeF) | [Majika](https://open.spotify.com/album/3MgAaIzurGwvNkOHh9ysyI) | 3:33 | 2021-12-08 | 2023-02-06 |
 | [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 | 2023-07-13 |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 |  |
-| [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 |  |
+| [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 | 2023-11-16 |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2023-01-06 |  |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 |  |
 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-10-28 | 2023-11-11 |
@@ -278,6 +279,7 @@
 | [Ordel](https://open.spotify.com/track/1IApuzXhafsVkrijOUUhVt) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Ordel](https://open.spotify.com/album/2BPC2mYDZSnAJaGdibjlrE) | 4:18 | 2021-12-08 | 2022-07-29 |
 | [Ordel](https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:18 | 2022-05-03 |  |
 | [Other Side](https://open.spotify.com/track/0VRRRETDAp4aubJJAlhXjH) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 6:09 | 2021-12-08 | 2023-11-05 |
+| [Other Side](https://open.spotify.com/track/1ry89zeBvACJDv7jjMv9lT) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2TjPI6SuKlhoH93A5x9iqD) | 6:09 | 2023-11-10 |  |
 | [Out Of The Woods](https://open.spotify.com/track/4kXibedUZqFewRsRQGzxjh) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Out Of The Woods](https://open.spotify.com/album/49WuLA5VuGqvSnat6CGcQ5) | 4:35 | 2023-04-04 |  |
 | [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 | 2021-12-08 | 2023-08-11 |
 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 | 2023-09-22 |  |

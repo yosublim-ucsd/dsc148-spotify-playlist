@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2WLMvx4LFU.md) - [plain]
 
 > La nostalgia ochentera traída a la actualidad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,231 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,251 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

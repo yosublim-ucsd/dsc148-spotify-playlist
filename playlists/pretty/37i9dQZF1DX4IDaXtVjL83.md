@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: The Kid LAROI, Jung Kook, Central Cee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,138 likes - 89 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,471 likes - 89 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

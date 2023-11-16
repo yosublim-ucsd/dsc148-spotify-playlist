@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "\u30b3\u30b3\u30ed\u30c8\u30e9\u30d9\u30eb",
+        "url": "https://open.spotify.com/album/6BQDmo7rsb56PwwL44Yi4f"
+      },
+      "artists": [
+        {
+          "name": "Miho Okasaki",
+          "url": "https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232301,
+      "name": "\u30b3\u30b3\u30ed\u30c8\u30e9\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0DOVx6G53HGJ1ZduLJUxg0"
+    },
+    {
+      "album": {
         "name": "\u30d2\u30ab\u30ea\u30cf\u30ca\u30c4",
         "url": "https://open.spotify.com/album/4UWYKyiyUnjkiTfrp8P3sU"
       },

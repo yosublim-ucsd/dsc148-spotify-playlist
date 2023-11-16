@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Undeniable Love",
+        "url": "https://open.spotify.com/album/4HHoMWPivUumtBDKR3xHY8"
+      },
+      "artists": [
+        {
+          "name": "Elvis E",
+          "url": "https://open.spotify.com/artist/4LSiLtX7e1IRV9AQ2Zj9w4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239847,
+      "name": "Praise Anthem",
+      "url": "https://open.spotify.com/track/6SggGs62ILFrYXmushLa8C"
+    },
+    {
+      "album": {
         "name": "Celebrating Jesus",
         "url": "https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 217365,
       "name": "YAHWEH (Afro Culture)",
       "url": "https://open.spotify.com/track/17E2UfGUSSw6TfQmSSCSX8"

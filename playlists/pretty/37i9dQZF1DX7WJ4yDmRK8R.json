@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 362891,
+  "num_followers": 363038,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Hang-Ups",
-        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Let\u2019s Face It",
         "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 195195,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Hang-Ups",
+        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "She's Kerosene",
-      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "She's Kerosene",
+      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Funky Kingston",
-        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+      "duration_ms": 182880,
+      "name": "Keasbey Nights",
+      "url": "https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -547,34 +547,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Keasbey Nights",
-      "url": "https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Everything Goes Numb",
-        "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Everything Went Numb",
-      "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -591,6 +575,22 @@
       "duration_ms": 112493,
       "name": "All Outta Angst",
       "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Everything Goes Numb",
+        "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Everything Went Numb",
+      "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 176693,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
+      "duration_ms": 116946,
+      "name": "9mm And A Three Piece Suit",
+      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Ball Of Fire",
-        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
         }
       ],
-      "duration_ms": 420840,
-      "name": "Rock Fort Rock",
-      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
+      "duration_ms": 176693,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "Ball Of Fire",
+        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
         }
       ],
-      "duration_ms": 116946,
-      "name": "9mm And A Three Piece Suit",
-      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
+      "duration_ms": 420840,
+      "name": "Rock Fort Rock",
+      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Big Daddy Multitude (2010 Re-Issue)",
-        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Mr. Smiley",
-      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 154293,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Big Daddy Multitude (2010 Re-Issue)",
+        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -803,8 +803,8 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "More Noise And Other Disturbances",
-        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
+      "duration_ms": 166166,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -883,8 +883,8 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+        "name": "More Noise And Other Disturbances",
+        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
         }
       ],
-      "duration_ms": 166166,
-      "name": "The Rascal King",
-      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+      "duration_ms": 206800,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Get Warmer",
         "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 282093,
       "name": "I Don't Love You Anymore",
       "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Civil Disobedients",
-        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
-      },
-      "artists": [
-        {
-          "name": "Capdown",
-          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Ska Wars",
-      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Civil Disobedients",
+        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
+      },
+      "artists": [
+        {
+          "name": "Capdown",
+          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "Ska Wars",
+      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
     },
     {
       "added_at": "2023-10-27 21:55:53",

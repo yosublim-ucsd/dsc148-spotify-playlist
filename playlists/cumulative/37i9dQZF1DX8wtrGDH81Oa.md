@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-227 songs - 11 hr 39 min
+229 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [it is](https://open.spotify.com/track/0GJapcRCiJv2fzpEKLwWcx) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [it is](https://open.spotify.com/album/3t3VphVnoCyUchyVjwaIa4) | 2:15 | 2023-06-02 |  |
 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 | 2023-06-19 |  |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-04-15 | 2022-05-11 |
+| [Kap Verde](https://open.spotify.com/track/2BdPPhUCDxD3cXToZ8MdLp) | [Uncle Feaster](https://open.spotify.com/artist/0Dhno1IpOOPqUZ4gAc6fFh) | [Kap Verde](https://open.spotify.com/album/2fLjwHU8YPx8jaRwfZhKfO) | 2:56 | 2023-11-14 |  |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2022-04-15 | 2022-05-11 |
 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-15 |  |
@@ -181,6 +182,7 @@
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2022-04-15 | 2023-07-29 |
 | [Ses Salines](https://open.spotify.com/track/3XSFQLLzrM1nDWh13A4eci) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Ses Salines](https://open.spotify.com/album/2oGLfb0Nv0cDcyO2FRwEk8) | 2:56 | 2022-06-17 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 | 2023-06-03 |
+| [Shoulders](https://open.spotify.com/track/2XP925zNPBJ0lqGWJ1jqkz) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [Shoulders](https://open.spotify.com/album/2BoAhHcBYDZf29o20FECmI) | 2:14 | 2023-11-14 |  |
 | [Show Me How It's Done](https://open.spotify.com/track/6HjO9nSZmlTy5fgSWXcpgu) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Tullinge Crickets / Show Me How It's Done](https://open.spotify.com/album/0jf2evCQuvnGQX3ngYuLGG) | 5:13 | 2022-04-15 | 2022-05-11 |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 | 2022-07-08 |
 | [Sker](https://open.spotify.com/track/3jwZYMxDsuWB5stJ3bEcLZ) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sker](https://open.spotify.com/album/4yFrPTe8yehyzaBQeHfaGI) | 4:52 | 2022-08-05 |  |

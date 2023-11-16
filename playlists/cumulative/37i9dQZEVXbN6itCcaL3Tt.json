@@ -6224,7 +6224,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 189850,
       "name": "Cringowy Lovesong",
       "url": "https://open.spotify.com/track/4RglJQMuFuC06tiqN5rRU0"
@@ -7958,7 +7958,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
@@ -12848,7 +12848,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 174557,
       "name": "Jestem Twoj\u0105 Bajk\u0105",
       "url": "https://open.spotify.com/track/3YdH5OPiQQt39x7MpgOwUT"
@@ -15018,7 +15018,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -15994,7 +15994,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 245400,
       "name": "Madison",
       "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
@@ -20741,6 +20741,28 @@
     },
     {
       "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "album": {
         "name": "OWOCE 33",
         "url": "https://open.spotify.com/album/79A8llxxEItgvxqIzYMiIE"
       },
@@ -23366,7 +23388,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 156800,
       "name": "Prywatny bal",
       "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
@@ -26592,8 +26614,8 @@
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra 2023",
-          "url": "https://open.spotify.com/artist/2qzUKhz7PXTFMdcUO8cA6q"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
         },
         {
           "name": "Igo",
@@ -28200,7 +28222,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 203835,
       "name": "Tokyo (wsp\u00f3\u0142czesny)",
       "url": "https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11"

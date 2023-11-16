@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! ",
-  "num_followers": 130148,
+  "num_followers": 130359,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -63,7 +63,7 @@
     {
       "added_at": "2023-08-14 15:01:29",
       "album": {
-        "name": "Nothing But The Best (Remastered)",
+        "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
       "artists": [
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-14 15:01:29",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
-      "added_at": "2023-08-14 15:01:29",
-      "album": {
         "name": "Recital",
         "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 224333,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
+    },
+    {
+      "added_at": "2023-08-14 15:01:29",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
       "added_at": "2023-08-14 15:01:29",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-08-14 15:01:29",
       "album": {
-        "name": "Rattle And Hum",
-        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+        "name": "The Ultimate Petula Clark",
+        "url": "https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Angel Of Harlem",
-      "url": "https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ"
+      "duration_ms": 187760,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
     },
     {
       "added_at": "2023-08-14 15:01:29",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-08-14 15:01:29",
       "album": {
-        "name": "The Ultimate Petula Clark",
-        "url": "https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8"
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
       "artists": [
         {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 187760,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
+      "duration_ms": 229266,
+      "name": "Angel Of Harlem",
+      "url": "https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ"
     },
     {
       "added_at": "2023-08-14 15:01:29",

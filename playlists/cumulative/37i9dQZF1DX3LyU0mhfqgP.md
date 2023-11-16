@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LIE NING
 
-996 songs - 2 day 6 hr 8 min
+997 songs - 2 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,8 @@
 | [Playing God](https://open.spotify.com/track/6ql1z5p5t2OXMxIxsRcYUu) | [Katie Buxton](https://open.spotify.com/artist/6HIvdxEp3DJ5IoiPcqIquO) | [Playing God](https://open.spotify.com/album/5kTZtPSbsQOIvVIjWz3FPb) | 3:43 | 2022-04-01 | 2022-07-27 |
 | [PLS DADDY](https://open.spotify.com/track/11LItHLzC70mIBzlifYCPU) | [Robin Solf](https://open.spotify.com/artist/0s2mgqgMuYfyB1c5rysyXL) | [PLS DADDY](https://open.spotify.com/album/1yMKq2OFt9PGa9e7fiBRCI) | 2:10 | 2023-06-30 | 2023-07-12 |
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2021-12-17 | 2022-03-26 |
-| [Poduszka](https://open.spotify.com/track/4d9jglP0b8TlQN9fOOAdLd) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/1nwwoJavMoYDULwVqyn51W) | 3:44 | 2023-11-14 |  |
+| [Poduszka](https://open.spotify.com/track/4d9jglP0b8TlQN9fOOAdLd) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/1nwwoJavMoYDULwVqyn51W) | 3:44 | 2023-11-14 | 2023-11-16 |
+| [Poduszka](https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv) | 3:44 | 2023-11-14 |  |
 | [Podziemny Slam](https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Podziemny Slam](https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP) | 2:59 | 2023-10-10 | 2023-11-14 |
 | [Point Me Toward The Real](https://open.spotify.com/track/3l0EWOuGylX8eNrXJVDRrs) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Point Me Toward The Real](https://open.spotify.com/album/4s8642jMUumY3TCovwAh3m) | 4:55 | 2022-03-04 | 2022-04-13 |
 | [Poor Girl A Long Way From Heaven](https://open.spotify.com/track/4saON51OXJzq7dDhw9ge6R) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 3:41 | 2023-03-31 | 2023-04-14 |

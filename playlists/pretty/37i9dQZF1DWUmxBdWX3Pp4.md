@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,506 likes - 104 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,426 likes - 104 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

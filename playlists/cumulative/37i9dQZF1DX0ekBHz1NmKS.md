@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-863 songs - 1 day 21 hr 35 min
+864 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Gåshud](https://open.spotify.com/track/645fENOPS8d6qMzvHvp1ZL) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Gåshud](https://open.spotify.com/album/0wwgyVOVXQtEvA30BgmX4Q) | 3:35 | 2021-12-16 | 2022-01-12 |
 | [h4msterb0y <3 Canada](https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [h4msterb0y <3 Canada](https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu) | 3:22 | 2023-10-05 |  |
 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 | 2023-02-01 | 2023-03-23 |
+| [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2023-11-09 |  |
 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 | 2023-06-29 |  |
 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 | 2023-08-10 |  |
 | [Happy For Me](https://open.spotify.com/track/2fePTyV9lwf7qYLkyCwTsX) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Happy For Me](https://open.spotify.com/album/6bvJbuBDbG305Nqn3XGdly) | 2:59 | 2021-12-16 | 2022-01-14 |
@@ -702,7 +703,7 @@
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2021-12-16 | 2022-03-11 |
 | [sugar](https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [sugar](https://open.spotify.com/album/15RYAPvGvUvil1Vu8sI5Xi) | 3:05 | 2022-06-02 | 2022-07-19 |
 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 | 2021-12-16 | 2022-04-01 |
-| [Summer 16](https://open.spotify.com/track/52SIiW51Nr9JwtM9pJ5Mn3) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Summer 16](https://open.spotify.com/album/4aPNYejXgOmwAstK7XJLRD) | 2:57 | 2023-08-17 |  |
+| [Summer 16](https://open.spotify.com/track/52SIiW51Nr9JwtM9pJ5Mn3) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Summer 16](https://open.spotify.com/album/4aPNYejXgOmwAstK7XJLRD) | 2:57 | 2023-08-17 | 2023-11-16 |
 | [Summer Of 99](https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 3:12 | 2023-11-09 |  |
 | [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 | 2023-08-17 | 2023-11-02 |
 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-14 |  |

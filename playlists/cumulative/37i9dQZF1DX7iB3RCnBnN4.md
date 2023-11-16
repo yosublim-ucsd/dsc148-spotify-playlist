@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Taylor Swift
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: LISA
 
 543 songs - 1 day 9 hr 6 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,903 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,932 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 19 | [Poor but Ambitious](https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Calypso Way](https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR) | 3:07 |
 | 20 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 |
 | 21 | [Bamboo Dance](https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c) | [Black Czar](https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:54 |
-| 22 | [Money Is King](https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X) | [The Tiger](https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
+| 22 | [One Morning](https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:56 |
 | 23 | [No Melda](https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 2:35 |
-| 24 | [One Morning](https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:56 |
+| 24 | [Money Is King](https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X) | [The Tiger](https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
 | 25 | [Meshuggener](https://open.spotify.com/track/48oVuKnl8R6gH5CEjB5qVN) | [John L\. Nichols](https://open.spotify.com/artist/4v5ivzSlS5RaolIHZlKnXc) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 3:25 |
 | 26 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 |
 | 27 | [Treasury Scandal](https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L) | [Attila the Hun](https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG) | [Treasury Scandal](https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN) | 3:13 |
 | 28 | [Move Yuh Foot](https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 6:43 |
-| 29 | [Mr\. Nankivell's Speech](https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s](https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2) | 2:57 |
-| 30 | [My Reply to Houdini](https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL) | [The Executor](https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 3:05 |
+| 29 | [My Reply to Houdini](https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL) | [The Executor](https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 3:05 |
+| 30 | [Mr\. Nankivell's Speech](https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s](https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2) | 2:57 |
 | 31 | [In the Dew and the Rain](https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:58 |
 | 32 | [Lieutnant Julian](https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr) | [Sam Manning](https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
 | 33 | [Adeline](https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:26 |

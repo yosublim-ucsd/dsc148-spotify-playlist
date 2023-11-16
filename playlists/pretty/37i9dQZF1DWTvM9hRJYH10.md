@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,778 likes - 172 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,839 likes - 172 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

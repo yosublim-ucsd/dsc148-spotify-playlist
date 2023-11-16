@@ -254,10 +254,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 159272,
       "name": "Dino Groove",
       "url": "https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1"
+    },
+    {
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Dino Groove",
+      "url": "https://open.spotify.com/track/5Um0oX2EdKjq3Jb5lzKZPA"
     },
     {
       "album": {

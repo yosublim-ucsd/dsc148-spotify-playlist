@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 65,063 likes - 139 songs - 7 hr 37 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 65,057 likes - 139 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 33 | [Curtis, I'm Sorry](https://open.spotify.com/track/6avwMMyTPMagqCHWrXYZTG) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Curtis, I'm Sorry](https://open.spotify.com/album/1VZj9quVWAerTpaJ5cljVs) | 2:43 |
 | 34 | [Down Time](https://open.spotify.com/track/2PZ6nSf1Zzgwx9vcXSVhpp) | [Todd Baker](https://open.spotify.com/artist/2RfwvVMJyYSZNtzYu67LL4) | [Tren Tracks \(Music from the Media Molecule "Dreams" Original\)](https://open.spotify.com/album/7th19kqkg8vQnq1Ro92g8G) | 4:08 |
 | 35 | [The Diary](https://open.spotify.com/track/3kaMnDGKj4KIIf0R4c6II8) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Diary](https://open.spotify.com/album/5qfb3STphWnCYiiUbebdf7) | 3:20 |
-| 36 | [On the Nature of Daylight](https://open.spotify.com/track/1iz6vOyntcWB7irotdvlwK) | [Max Richter](https://open.spotify.com/artist/5xSAkyg5Mx4zT8Urb8dG9F), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Luna](https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd) | 6:31 |
+| 36 | [On the Nature of Daylight](https://open.spotify.com/track/1iz6vOyntcWB7irotdvlwK) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Luna](https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd) | 6:31 |
 | 37 | [Suite for String Orchestra No\. 3 in D Major, BWV 1068: Air \(Arr\. for piano by A\. Siloti\)](https://open.spotify.com/track/0QyjUVRu3BkQNSJkgJ4whZ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Suite for String Orchestra No\. 3 in D Major, BWV 1068: Air \(Arr\. for piano by A\. Siloti\)](https://open.spotify.com/album/3iM0yCNjk0xEoGyi3j5Ey6) | 4:29 |
 | 38 | [Farewell to Stromness](https://open.spotify.com/track/32TZt1GohBFxOVNYmwdwVU) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Peter Maxwell Davies](https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR) | [Farewell to Stromness](https://open.spotify.com/album/3ap7McPprVo6NYuFkgnIEN) | 3:43 |
 | 39 | [Human](https://open.spotify.com/track/62dY12zDrJYqkOpLU53aQK) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Genesis](https://open.spotify.com/album/0pGgNxR0YecEYnygce6C8e) | 2:10 |

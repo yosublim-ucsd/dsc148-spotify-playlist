@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 290731,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7x0hW2ffqsVytFrBAKfDBX"
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 307552,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1u07aInE0YbotTqwvct90R"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 225120,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9"
@@ -6418,6 +6418,28 @@
       "duration_ms": 197764,
       "name": "Metamorphoses",
       "url": "https://open.spotify.com/track/26DlNiM65CQpLZ7iW2QBNE"
+    },
+    {
+      "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/3N3PhahxKdLFqGLJoHGEWN"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311507,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/5xCKy767Ol19tTbD5wszUf"
     },
     {
       "album": {

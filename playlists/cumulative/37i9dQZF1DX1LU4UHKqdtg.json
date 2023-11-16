@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NiziU",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: aespa",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 211933,
       "name": "Feel me",
       "url": "https://open.spotify.com/track/3hUmntqwqsjG9PJjih9OIT"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 211053,
       "name": "ICARUS",
       "url": "https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ"
@@ -7116,7 +7116,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 185920,
       "name": "Killin' Me Good (English Ver.)",
       "url": "https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66"
@@ -9544,6 +9544,24 @@
       "duration_ms": 184533,
       "name": "PARTY ROCK",
       "url": "https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y"
+    },
+    {
+      "album": {
+        "name": "PARTY ROCK -Japanese ver.-",
+        "url": "https://open.spotify.com/album/7iHWU6plpiT6kokmpAVyqN"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "PARTY ROCK -Japanese ver.-",
+      "url": "https://open.spotify.com/track/0XTb4lIFKG13EI4zzIBirT"
     },
     {
       "album": {
@@ -12755,6 +12773,24 @@
     },
     {
       "album": {
+        "name": "Thank You for Being There",
+        "url": "https://open.spotify.com/album/5UwiCVWqMp2tvhgthkHMyw"
+      },
+      "artists": [
+        {
+          "name": "Ji Chang Wook",
+          "url": "https://open.spotify.com/artist/2jFwhTLuD4ysBK8vMnbmCf"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294893,
+      "name": "Thank You for Being There",
+      "url": "https://open.spotify.com/track/0nVVtxy2wym2cgHdij2a7Q"
+    },
+    {
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
       },
@@ -14008,7 +14044,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 214453,
       "name": "Way Back Home - Japanese Ver.",
       "url": "https://open.spotify.com/track/79wGSosJVd0rCq0WVODaph"

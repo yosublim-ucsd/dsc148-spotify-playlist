@@ -2979,6 +2979,32 @@
     },
     {
       "album": {
+        "name": "Daquele Naip",
+        "url": "https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Brunnin",
+          "url": "https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz"
+        },
+        {
+          "name": "Hpbeats",
+          "url": "https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dichave",
+      "url": "https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3"
+    },
+    {
+      "album": {
         "name": "Diferenciado",
         "url": "https://open.spotify.com/album/2aUh7bOcyA7SzY6xylArIn"
       },
@@ -3688,6 +3714,10 @@
         {
           "name": "Dj Nk Da Serra",
           "url": "https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
         }
       ],
       "date_added": "2023-10-24",
@@ -10862,7 +10892,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 164000,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"

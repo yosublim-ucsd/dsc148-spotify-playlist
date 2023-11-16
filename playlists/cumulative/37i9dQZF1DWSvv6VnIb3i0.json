@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "M. Pokora",
+        "url": "https://open.spotify.com/album/6JidpQNfJzopxZjqbak9TG"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        },
+        {
+          "name": "Lady Sweety",
+          "url": "https://open.spotify.com/artist/0PAaEZtd88SWagBZrbRZT4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Elle me contr\u00f4le",
+      "url": "https://open.spotify.com/track/27kV1kvGUacbiRpf1VsQWe"
+    },
+    {
+      "album": {
         "name": "Musique de lovers",
         "url": "https://open.spotify.com/album/1GbnWa1Jvt4p8FYRLZ1FKQ"
       },
@@ -182,7 +204,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 226400,
       "name": "Elle me contr\u00f4le",
       "url": "https://open.spotify.com/track/38k9TH0Icrc4L68iICmWgd"

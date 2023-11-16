@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Justo Antes de la Guerra con los Esquimales
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,546 likes - 87 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,572 likes - 87 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

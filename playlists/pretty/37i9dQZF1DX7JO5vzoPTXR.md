@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFxQm5kACHpXo?si=e001f7e7337142b9"> KAMILLE </a>, <a href="https://open.spotify.com/playlist/37i9dQZF1EFNris1uapuvu?si=fe089bf421104ba1"> Carla Marie </a> & <a href="https://open.spotify.com/playlist/37i9dQZF1EFymkJOZK4uO1?si=edc3f1f5cb2e4ecc"> Jin Jin </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,672 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,714 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

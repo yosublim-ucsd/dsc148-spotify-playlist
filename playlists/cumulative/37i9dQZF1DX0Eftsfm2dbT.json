@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Jinmenusagi",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Only U",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Bandiera",
+        "url": "https://open.spotify.com/album/3yymiH75bpCL305bcBajTs"
+      },
+      "artists": [
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202835,
+      "name": "Bandiera",
+      "url": "https://open.spotify.com/track/3FFrlPwGseeA6Xrc3647vG"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm"
       },
@@ -572,7 +594,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 216000,
       "name": "Be Okay",
       "url": "https://open.spotify.com/track/0qfv1XQTuwfGpDZvdEpB0m"
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 165161,
       "name": "COMFORTABLE",
       "url": "https://open.spotify.com/track/6iRAr0Wpief0CziTh11vuX"
@@ -1366,6 +1388,28 @@
       "duration_ms": 240175,
       "name": "DOSHABURI - Remix",
       "url": "https://open.spotify.com/track/1C0685pFZ12nvdKbKzQ6Of"
+    },
+    {
+      "album": {
+        "name": "DREAM!",
+        "url": "https://open.spotify.com/album/5o9p4CUP9NUx7F3C4O0IMK"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "DREAM!",
+      "url": "https://open.spotify.com/track/2aMhMP58VvMNo239lQihep"
     },
     {
       "album": {
@@ -2014,6 +2058,24 @@
       "duration_ms": 181005,
       "name": "GRID",
       "url": "https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168599,
+      "name": "Guerilla",
+      "url": "https://open.spotify.com/track/5DNC77KlKgEIzkZVZBAtdS"
     },
     {
       "album": {
@@ -3011,6 +3073,28 @@
     },
     {
       "album": {
+        "name": "ME TIME",
+        "url": "https://open.spotify.com/album/6Gs7PRxTjiJArmnTQu4kQt"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "ME TIME",
+      "url": "https://open.spotify.com/track/3wXQUSNyXS8AsTnCn8Xn9s"
+    },
+    {
+      "album": {
         "name": "Me vs. Me",
         "url": "https://open.spotify.com/album/5ioH2X1MVgNbIy9rZjdTzs"
       },
@@ -3040,7 +3124,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 155223,
       "name": "Miite",
       "url": "https://open.spotify.com/track/3uWZxSe9r4YvDL0k34Fc0d"
@@ -3306,7 +3390,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 168861,
       "name": "never4ever",
       "url": "https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv"
@@ -3506,7 +3590,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 149425,
       "name": "Old Rookie",
       "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
@@ -3562,7 +3646,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 182222,
       "name": "ONE",
       "url": "https://open.spotify.com/track/2VsQ0diLXV5f1WLeDS0p7H"
@@ -3832,6 +3916,24 @@
       "duration_ms": 138486,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3tWsNTG8oCwGZXKxsLO9up"
+    },
+    {
+      "album": {
+        "name": "Pierce Snake",
+        "url": "https://open.spotify.com/album/60joKvUnAOwWC0dBaua7vp"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190978,
+      "name": "Pierce Snake",
+      "url": "https://open.spotify.com/track/7yUaFzFJWNryC6IcvkXyPp"
     },
     {
       "album": {
@@ -4143,6 +4245,28 @@
     },
     {
       "album": {
+        "name": "30.28.3.0",
+        "url": "https://open.spotify.com/album/6URZcPggAyOY8xmNyMgeJ4"
+      },
+      "artists": [
+        {
+          "name": "MOTONARI",
+          "url": "https://open.spotify.com/artist/4hKWXkmygX8rY3e0YI0IQk"
+        },
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150743,
+      "name": "Rollin\u2019",
+      "url": "https://open.spotify.com/track/6uCScLbYOicfKzdqgqUiXa"
+    },
+    {
+      "album": {
         "name": "rose",
         "url": "https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL"
       },
@@ -4352,7 +4476,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191994,
       "name": "Space Game",
       "url": "https://open.spotify.com/track/5Ul7pkpoCGaLqhZiASXuuz"
@@ -4426,6 +4550,24 @@
       "duration_ms": 159493,
       "name": "TAMAROU - 2023 Remix",
       "url": "https://open.spotify.com/track/04KiAYckwbH4dmjrI50E1D"
+    },
+    {
+      "album": {
+        "name": "TARAREBA",
+        "url": "https://open.spotify.com/album/3CesSiD2smtYiNsgVWyihT"
+      },
+      "artists": [
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201063,
+      "name": "TARAREBA",
+      "url": "https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG"
     },
     {
       "album": {
@@ -4550,7 +4692,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 219331,
       "name": "THE UNION",
       "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
@@ -5322,6 +5464,28 @@
       "duration_ms": 175318,
       "name": "\u79cb\u6c34",
       "url": "https://open.spotify.com/track/1E5EM4h8tGgagAMH2gONBU"
+    },
+    {
+      "album": {
+        "name": "waypoint",
+        "url": "https://open.spotify.com/album/6tpxIZuUEHJRc8FsNrLZPP"
+      },
+      "artists": [
+        {
+          "name": "KUJA",
+          "url": "https://open.spotify.com/artist/3PO2yfcvZ1LRC5rtNSWFgF"
+        },
+        {
+          "name": "Silent Killa Joint",
+          "url": "https://open.spotify.com/artist/1nNfL1cMyGVkyODtqf90wI"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "\u7e70\u8fd4",
+      "url": "https://open.spotify.com/track/0BXImAEoDUxjhF8S1nhUTt"
     },
     {
       "album": {

@@ -1,31 +1,63 @@
 {
   "description": "Quand l'indie et l'electro ne font qu'un.",
-  "num_followers": 27166,
+  "num_followers": 27349,
   "original_name": "indelectro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGViMWQzZjI0MmQ1NDMxNjdkN2FhMTUzYjBjZWI0YTNiZWEwZThi",
+  "snapshot_id": "MCwyOGZjNTg1MjNiOTc5YzRiMzZhNzBiZGE3MjRjZWQyNjYwMWU1NDY2",
   "tracks": [
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ"
+        "name": "Late",
+        "url": "https://open.spotify.com/album/4rk0GJtHxDsQwAHFZ3T4hK"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Saint DX",
+          "url": "https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18"
         }
       ],
-      "duration_ms": 344777,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl"
+      "duration_ms": 212866,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/0ny0lgetdxGbSsD8WnGXPp"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Run Boy Run",
+      "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 366997,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -45,91 +77,23 @@
       "url": "https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
-        "name": "The Golden Age",
-        "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ"
       },
       "artists": [
         {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Run Boy Run",
-      "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+      "duration_ms": 344777,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Feel It All Around",
-      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "15 Again (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Toop Toop",
-      "url": "https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Complete Me (feat. Self Esteem)",
-        "url": "https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO"
-      },
-      "artists": [
-        {
-          "name": "Django Django",
-          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
-        },
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 286221,
-      "name": "Complete Me (feat. Self Esteem)",
-      "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
@@ -149,7 +113,47 @@
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "You've Got The Love (Jamie xx Rework)",
+        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 342990,
+      "name": "You've Got The Love - Jamie xx Rework",
+      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 300122,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
@@ -165,27 +169,119 @@
       "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
-        "name": "Crack My Bones",
-        "url": "https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx"
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
       },
       "artists": [
         {
-          "name": "The Shoes",
-          "url": "https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP"
-        },
-        {
-          "name": "ANTHONIN TERNANT",
-          "url": "https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE"
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Time To Dance",
-      "url": "https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z"
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "She Wants Revenge",
+        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
+      },
+      "artists": [
+        {
+          "name": "She Wants Revenge",
+          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+        }
+      ],
+      "duration_ms": 284613,
+      "name": "Tear You Apart",
+      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Hercules & Love Affair",
+        "url": "https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 378256,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Living On The Edge Of Time",
+        "url": "https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Always On the Run",
+      "url": "https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Die In Shanghai",
+        "url": "https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC"
+      },
+      "artists": [
+        {
+          "name": "Las Aves",
+          "url": "https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "N.E.M.",
+      "url": "https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Feel It All Around",
+      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Before the Dawn Heals Us",
+        "url": "https://open.spotify.com/album/772BNzeP2P72saAQGiDPyX"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243229,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Lanterns",
         "url": "https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J"
@@ -205,71 +301,43 @@
       "url": "https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
-        "name": "Living On The Edge Of Time",
-        "url": "https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg"
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
       },
       "artists": [
         {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Always On the Run",
-      "url": "https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr"
+      "duration_ms": 208946,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+        "name": "Crack My Bones",
+        "url": "https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 252255,
-      "name": "Two Thousand and Seventeen",
-      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Hercules & Love Affair",
-        "url": "https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ"
-      },
-      "artists": [
+          "name": "The Shoes",
+          "url": "https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP"
+        },
         {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+          "name": "ANTHONIN TERNANT",
+          "url": "https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE"
         }
       ],
-      "duration_ms": 378256,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE"
+      "duration_ms": 196360,
+      "name": "Time To Dance",
+      "url": "https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "She Wants Revenge",
-        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
-      },
-      "artists": [
-        {
-          "name": "She Wants Revenge",
-          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
-        }
-      ],
-      "duration_ms": 284613,
-      "name": "Tear You Apart",
-      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Odd Blood",
         "url": "https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG"
@@ -285,7 +353,7 @@
       "url": "https://open.spotify.com/track/5IN6s1ESshNEs5cCKMGcfc"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
@@ -301,23 +369,7 @@
       "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/4ncxigcuC9s3fyjiuJSfQq"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 194735,
-      "name": "Reservoir",
-      "url": "https://open.spotify.com/track/2zZW0SmKlZEoiDJwssNZqA"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "FROM DEEWEE",
         "url": "https://open.spotify.com/album/0ixwdleroFAl7fWqYZaSsA"
@@ -333,7 +385,43 @@
       "url": "https://open.spotify.com/track/6R911DBgp2NuIbOFcdhqyL"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Complete Me (feat. Self Esteem)",
+        "url": "https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 286221,
+      "name": "Complete Me (feat. Self Esteem)",
+      "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/4ncxigcuC9s3fyjiuJSfQq"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 194735,
+      "name": "Reservoir",
+      "url": "https://open.spotify.com/track/2zZW0SmKlZEoiDJwssNZqA"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "A Weekend in the City",
         "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
@@ -349,7 +437,7 @@
       "url": "https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Cansei De Ser Sexy",
         "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
@@ -365,7 +453,7 @@
       "url": "https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
@@ -381,7 +469,7 @@
       "url": "https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Windowlicker",
         "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
@@ -397,7 +485,23 @@
       "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 252255,
+      "name": "Two Thousand and Seventeen",
+      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
+    },
+    {
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "I Love You, Dude",
         "url": "https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r"
@@ -413,7 +517,7 @@
       "url": "https://open.spotify.com/track/7BpRe7He8r2MV6MZPqAKmj"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Pieces Of The People We Love",
         "url": "https://open.spotify.com/album/1IjCAQlroTjoaRMayE3Unf"
@@ -429,7 +533,7 @@
       "url": "https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Bright Like Neon Love",
         "url": "https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4"
@@ -445,7 +549,7 @@
       "url": "https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "The King Of Limbs",
         "url": "https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7"
@@ -461,7 +565,7 @@
       "url": "https://open.spotify.com/track/2QeutlLcJf2V1cMUUsDFT1"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Ladyhawke",
         "url": "https://open.spotify.com/album/0AvEEMu6w6U9neLNaHu4G8"
@@ -477,7 +581,7 @@
       "url": "https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "The Emanator",
         "url": "https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO"
@@ -493,7 +597,7 @@
       "url": "https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Panda Bear Meets The Grim Reaper",
         "url": "https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj"
@@ -509,7 +613,7 @@
       "url": "https://open.spotify.com/track/178yi3jvbIHwnaxeAVUCD9"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "The Unified Field",
         "url": "https://open.spotify.com/album/0l86PJLl6c3BvzHSTRiBmf"
@@ -525,7 +629,7 @@
       "url": "https://open.spotify.com/track/2FnukbZsuLUY3BK6lWtx1K"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV"
@@ -541,7 +645,7 @@
       "url": "https://open.spotify.com/track/1eX0GWObMA2EAnkv5vuWw2"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Thr!!!er",
         "url": "https://open.spotify.com/album/1J2PN5tgc2Z5wz4Vb0xHkn"
@@ -557,7 +661,7 @@
       "url": "https://open.spotify.com/track/46lfv99D2euxzpZeSDZZUv"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/2ZGWMH5dkJMGxRT5gM8lmZ"
@@ -573,7 +677,7 @@
       "url": "https://open.spotify.com/track/3NLRsJ6mXjxsu8CvysDeUE"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
@@ -589,23 +693,7 @@
       "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Heligoland",
-        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 316627,
-      "name": "Splitting The Atom",
-      "url": "https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Myths Of The Near Future",
         "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
@@ -621,7 +709,7 @@
       "url": "https://open.spotify.com/track/0TRvSkiK0eQEejmiu4vBzi"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
@@ -637,7 +725,7 @@
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Fist of God",
         "url": "https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize"
@@ -657,7 +745,7 @@
       "url": "https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Attack Decay Sustain Release",
         "url": "https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO"
@@ -673,7 +761,7 @@
       "url": "https://open.spotify.com/track/10zzmoWQkfiUfZRBDS88i9"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
@@ -689,7 +777,7 @@
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
@@ -709,23 +797,7 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "CLUB 12345",
-        "url": "https://open.spotify.com/album/0QbPKsLZqu9OhiotHNINhr"
-      },
-      "artists": [
-        {
-          "name": "Bagarre",
-          "url": "https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ"
-        }
-      ],
-      "duration_ms": 234584,
-      "name": "Danser seul (Ne suffit pas)",
-      "url": "https://open.spotify.com/track/1Dy89Uwb65YjAp5CC1sUzN"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
@@ -745,7 +817,7 @@
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "La Roux",
         "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
@@ -761,7 +833,7 @@
       "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-11-15 10:21:04",
       "album": {
         "name": "Merriweather Post Pavilion",
         "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
@@ -775,70 +847,6 @@
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Thunder, Lightning, Strike",
-        "url": "https://open.spotify.com/album/7k8fPk75tH4HPLy43neH0S"
-      },
-      "artists": [
-        {
-          "name": "The Go! Team",
-          "url": "https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Ladyflash",
-      "url": "https://open.spotify.com/track/6pVTFOItC56aBNhMVjoGje"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Business Casual",
-        "url": "https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "Don't Turn the Lights On",
-      "url": "https://open.spotify.com/track/2cC48Dvkkw5YK9rLIr83OG"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Fantasy Black Channel",
-        "url": "https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi"
-      },
-      "artists": [
-        {
-          "name": "Late of the Pier",
-          "url": "https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b"
-        }
-      ],
-      "duration_ms": 223938,
-      "name": "Space and the Woods - Cenzo Townshend Mix",
-      "url": "https://open.spotify.com/track/1ShnAaEZXE9Px2chAVLZUk"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "You Have No Idea What You're Getting Yourself Into",
-        "url": "https://open.spotify.com/album/65KhNfhhdeIlKuT3ClZrMh"
-      },
-      "artists": [
-        {
-          "name": "Does It Offend You, Yeah?",
-          "url": "https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Dawn of the Dead",
-      "url": "https://open.spotify.com/track/7shiQ7egWBwnPPHaX1UT83"
     }
   ],
   "unique_name": "indelectro",

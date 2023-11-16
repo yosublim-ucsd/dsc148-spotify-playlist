@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring niina
 
-752 songs - 1 day 18 hr 17 min
+753 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [anxiety](https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [anxiety](https://open.spotify.com/album/4hEfPE1lbqovFYK5sYTpq5) | 3:41 | 2023-01-31 | 2023-06-17 |
 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 | 2022-08-05 | 2022-10-15 |
 | [Aquarius](https://open.spotify.com/track/3ESZfPBmzPc6nbjhy45dAD) | [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Time Machine](https://open.spotify.com/album/6BB4Xczb32vmkRSPiLrUin) | 2:31 | 2022-12-02 | 2023-02-15 |
-| [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 | 2023-06-30 |  |
+| [Array](https://open.spotify.com/track/1CG4BeMSNkPdzEieKWVuDH) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/3e9iO7RuGGNqhkiu2VPSLV) | 2:55 | 2023-11-10 |  |
+| [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 | 2023-06-30 | 2023-11-16 |
 | [Arrowheads](https://open.spotify.com/track/2G8f1hZYyeXzrTQq9ZzAcQ) | [POSITIVE+](https://open.spotify.com/artist/4A9c47Lp1V2eX8879NNzYr) | [Arrowheads](https://open.spotify.com/album/4SS3rdPGwOVIAUr46Car5q) | 4:46 | 2022-07-11 | 2022-10-15 |
 | [As Ever](https://open.spotify.com/track/1qnbZ096P23wL4Gc4Z4XVp) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL) | [As Ever](https://open.spotify.com/album/0U8w9JKO9Ex1mNz2ZgrTJx) | 4:50 | 2022-05-27 | 2022-11-10 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-01 | 2022-03-24 |

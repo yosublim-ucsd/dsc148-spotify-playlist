@@ -6186,6 +6186,24 @@
     {
       "album": {
         "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/45tM63BQiPw2SIbXkMVgz6"
+      },
+      "artists": [
+        {
+          "name": "RanzScooby",
+          "url": "https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237593,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/35KmDvN2PDlwKYNHMkIi7i"
+    },
+    {
+      "album": {
+        "name": "Tic Tac",
         "url": "https://open.spotify.com/album/6szvZyLvqUzmmuFzowzF1G"
       },
       "artists": [
@@ -6196,7 +6214,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 237593,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/5ozgizyjmZws6tF5VAO9iG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,643 likes - 112 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,656 likes - 112 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 48 | [Sweet Crash](https://open.spotify.com/track/0InTIIK1axeSgZGRRo2O6p) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [TRANSPARENT](https://open.spotify.com/album/5BMz8JijSni8GiDoR7W5zP) | 2:33 |
 | 49 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 |
 | 50 | [5 AM](https://open.spotify.com/track/7lCsYqhL4VkjMHnRqxoQet) | [Didi](https://open.spotify.com/artist/618CkKAZvvzRlKwFRMY4Yp), [Don Fuego](https://open.spotify.com/artist/14SlYZiyGCMZsUJZQWaFLt), [Josha Hewitt](https://open.spotify.com/artist/0TT0Jq7scu8wq1tTqEktOl) | [Blaui Stund](https://open.spotify.com/album/6WoMHfeoMlno1z9Uwsg7tE) | 3:37 |
-| 51 | [PSYCHO \(feat\. MERO\)](https://open.spotify.com/track/6susW8spInEVk0vKE33aWd) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [PSYCHO \(feat\. MERO\)](https://open.spotify.com/album/30JoTPJecoAIyzp57C3sTs) | 2:40 |
+| 51 | [PSYCHO \(feat\. MERO\)](https://open.spotify.com/track/6susW8spInEVk0vKE33aWd) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [PSYCHO \(feat\. MERO\)](https://open.spotify.com/album/30JoTPJecoAIyzp57C3sTs) | 2:40 |
 | 52 | [L\-O\-V\-E](https://open.spotify.com/track/0tJAOwuQSi4Sg116Mpbs3w) | [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [JOELINA](https://open.spotify.com/artist/5ED5Q2eSMroI6fSWgpxi7U) | [L\-O\-V\-E](https://open.spotify.com/album/2tp5b974B6uuV5V4nBuuMo) | 2:07 |
 | 53 | [BANDIT](https://open.spotify.com/track/3ThmZJ7LQ3C20FpxU5kXJB) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [BANDIT](https://open.spotify.com/album/1xqiL9v6vHRyhIl6q5iWc4) | 2:20 |
 | 54 | [Mein Weg](https://open.spotify.com/track/7jMAucQ3uoiXSL6FWxSa9E) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Mein Weg](https://open.spotify.com/album/1lGxps9JFbqaI7husnKCBY) | 2:27 |

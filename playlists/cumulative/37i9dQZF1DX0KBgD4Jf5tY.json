@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:4ctoRm4PSfS4v7YdoHgIen\">Macadamia</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:6l4tbTRTSxsnEubYgnd2u9\">fluente</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -4068,7 +4068,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 182629,
       "name": "COME I CLASH",
       "url": "https://open.spotify.com/track/7x1L1aFTrBBJYi959kemtb"
@@ -4515,6 +4515,28 @@
     },
     {
       "album": {
+        "name": "Demonio",
+        "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
+      },
+      "artists": [
+        {
+          "name": "Enea",
+          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
+        },
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Demonio",
+      "url": "https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo"
+    },
+    {
+      "album": {
         "name": "Dentro c'\u00e8 il mare",
         "url": "https://open.spotify.com/album/5aEK5V4zFWxBAvLUbmgbFz"
       },
@@ -4743,6 +4765,28 @@
     },
     {
       "album": {
+        "name": "Devo scappare da qui (E farlo al pi\u00f9 presto)",
+        "url": "https://open.spotify.com/album/0uHLU32SLsl73BKKxVnWz3"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Devo scappare da qui (E farlo al pi\u00f9 presto)",
+      "url": "https://open.spotify.com/track/77oHNQVdYwZFMUGzWVY8H3"
+    },
+    {
+      "album": {
         "name": "CASSA DRITTA :o",
         "url": "https://open.spotify.com/album/2nRirDvSwdvOhxCjIcd5gR"
       },
@@ -4784,6 +4828,24 @@
       "duration_ms": 188160,
       "name": "Di Noi",
       "url": "https://open.spotify.com/track/6lYmZFUK9rw1Ua06mhawnZ"
+    },
+    {
+      "album": {
+        "name": "Dignit\u00e0",
+        "url": "https://open.spotify.com/album/2lvYiCbBdoYamYhHAhwkBW"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Sournia",
+          "url": "https://open.spotify.com/artist/3WCGURs8932ul1bUI4FHCX"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230222,
+      "name": "Dignit\u00e0",
+      "url": "https://open.spotify.com/track/1cjqqwQOqlZ6r0ohCUJJlV"
     },
     {
       "album": {
@@ -5090,6 +5152,24 @@
       "duration_ms": 234857,
       "name": "Dopo di te",
       "url": "https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE"
+    },
+    {
+      "album": {
+        "name": "Doppia",
+        "url": "https://open.spotify.com/album/2wNe3sv0bU3ETk2tUHQt9f"
+      },
+      "artists": [
+        {
+          "name": "Duemila",
+          "url": "https://open.spotify.com/artist/5mhHDyG0ZLlxbskm4GtbCs"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Doppia",
+      "url": "https://open.spotify.com/track/2Z2sOuG8S4Qv1nJTajivos"
     },
     {
       "album": {
@@ -5469,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Esisto Ancora",
+        "url": "https://open.spotify.com/album/1YdHQQlkZNTh5z7AiNo2Ns"
+      },
+      "artists": [
+        {
+          "name": "Barberini",
+          "url": "https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215869,
+      "name": "Esisto Ancora",
+      "url": "https://open.spotify.com/track/468bWQm81GJ1vvjnsrR2US"
+    },
+    {
+      "album": {
         "name": "Essenza",
         "url": "https://open.spotify.com/album/66CkQ2LrTlnXo452FPESx3"
       },
@@ -5700,7 +5798,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 174381,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/0SwkjPNeN4FgLu75WH3832"
@@ -5744,6 +5842,24 @@
       "duration_ms": 183402,
       "name": "Fantasmi",
       "url": "https://open.spotify.com/track/41jKeFW7GBJSG5d307hilw"
+    },
+    {
+      "album": {
+        "name": "Fare di meglio",
+        "url": "https://open.spotify.com/album/1XSkLHmS28LKwS32BLS6zp"
+      },
+      "artists": [
+        {
+          "name": "Montegro",
+          "url": "https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Fare di meglio",
+      "url": "https://open.spotify.com/track/38xL9y63aPO8MyFv6Vq4T8"
     },
     {
       "album": {
@@ -5890,7 +6006,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 149482,
       "name": "Fight",
       "url": "https://open.spotify.com/track/0xYh8xbqilx355Rtj60VIZ"
@@ -6993,6 +7109,28 @@
     },
     {
       "album": {
+        "name": "Helsinki",
+        "url": "https://open.spotify.com/album/1eblMYLfcBaQsvhfv9DXwn"
+      },
+      "artists": [
+        {
+          "name": "letteredistrada",
+          "url": "https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG"
+        },
+        {
+          "name": "Poltrosax",
+          "url": "https://open.spotify.com/artist/2sT6zwK0mPREqLASzsSRVD"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Helsinki",
+      "url": "https://open.spotify.com/track/6ZwgleFedCkFAhheSPI9i0"
+    },
+    {
+      "album": {
         "name": "Limine",
         "url": "https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB"
       },
@@ -7004,7 +7142,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 193833,
       "name": "Hey Mon Amour",
       "url": "https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee"
@@ -7762,6 +7900,24 @@
       "duration_ms": 151333,
       "name": "Indaco",
       "url": "https://open.spotify.com/track/1vH4YLkf5C3gK7CiVyhKOs"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/5yV8HJDum8nNh8oFZsdxYz"
+      },
+      "artists": [
+        {
+          "name": "NIKIITA",
+          "url": "https://open.spotify.com/artist/4bhlkiy9RlBiUyiqSFw7Vg"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171996,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/6ejg3BmZevmJcbwXlFjljO"
     },
     {
       "album": {
@@ -9232,7 +9388,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 228760,
       "name": "Ma chi l'ha detto",
       "url": "https://open.spotify.com/track/4eIWN1p66A9FsKySpgGOpL"
@@ -9676,7 +9832,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 245374,
       "name": "Mare Motus",
       "url": "https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1"
@@ -9966,7 +10122,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 165170,
       "name": "Mi Cerchi",
       "url": "https://open.spotify.com/track/5sJMYWxgu27P2jQAAPoyIc"
@@ -11269,6 +11425,24 @@
     },
     {
       "album": {
+        "name": "Autunno 80",
+        "url": "https://open.spotify.com/album/4MfMNoH9BbDIogppCD25Nt"
+      },
+      "artists": [
+        {
+          "name": "Brando Madonia",
+          "url": "https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Non capisco niente",
+      "url": "https://open.spotify.com/track/6O3EHSyweYh1rnBxnQfDJh"
+    },
+    {
+      "album": {
         "name": "Non ci credo che ti penso ancora",
         "url": "https://open.spotify.com/album/6PIzJhvykPulWFW1Z5HcbL"
       },
@@ -11338,7 +11512,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 166331,
       "name": "Non mi ascolti mai",
       "url": "https://open.spotify.com/track/6Uw0hRK0yxIbxZYuAQV3P7"
@@ -12436,7 +12610,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 179079,
       "name": "panchina",
       "url": "https://open.spotify.com/track/56NMqlBCqpN10K14MQgHDu"
@@ -12472,7 +12646,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 271958,
       "name": "Paola",
       "url": "https://open.spotify.com/track/13b8ROSc0IMAuwawlqHxa3"
@@ -12598,7 +12772,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191052,
       "name": "passa una bella notte",
       "url": "https://open.spotify.com/track/1NOfiMv7Tq5MijTzO51Zil"
@@ -14484,7 +14658,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 176585,
       "name": "Rosso di Marte",
       "url": "https://open.spotify.com/track/5rMe8OtABwtqal2o4e7bDL"
@@ -14856,7 +15030,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 192250,
       "name": "Satelliti",
       "url": "https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl"
@@ -14910,7 +15084,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 195840,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7qRzFoC43KIhfDdEjwvrJO"
@@ -15217,6 +15391,24 @@
     },
     {
       "album": {
+        "name": "SENZA NOME",
+        "url": "https://open.spotify.com/album/2VEN9yDCJkagCFQGZzOdEV"
+      },
+      "artists": [
+        {
+          "name": "AIRID",
+          "url": "https://open.spotify.com/artist/5nvUEHoPyCVrF8G1Ge17Xk"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195613,
+      "name": "SENZA NOME",
+      "url": "https://open.spotify.com/track/3RBKE1LMuKHsaQRwT5Nhr7"
+    },
+    {
+      "album": {
         "name": "Senza Te",
         "url": "https://open.spotify.com/album/3GmzaEJniZOLhoQCKoJYdP"
       },
@@ -15246,7 +15438,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 159817,
       "name": "Senza te",
       "url": "https://open.spotify.com/track/2oGdxKESOwgoRSKPuJtvdq"
@@ -16239,6 +16431,24 @@
     },
     {
       "album": {
+        "name": "Stanca di correre",
+        "url": "https://open.spotify.com/album/2R4ybfVDOc5AdcQP42rYnx"
+      },
+      "artists": [
+        {
+          "name": "Chiara Accardi",
+          "url": "https://open.spotify.com/artist/4TuBfWoS12c8QIkkpfoDSg"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "Stanca di correre",
+      "url": "https://open.spotify.com/track/1cxgevUKqmyF0I7f2oC4cp"
+    },
+    {
+      "album": {
         "name": "Stanza",
         "url": "https://open.spotify.com/album/2isYssXNb6aXtIkNbZsCCb"
       },
@@ -16326,7 +16536,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 133688,
       "name": "Staremo Insieme",
       "url": "https://open.spotify.com/track/0uMKEgsFcIAl4FJAaQMYpP"
@@ -17918,7 +18128,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 124800,
       "name": "una vita intera",
       "url": "https://open.spotify.com/track/5AgDukdfkPeSMqLqCmx7KQ"
@@ -18754,6 +18964,24 @@
       "duration_ms": 186818,
       "name": "ZERO PIANI",
       "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"
+    },
+    {
+      "album": {
+        "name": "Zidane",
+        "url": "https://open.spotify.com/album/7eSwAqy2xnaOLvz8yMkKP3"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251613,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/4VpIutGlss4dinKTrA7EOG"
     },
     {
       "album": {

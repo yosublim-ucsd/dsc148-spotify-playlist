@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
@@ -5038,7 +5038,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
@@ -8769,6 +8769,36 @@
     },
     {
       "album": {
+        "name": "Hypermyth",
+        "url": "https://open.spotify.com/album/1UKcHlLvCZxRgVjeK8ZouF"
+      },
+      "artists": [
+        {
+          "name": "Signal Quest",
+          "url": "https://open.spotify.com/artist/4yv67wG6XrMRwgphaW6nwC"
+        },
+        {
+          "name": "Lynn Avery",
+          "url": "https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP"
+        },
+        {
+          "name": "Cole Pulice",
+          "url": "https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh"
+        },
+        {
+          "name": "Mitch Stahlmann",
+          "url": "https://open.spotify.com/artist/4bFkPBikiARS6thM04w2Pe"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357256,
+      "name": "Tide Pool Portals to Another World",
+      "url": "https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/3zrFls5MpfT6VOquQmuXaW"
       },
@@ -8970,6 +9000,24 @@
       "duration_ms": 138819,
       "name": "Trancemission Four",
       "url": "https://open.spotify.com/track/6zW4Ei7aIDEdAgF1KJ2QHD"
+    },
+    {
+      "album": {
+        "name": "The Sky Unfurls, the Dance Goes On",
+        "url": "https://open.spotify.com/album/0Bb83m7cUnzwpb48PH6HUQ"
+      },
+      "artists": [
+        {
+          "name": "Wax Machine",
+          "url": "https://open.spotify.com/artist/6kZ2grSzDSRhZuB4iiw77G"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/2pcGfbhQXd0xbp3UCfsNuD"
     },
     {
       "album": {

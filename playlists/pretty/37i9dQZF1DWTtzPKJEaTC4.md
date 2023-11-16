@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:5lDtfHPqWN6MG9tFywnW8J">Kiefer</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,066 likes - 31 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,240 likes - 31 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 19 | [Humoresque \- Live](https://open.spotify.com/track/0v4zFxKc1OdbGG0A4DxOPd) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:45 |
 | 20 | [2 Down & 1 Across](https://open.spotify.com/track/7tHX5FHFc8XXgKU4uDcQvN) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:16 |
 | 21 | [My Heart Stood Still](https://open.spotify.com/track/7JbZeJ9TAfX9Jp5WAeSKkM) | [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX) | [Come by Here](https://open.spotify.com/album/0BKiicVZVzX1aNaY7eCIoP) | 6:35 |
-| 22 | [Eighty\-One](https://open.spotify.com/track/0eyDYZmV5seBW1j9Ga41AR) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 6:17 |
+| 22 | [Eighty\-One \(2022 Remaster\)](https://open.spotify.com/track/0eyDYZmV5seBW1j9Ga41AR) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 6:17 |
 | 23 | [Madness](https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 7:31 |
 | 24 | [Tea for Two](https://open.spotify.com/track/3SSDhknexqI9YrrLj3sof6) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 3:46 |
 | 25 | [Oleo \- Live at the Black Hawk, San Francisco, CA \- April 21, 1961](https://open.spotify.com/track/2BHdKsA6ogaCGsU28Dr7QA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis \- In Person Friday And Saturday Nights At The Blackhawk, Complete](https://open.spotify.com/album/5PQYdCNagyzTfZeAn6MLXn) | 6:56 |

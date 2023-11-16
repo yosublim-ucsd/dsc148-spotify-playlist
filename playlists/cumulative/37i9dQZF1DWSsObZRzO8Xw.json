@@ -600,6 +600,28 @@
     {
       "album": {
         "name": "Fraction",
+        "url": "https://open.spotify.com/album/2fEJhWItlxSR5NknLfZFn5"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        },
+        {
+          "name": "Tomotaka Tsuji",
+          "url": "https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283228,
+      "name": "D - feat. Tomotaka Tsuji",
+      "url": "https://open.spotify.com/track/0pTletQXDvB9lwwKsuTcMG"
+    },
+    {
+      "album": {
+        "name": "Fraction",
         "url": "https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl"
       },
       "artists": [
@@ -614,7 +636,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 283228,
       "name": "D - feat. Tomotaka Tsuji",
       "url": "https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq"

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-292 songs - 18 hr 42 min
+293 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2020 Mix\)](https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8) | 3:46 | 2021-04-22 | 2022-07-29 |
 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 | 2021-04-22 | 2023-11-04 |
 | [Alone Again \(Naturally\)](https://open.spotify.com/track/4lHQCzdK3VdYQvQZnnRouG) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs) | 3:37 | 2021-04-22 | 2022-04-18 |
+| [Alone Again \(Naturally\)](https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ) | 3:41 | 2022-09-23 |  |
 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 | 2021-04-22 | 2022-04-21 |
 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 | 2021-04-22 |  |
 | [And I Love You So](https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 3:17 | 2021-04-22 | 2023-04-07 |
@@ -47,7 +48,7 @@
 | [Beware Of Darkness \- Remastered 2014](https://open.spotify.com/track/6TRZDhDxS4PJs3nxh9FBzk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:51 | 2021-08-05 | 2022-04-20 |
 | [Bless The Weather](https://open.spotify.com/track/6GXOriLcYRb1ZcIvoIK90y) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Bless The Weather](https://open.spotify.com/album/0h1ruavpzNOYbjwg5oC0fg) | 4:27 | 2021-06-07 | 2022-04-21 |
 | [Bluer Than Blue](https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [The Michael Johnson Album](https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4) | 2:59 | 2021-04-22 |  |
-| [Brand New Key](https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Gather Me](https://open.spotify.com/album/5THcElsOkPsIopiOQj18An) | 2:27 | 2021-04-22 |  |
+| [Brand New Key](https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Gather Me](https://open.spotify.com/album/5THcElsOkPsIopiOQj18An) | 2:27 | 2021-04-22 | 2023-11-16 |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 | 2021-04-22 |  |
 | [Bright Eyes](https://open.spotify.com/track/3Jy0dWV5AnnfyTvHK6UWof) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Fate For Breakfast](https://open.spotify.com/album/49XeWorlh4MXcslygZb0Kf) | 3:58 | 2021-04-22 |  |
 | [Broken Hearted Me](https://open.spotify.com/track/07Cs882pDSCuggekDdmw4K) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 3:58 | 2021-04-22 | 2022-07-29 |

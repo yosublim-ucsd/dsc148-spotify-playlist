@@ -5144,7 +5144,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 237705,
       "name": "Colegi de apartament",
       "url": "https://open.spotify.com/track/3NP3h1rnq4cksYTAhLrmx0"
@@ -17870,7 +17870,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -18744,7 +18744,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 170806,
       "name": "Portret",
       "url": "https://open.spotify.com/track/3thGjF5qsGqo60CxCLeX5T"
@@ -18766,6 +18766,24 @@
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "album": {
+        "name": "Everything I Know",
+        "url": "https://open.spotify.com/album/5hKOrzVZga2G9VGEXfYhp0"
+      },
+      "artists": [
+        {
+          "name": "Save",
+          "url": "https://open.spotify.com/artist/5Y5APUOPIopfpARcioTwpo"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Potions",
+      "url": "https://open.spotify.com/track/4sQ5GzgpWHZeqURIxYZJsQ"
     },
     {
       "album": {
@@ -19844,7 +19862,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 193588,
       "name": "Regina Nop\u021bii",
       "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
@@ -21428,7 +21446,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -23750,7 +23768,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 111667,
       "name": "TALISMAN",
       "url": "https://open.spotify.com/track/6e3L2hYehWzDqkiMUtj3qK"
@@ -24654,7 +24672,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 76460,
       "name": "Timeout",
       "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"

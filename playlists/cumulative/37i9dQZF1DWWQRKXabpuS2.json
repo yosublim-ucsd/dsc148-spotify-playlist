@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0639\u0627\u064a\u0636",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u0645\u0639\u0646\u0649",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -904,6 +904,24 @@
       "duration_ms": 152158,
       "name": "Balash Ana (feat. Carmen Soliman)",
       "url": "https://open.spotify.com/track/6FBNoAauIeKCOtR4xkFtGx"
+    },
+    {
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/1ufUw2q6WAB4jrghwChTec"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Elmuanna",
+          "url": "https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174402,
+      "name": "Bara Jarhik",
+      "url": "https://open.spotify.com/track/1Ne42Dc6BPemYb4i1XikJk"
     },
     {
       "album": {
@@ -4684,7 +4702,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 213333,
       "name": "\u0645\u062c\u0646\u0648\u0646",
       "url": "https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx"

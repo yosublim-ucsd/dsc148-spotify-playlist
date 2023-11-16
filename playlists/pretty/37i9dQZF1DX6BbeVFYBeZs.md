@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,709 likes - 191 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,755 likes - 191 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -9095,6 +9095,24 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1fU0dVAywOoiTk3J2PeTmD"
+      },
+      "artists": [
+        {
+          "name": "Aria Kyd",
+          "url": "https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122550,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/01Bqay08avct1ILNWPtQOm"
+    },
+    {
+      "album": {
         "name": "Pulpy",
         "url": "https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN"
       },
@@ -11568,6 +11586,24 @@
       "duration_ms": 130024,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3TYF3RI9u0EzSQZkjp4MZ6"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/10DbkySaIHDiw1uY5vGVFC"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155791,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0Wr0Kmd3vrUYpO46KEKlzg"
     },
     {
       "album": {

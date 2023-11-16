@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-680 songs - 1 day 6 hr 25 min
+681 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 | 2023-08-28 |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 |  |
+| [Late Night Walk](https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Late Night Walk](https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t) | 2:50 | 2023-11-14 |  |
 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 | 2023-05-11 |
 | [Latitude](https://open.spotify.com/track/5V7ZYaPJlhaVsby0Qev1Kl) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Latitude](https://open.spotify.com/album/4Fj24NC7ybJiVQw7jh4by1) | 2:46 | 2021-12-23 | 2022-07-25 |
 | [Lazy Days](https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc) | 2:12 | 2023-10-26 |  |
@@ -545,7 +546,7 @@
 | [SMOKY BANANA](https://open.spotify.com/track/2CKC1hxTqsasAycaaHFptf) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Fruit Panaché Tape](https://open.spotify.com/album/7kmQIiVm8pO92iiUiuUKlo) | 3:22 | 2022-01-13 | 2022-05-30 |
 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-23 | 2022-12-24 |
 | [So Long \- Instrumental](https://open.spotify.com/track/4UvQOOyT1gGuTqxIw9tteA) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [So Long \(Instrumental\)](https://open.spotify.com/album/2MCywuCm8XdhjuDIzFY4S5) | 3:10 | 2021-12-23 | 2022-07-19 |
-| [Someone not like you \(Instrumental\)](https://open.spotify.com/track/07ZtMuYDF9qmjK2g2waZga) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Someone not like you \(Instrumental\)](https://open.spotify.com/album/7JwzW6WkGG3II0iKrRPtMQ) | 2:12 | 2023-01-26 |  |
+| [Someone not like you \(Instrumental\)](https://open.spotify.com/track/07ZtMuYDF9qmjK2g2waZga) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Someone not like you \(Instrumental\)](https://open.spotify.com/album/7JwzW6WkGG3II0iKrRPtMQ) | 2:12 | 2023-01-26 | 2023-11-16 |
 | [Something Holy](https://open.spotify.com/track/2nkg8R5laGOkrt5bzGo9pK) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Something Holy](https://open.spotify.com/album/3zYErvP9VfJ4I1wL42uPve) | 2:25 | 2022-08-11 | 2022-11-19 |
 | [sora no kanata](https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/1ueh8S99rxAHLIbMyTSOnK) | 3:18 | 2022-07-28 | 2022-08-01 |
 | [sora no kanata](https://open.spotify.com/track/220qwCrb8vPdRPQqzzG24l) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 3:18 | 2022-10-06 | 2022-10-15 |

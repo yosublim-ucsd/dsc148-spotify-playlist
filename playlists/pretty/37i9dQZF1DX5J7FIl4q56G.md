@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,136 likes - 54 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,405 likes - 54 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Christmas K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
 
-> Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
+> Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: DeVita\)
 
-182 songs - 10 hr 48 min
+183 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Home Alone](https://open.spotify.com/track/4QfmlkwbaWuZrsN8FZ0If3) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi), [Na Yul](https://open.spotify.com/artist/7uZVlC67kBdmkptwKGPcLl) | [KIM TAE WOO with Friends](https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef) | 3:13 | 2021-12-21 | 2022-11-23 |
 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-01-03 |  |
 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 | 2021-12-21 |  |
+| [I Still Believe in Santa](https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:39 | 2023-11-15 |  |
 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 | 2021-12-21 |  |
 | [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 | 2021-12-21 |  |
 | [It's Christmas time](https://open.spotify.com/track/4Rsr5I1LQaBWk4tvjkVGcr) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/62wnKeijuMQ5rVbHzWsaEx) | 3:50 | 2021-12-21 | 2022-07-29 |
@@ -115,7 +116,7 @@
 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 | 2021-12-21 |  |
 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 | 2021-12-21 |  |
 | [My Winter Wonderland](https://open.spotify.com/track/078ruO4bb8PNlWo5BAwTZv) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:36 | 2021-12-21 | 2022-07-29 |
-| [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-11-30 |  |
+| [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-11-30 |  |
 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-20 |  |
 | [One Day in December](https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G) | [ON](https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3) | [One Day in December](https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N) | 2:37 | 2023-01-10 | 2023-09-13 |
 | [One More Christmas \- English Version](https://open.spotify.com/track/0RhSRYfO6hV3MknwZXqfqI) | [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W) | [One More Christmas](https://open.spotify.com/album/7HtVuZLHiklL7oREgMht8d) | 3:32 | 2021-12-21 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [Winter Falls](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:55 | 2021-12-21 |  |
 | [Winter Falls](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 | 2021-12-21 | 2023-02-01 |
-| [Winter Love](https://open.spotify.com/track/7n4kpBR9G7CG63mpgTL4PG) | [Han Hye Jin × Kian84](https://open.spotify.com/artist/4KFAsqbXoxSl5hJJEaBsjW) | [Winter Love](https://open.spotify.com/album/2y7bytKsMaFJzaMX4dyxBS) | 3:33 | 2023-01-10 |  |
+| [Winter Love](https://open.spotify.com/track/7n4kpBR9G7CG63mpgTL4PG) | [Han Hye Jin × Kian84](https://open.spotify.com/artist/4KFAsqbXoxSl5hJJEaBsjW) | [Winter Love](https://open.spotify.com/album/2y7bytKsMaFJzaMX4dyxBS) | 3:33 | 2023-01-10 | 2023-11-16 |
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-21 |  |
 | [Winter Wind](https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:19 | 2021-12-21 | 2022-08-25 |
 | [Winter Wonderland](https://open.spotify.com/track/3a80t6zePME9Xi72jg2jsa) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol: Hun Hun Christmas](https://open.spotify.com/album/3rNQronWYbq9ccgplh8akp) | 4:36 | 2021-12-21 | 2022-07-29 |

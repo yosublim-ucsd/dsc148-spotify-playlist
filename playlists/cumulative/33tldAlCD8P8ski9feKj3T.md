@@ -4,7 +4,7 @@
 
 > The best in new Modern Music\. Artist Image: <a href="https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph?si=J9U2u3f7QEeZS9qdsgartg">Mother Mother</a>
 
-60 songs - 3 hr 14 min
+61 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-11-03 |  |
 | [Higher Love](https://open.spotify.com/track/25RDBIp0Rj9goD09kWReH8) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Higher Love](https://open.spotify.com/album/5yetKRuRUyIgM5UgRyAOPj) | 4:21 | 2023-11-03 |  |
 | [Home Where](https://open.spotify.com/track/3GRAyz3IthDwutYpdeicDa) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Home Where](https://open.spotify.com/album/5M6KfuWFJdMO7bZkxF58gL) | 2:56 | 2023-11-03 |  |
-| [ifyoulikeitlikethat](https://open.spotify.com/track/1DpM2IaLWHOCFinmyqhxpF) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ifyoulikeitlikethat](https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5) | 3:11 | 2023-11-03 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-14 |  |
+| [ifyoulikeitlikethat](https://open.spotify.com/track/1DpM2IaLWHOCFinmyqhxpF) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ifyoulikeitlikethat](https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5) | 3:11 | 2023-11-03 | 2023-11-16 |
 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 | 2023-11-03 |  |
 | [Light as a Feather](https://open.spotify.com/track/0i7vkG3pCW1wZF4BPgob6R) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Light as a Feather](https://open.spotify.com/album/5tBdfLoUvMkjpIKvPGRvfx) | 3:09 | 2023-11-03 |  |
 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 | 2023-11-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 107111,
+  "num_followers": 107214,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "\u00c9xitos Solo \u00c9xitos....",
+        "url": "https://open.spotify.com/album/56iRDc7QIkDSJx0zt9k7Xe"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Siempre Pierdo En El Amor",
+      "url": "https://open.spotify.com/track/2Kd77oLlsoQawZSf9p8FGz"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "Goza Tu Cumbia: Peruvian Cumbia",
         "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 287503,
       "name": "No Se Puede Amar a Dos",
       "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "\u00c9xitos Solo \u00c9xitos....",
-        "url": "https://open.spotify.com/album/56iRDc7QIkDSJx0zt9k7Xe"
-      },
-      "artists": [
-        {
-          "name": "Armonia 10",
-          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Siempre Pierdo En El Amor",
-      "url": "https://open.spotify.com/track/2Kd77oLlsoQawZSf9p8FGz"
     },
     {
       "added_at": "2023-09-22 04:59:00",

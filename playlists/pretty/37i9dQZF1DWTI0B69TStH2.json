@@ -1,15 +1,311 @@
 {
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0JIgW2OFhm0hH8UdCMU5SU\">Jan Marczewski</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
-  "num_followers": 18830,
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:4M3HMSoC2JKbhCRdHQ5wkA\">noco</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
+  "num_followers": 18861,
   "original_name": "Fresh Finds Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzMyMjQ0ZjM5Zjc1OTQzZGE0Yjg1NjQ1YTE3MDRlZmY1Njk2NDBl",
+  "snapshot_id": "MCxmZGNlMzY1OGRjZjcwYjE3N2FkMmE0MDEwMjI1NDgwYTM5ZWU3N2M1",
   "tracks": [
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Spoko luz",
+        "url": "https://open.spotify.com/album/3elAkGaKkY4BbEfwTBLzAR"
+      },
+      "artists": [
+        {
+          "name": "noco",
+          "url": "https://open.spotify.com/artist/4M3HMSoC2JKbhCRdHQ5wkA"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Spoko luz",
+      "url": "https://open.spotify.com/track/2dOUokmAhcd9VXn3Qvk5qr"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "WD\u017b",
+        "url": "https://open.spotify.com/album/1Fa9WZAAdm3X8BeWvBtMJW"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "WD\u017b",
+      "url": "https://open.spotify.com/track/0Mt96PP8BLtH5nBBFzE2yt"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "POTWORY",
+        "url": "https://open.spotify.com/album/6giEDXpb0RCheV8QxWFKsG"
+      },
+      "artists": [
+        {
+          "name": "Ala Zastary",
+          "url": "https://open.spotify.com/artist/3QmNltluzWxV1Pi1foWdqw"
+        }
+      ],
+      "duration_ms": 279375,
+      "name": "Potwory bez serca",
+      "url": "https://open.spotify.com/track/51WakdryZMWjz8yhUGzXLC"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Nie dzwo\u0144",
+        "url": "https://open.spotify.com/album/5NJJBZrxW2T1I77FtwcZAh"
+      },
+      "artists": [
+        {
+          "name": "Sensi",
+          "url": "https://open.spotify.com/artist/6bImoJWS5f5CEeSQxDJmve"
+        },
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "DJ Cutahead",
+          "url": "https://open.spotify.com/artist/6MovydASW2zl87TtIH3BXz"
+        }
+      ],
+      "duration_ms": 149339,
+      "name": "Nie dzwo\u0144",
+      "url": "https://open.spotify.com/track/6ylYZEZha8YCsaPpsLtsOH"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Konstrukt spo\u0142eczny",
+        "url": "https://open.spotify.com/album/1lklVMDTCedT1zKZGPE8fU"
+      },
+      "artists": [
+        {
+          "name": "Muzaman",
+          "url": "https://open.spotify.com/artist/72kO6RseIlmEx5DXuxBUYJ"
+        },
+        {
+          "name": "Zbyszek Adamek",
+          "url": "https://open.spotify.com/artist/5KcQw9igsxHzHPGjpc3Gbn"
+        }
+      ],
+      "duration_ms": 197064,
+      "name": "Konstrukt spo\u0142eczny",
+      "url": "https://open.spotify.com/track/2h30YDw7wmO5uEiJpuDgbI"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/0bWjzYhVSfwm8614czgs87"
+      },
+      "artists": [
+        {
+          "name": "Kontrast",
+          "url": "https://open.spotify.com/artist/50R0WusdDhybhIcExYbERv"
+        }
+      ],
+      "duration_ms": 244890,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/5xtF8araoI3g3bkVlR8XQJ"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Lekko",
+        "url": "https://open.spotify.com/album/6kGTxUs0xnZ4SQnC1k3Vll"
+      },
+      "artists": [
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        },
+        {
+          "name": "Chrystian Talik",
+          "url": "https://open.spotify.com/artist/192zIAL8C2bCb2rWofIm7G"
+        },
+        {
+          "name": "Feli\u0144ski",
+          "url": "https://open.spotify.com/artist/5jK5KKs3dPfnjNLO2v1VtM"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Lekko",
+      "url": "https://open.spotify.com/track/0Ccz2TXzoNszqT0sGo57RF"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Lubi\u0119",
+        "url": "https://open.spotify.com/album/1amWaVSdYdfUxohatwo27h"
+      },
+      "artists": [
+        {
+          "name": "PYCORKA",
+          "url": "https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Lubi\u0119",
+      "url": "https://open.spotify.com/track/1eI9Tz8nhhznUwvS1pK1RE"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Jestem",
+        "url": "https://open.spotify.com/album/5n44q2Y6AhrSGhJK9MdF1F"
+      },
+      "artists": [
+        {
+          "name": "Dots",
+          "url": "https://open.spotify.com/artist/77dvGbzTXfYwrAYxlXFoKZ"
+        }
+      ],
+      "duration_ms": 162095,
+      "name": "Jestem",
+      "url": "https://open.spotify.com/track/3DE08AgzXJBhhw9EMll3bf"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/6oCsC5AizNfFe1d3ma2gqH"
+      },
+      "artists": [
+        {
+          "name": "Mr Narcissus",
+          "url": "https://open.spotify.com/artist/6NlJZqXZOyEt7tUmceWe48"
+        }
+      ],
+      "duration_ms": 180552,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/5nOtD34QecmsopkKUzq4Sf"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Boys Town",
+        "url": "https://open.spotify.com/album/57E5gcaPXZYgZBJ2w7jEq0"
+      },
+      "artists": [
+        {
+          "name": "Meatballs",
+          "url": "https://open.spotify.com/artist/7nK5edQ65TmhMUVQYtpnMn"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Boys Town",
+      "url": "https://open.spotify.com/track/29dSoX7IdiuLKebtMnQF34"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/6h4Gr3l3EygYvzGy2jhCwp"
+      },
+      "artists": [
+        {
+          "name": "LUI Gawro\u0144ska",
+          "url": "https://open.spotify.com/artist/6VSeTCaSNdkMOEaFpFty3y"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/5zYm8zutf9SpAon8dXevKP"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Tabu",
+        "url": "https://open.spotify.com/album/0AnJFQUAY6zCluuxSFejjp"
+      },
+      "artists": [
+        {
+          "name": "Zoria",
+          "url": "https://open.spotify.com/artist/5a1EViw8vKUTmMc6EsbYzm"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "Tabu",
+      "url": "https://open.spotify.com/track/73U12FGon4TwQGGwy894W0"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "medytacja przed mikrofonem",
+        "url": "https://open.spotify.com/album/52lVxPiN3668avrUQDwZmv"
+      },
+      "artists": [
+        {
+          "name": "natan",
+          "url": "https://open.spotify.com/artist/30GHHvNrPb2HB7IeBq5gOB"
+        },
+        {
+          "name": "D\u0142ugi",
+          "url": "https://open.spotify.com/artist/4cPTT5u4N5zXBfdqTg2QaT"
+        }
+      ],
+      "duration_ms": 174036,
+      "name": "medytacja przed mikrofonem",
+      "url": "https://open.spotify.com/track/25J2IuRHObjkKBOf3r80YF"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Kwiatki",
+        "url": "https://open.spotify.com/album/09VgCzxWJ3iLJjQVLD5rnn"
+      },
+      "artists": [
+        {
+          "name": "Karina Skwarczy\u0144ska",
+          "url": "https://open.spotify.com/artist/4C9FFjWjSADZavBkbqKbus"
+        }
+      ],
+      "duration_ms": 176683,
+      "name": "Kwiatki",
+      "url": "https://open.spotify.com/track/6k6UYTYe8xspN8LzlM9aeg"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Luwr",
+        "url": "https://open.spotify.com/album/4CRRvyovqsU30BYNVjXeLf"
+      },
+      "artists": [
+        {
+          "name": "Filip Matyszczak",
+          "url": "https://open.spotify.com/artist/2GOZRuExiZr7HyN42FCqIz"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Luwr",
+      "url": "https://open.spotify.com/track/1NqSVq68UCyRmtFZWM1CeZ"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
+      "album": {
+        "name": "Time to Leave",
+        "url": "https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Time to Leave",
+      "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
+    },
+    {
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "GASN\u0118",
         "url": "https://open.spotify.com/album/6oxvBCpZH0UnRNSMgpd9mv"
@@ -29,7 +325,7 @@
       "url": "https://open.spotify.com/track/2Qqo7mkK8t7OII8AfOrdMO"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/3OMDRd67lz9RmWqr3ZIXQb"
@@ -45,7 +341,7 @@
       "url": "https://open.spotify.com/track/4BRoG1PJkPZJ0T9xuwVqhR"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Wszystko co mam",
         "url": "https://open.spotify.com/album/7oQ0a8u9tbo0b5JDun1JpE"
@@ -61,7 +357,7 @@
       "url": "https://open.spotify.com/track/12uV7IHCVQndOM5MIpLCZN"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "PussyBoi",
         "url": "https://open.spotify.com/album/2fMouZqX4umRPGyqEE4MG5"
@@ -77,7 +373,7 @@
       "url": "https://open.spotify.com/track/3iZ1W9MyvkkbgutAqHU6Ph"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Warszawska Noc",
         "url": "https://open.spotify.com/album/2VmJfbfCWma0iHqSOxVxhN"
@@ -93,7 +389,7 @@
       "url": "https://open.spotify.com/track/2G0EZB4tebWcd3JsM6AKAL"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Termowizja",
         "url": "https://open.spotify.com/album/7AsYHxWunromkzM9cDZ4J4"
@@ -109,7 +405,7 @@
       "url": "https://open.spotify.com/track/6njdnR6sNITmB7oUpEcjyd"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Kolorowy Ptak",
         "url": "https://open.spotify.com/album/0EIEn7v9eyirMtwttdLsIB"
@@ -125,7 +421,7 @@
       "url": "https://open.spotify.com/track/0tJfA0MDBKbVBMlpniwGVd"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Something Indefinitely Good",
         "url": "https://open.spotify.com/album/7Eazvuqul7gVWGZIEd6Od8"
@@ -141,7 +437,7 @@
       "url": "https://open.spotify.com/track/7rn5krzECMlezWdpGla7Tm"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Z\u0142y",
         "url": "https://open.spotify.com/album/47eEAhiW2LK1hgh6nZDSEK"
@@ -157,7 +453,7 @@
       "url": "https://open.spotify.com/track/068thKNiZ2pLRgOAh5xs4t"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Dropshit",
         "url": "https://open.spotify.com/album/0On3ySFPzQZ6yd6EgEobzl"
@@ -173,7 +469,7 @@
       "url": "https://open.spotify.com/track/7nxOszaFXoEHF6PMGbnURl"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Hi Fives",
         "url": "https://open.spotify.com/album/4X2ADC9kq91HmqEefjatye"
@@ -189,7 +485,7 @@
       "url": "https://open.spotify.com/track/4RJsN8oRz8nH70DrDlaarZ"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Klub",
         "url": "https://open.spotify.com/album/3gaxZiRFCRxg5PUzwz1AFp"
@@ -205,7 +501,7 @@
       "url": "https://open.spotify.com/track/60Q9h7kJyJ4RjNa0Vz8n0n"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "ghosts & spirits",
         "url": "https://open.spotify.com/album/1jCgBJPbpuWxsG3s676WXw"
@@ -221,7 +517,7 @@
       "url": "https://open.spotify.com/track/3GTiHgwZKPVqVwMWPAWWCa"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "sam na sam",
         "url": "https://open.spotify.com/album/5polzqoPnSv6QWNlypX09S"
@@ -237,7 +533,7 @@
       "url": "https://open.spotify.com/track/770tl5sCaB5fNBGPfoVT6m"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "GRAWITACJA",
         "url": "https://open.spotify.com/album/5ym9WMsfSoAoEtoMs714sd"
@@ -253,7 +549,7 @@
       "url": "https://open.spotify.com/track/6YqgYwxdQeAhkRqSpsWRQm"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Relacje",
         "url": "https://open.spotify.com/album/0LkuhIUaUKEeCp7J8OJ6GH"
@@ -269,7 +565,7 @@
       "url": "https://open.spotify.com/track/5DLRly98sjgnxWhCHwBNtS"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Kolor nocy",
         "url": "https://open.spotify.com/album/1KOII7pCmk6kujMmLNyitl"
@@ -285,7 +581,7 @@
       "url": "https://open.spotify.com/track/0TLO3zXXYv8AyoU6A7dJxd"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Pizza",
         "url": "https://open.spotify.com/album/60yQBNBV8AxORcnm26D5sQ"
@@ -305,7 +601,7 @@
       "url": "https://open.spotify.com/track/0wIxJYeKb9b7iTABONFpVQ"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Wszystko zabierze wiatr",
         "url": "https://open.spotify.com/album/1qns7IQoL94Zb58yovtZwX"
@@ -321,7 +617,7 @@
       "url": "https://open.spotify.com/track/2DfSegUWbq6ISfmwwOhWhY"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "nie jej wina",
         "url": "https://open.spotify.com/album/1xFEBPLlh2J2QSenFlYRum"
@@ -337,7 +633,7 @@
       "url": "https://open.spotify.com/track/5YPnzQNXj8yXF7s60TFCBI"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Czas",
         "url": "https://open.spotify.com/album/4D2Sr1gi9xg2biCaUqxCMr"
@@ -353,7 +649,7 @@
       "url": "https://open.spotify.com/track/2v08fqC7H0AafPFrCcEN9B"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "stalowe magnolie",
         "url": "https://open.spotify.com/album/71TGyRJJHnYEK8wBEKTGev"
@@ -369,7 +665,7 @@
       "url": "https://open.spotify.com/track/34hbiNYEbVuQIfEOhzDr6j"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Wz\u00f3r",
         "url": "https://open.spotify.com/album/35KFz4E3AsD56aXqxn7FRZ"
@@ -385,7 +681,7 @@
       "url": "https://open.spotify.com/track/4kEqLSnWgqtfwknIGLhBG2"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Wody Jest Niewiele",
         "url": "https://open.spotify.com/album/62CWX7P0n0ajr8u2SeFIkn"
@@ -401,7 +697,7 @@
       "url": "https://open.spotify.com/track/7GP9UocOSdVLxlzlu4ZYqW"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "\u017benada",
         "url": "https://open.spotify.com/album/3mezE5V1Gf7ZC6Y9jdlHYq"
@@ -417,27 +713,7 @@
       "url": "https://open.spotify.com/track/5aJWqrEhXGzgeoYI5jHWIE"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Pentimento",
-        "url": "https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "Juna Ara",
-          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Pentimento",
-      "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Miasto",
         "url": "https://open.spotify.com/album/7qggvXikVZTJLL812aOvB9"
@@ -457,7 +733,7 @@
       "url": "https://open.spotify.com/track/3HZ6ccHxuGod1QYhPwNRFH"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Cisza",
         "url": "https://open.spotify.com/album/2B9f8BITtBJxdOrhEiVl8o"
@@ -473,7 +749,7 @@
       "url": "https://open.spotify.com/track/3qeC2hyDMKrhN2R19Rab1N"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ksi\u0119\u017cy\u0107",
         "url": "https://open.spotify.com/album/4lf4KHckxrPD1T9a9GKMnB"
@@ -493,7 +769,7 @@
       "url": "https://open.spotify.com/track/1XWIRs80i10fnpjLsYonVY"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Odkryty w Mie\u015bcie Krzyk",
         "url": "https://open.spotify.com/album/5fsarO4NOXdJzygSG00In1"
@@ -509,7 +785,7 @@
       "url": "https://open.spotify.com/track/6lfxmqx3koYdYI2EcXQ2CX"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "blizny",
         "url": "https://open.spotify.com/album/4E0Qbko0uVARM0jsB3bW07"
@@ -525,7 +801,7 @@
       "url": "https://open.spotify.com/track/7iQDN13IC9ch8FW9CGNO7b"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "!FAZA CO",
         "url": "https://open.spotify.com/album/5hLa109dxSUph5nSY9Vo1z"
@@ -545,7 +821,7 @@
       "url": "https://open.spotify.com/track/1tItdIhdxEMrjzp3gxDLJq"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/6qsklpW5STmwO60oxoHZbc"
@@ -565,7 +841,7 @@
       "url": "https://open.spotify.com/track/74QXMTX1XqLjW44bPVeMFp"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "M\u0141ODY E MIXTAPE",
         "url": "https://open.spotify.com/album/5ZK57Bn0Zm9VWXHPGHml0L"
@@ -581,7 +857,7 @@
       "url": "https://open.spotify.com/track/4p1G3Qh4PMGYsK5hadq5jY"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "ulubione spodnie",
         "url": "https://open.spotify.com/album/3vTqMbJxYz5JswGJjpj9HE"
@@ -597,7 +873,7 @@
       "url": "https://open.spotify.com/track/1zvkdQatl7lvAvfn2jLOFX"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Sny W S\u0142o\u0144cu",
         "url": "https://open.spotify.com/album/4b9oLWqHl0ev5J5EPxiUBC"
@@ -617,7 +893,7 @@
       "url": "https://open.spotify.com/track/3X1bQgOB4zKpen6KmoKZku"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "b\u0119dzie mi okej",
         "url": "https://open.spotify.com/album/2nAkimvEjX78yEK51TTSVN"
@@ -633,7 +909,7 @@
       "url": "https://open.spotify.com/track/0c3pW84R8d3n0Q1O6aTJBf"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "\u017b\u0105dza",
         "url": "https://open.spotify.com/album/2poHZfV1trzz5SjbeqrATx"
@@ -653,55 +929,7 @@
       "url": "https://open.spotify.com/track/5B4DmLUmPLfwbOSb4Y6gNv"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "zgubione dzieciaki robi\u0105 papier",
-        "url": "https://open.spotify.com/album/4uafrlu3WnzeSU92CMxiIa"
-      },
-      "artists": [
-        {
-          "name": "chudy dredd",
-          "url": "https://open.spotify.com/artist/0Muaqh9wkA9mlQXDXOkTvU"
-        }
-      ],
-      "duration_ms": 96585,
-      "name": "zgubione dzieciaki robi\u0105 papier",
-      "url": "https://open.spotify.com/track/0SHUfF5vk5f6owdDCsN2Lu"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "FORTUNA",
-        "url": "https://open.spotify.com/album/6R3ssVMMWu5DfqBusU9xTt"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9",
-          "url": "https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz"
-        }
-      ],
-      "duration_ms": 141975,
-      "name": "FORTUNA",
-      "url": "https://open.spotify.com/track/3IgVmvKeEj27nbHiMouII1"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Native Love",
-        "url": "https://open.spotify.com/album/72gtNoKBCkN3VLCIL3AqPd"
-      },
-      "artists": [
-        {
-          "name": "MK\u2019ONE",
-          "url": "https://open.spotify.com/artist/4ED0MvV9KvzGZAYVyliqkB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Native Love",
-      "url": "https://open.spotify.com/track/35eT0XF8qpAOK8oEl0Ddn6"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2uUPqEPTSoOK12lFt9rmyq"
@@ -717,7 +945,7 @@
       "url": "https://open.spotify.com/track/17bV3U5kkALci0KBtgdiuK"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Motyli Sen",
         "url": "https://open.spotify.com/album/4jcBjVO6s32qkzmBIhvEhC"
@@ -733,7 +961,7 @@
       "url": "https://open.spotify.com/track/5wF6R2Lc3y4IvWYFf7KY03"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Zach\u00f3d",
         "url": "https://open.spotify.com/album/2hU9opgXUloZV8nginNBaQ"
@@ -749,7 +977,7 @@
       "url": "https://open.spotify.com/track/4XzWNznNF1WYxyhVSFl7bC"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Krab",
         "url": "https://open.spotify.com/album/6Z2hpINyCNo3yafNaDZ3WC"
@@ -765,7 +993,7 @@
       "url": "https://open.spotify.com/track/1xvDJwiSakITEzvtqiyiNO"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Sygna\u0142 SOS",
         "url": "https://open.spotify.com/album/10LLoIbgbzAbQrmKrqwvmW"
@@ -781,27 +1009,7 @@
       "url": "https://open.spotify.com/track/1Zh24EEqpxDmLqaEnPg914"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Jesie\u0144",
-        "url": "https://open.spotify.com/album/1NfXXUPpBa8Dqne8RjWac3"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        },
-        {
-          "name": "Leo Ros",
-          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
-        }
-      ],
-      "duration_ms": 183634,
-      "name": "Jesie\u0144",
-      "url": "https://open.spotify.com/track/0fowq1T4lenrPgS3og7NZt"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Wi\u0119cej Wra\u017ce\u0144",
         "url": "https://open.spotify.com/album/1kXed8FRjtL6BVdsXqBu2P"
@@ -817,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0WmF90cMhY3Oj4mnbYNVAP"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "k00ky",
         "url": "https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5"
@@ -833,23 +1041,7 @@
       "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Chcia\u0142bym mie\u0107 z Tob\u0105 pieska",
-        "url": "https://open.spotify.com/album/1gYacA9FyH6VdW6qOQdNq7"
-      },
-      "artists": [
-        {
-          "name": "Boysyrewicz",
-          "url": "https://open.spotify.com/artist/4Fm5zjkSCPUdXkKm8a4Yej"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Chcia\u0142bym mie\u0107 z Tob\u0105 pieska",
-      "url": "https://open.spotify.com/track/4TyTipdbALDyH5BStFFrfe"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Nie ma na to czasu",
         "url": "https://open.spotify.com/album/1XFN31OycuL9wfcNlrW0Ec"
@@ -865,27 +1057,7 @@
       "url": "https://open.spotify.com/track/33mhPVkwlljQh0LXSMJcmG"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "G\u0142odne Duchy",
-        "url": "https://open.spotify.com/album/7K00L3Jw4TagcnsHBWk9e2"
-      },
-      "artists": [
-        {
-          "name": "G\u0142odne Duchy",
-          "url": "https://open.spotify.com/artist/2yn6N7ISEWb0EoFgNjaMCd"
-        },
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 250923,
-      "name": "Homo anxietatem",
-      "url": "https://open.spotify.com/track/5K1yzXt26ZMn2SlF5cdeYb"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Everything Has to Mean Something",
         "url": "https://open.spotify.com/album/2DJASwvec6PFSPqWKUtpuq"
@@ -901,31 +1073,7 @@
       "url": "https://open.spotify.com/track/6sKWVZg8l2SrvfuNFm8CAl"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Nowy Szelma",
-        "url": "https://open.spotify.com/album/2FuWEG84iqm5oOUfJCQIbw"
-      },
-      "artists": [
-        {
-          "name": "Amatowsky",
-          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
-        },
-        {
-          "name": "Ko\u015bciey",
-          "url": "https://open.spotify.com/artist/1RH77lN0aqyLvmiiiUvkpG"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Nowy Szelma",
-      "url": "https://open.spotify.com/track/4DkQUuQsch1aJjuLX5gtnz"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Tabletka",
         "url": "https://open.spotify.com/album/0Yy3cionIAKLKGtkND3Vuy"
@@ -941,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2pcPNNHBVQawfULivV2nCH"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ostatni",
         "url": "https://open.spotify.com/album/3TLfh7yygvsxOVmwt8Ml3x"
@@ -957,59 +1105,7 @@
       "url": "https://open.spotify.com/track/2hr21R3xgCyz9z8Mvk1i3e"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Te\u017c To Znasz",
-        "url": "https://open.spotify.com/album/1dYCfJ1JDIsuqZhLKifUlU"
-      },
-      "artists": [
-        {
-          "name": "The Bobo",
-          "url": "https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE"
-        }
-      ],
-      "duration_ms": 241119,
-      "name": "Te\u017c To Znasz",
-      "url": "https://open.spotify.com/track/4u1uEusBj1J68p5MI1bjN5"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Ja i Ty",
-        "url": "https://open.spotify.com/album/7G1rxJFZcoYr0chmUBFPgr"
-      },
-      "artists": [
-        {
-          "name": "Nastia",
-          "url": "https://open.spotify.com/artist/6oIfNczfkOoCFHWIdRZO88"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Ja i Ty",
-      "url": "https://open.spotify.com/track/3YJZrcUgt0eKpPvSl8egcn"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "we just broke up",
-        "url": "https://open.spotify.com/album/10fBs9Habs0hoMiSqJXszX"
-      },
-      "artists": [
-        {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
-        },
-        {
-          "name": "Daniel Hawes",
-          "url": "https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "we just broke up",
-      "url": "https://open.spotify.com/track/5GfjD7WfBWPHbLdAEA7Nqa"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Feelin' Good Ain't Cheap",
         "url": "https://open.spotify.com/album/5IbDdxWzPsxssYbh2cg8R2"
@@ -1025,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5fa9E3UhHHFfHpfaw0UDzY"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/06Xosu6yqqFN3TPEUQwBeU"
@@ -1049,7 +1145,7 @@
       "url": "https://open.spotify.com/track/56UFOGVz5Mbop54gVZCY27"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Nic nie zmieni si\u0119 w ciszy",
         "url": "https://open.spotify.com/album/3Rie2wqsxElWuyoR0P3poQ"
@@ -1065,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0u9DTtjM83RMOXX9B2s2Rx"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ugryz\u0119",
         "url": "https://open.spotify.com/album/2axz59bzNHiSXiFQtyjrLE"
@@ -1081,7 +1177,7 @@
       "url": "https://open.spotify.com/track/2sdb05EiXDCn6BcZoLpuwN"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "k<3ndall",
         "url": "https://open.spotify.com/album/0HdciEW3psd3m3d0n1MuM3"
@@ -1097,27 +1193,7 @@
       "url": "https://open.spotify.com/track/5Z86LZtkU5CsDc8m7pTtpW"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "B\u0119d\u0119 ta\u0144czy\u0107",
-        "url": "https://open.spotify.com/album/4rdcEYaylgYttXRVERDEGo"
-      },
-      "artists": [
-        {
-          "name": "Muzaman",
-          "url": "https://open.spotify.com/artist/72kO6RseIlmEx5DXuxBUYJ"
-        },
-        {
-          "name": "Ola Bird",
-          "url": "https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6"
-        }
-      ],
-      "duration_ms": 190938,
-      "name": "B\u0119d\u0119 ta\u0144czy\u0107",
-      "url": "https://open.spotify.com/track/3BXD9K2o7UIHFq22hSNoJp"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "\u015blepa kuchnia.",
         "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
@@ -1133,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ocal",
         "url": "https://open.spotify.com/album/3DrQb9Rgr0DwZQnj7dDPqJ"
@@ -1149,7 +1225,7 @@
       "url": "https://open.spotify.com/track/3xY70RW71245lZrgdhs48u"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "cb i tam",
         "url": "https://open.spotify.com/album/4Mq63t07haWAUdBK9HnGYz"
@@ -1169,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1w5aF8E9kVYe6tsT1DPVOJ"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Stare Dobre Czasy",
         "url": "https://open.spotify.com/album/4AfRZOruj4xiKBaOM1JE9C"
@@ -1185,7 +1261,7 @@
       "url": "https://open.spotify.com/track/5vb1UTCyC02NE0DZH0G5xC"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "dziwne dzieciaki z klasy",
         "url": "https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB"
@@ -1201,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Super Sumo Sushi Deluxe",
         "url": "https://open.spotify.com/album/3TEJlj98ecrAjU6CcBkj8I"
@@ -1217,23 +1293,7 @@
       "url": "https://open.spotify.com/track/0QQlIu8FfHrCF2DxBCenAp"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/7IWxFFRA8PkvTnD0dtLnTu"
-      },
-      "artists": [
-        {
-          "name": "Santabarbara",
-          "url": "https://open.spotify.com/artist/6iw2xSzE0b0aV6YTiBkj3R"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/6iweMn4t1fckxSS3VJ2bgc"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ucieczka (Rework)",
         "url": "https://open.spotify.com/album/6xwn99OLCMZtOgf2CoIg0M"
@@ -1249,7 +1309,7 @@
       "url": "https://open.spotify.com/track/5bSZyy50utuifa1zvyzk8E"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Duchy",
         "url": "https://open.spotify.com/album/3KYpu1qyWBIe7obEY2ClRn"
@@ -1273,7 +1333,7 @@
       "url": "https://open.spotify.com/track/4L1pWDAOUVVAzneOqB4MOk"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Ostatni Dom",
         "url": "https://open.spotify.com/album/5mvWl3OtT0Gpw9E2gbAHzA"
@@ -1289,23 +1349,7 @@
       "url": "https://open.spotify.com/track/4m2H4JlCbUkLMT8evhZMZp"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Czarno-bia\u0142a ulica",
-        "url": "https://open.spotify.com/album/5hs9aGYoWOujCOF7eFwHZ8"
-      },
-      "artists": [
-        {
-          "name": "Zbyszek Adamek",
-          "url": "https://open.spotify.com/artist/5KcQw9igsxHzHPGjpc3Gbn"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Czarno-bia\u0142a ulica",
-      "url": "https://open.spotify.com/track/4J5NCItPLcM1G62ukTqEeh"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Pokusa",
         "url": "https://open.spotify.com/album/1Qn6zrpJMWq36DsnjhT8Z4"
@@ -1321,23 +1365,7 @@
       "url": "https://open.spotify.com/track/4dbKUnncqAwP62kO5qRoTS"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Spadanie",
-        "url": "https://open.spotify.com/album/59CPEAfD0tjkLof1liQZZ1"
-      },
-      "artists": [
-        {
-          "name": "Doro\u015bli",
-          "url": "https://open.spotify.com/artist/2Q3KG5vxKeQvV906XhcjtN"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Spadanie",
-      "url": "https://open.spotify.com/track/3sHomLoKIeZVAFk1HLGkNs"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Journal",
         "url": "https://open.spotify.com/album/0MVuwVYeVHrh7zIoOZu96t"
@@ -1353,7 +1381,7 @@
       "url": "https://open.spotify.com/track/1G3JHqVl56gVfHuD6RUmJB"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "PIERWSZA GF",
         "url": "https://open.spotify.com/album/0pBxG0RKG9vcHod65wcabo"
@@ -1369,7 +1397,7 @@
       "url": "https://open.spotify.com/track/6NTOgveT2rBbhKE6a8fh31"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "\u0141ajka",
         "url": "https://open.spotify.com/album/4nBG5N8wIfjQ7rs4LwnHA5"
@@ -1385,7 +1413,7 @@
       "url": "https://open.spotify.com/track/70TYOEmhT3evpeta5xwUHf"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Dysonans",
         "url": "https://open.spotify.com/album/7aOwgs3tXm4vS06kJfNsWx"
@@ -1401,23 +1429,7 @@
       "url": "https://open.spotify.com/track/1gNETG2dmdeUns41EjIiOR"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/3WYJkZpqjVSV56A5WREg7g"
-      },
-      "artists": [
-        {
-          "name": "Comme Des Max",
-          "url": "https://open.spotify.com/artist/7FlJKRExhQ3Z1AhLd4s8fM"
-        }
-      ],
-      "duration_ms": 143221,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/2rulTweABVnjxOUh92qnyM"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Stare \u015bmieci",
         "url": "https://open.spotify.com/album/6fZPFllHQTxI6KVUKPiu1p"
@@ -1433,7 +1445,7 @@
       "url": "https://open.spotify.com/track/6jR6AOEhJdTyYLg5YwUIoj"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/51RY3lB6VMt4670pPdAGN4"
@@ -1449,7 +1461,7 @@
       "url": "https://open.spotify.com/track/1WjsKQ5GssMfQO7gAfG7uZ"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "P\u00f3ki mam si\u0119 okej",
         "url": "https://open.spotify.com/album/0iLfAXH30ypDdV5NrEzWjG"
@@ -1465,7 +1477,7 @@
       "url": "https://open.spotify.com/track/7y5RRLQJDDl2QV2J5Y7KRd"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Duch",
         "url": "https://open.spotify.com/album/0pOFR1keK4Oyf4Jdc5OJfw"
@@ -1481,7 +1493,7 @@
       "url": "https://open.spotify.com/track/4JjOeViQ7V2HFeNwSEUWP6"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Czy pami\u0119tasz",
         "url": "https://open.spotify.com/album/24emy93t1Z4FbSPN8XvHsE"
@@ -1497,7 +1509,7 @@
       "url": "https://open.spotify.com/track/3khuNo8byT3TzLJG4AV7jI"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Statek",
         "url": "https://open.spotify.com/album/381RFARxnDKG3z7o1svF6A"
@@ -1513,7 +1525,7 @@
       "url": "https://open.spotify.com/track/3fHI31LJRXolEG9T7WKh6z"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Odyseusz",
         "url": "https://open.spotify.com/album/4awdjFIsMZTLnqpHZGoISj"
@@ -1533,7 +1545,7 @@
       "url": "https://open.spotify.com/track/30yg43NvHuN5pRopVRYt3i"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "echa",
         "url": "https://open.spotify.com/album/63iX6m9aHbWLciZlwgllXm"
@@ -1557,7 +1569,7 @@
       "url": "https://open.spotify.com/track/0ztHKg48H8RX7fOMMpW9Ld"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Dziurawy bal",
         "url": "https://open.spotify.com/album/11jpajjAmW1eHEPVw5YA1E"
@@ -1573,7 +1585,7 @@
       "url": "https://open.spotify.com/track/6WmNFNoCEgWb9elN0ZZ15O"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "BeReal Alert",
         "url": "https://open.spotify.com/album/4mcssdoxz7GV8qpKhpv4bd"
@@ -1597,7 +1609,7 @@
       "url": "https://open.spotify.com/track/2AGURQDXgNmsKhAmD7GY4x"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Po kres",
         "url": "https://open.spotify.com/album/7HegM6h04AfRZkLXY27VVS"
@@ -1617,23 +1629,7 @@
       "url": "https://open.spotify.com/track/7pmTAjEiHIALsC9i7d91cd"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Szum",
-        "url": "https://open.spotify.com/album/5ZmxpM7H07eHdoLruwZ8PH"
-      },
-      "artists": [
-        {
-          "name": "\u017burawie",
-          "url": "https://open.spotify.com/artist/0swacAR9Xpo3dRONHc60Kr"
-        }
-      ],
-      "duration_ms": 208726,
-      "name": "Szum",
-      "url": "https://open.spotify.com/track/5cukirtH9YzlhbuUvaU13b"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Blisko\u015b\u0107",
         "url": "https://open.spotify.com/album/3AK4dEAacgWadBBgM4BsIx"
@@ -1653,7 +1649,7 @@
       "url": "https://open.spotify.com/track/02LtTBeEKDKrvDDF6ptJIb"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Mori",
         "url": "https://open.spotify.com/album/7yh9M9ExWPThSX4Arh2bfB"
@@ -1673,7 +1669,7 @@
       "url": "https://open.spotify.com/track/29xyUYeuNP6k8jBlvRvqmY"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Elvis",
         "url": "https://open.spotify.com/album/500FdqaafUB2tmAwc4GT7S"
@@ -1689,7 +1685,7 @@
       "url": "https://open.spotify.com/track/6ECyOXQ2622F9WpFgRfHeK"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/33iJEYDBjyZhWQaI44jbBn"
@@ -1705,7 +1701,7 @@
       "url": "https://open.spotify.com/track/5maaJbXHaGM6RiTTF4qEFx"
     },
     {
-      "added_at": "2023-11-07 23:00:00",
+      "added_at": "2023-11-14 23:00:00",
       "album": {
         "name": "bb blue",
         "url": "https://open.spotify.com/album/6EiTawrxy5PAwIHjcuAe5x"

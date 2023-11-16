@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 155767,
       "name": "Elevador - Ao Vivo",
       "url": "https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux"
@@ -6506,7 +6506,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/4ldcxPVAtih8alepJTu8Hx"
@@ -6524,6 +6524,10 @@
         {
           "name": "Dj Nk Da Serra",
           "url": "https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
         }
       ],
       "date_added": "2023-07-26",
@@ -7462,7 +7466,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -10330,7 +10334,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 207343,
       "name": "MOLETOM",
       "url": "https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ"
@@ -11722,7 +11726,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -14248,7 +14252,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
@@ -15777,6 +15781,32 @@
     },
     {
       "album": {
+        "name": "Tipo Hollywood",
+        "url": "https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6"
+      },
+      "artists": [
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        },
+        {
+          "name": "MC Cothi\u00ea",
+          "url": "https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131538,
+      "name": "Tipo Hollywood",
+      "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"
+    },
+    {
+      "album": {
         "name": "Cad\u00ea o After? Pt. 1",
         "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
       },
@@ -15980,7 +16010,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 172005,
       "name": "Traumatizei - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7r8yMaSOy4XmuhRz7iv1gi"

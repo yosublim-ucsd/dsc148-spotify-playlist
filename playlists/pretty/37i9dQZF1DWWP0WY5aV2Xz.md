@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWP0WY5aV2Xz.md) - [plain]
 
 > The official EA SPORTS NHL 24 soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775 likes - 33 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-228 songs - 16 hr 58 min
+229 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [قرار نهائى](https://open.spotify.com/track/43oIicOxYWzw75hJLHm1AW) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [قرار نهائى](https://open.spotify.com/album/2IkUWV4SlRri8UiiddXyUw) | 4:19 | 2022-07-14 | 2023-05-13 |
 | [قرار نهائى](https://open.spotify.com/track/58ncF5dp5mwaRvEWUXwLHm) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [قرار نهائى](https://open.spotify.com/album/3f3MTQ7CCByD9NQbun975j) | 4:19 | 2021-12-30 | 2022-07-28 |
 | [قشطه بالزبادي الليثي ولورديانا](https://open.spotify.com/track/6uX3nXbXFbuFKNL9rPF0yv) | [VOL](https://open.spotify.com/artist/4C4ukpAwyUkCz77fyLVwD4) | [قشطه بالزبادي الليثي ولورديانا](https://open.spotify.com/album/6UDe8Vx9JP2stDoO3m2OHW) | 3:06 | 2021-12-16 | 2023-09-02 |
-| [قلب ابوكي](https://open.spotify.com/track/3JXPI8tKQjzs9AT8SESNN5) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [قلب ابوكي](https://open.spotify.com/album/3C0X6Od6hW9Tw19kZh3cm2) | 4:19 | 2023-09-19 |  |
+| [قلب ابوكي](https://open.spotify.com/track/3JXPI8tKQjzs9AT8SESNN5) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [قلب ابوكي](https://open.spotify.com/album/3C0X6Od6hW9Tw19kZh3cm2) | 4:19 | 2023-09-19 | 2023-11-16 |
 | [قلب بابا](https://open.spotify.com/track/1qJcl8I6eWgPerLc5bNIVf) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [قلب بابا](https://open.spotify.com/album/1Xb5H73qEs6UD2WokrbtT7) | 4:04 | 2023-02-23 | 2023-05-12 |
 | [كاس العذاب](https://open.spotify.com/track/691pg3e2jxVBpIyuokCsf6) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [كاس العذاب](https://open.spotify.com/album/7Kwjlfuqw1QjmK5hHyFovJ) | 4:13 | 2021-12-16 | 2023-05-12 |
 | [كلام مبتكلمش](https://open.spotify.com/track/1JdiJ4wAMKhPsXGL6iTwoK) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [كلام مبتكلمش](https://open.spotify.com/album/1kwZYe92wXq7AsP5xIepWm) | 3:39 | 2021-12-16 | 2022-04-23 |
@@ -224,6 +224,7 @@
 | [مدلعة](https://open.spotify.com/track/12JYrfMtRussFNacCUlqRZ) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [مدلعة](https://open.spotify.com/album/0pIkS094WHvil5JytPYMj4) | 3:33 | 2023-07-20 | 2023-08-31 |
 | [مسولي وصبحوا](https://open.spotify.com/track/1R9jVRREumTrJus79J5F5R) | [بوسي](https://open.spotify.com/artist/7a0K56MtFI8OmIuA9H7bl8) | [مسولي وصبحوا](https://open.spotify.com/album/6vXr6k59sVFvyuP23CxJmo) | 2:57 | 2023-06-25 | 2023-06-27 |
 | [موال اللعب ع الربحانة](https://open.spotify.com/track/0xemm03Jrv9XSaXYXXmQkL) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [موال اللعب ع الربحانة](https://open.spotify.com/album/28o0k3m9vM68Z9F8gDfEME) | 2:46 | 2023-07-13 | 2023-07-19 |
+| [موجوع يا إبن أدم](https://open.spotify.com/track/0kBOQbO01NPFdC703cJHkO) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [موجوع يا إبن أدم](https://open.spotify.com/album/7fCBKICFGpNCWRcSo5MhgO) | 8:56 | 2023-11-15 |  |
 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 | 2023-01-03 |  |
 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmad Amer](https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 | 2021-12-16 |  |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-05-13 |

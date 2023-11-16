@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 118806,
+  "num_followers": 118940,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Los \u00c9xitos de Jes\u00fas Adrian Romero en Bachata",
+        "url": "https://open.spotify.com/album/6NUkdjifZOqPDWY8IFZAlB"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Agradecido Estoy",
+      "url": "https://open.spotify.com/track/79AXaiRAYMxFEkMm0LDbT5"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Fragmentos Do C\u00e9u",
         "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 242432,
       "name": "Eternamente Amor",
       "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Los \u00c9xitos de Jes\u00fas Adrian Romero en Bachata",
-        "url": "https://open.spotify.com/album/6NUkdjifZOqPDWY8IFZAlB"
-      },
-      "artists": [
-        {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Agradecido Estoy",
-      "url": "https://open.spotify.com/track/79AXaiRAYMxFEkMm0LDbT5"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -667,38 +667,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "No Hay Nada Imposible",
-        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
-      },
-      "artists": [
-        {
-          "name": "Javier Maldonado",
-          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Espiritu De Dios",
-      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -719,6 +687,38 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "No Hay Nada Imposible",
+        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+      },
+      "artists": [
+        {
+          "name": "Javier Maldonado",
+          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Espiritu De Dios",
+      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 212022,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3GZlpgiwHlh5Zw1Ptcw9h3"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "En Accion",
-        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
-      },
-      "artists": [
-        {
-          "name": "Alex D' Castro",
-          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "En Tu Presencia",
-      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -783,6 +767,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "En Accion",
+        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
+      },
+      "artists": [
+        {
+          "name": "Alex D' Castro",
+          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "En Tu Presencia",
+      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Fragments Of Heaven",
         "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Dios Est\u00e1 en Control",
-        "url": "https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "Dios Est\u00e1 en Control",
-      "url": "https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 232360,
       "name": "Le Llaman Jesus",
       "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Dios Est\u00e1 en Control",
+        "url": "https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "Dios Est\u00e1 en Control",
+      "url": "https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -851,18 +851,26 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+        "name": "Party Love",
+        "url": "https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X"
       },
       "artists": [
         {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
         }
       ],
-      "duration_ms": 271053,
-      "name": "Motivo de mi cancion",
-      "url": "https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI"
+      "duration_ms": 196800,
+      "name": "Party Love",
+      "url": "https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI"
     }
   ],
   "unique_name": "Baila Con Dios",

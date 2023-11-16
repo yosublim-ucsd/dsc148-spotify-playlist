@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Avenoir",
-  "num_followers": 7997,
+  "num_followers": 8030,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTEzNzI3NDEwZTBkY2JiOGVlZTFjNzRhNTU0MWVkMWU2NjE1OGIw",
+  "snapshot_id": "MCw1MmVmMGU1N2JkMmQ1ZjcwYTAyM2FiZjBjNjY4NThkMWYyMTU0MWY4",
   "tracks": [
     {
       "added_at": "2023-11-10 17:45:33",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-11-10 17:45:33",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
       },
       "artists": [
         {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 152250,
-      "name": "West",
-      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": "2023-11-10 17:45:33",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-11-10 17:45:33",
       "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+      "duration_ms": 152250,
+      "name": "West",
+      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": "2023-11-10 17:45:33",
@@ -939,7 +939,7 @@
     {
       "added_at": "2023-11-10 17:45:33",
       "album": {
-        "name": "THE GLADE",
+        "name": "The Glade",
         "url": "https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa"
       },
       "artists": [
@@ -953,7 +953,7 @@
         }
       ],
       "duration_ms": 222456,
-      "name": "THE GLADE",
+      "name": "The Glade",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
     },
     {
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-10 17:45:33",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4"
-    },
-    {
-      "added_at": "2023-11-10 17:45:33",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ"
+    },
+    {
+      "added_at": "2023-11-10 17:45:33",
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4"
     },
     {
       "added_at": "2023-11-10 17:45:33",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-10 17:45:33",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-11-10 17:45:33",
-      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2023-11-10 17:45:33",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-11-10 17:45:33",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-11-10 17:45:33",
       "album": {
+        "name": "Time Goes \"Bye\"",
+        "url": "https://open.spotify.com/album/40VUN4AbGTVF4JQgnSRL0e"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "duration_ms": 261027,
+      "name": "Time Goes \"Bye\"",
+      "url": "https://open.spotify.com/track/01PUsoJjBsFweo5SHoQPeX"
+    },
+    {
+      "added_at": "2023-11-10 17:45:33",
+      "album": {
         "name": "ALL EARS",
         "url": "https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6"
-    },
-    {
-      "added_at": "2023-11-10 17:45:33",
-      "album": {
-        "name": "Welcome to the Wildfire",
-        "url": "https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Bad Neighbors",
-      "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
     },
     {
       "added_at": "2023-11-10 17:45:33",

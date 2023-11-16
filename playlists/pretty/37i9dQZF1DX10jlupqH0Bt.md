@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,653 likes - 57 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,782 likes - 57 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

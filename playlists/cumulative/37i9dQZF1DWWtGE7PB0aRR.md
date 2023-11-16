@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-124 songs - 8 hr 59 min
+125 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [It's A Man Down There \- Single Version](https://open.spotify.com/track/3iQFbMJiZbME79vjmm0JOu) | [Duster Bennett](https://open.spotify.com/artist/3aos6Gjahfz5kPMX9KK0ib) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/0NtX7rmXNFPQebNrZ1CcwZ) | 2:49 | 2021-04-22 | 2022-07-29 |
 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 | 2021-04-22 |  |
 | [It's Only Love \- 2006 Remaster](https://open.spotify.com/track/2wMxAVkpqT4t7oNtxgoX94) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Ahead Rings Out \(2006 Remaster\)](https://open.spotify.com/album/380B7eXtpYM732cslvhVNt) | 3:23 | 2021-04-22 | 2022-07-29 |
-| [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 | 2021-04-22 |  |
+| [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 | 2021-04-22 | 2023-11-16 |
 | [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/2VR6NdQzzmcpvJIOBRdPeF) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Junior's Wailing \(21st Century Version\)](https://open.spotify.com/album/0SFYMVa6tj5Lu9nm1lIeOj) | 3:59 | 2022-09-09 | 2022-10-01 |
 | [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/7IUA28oFz78kpRUx8rDK49) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Wailing Again](https://open.spotify.com/album/7uNZi23dwmDzuvyXw0tiL2) | 3:59 | 2022-09-09 |  |
 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 | 2021-04-22 |  |
@@ -126,6 +126,7 @@
 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 | 2022-03-25 |  |
 | [Who Do You Love \- Castle Version](https://open.spotify.com/track/17kEWpmOeNE3CjKxH3b8hb) | [Juicy Lucy](https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY) | [Who Do You Love \- The Anthology](https://open.spotify.com/album/10lNa6WodwJAjmsE2yZpgw) | 3:00 | 2021-04-22 | 2022-07-29 |
 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 | 2022-03-25 |  |
+| [Who Do You Love?](https://open.spotify.com/track/078TqqyJ2vNKBsgpOm6rZr) | [Juicy Lucy](https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY) | [Who Do You Love \- The Anthology](https://open.spotify.com/album/5cCPWjf3GggkYhAZgibehb) | 3:00 | 2021-04-22 |  |
 | [Who Do You Love?](https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP) | [Juicy Lucy](https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY) | [Who Do You Love \- The Anthology](https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb) | 3:00 | 2021-04-22 | 2023-11-04 |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-03-25 |  |
 | [Wild Women Don't Have the Blues](https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Wild Women Don't Have the Blues](https://open.spotify.com/album/3ogvLt5LN9StFxlrOVqnqx) | 3:38 | 2022-03-25 | 2022-07-10 |

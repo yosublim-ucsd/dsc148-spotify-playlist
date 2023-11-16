@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Marka Akme, DJ Tao, Lauty Gram, Migrantes & Peipper.
 
-168 songs - 9 hr 11 min
+169 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Con Tu Amiga](https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Con Tu Amiga](https://open.spotify.com/album/4aM90yXOD78LBDhF0jDpE9) | 3:01 | 2023-09-07 |  |
 | [Corazón de Madre \(Destapate Una Cerveza\)](https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 3:53 | 2023-05-26 |  |
 | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy) | 3:49 | 2023-10-20 |  |
+| [Corte Caco](https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Corte Caco](https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb) | 2:00 | 2023-11-14 |  |
 | [Cual Fue? \- Remix](https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Cual Fue? \(Remix\)](https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6) | 3:24 | 2023-05-26 |  |
 | [Cucumelo](https://open.spotify.com/track/29aYatLGWbMVcC3snkyFVD) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Cucumelo](https://open.spotify.com/album/3MLajrzEOSWDQgkIzluqaf) | 2:59 | 2023-11-01 |  |
 | [Culito Pa' Tras](https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:05 | 2023-11-01 |  |
@@ -142,7 +143,7 @@
 | [Session en el Barrio \#4](https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Session en el Barrio \#4](https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO) | 2:32 | 2023-05-26 |  |
 | [Sexy Soltera](https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ) | [Rompelo Ahí](https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt) | 2:33 | 2023-05-26 |  |
 | [Si Me Vez Fumando una Seca por Vos](https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Volverás](https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV) | 2:56 | 2023-05-26 |  |
-| [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2023-05-26 |  |
+| [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2023-05-26 | 2023-11-16 |
 | [Soltero Hasta la Tumba](https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:13 | 2023-05-26 |  |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-26 |  |
 | [Sos Botón](https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [La Vanda Más Loca](https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE) | 4:19 | 2023-05-26 |  |

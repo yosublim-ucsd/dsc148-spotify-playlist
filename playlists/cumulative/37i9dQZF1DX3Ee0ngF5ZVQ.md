@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-566 songs - 1 day 9 hr 42 min
+567 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Boots on My Feet](https://open.spotify.com/track/5tHQXCXWmrc4ioLhCxZSGF) | [Josh Grider](https://open.spotify.com/artist/7a4J8L6Gg4xP6ix19HIx0Z) | [Boots on My Feet](https://open.spotify.com/album/4wNNObtCIpyrwB9pITUjoi) | 3:00 | 2021-12-17 | 2022-07-27 |
 | [Border Radio](https://open.spotify.com/track/3JpXOvjKO49lZt5mh7JKLC) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/3IUZOmv3B83l1jF976AIAi) | 3:03 | 2023-08-25 | 2023-10-07 |
 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 | 2021-12-17 | 2023-11-04 |
+| [Boy From Anderson County](https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 4:04 | 2023-11-10 |  |
 | [Boy Like Me](https://open.spotify.com/track/0L3hzWLPVgBCfg19H0dcIR) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Boy Like Me](https://open.spotify.com/album/183gKXKQgy0tncVwiK7kJi) | 3:52 | 2022-07-15 | 2022-07-18 |
 | [Break Up In A Bar](https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Break Up In A Bar](https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5) | 3:36 | 2022-03-11 | 2022-09-10 |
 | [Breaking Every Heart In Texas](https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Breaking Every Heart In Texas](https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz) | 3:26 | 2021-12-17 | 2022-11-13 |
@@ -263,7 +264,7 @@
 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 | 2023-08-19 |
 | [If I Could Build a Bar](https://open.spotify.com/track/6X5N5onLc64czPlaTjJFTN) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Side B](https://open.spotify.com/album/3WwGfPHu0IGcPbREt6VZji) | 3:48 | 2023-06-16 | 2023-08-26 |
 | [If I Had a Bar](https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [If I Had a Bar](https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf) | 3:07 | 2023-10-13 |  |
-| [If I Had a Dollar](https://open.spotify.com/track/4PDiHpPfI0qr0HhIOyUNQn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [If I Had a Dollar](https://open.spotify.com/album/25Y4FqiX9zxgeWepeu2sd6) | 4:52 | 2023-09-08 |  |
+| [If I Had a Dollar](https://open.spotify.com/track/4PDiHpPfI0qr0HhIOyUNQn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [If I Had a Dollar](https://open.spotify.com/album/25Y4FqiX9zxgeWepeu2sd6) | 4:52 | 2023-09-08 | 2023-11-16 |
 | [If I Know You](https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo) | [Hayden McBride](https://open.spotify.com/artist/5OprlGplkFPge47AnclgTq), [Holly Beth](https://open.spotify.com/artist/0N1Mo7HAAXKXmkNGlpDpsq) | [Worth the Wait](https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 | 2023-05-23 |
 | [If I Was Your Cowboy](https://open.spotify.com/track/1xt38dgCBqNv1e0hSRyuqm) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [If I Was Your Cowboy](https://open.spotify.com/album/1CA07QJml1sHoCohLwmOK1) | 3:31 | 2023-08-18 | 2023-09-30 |

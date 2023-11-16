@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,013 likes - 82 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,065 likes - 82 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Komma Hem](https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 3:30 |
-| 2 | [Immediate Music III, Pt\. 1](https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY) | [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs), [Tony Buck](https://open.spotify.com/artist/0WtwD9JqeJuof5S3K3FacF) | [Immediate Music III](https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL) | 15:03 |
-| 3 | [Two Shadows of You](https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Two Shadows of You](https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W) | 7:29 |
-| 4 | [Dialogue](https://open.spotify.com/track/2ulrCn7v24eySiwshtmyFN) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx) | [Dialogue](https://open.spotify.com/album/1W0d6d1Ruv2uWA5MeI4Cmk) | 6:00 |
-| 5 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 |
-| 6 | [You'll Hear Me When I Come](https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes) | [Masa Orpana](https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G) | [Together](https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202) | 5:24 |
+| 1 | [You'll Hear Me When I Come](https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes) | [Masa Orpana](https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G) | [Together](https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202) | 5:24 |
+| 2 | [Komma Hem](https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 3:30 |
+| 3 | [Immediate Music III, Pt\. 1](https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY) | [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs), [Tony Buck](https://open.spotify.com/artist/0WtwD9JqeJuof5S3K3FacF) | [Immediate Music III](https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL) | 15:03 |
+| 4 | [Two Shadows of You](https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Two Shadows of You](https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W) | 7:29 |
+| 5 | [Dialogue](https://open.spotify.com/track/2ulrCn7v24eySiwshtmyFN) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx) | [Dialogue](https://open.spotify.com/album/1W0d6d1Ruv2uWA5MeI4Cmk) | 6:00 |
+| 6 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 |
 | 7 | [Sao Paolo](https://open.spotify.com/track/6HmYcMEJQlMDXHjaYRQJF6) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Sao Paolo](https://open.spotify.com/album/3NYIyxSA052F9t9YuIhez7) | 2:37 |
 | 8 | [Try Again](https://open.spotify.com/track/3mRP9loGOgziATfqC21ipN) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Try Again](https://open.spotify.com/album/7Js6Q1TX5YB7PTvhgnPtKC) | 6:39 |
 | 9 | [Flores](https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk) | [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b), [Globus](https://open.spotify.com/artist/18F5bmmZmitWWqYTkJqq95), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Anssi Tirkkonen](https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF) | [Flores](https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T) | 15:04 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 81 | [Chickenhawk](https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG) | [Jarkka Rissanen Tonal Box Trio](https://open.spotify.com/artist/2fE6uoO9LenSFLrq5z2R7h), [Kalle Fält](https://open.spotify.com/artist/2KyukKocvwQteeLjKihxkR) | [Chickenhawk](https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W) | 4:27 |
 | 82 | [Sgr A\*](https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ) | 5:49 |
 
-Snapshot ID: `MCxjMDk0MWFiOTgzMTg5YzMzY2Q2NWQ0NWFmNGU3ZWFjMWVmMzgwYmVl`
+Snapshot ID: `MCxiZmM0MjliNWQzYWU3NWRlYWZkMDhlNGRiNGUxYjI2OWEwZWY2ZGI4`

@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Mid-Life Crisis",
+        "url": "https://open.spotify.com/album/2D44ATAYOdYBkz326n0xBR"
+      },
+      "artists": [
+        {
+          "name": "House Parties",
+          "url": "https://open.spotify.com/artist/7KZlkjHhyW3VkxrOVFwGYe"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176880,
+      "name": "Mid-Life Crisis",
+      "url": "https://open.spotify.com/track/4mIPAGHYChqXjnE3iHYisL"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
       },

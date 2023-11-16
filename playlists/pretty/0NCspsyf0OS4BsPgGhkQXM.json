@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2047692,
+  "num_followers": 2047737,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQyMDcsNjAwMmZjY2EzMWRkMzZjYmRiMTIxNTg1Y2Y3OWFlYTExZTQxM2MyNg==",
+  "snapshot_id": "MTQyMTQsOGUzYjAwYzI3YTUzNzg2Y2Q1NTAzZTc2MDljMzY0M2VmMDJlMThhNA==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1797,6 +1797,26 @@
       "url": "https://open.spotify.com/track/05YcyYx5SpXZ1DNri0k0Qk"
     },
     {
+      "added_at": "2023-11-15 00:32:52",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4Sp0EJyto7D9lA0bY6WZCT"
+      },
+      "artists": [
+        {
+          "name": "BRXKEN",
+          "url": "https://open.spotify.com/artist/5d6qWoCF2tVoYjp2r96Bim"
+        },
+        {
+          "name": "SW!FT",
+          "url": "https://open.spotify.com/artist/65IHmGyDhHPmBw2r0DrcW7"
+        }
+      ],
+      "duration_ms": 142158,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/7xEoUI5UMigJWUoKNsk5Xm"
+    },
+    {
       "added_at": "2023-11-03 18:07:36",
       "album": {
         "name": "The Nature of Hope",
@@ -1907,6 +1927,30 @@
       "duration_ms": 201008,
       "name": "Breath",
       "url": "https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu"
+    },
+    {
+      "added_at": "2023-11-14 18:21:36",
+      "album": {
+        "name": "Home Alone (with Marnik)",
+        "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "duration_ms": 128031,
+      "name": "Home Alone (with Marnik)",
+      "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -2601,6 +2645,22 @@
       "url": "https://open.spotify.com/track/61oL0lzGD0CkQ0o4S2ZqFc"
     },
     {
+      "added_at": "2023-11-15 17:02:09",
+      "album": {
+        "name": "RX89",
+        "url": "https://open.spotify.com/album/4sHG3n4pkEbc5QRlCxpXpw"
+      },
+      "artists": [
+        {
+          "name": "BALGUR",
+          "url": "https://open.spotify.com/artist/3rDYe7oHDuFXqhC4RORn7G"
+        }
+      ],
+      "duration_ms": 136903,
+      "name": "RX89",
+      "url": "https://open.spotify.com/track/2rBWdCGECGUNaJe3l4FTwr"
+    },
+    {
       "added_at": "2023-11-03 16:05:23",
       "album": {
         "name": "Forget You",
@@ -2712,7 +2772,7 @@
           "url": "https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe"
         }
       ],
-      "duration_ms": 133664,
+      "duration_ms": 132739,
       "name": "renai circulation pluggnb (\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/0SZenVPubqt5p0Q1z7rAr7"
     },
@@ -3071,6 +3131,22 @@
       "duration_ms": 182437,
       "name": "OVERCAST - JWUU Remix",
       "url": "https://open.spotify.com/track/6Gjh8iQzH7g6TYFHm4lRSM"
+    },
+    {
+      "added_at": "2023-11-15 00:17:46",
+      "album": {
+        "name": "All my life",
+        "url": "https://open.spotify.com/album/1XWN5Za8xqDLu7ZV4fucuG"
+      },
+      "artists": [
+        {
+          "name": "purplewine",
+          "url": "https://open.spotify.com/artist/3sm9Gz8V29Ze2aQXoPJByL"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "All my life",
+      "url": "https://open.spotify.com/track/5xhWUIzCeFhwnGXsr6JT60"
     }
   ],
   "unique_name": "Trap Nation",

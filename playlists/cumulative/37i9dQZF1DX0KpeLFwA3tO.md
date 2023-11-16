@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Stand Atlantic
 
-1,428 songs - 2 day 23 hr 27 min
+1,429 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,7 +796,8 @@
 | [MIGRAINE](https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [MIGRAINE](https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR) | 2:33 | 2022-10-06 | 2022-12-02 |
 | [Million Miles of Fun](https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Million Miles of Fun](https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx) | 2:10 | 2021-12-17 | 2022-02-04 |
 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 | 2022-08-11 | 2022-09-30 |
-| [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-13 |  |
+| [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-13 | 2023-11-16 |
+| [Miracle](https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:59 | 2023-11-10 |  |
 | [Misdirection](https://open.spotify.com/track/1GGoewfqHMPYKDdthiSeUz) | [Bad Breeding](https://open.spotify.com/artist/781vvvQYKgDjg3i90b7vtV) | [Human Capital](https://open.spotify.com/album/1ZnWHabEmhn8bcYz8pKJdG) | 2:18 | 2022-07-28 | 2022-08-19 |
 | [Misdirection](https://open.spotify.com/track/4D9bXvAjQ5F8ObhMlYX5ea) | [Bad Breeding](https://open.spotify.com/artist/781vvvQYKgDjg3i90b7vtV) | [Human Capital](https://open.spotify.com/album/50e9l0RpAg583vCVlUsCOm) | 2:18 | 2022-07-07 | 2022-07-29 |
 | [misfit](https://open.spotify.com/track/1Vxiyk7CfYutoQbR2e38Ur) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [misfit](https://open.spotify.com/album/7n5qd90bV5eXCDv96l188m) | 2:44 | 2021-12-17 | 2022-01-21 |

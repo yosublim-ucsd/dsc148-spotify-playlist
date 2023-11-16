@@ -4,7 +4,7 @@
 
 > Amapiano tracks to fuel your beast mode!
 
-137 songs - 13 hr 42 min
+138 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 | 2022-09-15 |  |
 | [Catalia](https://open.spotify.com/track/2PgDbeuhqT2vY6fOe15PDf) | [Junior De Rocka](https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Mellow](https://open.spotify.com/artist/41uk6Pr8mGHGkxK79hgF9X), [Sleazy](https://open.spotify.com/artist/3RUkVCv0E5vkTbR2g4NmEz) | [Catalia](https://open.spotify.com/album/0Cb2Zi3bxdpR9YrwadfS6Y) | 5:25 | 2023-04-14 |  |
 | [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-03 |  |
-| [Dalie](https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie](https://open.spotify.com/album/5GIUF3gHNmZpa684imXQ5J) | 4:40 | 2023-10-12 |  |
+| [Dalie](https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie](https://open.spotify.com/album/5GIUF3gHNmZpa684imXQ5J) | 4:40 | 2023-10-12 | 2023-11-16 |
+| [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID) | 4:40 | 2023-10-12 |  |
 | [Dipatje Tsa Felo \(feat\. Daliwonga\)](https://open.spotify.com/track/3rDd1X68wGTaKYRATrcARb) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Dipatje Tsa Felo \(feat\. Daliwonga\)](https://open.spotify.com/album/7u3mrMGgYgQkpIO5ntmezv) | 6:19 | 2022-09-15 |  |
 | [Dlala Captain \- Edit](https://open.spotify.com/track/6lBqv0Sa93v3Wi5aiS2Y6f) | [Dlala Regal](https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK), [Sir Sensei](https://open.spotify.com/artist/24SqCLXYvCX9ioHoot1bNH), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Dlala Captain](https://open.spotify.com/album/3vMBlNVRJye1Z1mvX7hhlR) | 3:38 | 2022-09-15 | 2022-11-25 |
 | [Down The Drain](https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn) | [Down The Drain](https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2) | 6:08 | 2022-09-15 |  |

@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 194245,
       "name": "Chancer",
       "url": "https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP"
@@ -668,6 +668,24 @@
       "duration_ms": 271813,
       "name": "Day Glow",
       "url": "https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa"
+    },
+    {
+      "album": {
+        "name": "days like these",
+        "url": "https://open.spotify.com/album/205F9vWMOP9BqDHjwhSZ6d"
+      },
+      "artists": [
+        {
+          "name": "Abbie Ozard",
+          "url": "https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134997,
+      "name": "days like these",
+      "url": "https://open.spotify.com/track/3HGBDwd7WgDb5B2Arr30fV"
     },
     {
       "album": {
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 174379,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 177866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"

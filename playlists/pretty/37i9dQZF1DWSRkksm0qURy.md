@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > Immersive sacral solfeggio frequencies
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,282 likes - 78 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,392 likes - 78 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

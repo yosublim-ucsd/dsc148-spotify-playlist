@@ -2,7 +2,7 @@
 
 ### [RADAR PAKISTAN](https://open.spotify.com/playlist/37i9dQZF1DWU6NlIeT95t9)
 
-> Unearthing up\-and\-coming Pakistani acts\.  Cover: Hassan & Roshaan
+> Meet the future\.  Cover: Hassan & Roshaan
 
 67 songs - 3 hr 37 min
 

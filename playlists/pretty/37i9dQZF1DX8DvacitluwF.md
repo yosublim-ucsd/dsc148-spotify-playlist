@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=Cab1PruJRs2tAlHxZAyPdQ">Blxckie</a>, <a href="https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE?si=kxvAF7mNQ\_KSI8BG95VlvA">Mx Blouse</a>, <a href="https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS?si=DB\_7k5eLSoSvUOlTJcnZQw">Una Rams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,524 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,585 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,895 likes - 127 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,980 likes - 126 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,10 +130,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 | 120 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
 | 121 | [Alagbara](https://open.spotify.com/track/1kGcJQPw3Z7rlTYSW3HLLM) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 5:40 |
 | 122 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
-| 123 | [Get Myself Back](https://open.spotify.com/track/6HFPefao1siXeG8D3E5yu8) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [Uncontrolled](https://open.spotify.com/album/2OErIGVm0FOzcASSCmnKUq) | 4:32 |
-| 124 | [Ho imparato a sognare](https://open.spotify.com/track/7LuCe6qxjtNnfKO4821SPT) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Ho Imparato A Sognare](https://open.spotify.com/album/4J7i8uiDmCWHVjOqT4hRSm) | 4:10 |
-| 125 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
-| 126 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 |
-| 127 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 |
+| 123 | [Ho imparato a sognare](https://open.spotify.com/track/7LuCe6qxjtNnfKO4821SPT) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Ho Imparato A Sognare](https://open.spotify.com/album/4J7i8uiDmCWHVjOqT4hRSm) | 4:10 |
+| 124 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
+| 125 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 |
+| 126 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 |
 
-Snapshot ID: `MCxiNDUyNWMyMDI0YTRmZWE5MWQ4OTQ5MDg1NTY5MWM3OWNjODQzM2E0`
+Snapshot ID: `MCwwODlhZTI2ZmVjOWJiYzIzZWJkMTI3YjFlM2Q0NmQ2OWZkMjRhOGQy`

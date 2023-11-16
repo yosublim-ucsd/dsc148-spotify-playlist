@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Ran\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,902 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,099 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

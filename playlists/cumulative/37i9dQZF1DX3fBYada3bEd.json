@@ -996,10 +996,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 148823,
       "name": "Thank You Farmers",
       "url": "https://open.spotify.com/track/1cPngJrgocZABWRooLfdgH"
+    },
+    {
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148823,
+      "name": "Thank You Farmers",
+      "url": "https://open.spotify.com/track/4d3uDgCLjZhaHOc4p7Usrm"
     },
     {
       "album": {

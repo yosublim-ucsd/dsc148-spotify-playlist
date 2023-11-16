@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-100 songs - 6 hr 10 min
+101 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 | 2023-09-08 |  |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-09-08 |  |
 | [FRIENDZONE](https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [FRIENDZONE](https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj) | 3:30 | 2023-09-08 |  |
+| [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 | 2023-11-13 |  |
 | [Grana](https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Fonomix](https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL) | 2:37 | 2023-09-08 |  |
 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 | 2023-09-08 |  |
 | [Housie](https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:33 | 2023-09-08 |  |
@@ -68,7 +69,7 @@
 | [MELONI](https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MELONI](https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO) | 2:58 | 2023-09-08 |  |
 | [MOTIVEISHON](https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [MOTIVEISHON](https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD) | 2:38 | 2023-09-08 |  |
 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 | 2023-09-08 |  |
-| [Nft](https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Nft](https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim) | 3:41 | 2023-09-08 |  |
+| [Nft](https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Nft](https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim) | 3:41 | 2023-09-08 | 2023-11-16 |
 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 | 2023-09-08 |  |
 | [No Van a Parar \- Remix](https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Martin Gardoqui](https://open.spotify.com/artist/6fJ0uVfgglq5vO0UBwX3Am), [Matias Larrosa](https://open.spotify.com/artist/4eVyhOHPhAuM9rvjNhJ6kG) | [Desconfiguración, Vol\. 2](https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX) | 7:28 | 2023-09-08 |  |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-09-08 |  |

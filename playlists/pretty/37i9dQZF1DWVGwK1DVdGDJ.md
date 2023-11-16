@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGwK1DVdGDJ.md) - [plain]
 
 > 🐰 This Is NewJeans\. The essential tracks, all in one playlist\. 🐇
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,596 likes - 25 songs - 50 min 46 sec
+[Spotify](https://open.spotify.com/user/spotify) - 128,295 likes - 25 songs - 50 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

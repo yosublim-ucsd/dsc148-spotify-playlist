@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 253425,
       "name": "Deeper Grounds",
       "url": "https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46"
@@ -1652,6 +1652,28 @@
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
+    },
+    {
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245533,
+      "name": "Encounters",
+      "url": "https://open.spotify.com/track/11EPlc3UVZIhKq11lpdzfL"
     },
     {
       "album": {
@@ -4349,6 +4371,28 @@
     },
     {
       "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/7zvBu5tW5d286WfktO4bRV"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        },
+        {
+          "name": "ETERN3",
+          "url": "https://open.spotify.com/artist/5PdrEVEQ1qv1psFZ9pxDMx"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235206,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/5p8w7JOwtF7brVkTIErUpT"
+    },
+    {
+      "album": {
         "name": "The Return/Of Me",
         "url": "https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL"
       },
@@ -5202,10 +5246,6 @@
           "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
           "name": "Sevenn",
           "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
@@ -5248,7 +5288,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 292173,
       "name": "Ritam",
       "url": "https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF"

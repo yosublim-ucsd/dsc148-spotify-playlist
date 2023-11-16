@@ -1244,6 +1244,32 @@
     {
       "album": {
         "name": "Mazhai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OedreEuWG8F7RnEJ6UBXW"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Sumangaly",
+          "url": "https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83693,
+      "name": "Muthu Mazhaiye",
+      "url": "https://open.spotify.com/track/0qfyRQdNvRrf7oDpxFAyRg"
+    },
+    {
+      "album": {
+        "name": "Mazhai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18qZ1xDZb0OyIEOyucsXMU"
       },
       "artists": [
@@ -1434,7 +1460,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 100493,
       "name": "Nenjam Enum (Bit)",
       "url": "https://open.spotify.com/track/67ixsKcAYzWGzQ5NGcsVlz"

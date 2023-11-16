@@ -2,9 +2,9 @@
 
 ### [IRL ANGEL ](https://open.spotify.com/playlist/37i9dQZF1DX7Ocjwy96xTX)
 
-> New music from Wisp, plus 10 songs she's loving right now.
+> back up in the sky
 
-244 songs - 14 hr 49 min
+245 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Murder Your Memory](https://open.spotify.com/track/5imSIRUGtX4aeRRA81UakE) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Hyperview](https://open.spotify.com/album/1xRsnyytuSTf1rIxWV8m2r) | 2:36 | 2023-10-31 |  |
 | [My Time As a Ghostly Someone Else](https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [My Time As a Ghostly Someone Else](https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO) | 4:20 | 2023-07-21 |  |
 | [nap](https://open.spotify.com/track/3WrCcZoZqKuuAxsGbiNlLx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [nap](https://open.spotify.com/album/5qhcJWasY3IK6sFDe2reI8) | 2:54 | 2023-11-10 |  |
+| [Never Wanna Let Go](https://open.spotify.com/track/1CB7zANKq4TYkOg7XCdw5v) | [David Hale](https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K) | [Paradigm](https://open.spotify.com/album/2Ca0nMYUgKUu70tNhEBhzW) | 4:46 | 2023-11-14 |  |
 | [New Normal](https://open.spotify.com/track/1YByuyHH5sOO2c7ojGflsA) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [New Normal](https://open.spotify.com/album/0hxkBuqU47PF8B1gKEoX2T) | 2:20 | 2023-11-10 |  |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-09-02 | 2023-05-25 |
 | [Nightjar](https://open.spotify.com/track/3th89PlDwtE7GHz7GD67rz) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Between Heavens](https://open.spotify.com/album/42jyTWOjjG9hUxo2PEmnz0) | 3:15 | 2023-10-13 |  |

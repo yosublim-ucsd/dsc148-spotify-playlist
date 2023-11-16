@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fancy belting out your favourite Korean songs? (Cover: Parc Jae Jung(\ubc15\uc7ac\uc815)) (\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "name": "Sing Along K-Pop (\ub178\ub798\ubc29 \uc778\uae30\uac00\uc694)",
+  "description": "\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Fancy belting out your favorite Korean songs?) (Cover: Parc Jae Jung(\ubc15\uc7ac\uc815))",
+  "name": "\ub178\ub798\ubc29 \uc778\uae30\uac00\uc694 (Singing Room K-Pop)",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 186666,
       "name": "Acrobat",
       "url": "https://open.spotify.com/track/0k21uOz3txTfyA1a91QWTr"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 222893,
       "name": "Break up",
       "url": "https://open.spotify.com/track/3INPEyKw1nVft467ejF7dp"
@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "The dream of a moth",
+        "url": "https://open.spotify.com/album/4VafBO9ZEja9ghat1vb8CL"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252970,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/1GH2zktv0O2oSut4khXRmG"
+    },
+    {
+      "album": {
         "name": "puberty",
         "url": "https://open.spotify.com/album/3CBSSb5UntgYQxHzcnMe6u"
       },
@@ -856,7 +874,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 231696,
       "name": "Don't worry",
       "url": "https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9"
@@ -896,7 +914,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 231775,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 231776,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2"
@@ -1431,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204576,
+      "name": "Fry\u2019s Dream",
+      "url": "https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV"
+    },
+    {
+      "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
       },
@@ -1500,6 +1536,24 @@
       "duration_ms": 233586,
       "name": "Good day",
       "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
+    },
+    {
+      "album": {
+        "name": "Good Night Good Dream",
+        "url": "https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265983,
+      "name": "Good Night Good Dream",
+      "url": "https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F"
     },
     {
       "album": {
@@ -1658,7 +1712,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 252986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3xjiKevynUuilZRUaBfQye"
@@ -1737,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5sNDzsRA133ANet8CqVaVk"
+      },
+      "artists": [
+        {
+          "name": "STH",
+          "url": "https://open.spotify.com/artist/76Fuve7XknoppOovQwARzY"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249467,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3WJbPo8V61piAagZYyRqn8"
+    },
+    {
+      "album": {
         "name": "Horangsuwolga",
         "url": "https://open.spotify.com/album/2SHDI5kw0PG739B62GJDGX"
       },
@@ -1809,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/5wuOoKuHbDuUX4ujZL4UQA"
+      },
+      "artists": [
+        {
+          "name": "Bank",
+          "url": "https://open.spotify.com/artist/07yXkk7BsAGmJWvkemt2oa"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283026,
+      "name": "I Can't Have You",
+      "url": "https://open.spotify.com/track/7INlzYSRRxRxzpJKRq7nxI"
+    },
+    {
+      "album": {
         "name": "STILL",
         "url": "https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU"
       },
@@ -1860,6 +1950,24 @@
       "duration_ms": 238880,
       "name": "I Guess I Loved You",
       "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
+    },
+    {
+      "album": {
+        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
+        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
+      },
+      "artists": [
+        {
+          "name": "Position",
+          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329952,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
     },
     {
       "album": {
@@ -2494,7 +2602,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 275733,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1mNcX6T6ut6JPR7nSso1tr"
@@ -2556,6 +2664,24 @@
       "duration_ms": 257519,
       "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/382vwoXF6ksNuaPbMYiQy6"
+    },
+    {
+      "album": {
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179683,
+      "name": "Love Lee",
+      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
     },
     {
       "album": {
@@ -2642,7 +2768,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
@@ -3856,7 +3982,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 196020,
       "name": "We Are",
       "url": "https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d"
@@ -4416,6 +4542,42 @@
       "duration_ms": 264646,
       "name": "\uadf8\ub798\uc11c \uadf8\ub300\ub294",
       "url": "https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC"
+    },
+    {
+      "album": {
+        "name": "THE GOLD",
+        "url": "https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262870,
+      "name": "\uadf8\ub7f0 \uc77c\uc740",
+      "url": "https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR"
+    },
+    {
+      "album": {
+        "name": "Audition (Time2Rock)",
+        "url": "https://open.spotify.com/album/3nAt9ncRZ7wW3sytjNtXTj"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277520,
+      "name": "\uae30\ub2e4\ub9ac\ub2e4",
+      "url": "https://open.spotify.com/track/3XTcTwWPQZg9Ob0u4RBIfP"
     },
     {
       "album": {

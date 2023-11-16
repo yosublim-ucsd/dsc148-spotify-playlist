@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,320 likes - 82 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,406 likes - 82 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1ql5SXo1kO5OaMJy3Lmmqo) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DXE DXE DXE](https://open.spotify.com/album/5FJcrNxDMVAdlFmbtpTYqO) | 1:36 |
-| 2 | [Love Game](https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game](https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO) | 2:05 |
-| 3 | [ON THE FLOOR](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 |
-| 4 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 |
+| 1 | [Love Game](https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game](https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO) | 2:05 |
+| 2 | [ON THE FLOOR](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 |
+| 3 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 |
+| 4 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1ql5SXo1kO5OaMJy3Lmmqo) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DXE DXE DXE](https://open.spotify.com/album/5FJcrNxDMVAdlFmbtpTYqO) | 1:36 |
 | 5 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
 | 6 | [BAIXO](https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc) | 1:44 |
 | 7 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/55n5kEar6hN5QOv1xbb8f7) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:10 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 81 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 | 82 | [Bag \(azurreh mix\) <3](https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9) | [azurreh](https://open.spotify.com/artist/1nWQz0dYYJRbyym28yHcw4), [mai](https://open.spotify.com/artist/77lNm684zLFkTVZyWtyhca) | [Bag \(azurreh mix\) <3](https://open.spotify.com/album/6uCUWx86biFtjsCvh0qbpj) | 1:46 |
 
-Snapshot ID: `MCxmNDg2YzhlMzk3NmIzNGRjYzYzMmI3MWM5MGY2MTM5ZGFkNzBkMjBj`
+Snapshot ID: `MCxiZWEyZTVlYzEyYjMzMjFlNjljNTdiN2I3MTFmY2RmNTdmY2NiM2Q3`

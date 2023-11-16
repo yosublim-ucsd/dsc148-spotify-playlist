@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Unsual Demont
 
-1,023 songs - 2 day 6 hr 44 min
+1,024 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-08 |  |
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2022-04-01 | 2022-04-13 |
 | [Cry No More](https://open.spotify.com/track/6OwH1gyEMEZHDfQ3li6R3z) | [Chlo Chlo](https://open.spotify.com/artist/5WSw7GP4vHRXIFz648S3OW), [Ranger](https://open.spotify.com/artist/6QtbSwzlGllHgDOk5EiTwM) | [Cry No More](https://open.spotify.com/album/1RAljLiZBe7u0QXIIqFJWS) | 3:18 | 2021-11-05 | 2022-01-06 |
-| [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ) | 2:21 | 2023-08-18 |  |
+| [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ) | 2:21 | 2023-08-18 | 2023-11-16 |
 | [Cutlass \(ft\. ScHoolboy Q\)](https://open.spotify.com/track/6vBczVPPas3vqNDFX9u7q0) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Towards The Sun](https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH) | 3:20 | 2022-05-20 | 2022-08-09 |
 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2021-03-19 | 2022-07-16 |
 | [Cyanide](https://open.spotify.com/track/277XpUleOvdZlPdaM6aeBz) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 3:23 | 2023-11-03 |  |
@@ -685,6 +685,7 @@
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2023-04-14 | 2023-05-27 |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-05-13 | 2022-05-20 |
 | [Pissed Off \(Interlude\)](https://open.spotify.com/track/7pPaaQ7PGpKG3HJfUO0wam) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [The Interludes](https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7) | 2:05 | 2023-10-27 |  |
+| [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 | 2023-11-10 |  |
 | [PLAY](https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [PLAY](https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13) | 2:22 | 2023-05-19 | 2023-08-20 |
 | [PLAYGOD](https://open.spotify.com/track/5H9NsCxxAnLQhT2usGd35N) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [PLAYGOD](https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao) | 4:03 | 2022-04-01 | 2022-04-15 |
 | [Playlist](https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Playlist](https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA) | 2:50 | 2022-04-01 | 2022-04-13 |
@@ -889,7 +890,7 @@
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-03-19 | 2022-07-30 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-05 |  |
 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-10 |  |
-| [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 |  |
+| [The Glade](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [The Glade](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 |  |
 | [The Greatest Smile](https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 4:40 | 2022-11-11 | 2023-10-16 |
 | [THE PEACH](https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [THE PEACH](https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI) | 2:26 | 2023-03-17 | 2023-07-22 |
 | [THE SEASON \(feat\. PawPaw Rod\)](https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:06 | 2022-10-28 | 2023-04-01 |

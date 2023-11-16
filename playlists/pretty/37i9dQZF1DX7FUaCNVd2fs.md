@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music to help you relax and recharge.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 173 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 173 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

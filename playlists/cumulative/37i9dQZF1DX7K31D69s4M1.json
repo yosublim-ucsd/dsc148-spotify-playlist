@@ -15015,6 +15015,24 @@
     },
     {
       "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/12FzdXw4KPMzcIHhGeK9Fv"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150550,
+      "name": "Memento",
+      "url": "https://open.spotify.com/track/0MkWdxFwENeCUMeDGDbmsl"
+    },
+    {
+      "album": {
         "name": "Memoir",
         "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
       },

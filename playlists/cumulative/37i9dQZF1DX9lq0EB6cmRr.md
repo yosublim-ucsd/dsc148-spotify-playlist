@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9lq0EB6cmRr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9lq0EB6cmRr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9lq0EB6cmRr)
 
-### [Classic+K](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
+### [Classic.K](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
 
-> Listen hot and new Korean classical & new age  music in here! \(Cover: Kim Jeong Won\(김정원\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
+> Listen hot and new Korean classical & new age  music in here! \(Cover: Forestella\(포레스텔라\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-95 songs - 7 hr 57 min
+96 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Save our lives](https://open.spotify.com/track/6jV7bp6RxyWGvUt4RptTiF) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Beginning: World Tree](https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB) | 4:24 | 2023-09-13 |  |
 | [Scènes d’enfants: No\. 5, Jeunes filles au Jardin \- Live](https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [임윤찬](https://open.spotify.com/artist/3OzZCEXY68IhJKMHoErl62) | [Beethoven, Isang Yun, Barber \(Live\)](https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX) | 2:58 | 2023-09-13 |  |
 | [Shine](https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV) | [Libelante](https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY) | [Shine](https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP) | 4:10 | 2023-09-13 |  |
+| [Snow Globe](https://open.spotify.com/track/1l0MptcWp4W8iqwtzX4ZmF) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [Unfinished](https://open.spotify.com/album/58rrDckn6OfNw3dDyeUHvz) | 5:21 | 2023-11-15 |  |
 | [Solemn Love](https://open.spotify.com/track/1C4QeGKTj6uA8tcVW0IvKQ) | [Dan Jones](https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho), [Esther Yoo](https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [On Chesil Beach \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LF217LOo5xzgLszre4jfl) | 1:36 | 2023-09-13 |  |
 | [Sonata for Solo Violin in A Minor, Op.27, No.2: I\. Obsession: Prelude \(Poco Vivace\)](https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt) | [Eugène Ysaÿe](https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs), [Ju\-young Baek](https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw) | [YSAYE: SIX SONATAS FOR SOLO VIOLIN](https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP) | 2:40 | 2023-09-13 |  |
 | [Sonata for Solo Violin in A Minor, Op.27, No.2: IV\. Les Furies \(Allegro Furioso\)](https://open.spotify.com/track/5MJ7PlUVP1cqpd7Bt6UVkU) | [Eugène Ysaÿe](https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs), [Ju\-young Baek](https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw) | [YSAYE: SIX SONATAS FOR SOLO VIOLIN](https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP) | 3:08 | 2023-09-13 |  |

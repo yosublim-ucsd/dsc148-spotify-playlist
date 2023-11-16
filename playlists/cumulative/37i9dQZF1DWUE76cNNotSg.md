@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-373 songs - 1 day 0 hr 20 min
+374 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Chihiro](https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Chihiro \(Remixes\)](https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ) | 3:32 | 2020-12-22 |  |
 | [Chihiro](https://open.spotify.com/track/1frhZSh2UQNthJ5HOkXZig) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Chihiro](https://open.spotify.com/album/42eghd1SOYj8A6q4w0f9yL) | 3:36 | 2020-12-22 | 2022-04-21 |
 | [Chika \(scared\)](https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Chika \(scared\)](https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z) | 2:48 | 2020-12-22 |  |
-| [Clay Mouse](https://open.spotify.com/track/0jKwSfvSixoOZT4b42oCaL) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Clay Mouse](https://open.spotify.com/album/4VRSwwkS6bxokxXQF5V3Bs) | 3:06 | 2023-10-27 |  |
+| [Clay Mouse](https://open.spotify.com/track/0jKwSfvSixoOZT4b42oCaL) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Clay Mouse](https://open.spotify.com/album/4VRSwwkS6bxokxXQF5V3Bs) | 3:06 | 2023-10-27 | 2023-11-16 |
 | [close \- Buscabulla Remix](https://open.spotify.com/track/5o5scGUfPMSVulaTxDLfgF) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [close \(Buscabulla Remix\)](https://open.spotify.com/album/7oo6nf7Zeydkc3DszbcCKg) | 3:56 | 2021-08-27 | 2022-04-21 |
 | [Coastline \(feat\. Hollow Coves\)](https://open.spotify.com/track/10APf4gHZ7oLusw6oBteLQ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Coastline \(feat\. Hollow Coves\)](https://open.spotify.com/album/61UfaEaRqEpe3PVcJEpFCO) | 3:02 | 2022-05-13 | 2022-06-04 |
 | [Come With Me](https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:29 | 2022-05-13 | 2022-06-04 |
@@ -72,6 +72,7 @@
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2020-12-22 | 2022-11-13 |
 | [Dawntown](https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:08 | 2020-12-22 | 2022-07-29 |
 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-11-10 |  |
+| [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-11-14 |  |
 | [Diamond Veins \(feat\. Sarah Rebecca\)](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 4:00 | 2023-04-12 |  |
 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 | 2023-07-07 |  |
 | [Do U Want Me](https://open.spotify.com/track/2eTLxOZY8owibk7b2iETad) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Too Real](https://open.spotify.com/album/2i0WQgxSckOe7XEF1XtiCz) | 3:44 | 2020-12-22 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Guerra y Bunbury.
 
-259 songs - 16 hr 35 min
+260 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 | 2022-09-08 | 2023-03-03 |
 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 | 2022-06-09 |  |
 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 | 2022-06-09 |  |
+| [El Hilo Rojo](https://open.spotify.com/track/05m3jXQci3RgN2DzWrPeNy) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [El Hilo Rojo](https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi) | 3:22 | 2023-11-08 |  |
 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 | 2022-06-09 |  |
 | [El Mar](https://open.spotify.com/track/6PHcN9K5GQE5BZEsHz7eze) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [El Mar](https://open.spotify.com/album/1AM8igySA38ynWhzHNy38X) | 3:59 | 2023-04-20 | 2023-06-25 |
 | [El Marido de la Peluquera \- En Directo](https://open.spotify.com/track/4C9wlbc9ttH9WH7QCtfb2J) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Golosinas](https://open.spotify.com/album/3tZBEjAniNH6OwIdTGbxtf) | 3:48 | 2022-06-09 | 2022-07-29 |
@@ -249,7 +250,7 @@
 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 | 2022-08-11 |  |
 | [Un Día De Estos](https://open.spotify.com/track/6ZmJgYJp4agUqbcPVPCTv9) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Un Día De Estos](https://open.spotify.com/album/2OIxW8I2nTppWY04ty45A3) | 3:21 | 2023-09-14 | 2023-10-27 |
 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 | 2022-06-09 |  |
-| [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 | 2022-06-09 |  |
+| [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 | 2022-06-09 | 2023-11-16 |
 | [Una cueva en el invierno](https://open.spotify.com/track/4ttTVZY3XxVFDdKtHsQXCS) | [Marilia](https://open.spotify.com/artist/0vpLum5X3NNpmdvLPMm5El) | [Una cueva en el invierno](https://open.spotify.com/album/1ZJuPuaPhSuHYLc9dgQAaR) | 3:06 | 2022-11-24 | 2022-12-24 |
 | [Una de Dos \- Remasterizado](https://open.spotify.com/track/4QmQLKTxrxjUd2GJfwFdmT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 4:49 | 2022-06-09 | 2022-07-29 |
 | [Una décima de segundo \- Piano bar](https://open.spotify.com/track/65xghLRhFJr8n4k7P6jy80) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Una Décima de Segundo](https://open.spotify.com/album/5teTy4a7CayMzxwLdFJZ3c) | 2:25 | 2022-06-30 | 2022-07-18 |

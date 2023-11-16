@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 587297,
+  "num_followers": 588067,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "That's What I Love About Sunday",
+      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "That's What I Love About Sunday",
-      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
     },
     {
       "added_at": "2023-02-14 19:26:52",

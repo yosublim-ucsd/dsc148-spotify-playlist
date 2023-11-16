@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Listen to the fast\-paced soundtrack ahead of the Las Vegas Grand Prix, curated by Marshmello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,376 likes - 29 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,404 likes - 29 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

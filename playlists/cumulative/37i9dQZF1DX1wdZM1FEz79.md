@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: KIM YEO MYUNG\(김여명\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-474 songs - 1 day 4 hr 11 min
+475 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Love U \(feat\. J\_ust\)](https://open.spotify.com/track/4Umuqgh54N3EsC9G1ChxVc) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK), [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Daily](https://open.spotify.com/album/5r4renU9S9JbftT1CC8IfV) | 4:22 | 2022-01-13 | 2022-07-09 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-12 |
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-04-12 |  |
+| [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 |  |
 | [Making Memories](https://open.spotify.com/track/6WhLfYQ0pPKOVPBLE0B99M) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 4](https://open.spotify.com/album/7wU4uoS5zUzkQeXe10sxI3) | 4:28 | 2022-03-31 | 2022-04-21 |
 | [Malibu Orange](https://open.spotify.com/track/2mFRIZpQVeTRLDIuspIj66) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Malibu Orange](https://open.spotify.com/album/5IwfAOlbbLtXQeYsd74Ds4) | 2:22 | 2022-04-12 | 2022-04-15 |
 | [maybe you can fix me](https://open.spotify.com/track/2X2TEJ3hJcN2QXqwXNtYQI) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [maybe you can fix me](https://open.spotify.com/album/4WUQXSwMum7tOgiFrIuhEo) | 2:57 | 2022-08-12 | 2022-08-19 |
@@ -453,7 +454,7 @@
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-31 | 2022-04-19 |
 | [Your sea \(Acc ver.\)](https://open.spotify.com/track/7gAcFTyzB81ACPs299HS4M) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:16 | 2021-12-10 | 2022-06-17 |
 | [YOUR SONG](https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MY NAME IS SAM](https://open.spotify.com/album/6GUiTUgcpkhKlCZMTLLMI3) | 4:18 | 2021-12-10 | 2022-07-29 |
-| [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 |  |
+| [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 | 2023-11-16 |
 | [your voice\(acoustic\)](https://open.spotify.com/track/5ZJybAI37PVMbeEQwfkk3J) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [your voice\(acoustic\)](https://open.spotify.com/album/6zAiZBYCwmblKjIO3yJF0l) | 5:18 | 2022-03-07 | 2022-07-20 |
 | [겨울이 온 것처럼 말이지 \- From 'Hidden Track No.V' Vol.4](https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [겨울이 온 것처럼 말이지 \(From 'Hidden Track No.V' Vol.4\)](https://open.spotify.com/album/2ORxTBs669Atoz1MJinBLy) | 2:53 | 2022-03-31 | 2022-04-19 |
 | [계절은 핑계 Season is an excuse](https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [계절은 핑계 Season is an excuse](https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur) | 3:11 | 2023-01-11 | 2023-01-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 【セトリ公開】2023年8月〜10月に開催された「Stray Kids 5\-STAR Dome Tour 2023」の日本公演セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,105 likes - 24 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,247 likes - 24 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 23 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
 | 24 | [Haven](https://open.spotify.com/track/1B960zmIFgde0TflN2q8Au) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:19 |
 
-Snapshot ID: `MCwwMzlkN2ExYjY5ZmZmOGI4MjRmZWIzZTVmM2NhYzNjZDYzNjYxMTFh`
+Snapshot ID: `MCxhY2ZhMGY1OTM1NWFkMzllMDQwNjFhYWY2NTcxYmRkMzUwYzk2MjEx`

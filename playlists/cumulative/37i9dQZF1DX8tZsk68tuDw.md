@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ISOxo.
 
-2,563 songs - 6 day 4 hr 47 min
+2,564 songs - 6 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1647,7 +1647,8 @@
 | [Okapi](https://open.spotify.com/track/0L2RUnedJSdJ1ioqt3R2Dz) | [Oscar House](https://open.spotify.com/artist/62zZzaIrAmE39oJRnq82fh) | [Okapi](https://open.spotify.com/album/2DTlNnrDKxTv5ZjFQzWbVJ) | 2:48 | 2020-10-13\* | 2020-11-21 |
 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-07-29 | 2022-08-20 |
 | [On A Mountain \- Flume Remix](https://open.spotify.com/track/0lrIwNdTiHaOlw8gqwXk6L) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/3ReRflPpQwIKOE9gsZ6vTC), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [On A Mountain \(Flume Remix\)](https://open.spotify.com/album/50jXx1rbRofsYKZgWwZKjd) | 2:57 | 2021-08-28 | 2021-09-18 |
-| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 |  |
+| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 | 2023-11-16 |
+| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7) | 3:26 | 2023-11-10 |  |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-09-25 | 2021-10-02 |
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2022-08-05 | 2022-10-01 |
 | [On My Mind](https://open.spotify.com/track/73q91uUFExJXYKsnZP9gFX) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [On My Mind](https://open.spotify.com/album/6PEkbnlo9YzRWqEL4A7hru) | 3:13 | 2022-03-11 | 2022-05-07 |

@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-196 songs - 16 hr 23 min
+197 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Friday Morning \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 6:36 | 2022-02-10 |  |
 | [Gettin' in the Way](https://open.spotify.com/track/0IgCIaMYjOgMD5Erod0Fgq) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Experience: Jill Scott 826+](https://open.spotify.com/album/4qUhtl9sum7gV3mEbEoV2k) | 7:42 | 2022-02-10 | 2022-07-29 |
 | [Good \- Live at Subfrantic](https://open.spotify.com/track/2uf2ou3vOuT0AirGmxQIpG) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Good \(Live at Subfrantic\)](https://open.spotify.com/album/5Fz0oDUdl5x6w8tIcSAvQo) | 3:12 | 2022-02-10 | 2022-07-12 |
-| [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 | 2022-02-10 |  |
+| [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 | 2022-02-10 | 2023-11-16 |
 | [Grow \- Live](https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/5hx3IYGZNWMV9NgVBOFWZd) | 3:02 | 2022-02-10 | 2022-10-13 |
 | [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 | 2022-02-10 |  |
 | [Heart Of The City \(Ain't No Love\) \- Live On MTV Unplugged / 2001](https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Jay\-Z Unplugged \(Live On MTV Unplugged / 2001\)](https://open.spotify.com/album/7ctCScnWG0nMedlfUiauOk) | 4:05 | 2022-02-10 | 2023-03-31 |
@@ -91,6 +91,7 @@
 | [I Want To Be Around](https://open.spotify.com/track/1aasI9rFBhLlyhkoNmzevh) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Live At The Apollo Vol.1](https://open.spotify.com/album/1GJy4wYHVyHcz5krfYwde3) | 3:13 | 2022-02-10 | 2022-07-24 |
 | [I Wish \- Live/1995](https://open.spotify.com/track/1cTSs5xmxeLqms0SYdFMRT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6epDXeJEH7nM90fzgchqfr) | 4:06 | 2022-02-10 | 2022-07-28 |
 | [I Wish \- Live/1995](https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 4:06 | 2022-02-10 |  |
+| [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/track/7x4wq1V9AfzzryrsfSOkSH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/2wH0qd6qfjG0GCOig8hpO8) | 6:07 | 2023-05-15 |  |
 | [I Wish I Knew How It Would Feel to Be Free \- Live – Montreux Jazz Festival 1976](https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm) | 6:07 | 2022-02-10 | 2023-11-04 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 | 2022-02-10 |  |
 | [Inner City Blues \(Make Me Wanna Holler\) \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 3:55 | 2022-02-10 | 2022-07-28 |

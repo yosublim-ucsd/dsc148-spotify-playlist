@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 64254,
+  "num_followers": 64375,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 271770,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Mind Doodles",
         "url": "https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 401409,
       "name": "Mind Doodles",
       "url": "https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 271770,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "The Only Way Out Is Through",
-        "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 494109,
-      "name": "The Only Way Out Is Through",
-      "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Arterial",
         "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "The Year After",
-        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
+        "name": "The Only Way Out Is Through",
+        "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
       },
       "artists": [
         {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
         }
       ],
-      "duration_ms": 428936,
-      "name": "The Year After",
-      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
+      "duration_ms": 494109,
+      "name": "The Only Way Out Is Through",
+      "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -599,6 +583,38 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Nina Kraviz",
+        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Ghetto Kraviz",
+      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "The Year After",
+        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        }
+      ],
+      "duration_ms": 428936,
+      "name": "The Year After",
+      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Drone Logic",
         "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
       },
@@ -611,6 +627,26 @@
       "duration_ms": 342853,
       "name": "Knowing We'll Be Here",
       "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Teira",
+          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "The Right Place (feat. Teira)",
+      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -639,42 +675,6 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Teira",
-          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "The Right Place (feat. Teira)",
-      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Nina Kraviz",
-        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Ghetto Kraviz",
-      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "WWDKF",
-        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
-      },
-      "artists": [
-        {
-          "name": "Pilotpriest",
-          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
-        }
-      ],
-      "duration_ms": 344470,
-      "name": "Archive Seven",
-      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Interlife",
         "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 281531,
       "name": "Lotus Bass",
       "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "WWDKF",
+        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+      },
+      "artists": [
+        {
+          "name": "Pilotpriest",
+          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+        }
+      ],
+      "duration_ms": 344470,
+      "name": "Archive Seven",
+      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Searows <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,459 likes - 117 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,737 likes - 117 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

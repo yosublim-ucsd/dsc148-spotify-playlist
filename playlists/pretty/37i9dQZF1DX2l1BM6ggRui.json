@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 5968,
+  "num_followers": 6009,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "7+UP",
-        "url": "https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ"
-      },
-      "artists": [
-        {
-          "name": "EL7Z UP",
-          "url": "https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "CHEEKY",
-      "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Heroine",
         "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 195000,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "7+UP",
+        "url": "https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ"
+      },
+      "artists": [
+        {
+          "name": "EL7Z UP",
+          "url": "https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "CHEEKY",
+      "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
-        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "SEOUL (Such a Beautiful City)",
-      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197096,
       "name": "METEOR",
       "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
+        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "SEOUL (Such a Beautiful City)",
+      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "LOVE EFFECT",
-        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Love Effect",
-      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "FLOWER SHOWER",
         "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 188373,
       "name": "FLOWER SHOWER",
       "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "LOVE EFFECT",
+        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Love Effect",
+      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "SELFISH",
         "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "A-MOONO-KE",
-        "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
       },
       "artists": [
         {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
         }
       ],
-      "duration_ms": 177840,
-      "name": "A-MOONO-KE (I\u2019m OK)",
-      "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -687,34 +671,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "NEW TOMORROW",
-        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+        "name": "A-MOONO-KE",
+        "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
       },
       "artists": [
         {
-          "name": "FANTASY BOYS",
-          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
         }
       ],
-      "duration_ms": 230933,
-      "name": "New Tomorrow",
-      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 13",
-        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
+      "duration_ms": 177840,
+      "name": "A-MOONO-KE (I\u2019m OK)",
+      "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -735,6 +703,22 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb"
       },
@@ -747,6 +731,38 @@
       "duration_ms": 226880,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "NEW TOMORROW",
+        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+      },
+      "artists": [
+        {
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "New Tomorrow",
+      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Be Your Love",
+      "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Be Your Love",
-      "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -844,7 +844,7 @@
           "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
         },
         {
-          "name": "meenoi",
+          "name": "MEENOI",
           "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],

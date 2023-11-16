@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,113 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,270 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 40 | [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 |
 | 41 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
 | 42 | [Se Acabó \(feat\. Chino & Nacho\)](https://open.spotify.com/track/0Utzzt4g5obYXkREtLiRR1) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [El Plan](https://open.spotify.com/album/2DVYLr5bpUMkzql2NQlMSW) | 3:27 |
-| 43 | [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 |
+| 43 | [Tus Ojos](https://open.spotify.com/track/33fEdZF6sT3UE4OdU0k3kq) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [La Historia Musical](https://open.spotify.com/album/2iBYlVipulkyhuAndEtEgR) | 4:27 |
 | 44 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 |
 | 45 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 |
 | 46 | [Ya Compré el Anillo](https://open.spotify.com/track/2iZwmHdh0xGzFpdm48uFbL) | [Jorge Luis Chacin](https://open.spotify.com/artist/6ik9bjjFeSdO1cue8p2V7G), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Ya Compré el Anillo](https://open.spotify.com/album/2D6EeHlZ2iknrGxBS7uD2Y) | 3:35 |

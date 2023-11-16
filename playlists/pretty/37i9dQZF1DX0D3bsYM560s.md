@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,555 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,596 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 36 | [Speakin’ to That Mountain](https://open.spotify.com/track/2k0XpAmKF3Xd7pIrNXtZTJ) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [Crêpe Paper Heart](https://open.spotify.com/album/0FTQoJXH9ny0gOqYnmHXip) | 2:55 |
 | 37 | [Big Eyed Rabbit](https://open.spotify.com/track/52zhmkHINnGXcOhcB2U2mq) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8) | [Bright Like Gold](https://open.spotify.com/album/4czdON71dj9j0MNkZdsbmK) | 3:34 |
 | 38 | [Ruby, Are You Mad at Your Man?](https://open.spotify.com/track/3g7DfvDfXZ6MffPb9Q6ams) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Leaving Eden](https://open.spotify.com/album/1RGG9MCrdqsaBqvvxiM2Hf) | 3:46 |
-| 39 | [Fast Moving Train](https://open.spotify.com/track/46ZogNzAJVYtiqBOdcCUU6) | [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1), [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [Fast Moving Train](https://open.spotify.com/album/2gNwNpN7p3SKI5vMY6LMbC) | 3:15 |
+| 39 | [Fast Moving Train](https://open.spotify.com/track/46ZogNzAJVYtiqBOdcCUU6) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1) | [Fast Moving Train](https://open.spotify.com/album/2gNwNpN7p3SKI5vMY6LMbC) | 3:15 |
 | 40 | [Blame it on the Bluegrass](https://open.spotify.com/track/3qwqqmOBkC3OqWud4IXOxT) | [Valerie Smith](https://open.spotify.com/artist/4hLfpKmfEqJU0V2ez8mXN1) | [Blame It On The Bluegrass](https://open.spotify.com/album/4CEQIkPJj2sZFx5lkHON77) | 3:04 |
 | 41 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 |
 | 42 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 |

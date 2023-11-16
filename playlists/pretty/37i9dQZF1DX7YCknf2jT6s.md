@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: J\-Rod Sullivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,982 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,227 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 3 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |
 | 4 | [Could We but See](https://open.spotify.com/track/1sytnDQJBIII1uNIiXkj87) | [Raphaël Pannier](https://open.spotify.com/artist/5C9hm95fwfcWi7vioKUI9x), [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Giorgi Mikadze](https://open.spotify.com/artist/6JS9KZNBZNM7q7EASDnQCK) | [Letter to a Friend](https://open.spotify.com/album/3ryYiluY1ZX0oMULRwWZVO) | 7:24 |
 | 5 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 |
-| 6 | [Encantados](https://open.spotify.com/track/5ZoTkuU785CDSdviTd2NLJ) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [Hamid Drake](https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o), [Aniel Someillan](https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk) | [Encantados](https://open.spotify.com/album/4o8BvfMSYj8YRuhivJqg9g) | 9:42 |
+| 6 | [Encantados](https://open.spotify.com/track/4yTafI7wbjy1VtThovqmXF) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [Hamid Drake](https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o), [Aniel Someillan](https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk) | [Encantados](https://open.spotify.com/album/2TgHSNAZ2hQgnjEOh2t9Bh) | 9:42 |
 | 7 | [The Botanist](https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [The Botanist](https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk) | 4:30 |
 | 8 | [Não Ao Marco Temporal](https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Não Ao Marco Temporal](https://open.spotify.com/album/4OhAAD1R2PQkCZnETwkkoz) | 3:09 |
 | 9 | [Eunoia](https://open.spotify.com/track/33XEbnHrZ2PpIpViOBvNz9) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 6:12 |

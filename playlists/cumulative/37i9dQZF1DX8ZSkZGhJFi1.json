@@ -946,6 +946,10 @@
         {
           "name": "Slipp",
           "url": "https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
         }
       ],
       "date_added": "2023-09-22",
@@ -5056,7 +5060,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 109714,
       "name": "Late Night Jams",
       "url": "https://open.spotify.com/track/5j2yseMUjUsSFLWEI1nihH"
@@ -7404,6 +7408,10 @@
         {
           "name": "Salvador",
           "url": "https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
         }
       ],
       "date_added": "2023-09-22",
@@ -11714,7 +11722,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 133718,
       "name": "Yesterday's Tomorrow",
       "url": "https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez"

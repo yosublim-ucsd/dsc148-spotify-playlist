@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Alter Ego
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: パジャマで海なんかいかない
 
-228 songs - 18 hr 28 min
+229 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Danny Boy](https://open.spotify.com/track/5V4DDq4TAn5UPrJBbKl5M2) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Danny Boy](https://open.spotify.com/album/5edIjcQxIfRjLDKplE8edG) | 2:52 | 2022-09-06 | 2022-09-15 |
 | [DARK MATTER](https://open.spotify.com/track/7IcBf60dxm4el6NsnY7CgK) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [PARASITE SYSTEM](https://open.spotify.com/album/0c0DN3vGLu3pEZP3b9d822) | 3:06 | 2023-09-05 | 2023-10-04 |
 | [dawn highway](https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [dawn highway](https://open.spotify.com/album/5anIBZvF2hBoS8rnRgAYsL) | 3:29 | 2023-08-08 |  |
-| [Daydream](https://open.spotify.com/track/1SGuM7OqpvyU4F5vIUEfTU) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Landed on the Moon](https://open.spotify.com/album/77VLkt74v9MQlxa3i83ZJC) | 4:46 | 2023-08-29 |  |
+| [Daydream](https://open.spotify.com/track/1SGuM7OqpvyU4F5vIUEfTU) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Landed on the Moon](https://open.spotify.com/album/77VLkt74v9MQlxa3i83ZJC) | 4:46 | 2023-08-29 | 2023-11-16 |
 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 | 2022-10-25 | 2022-12-07 |
 | [Delight](https://open.spotify.com/track/5X0b33rwOYBzCf9GlumgqP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Delight](https://open.spotify.com/album/0HCLpvF3ydPqboT0ZOVDfX) | 5:10 | 2023-10-31 |  |
 | [dnp](https://open.spotify.com/track/6H43tmO7fAnFGA0MCLHXpl) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [dnp](https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6) | 4:11 | 2023-10-10 |  |
@@ -73,6 +73,7 @@
 | [Goreezin'](https://open.spotify.com/track/0EqXbkxKfOpJl6XfqNOkwu) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Goreezin'](https://open.spotify.com/album/2flFBbyybmmy7nB4NTnWWd) | 5:29 | 2022-09-06 | 2022-10-19 |
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 | 2023-11-03 |
+| [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-14 |  |
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-13 | 2022-10-19 |
 | [Head Up!](https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head Up!](https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4) | 4:20 | 2023-07-11 | 2023-08-08 |
 | [Head up!](https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head up!](https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl) | 4:20 | 2023-07-11 | 2023-07-13 |

@@ -1,15 +1,31 @@
 {
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
-  "num_followers": 10013,
+  "num_followers": 10065,
   "original_name": "Jazzia Suomesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDk0MWFiOTgzMTg5YzMzY2Q2NWQ0NWFmNGU3ZWFjMWVmMzgwYmVl",
+  "snapshot_id": "MCxiZmM0MjliNWQzYWU3NWRlYWZkMDhlNGRiNGUxYjI2OWEwZWY2ZGI4",
   "tracks": [
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202"
+      },
+      "artists": [
+        {
+          "name": "Masa Orpana",
+          "url": "https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G"
+        }
+      ],
+      "duration_ms": 324272,
+      "name": "You'll Hear Me When I Come",
+      "url": "https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes"
+    },
+    {
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Post Koma",
         "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Immediate Music III",
         "url": "https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Two Shadows of You",
         "url": "https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Dialogue",
         "url": "https://open.spotify.com/album/1W0d6d1Ruv2uWA5MeI4Cmk"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/2ulrCn7v24eySiwshtmyFN"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Earthbeat",
         "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
@@ -101,23 +117,7 @@
       "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202"
-      },
-      "artists": [
-        {
-          "name": "Masa Orpana",
-          "url": "https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G"
-        }
-      ],
-      "duration_ms": 324272,
-      "name": "You'll Hear Me When I Come",
-      "url": "https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes"
-    },
-    {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Sao Paolo",
         "url": "https://open.spotify.com/album/3NYIyxSA052F9t9YuIhez7"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/6HmYcMEJQlMDXHjaYRQJF6"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Try Again",
         "url": "https://open.spotify.com/album/7Js6Q1TX5YB7PTvhgnPtKC"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/3mRP9loGOgziATfqC21ipN"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Viile\u00e4ss\u00e4 virrassa",
         "url": "https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/4qPs6JHFEaltnYSsvMO5qI"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6toNcJv5LE65OGYbE4pwUz"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Maa",
         "url": "https://open.spotify.com/album/7DkhE0ZX2WlFfJjUK4WDrA"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3d9EeEFR1nMnzjZZpLKiwH"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Circus/Citadel",
         "url": "https://open.spotify.com/album/7KRl0DZ6VvxGisL4x2qJEF"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/35zjnluB33xZytg09SnG2I"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "The Complete Loft Sessions",
         "url": "https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Kalkstrand",
         "url": "https://open.spotify.com/album/1BT07FuAnU1jwz5hKRmCET"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/2iQEWvAGEddRmFKl4y8UsJ"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Pilkun paikka",
         "url": "https://open.spotify.com/album/0iGEN3CCuIRI3G5aosO1YO"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/0rlKeYldBS2IqO3oulrcdK"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "For Toninho",
         "url": "https://open.spotify.com/album/55bZqTk45ivqPKEb0chRgH"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2Km571vTelCM5vTl5e51Ef"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Lester the Jester",
         "url": "https://open.spotify.com/album/236Ar5nslcai0M3psMBCQr"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2XxZiXSdjToe4op5r6Kmce"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Y\u00f6 Kaivopuistossa",
         "url": "https://open.spotify.com/album/02g76ffVx121FMO2PQjZ7h"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1XvrA1Eg7ysuFDoSG4gdwI"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Births Today",
         "url": "https://open.spotify.com/album/5Cu7wpoRwOErMpUfJWQA3X"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/3daOwvvlyswZiRgw6Spb3j"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Turn Again Hourglass",
         "url": "https://open.spotify.com/album/5TNB6VrYqAFwWcIuez679C"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Kosmoksen erakko",
         "url": "https://open.spotify.com/album/0Wt5pnCwuRsNxv2grDTVFF"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "The Mortal Lease",
         "url": "https://open.spotify.com/album/6T6ub80N2wRq5CpMhclgYR"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0otzA9Phtpsq04L9ZNUdAG"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Direction Zero",
         "url": "https://open.spotify.com/album/7vGYQw6dwogNb67igmzHBq"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/1g3OXg3fy4uuvT6f1lfTrr"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Monkey Mind",
         "url": "https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Big Push",
         "url": "https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Horros",
         "url": "https://open.spotify.com/album/7KUmdgjZxB8wvZKwAgKePs"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/61rFTzOs4B62gXv9HCK8x8"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Cold War 3.0",
         "url": "https://open.spotify.com/album/16sTWBr07KUeJl1kooiP6t"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/2GYAwQ6AAod12gYOEmgme4"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "A Thing With Feathers",
         "url": "https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/25patDyUz6247RVEzsEOpx"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "demolish, transform",
         "url": "https://open.spotify.com/album/7inP2RNk891EPvKCeJojEu"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Y\u00f6lauluja",
         "url": "https://open.spotify.com/album/3Rqk4yG9Dr93rvEJPz6YZ6"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/2ht22f3HTPT33rwoUAhCyJ"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Valkoinen hevonen",
         "url": "https://open.spotify.com/album/3QYbmO7p0T1eIIHo2n6ZLP"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/7xkSKRKEjSBo306GBzhO8Y"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Kullankaivaja",
         "url": "https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Hustoi",
         "url": "https://open.spotify.com/album/3cKJHD8OgLeYnQJpW355SO"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5DIox0mCNo1bzbCWrOwZ8f"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Three Dots And A Dash",
         "url": "https://open.spotify.com/album/12ESJsQWfDMtkPak2o5b5z"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/28eRQiRTyHjVBatDBx5HTN"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Avanto",
         "url": "https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Horror Vacui",
         "url": "https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Siskolle",
         "url": "https://open.spotify.com/album/6R9scIfEiM51YThGUw1zue"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/2gHx8geEkqUEXmlAGy0hLw"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Something About Us",
         "url": "https://open.spotify.com/album/1TboFMYUz8WDPJYIbMpRsW"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/4LFzdxh0KGkjfZlFeRSsoG"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Ultralum",
         "url": "https://open.spotify.com/album/6rF08IvdvgQymJVPQ8f9Cb"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/21fpqfJHEbFfndoFzCBAz0"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/412Ze3X4P5Bndx4XnWAJwG"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Syntax",
         "url": "https://open.spotify.com/album/45CGm3hNDfYcacvfukU2Ee"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/0nut26etVcSuXsuHhMYHqc"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/4r0L6EqxsSsVAYU0vZmGcx"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Kev\u00e4t",
         "url": "https://open.spotify.com/album/1Us0cdS58DFuVqItyz2LpM"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/3rWFDscuVW07OAnF2prqeR"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Songs From Suspended Times",
         "url": "https://open.spotify.com/album/1yrS6PV6y0ke5h1hqjbg7D"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/22JUahfpObguJJ71Pool8M"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/1YWqNNUthr7skfCHUpHv4P"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/4bgK6O1AkJFTzYHntUnidF"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Pedro's Dream",
         "url": "https://open.spotify.com/album/5f0bPe67qzTpt5wDTIx9Ld"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/7aEFckazRHgF1NkdWlXn4N"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Made in Finland",
         "url": "https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "The Wheel",
         "url": "https://open.spotify.com/album/0kKU0PwlEvOxTVgQLs1Qj9"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/1rqk8yEMJ0R1oPvPjbM7Sv"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Junassa",
         "url": "https://open.spotify.com/album/43RH8KMHg3VtQrOWH4aDgY"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/2hPQcgfs8FPUEtFmqRRqaV"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/5AWHqcIYnZh5uI56sL81Um"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/70DGWD6Cyl1iuKoEF0e0Sp"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/3PWjcHNKxKXs2uGGOCRVqO"
@@ -1013,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4mPtjZ3GTE6vrjo20YcQ2b"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "One small step",
         "url": "https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Almost Standards (Doctoral Edition)",
         "url": "https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb"
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Diversity",
         "url": "https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "My Finnish Soul",
         "url": "https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Agatha 2",
         "url": "https://open.spotify.com/album/08nktqg0coNXQJK1xjBiuj"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3NI3SPBGKE1rOzIm28ory0"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Trial by Fire",
         "url": "https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Ask Me Now",
         "url": "https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "In Belgium 1967",
         "url": "https://open.spotify.com/album/4aakvcLyo3hy75L2R2w5jp"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1LFUykhSDCqcmpDzs0WpvH"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Hiljainen",
         "url": "https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Rag",
         "url": "https://open.spotify.com/album/7mgH9Xu4xGvMaizxeTUeSf"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1U2g56MOsv3yZ6g70OhwGk"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Ketunnokka",
         "url": "https://open.spotify.com/album/2592dCUKaQyPcmgUP4gszv"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Saami Rights",
         "url": "https://open.spotify.com/album/2J9YdrWUDPck5CxKBXs92d"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2EQ4o9Bxfi9R4Xw9pty8Ae"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Karjalan Poikia",
         "url": "https://open.spotify.com/album/1txoN5voopFmu3MDID7MG8"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1QKRrMtm4qo22TGO5qjMF1"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/5W92tmMDBBOg4d30rMLPWu"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Liesu",
         "url": "https://open.spotify.com/album/5n86VY1BoK0gQB8YZw21Pp"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2CKL9mnBSVyp25XD262LMM"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Moon over Mysore",
         "url": "https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Murhatarina",
         "url": "https://open.spotify.com/album/3w0Jwd36FrbWfN3VQMnu2i"
@@ -1313,7 +1313,7 @@
       "url": "https://open.spotify.com/track/1RexGZx3oC1elDsP1UqiGb"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Brand New Games",
         "url": "https://open.spotify.com/album/73Yk3EqWeBP7MhHKRQohEL"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/1rbRTcz5o8BrewfMPTLbZk"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Let's Call This",
         "url": "https://open.spotify.com/album/48O5U5LlrkYPYXSh5W0MOe"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1f4elItJX2wwG1AmeVzV3O"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Side Effect",
         "url": "https://open.spotify.com/album/5iaRtB7KTg8xSCoNIl4EiS"
@@ -1377,7 +1377,7 @@
       "url": "https://open.spotify.com/track/3wIKPsBqmjf4vYqiNw8Z8t"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/5O6bsK4isDbbcr6Sp7bTqD"
@@ -1393,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0yjKisEQNn4guL4s8HpABJ"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Unituulia",
         "url": "https://open.spotify.com/album/4ea1eOXdoToRal6XqcSoci"
@@ -1413,7 +1413,7 @@
       "url": "https://open.spotify.com/track/3M7VQWhLMGX1HxnErLvpNs"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Scenes",
         "url": "https://open.spotify.com/album/4SgIdBAzCLmLCm9il7eWZj"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Cameroonian Sky",
         "url": "https://open.spotify.com/album/3xCzRWB159GSRsgZ8dXmuh"
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/6IQ5o2ur6q1DXoRUfk2Cb1"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Fusionations",
         "url": "https://open.spotify.com/album/481Z3DQ5wwJ6i0J8mPq9HI"
@@ -1481,7 +1481,7 @@
       "url": "https://open.spotify.com/track/0ZTd2wJwhdlSURtYv0XHIb"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Blue & Golden",
         "url": "https://open.spotify.com/album/07uM6sL7Usdi3pHcwQunsc"
@@ -1497,7 +1497,7 @@
       "url": "https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Chickenhawk",
         "url": "https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W"
@@ -1517,7 +1517,7 @@
       "url": "https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG"
     },
     {
-      "added_at": "2023-11-10 11:48:49",
+      "added_at": "2023-11-15 08:45:37",
       "album": {
         "name": "Ilmiliekki Quartet",
         "url": "https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ"

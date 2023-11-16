@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: CHASEDAE(\ucc28\uc138\ub300)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: AIRI KANNA(\uc544\uc774\ub9ac \uce78\ub098)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2358,6 +2358,24 @@
       "duration_ms": 246866,
       "name": "Eye of the Typhoon",
       "url": "https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r"
+    },
+    {
+      "album": {
+        "name": "Fading Person, Fading Love",
+        "url": "https://open.spotify.com/album/7zm4iYoy893pHeRYQKLGVr"
+      },
+      "artists": [
+        {
+          "name": "IT\u2019S",
+          "url": "https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232656,
+      "name": "Fading Person, Fading Love",
+      "url": "https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl"
     },
     {
       "album": {
@@ -6160,6 +6178,24 @@
     {
       "album": {
         "name": "pueblo",
+        "url": "https://open.spotify.com/album/2l2tymGSreBsAXvHywpTU1"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "pueblo",
+      "url": "https://open.spotify.com/track/1U3LiGbnLaImLILPwefIRN"
+    },
+    {
+      "album": {
+        "name": "pueblo",
         "url": "https://open.spotify.com/album/3K2thE83a9qRwgBsW0NEqV"
       },
       "artists": [
@@ -6986,7 +7022,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 194000,
       "name": "She",
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
@@ -7856,7 +7892,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 225777,
       "name": "surf.",
       "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"

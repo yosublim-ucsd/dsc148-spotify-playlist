@@ -370,6 +370,24 @@
     {
       "album": {
         "name": "Cuchi-Cuchi",
+        "url": "https://open.spotify.com/album/1SpaM5xsJmHfBmlvTOdzrR"
+      },
+      "artists": [
+        {
+          "name": "Charo and The Salsoul Orchestra",
+          "url": "https://open.spotify.com/artist/1yWjva4CAB6FGCgKioq7Zr"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377405,
+      "name": "Dance A Little Bit Closer (12'' Mix)",
+      "url": "https://open.spotify.com/track/2y4EEO7Y2X5wC9sQGqOKkQ"
+    },
+    {
+      "album": {
+        "name": "Cuchi-Cuchi",
         "url": "https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht"
       },
       "artists": [
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,174 likes - 143 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,040 likes - 143 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

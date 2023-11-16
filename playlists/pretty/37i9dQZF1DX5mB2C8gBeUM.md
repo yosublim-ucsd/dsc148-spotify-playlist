@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,394 likes - 146 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,662 likes - 146 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 45 | [Heartland](https://open.spotify.com/track/634zF9K8obrdbKddcf5eK8) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [HUSH](https://open.spotify.com/artist/7iV99HXQMpTCGrtcVn6jAi) | [Heartland](https://open.spotify.com/album/3nNAaz73wIfNSdyAjlcWCD) | 3:15 |
 | 46 | [Haw Yee](https://open.spotify.com/track/6b9TY1cfPnJKGjedkYMRIQ) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO), [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Haw Yee](https://open.spotify.com/album/1hSBCYMhXhQwaZom8bpHBr) | 2:46 |
 | 47 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
-| 48 | [Dutton Ranch Freestyle](https://open.spotify.com/track/30I91lf1QB0eOgMSGKGqHB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 2:23 |
+| 48 | [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 |
 | 49 | [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 |
 | 50 | [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 |
 | 51 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 |
-| 52 | [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 |
+| 52 | [Holy Cowboy](https://open.spotify.com/track/1TPpvjNoanUE1UUE2Ap8jA) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/7xAa2ez0jljaSsJMgoQB3L) | 2:39 |
 | 53 | [COWGIRLS GO TO HEAVEN](https://open.spotify.com/track/5wdHaDr43SjXfvoBIBER9k) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [COWGIRLS GO TO HEAVEN](https://open.spotify.com/album/7lCMuvFvEEiYBpwyP8jkZ0) | 2:09 |
 | 54 | [Happy](https://open.spotify.com/track/055RqRu1mNSgLCEyrj7b76) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Happy](https://open.spotify.com/album/0vuPBOaCaK0a6dhBFp3Ynz) | 3:10 |
 | 55 | [Welcome to the Club](https://open.spotify.com/track/1ve542s6OQNdpgtJEcUTvx) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/39lqBskpYDfWOYwGwKMk8I) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 329767,
+  "num_followers": 329847,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Solo Seduzente",
+        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
+      },
+      "artists": [
+        {
+          "name": "Dani Russo",
+          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
+        }
+      ],
+      "duration_ms": 125990,
+      "name": "Solo Seduzente",
+      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Solo Seduzente",
-        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
+        "name": "Ciranda Sem Fim",
+        "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
       },
       "artists": [
         {
-          "name": "Dani Russo",
-          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
+          "name": "Lia de Itamarac\u00e1",
+          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
         }
       ],
-      "duration_ms": 125990,
-      "name": "Solo Seduzente",
-      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
+      "duration_ms": 200000,
+      "name": "Meu S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1519,22 +1535,6 @@
       "duration_ms": 206192,
       "name": "Preta de Quebrada",
       "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Ciranda Sem Fim",
-        "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
-      },
-      "artists": [
-        {
-          "name": "Lia de Itamarac\u00e1",
-          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Meu S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1719,18 +1719,30 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Hitz\u00e3o da Porra",
-        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/57gugEndr41sLF4rRVcUte"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
         }
       ],
-      "duration_ms": 132224,
-      "name": "Hitz\u00e3o da Porra",
-      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
+      "duration_ms": 199500,
+      "name": "100% Feminista",
+      "url": "https://open.spotify.com/track/4hLSdyrFDMjRJS3zhU2ZQz"
     }
   ],
   "unique_name": "Escuta as Minas",

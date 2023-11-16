@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20897,
+  "num_followers": 20895,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NTcsYTI1MDBiMTcwYWM1N2QxMjkzMDcxZDMzNDQwOGNmMjFmYWY4Y2I4YQ==",
+  "snapshot_id": "MTA1NTgsYjYyNzZiODZjMjQ5YzRlNWUyMmE3MGM3NjM2NjUwM2MwMjFmZmZkNA==",
   "tracks": [
     {
       "added_at": "2023-11-10 21:45:45",
@@ -2519,6 +2519,22 @@
       "duration_ms": 284197,
       "name": "Red Earth Creek - Winemaker Remix",
       "url": "https://open.spotify.com/track/4wy471QJmNNGD2PWaWByb6"
+    },
+    {
+      "added_at": "2023-11-15 15:43:23",
+      "album": {
+        "name": "Feel The Need",
+        "url": "https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 215646,
+      "name": "Feel The Need",
+      "url": "https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0"
     }
   ],
   "unique_name": "Moving Castle Monthly",

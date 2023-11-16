@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,887 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,921 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 17 | [Curated by Kim Byung Chul](https://open.spotify.com/track/1f6G6j66YK9yGiDmelwi9b) | [Kim Byung Chul](https://open.spotify.com/artist/0dMGnNOXRsX492vEOFwDFo) | [Doctor Cha](https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR) | 0:32 |
 | 18 | [Summer Wine](https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:44 |
 | 19 | [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 |
-| 20 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 |
+| 20 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 |
 | 21 | [Mist](https://open.spotify.com/track/36j9kcESXeGztRjY74oDLl) | [Jung Hoon Hee](https://open.spotify.com/artist/2xKCegXMvAaIVgEFEuJdSA) | [정훈희 Best](https://open.spotify.com/album/18THfrj0GSfeQsF2tSmnG2) | 3:17 |
 | 22 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 |
 | 23 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 |

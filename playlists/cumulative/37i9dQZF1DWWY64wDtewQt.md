@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-618 songs - 23 hr 42 min
+619 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [REQUIEM](https://open.spotify.com/track/0KEEzyspcgns3JEdJboguD) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [REQUIEM](https://open.spotify.com/album/21Y2KDAvmbyaENzKIeO2Lj) | 1:41 | 2023-04-11 | 2023-05-06 |
 | [Requiem](https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag) | [Requiem](https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz) | 1:44 | 2022-12-23 | 2023-05-06 |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
+| [Revenge](https://open.spotify.com/track/2AeJCvSLJQLWkEMxnI3jna) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Revenge](https://open.spotify.com/album/4eCNublHT4o4kGjRf5z5Aw) | 2:25 | 2023-09-22 |  |
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-03-31 |  |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/1t4IkwFNnHC2spsIuPK9kQ) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/0T9ipIDY0vEOqWPCsFLt4e) | 2:16 | 2023-08-25 | 2023-11-05 |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/4lvjXKs3tzMEKioAOuwENP) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/12PvkN2uTBWOSbDN2XoAMv) | 2:16 | 2023-08-25 | 2023-11-04 |
@@ -590,7 +591,7 @@
 | [VEHEMENTS](https://open.spotify.com/track/0mNbESRpFYMbBkuSOXK8T1) | [XO1](https://open.spotify.com/artist/7IVPJk3I9EYRxUliaCy876), [mawrody](https://open.spotify.com/artist/1uCmweOZb3HqHZylECtbz3) | [VEHEMENTS](https://open.spotify.com/album/0EAQoYXub3nuDe1Ptkh0Qi) | 2:27 | 2022-12-30 | 2023-03-04 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-05-20 |  |
 | [vitality!](https://open.spotify.com/track/66n3AI9LxzXkVymlKRzaUT) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [vitality!](https://open.spotify.com/album/4jew7cIwWty3hKw43tHdol) | 2:08 | 2022-08-19 | 2022-10-01 |
-| [Vois](https://open.spotify.com/track/3skDAUY9XQGnGquOZnbdJD) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/3FM0HgM0hUgCXbu7TiZkpx) | 2:25 | 2023-09-22 |  |
+| [Vois](https://open.spotify.com/track/3skDAUY9XQGnGquOZnbdJD) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/3FM0HgM0hUgCXbu7TiZkpx) | 2:25 | 2023-09-22 | 2023-11-16 |
 | [Vois sur ton chemin](https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois sur ton chemin](https://open.spotify.com/album/53FR5HN59YWVkNFlUqelaV) | 2:25 | 2023-09-22 | 2023-11-10 |
 | [VOLTAGE](https://open.spotify.com/track/57imsUFDfNUFWj7h6KvIA9) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [VOLTAGE](https://open.spotify.com/album/0zv5KKqqIta6DctPU07yRr) | 2:07 | 2023-04-14 | 2023-04-27 |
 | [VUK VUK](https://open.spotify.com/track/50a8i9ASSSsh8OLUsMu6uL) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [VUK VUK](https://open.spotify.com/album/4oxCXdKXFj1fTSbqQ4sOaX) | 2:16 | 2023-04-14 | 2023-09-09 |

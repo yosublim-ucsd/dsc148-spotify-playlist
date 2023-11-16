@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bJung Dong Ha(\uc815\ub3d9\ud558)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bDAVICHI(\ub2e4\ube44\uce58)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -297,24 +297,6 @@
     },
     {
       "album": {
-        "name": "A Man",
-        "url": "https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6"
-      },
-      "artists": [
-        {
-          "name": "Park Je Up",
-          "url": "https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq"
-        }
-      ],
-      "date_added": "2023-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248413,
-      "name": "A Man",
-      "url": "https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc"
-    },
-    {
-      "album": {
         "name": "talks about memory",
         "url": "https://open.spotify.com/album/6yxPjDBlRVhHaUKhybIFRx"
       },
@@ -477,6 +459,24 @@
     },
     {
       "album": {
+        "name": "A very personal story",
+        "url": "https://open.spotify.com/album/3oO0sPdkc17C9QsrvsUrxR"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "A very personal story",
+      "url": "https://open.spotify.com/track/3PWyWdzpWOfBmH7R5moC8O"
+    },
+    {
+      "album": {
         "name": "Our Last Day",
         "url": "https://open.spotify.com/album/0NXk8DUNdmuF1AiEgQAV4X"
       },
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 218748,
       "name": "A Way To Forget",
       "url": "https://open.spotify.com/track/19DyfJxGbf8iFTHnx4RtfW"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 223200,
       "name": "Because You Don't Love Me",
       "url": "https://open.spotify.com/track/4qSK8cVMEECClvHmFXUqdP"
@@ -2018,6 +2018,24 @@
       "duration_ms": 232120,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h"
+    },
+    {
+      "album": {
+        "name": "Blooming flower",
+        "url": "https://open.spotify.com/album/4QuioXphvFEWHvkKtJfYgL"
+      },
+      "artists": [
+        {
+          "name": "V.O.S",
+          "url": "https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233586,
+      "name": "Blooming flower",
+      "url": "https://open.spotify.com/track/1s2N4vr2R1ANpBOX1z4vFb"
     },
     {
       "album": {
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 191519,
       "name": "Bye. And bye",
       "url": "https://open.spotify.com/track/3N0dVu8FhVgLuh1JhgjQNh"
@@ -5563,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Goodbye (2023)",
+        "url": "https://open.spotify.com/album/6lnY1n3Wixe2hnTNAMmYSQ"
+      },
+      "artists": [
+        {
+          "name": "Park Pil kyu",
+          "url": "https://open.spotify.com/artist/5tx0AkevgDrqnlBMbd86Na"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232002,
+      "name": "Goodbye (2023)",
+      "url": "https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.13",
         "url": "https://open.spotify.com/album/7bsu6IMlTFbT6jiLejhAz3"
       },
@@ -5610,7 +5646,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 223693,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 236000,
       "name": "I Guess I Loved You",
       "url": "https://open.spotify.com/track/1xhWTGxEJgay2ZjMsaGObi"
@@ -6904,6 +6940,24 @@
       "duration_ms": 195186,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0fzyT7joLZb93kPsGFKNnK"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2HzeslUSiNrdKHjCmNTZqd"
     },
     {
       "album": {
@@ -7103,6 +7157,24 @@
     },
     {
       "album": {
+        "name": "I need to hold you",
+        "url": "https://open.spotify.com/album/69OTLGnxUisR11BivkoUL3"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "I need to hold you",
+      "url": "https://open.spotify.com/track/5XbXOUPOklCEw9dJtgNwd4"
+    },
+    {
+      "album": {
         "name": "Romantic Doctor 3 OST Part.6",
         "url": "https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt"
       },
@@ -7270,6 +7342,24 @@
       "duration_ms": 180746,
       "name": "I Still Miss You",
       "url": "https://open.spotify.com/track/7mSnpktbVTwtCAiJTlSJN9"
+    },
+    {
+      "album": {
+        "name": "I Still Miss You",
+        "url": "https://open.spotify.com/album/49iM6Wz5qWPvaqQsB9czLg"
+      },
+      "artists": [
+        {
+          "name": "YOONWON",
+          "url": "https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217853,
+      "name": "I Still Miss You",
+      "url": "https://open.spotify.com/track/5ZD5Ir6kdXkAuETilQy25q"
     },
     {
       "album": {
@@ -7804,7 +7894,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 223973,
       "name": "If i go back",
       "url": "https://open.spotify.com/track/7BLVD2Xu7AvAgxzdH5tLG6"
@@ -8724,7 +8814,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 220968,
       "name": "I\u2019ll Be Waiting",
       "url": "https://open.spotify.com/track/2yPHZA0El8Wea9sArvEfMw"
@@ -8836,7 +8926,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 246280,
       "name": "I\u2032m Still In Love With You",
       "url": "https://open.spotify.com/track/5qtvMj1louZUaU2WeDRGa8"
@@ -11255,6 +11345,24 @@
     },
     {
       "album": {
+        "name": "CASTAWAY DIVA OST Part.6",
+        "url": "https://open.spotify.com/album/5hL2T779HTraXkK9393LCA"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "My Days",
+      "url": "https://open.spotify.com/track/0vEy6yAnaRKNub6ReRIRhO"
+    },
+    {
+      "album": {
         "name": "My dearest",
         "url": "https://open.spotify.com/album/4utgvHQzvFnMqVydp1SirO"
       },
@@ -11743,6 +11851,24 @@
     },
     {
       "album": {
+        "name": "CASTAWAY DIVA OST Part.4",
+        "url": "https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO"
+    },
+    {
+      "album": {
         "name": "Night We Shine",
         "url": "https://open.spotify.com/album/50tZqh8ASPusurk4CTQ0wn"
       },
@@ -11940,8 +12066,8 @@
           "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         },
         {
-          "name": "I'min",
-          "url": "https://open.spotify.com/artist/3Gp74MMAeBAcf10yVuls7a"
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
         }
       ],
       "date_added": "2023-11-13",
@@ -12062,6 +12188,24 @@
       "duration_ms": 244493,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi"
+    },
+    {
+      "album": {
+        "name": "Not Lonely",
+        "url": "https://open.spotify.com/album/1c8fuugcDBjVstYX9RcI8q"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Not Lonely",
+      "url": "https://open.spotify.com/track/6qxNNoaaKKshw34ZdTrVV2"
     },
     {
       "album": {
@@ -12434,6 +12578,24 @@
       "duration_ms": 230000,
       "name": "One Late Night In 1994",
       "url": "https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf"
+    },
+    {
+      "album": {
+        "name": "One Man",
+        "url": "https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6"
+      },
+      "artists": [
+        {
+          "name": "Park Je Up",
+          "url": "https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "One Man",
+      "url": "https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc"
     },
     {
       "album": {
@@ -12896,7 +13058,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 236097,
       "name": "Please",
       "url": "https://open.spotify.com/track/4HQfCVd0qzkFhk5pVVaau3"
@@ -15008,7 +15170,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 229714,
       "name": "Still You",
       "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
@@ -15650,7 +15812,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 195480,
       "name": "The Day After You",
       "url": "https://open.spotify.com/track/7sGfyf64mOvIhRAMe0DXTh"
@@ -16640,6 +16802,24 @@
       "duration_ms": 201320,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/4sNSygvDQZ6DBiEylNd1tI"
+    },
+    {
+      "album": {
+        "name": "Timing (from \"A Good Day to be a Dog\" Original Television Sountrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/51AO2oaMFDOuZ4jRlQXGzn"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/6XqsQdaD86eKPnk6ZrAg8n"
     },
     {
       "album": {
@@ -18273,6 +18453,24 @@
     },
     {
       "album": {
+        "name": "Wish you",
+        "url": "https://open.spotify.com/album/4xWkIU0ycq2E5SbE16k2Ml"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "Wish you",
+      "url": "https://open.spotify.com/track/4e5XBJoGhq3BlO4B0PnOvo"
+    },
+    {
+      "album": {
         "name": "With and Without You",
         "url": "https://open.spotify.com/album/1Ixz7I4AEGQ1zJhrGbJr7x"
       },
@@ -19588,6 +19786,24 @@
       "duration_ms": 219571,
       "name": "\uc0ac\ub791\uc744 \ubbff\uc5b4\uc694",
       "url": "https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\uc744 \ud558\ub2e4\uac00 (While I\u2019m in love)",
+        "url": "https://open.spotify.com/album/3ZMXJBXHxa5DUt5UVXWqz5"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "\uc0ac\ub791\uc744 \ud558\ub2e4\uac00 (While I\u2019m in love)",
+      "url": "https://open.spotify.com/track/0FH2RXfEIJS7enXYoehAgG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse liedjes! Cover: FLEMMING & Boef",
-  "num_followers": 159655,
+  "num_followers": 159695,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGM5ZTMwYWUxYzg3ZTU5YmUyZTQ2NWQ1ZjdiOGU4YjE5N2M4ZTIy",
+  "snapshot_id": "MCxiMTE0YzMyODYzNTA1ZTJjMGYxNGE4M2Y1NDZiMzU0MjlmMTExYjlh",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -29,20 +29,24 @@
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
     },
     {
-      "added_at": "2023-11-09 23:00:00",
+      "added_at": "2023-11-14 16:00:00",
       "album": {
-        "name": "Hoodiedate",
-        "url": "https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS"
+        "name": "September",
+        "url": "https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv"
       },
       "artists": [
         {
           "name": "Snelle",
           "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
         }
       ],
-      "duration_ms": 183968,
-      "name": "Hoodiedate",
-      "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
+      "duration_ms": 233051,
+      "name": "September",
+      "url": "https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -119,6 +123,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Hoodiedate",
+        "url": "https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 183968,
+      "name": "Hoodiedate",
+      "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC"
       },
@@ -152,7 +172,7 @@
       "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
+        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
       },
       "artists": [
         {
@@ -162,7 +182,7 @@
       ],
       "duration_ms": 171932,
       "name": "Waterdicht",
-      "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"
+      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -1139,22 +1159,6 @@
       "duration_ms": 186000,
       "name": "Eigen Weg",
       "url": "https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 185261,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
       "added_at": "2023-11-09 23:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-04",
-  "description": "New music from Wisp, plus 10 songs she's loving right now. ",
+  "description": "back up in the sky",
   "name": "IRL ANGEL ",
   "tracks": [
     {
@@ -2740,6 +2740,24 @@
       "duration_ms": 174770,
       "name": "nap",
       "url": "https://open.spotify.com/track/3WrCcZoZqKuuAxsGbiNlLx"
+    },
+    {
+      "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/2Ca0nMYUgKUu70tNhEBhzW"
+      },
+      "artists": [
+        {
+          "name": "David Hale",
+          "url": "https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286992,
+      "name": "Never Wanna Let Go",
+      "url": "https://open.spotify.com/track/1CB7zANKq4TYkOg7XCdw5v"
     },
     {
       "album": {

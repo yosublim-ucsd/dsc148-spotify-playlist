@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-168 songs - 10 hr 11 min
+169 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 |  |
 | [FLYHIGH](https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [FLYHIGH](https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR) | 3:55 | 2023-06-29 | 2023-08-06 |
 | [Friendship Song \- Idhi Sneham, From "Ginna"](https://open.spotify.com/track/3jkbTIzLRyeFzBE5B0L1xK) | [Ariaana Manchu](https://open.spotify.com/artist/6NgAnOgY6uNLCWEdghi7jZ), [Viviana Manchu](https://open.spotify.com/artist/4qJ2VRqBg8YHSURZcx0QuS), [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Friendship Song \(Idhi Sneham, From "Ginna"\)](https://open.spotify.com/album/7njwrgvR9JWSzB0rv56g5U) | 3:55 | 2022-07-26 | 2023-05-23 |
+| [Gaayam](https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW), [Vyshu Maya](https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ) | [Gaayam](https://open.spotify.com/album/05TeXFjEj6uc5mxLEX4Qng) | 5:12 | 2023-11-15 |  |
 | [Gandhari](https://open.spotify.com/track/50oVNoFryWIEFQQU9eRI10) | [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Gandhari](https://open.spotify.com/album/3WFeC1wIQmdwqtwlCQheQ1) | 3:18 | 2022-07-18 | 2023-05-23 |
 | [Gangulu](https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7) | [Swaraag Keerthan](https://open.spotify.com/artist/6uWcaIloiXIyWBb7oarvQL), [Maanas Nagulapalli](https://open.spotify.com/artist/3Z1VqKNAJK5rGo7W3KLjug) | [Gangulu](https://open.spotify.com/album/2hHcr0nl2jAghYNbqqn6cg) | 3:06 | 2023-04-13 |  |
 | [Godavari](https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [Godavari](https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC) | 3:07 | 2023-11-07 |  |

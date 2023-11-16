@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 
 > You can vote for Worldwide Fans' Choice Category by listening to the song of the artist you support for longer than 30 seconds\. \(First streams only per day\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,944 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,320 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

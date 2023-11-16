@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-12-13",
-  "description": "Emo feels for the misunderstood. Cover: Chri$tian Gate$",
+  "description": "Emo feels for the misunderstood. Cover: The Kid LAROI",
   "name": "tear drop",
   "tracks": [
     {
@@ -1556,6 +1556,24 @@
       "duration_ms": 157557,
       "name": "BirdsFlyStoned",
       "url": "https://open.spotify.com/track/2Sj6iNcBT206zP3ur65nUU"
+    },
+    {
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171566,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P"
     },
     {
       "album": {

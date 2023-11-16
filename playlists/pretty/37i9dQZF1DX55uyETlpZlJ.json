@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 23059,
+  "num_followers": 23067,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTdkM2EzMGY5NzcwNzZlMWY1Y2Y0ZTU5M2IwZjQxZTE1M2FhMTll",
+  "snapshot_id": "MCwwMDU5Yzc1OTUyYmVhOWY5NTMyODBlZDcwODU5YzAxODI3MzcyYjZk",
   "tracks": [
     {
       "added_at": "2023-10-25 08:03:09",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc"
     },
     {
+      "added_at": "2023-11-14 04:19:34",
+      "album": {
+        "name": "SKY",
+        "url": "https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae"
+      },
+      "artists": [
+        {
+          "name": "Darshan Kumar",
+          "url": "https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb"
+        }
+      ],
+      "duration_ms": 191791,
+      "name": "SKY",
+      "url": "https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR"
+    },
+    {
       "added_at": "2023-11-09 11:53:25",
       "album": {
         "name": "Khushiyaadenu Naa",
@@ -43,6 +59,22 @@
       "duration_ms": 192010,
       "name": "Khushiyaadenu Naa",
       "url": "https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn"
+    },
+    {
+      "added_at": "2023-11-14 04:23:16",
+      "album": {
+        "name": "Parashuram",
+        "url": "https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc"
+      },
+      "artists": [
+        {
+          "name": "KALKITHENAME",
+          "url": "https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Parashuram",
+      "url": "https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH"
     },
     {
       "added_at": "2023-11-06 09:59:28",
@@ -119,6 +151,22 @@
       "duration_ms": 177923,
       "name": "Kaarana",
       "url": "https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r"
+    },
+    {
+      "added_at": "2023-11-14 04:18:31",
+      "album": {
+        "name": "Nanne Kaadide",
+        "url": "https://open.spotify.com/album/5VgGfqifkROReJTGAtfP2l"
+      },
+      "artists": [
+        {
+          "name": "Harish boraiah",
+          "url": "https://open.spotify.com/artist/5zUuaKplkyRi826Txr158L"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Nanne Kaadide",
+      "url": "https://open.spotify.com/track/0NXGz59ha1iCWqhdZqItTY"
     },
     {
       "added_at": "2023-11-06 09:56:40",

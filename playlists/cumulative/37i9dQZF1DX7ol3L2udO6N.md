@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-98 songs - 7 hr 30 min
+99 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,12 @@
 | [Body & Soul](https://open.spotify.com/track/4GiCw6vUeSi9fbP4P7nVpW) | [SPEED](https://open.spotify.com/artist/3VpWtcxsAiE148UkrC1yt9) | [Body & Soul](https://open.spotify.com/album/6ucSGLhobeIYOLISxu6mOo) | 5:02 | 2023-07-22 |  |
 | [Can't Stop Fallin' in Love \- Straight Run](https://open.spotify.com/track/4SPAqFp2rnqbVpicstRrmc) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [Can't Stop Fallin' in Love](https://open.spotify.com/album/1DUtl6Arf8kmDPINGxxzwN) | 5:48 | 2023-07-22 |  |
 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 | 2023-07-22 |  |
-| [Chase the Chance](https://open.spotify.com/track/0JlnePhkQW5HGk823ohyze) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [181920](https://open.spotify.com/album/3RXpy9HMDg4bjBJfvIVJgw) | 4:31 | 2023-07-22 |  |
+| [Chase the Chance](https://open.spotify.com/track/0JlnePhkQW5HGk823ohyze) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [181920](https://open.spotify.com/album/3RXpy9HMDg4bjBJfvIVJgw) | 4:31 | 2023-07-22 | 2023-11-16 |
 | [DEPARTURES \- RADIO EDIT](https://open.spotify.com/track/2ggw0Py9eptisSvB1xkgkc) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [DEPARTURES](https://open.spotify.com/album/6ymfTp0luNNkygX04Ljy2E) | 5:15 | 2023-07-22 |  |
 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 | 2023-07-22 |  |
 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 | 2023-07-22 |  |
 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 | 2023-07-22 |  |
-| [Don't wanna cry](https://open.spotify.com/track/4wV6529HozB2p6YpMyXiQN) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [181920](https://open.spotify.com/album/3RXpy9HMDg4bjBJfvIVJgw) | 5:39 | 2023-07-22 |  |
+| [Don't wanna cry](https://open.spotify.com/track/4wV6529HozB2p6YpMyXiQN) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [181920](https://open.spotify.com/album/3RXpy9HMDg4bjBJfvIVJgw) | 5:39 | 2023-07-22 | 2023-11-16 |
 | [E\-Bow The Letter](https://open.spotify.com/track/2S3wW83zk0CosLGYN7jfor) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [New Adventures In Hi\-Fi](https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6) | 5:24 | 2023-07-22 |  |
 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 | 2023-07-22 |  |
 | [Everybody Jam!](https://open.spotify.com/track/1sn23HbHazh5hLMzA1SJmQ) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Everybody Jam!](https://open.spotify.com/album/1Af1QWcZ3rbaD5HBssykNE) | 3:31 | 2023-07-22 |  |
@@ -36,6 +36,7 @@
 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 | 2023-07-22 |  |
 | [Hey Dude](https://open.spotify.com/track/7jNjrIgYfZUPj6EVi8PL5s) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [K](https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56) | 4:10 | 2023-07-22 |  |
 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 | 2023-07-22 |  |
+| [I Believe I Can Fly](https://open.spotify.com/track/2RzJwBCXsS1VnjDm2jKKAa) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [R.](https://open.spotify.com/album/4yRYsQZfQpzkoVWH2XCX66) | 5:20 | 2023-11-15 |  |
 | [I Need To Be In Love \- 1990 Remix](https://open.spotify.com/track/1tCok3BIvahyl6P9LC7WHh) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304), [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n), [Roger Young](https://open.spotify.com/artist/40q96OkRdRijCuHML34zey) | [Singles 1969\-1981](https://open.spotify.com/album/6Gi9Dl7TxRxC1rtmFHexOI) | 3:49 | 2023-07-22 |  |
 | [I'm proud \(Radio Edit\)](https://open.spotify.com/track/6yxwKzzNE07zmGSuEWEexc) | [Tomomi Kahara](https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp) | [I'm proud](https://open.spotify.com/album/35hQ5CEQGk2RMTzWKDlhEA) | 4:33 | 2023-07-22 |  |
 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 | 2023-07-22 |  |

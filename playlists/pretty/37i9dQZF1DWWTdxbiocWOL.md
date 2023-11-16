@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,177 likes - 40 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,235 likes - 40 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 26 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 |
 | 27 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 |
 | 28 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 4:34 |
-| 29 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 |
-| 30 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
+| 29 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
+| 30 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 |
 | 31 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
 | 32 | [Radio Protector](https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Radio Protector](https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg) | 5:28 |
 | 33 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 |

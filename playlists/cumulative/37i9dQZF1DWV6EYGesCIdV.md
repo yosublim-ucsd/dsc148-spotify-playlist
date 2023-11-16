@@ -2,7 +2,7 @@
 
 ### [Berceuses Disney](https://open.spotify.com/playlist/37i9dQZF1DWV6EYGesCIdV)
 
-> Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse, inclus La Reine des Neiges.
+> Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
 85 songs - 4 hr 6 min
 

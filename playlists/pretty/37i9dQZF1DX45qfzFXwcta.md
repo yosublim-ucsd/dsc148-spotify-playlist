@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,316 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,594 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,17 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 85 | [Naturally \(Instrumental\)](https://open.spotify.com/track/2BGjr2M2pUdJ8GCAeS1A4A) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:42 |
 | 86 | [DTFT \(Instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Yancey Boys \(Instrumentals\) Produced By Jay Dee Aka J Dilla](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:24 |
 | 87 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 |
-| 88 | [Amalfi](https://open.spotify.com/track/2mFXGxuPmNSnz8CEiVWPyO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:02 |
-| 89 | [Decent](https://open.spotify.com/track/1jA4rvs9CFTqFfZ2GdemOw) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [POSTPARTUM, Vol\. 3](https://open.spotify.com/album/15wILyucaxkhrS9s5yFAV0) | 2:23 |
-| 90 | [Yellow](https://open.spotify.com/track/50diMjsY2J4S7gRe4hxDt9) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Next Heap of Sequences](https://open.spotify.com/album/6NsEhseg7Qzz3JlWMIxeAW) | 2:54 |
-| 91 | [Don't U Kno \(Instrumental\)](https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:59 |
-| 92 | [Got to Go](https://open.spotify.com/track/5hIRHOXg8dv1fVMZ7NyRml) | [George Fields](https://open.spotify.com/artist/2YJ9heXWEDypzrXDW19hDr) | [Beyond Realm](https://open.spotify.com/album/6K3eHQQo1vbmNJLSRd7GIM) | 1:21 |
-| 93 | [Movin' On](https://open.spotify.com/track/0ziCKOtAu7hGVQgDM7YojY) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [How It Should Sound, Vol\. 1 & 2](https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU) | 2:25 |
-| 94 | [RÅW & UNCUT](https://open.spotify.com/track/3qCdb8GuMPzXbVzBbkre9P) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [RÅW & UNCUT](https://open.spotify.com/album/4toPAW7HgveYu5M9lAYUga) | 3:04 |
-| 95 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
-| 96 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
-| 97 | [Fool's Gold \- Instrumental](https://open.spotify.com/track/400dKJ9NMuxsg99O0te1Ix) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Dreamer's Disease \(Instrumentals\)](https://open.spotify.com/album/1eW7YxArELoW5iCXdCjEmC) | 2:47 |
-| 98 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 |
-| 99 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 |
+| 88 | [Decent](https://open.spotify.com/track/1jA4rvs9CFTqFfZ2GdemOw) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [POSTPARTUM, Vol\. 3](https://open.spotify.com/album/15wILyucaxkhrS9s5yFAV0) | 2:23 |
+| 89 | [Yellow](https://open.spotify.com/track/50diMjsY2J4S7gRe4hxDt9) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Next Heap of Sequences](https://open.spotify.com/album/6NsEhseg7Qzz3JlWMIxeAW) | 2:54 |
+| 90 | [Don't U Kno \(Instrumental\)](https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:59 |
+| 91 | [Got to Go](https://open.spotify.com/track/5hIRHOXg8dv1fVMZ7NyRml) | [George Fields](https://open.spotify.com/artist/2YJ9heXWEDypzrXDW19hDr) | [Beyond Realm](https://open.spotify.com/album/6K3eHQQo1vbmNJLSRd7GIM) | 1:21 |
+| 92 | [Movin' On](https://open.spotify.com/track/0ziCKOtAu7hGVQgDM7YojY) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [How It Should Sound, Vol\. 1 & 2](https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU) | 2:25 |
+| 93 | [RÅW & UNCUT](https://open.spotify.com/track/3qCdb8GuMPzXbVzBbkre9P) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [RÅW & UNCUT](https://open.spotify.com/album/4toPAW7HgveYu5M9lAYUga) | 3:04 |
+| 94 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
+| 95 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
+| 96 | [Fool's Gold \- Instrumental](https://open.spotify.com/track/400dKJ9NMuxsg99O0te1Ix) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Dreamer's Disease \(Instrumentals\)](https://open.spotify.com/album/1eW7YxArELoW5iCXdCjEmC) | 2:47 |
+| 97 | [No Bad Thoughts](https://open.spotify.com/track/2RQmw3XOLPVO425zmdIgOA) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Zod](https://open.spotify.com/artist/35gOMrYr6tnnuUrnU5fosv) | [No Bad Thoughts](https://open.spotify.com/album/3SNihfZvCdZvAG37ETYi76) | 2:13 |
+| 98 | [Late Evening](https://open.spotify.com/track/0sTVGD0aRZ1SQ37q0eLZoS) | [Kezz Beats](https://open.spotify.com/artist/6UfsrHXyOdIVCWnv4YSou3) | [Late Evening](https://open.spotify.com/album/1MNWCI5nvnLlsja6rpetro) | 2:28 |
+| 99 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 |
+| 100 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 |
 
-Snapshot ID: `MCwxZDFiZTlmNTRjZjUwMzY3MTMwOWY1MzZjODhiMzY2M2QxZTkzYjVi`
+Snapshot ID: `MCwwZDljNmY1Zjc3NzVjYzgzMGU1MGY1MGJkMTcyODJjMWQ5NGIzNDQ3`

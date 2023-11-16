@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 173565,
+  "num_followers": 173795,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-11-09 06:42:24",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
       },
       "artists": [
         {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
         }
       ],
-      "duration_ms": 291720,
-      "name": "I Like Chopin",
-      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     },
     {
       "added_at": "2023-11-09 06:42:24",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-11-09 06:42:24",
       "album": {
-        "name": "Sabrina",
-        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
       },
       "artists": [
         {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
         }
       ],
-      "duration_ms": 234812,
-      "name": "Boys - Summertime Love",
-      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+      "duration_ms": 291720,
+      "name": "I Like Chopin",
+      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
     },
     {
       "added_at": "2023-11-09 06:42:24",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-11-09 06:42:24",
       "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
-      },
-      "artists": [
-        {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
-    },
-    {
-      "added_at": "2023-11-09 06:42:24",
-      "album": {
         "name": "Disco Fizz",
         "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
+    },
+    {
+      "added_at": "2023-11-09 06:42:24",
+      "album": {
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2023-11-09 06:42:24",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-11-09 06:42:24",
       "album": {
+        "name": "Che Caldo",
+        "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
+      },
+      "artists": [
+        {
+          "name": "ELASI",
+          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
+        },
+        {
+          "name": "Anoraak",
+          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
+        }
+      ],
+      "duration_ms": 205903,
+      "name": "Che caldo",
+      "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
+    },
+    {
+      "added_at": "2023-11-09 06:42:24",
+      "album": {
         "name": "Qu\u00edmico Amor",
         "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 250680,
       "name": "Qu\u00edmico Amor",
       "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
-    },
-    {
-      "added_at": "2023-11-09 06:42:24",
-      "album": {
-        "name": "Che Caldo",
-        "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
-      },
-      "artists": [
-        {
-          "name": "ELASI",
-          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
-        },
-        {
-          "name": "Anoraak",
-          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "Che caldo",
-      "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
     },
     {
       "added_at": "2023-11-09 06:42:24",

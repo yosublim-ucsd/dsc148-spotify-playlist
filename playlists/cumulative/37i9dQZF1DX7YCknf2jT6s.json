@@ -6572,7 +6572,7 @@
     {
       "album": {
         "name": "Encantados",
-        "url": "https://open.spotify.com/album/4o8BvfMSYj8YRuhivJqg9g"
+        "url": "https://open.spotify.com/album/2TgHSNAZ2hQgnjEOh2t9Bh"
       },
       "artists": [
         {
@@ -6595,6 +6595,36 @@
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 582304,
+      "name": "Encantados",
+      "url": "https://open.spotify.com/track/4yTafI7wbjy1VtThovqmXF"
+    },
+    {
+      "album": {
+        "name": "Encantados",
+        "url": "https://open.spotify.com/album/4o8BvfMSYj8YRuhivJqg9g"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "Hamid Drake",
+          "url": "https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        },
+        {
+          "name": "Aniel Someillan",
+          "url": "https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
       "duration_ms": 582304,
       "name": "Encantados",
       "url": "https://open.spotify.com/track/5ZoTkuU785CDSdviTd2NLJ"

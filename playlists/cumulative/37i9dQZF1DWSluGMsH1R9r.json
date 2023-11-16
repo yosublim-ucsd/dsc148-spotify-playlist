@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Antique Clock",
+        "url": "https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB"
+      },
+      "artists": [
+        {
+          "name": "Vox Pacis",
+          "url": "https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140190,
+      "name": "Antique Clock",
+      "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
+    },
+    {
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt"
       },
@@ -10696,7 +10714,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 254386,
       "name": "Without Words",
       "url": "https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT"

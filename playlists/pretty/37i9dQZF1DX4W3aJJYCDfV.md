@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa \(pictured\), Chase & Status, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,300 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,433 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 82 | [Foreverland \[Feat\. Laura Mvula & Chris Dave\] \- Single Edit](https://open.spotify.com/track/1iYqpkxXgdhE38P3cIF79v) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Foreverland \[Feat\. Laura Mvula & Chris Dave\]](https://open.spotify.com/album/4I6MUwu9LVlOccDCRzRbJ6) | 5:03 |
 | 83 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 |
 | 84 | [Slime](https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Slime](https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M) | 3:58 |
-| 85 | [What It Feels Like](https://open.spotify.com/track/3ynwyk1RSQlH2gNx6qXNoi) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [What It Feels Like \(WIFL2023\)](https://open.spotify.com/album/1PevYOFoy1csfM2owMXETf) | 2:56 |
+| 85 | [What It Feels Like](https://open.spotify.com/track/3ynwyk1RSQlH2gNx6qXNoi) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [What It Feels Like](https://open.spotify.com/album/1PevYOFoy1csfM2owMXETf) | 2:56 |
 | 86 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |
 | 87 | [NO HOOK 2](https://open.spotify.com/track/3DZrj2sllfmtIlGQLpsoWl) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [NO HOOK 2](https://open.spotify.com/album/6fLWqaVMhrraKmbGmOr8Rv) | 2:39 |
 | 88 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Unlikely](https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Unlikely](https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ) | 2:47 |
 | 99 | [Love of Money](https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 2:47 |
 | 100 | [THEY ALL DIE IN THE END](https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6) | [safesp8ce](https://open.spotify.com/artist/4ag9JIDeFbLg9vwAz6QqxO) | [THEY ALL DIE IN THE END](https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro) | 2:45 |
-| 101 | [Firebreak](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 |
+| 101 | [Firebreak \- Edit](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak \(Edit\)](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 |
 | 102 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 103 | [Imitation](https://open.spotify.com/track/4w3AHzPJknAhLa91y9hctv) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [White Magnolias](https://open.spotify.com/album/3XhfAoxeYGPQ9yDAmQNUUg) | 4:10 |
 | 104 | [Skin](https://open.spotify.com/track/43Q7fw693BnWNMBWuUtzi8) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Un/limited Love](https://open.spotify.com/album/60QrBH7P0Iyne4T999YL0F) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,185 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,247 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 24 | [Galo\-Galã](https://open.spotify.com/track/2VKOQs0nCyUJye7HTjn1lY) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Galo\-Galã](https://open.spotify.com/album/73LqcG5XBBmqn5bHaOu7KY) | 3:00 |
 | 25 | [Hora De União](https://open.spotify.com/track/5ruF1Y5naexriqC9dBxrtS) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji), [Toto Mugabe](https://open.spotify.com/artist/0mV7Zy0WEGQyTSnfgxWI3H) | [Fêmea Brasileira](https://open.spotify.com/album/2qdXb0ZST1ewcz7ChAdTF6) | 3:31 |
 | 26 | [Tô Parado Na Tua](https://open.spotify.com/track/5LUjfo9lReS6zsPyesaJAV) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb) | [Festa Funk](https://open.spotify.com/album/3mPVlmsaql2TngiYZ0hf9p) | 4:47 |
-| 27 | [O Amigo De Nova York](https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Grandes Temazos: Brasileños](https://open.spotify.com/album/6AqBCwtkW4NKSBxiqTMHmV) | 4:12 |
+| 27 | [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 |
 | 28 | [Onda](https://open.spotify.com/track/2ufnnZAVCoEoShQjdRgwS1) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 7:44 |
 | 29 | [A Noite Vai Chegar](https://open.spotify.com/track/5qqz0pUTUTenMGr9Hlr43a) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji) | [A Noite Vai Chegar](https://open.spotify.com/album/67vB21If6Tev6AoNE2QAlJ) | 3:54 |
 | 30 | [Bicicleta](https://open.spotify.com/track/6Ox8Zj7kJbqg05Jt7ljFwY) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bicicleta / Beta Menina \- Single](https://open.spotify.com/album/20ObPCdWc08A2cNdc7mlP4) | 3:49 |

@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 171213,
       "name": "La femme chocolat",
       "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
@@ -980,6 +980,24 @@
       "duration_ms": 195693,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
+    },
+    {
+      "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Les voisines",
+      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
     },
     {
       "album": {

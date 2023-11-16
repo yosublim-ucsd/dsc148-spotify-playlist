@@ -4,7 +4,7 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-62 songs - 5 hr 42 min
+63 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 | 2023-06-16 |  |
 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 | 2023-06-16 |  |
 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 | 2023-06-16 | 2023-11-08 |
+| [Laiaraiá \(LOV.ini Remix\)](https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix) | 5:08 | 2023-11-10 |  |
 | [Laiaraiá \- LOV.ini Remix](https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/737UVySDRItiHv1XQIqygV) | 5:08 | 2023-06-16 | 2023-11-05 |
 | [Machooka](https://open.spotify.com/track/6fsL0sv1oEm97D6qk2L0Vh) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/2LyS6BUbTN5dK2kIFPbXIT) | 3:35 | 2023-10-06 |  |
 | [Machooka](https://open.spotify.com/track/7Fvz8ecjzVwZIIzTs2JaLn) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7) | 3:35 | 2023-06-16 | 2023-11-06 |
@@ -64,7 +65,7 @@
 | [Shibuya](https://open.spotify.com/track/37a26nmggsuaojxP7TauTH) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 4:07 | 2023-06-16 |  |
 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 | 2023-06-16 | 2023-08-05 |
 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 | 2023-06-16 |  |
-| [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 | 2023-06-16 |  |
+| [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 | 2023-06-16 | 2023-11-16 |
 | [Tabom Riddim](https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Tabom Riddim](https://open.spotify.com/album/5vUUmLs4XsolALRJIC9t1x) | 2:40 | 2023-06-16 |  |
 | [Vavapo](https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0) | [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [Favela Garage Beats](https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx) | 3:07 | 2023-06-16 |  |
 | [VEM PRA ZONA LESTE](https://open.spotify.com/track/24orcxfAdgvrdnyLOnvuFQ) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [GUETO CLUB](https://open.spotify.com/album/2wRH4MifoleaIAhevuOn0O) | 3:55 | 2023-08-18 |  |

@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-50 songs - 3 hr 13 min
+51 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Dernière danse](https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:47 | 2023-03-06 |  |
 | [Double je \- Remix](https://open.spotify.com/track/1EDQN7WMV9En0OhQuLBO6P) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Inventaire](https://open.spotify.com/album/0u5Y7yUXTvK0yT6WektGVL) | 3:16 | 2023-03-06 |  |
 | [Désolé pour hier soir](https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:39 | 2023-03-06 |  |
-| [Elle me contrôle](https://open.spotify.com/track/38k9TH0Icrc4L68iICmWgd) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Sweety](https://open.spotify.com/artist/2rjn0MFHWBb46JOGo1yasB) | [Musique de lovers](https://open.spotify.com/album/1GbnWa1Jvt4p8FYRLZ1FKQ) | 3:46 | 2023-03-06 |  |
+| [Elle me contrôle](https://open.spotify.com/track/27kV1kvGUacbiRpf1VsQWe) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Lady Sweety](https://open.spotify.com/artist/0PAaEZtd88SWagBZrbRZT4) | [M\. Pokora](https://open.spotify.com/album/6JidpQNfJzopxZjqbak9TG) | 3:46 | 2023-03-06 |  |
+| [Elle me contrôle](https://open.spotify.com/track/38k9TH0Icrc4L68iICmWgd) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Sweety](https://open.spotify.com/artist/2rjn0MFHWBb46JOGo1yasB) | [Musique de lovers](https://open.spotify.com/album/1GbnWa1Jvt4p8FYRLZ1FKQ) | 3:46 | 2023-03-06 | 2023-11-16 |
 | [Entre nous](https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Entre Nous](https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX) | 3:21 | 2023-03-06 |  |
 | [Et c'est parti..\. \(feat\. Smartzee\)](https://open.spotify.com/track/1zwJikF2MYUwqcVnqtGxVj) | [Nâdiya](https://open.spotify.com/artist/51Ynjynt1xi7KBXCXHNdyN), [Smartzee](https://open.spotify.com/artist/5WFBTlaQisdYnCZyezTrII) | [16/9](https://open.spotify.com/album/53CZGpxCw6x0Ug2CYBAp4n) | 3:50 | 2023-03-06 |  |
 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 | 2023-03-06 |  |

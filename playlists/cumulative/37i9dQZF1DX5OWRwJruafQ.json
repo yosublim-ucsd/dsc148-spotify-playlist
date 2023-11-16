@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 267826,
       "name": "295 x2",
       "url": "https://open.spotify.com/track/5H7WUlLsv5wkCrQXpUBExL"
@@ -414,6 +414,32 @@
       "duration_ms": 175830,
       "name": "Award",
       "url": "https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg"
+    },
+    {
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy"
+      },
+      "artists": [
+        {
+          "name": "Ekam Sudhar",
+          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
+        },
+        {
+          "name": "KR",
+          "url": "https://open.spotify.com/artist/171hduWXUKyqmow0NKy4aM"
+        },
+        {
+          "name": "Mani Rai",
+          "url": "https://open.spotify.com/artist/5eKDsKLXibdyzKpRkaZfY1"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162166,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/7crVv5ckSrKt4uRMNhzvPM"
     },
     {
       "album": {
@@ -1770,7 +1796,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 198168,
       "name": "Gabru Da Naam",
       "url": "https://open.spotify.com/track/3EGPTsAzyW5HVuhcB7KdAV"
@@ -2717,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Koi Chakkar Nii",
+        "url": "https://open.spotify.com/album/7e1K5CwQVHPF9jAFsC2FyI"
+      },
+      "artists": [
+        {
+          "name": "Khush Brarr",
+          "url": "https://open.spotify.com/artist/2gERdqGqefecJixIARKagS"
+        },
+        {
+          "name": "Sukh Husnar",
+          "url": "https://open.spotify.com/artist/14EtzLs3uZ8lzMDTXFb6T1"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "Koi Chakkar Nii",
+      "url": "https://open.spotify.com/track/1z3Urp9Mt8wAIozjMtRkhf"
+    },
+    {
+      "album": {
         "name": "La La La La",
         "url": "https://open.spotify.com/album/4emZDlp8foAyMAScjiZmjQ"
       },
@@ -2824,6 +2872,24 @@
       "duration_ms": 171521,
       "name": "Lambo Flow",
       "url": "https://open.spotify.com/track/3w9vIld1UbvPOdDj89dHaj"
+    },
+    {
+      "album": {
+        "name": "Too Cold",
+        "url": "https://open.spotify.com/album/1fWHZhy1Tsazcnq6RdsyCt"
+      },
+      "artists": [
+        {
+          "name": "Manj Musik",
+          "url": "https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/3EOCADH1fX9qGTNm8z43UJ"
     },
     {
       "album": {
@@ -3199,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Munda Taye Da",
+      "url": "https://open.spotify.com/track/3fPfacthr4EG3ZwwXkkHBu"
+    },
+    {
+      "album": {
         "name": "Muqabala",
         "url": "https://open.spotify.com/album/5bPE9YHDx56udNABcQzZsf"
       },
@@ -3218,6 +3302,24 @@
       "duration_ms": 226309,
       "name": "Muqabala",
       "url": "https://open.spotify.com/track/5OcXS6QZCiQYHzae9rfEeC"
+    },
+    {
+      "album": {
+        "name": "Too Cold",
+        "url": "https://open.spotify.com/album/1fWHZhy1Tsazcnq6RdsyCt"
+      },
+      "artists": [
+        {
+          "name": "Manj Musik",
+          "url": "https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "My Crew",
+      "url": "https://open.spotify.com/track/0kdTPayTY877MuOSwGrZhx"
     },
     {
       "album": {
@@ -3392,7 +3494,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 119714,
       "name": "Nai Reesa",
       "url": "https://open.spotify.com/track/6pfiPyvtL69rsT5w7rRKS5"
@@ -4092,7 +4194,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 197503,
       "name": "Sardaar Munde",
       "url": "https://open.spotify.com/track/3TK4iqlePK0Vqo5gV0EEQy"
@@ -4888,7 +4990,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 179228,
       "name": "Unexpected",
       "url": "https://open.spotify.com/track/1sbwUh5TnxyIug3zfbGwhJ"

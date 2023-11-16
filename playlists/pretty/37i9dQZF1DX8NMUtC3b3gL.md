@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,323 likes - 226 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,302 likes - 226 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 35 | [Pleasure Management](https://open.spotify.com/track/3omD9V1ffkjV2YZJ5qs11A) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Pleasure Management](https://open.spotify.com/album/6DhW69NataNj5wX5W0q7hC) | 2:10 |
 | 36 | [Tropic of Capri\-Sun & Sodas](https://open.spotify.com/track/0xXik8DSYI7Y8SzcpaEIWP) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Tropic of Capri\-Sun & Sodas](https://open.spotify.com/album/7mXJ88wCsmgjjAMCy4j96H) | 2:59 |
 | 37 | [Hokkaido Halfpipe](https://open.spotify.com/track/1UfFyFxHB2amavwX4LTFLc) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Hokkaido Halfpipe](https://open.spotify.com/album/7ISDN6Uriinwp8mwmxSzy0) | 2:17 |
-| 38 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 |
+| 38 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 |
 | 39 | [rising eyes](https://open.spotify.com/track/4sOOBRuKV8P9wDXNTXxSfP) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [fallen planets & rising eyes](https://open.spotify.com/album/5Ozd8CXvUjbaKGtfIVIdkV) | 2:50 |
 | 40 | [synthetic](https://open.spotify.com/track/08kj1mLiwnc4X4S2gC6HYO) | [dillyphone](https://open.spotify.com/artist/3MjBxFThZFerMrfiHYl5kT) | [synthetic](https://open.spotify.com/album/5FLvrmW24QH7cCM8Xj7dNY) | 2:31 |
 | 41 | [Favorite Things](https://open.spotify.com/track/5ZwSLJigeGDlQKOdoB4jhF) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Favorite Things](https://open.spotify.com/album/2oyam91ijvdPOVsSheMZ6w) | 2:19 |

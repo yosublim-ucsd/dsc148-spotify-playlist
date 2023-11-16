@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,303 likes - 252 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,525 likes - 252 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

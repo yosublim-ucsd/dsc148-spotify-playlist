@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Don't Gas Me",
+        "url": "https://open.spotify.com/album/40s9ebO3BAEye8KqbIM8tU"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227679,
+      "name": "Don't Gas Me",
+      "url": "https://open.spotify.com/track/5OnNFaUjue55aBaKIaT63K"
+    },
+    {
+      "album": {
         "name": "Droom Groot",
         "url": "https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U"
       },
@@ -3048,7 +3066,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 174690,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt"
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 144642,
       "name": "Monster - Sped Up",
       "url": "https://open.spotify.com/track/7wSgwryCFK3VHW6pROgEBE"

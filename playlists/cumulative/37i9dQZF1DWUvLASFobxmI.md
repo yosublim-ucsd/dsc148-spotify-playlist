@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Primos del Este en portada.
 
-408 songs - 21 hr 57 min
+409 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Saturno](https://open.spotify.com/track/0Eet3EZsGj7Q1Ge4moXZZS) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [Saturno](https://open.spotify.com/album/3VRWyVPyWevD3rHJ0467Ys) | 3:55 | 2023-03-09 | 2023-04-15 |
 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 | 2021-12-17 |  |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-01-13 |  |
-| [Se Te Olvidó](https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Se Te Olvidó](https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c) | 2:50 | 2023-09-22 |  |
+| [Se Te Olvidó](https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Se Te Olvidó](https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c) | 2:50 | 2023-09-22 | 2023-11-16 |
 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 | 2023-04-21 | 2023-07-01 |
 | [Seguimos Más Fuertes](https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Seguimos Más Fuertes](https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP) | 3:20 | 2022-07-01 | 2023-02-21 |
 | [Señor Guzmán](https://open.spotify.com/track/5EAi0bdw7Dn7Bv9sfJvy8H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Señor Guzmán](https://open.spotify.com/album/4DRjc62l2MeMib8KOzXqAt) | 3:17 | 2023-03-09 | 2023-03-11 |
@@ -352,6 +352,7 @@
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2022-07-01 |  |
 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 | 2021-12-17 |  |
 | [Siempre Estoy Pa´Ti](https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Siempre Estoy Pa´Ti](https://open.spotify.com/album/4xYCQogPWyemOhsaSLQkre) | 3:53 | 2022-07-01 | 2023-07-01 |
+| [Siempre Fajada La 701](https://open.spotify.com/track/5O64Lu1WgliJDTK3Q4pqXj) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [Siempre Fajada La 701](https://open.spotify.com/album/2MCeGljHZ1mdDeNc3yYI6c) | 3:00 | 2023-10-21 |  |
 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 | 2022-09-30 |  |
 | [Sin Restricciones](https://open.spotify.com/track/2ZpLsRQ91fK22gPhXGxx0A) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Sin Restricciones](https://open.spotify.com/album/3y8BGx724C7LyKk7qXlyqc) | 2:43 | 2023-06-16 | 2023-09-23 |
 | [Sindrome De Estocolmo](https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Sindrome De Estocolmo](https://open.spotify.com/album/0pLGZyin7yXLHfXsAK2H0k) | 3:51 | 2022-07-01 | 2022-09-03 |

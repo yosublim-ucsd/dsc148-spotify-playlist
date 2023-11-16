@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 165853,
       "name": "Bangene",
       "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 145250,
       "name": "Get Me High",
       "url": "https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6"
@@ -3564,6 +3564,28 @@
       "duration_ms": 185844,
       "name": "Let Me Stay",
       "url": "https://open.spotify.com/track/6BJUUSeRzTgzcD0dkfdlJK"
+    },
+    {
+      "album": {
+        "name": "Dam Swindle x Salsoul Reworks Vol. 1",
+        "url": "https://open.spotify.com/album/5hfBsqWgBXYkM4FDfJDpxw"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        },
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454873,
+      "name": "Let No Man Put Asunder (Dam Swindle Remix)",
+      "url": "https://open.spotify.com/track/5qBOa8bCYKg414qTplH9ye"
     },
     {
       "album": {
@@ -6942,6 +6964,24 @@
       "duration_ms": 211428,
       "name": "Vida Delicia - Edit",
       "url": "https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf"
+    },
+    {
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/7e58nrriVytxTTmvPEwahO"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/2FTrQJHsRnrizj5hbc6q8T"
     },
     {
       "album": {

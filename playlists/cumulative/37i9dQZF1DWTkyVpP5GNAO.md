@@ -4,7 +4,7 @@
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-132 songs - 12 hr 39 min
+133 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Tú Dices](https://open.spotify.com/track/13G9SNrXgY1ulXbtfIc9YU) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices](https://open.spotify.com/album/05M37AhQS2IDTApODVTjcr) | 4:33 | 2021-07-23 | 2022-07-29 |
 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 | 2021-07-23 |  |
 | [Ven y Lléname](https://open.spotify.com/track/4Lp4it382mVKgfUDHsh04t) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 9:58 | 2021-07-23 |  |
-| [Vibraciones](https://open.spotify.com/track/7H40dIIXn7X9LBAgiFfMzy) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8), [Leonela Alzate](https://open.spotify.com/artist/4w4HO7HZlKTGSuUzZw5Yat) | [Vibraciones](https://open.spotify.com/album/799WgK4Lch0C8dRdhqRuWt) | 5:12 | 2021-07-23 |  |
+| [Vibraciones](https://open.spotify.com/track/5taIeXVNO1BjAbClgOU8PY) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8), [Leonela Alzate](https://open.spotify.com/artist/4w4HO7HZlKTGSuUzZw5Yat) | [vibraciones](https://open.spotify.com/album/0B9yE3RrtvowCLX10rRf7Y) | 5:12 | 2021-07-23 |  |
+| [Vibraciones](https://open.spotify.com/track/7H40dIIXn7X9LBAgiFfMzy) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8), [Leonela Alzate](https://open.spotify.com/artist/4w4HO7HZlKTGSuUzZw5Yat) | [Vibraciones](https://open.spotify.com/album/799WgK4Lch0C8dRdhqRuWt) | 5:12 | 2021-07-23 | 2023-11-16 |
 | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit) | 7:18 | 2021-07-23 |  |
 | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/track/4I42yC85pQAyXWDbpo8d1N) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/album/3A3B6l318eAXNloHPuRuok) | 6:55 | 2021-07-23 |  |
 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 | 2021-07-23 |  |

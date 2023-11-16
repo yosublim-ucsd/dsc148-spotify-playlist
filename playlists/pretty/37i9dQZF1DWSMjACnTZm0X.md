@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT\-Cu\-4SHH1wD6g">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,946 likes - 53 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,951 likes - 53 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

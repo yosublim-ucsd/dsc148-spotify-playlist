@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 662663,
+  "num_followers": 662982,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Unknown Song",
         "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 158948,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -295,22 +311,6 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 203106,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "All That You Are",
-      "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 216933,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "All That You Are",
+      "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "Permanent Way",
+      "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Ocean Wide",
         "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
       },
@@ -899,38 +915,6 @@
       "duration_ms": 184515,
       "name": "Ocean Wide",
       "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Colorado (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 175348,
-      "name": "Colorado - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Maybe October",
-        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -971,34 +955,34 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+        "name": "Maybe October",
+        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
         }
       ],
-      "duration_ms": 252080,
-      "name": "Permanent Way",
-      "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
     },
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Rio Grande",
-        "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
+        "name": "Colorado (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 271593,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
+      "duration_ms": 175348,
+      "name": "Colorado - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Rio Grande",
+        "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 271593,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Brave New Woman",
         "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 199453,
       "name": "Comment Allez-Vous?",
       "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Californian Soil",
+      "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+        "name": "anew",
+        "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 221387,
-      "name": "Californian Soil",
-      "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
+      "duration_ms": 215599,
+      "name": "anew",
+      "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1095,22 +1111,6 @@
       "duration_ms": 264045,
       "name": "Spark",
       "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "anew",
-        "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215599,
-      "name": "anew",
-      "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "A Lingering Love",
-      "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "A Lingering Love",
+      "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Future Perfect, Present Tense",
-        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Isn't Ever A Day",
-      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "My Grandma Says We Have No Future",
         "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
       },
@@ -1443,18 +1427,34 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
+        "name": "Future Perfect, Present Tense",
+        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
         }
       ],
-      "duration_ms": 255970,
-      "name": "Riverbank",
-      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+      "duration_ms": 284653,
+      "name": "Isn't Ever A Day",
+      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Cartoon People",
+        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "Cartoon People",
+      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Cartoon People",
-        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
         }
       ],
-      "duration_ms": 213539,
-      "name": "Cartoon People",
-      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+      "duration_ms": 255970,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Hole Digger",
-        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
+        "name": "I'm Around",
+        "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
       "artists": [
         {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         },
         {
-          "name": "Desingly",
-          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 185076,
-      "name": "Hole Digger",
-      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+      "duration_ms": 271854,
+      "name": "I'm Around",
+      "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1559,22 +1559,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "I'm Around",
-        "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
+        "name": "Hole Digger",
+        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
         },
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Desingly",
+          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
         }
       ],
-      "duration_ms": 271854,
-      "name": "I'm Around",
-      "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+      "duration_ms": 185076,
+      "name": "Hole Digger",
+      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
     },
     {
       "added_at": "2023-10-04 13:49:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=GVqGYFNWQFuwsvEfuvEQtg">Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,327 likes - 116 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,369 likes - 116 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 38 | [On My Side \- Special Version](https://open.spotify.com/track/2PEMRlrIvROVjJB2teweLU) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [On My Side \(Special Version\)](https://open.spotify.com/album/7qnuW87VF7ec2OEX9B3B2z) | 3:12 |
 | 39 | [I See Jesus](https://open.spotify.com/track/5Ac6yASLXh0Se6lp4DxlyJ) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [Atmosphere of the Spirit](https://open.spotify.com/album/43tudKVZ3ZUTzzWULmZx0F) | 6:44 |
 | 40 | [The Promise](https://open.spotify.com/track/0N6IfamxoAVLnqKGzTG97D) | [ELI\-J](https://open.spotify.com/artist/6iwUw4yXwoW4ULEb2izFqV) | [The Promise](https://open.spotify.com/album/0wZPEf4vSQSSWxPLrkEvvO) | 3:07 |
-| 41 | [Je Ré](https://open.spotify.com/track/5rX7Se4iyRoELpSlrctVpq) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [Seyi Agape](https://open.spotify.com/artist/0COqJOF8HXNWXsbKvqw2Po) | [Je Ré](https://open.spotify.com/album/1GnjmUpmAmdaUdSFB5c8zW) | 3:19 |
+| 41 | [Je Ré](https://open.spotify.com/track/5rX7Se4iyRoELpSlrctVpq) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [Seyi Agape](https://open.spotify.com/artist/4GlhRiIzlbEjOktk2A6A3G) | [Je Ré](https://open.spotify.com/album/1GnjmUpmAmdaUdSFB5c8zW) | 3:19 |
 | 42 | [Tholakele](https://open.spotify.com/track/3i9PbSTJi4qatf6Qoq97Ub) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Baddies of Isandlwana](https://open.spotify.com/album/2Qb0wKVzovx3uKAn0ktgOc) | 5:01 |
 | 43 | [I'm The One](https://open.spotify.com/track/0ZwA4ty0mTu4qC1zsm6s5Z) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [I'm The One](https://open.spotify.com/album/1WxOhT8xP4A5RudD04x8SH) | 4:25 |
 | 44 | [Nimekubali](https://open.spotify.com/track/7KmpoAv8SeKYh3WSNFVSas) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [There Is a Fire](https://open.spotify.com/album/5ZQBuEE8GajVv4kBx3Lm19) | 5:51 |

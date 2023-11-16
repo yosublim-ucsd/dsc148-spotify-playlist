@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLWaBFTNqEL.md) - [plain]
 
 > All the best songs inspired by Street Fighter all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,090 likes - 24 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,176 likes - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

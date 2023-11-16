@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Dancing with My Elf (From \"The Santa Clauses: Season 2\")",
+        "url": "https://open.spotify.com/album/7kDzYXuRLjSNgChDuOeGVy"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230206,
+      "name": "Dancing with My Elf",
+      "url": "https://open.spotify.com/track/5F6dhXfQxfxx3FIaMl7Vc1"
+    },
+    {
+      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
       },
@@ -856,6 +874,24 @@
       "duration_ms": 156360,
       "name": "Home for Christmas",
       "url": "https://open.spotify.com/track/1dQj0qJwCccf6b9f7zJST5"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Holiday Hits",
+        "url": "https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119522,
+      "name": "Home for Navidad - From \"Elena of Avalor\"",
+      "url": "https://open.spotify.com/track/1vf4EFxsTupQjuffFRP1IL"
     },
     {
       "album": {
@@ -1693,6 +1729,32 @@
     },
     {
       "album": {
+        "name": "Disney's Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/4UUhE9j5sG3E5rxPK79e73"
+    },
+    {
+      "album": {
         "name": "The Muppets: A Green and Red Christmas",
         "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
       },
@@ -2221,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134116,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7m3rGRL4SeCDRonzwKGGle"
+    },
+    {
+      "album": {
         "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
         "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
       },
@@ -2236,6 +2316,28 @@
       "duration_ms": 160922,
       "name": "This Christmas (Hang All the Mistletoe)",
       "url": "https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG"
+    },
+    {
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
     },
     {
       "album": {

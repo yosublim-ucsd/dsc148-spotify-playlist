@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-122 songs - 8 hr 32 min
+123 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Goca Dünya](https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt) | 4:00 | 2021-10-20 |  |
 | [Gone Away Again](https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:45 | 2021-10-20 |  |
 | [Hana Mash Hu Al Yaman](https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/46reac1ZzkmCPcHpRMgniL) | 4:11 | 2021-10-20 | 2023-11-04 |
+| [Hana Mash Hu Al Yaman](https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6) | 4:11 | 2021-10-20 |  |
 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 | 2022-09-20 | 2023-08-30 |
 | [Human \(feat\. JONA XX\) \- Spotify Singles](https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:38 | 2023-07-17 | 2023-10-27 |
 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 | 2021-10-20 |  |
@@ -86,7 +87,7 @@
 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 |  |
 | [Pista \(Fresh Start\)](https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pista \(Fresh Start\)](https://open.spotify.com/album/06Gwyoe9n82YHriBKmAcjs) | 3:22 | 2022-01-12 |  |
 | [Rakıya Su Katamam](https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:40 | 2023-03-31 |  |
-| [Remotely Close: Silkyway](https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Elif Çağlar](https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv) | [Remotely Close: Silkyway](https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw) | 3:50 | 2022-02-18 |  |
+| [Remotely Close: Silkyway](https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Elif Çağlar](https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv) | [Remotely Close: Silkyway](https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw) | 3:50 | 2022-02-18 | 2023-11-16 |
 | [Rio Grande](https://open.spotify.com/track/174aZteQew30wcq8sPzlW6) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO) | 3:50 | 2021-10-20 |  |
 | [Run To Your Mama](https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:22 | 2021-10-20 |  |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 |  |

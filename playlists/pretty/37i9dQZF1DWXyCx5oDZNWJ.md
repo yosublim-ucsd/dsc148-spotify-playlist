@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,478 likes - 58 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,502 likes - 58 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 5 | [Fatoum](https://open.spotify.com/track/6ZJytUqGD9kGUPVriljikS) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Rima](https://open.spotify.com/album/2iNpATlgsWqrd1BF7dTcAj) | 8:06 |
 | 6 | [Disko Arabesque](https://open.spotify.com/track/1FVxZq0yplnNxSwPIOMq0d) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Şatellites](https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK) | 4:20 |
 | 7 | [Hue](https://open.spotify.com/track/7McdYczkJu76zhnphGgcWh) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Music Acadamy Students](https://open.spotify.com/artist/1LZCqGRoPABI5gRX2RqByU) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 5:38 |
-| 8 | [Mariana Trench](https://open.spotify.com/track/1XDSbVUTJFpb8h4JDC5qPn) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Mariana Trench](https://open.spotify.com/album/3TQVUSENZcfAoPyL7qAbge) | 4:23 |
+| 8 | [Mariana Trench](https://open.spotify.com/track/1XDSbVUTJFpb8h4JDC5qPn) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [Mariana Trench](https://open.spotify.com/album/3TQVUSENZcfAoPyL7qAbge) | 4:23 |
 | 9 | [Ardina](https://open.spotify.com/track/54s45uUELRTLK0YA5fOMYd) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Ardina](https://open.spotify.com/album/76U3QAvrJ2Dh4b5qEAbE2w) | 4:06 |
 | 10 | [Westbound Train](https://open.spotify.com/track/1SLlhOGjN553IpprBbbQWq) | [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Death of the Revolution](https://open.spotify.com/album/667dURZoPgZuQzWzHv4Stj) | 2:56 |
 | 11 | [Timba \(feat\. Kazuyo Shionoiri\)](https://open.spotify.com/track/2tCvpvwVxUnyuvXx8kMyRz) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Kazuyo Shionoiri](https://open.spotify.com/artist/2KEaAh5rIGFJVNg043KiMz) | [Gidafi Na EP](https://open.spotify.com/album/0MXLlCZMJJ40pfZY3dId2b) | 6:14 |

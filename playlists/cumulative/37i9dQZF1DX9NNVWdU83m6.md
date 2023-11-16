@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-159 songs - 14 hr 34 min
+160 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5), [Chris Bullock](https://open.spotify.com/artist/38SvOojqE9VsTpoodD0N5g) | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or) | 9:05 | 2022-05-06 |  |
 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 | 2021-09-24 |  |
 | [Dub Jazz](https://open.spotify.com/track/6KU9SIPUvSFlMaPnZbZ7S0) | [Piotr Paluch Trio](https://open.spotify.com/artist/1RXzItscykTYMEXOWhFJbi) | [Dub Jazz](https://open.spotify.com/album/4qeeyhWEVRhadD1WoOeULu) | 6:19 | 2021-07-30 |  |
+| [Earthrise](https://open.spotify.com/track/4EXGzIcRzuJK0j0aH9IMUm) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap) | 6:40 | 2021-01-27 |  |
 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 | 2021-01-27 | 2023-10-22 |
-| [Earthrise \- Remastered 2023](https://open.spotify.com/track/4ZuilI3GqubKxMFMyuWGWH) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage \(2023 Remastered & Expanded Edition\)](https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf) | 6:41 | 2021-01-27 |  |
+| [Earthrise \- Remastered 2023](https://open.spotify.com/track/4ZuilI3GqubKxMFMyuWGWH) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage \(2023 Remastered & Expanded Edition\)](https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf) | 6:41 | 2021-01-27 | 2023-11-16 |
 | [Eclipse](https://open.spotify.com/track/5G2jAWM2WpC8SBEUeFN1d7) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Henrik Linder](https://open.spotify.com/artist/668whxQPLh5OBJ3DeTXKkR), [Erik Linder](https://open.spotify.com/artist/2izs0rOq0gbFr94IBvkH43), [Kristian Kraftling](https://open.spotify.com/artist/2b5sUfjMLjonRPhlSxvoa8) | [Eclipse](https://open.spotify.com/album/2O6JfSJf4awTlRpltfGpcw) | 6:05 | 2022-07-15 |  |
 | [Eight](https://open.spotify.com/track/6mY0cMHPRW5zom3nurTxMr) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [Eight](https://open.spotify.com/album/16Nud8qE9ed5FsaT53mo7k) | 3:41 | 2023-01-20 |  |
 | [Elementa](https://open.spotify.com/track/4HnwCdceuquR4OnqXrF0Vp) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Kristian Kraftling](https://open.spotify.com/artist/2b5sUfjMLjonRPhlSxvoa8), [Karzan Mahmood](https://open.spotify.com/artist/36o6LPKIdrAT4P8dEpkiOu) | [Elementa](https://open.spotify.com/album/64Tb9S99aFTsQ3WEns8Ihu) | 5:23 | 2023-03-10 |  |

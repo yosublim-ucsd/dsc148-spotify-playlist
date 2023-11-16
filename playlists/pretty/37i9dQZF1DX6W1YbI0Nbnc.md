@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 結集香港EQUAL女聲力量！\(cover: 何韻詩\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,845 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

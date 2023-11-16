@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > The leaders in the lively Pinoy indie scene\. Cover: Sansette
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,963 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,013 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
 | 2 | [Asan Ang Gana Ko](https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:05 |
 | 3 | [how could it be](https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [how could it be](https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY) | 3:42 |
-| 4 | [Tayo \- ating istorya](https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm) | [JEL REY](https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd) | [TERAPEWTIKA](https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN) | 5:21 |
+| 4 | [Tayo \(ating istorya\)](https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm) | [JEL REY](https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd) | [TERAPEWTIKA](https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN) | 5:21 |
 | 5 | [Roses](https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Roses](https://open.spotify.com/album/4epwLmoCHvomYsTwtAPvfN) | 3:02 |
 | 6 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 |
 | 7 | [Hiling](https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Hiling](https://open.spotify.com/album/2kHCLBZdKE6aAHPI5qNJpW) | 3:35 |

@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Aquellos Tiempos",
+        "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133711,
+      "name": "Aquellos Tiempos",
+      "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
+    },
+    {
+      "album": {
         "name": "Aqui la tienes / Falsa traici\u00f3n / Estas enamoradita / Qu\u00e9date con el / Falsa traici\u00f3n / Ella no quiso",
         "url": "https://open.spotify.com/album/0qZ413ADMfTFs7kZEGbpVK"
       },
@@ -792,7 +814,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 261066,
       "name": "Fuego y Pasion",
       "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"

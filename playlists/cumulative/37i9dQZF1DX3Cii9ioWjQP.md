@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: MIHYANG MOON\(문미향\)\)
+> All about Korean Jazz hits & new \(Cover: YUJIN KIM\(김유진\)\)
 
-169 songs - 12 hr 27 min
+170 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Concentration](https://open.spotify.com/track/0MwGGgsZInEvo9OlltxXqs) | [Hye Seong](https://open.spotify.com/artist/5YHzTjo4SJzAq43agV2HfW) | [Everyday Chatter](https://open.spotify.com/album/4BcFeuz4AUOacPlIXawARW) | 3:10 | 2023-04-10 |  |
 | [Consolation](https://open.spotify.com/track/3tmVBp6lvFCSzNh9CLBADU) | [Jun Kim](https://open.spotify.com/artist/2UcsE12d1cAU1UeiOn3eod), [이한얼](https://open.spotify.com/artist/4UvIkwJwfEsBhBpB8UtuVr) | [위로](https://open.spotify.com/album/5EqOrZz4PpnXkE9s43uWPs) | 9:39 | 2022-05-03 | 2022-07-29 |
 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 | 2022-07-08 |  |
+| [Continuum](https://open.spotify.com/track/0e0H9w9UvDk5LkqNS4OkSl) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [Extraordinary](https://open.spotify.com/album/0sNQgCPq9IidNOikkedQJ3) | 6:04 | 2023-11-14 |  |
 | [COSMONAUT](https://open.spotify.com/track/2UHzboHhUa6xBGtJBZAKRG) | [Sun Kim](https://open.spotify.com/artist/4J0PZFEnEr8Yn6482aEcWY) | [COSMONAUT](https://open.spotify.com/album/5ut5JBpa629u5pRsAHKoDJ) | 5:11 | 2022-05-03 | 2022-05-19 |
 | [Dead End](https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Dead End](https://open.spotify.com/album/4TDJGeuPpmfvd49P7GWCQ8) | 4:16 | 2022-11-11 |  |
 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 | 2023-02-07 |  |

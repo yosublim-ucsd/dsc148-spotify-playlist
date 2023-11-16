@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 120533,
+  "num_followers": 120606,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,22 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
+        "name": "15b",
+        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
       },
       "artists": [
         {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         }
       ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
+      "duration_ms": 161000,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -303,26 +307,6 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
         "name": "Casas",
         "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 294049,
       "name": "Mantra (feat. Emicida)",
       "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 172794,
       "name": "+ 1 Minuto",
       "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
         "name": "Servi\u00e7o",
         "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 179622,
       "name": "C\u00e9u da Boca",
       "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2023-11-03 06:05:48",

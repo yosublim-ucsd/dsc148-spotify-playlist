@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:2TkDdk47FGnvxcjQGDdPd0">Kike Pavón</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,993 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,341 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 7 | [Tan Solo Cree](https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Mis Favoritas, Éxitos de Jose Luis Reyes](https://open.spotify.com/album/6MDICk3UvUd1UHaaBoiOj4) | 4:35 |
 | 8 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 | 9 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
-| 10 | [Más De Ti](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 |
+| 10 | [Más De Ti \- En Vivo](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti \(En Vivo\)](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 |
 | 11 | [lo que crees de mí](https://open.spotify.com/track/6SHBIYT7Woz5wAF0J3Vgq0) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [lo que crees de mí / ESFERA CELESTE](https://open.spotify.com/album/0Yao852MgDyr0yKwtICPIr) | 3:09 |
 | 12 | [El Cielo Nos Sonríe](https://open.spotify.com/track/18vSbMdCHXpbvnRRixYsKq) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [El Cielo Nos Sonríe](https://open.spotify.com/album/5eymly3EnVwQKHUFzlTBw7) | 3:36 |
 | 13 | [Emanuel](https://open.spotify.com/track/5n8Hp42nZLXEK29gjCm1J1) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [LA MESA](https://open.spotify.com/album/6YQ7BHSUUW6g7XqvPLHBBu) | 13:49 |

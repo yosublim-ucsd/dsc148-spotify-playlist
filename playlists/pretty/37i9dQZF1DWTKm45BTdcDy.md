@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKm45BTdcDy.md) - [plain]
 
 > Check out these young 'uns singing your favorite country tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,036 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,049 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

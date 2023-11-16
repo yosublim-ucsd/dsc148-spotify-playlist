@@ -3866,6 +3866,24 @@
     {
       "album": {
         "name": "Blippi's Halloween Bops!",
+        "url": "https://open.spotify.com/album/0jysWIywvaFCww3PV8yb3c"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141964,
+      "name": "Witch's Flight",
+      "url": "https://open.spotify.com/track/0xNYsD4YmFrN1C1VaB8coE"
+    },
+    {
+      "album": {
+        "name": "Blippi's Halloween Bops!",
         "url": "https://open.spotify.com/album/3oQnuPBJdpMs4eirlc6kPZ"
       },
       "artists": [
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 141964,
       "name": "Witch's Flight",
       "url": "https://open.spotify.com/track/7uWpi2uIxRFdIRY2L3nfsr"

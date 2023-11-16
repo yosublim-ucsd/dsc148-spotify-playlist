@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: UCHE YARA",
-  "num_followers": 29905,
+  "num_followers": 29914,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Kein Bock",
-        "url": "https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 164550,
-      "name": "Kein Bock",
-      "url": "https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Filme",
         "url": "https://open.spotify.com/album/0C2ZyqHNjgMROYt0cKxEri"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 126222,
       "name": "Filme",
       "url": "https://open.spotify.com/track/7t1IXAsa0eOrOVGKiauGbt"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Kein Bock",
+        "url": "https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 164550,
+      "name": "Kein Bock",
+      "url": "https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "WITCH",
-        "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 151242,
-      "name": "WITCH",
-      "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Wie lang",
         "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
       },
@@ -267,50 +251,18 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Wer bin ich?",
-        "url": "https://open.spotify.com/album/1V2qUVwP9VNLD5jClrpdwf"
+        "name": "WITCH",
+        "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/39IqPtl3QzWMrjGLzoqQ24"
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
         }
       ],
-      "duration_ms": 126492,
-      "name": "Wer bin ich?",
-      "url": "https://open.spotify.com/track/0Df77mLtYwmY1vJJL4ezHw"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Foxx",
-        "url": "https://open.spotify.com/album/7CQqgj7H1MY6iEu5E6E173"
-      },
-      "artists": [
-        {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
-        }
-      ],
-      "duration_ms": 193845,
-      "name": "Foxx",
-      "url": "https://open.spotify.com/track/1cAecmf7rCCpqGJvPIZpEo"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "KussKuss",
-        "url": "https://open.spotify.com/album/7rnp2UrpKDLdmXOJZg4SlO"
-      },
-      "artists": [
-        {
-          "name": "Mariybu",
-          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
-        }
-      ],
-      "duration_ms": 123022,
-      "name": "shy <3",
-      "url": "https://open.spotify.com/track/0iPZvOfenTXjxYUOn1WXTn"
+      "duration_ms": 151242,
+      "name": "WITCH",
+      "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -335,6 +287,54 @@
       "duration_ms": 195066,
       "name": "Irgendwohin",
       "url": "https://open.spotify.com/track/7t9sJieZyAp1zCK9uP4oE0"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "KussKuss",
+        "url": "https://open.spotify.com/album/7rnp2UrpKDLdmXOJZg4SlO"
+      },
+      "artists": [
+        {
+          "name": "Mariybu",
+          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
+        }
+      ],
+      "duration_ms": 123022,
+      "name": "shy <3",
+      "url": "https://open.spotify.com/track/0iPZvOfenTXjxYUOn1WXTn"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Foxx",
+        "url": "https://open.spotify.com/album/7CQqgj7H1MY6iEu5E6E173"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "duration_ms": 193845,
+      "name": "Foxx",
+      "url": "https://open.spotify.com/track/1cAecmf7rCCpqGJvPIZpEo"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Wer bin ich?",
+        "url": "https://open.spotify.com/album/1V2qUVwP9VNLD5jClrpdwf"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/39IqPtl3QzWMrjGLzoqQ24"
+        }
+      ],
+      "duration_ms": 126492,
+      "name": "Wer bin ich?",
+      "url": "https://open.spotify.com/track/0Df77mLtYwmY1vJJL4ezHw"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6fGsPLmLX8BucYV14XsA4t"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2R62w7tfRIvpyUsasJUeIR"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "Plastic Pleasures",
         "url": "https://open.spotify.com/album/2KjPX2BJ3Pi5ICQCRvBjMP"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 214853,
       "name": "Plastic Pleasures - Sped Up",
       "url": "https://open.spotify.com/track/1FxDdE1F6UWHiolcWgMdUk"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6fGsPLmLX8BucYV14XsA4t"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 221450,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2R62w7tfRIvpyUsasJUeIR"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "TAKE IT SLOW",
-        "url": "https://open.spotify.com/album/2529iSh8KsKSp6aaKDLgJk"
+        "name": "Sexless",
+        "url": "https://open.spotify.com/album/0nAUaItX3fligKglwyCRGb"
       },
       "artists": [
         {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 165250,
-      "name": "TAKE IT SLOW",
-      "url": "https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y"
+      "duration_ms": 195699,
+      "name": "Sexless",
+      "url": "https://open.spotify.com/track/5kNWUx8hTVDX7UcFjksU1F"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Sexless",
-        "url": "https://open.spotify.com/album/0nAUaItX3fligKglwyCRGb"
+        "name": "TAKE IT SLOW",
+        "url": "https://open.spotify.com/album/2529iSh8KsKSp6aaKDLgJk"
       },
       "artists": [
         {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
         }
       ],
-      "duration_ms": 195699,
-      "name": "Sexless",
-      "url": "https://open.spotify.com/track/5kNWUx8hTVDX7UcFjksU1F"
+      "duration_ms": 165250,
+      "name": "TAKE IT SLOW",
+      "url": "https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "I C U",
+        "url": "https://open.spotify.com/album/0xsFbTqIAva4xM9b5foBNe"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "I C U",
+      "url": "https://open.spotify.com/track/5ElKn41pCBDbAPZOAvfHPK"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "Josef",
         "url": "https://open.spotify.com/album/6UwCgEgFtwkbW2pXzYoMFp"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 198561,
       "name": "turn the light off",
       "url": "https://open.spotify.com/track/1CjY1vT5faoyJlxg1mGaV2"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "I C U",
-        "url": "https://open.spotify.com/album/0xsFbTqIAva4xM9b5foBNe"
-      },
-      "artists": [
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "I C U",
-      "url": "https://open.spotify.com/track/5ElKn41pCBDbAPZOAvfHPK"
     },
     {
       "added_at": "2023-11-07 23:00:00",

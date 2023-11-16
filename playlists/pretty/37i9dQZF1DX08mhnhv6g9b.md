@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > What are your <a href="https://spotify.com/top5">Top 5: BTS Songs</a>? Share your favorite member and tracks with the universe\. \(spotify.com/top5\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,840,029 likes - 252 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,841,167 likes - 252 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

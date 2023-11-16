@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-742 songs - 1 day 18 hr 11 min
+744 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 |  |
 | [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 | 2023-04-21 |  |
 | [Promise Don't Forget](https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Shambles](https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M) | 3:55 | 2022-09-23 | 2023-09-09 |
+| [Promises](https://open.spotify.com/track/01Bqay08avct1ILNWPtQOm) | [Aria Kyd](https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs) | [Promises](https://open.spotify.com/album/1fU0dVAywOoiTk3J2PeTmD) | 2:02 | 2023-11-14 |  |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-02 | 2023-01-20 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2021-09-22 |
 | [Purity](https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Purity](https://open.spotify.com/album/0eN2BQy4PSiRifsVOhUdVx) | 3:05 | 2021-04-21 | 2021-09-22 |
@@ -643,6 +644,7 @@
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2021-11-08 | 2022-09-02 |
 | [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 |  |
 | [Sunrise](https://open.spotify.com/track/3TYF3RI9u0EzSQZkjp4MZ6) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [O3L](https://open.spotify.com/artist/7wcEi954zzxLil4ihmxOZy) | [Sunrise](https://open.spotify.com/album/1jw1mgFBtQ5BAlBOOlyIEP) | 2:10 | 2022-08-12 |  |
+| [Sunset](https://open.spotify.com/track/0Wr0Kmd3vrUYpO46KEKlzg) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Sunset](https://open.spotify.com/album/10DbkySaIHDiw1uY5vGVFC) | 2:35 | 2023-11-14 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-03-06 | 2023-01-20 |
 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 | 2022-01-21 |  |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-03-06 | 2022-07-22 |

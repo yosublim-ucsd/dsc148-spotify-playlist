@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 299045,
+  "num_followers": 299159,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
-        "name": "Hard Normal Daddy",
-        "url": "https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 397133,
-      "name": "Beep Street",
-      "url": "https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 294533,
       "name": "Clear - Jose \u201cAnimal\u201d Diaz Remix",
       "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
+        "name": "Hard Normal Daddy",
+        "url": "https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 397133,
+      "name": "Beep Street",
+      "url": "https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9"
     },
     {
       "added_at": "2023-10-19 16:18:01",

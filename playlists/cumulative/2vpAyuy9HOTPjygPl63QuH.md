@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,504 songs - 3 day 13 hr 39 min
+1,506 songs - 3 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Baby](https://open.spotify.com/track/6bAgZ82ueaHXQ8PL0uARXc) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Baby](https://open.spotify.com/album/4zjeXfecjv5DvQr0TNraq3) | 2:38 | 2023-04-28 | 2023-05-06 |
 | [Back Once Again \- Original Mix](https://open.spotify.com/track/1RuDzBhdUKTWxy3rtDySi4) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Back Once Again](https://open.spotify.com/album/5NAxUaUf8fLUOSK56DsY9E) | 4:00 | 2022-11-11 | 2022-11-19 |
 | [Back Room](https://open.spotify.com/track/4FBQrJOZoZHAZpUemTSnde) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO) | [Back Room](https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl) | 2:50 | 2022-08-05 | 2022-09-03 |
+| [Back Room](https://open.spotify.com/track/3Tb9hYVJVEgbriZqU0JKJt) | [RAFA MOON](https://open.spotify.com/artist/4KNx3tce4EeLLjuYbNi9LD) | [Welcome](https://open.spotify.com/album/13elfZOEM1WNulyWofALHI) | 4:41 | 2023-11-14 |  |
 | [Back To The Basics](https://open.spotify.com/track/19nHOx2RMME7vwnJdWtxC2) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Back To The Basics](https://open.spotify.com/album/2iQVizucef5aQByTnDGF2q) | 3:09 | 2023-10-27 | 2023-11-04 |
 | [Back To This \(feat\. SoShy\)](https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Back To This \(feat\. SoShy\)](https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0) | 2:37 | 2023-04-28 | 2023-05-06 |
 | [Back To You \- SUBSHIFT Remix](https://open.spotify.com/track/4RmkE2SMOY9R5HFLj4JuRz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Back To You \(Deluxe Pack\)](https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K) | 3:32 | 2023-03-10 |  |
@@ -350,6 +351,7 @@
 | [DRIPPIN'](https://open.spotify.com/track/2xq8LgVgQw3NhZSlZ3FzLi) | [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA) | [DRIPPIN'](https://open.spotify.com/album/3ZVZz0oKHhHUoi8PygZzYM) | 2:16 | 2023-06-24 | 2023-07-01 |
 | [Driven Pain \- Original Mix](https://open.spotify.com/track/1rN8VJ0G6bpdsa95lda0pg) | [Kosara](https://open.spotify.com/artist/0R5MOSpCWzNqDHiz9TLnvo) | [Driven Pain \(Original Mix\)](https://open.spotify.com/album/7t0Qu9fpFV6bD98m1MEG69) | 5:59 | 2023-11-10 |  |
 | [Driving Slow](https://open.spotify.com/track/3NeEbIDaiOianxnZQhioFl) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4), [Meaghan](https://open.spotify.com/artist/2crjvEKLxGbDC8Slnc81pD) | [Driving Slow](https://open.spotify.com/album/2c2WPgcI1URcDJ8utCcW2g) | 3:29 | 2023-09-15 | 2023-09-23 |
+| [Drogas](https://open.spotify.com/track/0ONu0O4p2KOnv1IQysoZvJ) | [LegacyOfficial](https://open.spotify.com/artist/4Dx15BmtLeUErq8Q0fJHRU), [Quas](https://open.spotify.com/artist/3hRk5PhwEm3fuZ4mwVJ7ST) | [Drogas](https://open.spotify.com/album/28vMnPQEEqDpKgKQBv8Q2v) | 3:31 | 2023-11-14 |  |
 | [Drop It](https://open.spotify.com/track/4h9RxRzTdbJlV8gFyOIdv0) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 | 2022-06-11 |
 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 | 2022-08-05 | 2022-09-03 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-09-02 | 2022-09-10 |

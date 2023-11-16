@@ -1222,10 +1222,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 221440,
       "name": "No Hate",
       "url": "https://open.spotify.com/track/5otKKNFJZ9uxT2IAVkC9u9"
+    },
+    {
+      "album": {
+        "name": "Wrong Game",
+        "url": "https://open.spotify.com/album/5Oy4nv7QNOljyYjMkyYIQA"
+      },
+      "artists": [
+        {
+          "name": "whaTaRWoll Music",
+          "url": "https://open.spotify.com/artist/1Z7MTyfennQvKU2hxO5KYO"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221490,
+      "name": "No Hate",
+      "url": "https://open.spotify.com/track/1NwUSXUAS2YBj8o39HGENK"
     },
     {
       "album": {

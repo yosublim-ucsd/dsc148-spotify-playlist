@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "From The Road, Vol. 1: Covers",
+        "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471093,
+      "name": "Baba O'Riley - Live at Fenway Park, Boston, MA, 08.20.2016",
+      "url": "https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF"
+    },
+    {
+      "album": {
         "name": "Baba O'Riley (Live at Fenway Park, Boston, MA, 08.20.2016)",
         "url": "https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 471093,
       "name": "Baba O'Riley - Live at Fenway Park, Boston, MA, 08.20.2016",
       "url": "https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl"

@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-45 songs - 2 hr 40 min
+47 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-11-06 |  |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2023-11-06 |  |
 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2023-11-06 |  |
+| [Here I am](https://open.spotify.com/track/6W90XEWaOfZimmRMOODVN8) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.3](https://open.spotify.com/album/4nFDAJoOmOAy4m46WmKUAq) | 3:21 | 2023-11-14 |  |
 | [How's this](https://open.spotify.com/track/6Wqmn89a8tItOh3NLEhNTD) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:19 | 2023-11-06 |  |
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2023-11-06 |  |
 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 | 2023-11-13 |  |
@@ -28,6 +29,7 @@
 | [Invitation](https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:54 | 2023-11-06 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2023-11-06 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-11-06 |  |
+| [Mint](https://open.spotify.com/track/1UjOkWLjzBq7KPuIsaO2jy) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.3](https://open.spotify.com/album/4nFDAJoOmOAy4m46WmKUAq) | 3:48 | 2023-11-14 |  |
 | [My Days](https://open.spotify.com/track/0vEy6yAnaRKNub6ReRIRhO) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 | 2023-11-13 |  |
 | [My Days \(Inst.\)](https://open.spotify.com/track/1HzNevFrx0No5FdtshcVDB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 | 2023-11-13 |  |
 | [Night and Day](https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 | 2023-11-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114840,
+  "num_followers": 114877,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196870,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Hapo Tu",
         "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Dumebi (Becky G Remix)",
-        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 187926,
-      "name": "Dumebi - Becky G Remix",
-      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -1035,6 +1035,26 @@
       "duration_ms": 220552,
       "name": "Midnight Boom - with ChocQuibTown & Afro B",
       "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Dumebi (Becky G Remix)",
+        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 187926,
+      "name": "Dumebi - Becky G Remix",
+      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1083,26 +1103,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196870,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "Sabi na Sabura",
         "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
       },
@@ -1135,6 +1135,42 @@
       "duration_ms": 205400,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Like A Queen Remix",
+        "url": "https://open.spotify.com/album/6OG8umJAVi3XTE72N5Iqmj"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Said Palacios",
+          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
+        }
+      ],
+      "duration_ms": 159001,
+      "name": "Like A Queen Remix - Remix",
+      "url": "https://open.spotify.com/track/7iGwFKZDnlkXRTEIxNLVYk"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1183,42 +1219,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "Like A Queen Remix",
-        "url": "https://open.spotify.com/album/6OG8umJAVi3XTE72N5Iqmj"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Said Palacios",
-          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
-        }
-      ],
-      "duration_ms": 159001,
-      "name": "Like A Queen Remix - Remix",
-      "url": "https://open.spotify.com/track/7iGwFKZDnlkXRTEIxNLVYk"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        }
+      ],
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 158003,
       "name": "Tayari",
       "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "added_at": "2023-11-08 15:41:14",

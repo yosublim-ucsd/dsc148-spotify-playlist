@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 144779,
+  "num_followers": 144966,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
+        "name": "Just EP",
+        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 372555,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
         "name": "sketches of transition",
         "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
@@ -747,24 +763,8 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Just EP",
-        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 372555,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -863,8 +863,8 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
     }
   ],
   "unique_name": "Melantronic",

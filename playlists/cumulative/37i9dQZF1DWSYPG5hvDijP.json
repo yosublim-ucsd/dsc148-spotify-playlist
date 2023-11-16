@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161020,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC"
+    },
+    {
+      "album": {
         "name": "GTA NCR",
         "url": "https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE"
       },
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 245236,
       "name": "IN EVENT OF CHANGE, MONEY & NOTERIETY",
       "url": "https://open.spotify.com/track/4cMQA7nUXZHJ4F9wtEyfXW"
@@ -2953,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "Raid",
+        "url": "https://open.spotify.com/album/483rdTn6fwCrVfNiwysOYd"
+      },
+      "artists": [
+        {
+          "name": "Dil Sandhu",
+          "url": "https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny"
+        },
+        {
+          "name": "Varun Beats",
+          "url": "https://open.spotify.com/artist/0DZSlOXnxmfhy3vqg7CmNC"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164141,
+      "name": "Raid",
+      "url": "https://open.spotify.com/track/7ECFmo4sbVrI5wh9SuoMho"
+    },
+    {
+      "album": {
         "name": "Rapman",
         "url": "https://open.spotify.com/album/7usCwjE9nwz47447bEm99r"
       },
@@ -3528,7 +3572,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 24593,
       "name": "The Money - Interlude",
       "url": "https://open.spotify.com/track/4jvE5cbze4hcPhdJS4En6E"

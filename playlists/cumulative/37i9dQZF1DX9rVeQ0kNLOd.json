@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190331,
+      "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
+      "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
+    },
+    {
+      "album": {
         "name": "2\u300745",
         "url": "https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU"
       },
@@ -216,7 +234,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 211266,
       "name": "bathroom",
       "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
@@ -871,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201492,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/1W2WTiFB8jFyfvrGskpFuM"
+    },
+    {
+      "album": {
         "name": "\u7fe1\u7fe0 ( hisui )",
         "url": "https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8"
       },
@@ -908,7 +944,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 208360,
       "name": "HIT NUMBER - EVISBEATS\u3068PUNCH REMIX",
       "url": "https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1"
@@ -956,6 +992,24 @@
       "duration_ms": 248113,
       "name": "Hotaru-bi",
       "url": "https://open.spotify.com/track/5F7CeNz6ar9nFx1zbNWKoE"
+    },
+    {
+      "album": {
+        "name": "Houtou",
+        "url": "https://open.spotify.com/album/6yFCgJwALDzdWaVoQWF0dV"
+      },
+      "artists": [
+        {
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199974,
+      "name": "Houtou",
+      "url": "https://open.spotify.com/track/1aGKR9mglGREsLWeV3qn4Z"
     },
     {
       "album": {
@@ -2682,7 +2736,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 270113,
       "name": "You & I",
       "url": "https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F"

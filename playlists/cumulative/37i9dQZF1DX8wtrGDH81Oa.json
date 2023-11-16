@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Kap Verde",
+        "url": "https://open.spotify.com/album/2fLjwHU8YPx8jaRwfZhKfO"
+      },
+      "artists": [
+        {
+          "name": "Uncle Feaster",
+          "url": "https://open.spotify.com/artist/0Dhno1IpOOPqUZ4gAc6fFh"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176450,
+      "name": "Kap Verde",
+      "url": "https://open.spotify.com/track/2BdPPhUCDxD3cXToZ8MdLp"
+    },
+    {
+      "album": {
         "name": "Keep Keepin On",
         "url": "https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q"
       },
@@ -3120,6 +3138,24 @@
       "duration_ms": 144732,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4"
+    },
+    {
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/2BoAhHcBYDZf29o20FECmI"
+      },
+      "artists": [
+        {
+          "name": "sugar namnam",
+          "url": "https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134736,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/2XP925zNPBJ0lqGWJ1jqkz"
     },
     {
       "album": {

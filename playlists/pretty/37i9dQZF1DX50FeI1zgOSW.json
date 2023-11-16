@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 5043,
+  "num_followers": 5111,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDQwODdkYTQyMzYyYzE2ZjRhZGIzNDY1NWY0NzcyMjg2NzA4M2Ni",
+  "snapshot_id": "MCwzOGI3OWZmZTZlYjY1MGIzNDhmYjllZWI3Mjc2MGE2MWVmNmU3ZTc3",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/0FALUhuD469ZTYOlnqfafA"
     },
     {
+      "added_at": "2023-11-14 08:06:21",
+      "album": {
+        "name": "Makal",
+        "url": "https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r"
+      },
+      "artists": [
+        {
+          "name": "Sudeep Palanad",
+          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
+        }
+      ],
+      "duration_ms": 246823,
+      "name": "Makal",
+      "url": "https://open.spotify.com/track/4HyqWvunNGcNrkz9Ik4Wsh"
+    },
+    {
       "added_at": "2023-07-17 04:57:21",
       "album": {
         "name": "Theera",
@@ -147,46 +163,6 @@
       "duration_ms": 222375,
       "name": "Boomer Uncle",
       "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
-    },
-    {
-      "added_at": "2023-05-26 09:15:04",
-      "album": {
-        "name": "Kaadhal Trap",
-        "url": "https://open.spotify.com/album/5oaBaOnUSwGCJho4cy0oAI"
-      },
-      "artists": [
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        },
-        {
-          "name": "Sudarshan Arumugam",
-          "url": "https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Kaadhal Trap",
-      "url": "https://open.spotify.com/track/4MQM1DjOGvi65msWaaxT1F"
-    },
-    {
-      "added_at": "2023-06-15 08:39:45",
-      "album": {
-        "name": "Kadhal Nadhi",
-        "url": "https://open.spotify.com/album/5qG2AId5JEPlOeCngNGrob"
-      },
-      "artists": [
-        {
-          "name": "Vivek Bhushan",
-          "url": "https://open.spotify.com/artist/5OuWnU6KRP8m7AdhizH4uh"
-        },
-        {
-          "name": "Nishant Padmanabhan",
-          "url": "https://open.spotify.com/artist/2PNWRfbN8GEJeXON4efP25"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Kadhal Nadhi",
-      "url": "https://open.spotify.com/track/3kEnnTKurE8gPxO0SbuEgb"
     },
     {
       "added_at": "2023-10-06 12:25:36",
@@ -317,6 +293,42 @@
       "url": "https://open.spotify.com/track/0DkGBbQQcQMLwwqfqvXImf"
     },
     {
+      "added_at": "2023-11-14 06:37:09",
+      "album": {
+        "name": "Love Music",
+        "url": "https://open.spotify.com/album/0h65C4dCFkyDspKG4xvtfy"
+      },
+      "artists": [
+        {
+          "name": "Rejoy",
+          "url": "https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA"
+        },
+        {
+          "name": "Beaulah Jeni",
+          "url": "https://open.spotify.com/artist/6Uf6u12bC3D1qAEsYAnifH"
+        }
+      ],
+      "duration_ms": 236054,
+      "name": "Love Music",
+      "url": "https://open.spotify.com/track/6eAndPkRqAOrvVd01wg9LF"
+    },
+    {
+      "added_at": "2023-11-15 11:19:15",
+      "album": {
+        "name": "Vittu Pogathae",
+        "url": "https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe"
+      },
+      "artists": [
+        {
+          "name": "Ramana",
+          "url": "https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K"
+        }
+      ],
+      "duration_ms": 236284,
+      "name": "Vittu Pogathae",
+      "url": "https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT"
+    },
+    {
       "added_at": "2023-10-12 12:52:13",
       "album": {
         "name": "Valapodum Kannala",
@@ -339,6 +351,26 @@
       "duration_ms": 207588,
       "name": "Valapodum Kannala",
       "url": "https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT"
+    },
+    {
+      "added_at": "2023-11-15 11:28:07",
+      "album": {
+        "name": "Love Rocket",
+        "url": "https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM"
+      },
+      "artists": [
+        {
+          "name": "Yokesh Ravilla",
+          "url": "https://open.spotify.com/artist/5AhtI9OadgjCSkFvNpUGsR"
+        },
+        {
+          "name": "Sathish K",
+          "url": "https://open.spotify.com/artist/1A5uByEnQ5Qhim7K8CfPhC"
+        }
+      ],
+      "duration_ms": 192017,
+      "name": "Love Rocket",
+      "url": "https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA"
     },
     {
       "added_at": "2023-09-25 09:01:18",
@@ -901,46 +933,6 @@
       "url": "https://open.spotify.com/track/5oPw3pV2RMM5MVvH8bqTI0"
     },
     {
-      "added_at": "2023-05-22 11:37:48",
-      "album": {
-        "name": "Vengai Penne",
-        "url": "https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB"
-      },
-      "artists": [
-        {
-          "name": "Rukhsar Bandhukia",
-          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        },
-        {
-          "name": "Mann Taneja",
-          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
-        }
-      ],
-      "duration_ms": 202085,
-      "name": "Vengai Penne",
-      "url": "https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT"
-    },
-    {
-      "added_at": "2023-05-02 12:13:33",
-      "album": {
-        "name": "Montage (From \"Think Specials\")",
-        "url": "https://open.spotify.com/album/39AJ05QtFcaehpS66yOziA"
-      },
-      "artists": [
-        {
-          "name": "Dash Dennox",
-          "url": "https://open.spotify.com/artist/5bDAHJEoCfSHUEfoM6KFRP"
-        }
-      ],
-      "duration_ms": 117482,
-      "name": "Montage - From \"Think Specials\"",
-      "url": "https://open.spotify.com/track/2aCkQwJH8IiKHPw9q8SGjB"
-    },
-    {
       "added_at": "2023-07-10 14:12:53",
       "album": {
         "name": "Sernthom Pirinthom",
@@ -975,22 +967,6 @@
       "duration_ms": 271750,
       "name": "Neenguvadhale",
       "url": "https://open.spotify.com/track/6PUzpAsBuuKocDZfivBxtj"
-    },
-    {
-      "added_at": "2023-06-05 09:25:01",
-      "album": {
-        "name": "Rain Rain Poi Thola",
-        "url": "https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR"
-      },
-      "artists": [
-        {
-          "name": "Urban Thozha",
-          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
-        }
-      ],
-      "duration_ms": 208275,
-      "name": "Rain Rain Poi Thola",
-      "url": "https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG"
     },
     {
       "added_at": "2023-07-27 10:43:48",
@@ -1109,26 +1085,6 @@
       "url": "https://open.spotify.com/track/2N1mLYWZk93Tq9GnOCaHrU"
     },
     {
-      "added_at": "2023-06-16 08:57:15",
-      "album": {
-        "name": "Poidhana",
-        "url": "https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP"
-      },
-      "artists": [
-        {
-          "name": "Rozario",
-          "url": "https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz"
-        },
-        {
-          "name": "Maalvika",
-          "url": "https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC"
-        }
-      ],
-      "duration_ms": 175415,
-      "name": "Poidhana",
-      "url": "https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk"
-    },
-    {
       "added_at": "2023-06-30 11:16:37",
       "album": {
         "name": "Crushu Ponnu",
@@ -1207,26 +1163,6 @@
       "duration_ms": 187986,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S"
-    },
-    {
-      "added_at": "2023-06-19 13:37:25",
-      "album": {
-        "name": "O Kanmani",
-        "url": "https://open.spotify.com/album/7dahgiOiHqfqjTkvfuCTgW"
-      },
-      "artists": [
-        {
-          "name": "T\u00f6rk",
-          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
-        },
-        {
-          "name": "AKSH",
-          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "O Kanmani",
-      "url": "https://open.spotify.com/track/68qULgdwekQsDH181V4BQ2"
     },
     {
       "added_at": "2023-07-12 08:19:12",
@@ -1501,30 +1437,6 @@
       "url": "https://open.spotify.com/track/0MwPSfb7P81ozhBTxlZJDR"
     },
     {
-      "added_at": "2023-06-16 09:11:35",
-      "album": {
-        "name": "Thamarai Poovilum",
-        "url": "https://open.spotify.com/album/32mPyTwlznacWc17apgBvl"
-      },
-      "artists": [
-        {
-          "name": "Ram Muthiah",
-          "url": "https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa"
-        },
-        {
-          "name": "Sai Madhukar",
-          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
-        },
-        {
-          "name": "Harini",
-          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
-        }
-      ],
-      "duration_ms": 330731,
-      "name": "Thamarai Poovilum",
-      "url": "https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K"
-    },
-    {
       "added_at": "2023-06-20 12:18:10",
       "album": {
         "name": "Nila",
@@ -1539,26 +1451,6 @@
       "duration_ms": 163764,
       "name": "Nila",
       "url": "https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG"
-    },
-    {
-      "added_at": "2023-06-05 08:29:53",
-      "album": {
-        "name": "Lord Poetry",
-        "url": "https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x"
-      },
-      "artists": [
-        {
-          "name": "San T",
-          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
-        },
-        {
-          "name": "Suppliers",
-          "url": "https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD"
-        }
-      ],
-      "duration_ms": 184269,
-      "name": "Kazhivara",
-      "url": "https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m"
     },
     {
       "added_at": "2023-06-27 11:38:13",
@@ -1583,22 +1475,6 @@
       "duration_ms": 211200,
       "name": "Karpanai",
       "url": "https://open.spotify.com/track/5mHYekF6dYS1tngug0sKYm"
-    },
-    {
-      "added_at": "2023-05-02 12:08:07",
-      "album": {
-        "name": "Mayangi Porene",
-        "url": "https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs"
-      },
-      "artists": [
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        }
-      ],
-      "duration_ms": 64864,
-      "name": "Mayangi Porene",
-      "url": "https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su"
     }
   ],
   "unique_name": "RADAR Tamil",

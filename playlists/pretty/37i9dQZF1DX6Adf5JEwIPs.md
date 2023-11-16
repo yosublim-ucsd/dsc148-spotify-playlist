@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,744 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,986 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 24 | [Entre Las Nubes](https://open.spotify.com/track/362XpKMgOSoz2AgmyU6owA) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Los de la 4](https://open.spotify.com/artist/28YHCirBYsvVBgYIr9S8Wj) | [Entre Las Nubes](https://open.spotify.com/album/6HXLUH4ck2vo6Hp6Rfin8c) | 3:15 |
 | 25 | [Green Comercio](https://open.spotify.com/track/2aO2U30fHWVWja3qu7Ycqy) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Green Comercio](https://open.spotify.com/album/71yAx8Ujdh6nKD8kfUjCxD) | 2:22 |
 | 26 | [Yo Miré Un Sombrero](https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Yo Miré Un Sombrero](https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U) | 2:35 |
-| 27 | [El Por Qué de las Cosas \(En Vivo\)](https://open.spotify.com/track/0ykfkzKnbTdINUjf4xOVTW) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [El Por Qué de las Cosas \(En Vivo\)](https://open.spotify.com/album/6uwBCL1b6eXv2eov8rqioS) | 3:47 |
+| 27 | [El Porqué de las Cosas \(En Vivo\)](https://open.spotify.com/track/0ykfkzKnbTdINUjf4xOVTW) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [El Porqué de las Cosas \(En Vivo\)](https://open.spotify.com/album/6uwBCL1b6eXv2eov8rqioS) | 3:47 |
 | 28 | [Soy Beltran \(En Vivo\)](https://open.spotify.com/track/1iypYDfOWukYPa2VzPJBZX) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Julian Mercado Desde la Hacienda Escondida \(En Vivo\)](https://open.spotify.com/album/6x7IQHzqHaH19fWhoNMOF3) | 4:44 |
 | 29 | [La Carreta \(En Vivo\)](https://open.spotify.com/track/0Jo6e8P2iTRxFxbAv4BKyp) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Carreta \(En Vivo\)](https://open.spotify.com/album/0M5GlU5xhBjrZrCpXbw8bm) | 1:59 |
 | 30 | [Mi Pecho No Es Bodega](https://open.spotify.com/track/3oa7GuqczgzC7WBnRby3js) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Mi Pecho No Es Bodega](https://open.spotify.com/album/2qW1dg233DQWdyskvt8EMR) | 2:40 |

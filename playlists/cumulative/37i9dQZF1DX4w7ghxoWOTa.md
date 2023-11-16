@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-61 songs - 4 hr 21 min
+62 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Super Noisy Nova](https://open.spotify.com/track/5bGen5PODN5GNE8TmkFF27) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Super Noisy Nova](https://open.spotify.com/album/4e5QOYtMx33m5YwhMmnSZY) | 4:26 | 2022-04-08 | 2022-07-29 |
 | [Super Noisy Nova](https://open.spotify.com/track/07LDwVVQNX4pkwrnC01zL9) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:26 | 2022-04-08 |  |
 | [Unnamed world](https://open.spotify.com/track/6A6Ast2a0l6Npzk5GVDENR) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [Unnamed world](https://open.spotify.com/album/6rXdmMvPDbFt48dWnzrY3a) | 3:32 | 2022-04-08 |  |
+| [White Lyrical Kingdom](https://open.spotify.com/track/2lZZCsLdqbkCtEADTsx9w1) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [White Lyrical Kingdom](https://open.spotify.com/album/4QC4x75GRyTk1btQkxUWZS) | 4:44 | 2023-11-14 |  |
 | [すーぱー☆あふぇくしょん](https://open.spotify.com/track/2CiHVrvqFtoySSKNJ96ttF) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz), [Miyuki Hashimoto](https://open.spotify.com/artist/7CvaCbO8PdEISO5PuVzp3u), [Faylan](https://open.spotify.com/artist/2yGZV8ZFKaoOxtvL4aUAIO), [美郷あき](https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy), [yozuca\*](https://open.spotify.com/artist/4VjL4soNJonIpplG1GOCvh), [rino](https://open.spotify.com/artist/62EyAYQ2AnBGw5BSWe48dW) | [すーぱー☆あふぇくしょん](https://open.spotify.com/album/1LojY5xVLFKM2ufqKgCZZS) | 3:31 | 2022-04-08 | 2022-07-29 |
 | [すーぱー☆あふぇくしょん](https://open.spotify.com/track/320unxHvAM7fZWXGC1ecEg) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz), [Miyuki Hashimoto](https://open.spotify.com/artist/7CvaCbO8PdEISO5PuVzp3u), [Faylan](https://open.spotify.com/artist/2yGZV8ZFKaoOxtvL4aUAIO), [美郷あき](https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy), [yozuca\*](https://open.spotify.com/artist/4VjL4soNJonIpplG1GOCvh), [rino](https://open.spotify.com/artist/62EyAYQ2AnBGw5BSWe48dW) | [すーぱー☆あふぇくしょん](https://open.spotify.com/album/1aS3QRVZ9o88S4sO1xS6bw) | 3:31 | 2022-04-08 |  |
 | [ふたりハピネス](https://open.spotify.com/track/1bREyD3RVvhVzx87miKQH2) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA) | [μ's Complete BEST BOX \(Chapter.09\)](https://open.spotify.com/album/56r4XvKUMrmB9kcRFIbZmv) | 6:10 | 2022-04-08 |  |

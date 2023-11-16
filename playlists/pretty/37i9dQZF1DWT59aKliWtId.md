@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,294 likes - 127 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,362 likes - 127 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

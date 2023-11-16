@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Love Me Back (From \"Operation: True Love\")",
+        "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU"
+    },
+    {
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
       },
@@ -2022,6 +2040,24 @@
       "duration_ms": 226386,
       "name": "The Moon Has Passed",
       "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
+    },
+    {
+      "album": {
+        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.17 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5rRUcHvm5fmjI9ZFuzIfwp"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250737,
+      "name": "The saddest song",
+      "url": "https://open.spotify.com/track/2PQnxR5z0a7DK7pUonHAY3"
     },
     {
       "album": {

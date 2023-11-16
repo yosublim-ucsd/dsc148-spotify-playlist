@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 419007,
+  "num_followers": 419161,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Paper Bag",
-      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "dc snuff film / waste yrself",
         "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 165671,
       "name": "haunt me (x 3)",
       "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Paper Bag",
+      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 296746,
       "name": "bmbmbm",
       "url": "https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "My Evil",
-      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Services",
         "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 250211,
       "name": "Strange Harvest",
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 144404,
+      "name": "My Evil",
+      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
       "artists": [
         {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+      "duration_ms": 264746,
+      "name": "L'Inconnue",
+      "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
         }
       ],
-      "duration_ms": 264746,
-      "name": "L'Inconnue",
-      "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1151,34 +1151,6 @@
       "duration_ms": 241332,
       "name": "Slowdance I",
       "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Fire Leap",
-        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
-      },
-      "artists": [
-        {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        },
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        },
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "Sarah Meth",
-          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
-        }
-      ],
-      "duration_ms": 171098,
-      "name": "Fire Leap",
-      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1227,6 +1199,34 @@
       "duration_ms": 204029,
       "name": "Sleeping In Your Garden",
       "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Fire Leap",
+        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
+      },
+      "artists": [
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        },
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "Sarah Meth",
+          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
+        }
+      ],
+      "duration_ms": 171098,
+      "name": "Fire Leap",
+      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Exposed to Some Light",
-        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+        "name": "Wicked Animal",
+        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
       "artists": [
         {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+        },
+        {
+          "name": "Bobbi Salv\u00f6r Menuez",
+          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
         }
       ],
-      "duration_ms": 239250,
-      "name": "Exposed to Some Light",
-      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+      "duration_ms": 284745,
+      "name": "Wicked Animal",
+      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1435,26 +1455,6 @@
       "duration_ms": 339173,
       "name": "Deep Six Textbook",
       "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Wicked Animal",
-        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
-      },
-      "artists": [
-        {
-          "name": "Amandla Stenberg",
-          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
-        },
-        {
-          "name": "Bobbi Salv\u00f6r Menuez",
-          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
-        }
-      ],
-      "duration_ms": 284745,
-      "name": "Wicked Animal",
-      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "Alps",
-      "url": "https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 237000,
       "name": "The Wetlands",
       "url": "https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 330880,
+      "name": "Alps",
+      "url": "https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC"
     },
     {
       "added_at": "2023-11-03 23:08:22",

@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 104356,
       "name": "Beyond the Moon",
       "url": "https://open.spotify.com/track/5TomtKpTQSdGAHCEfk9zx0"
@@ -1577,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "golden sunset",
+        "url": "https://open.spotify.com/album/21kqeomupEL6PUU7KW1mKv"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168522,
+      "name": "golden sunset",
+      "url": "https://open.spotify.com/track/2K0xrK3IDOVAiQEoFcn7z6"
+    },
+    {
+      "album": {
         "name": "growing old",
         "url": "https://open.spotify.com/album/5BzW6onKV8CMZTQXGGgUeo"
       },
@@ -1764,6 +1782,24 @@
       "duration_ms": 182000,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0geJbuyMR6YmogxKPFSmbv"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling (Remixes)",
+        "url": "https://open.spotify.com/album/7C3vdNqcYqulM5qMji85Na"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214117,
+      "name": "Hotline Bling (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/6WXKjhrdg0awYCTk9vBDsH"
     },
     {
       "album": {
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 101636,
       "name": "Letter to the Sky",
       "url": "https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG"
@@ -2558,7 +2594,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 130545,
       "name": "My Quiet Place",
       "url": "https://open.spotify.com/track/1PTLnmKhISHwtR87qZU1mf"
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 93781,
       "name": "New Life",
       "url": "https://open.spotify.com/track/4X2WZP9fcxv4E890G7Xle6"
@@ -3171,6 +3207,28 @@
     },
     {
       "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/37D80M4wHHBz3Cw9Kd1UIg"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/1mJ52alTdFa9p7YN8s7F3c"
+    },
+    {
+      "album": {
         "name": "River's End",
         "url": "https://open.spotify.com/album/7HciAXCbyW7EI4hb571yhM"
       },
@@ -3298,6 +3356,32 @@
       "duration_ms": 129229,
       "name": "Secret Island Story (Piano)",
       "url": "https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR"
+    },
+    {
+      "album": {
+        "name": "September - Piano Cover",
+        "url": "https://open.spotify.com/album/0Bxh1tnf5II9k1Y1oxJ8H3"
+      },
+      "artists": [
+        {
+          "name": "mono._",
+          "url": "https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4"
+        },
+        {
+          "name": "shilou.",
+          "url": "https://open.spotify.com/artist/7fVo25BMTuMao6idndJ5eK"
+        },
+        {
+          "name": "hiraeth vibe",
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "September - Piano Cover",
+      "url": "https://open.spotify.com/track/6XjqCtJBgZY1uUJCORW4t2"
     },
     {
       "album": {
@@ -3606,7 +3690,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 97621,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/12BhGc66xd134OiVIvwHVy"
@@ -4008,6 +4092,28 @@
       "duration_ms": 98571,
       "name": "Tripinnante",
       "url": "https://open.spotify.com/track/0b8D2p5v2s94JTp4pOrp98"
+    },
+    {
+      "album": {
+        "name": "twilight",
+        "url": "https://open.spotify.com/album/5CD4lvfMM6IC3dyKy3xRl7"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        },
+        {
+          "name": "Andy Feldman",
+          "url": "https://open.spotify.com/artist/3rnRik46TfCZnejgHgnCRQ"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120120,
+      "name": "twilight",
+      "url": "https://open.spotify.com/track/2jgCeM3IjLBPS5drRytGFV"
     },
     {
       "album": {

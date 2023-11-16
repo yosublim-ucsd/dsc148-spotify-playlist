@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:3N438PUTMEgLrL1n32VTxv">Edward Rivera</a> of <a href="spotify:artist:26T4yOaOoFJvUvxR87Y9HO">Bethel Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,803 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,162 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

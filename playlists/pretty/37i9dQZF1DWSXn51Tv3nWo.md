@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > There are some new trolls on the block\. Rock your body to the music from Trolls, including Trolls Band Together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,290 likes - 78 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,747 likes - 78 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

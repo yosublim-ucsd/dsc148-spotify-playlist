@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Sweeney Todd",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Merrily We Roll Along",
   "name": "Best of Broadway",
   "tracks": [
     {
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 220138,
       "name": "If Ever I Would Leave You",
       "url": "https://open.spotify.com/track/5PFXti9RRcfHhx0AXjA25v"
@@ -2726,6 +2726,36 @@
       "duration_ms": 202466,
       "name": "Oh, What A Beautiful Mornin'",
       "url": "https://open.spotify.com/track/5wVidmEl5KfwzZ1jlF0wgy"
+    },
+    {
+      "album": {
+        "name": "Merrily We Roll Along (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Daniel Radcliffe",
+          "url": "https://open.spotify.com/artist/2YD3t3MBtQo16C8FrEYVh3"
+        },
+        {
+          "name": "Lindsay Mendez",
+          "url": "https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2"
+        },
+        {
+          "name": "New Broadway Cast of Merrily We Roll Along",
+          "url": "https://open.spotify.com/artist/6LMssK1H6Zrtcccwp1aKlt"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274266,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
     },
     {
       "album": {

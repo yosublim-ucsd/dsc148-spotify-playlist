@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 57265,
+  "num_followers": 57344,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Night On The Town",
+        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 283266,
       "name": "Eye 2 Eye",
       "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Night On The Town",
-        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Do You Wanna Dance",
-      "url": "https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 254333,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Do You Wanna Dance",
+      "url": "https://open.spotify.com/track/6lOaVShahOYSeDR2RS0b9l"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 261000,
       "name": "Hyde Park (The 'Ah, Oooh' Song)",
       "url": "https://open.spotify.com/track/5nRaaCkfZUrsg3MRYOXTFU"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Metro Blue",
-        "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "People Make the World Go Round",
-      "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "110 Degrees and Rising",
         "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 279653,
       "name": "Just Like The First Time",
       "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Metro Blue",
+        "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "People Make the World Go Round",
+      "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 267360,
       "name": "4 On The Floor",
       "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2020-08-19 19:15:51",

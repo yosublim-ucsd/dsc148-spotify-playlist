@@ -457,20 +457,20 @@
       "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
     },
     {
-      "added_at": "2023-10-13 15:25:21",
+      "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
       "artists": [
         {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 242961,
-      "name": "Boca Chica",
-      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
     },
     {
-      "added_at": "2022-08-13 03:00:56",
+      "added_at": "2023-10-13 15:25:21",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
       },
       "artists": [
         {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+      "duration_ms": 242961,
+      "name": "Boca Chica",
+      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "El Juidero",
         "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 299533,
       "name": "Bajito a selva",
       "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Cr\u00f3nico",
-        "url": "https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Cr\u00f3nico",
-      "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "Cr\u00f3nico",
+        "url": "https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Cr\u00f3nico",
+      "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "0000+0000",
         "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
       },
@@ -707,6 +707,26 @@
       "duration_ms": 158220,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4u3obh51S7kKQnOs9i5RND"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Dos amores",
+        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 202951,
+      "name": "Dos amores",
+      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -811,26 +831,6 @@
       "duration_ms": 264867,
       "name": "No le de t\u00f3",
       "url": "https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Dos amores",
-        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        },
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 202951,
-      "name": "Dos amores",
-      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
     },
     {
       "added_at": "2023-10-13 15:27:10",

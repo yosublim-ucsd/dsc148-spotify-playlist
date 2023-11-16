@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:4ccurDUZ48cXNrcrLsA9ub">IGNACY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,136 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,146 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 14 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
 | 15 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
 | 16 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 |
-| 17 | [Peter Pan \- Prometh Remix](https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/album/08q8H2kQRgUlfdtkLsde84) | 4:29 |
+| 17 | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/album/08q8H2kQRgUlfdtkLsde84) | 4:29 |
 | 18 | [Tide](https://open.spotify.com/track/5W6KWPUZBDYlK0KExEQEhb) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Tide](https://open.spotify.com/album/0tuj1xBC3aKWlNXtmpjhR8) | 3:16 |
 | 19 | [Welur](https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Welur](https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun) | 3:07 |
 | 20 | [BIKINI GIRLIE](https://open.spotify.com/track/1c7I2V9oL4JdpZN514pGMo) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BIKINI GIRLIE](https://open.spotify.com/album/6lzibP8Md36JIkVAn5A2mf) | 3:13 |

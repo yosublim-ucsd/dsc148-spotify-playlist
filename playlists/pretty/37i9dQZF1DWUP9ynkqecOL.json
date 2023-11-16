@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 20067,
+  "num_followers": 20145,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Los Pasos Labrados",
-        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Zamba para Olvidar",
-      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 137104,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Los Pasos Labrados",
+        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Zamba para Olvidar",
+      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Tierra Natal (Barzo Remix)",
         "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 199578,
       "name": "Tierra Natal - Barzo Remix",
       "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Circular Tejido",
         "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
-      },
-      "artists": [
-        {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
-        }
-      ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "La Monta\u00f1a Sin Nombre II",
         "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 362653,
       "name": "CUMBIA ORIENTAL",
       "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1059,22 +1075,6 @@
       "duration_ms": 314854,
       "name": "Belleza en el Aire - Remix",
       "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Muchas Estrellas",
-        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Muchas Estrellas",
-      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "La L\u00ednea Del Rio (Remix)",
         "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
       },
@@ -1243,18 +1223,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+        "name": "Muchas Estrellas",
+        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
       "artists": [
         {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
         }
       ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
+      "duration_ms": 271000,
+      "name": "Muchas Estrellas",
+      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1283,22 +1267,18 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
       },
       "artists": [
         {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
         }
       ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1319,6 +1299,26 @@
       "duration_ms": 263424,
       "name": "Uni\u00f3n de los Amantes",
       "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1375,22 +1375,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+        "name": "Antikuna Anqa",
+        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
       },
       "artists": [
         {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+          "name": "Nintu",
+          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
         },
         {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+          "name": "Mauricio Arratia",
+          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
+        },
+        {
+          "name": "Pao Pamaki",
+          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
         }
       ],
-      "duration_ms": 260867,
-      "name": "Los Pajaros",
-      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
+      "duration_ms": 456000,
+      "name": "Antikuna Anqa",
+      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1415,26 +1419,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Antikuna Anqa",
-        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
       },
       "artists": [
         {
-          "name": "Nintu",
-          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
         },
         {
-          "name": "Mauricio Arratia",
-          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
-        },
-        {
-          "name": "Pao Pamaki",
-          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
         }
       ],
-      "duration_ms": 456000,
-      "name": "Antikuna Anqa",
-      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
+      "duration_ms": 260867,
+      "name": "Los Pajaros",
+      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
     },
     {
       "added_at": "2023-11-10 14:30:24",

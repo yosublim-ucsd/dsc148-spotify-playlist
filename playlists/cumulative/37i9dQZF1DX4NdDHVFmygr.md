@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits 100% marocains du moment.
+> Les hits marocains du moment.
 
 313 songs - 16 hr 56 min
 

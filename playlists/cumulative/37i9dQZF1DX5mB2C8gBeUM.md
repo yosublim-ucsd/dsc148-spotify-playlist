@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-412 songs - 20 hr 42 min
+413 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,8 +122,8 @@
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-10 | 2023-01-21 |
 | [Drinkin' Drinks](https://open.spotify.com/track/7DjNEHu28F1cObsPQOUFDH) | [Urban Outlaws](https://open.spotify.com/artist/0OIe9J3WmpoAQsISHsj26F), [Kurt Stevens](https://open.spotify.com/artist/3hxWaqOFMEKfbdxs3O9Iwj) | [Drinkin' Drinks](https://open.spotify.com/album/0eMUBRcNkWpMUjqpNTOeQh) | 2:40 | 2022-04-29 | 2023-01-04 |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-12 | 2023-03-09 |
-| [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 | 2023-11-10 | 2023-11-14 |
-| [Dutton Ranch Freestyle](https://open.spotify.com/track/30I91lf1QB0eOgMSGKGqHB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 2:23 | 2023-11-10 |  |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 | 2023-11-10 |  |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/30I91lf1QB0eOgMSGKGqHB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 2:23 | 2023-11-10 | 2023-11-16 |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-03-03 | 2023-11-13 |
 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-04-15 |  |
 | [Eat Pray Drugs](https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Eat Pray Drugs](https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ) | 2:56 | 2022-09-16 | 2023-09-14 |
@@ -187,7 +187,8 @@
 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 | 2022-07-22 | 2022-10-09 |
 | [Hold My Horses](https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Hold My Horses](https://open.spotify.com/album/47OPSr5UHAyc2XG4M9utmq) | 3:00 | 2022-10-07 | 2022-11-07 |
 | [Holding Out For A Cowboy](https://open.spotify.com/track/3gMD6iX82HbPPzrfWywaIa) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [In This Kind Of Light](https://open.spotify.com/album/0Xgvy0oHafjU6zqJWrVfNO) | 3:30 | 2021-12-10 | 2023-05-04 |
-| [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 | 2023-03-24 |  |
+| [Holy Cowboy](https://open.spotify.com/track/1TPpvjNoanUE1UUE2Ap8jA) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/7xAa2ez0jljaSsJMgoQB3L) | 2:39 | 2023-11-10 |  |
+| [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 | 2023-03-24 | 2023-11-16 |
 | [Home For The Summer](https://open.spotify.com/track/3vlj2o1ahG1g6AM6Qnm2gu) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Lord Lawrence](https://open.spotify.com/artist/5qlCQduWfylSo5aVFqiT7i) | [Home For The Summer](https://open.spotify.com/album/76hs4C3wpey6xz2lF03JCa) | 3:34 | 2021-12-10 | 2022-04-09 |
 | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/track/68GQ3ZhlzqDNvzq20bdg1o) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/album/30ULuUPigC0c89kztNco5s) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-10 | 2022-06-11 |

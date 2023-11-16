@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Kaliii
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,625 likes - 93 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,637 likes - 93 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 |
 | 2 | [Kall Me \(with Omeretta the Great\)](https://open.spotify.com/track/5XifYEXMiyMiMNqXIWTly5) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Omeretta the Great](https://open.spotify.com/artist/5AiKMEn5JZoGP91Oy90AJj) | [S.O.U.L.](https://open.spotify.com/album/5ZPvrIyao6gbYOsJIcynuY) | 2:42 |
 | 3 | [Leave Her Alone](https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Leave Her Alone](https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL) | 2:27 |
-| 4 | [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 |
+| 4 | [Barbie](https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/75R7GceHeK8bCwv23trU4N) | 2:08 |
 | 5 | [Run It Up](https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:18 |
 | 6 | [Want No Beef](https://open.spotify.com/track/5Mk3X4EsBISU1LgANt9t8c) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Omeretta the Great](https://open.spotify.com/artist/5AiKMEn5JZoGP91Oy90AJj), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [A.Chic](https://open.spotify.com/artist/1YRA7wfgmr8gp3pf3yNayN) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:59 |
 | 7 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |

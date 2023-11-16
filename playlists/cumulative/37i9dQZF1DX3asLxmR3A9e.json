@@ -596,7 +596,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 173626,
       "name": "Drops",
       "url": "https://open.spotify.com/track/3qfqrPLjWLbIHEc5ZCrKmN"
@@ -2082,6 +2082,24 @@
       "duration_ms": 226216,
       "name": "War Of Hearts",
       "url": "https://open.spotify.com/track/4R8BdwRidxAWaYyFNU00P1"
+    },
+    {
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225017,
+      "name": "Warm Foothills",
+      "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
     },
     {
       "album": {

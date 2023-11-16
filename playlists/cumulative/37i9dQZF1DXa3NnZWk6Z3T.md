@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-332 songs - 19 hr 7 min
+333 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/track/6dXugaGsuwNuJzIxUOPrtn) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/album/0CM5LYGsZzKaqf1FqtZA4L) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 | 2021-12-09 |  |
 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 | 2021-12-09 |  |
+| [Bolerito Sad](https://open.spotify.com/track/5QmGrwScqr4hWk2U3SNUUm) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/1Tckecb6OWb7UaZRakuyel) | 3:01 | 2023-11-10 |  |
 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 | 2023-10-27 |
 | [Bonita](https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:14 | 2021-12-09 |  |
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-04-07 | 2022-09-22 |
@@ -214,7 +215,7 @@
 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 | 2021-12-09 |  |
 | [No Te Culpo](https://open.spotify.com/track/4VRTsI1hON7hSTSzDN3lAO) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [No Te Culpo](https://open.spotify.com/album/4aqRo9Hj7bKZWHcUBELK3C) | 4:16 | 2021-12-09 | 2022-12-31 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2021-12-09 |  |
-| [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2022-09-21 |  |
+| [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2022-09-21 | 2023-11-16 |
 | [no vuelvas a mirar atrás](https://open.spotify.com/track/5TmUCweI7JXVWxn1zHJzyN) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/05bj3fX7Wrs45EBPp35bBQ) | 4:05 | 2021-12-09 | 2022-10-13 |
 | [November Rain \- B&H Version](https://open.spotify.com/track/2sO2B8YGt8Bi9p3tgmSdlC) | [Ghetto Blaster Ltd.](https://open.spotify.com/artist/0g6rXs7y0Xalc9NSqM3jER) | [Bossa N' Roses](https://open.spotify.com/album/2tQASTYJPc7QQ9GCVbtXfo) | 4:51 | 2022-04-07 | 2022-10-28 |
 | [Nuestro Amanecer](https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 3:56 | 2022-12-30 |  |

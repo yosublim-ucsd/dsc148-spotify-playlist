@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Jeremy Dutcher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,436 likes - 33 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,819 likes - 33 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

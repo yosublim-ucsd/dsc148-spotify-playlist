@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 434171,
+  "num_followers": 434229,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Quase Amor",
         "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 151616,
       "name": "Quase Amor",
       "url": "https://open.spotify.com/track/46U95V5hKnM6tM12lOuAOi"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Cear\u00e1",
         "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 164000,
       "name": "Como c\u00ea t\u00e1?",
       "url": "https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "N\u00e3o Me Chame Mais De Ex",
-        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "Kamilla Maria",
-          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "N\u00e3o Me Chame Mais De Ex",
-      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 156000,
       "name": "Desconectar",
       "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "N\u00e3o Me Chame Mais De Ex",
+        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "Kamilla Maria",
+          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "N\u00e3o Me Chame Mais De Ex",
+      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+        "name": "Primeiro Bom Dia",
+        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+      "duration_ms": 133770,
+      "name": "Primeiro Bom Dia",
+      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -943,34 +943,34 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Primeiro Bom Dia",
-        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
       "artists": [
         {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 133770,
-      "name": "Primeiro Bom Dia",
-      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "sempre com voc\u00ea",
         "url": "https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 191862,
       "name": "sempre com voc\u00ea",
       "url": "https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1203,42 +1203,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "QUANDO C\u00ca VEM",
-        "url": "https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "QUANDO C\u00ca VEM",
-      "url": "https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -1259,38 +1223,34 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Lugares",
-        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
       "artists": [
         {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Ana Rosa",
-      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Samba Azul",
-        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
         }
       ],
-      "duration_ms": 182004,
-      "name": "Samba Azul",
-      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1311,18 +1271,58 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+        "name": "Samba Azul",
+        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+      "duration_ms": 182004,
+      "name": "Samba Azul",
+      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "QUANDO C\u00ca VEM",
+        "url": "https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "QUANDO C\u00ca VEM",
+      "url": "https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Eu Pensei Muito na Gente",
         "url": "https://open.spotify.com/album/4NNja3VMeL9nFHGQx9T6kP"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 186428,
       "name": "Eu Pensei Muito na Gente",
       "url": "https://open.spotify.com/track/2rTrI2Ci5DlokeE7odH4SU"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Amanheceu Assim",
+        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9fano Ferraz",
+          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
+        }
+      ],
+      "duration_ms": 204935,
+      "name": "Amanheceu Assim",
+      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Cultivar",
         "url": "https://open.spotify.com/album/1wpEtiyzTmdOQwRPmys3Ae"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 133222,
       "name": "Mundo de Papel",
       "url": "https://open.spotify.com/track/72f0aOR0Tp6LH4KZ7whF4R"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2023-11-10 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Niky Savage, Rondodasosa, Don Pero, Nello Taver e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,184 likes - 99 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,220 likes - 99 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

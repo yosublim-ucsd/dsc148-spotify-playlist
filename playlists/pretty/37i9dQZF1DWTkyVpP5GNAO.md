@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,561 likes - 90 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,884 likes - 90 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 60 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 61 | [Océanos \(Donde Mis Pies Pueden Fallar\)](https://open.spotify.com/track/6nK1x5xWT3x1N1gzhSB7gw) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Océanos \(Donde Mis Pies Pueden Fallar\)](https://open.spotify.com/album/2f2T1EMqrwWbpAeT7iWzfP) | 4:19 |
 | 62 | [Hay Un Hambre](https://open.spotify.com/track/3cB86YtrUCvAYHDPsr3YT0) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Hay Un Hambre](https://open.spotify.com/album/46RNFMizJrAliyzoPRc1Zk) | 6:58 |
-| 63 | [Vibraciones](https://open.spotify.com/track/7H40dIIXn7X9LBAgiFfMzy) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8), [Leonela Alzate](https://open.spotify.com/artist/4w4HO7HZlKTGSuUzZw5Yat) | [Vibraciones](https://open.spotify.com/album/799WgK4Lch0C8dRdhqRuWt) | 5:12 |
+| 63 | [Vibraciones](https://open.spotify.com/track/5taIeXVNO1BjAbClgOU8PY) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8), [Leonela Alzate](https://open.spotify.com/artist/4w4HO7HZlKTGSuUzZw5Yat) | [vibraciones](https://open.spotify.com/album/0B9yE3RrtvowCLX10rRf7Y) | 5:12 |
 | 64 | [Por Siempre \(Live\)](https://open.spotify.com/track/0lWqNkcbYNZpik6AjywkNm) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Por Siempre \(Live\)](https://open.spotify.com/album/2yIPFIYN8bj7nl8oeH0JE7) | 5:20 |
 | 65 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u) | 5:05 |
 | 66 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |

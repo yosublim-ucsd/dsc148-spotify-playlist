@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-114 songs - 6 hr 9 min
+115 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Sancharare \- From "Sayanna Varthakal"](https://open.spotify.com/track/29S65rYTdRlHtY73A0Brrm) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn) | [Sancharare \(From "Sayanna Varthakal"\)](https://open.spotify.com/album/6sqJVYteuCcT5alJQJvgQ7) | 3:20 | 2022-10-25 |  |
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/1d7vMtlpp0T6IhDe4cog3t) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Scene Mone \(From "Rdx"\)](https://open.spotify.com/album/78W11DytRChbuWspZygdyi) | 3:26 | 2023-08-17 | 2023-09-01 |
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/0OvNPwqO7vtruEZx88qUy3) | [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Scene Mone \(From "RDX"\)](https://open.spotify.com/album/3jWqNbSWuLPtCtyIuDIpth) | 3:26 | 2023-08-17 | 2023-08-19 |
-| [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 |  |
+| [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 | 2023-11-16 |
 | [THALAKKANAM](https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/1FpEMSDbXmzyl2AHpHqEYW) | 2:51 | 2023-08-28 |  |
 | [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 | 2023-08-28 | 2023-10-30 |
 | [Thalayana Manthram](https://open.spotify.com/track/5PyLZP4TRBUVBTEkYrfMyD) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Thalayana Manthram](https://open.spotify.com/album/5Cohg9TfF3ofvpNoAUsGUN) | 3:15 | 2023-03-06 | 2023-07-24 |
@@ -118,6 +118,7 @@
 | [Vere Level](https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Vere Level](https://open.spotify.com/album/1JrVlSYxmfdrTcPou5Urnc) | 3:34 | 2022-06-23 | 2023-10-10 |
 | [Voice of Voiceless](https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2YRk162JljfmD25M71gql8) | 3:06 | 2022-10-25 | 2023-11-04 |
 | [Voice of Voiceless](https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc) | 3:06 | 2022-10-25 | 2023-05-14 |
+| [Voice of Voiceless](https://open.spotify.com/track/6y6nB7wQRliOl0t31XL22I) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2HvVxyx0u34l5CnXjqGZw5) | 3:06 | 2022-10-25 |  |
 | [Vyadhi](https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vyadhi](https://open.spotify.com/album/1baVHC4hgzvbHqvCc7Hbpn) | 2:04 | 2022-06-23 | 2023-09-12 |
 | [Wish](https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:03 | 2022-06-23 | 2023-10-24 |
 | [Workil Aanu Karyam](https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Workil Aanu Karyam](https://open.spotify.com/album/4xkntbV9pfipF2v9hrfLRG) | 4:57 | 2022-06-23 | 2023-09-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Gyubin(\uaddc\ube48))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Paul Blanco(\ud3f4\ube14\ub791\ucf54))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Hmm-cheat",
+      "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
+    },
+    {
+      "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
       },
@@ -3962,6 +3980,24 @@
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
+    },
+    {
+      "album": {
+        "name": "Thanks For Nothing",
+        "url": "https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F"
     },
     {
       "album": {

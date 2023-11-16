@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Rawayana
 
-144 songs - 8 hr 45 min
+145 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Tu Guardián \(Versión Remix Merengue\)](https://open.spotify.com/track/2JVXOsPlWQnKYVC4LF29HJ) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [Minutos \(Edición de Oro\)](https://open.spotify.com/album/52UGd9av3ImgY2RaWsthut) | 3:28 | 2021-12-17 | 2022-04-29 |
 | [Tu Regalo](https://open.spotify.com/track/4ayQAFdtDo4ff5IAM1O97N) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Tu Regalo](https://open.spotify.com/album/7D6Sfp8lYSKIg5drc6wRfk) | 2:30 | 2021-12-17 | 2023-09-23 |
 | [Tumbayé](https://open.spotify.com/track/1ulXmurmUVer1l6AAnBUWl) | [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Tumbayé](https://open.spotify.com/album/2SEO5lyLyOsubXjGCtyfKo) | 3:53 | 2021-12-17 |  |
-| [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 | 2021-12-17 |  |
+| [Tus Ojos](https://open.spotify.com/track/33fEdZF6sT3UE4OdU0k3kq) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [La Historia Musical](https://open.spotify.com/album/2iBYlVipulkyhuAndEtEgR) | 4:27 | 2023-09-22 |  |
+| [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 | 2021-12-17 | 2023-11-16 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-12-17 |  |
 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 | 2021-12-17 |  |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2021-12-17 | 2022-04-23 |

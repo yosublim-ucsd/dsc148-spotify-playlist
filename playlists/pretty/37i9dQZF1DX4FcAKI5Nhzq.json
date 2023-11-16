@@ -1,15 +1,31 @@
 {
-  "description": "Future K-Pop hits! Cover: ZEROBASEONE",
-  "num_followers": 786855,
+  "description": "Future K-Pop hits! Cover: Crush",
+  "num_followers": 787187,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmZjZGQ5ZTQwNDc3MDhhZjg1NzhhOGQ0OTgyY2Y3ZDMwNDAzMzgw",
+  "snapshot_id": "MCxhY2Y4MmE1ODliNDZkNjk0MzI1YTQwZDhhOWZlYWMwODdhZDI2Nzhi",
   "tracks": [
     {
-      "added_at": "2023-11-09 09:01:42",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Hmm-cheat",
+      "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Born to be XX",
         "url": "https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj"
     },
     {
-      "added_at": "2023-11-08 14:49:18",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Fadeaway (From \"GARBAGE TIME\")",
+        "url": "https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 172720,
+      "name": "Fadeaway",
+      "url": "https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "MELTING POINT",
         "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
@@ -41,7 +73,23 @@
       "url": "https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "iykyk",
+        "url": "https://open.spotify.com/album/4jd2zPWyPBE1mmX5MSkCH8"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "JUNK FOOD",
+      "url": "https://open.spotify.com/track/5aEdNj5hYLKwSiO9vKK552"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "The 4th Mini Album 'VERSUS'",
         "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
@@ -57,23 +105,7 @@
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "LIME (I'm So)",
-        "url": "https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 130308,
-      "name": "LIME (I'm So)",
-      "url": "https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Talk Saxy",
         "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
@@ -89,23 +121,39 @@
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
     },
     {
-      "added_at": "2023-11-07 03:40:51",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB"
+        "name": "LIME (I'm So)",
+        "url": "https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40"
       },
       "artists": [
         {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
         }
       ],
-      "duration_ms": 189320,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc"
+      "duration_ms": 130308,
+      "name": "LIME (I'm So)",
+      "url": "https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Smoke (Remix)",
         "url": "https://open.spotify.com/album/395Tpq1Ak19oGniHdQjOSk"
@@ -145,175 +193,23 @@
       "url": "https://open.spotify.com/track/0sedpruW5fiIKDyDNKa6rp"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Gum",
-        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB"
       },
       "artists": [
         {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 162693,
-      "name": "Gum",
-      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
+      "duration_ms": 189320,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 156540,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6"
-      },
-      "artists": [
-        {
-          "name": "NiziU",
-          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
-        }
-      ],
-      "duration_ms": 180883,
-      "name": "HEARTRIS",
-      "url": "https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "STRANGER",
-        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
-        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
-      },
-      "artists": [
-        {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "BYE BYE BYE (feat. Sion)",
-      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "ColoRise",
-        "url": "https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "VROOM VROOM",
-      "url": "https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Don't Go Insane",
-        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "An Iron Hand In A Velvet Glove",
-        "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
-      },
-      "artists": [
-        {
-          "name": "JINI",
-          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "C'mon (feat. Amin\u00e9)",
-      "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Top or Cliff",
-      "url": "https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
@@ -333,23 +229,39 @@
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Late Night",
-        "url": "https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3"
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
       },
       "artists": [
         {
-          "name": "Jay Chang",
-          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 192173,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/7z8EC940EnKqsHQGz5NwEe"
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
@@ -365,43 +277,87 @@
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Billlie 'BYOB (bring your own best friend)'",
-        "url": "https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl"
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6"
       },
       "artists": [
         {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
         }
       ],
-      "duration_ms": 158068,
-      "name": "BYOB (bring your own best friend)",
-      "url": "https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h"
+      "duration_ms": 180883,
+      "name": "HEARTRIS",
+      "url": "https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Like Heaven",
-        "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
       "artists": [
         {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Like Heaven (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Top or Cliff",
+      "url": "https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Don't Go Insane",
+        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
@@ -417,7 +373,23 @@
       "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "ALL MY GIRLS",
+        "url": "https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
@@ -433,7 +405,159 @@
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "An Iron Hand In A Velvet Glove",
+        "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "C'mon (feat. Amin\u00e9)",
+      "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Billlie 'BYOB (bring your own best friend)'",
+        "url": "https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 158068,
+      "name": "BYOB (bring your own best friend)",
+      "url": "https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "ColoRise",
+        "url": "https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "VROOM VROOM",
+      "url": "https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
+        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "BYE BYE BYE (feat. Sion)",
+      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Target: ME",
+        "url": "https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "TROUBLE",
+      "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
+      },
+      "artists": [
+        {
+          "name": "LEE CHAE YEON",
+          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "KNOCK",
+      "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Sugarcoat (NATTY Solo)",
+      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
@@ -453,203 +577,7 @@
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "ICKY",
-      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "side-B : memoirs of echo unseen",
-        "url": "https://open.spotify.com/album/0StHt9CZdb3lA5qXefa7tT"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "DANG! (hocus pocus)",
-      "url": "https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Target: ME",
-        "url": "https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "TROUBLE",
-      "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 149718,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "ALL MY GIRLS",
-        "url": "https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "RA TA TA",
-        "url": "https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        },
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        }
-      ],
-      "duration_ms": 177453,
-      "name": "RA TA TA (Feat. Lil Cherry)",
-      "url": "https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "SPIN OFF : FROM THE WITNESS",
-        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 197025,
-      "name": "HALAZIA",
-      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Frame the Blueprint: Prelude to Possibilities",
-        "url": "https://open.spotify.com/album/5HvSTx0dsyBNEvu6JGq4wR"
-      },
-      "artists": [
-        {
-          "name": "TIOT",
-          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Unbeatable",
-      "url": "https://open.spotify.com/track/0m8tFKjRmnFPtTk8URIWw2"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Sugarcoat (NATTY Solo)",
-      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "I WANT",
-        "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "I WANT",
-      "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Give You My All",
-        "url": "https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 165266,
-      "name": "Give You My All",
-      "url": "https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
-      },
-      "artists": [
-        {
-          "name": "LEE CHAE YEON",
-          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "KNOCK",
-      "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
@@ -669,7 +597,23 @@
       "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "I WANT",
+        "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "I WANT",
+      "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "BOYS PLANET - ARTIST BATTLE",
         "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
@@ -685,39 +629,23 @@
       "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "DALALA",
-        "url": "https://open.spotify.com/album/0q2pMuNvBFB1NEwUhz4uDX"
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3"
       },
       "artists": [
         {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+          "name": "Jay Chang",
+          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
         }
       ],
-      "duration_ms": 189813,
-      "name": "DALALA",
-      "url": "https://open.spotify.com/track/0Aa9I95cft2JJB1g7dmhNZ"
+      "duration_ms": 192173,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/7z8EC940EnKqsHQGz5NwEe"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5"
-      },
-      "artists": [
-        {
-          "name": "ONEUS",
-          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
@@ -737,7 +665,7 @@
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
@@ -753,47 +681,27 @@
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Ballerina (Music from The Netflix Film)",
-        "url": "https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5"
+        "name": "Like Heaven",
+        "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
         },
         {
           "name": "Paul Blanco",
           "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 211000,
-      "name": "BLOOD ON MY HANDS (Feat. Paul Blanco & DeVita)",
-      "url": "https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J"
+      "duration_ms": 209453,
+      "name": "Like Heaven (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
-      "album": {
-        "name": "Loossemble",
-        "url": "https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh"
-      },
-      "artists": [
-        {
-          "name": "Loossemble",
-          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw"
-    },
-    {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "HARMONY : ALL IN",
         "url": "https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B"
@@ -809,23 +717,75 @@
       "url": "https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l"
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
         }
       ],
-      "duration_ms": 175600,
-      "name": "SUPERPOWERS",
-      "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
+      "duration_ms": 188373,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "RA TA TA",
+        "url": "https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "duration_ms": 177453,
+      "name": "RA TA TA (Feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "side-B : memoirs of echo unseen",
+        "url": "https://open.spotify.com/album/0StHt9CZdb3lA5qXefa7tT"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "DANG! (hocus pocus)",
+      "url": "https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "DALALA",
+        "url": "https://open.spotify.com/album/0q2pMuNvBFB1NEwUhz4uDX"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "DALALA",
+      "url": "https://open.spotify.com/track/0Aa9I95cft2JJB1g7dmhNZ"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "You're Beautiful",
         "url": "https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF"
@@ -841,23 +801,23 @@
       "url": "https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana"
+        "name": "Loossemble",
+        "url": "https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
         }
       ],
-      "duration_ms": 194453,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4"
+      "duration_ms": 185133,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw"
     },
     {
-      "added_at": "2023-11-06 10:10:39",
+      "added_at": "2023-11-15 06:00:42",
       "album": {
         "name": "The Move : Street",
         "url": "https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK"
@@ -871,6 +831,38 @@
       "duration_ms": 199146,
       "name": "LET\u2032S DANCE",
       "url": "https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "SUPERPOWERS",
+      "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
+    },
+    {
+      "added_at": "2023-11-15 06:00:42",
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4"
     }
   ],
   "unique_name": "K-Pop Rising",

@@ -770,10 +770,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 252147,
       "name": "O Amigo De Nova York",
       "url": "https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju"
+    },
+    {
+      "album": {
+        "name": "Mais Que Um Momento",
+        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
+      },
+      "artists": [
+        {
+          "name": "Em\u00edlio Santiago",
+          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252147,
+      "name": "O Amigo De Nova York",
+      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
     },
     {
       "album": {

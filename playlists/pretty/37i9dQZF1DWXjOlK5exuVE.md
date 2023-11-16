@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Luis R Conriquez, Grupo Marca Registrada, Chino Pacas, Esteban Gabriel y Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,440 likes - 152 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,394 likes - 152 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 211153,
       "name": "Chhalla",
       "url": "https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ"
@@ -1298,6 +1298,28 @@
       "duration_ms": 225000,
       "name": "Racks and Rounds (feat. Sikander Kahlon)",
       "url": "https://open.spotify.com/track/4RbRZYPR7Dwg8WRNn4UA8m"
+    },
+    {
+      "album": {
+        "name": "Raid",
+        "url": "https://open.spotify.com/album/483rdTn6fwCrVfNiwysOYd"
+      },
+      "artists": [
+        {
+          "name": "Dil Sandhu",
+          "url": "https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny"
+        },
+        {
+          "name": "Varun Beats",
+          "url": "https://open.spotify.com/artist/0DZSlOXnxmfhy3vqg7CmNC"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164141,
+      "name": "Raid",
+      "url": "https://open.spotify.com/track/7ECFmo4sbVrI5wh9SuoMho"
     },
     {
       "album": {

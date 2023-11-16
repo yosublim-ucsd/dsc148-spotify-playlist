@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! It's Party O'Clock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,387 likes - 39 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,468 likes - 39 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga & AR Paisley
 
-76 songs - 3 hr 46 min
+77 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 | 2023-03-18 | 2023-04-27 |
 | [Bold And Brave](https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:30 | 2023-05-26 |  |
 | [Bulls Eye](https://open.spotify.com/track/7nMdJTQ4pxpu4Lhuldj9by) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Defcon 1](https://open.spotify.com/album/7rSDYG1PEOQP6aToDGxLNQ) | 2:28 | 2023-03-18 |  |
-| [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 |  |
+| [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 | 2023-11-16 |
 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 | 2023-03-18 |  |
 | [DABBDA NAHI](https://open.spotify.com/track/6IXJSqbyXUf3yd2OIYxNVS) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Goldy Kingmeker](https://open.spotify.com/artist/3Py94OVGyh6M4Y5sNW5S7q) | [DABBDA NAHI](https://open.spotify.com/album/2o8fSGFa29bfbaCLr0af3b) | 3:49 | 2023-03-18 | 2023-04-27 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-18 |  |
@@ -68,6 +68,7 @@
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2023-10-27 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 |  |
 | [Racks and Rounds \(feat\. Sikander Kahlon\)](https://open.spotify.com/track/4RbRZYPR7Dwg8WRNn4UA8m) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:45 | 2023-03-18 |  |
+| [Raid](https://open.spotify.com/track/7ECFmo4sbVrI5wh9SuoMho) | [Dil Sandhu](https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny), [Varun Beats](https://open.spotify.com/artist/0DZSlOXnxmfhy3vqg7CmNC) | [Raid](https://open.spotify.com/album/483rdTn6fwCrVfNiwysOYd) | 2:44 | 2023-11-14 |  |
 | [Rank 1](https://open.spotify.com/track/0lR5ndbXXJg8djIEj0ypLu) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD) | 2:59 | 2023-05-26 | 2023-05-28 |
 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 | 2023-05-26 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-05-26 |  |

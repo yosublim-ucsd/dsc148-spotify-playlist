@@ -11215,6 +11215,28 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05e8\u05d1\u05d5 \u05d3\u05e8\u05d1\u05d5",
+        "url": "https://open.spotify.com/album/1Igny7UYaRst03EuObkCIe"
+      },
+      "artists": [
+        {
+          "name": "Ness",
+          "url": "https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe"
+        },
+        {
+          "name": "\u05e1\u05d8\u05d9\u05dc\u05d4",
+          "url": "https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150374,
+      "name": "\u05d7\u05e8\u05d1\u05d5 \u05d3\u05e8\u05d1\u05d5",
+      "url": "https://open.spotify.com/track/6IVIMUcrykPBQqWVA0g7zw"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d1\u05d3\u05d9 \u05e0\u05de\u05dc",
         "url": "https://open.spotify.com/album/1xsjhMC9cRGaziyJaUOjco"
       },
@@ -11270,7 +11292,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 135374,
       "name": "\u05d8\u05d9\u05dc \u05e4\u05e6\u05de\u05e8",
       "url": "https://open.spotify.com/track/0JoYMP7hvEwxKCjj9szUo6"
@@ -14282,7 +14304,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 267466,
       "name": "\u05e2\u05d3 \u05de\u05d7\u05e8",
       "url": "https://open.spotify.com/track/1ttOlVyZvmnozD2muIxulw"
@@ -15538,7 +15560,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

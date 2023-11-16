@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 
 > Representantes de la rima Charrúa\. Foto: Dostrescinco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,893 likes - 79 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,903 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 | 5 | [Después de Antes](https://open.spotify.com/track/1X0NmncUIFrmGxQzInjr3I) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Después de Antes](https://open.spotify.com/album/2M7c4etCFEFT1muf7qinap) | 3:32 |
 | 6 | [Cerillos](https://open.spotify.com/track/1pnPaNdPILyuzZJlnCuLbu) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Miel](https://open.spotify.com/artist/1AMGfEmHW0CZqlgmhpftgm) | [Otoño denso](https://open.spotify.com/album/0LWjPdZFvxzpnTjawUqFiU) | 2:53 |
 | 7 | [Maldita Pasta](https://open.spotify.com/track/26RAOURzLBiO5iGkWlK5yO) | [Eliz](https://open.spotify.com/artist/1jagX6wMpCUYSNQGvF0D11) | [Maldita Pasta](https://open.spotify.com/album/4NRbCuL1jSuTFmeF12ARc8) | 3:00 |
-| 8 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 |
+| 8 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [AFTER](https://open.spotify.com/artist/1BuMYUR29zAEsk5Z0vY90L), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 |
 | 9 | [Dando Vueltas](https://open.spotify.com/track/314FEi04GJLNc89wCZVanH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Dando Vueltas](https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe) | 2:01 |
 | 10 | [Subiendolo](https://open.spotify.com/track/6FCe9Tm6KTIqac84dvaMBr) | [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [S Moreno](https://open.spotify.com/artist/2Eq8xNV6aKDDdoJibsY6FG) | [Subiendolo](https://open.spotify.com/album/37g311aA3XQKoVZSkVOCMq) | 2:40 |
 | 11 | [El Duelo](https://open.spotify.com/track/12ArbbsxBxxY2RbNdacPPk) | [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6), [Eme Ese](https://open.spotify.com/artist/2efK6H5GDQVYQFyAVgKqE3) | [El Duelo](https://open.spotify.com/album/2iQzsjUxzW9rBq7X6jpGht) | 2:28 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,864 likes - 194 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,112 likes - 194 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reverie lofi](https://open.spotify.com/track/7xeGaui2rOd2fKs2NCvMgl) | [Juanita Garcia](https://open.spotify.com/artist/5yXjaU6XFq11LZi6Aybxgg) | [Reverie lofi](https://open.spotify.com/album/1T6WZK1VL0NjNmcEFxMG1Q) | 2:00 |
-| 2 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 |
+| 2 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 |
 | 3 | [Wonders](https://open.spotify.com/track/7ywNEAXgv5AEoL1bD4qRUk) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Wonders](https://open.spotify.com/album/1jpgwQwxiN5ZkrEGJvVsux) | 2:25 |
 | 4 | [spinal chords](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [spinal chords](https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x) | 2:15 |
 | 5 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 |

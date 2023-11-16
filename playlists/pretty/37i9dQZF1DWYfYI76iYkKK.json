@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123497,
+  "num_followers": 123535,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
         "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
         "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 238336,
-      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
-      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
         "name": "\u84cb\u4e16\u82f1\u96c4",
         "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 286733,
       "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 238336,
+      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
+      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
     },
     {
       "added_at": "2023-11-09 16:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+    },
+    {
+      "added_at": "2023-11-09 16:00:00",
+      "album": {
         "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
         "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
       },
@@ -767,34 +783,18 @@
     {
       "added_at": "2023-11-09 16:00:00",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "\u7d66\u5929\u738b\u661f",
+        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
-    },
-    {
-      "added_at": "2023-11-09 16:00:00",
-      "album": {
-        "name": "\u5728\u5e55\uff08Moods\uff09",
-        "url": "https://open.spotify.com/album/1QCNUNNdjWn7gR0wgLbnWX"
-      },
-      "artists": [
-        {
-          "name": "Hubert Wu",
-          "url": "https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5"
-        }
-      ],
-      "duration_ms": 178692,
-      "name": "\u611b\u662f\u60f3\u89f8\u78b0\u537b\u6536\u56de\u624b",
-      "url": "https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa"
+      "duration_ms": 225655,
+      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
+      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
     },
     {
       "added_at": "2023-11-09 16:00:00",

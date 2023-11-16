@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-197 songs - 10 hr 11 min
+202 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Always A Princess](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Always A Princess](https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9) | 2:36 | 2023-07-07 |  |
 | [Another Day](https://open.spotify.com/track/4lbgrO7sGhdLx8UM28lHa1) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Another Day](https://open.spotify.com/album/6pWv9L9GIK68UUyQV72rQW) | 2:36 | 2023-05-05 |  |
 | [Beach Club](https://open.spotify.com/track/1xyotakxXPfJ4WmqXGGgOq) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Arcade](https://open.spotify.com/album/4JX7yWgYnJk0sJKVlqmFwJ) | 2:12 | 2023-05-26 |  |
+| [Beach Pizza](https://open.spotify.com/track/5kAIhNF6LkPWSsNLSoLBd4) | [Undefined Space](https://open.spotify.com/artist/4tvalX4nEpCqTBOyUR3U19) | [Beach Pizza](https://open.spotify.com/album/2Pb3gyChc9ckEqAQLfcJFl) | 2:39 | 2023-11-14 |  |
 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2023-05-05 | 2023-08-19 |
 | [Beachwalk](https://open.spotify.com/track/0tnGenkxkUT3jf7qgt8OTq) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Beachwalk](https://open.spotify.com/album/0ahbnryzVDsOp3tWz2uCwV) | 2:45 | 2023-05-05 |  |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2023-05-05 |  |
@@ -65,6 +66,7 @@
 | [Drunk Sundays](https://open.spotify.com/track/7HARmWLSb1quqaEGNuIudB) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Dippin & Trippin](https://open.spotify.com/album/7c2S06S20LZ3i97CUXeMSb) | 5:19 | 2023-05-05 | 2023-08-19 |
 | [Duné](https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Duné](https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX) | 2:38 | 2023-05-05 |  |
 | [Eleven](https://open.spotify.com/track/4FmayqmwkbAw2wMWVq2A1B) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Eleven](https://open.spotify.com/album/14d97dcXwRoZdOQtjP8LYb) | 4:07 | 2023-05-05 |  |
+| [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 | 2023-11-14 |  |
 | [endless cup](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [endless cup](https://open.spotify.com/album/1AHdwERDExWS6MCKxtQ3gb) | 3:23 | 2023-05-05 |  |
 | [Feel Decent](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 3](https://open.spotify.com/album/53uc38DjJTTD6JG1EcQJym) | 3:45 | 2023-08-04 |  |
 | [Final Countdown Again](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Final Countdown Again](https://open.spotify.com/album/63A7o3OeGaTmDasRKdooK5) | 3:14 | 2023-05-05 |  |
@@ -138,6 +140,7 @@
 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 | 2023-05-05 |  |
 | [Panorama](https://open.spotify.com/track/2KdKLnwFSmXPTFllAPXcQ4) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Panorama](https://open.spotify.com/album/5NRsQdDUtEx4l2shHW7yKm) | 2:49 | 2023-05-05 |  |
 | [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 | 2023-08-04 |  |
+| [Pathway Across](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK) | [Altitude Chill](https://open.spotify.com/artist/2vPjdJVB78DdGawUuz9fGu) | [Pathway Across](https://open.spotify.com/album/7uVGcuCXGfGujm16wmZjez) | 2:20 | 2023-11-14 |  |
 | [Peachess](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Peachess](https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw) | 2:51 | 2023-05-05 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2023-05-05 |  |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2023-05-05 |  |
@@ -161,9 +164,10 @@
 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 | 2023-05-05 | 2023-08-19 |
 | [Souvenirs](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Souvenirs](https://open.spotify.com/album/1wAXvwqX3yl6RN6vNx84Tp) | 2:06 | 2023-05-05 |  |
 | [Staff Picks](https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Staff Picks](https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT) | 2:56 | 2023-05-05 |  |
-| [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 |  |
+| [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 | 2023-11-16 |
 | [Stella Marina](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Stella Marina](https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp) | 2:48 | 2023-09-15 |  |
 | [Straight Curves](https://open.spotify.com/track/2t7tr3u3eP9maEcdnxdWco) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Straight Curves](https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt) | 2:31 | 2023-08-11 |  |
+| [Strong Loop](https://open.spotify.com/track/2ZEstObcEPL43DIDk57NI9) | [Marin Lavelle](https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS) | [Strong Loop](https://open.spotify.com/album/5dBCPoyQXS5aZqerosWSfb) | 2:21 | 2023-11-14 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2023-05-05 |  |
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2023-05-05 |  |
 | [summer somewhere](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [summer somewhere](https://open.spotify.com/album/7g1pEXexNSRzZ6YMYfElbr) | 2:00 | 2023-10-20 |  |
@@ -197,6 +201,7 @@
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2023-05-05 |  |
 | [Wanderlust](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Wanderlust](https://open.spotify.com/album/4K9NFfOF2AfatXDGTmF56W) | 2:27 | 2023-05-05 |  |
 | [Water](https://open.spotify.com/track/6CD5nbE9zvNOdJbnwfQyVM) | [Trey Mirror](https://open.spotify.com/artist/2rnoTsgsrF3cPszkdu6fDw), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Water](https://open.spotify.com/album/0cJTcnsVBKcXzgHbVUhWTK) | 5:40 | 2023-05-05 | 2023-09-23 |
+| [Weekend At Ibiza](https://open.spotify.com/track/4Dwp8PVZL99b2neUZ5qSgW) | [Leon Cox](https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz) | [Weekend At Ibiza](https://open.spotify.com/album/0vXpEhJbuDmZoRhfamRkzp) | 2:21 | 2023-11-14 |  |
 | [What Tomorrow Brings](https://open.spotify.com/track/2faQoV4rpd3K9BxwbPbwYO) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [What Tomorrow Brings](https://open.spotify.com/album/73ICYc63au29eIOddxyus7) | 2:51 | 2023-05-05 |  |
 | [What We Feel](https://open.spotify.com/track/6hAskKId0Hh1WZV5TjYvZo) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG) | [What We Feel EP](https://open.spotify.com/album/0gGvz7mwgTMkzQAJDwtwZG) | 5:23 | 2023-05-05 |  |
 | [Woodmaster](https://open.spotify.com/track/790hZ79j8JYhutdtJFOAWU) | [Petr Serkin](https://open.spotify.com/artist/5ywnDPnFteS7NhVDFfONop) | [Woodmaster](https://open.spotify.com/album/1c1MjLFLnW3piY8wwUjssp) | 5:22 | 2023-05-05 |  |

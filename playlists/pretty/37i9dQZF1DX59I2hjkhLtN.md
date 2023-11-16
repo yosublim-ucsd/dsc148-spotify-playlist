@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,820 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,825 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 9 | [STEP / ME OR SUM FREESTYLE](https://open.spotify.com/track/71cVW3oDzFab0TGD0qpW6e) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC) | [DARK HOURS](https://open.spotify.com/album/3UTzqYgsmY88mEWZ7M5APx) | 3:26 |
 | 10 | [Paradoxo](https://open.spotify.com/track/0VVU6WXpkDjtuRQDwSUfMZ) | [Rudy21](https://open.spotify.com/artist/7BJNlefzGMxapgQy6XvZBf) | [Paradoxo](https://open.spotify.com/album/0aZYc9gXKNSDGNaaELACtM) | 2:35 |
 | 11 | [Van Gogh](https://open.spotify.com/track/7vuQaRKkS3XnqaiA1x6Azj) | [B3L2](https://open.spotify.com/artist/6KUYblbSpjuGjZvTXpUUEn) | [Van Gogh](https://open.spotify.com/album/0svG6ftjJMgB0IboVnIIRP) | 3:00 |
-| 12 | [No Tempo Certo](https://open.spotify.com/track/6RHX41nmzyBWV64rZnlfjV) | [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [No Tempo Certo](https://open.spotify.com/album/2yjDo4avJY1QCOKP6OnsiO) | 3:34 |
+| 12 | [No Tempo Certo](https://open.spotify.com/track/6RHX41nmzyBWV64rZnlfjV) | [Black Spygo](https://open.spotify.com/artist/7ib3B3sbe0eHW1lkGVcl6S), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [No Tempo Certo](https://open.spotify.com/album/2yjDo4avJY1QCOKP6OnsiO) | 3:34 |
 | 13 | [Brinde](https://open.spotify.com/track/7dtA0TEVphAkeXfqgRxls4) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [No More Drama](https://open.spotify.com/album/6lY25ZQtrUZPxGW6afyL0b) | 3:52 |
 | 14 | [Oh Baby](https://open.spotify.com/track/1EtihF6nnTFcGb30oXi1mV) | [Lójico](https://open.spotify.com/artist/6PRzGdn4WO9juMXyq2QRBw) | [Oh Baby](https://open.spotify.com/album/7AUx6TcWshZUdwdMfqoCeh) | 3:26 |
 | 15 | [Sid](https://open.spotify.com/track/2JljRsj1lefrSh5Uz0kJEB) | [UFF RAH](https://open.spotify.com/artist/6gp3V8ucRrAH4wK2kWGCA6) | [Sid](https://open.spotify.com/album/4X2ERJrE1qOCwK9Xe5lEvR) | 3:28 |

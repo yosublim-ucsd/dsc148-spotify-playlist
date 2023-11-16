@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-365 songs - 1 day 2 hr 29 min
+366 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [chAngE](https://open.spotify.com/track/1aEeR6DqwyvgSwDLUxKjnl) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:10 | 2022-05-17 | 2022-07-29 |
 | [chAngE](https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection \(2\)](https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc) | 4:10 | 2022-06-23 | 2022-10-02 |
 | [chAngE \- Cover](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 | 2022-09-20 | 2023-09-22 |
+| [chAngE \- Cover](https://open.spotify.com/track/71OfBuAMF2HOkrZeb62FH0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.4](https://open.spotify.com/album/1QV7TzDf6neA0n9AkoJK5m) | 4:09 | 2023-09-21 |  |
 | [Chocolate Bass Recipe](https://open.spotify.com/track/3Uu3VQnOUjhLRGx72poDb6) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 4:26 | 2022-06-23 | 2022-10-02 |
 | [COMIC PANIC!!!](https://open.spotify.com/track/5XLnPVZGD99CNvFEBpldRY) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!](https://open.spotify.com/album/4aHYLSuQ1OOtdRjVxhfg22) | 4:40 | 2022-05-17 | 2022-07-11 |
 | [COMIC PANIC!!!](https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!!](https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR) | 4:40 | 2022-06-23 | 2022-10-02 |
@@ -300,7 +301,7 @@
 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/6fPkczUh0DSxfwxAz9WgOW) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy) | 4:18 | 2022-05-17 | 2022-07-29 |
 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN) | 4:19 | 2022-09-20 |  |
 | [ブルームブルーム](https://open.spotify.com/track/15FyEraTym0lgCFREa8VaU) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:36 | 2022-09-20 | 2023-03-18 |
-| [ブルームブルーム](https://open.spotify.com/track/4G7Wsp4nJNLg55Mp6RRU1s) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:36 | 2023-04-11 |  |
+| [ブルームブルーム](https://open.spotify.com/track/4G7Wsp4nJNLg55Mp6RRU1s) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:36 | 2023-04-11 | 2023-11-16 |
 | [ブルームブルーム](https://open.spotify.com/track/2SQBhJuIsest3tA1PEC1vT) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4bDKZvWxDa4b2U5f6HxkqD) | 4:36 | 2022-05-17 | 2022-07-29 |
 | [プライド革命](https://open.spotify.com/track/3MHOAHO1m0njLBWMp9lFwg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [ミライトレイン](https://open.spotify.com/track/68NLAMcxHcRkBWxPgadrqC) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:55 | 2022-05-17 | 2022-07-26 |

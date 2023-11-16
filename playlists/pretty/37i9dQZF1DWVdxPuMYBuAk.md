@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,322 likes - 71 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,358 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everybody Wants To Rule The World \(From XO, Kitty\)](https://open.spotify.com/track/0PEI9t3QfzaOepAhYwJGdn) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS) | [Everybody Wants to Rule the World \(From XO, Kitty\)](https://open.spotify.com/album/2orBNQq9oB5FYTONCyIA2P) | 2:28 |
 | 2 | [Nobody](https://open.spotify.com/track/19SDHacvs49xXppoYt0Jog) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:48 |
-| 3 | [Spinnin'](https://open.spotify.com/track/25MhgWrnPhh94z0g11Qd5o) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl) | 3:08 |
+| 3 | [Spinning](https://open.spotify.com/track/25MhgWrnPhh94z0g11Qd5o) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl) | 3:08 |
 | 4 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 5 | [Telepathy](https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:22 |
 | 6 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 |

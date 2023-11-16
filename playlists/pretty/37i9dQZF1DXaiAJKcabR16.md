@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,799 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,999 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 |
 | 2 | [Bad Moves](https://open.spotify.com/track/5Ep66lg6KdXjX30U5SBQRQ) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [A Celebration](https://open.spotify.com/album/6VH7MDCK71rSCmULCa8hS7) | 4:06 |
 | 3 | [Duck N’ Dodge](https://open.spotify.com/track/6pGmdibZoXSNbU4n9QX1lB) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:36 |
-| 4 | [Rose City](https://open.spotify.com/track/5JoFmBsA6J1FJumA0BJKX1) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Rose City / Rise Up With Fists](https://open.spotify.com/album/0pYtOyHubrt0sHOg7fhPzS) | 2:46 |
+| 4 | [Rose City](https://open.spotify.com/track/2UChEoI3ICXzPWuqmVsrxR) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Town](https://open.spotify.com/album/6DjifeDOsCYY6m7JrOwGpn) | 2:46 |
 | 5 | [Nose On The Grindstone \(OurVinyl Sessions\)](https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 3:24 |
 | 6 | [Break My Baby \- Stripped Back](https://open.spotify.com/track/136kGRT2lLY01C9i21TURw) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Break My Baby \- Stripped Back](https://open.spotify.com/album/2NI3n21RjO0N66BhNg6G5p) | 3:30 |
 | 7 | [Wish It Was True](https://open.spotify.com/track/1TSCUaX1XkklmuxpuPUxyR) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Once Upon A Time In The West](https://open.spotify.com/album/7f5DOd6CcQAPqxX59ldHEi) | 3:46 |

@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Picture Parlour
 
-183 songs - 10 hr 35 min
+184 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2023-02-24 |
 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 | 2023-04-18 |  |
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2023-02-24 |  |
-| [Chancer](https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/4e5Wq8BfWIoW5sRe72mbqI) | 3:14 | 2023-03-31 |  |
+| [Chancer](https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/4e5Wq8BfWIoW5sRe72mbqI) | 3:14 | 2023-03-31 | 2023-11-16 |
 | [Changing Trends](https://open.spotify.com/track/14X8VWSbK3ghd2gVgOvf52) | [Lyerr](https://open.spotify.com/artist/15RXcuqShkrQqtCRjKtgss) | [Changing Trends](https://open.spotify.com/album/29NPGoxQMh9TRhciutEl4w) | 2:55 | 2023-02-10 | 2023-06-08 |
 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 | 2023-01-10 |  |
 | [Cherish](https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Cherish](https://open.spotify.com/album/3qOfKTVNQD2C5sYqpTQsMo) | 2:40 | 2023-02-24 |  |
@@ -45,6 +45,7 @@
 | [Come Over](https://open.spotify.com/track/18ZevcdeL1RTvZ17JXJpO3) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/19Q2mYMVQ6hRZRBcmb27jw) | 3:26 | 2023-02-24 | 2023-06-10 |
 | [Come Over](https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/6UzUGO9oaMhbekhTHgsw2Q) | 3:26 | 2023-07-28 | 2023-09-20 |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-10 | 2023-06-08 |
+| [days like these](https://open.spotify.com/track/3HGBDwd7WgDb5B2Arr30fV) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [days like these](https://open.spotify.com/album/205F9vWMOP9BqDHjwhSZ6d) | 2:14 | 2023-10-20 |  |
 | [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 | 2023-09-19 | 2023-10-20 |
 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 | 2023-01-10 |  |
 | [Diet Punk](https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Diet Punk](https://open.spotify.com/album/5rqeXp9HmqVftmLLjqrWBR) | 3:04 | 2023-02-24 | 2023-09-22 |
@@ -62,7 +63,7 @@
 | [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 | 2023-01-10 | 2023-02-24 |
 | [Fading Away](https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fading Away](https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V) | 3:26 | 2023-10-20 |  |
 | [Falling](https://open.spotify.com/track/4U1lnceYei81AcieKqPxIs) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/2ESEsbqDurKc7fCmduKViu) | 2:53 | 2023-01-10 | 2023-04-01 |
-| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 | 2023-11-14 |
+| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 |  |
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-28 | 2023-10-10 |
 | [Feels So Real](https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [The Clockworks](https://open.spotify.com/album/5yy6SxQG6UFCXMP6wDAUJR) | 3:32 | 2023-01-10 | 2023-09-20 |
 | [Female of the Species](https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [A Sense Of Doubt](https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK) | 3:06 | 2023-09-19 |  |
@@ -174,7 +175,7 @@
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-18 |  |
 | [Up in the Air](https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Up in the Air](https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a) | 2:40 | 2023-10-27 |  |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |
-| [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 |  |
+| [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 | 2023-11-16 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2023-01-10 |  |
 | [Wave](https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V) | 3:08 | 2023-06-13 |  |
 | [Wave](https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33) | 3:08 | 2023-03-31 | 2023-07-07 |

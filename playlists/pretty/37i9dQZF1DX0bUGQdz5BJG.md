@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Muscadine Bloodline
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,576 likes - 200 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,666 likes - 200 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

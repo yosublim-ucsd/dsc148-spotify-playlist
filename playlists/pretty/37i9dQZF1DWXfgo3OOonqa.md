@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,956 likes - 83 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,029 likes - 83 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 16 | [ComWiq](https://open.spotify.com/track/5g5vNMF2yJjWtERlMykJeD) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [ComWiq](https://open.spotify.com/album/3gL98Cetrxjg3NTGXKEzr4) | 2:44 |
 | 17 | [Vi vill också må bra](https://open.spotify.com/track/5GK41YLUSgKTfWAyNjq5D2) | [Arre](https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP) | [Vi vill också må bra](https://open.spotify.com/album/221HIgfq7aPz29GbnC6uzR) | 2:18 |
 | 18 | [Tugga med demoner](https://open.spotify.com/track/68mX4diVsOZvhHOsZnco8u) | [CENTI](https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq), [LENN](https://open.spotify.com/artist/4HHfUYBRiuWw4zy4BQU78G) | [Tugga med demoner](https://open.spotify.com/album/21oA2KidqX5yvAW4oNy9Lw) | 2:39 |
-| 19 | [Ghetto](https://open.spotify.com/track/4k3qhcOy9cuWXZ1TEhqhud) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Slim Prince](https://open.spotify.com/artist/2sDEJu2GS3AKx2RtMr9l2m), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Ghetto](https://open.spotify.com/album/6NQpi7xJYfSqLNAsDtDhdv) | 4:19 |
+| 19 | [GHETTO](https://open.spotify.com/track/4k3qhcOy9cuWXZ1TEhqhud) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Slim Prince](https://open.spotify.com/artist/2sDEJu2GS3AKx2RtMr9l2m), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [GHETTO](https://open.spotify.com/album/6NQpi7xJYfSqLNAsDtDhdv) | 4:19 |
 | 20 | [Action \(feat\. Guleed\)](https://open.spotify.com/track/5beUxQ0Hjyx3xUEzQpnKDY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Deja Vu](https://open.spotify.com/album/1wpsPacRm2SljIFYtkZYtF) | 2:38 |
 | 21 | [Skrattar Idag](https://open.spotify.com/track/1oLHonPRCGArYOv39l2lVz) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43), [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Skrattar Idag](https://open.spotify.com/album/0ettdo1rAVMZf8CjJuTvfA) | 2:00 |
 | 22 | [TA MIG HEM](https://open.spotify.com/track/3XhCPd4wTYCjj3Y43R13FN) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [LÅNGT IFRÅN STOCKHOLM](https://open.spotify.com/album/1xtqaTIeQththky9fM8Ctw) | 2:25 |

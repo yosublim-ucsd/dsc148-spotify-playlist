@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F?si=RGwI\-u\-WSYCfFe\-MWMKHIw">DJ Bongz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,416 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,526 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

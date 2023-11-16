@@ -1867,6 +1867,36 @@
     },
     {
       "album": {
+        "name": "Knowing What I Know Now (From \"Wish\")",
+        "url": "https://open.spotify.com/album/2U1roLuS984WZ0iAYRVNl6"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Angelique Cabral",
+          "url": "https://open.spotify.com/artist/4sEFD7V049ZiliYdmXR9fJ"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Knowing What I Know Now - From \"Wish\"",
+      "url": "https://open.spotify.com/track/1uyTVf2kc69fe1i8frN3Lf"
+    },
+    {
+      "album": {
         "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
       },
@@ -2848,6 +2878,28 @@
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "album": {
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN"
     },
     {
       "album": {

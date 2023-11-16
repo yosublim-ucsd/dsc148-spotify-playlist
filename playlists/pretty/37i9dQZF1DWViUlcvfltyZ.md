@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: TA GA DA
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,698 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,712 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 5 | [Pugno Di Sabbia](https://open.spotify.com/track/5JusmvJVYnbLnqxHvzbHQM) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Pugno Di Sabbia](https://open.spotify.com/album/2eMHhaYiN4FETBFdhjcfBt) | 3:34 |
 | 6 | [ADRENALINA](https://open.spotify.com/track/6QaCGYJKeuGrg0jTHv3eS4) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [AMICI COME PRIMA](https://open.spotify.com/album/1CEc97gdSCxBJ53JKzVeXN) | 2:28 |
 | 7 | [Awful Thread](https://open.spotify.com/track/7kY3nelNouUqY5JJzKvR5J) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Awful Thread](https://open.spotify.com/album/0KtjgXUUul9V579ZrvyMxx) | 4:08 |
-| 8 | [Back in the loop](https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Back in the loop](https://open.spotify.com/album/6qtU0ESjKtzXKIJXABBN4C) | 3:47 |
+| 8 | [Back In The Loop](https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Back In The Loop](https://open.spotify.com/album/6qtU0ESjKtzXKIJXABBN4C) | 3:47 |
 | 9 | [Bianca](https://open.spotify.com/track/2DBxhgSzW9i2VDbQ6jJfEH) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Bianca](https://open.spotify.com/album/24bL90EQXl1fNDLeVDd0Cs) | 3:06 |
 | 10 | [Teatro dell'assurdo](https://open.spotify.com/track/6WKkD78hYlGwYwnKZkUYG9) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [Teatro dell'assurdo](https://open.spotify.com/album/49xaH7DdVSX8E3BPrJhYx4) | 3:33 |
 | 11 | [Come un raggio](https://open.spotify.com/track/4KwDUgx7TcYyvZ6tZZR7bR) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Next Big Niente](https://open.spotify.com/album/6ULcUBtkjDdSKQ9cDqYyc5) | 4:34 |

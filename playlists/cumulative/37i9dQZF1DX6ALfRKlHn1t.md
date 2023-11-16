@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-261 songs - 14 hr 55 min
+262 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Changes](https://open.spotify.com/track/1OJg6070T1v5dVZoU8uj0m) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Changes](https://open.spotify.com/album/4UySs59gSRB08g9WEF5Gow) | 3:31 | 2022-04-26 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/5RdHkLxnVnj1RZndX1Sj1T) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb) | 3:31 | 2022-10-07 | 2023-03-15 |
 | [Chapstick](https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:13 | 2022-04-26 | 2023-10-21 |
+| [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 | 2023-09-08 |  |
 | [Chlorine \- Alt Mix](https://open.spotify.com/track/4O0bRLfLMLNUlr9TFtohen) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine](https://open.spotify.com/album/230pDZmx1aFZyncgE3z6U2) | 3:11 | 2021-03-24 | 2022-04-27 |
 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 | 2022-07-29 | 2023-03-15 |
 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 | 2021-03-24 | 2023-03-15 |
@@ -98,7 +99,7 @@
 | [Girlfriend](https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Girlfriend](https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu) | 4:16 | 2022-02-04 | 2022-07-29 |
 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 | 2022-06-24 | 2023-03-15 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-14 |  |
-| [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-05-05 |  |
+| [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-05-05 | 2023-11-16 |
 | [Golden](https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Golden](https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG) | 3:27 | 2023-05-19 |  |
 | [Golden Age](https://open.spotify.com/track/1bFjZtKMLAd63AILwrGl5l) | [Late Night Episode](https://open.spotify.com/artist/3ZvruFeycdpcMPS4EfESRk) | [Golden Age](https://open.spotify.com/album/0CJ1sH1T6SsJS6tFEr3M3Z) | 2:52 | 2021-03-24 | 2022-07-29 |
 | [Good Day](https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS), [Esoterik](https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ), [Scraps](https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8) | [True Colour](https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn) | 3:08 | 2022-10-07 | 2022-11-13 |

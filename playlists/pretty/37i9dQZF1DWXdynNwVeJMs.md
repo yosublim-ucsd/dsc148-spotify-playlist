@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,459 likes - 77 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,562 likes - 77 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

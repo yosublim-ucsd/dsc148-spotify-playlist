@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 228310,
       "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
       "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
@@ -2055,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "Deep Blue (feat. \u30ab\u30b3\u30a4\u30df\u30af)",
+        "url": "https://open.spotify.com/album/0CqGadhjfGmQIPY41VaGZs"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        },
+        {
+          "name": "Miku Kakoi",
+          "url": "https://open.spotify.com/artist/5alTj7erIXRIQbrUC2Cv1v"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316381,
+      "name": "Deep Blue - feat. \u30ab\u30b3\u30a4\u30df\u30af",
+      "url": "https://open.spotify.com/track/6Npd95zNGjg4wMhIN1ipDh"
+    },
+    {
+      "album": {
         "name": "Defeat",
         "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
       },
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 269100,
       "name": "GIFT",
       "url": "https://open.spotify.com/track/34E09MM52a4aIwyg5kUjDM"
@@ -3646,6 +3668,24 @@
       "duration_ms": 269466,
       "name": "Henry St.",
       "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
+    },
+    {
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201492,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/1W2WTiFB8jFyfvrGskpFuM"
     },
     {
       "album": {
@@ -4366,7 +4406,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 253577,
       "name": "Kan-Sekai",
       "url": "https://open.spotify.com/track/0VhD3zamkf55HiOFw0l4Cr"
@@ -6393,6 +6433,28 @@
     },
     {
       "album": {
+        "name": "YAMI\uff0fYO\uff0fAKE",
+        "url": "https://open.spotify.com/album/43riQ3B9dmCTPmJdKQX8LD"
+      },
+      "artists": [
+        {
+          "name": "noid",
+          "url": "https://open.spotify.com/artist/2fmNCUJ5ne4OgRofGX4iQT"
+        },
+        {
+          "name": "\u6210\u5c71\u5185(sleepy.ab)",
+          "url": "https://open.spotify.com/artist/7CE7DciBrq4HZUSzF5N1CK"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329008,
+      "name": "paradiselost - feat.\u6210\u5c71\u5185(sleepy.ab)",
+      "url": "https://open.spotify.com/track/2t6MxMhjkpVFoJTzWfu0Sv"
+    },
+    {
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/3e941zH5ytkUXptWZfqysB"
       },
@@ -7728,7 +7790,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 328584,
       "name": "shattered me - feat.Shamyah",
       "url": "https://open.spotify.com/track/52FmhxikYFZLC7E8g9X7G2"
@@ -9422,6 +9484,24 @@
       "duration_ms": 239250,
       "name": "Walking in The Air",
       "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305946,
+      "name": "Wall Of Eyes",
+      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
     },
     {
       "album": {

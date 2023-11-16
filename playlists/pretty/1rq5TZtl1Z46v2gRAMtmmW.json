@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 28667,
+  "num_followers": 28682,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUyOSw4MDBkM2RlMTQwNzYyZThkNTEzM2FmZjY3ZjFkY2FjM2EzNDEyZGJk",
+  "snapshot_id": "MzUzMiw0OTcwMjQyY2M1ODJhMjExODlkOTJhYWY4OGJmYWEwYzFhYjU3OTI5",
   "tracks": [
     {
       "added_at": "2023-11-10 14:45:24",
@@ -23,6 +23,22 @@
       "duration_ms": 203350,
       "name": "Star",
       "url": "https://open.spotify.com/track/4uHSypi6xnu8YlmLjC3tns"
+    },
+    {
+      "added_at": "2023-11-15 01:16:43",
+      "album": {
+        "name": "Small Sanctuary",
+        "url": "https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Small Sanctuary",
+      "url": "https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ"
     },
     {
       "added_at": "2023-11-03 15:41:53",
@@ -615,26 +631,6 @@
       "duration_ms": 216757,
       "name": "Wait 4 U - DJ Phil Remix",
       "url": "https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH"
-    },
-    {
-      "added_at": "2023-07-18 15:48:01",
-      "album": {
-        "name": "Thinkin Of U",
-        "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        },
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 121682,
-      "name": "Thinkin Of U",
-      "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
     },
     {
       "added_at": "2023-07-07 18:29:26",

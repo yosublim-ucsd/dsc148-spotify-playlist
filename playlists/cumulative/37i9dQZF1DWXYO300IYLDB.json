@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 181250,
       "name": "Adore You - Acoustic",
       "url": "https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 168106,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl"
@@ -3779,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Post Office",
+        "url": "https://open.spotify.com/album/0hiQvelIfblqRE2VOwSBKX"
+      },
+      "artists": [
+        {
+          "name": "Mark Diamond",
+          "url": "https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210755,
+      "name": "Post Office",
+      "url": "https://open.spotify.com/track/29IrCfWN8k476jCSB7co47"
+    },
+    {
+      "album": {
         "name": "Purple Rain (Acoustic)",
         "url": "https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00"
       },
@@ -3971,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226125,
+      "name": "Room Service",
+      "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
+    },
+    {
+      "album": {
         "name": "RUNAWAY (Acoustic)",
         "url": "https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3"
       },
@@ -4088,7 +4124,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 212152,
       "name": "September Song - Guitar Acoustic",
       "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
@@ -5646,6 +5682,24 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137235,
+      "name": "Your House My House",
+      "url": "https://open.spotify.com/track/0FBvAV5khV9zgmPm71VjQS"
     },
     {
       "album": {

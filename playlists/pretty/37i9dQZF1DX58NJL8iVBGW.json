@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 587079,
+  "num_followers": 587253,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+        "name": "Let Love In (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
         }
       ],
-      "duration_ms": 124853,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
+      "duration_ms": 370573,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Let Love In (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 370573,
-      "name": "Red Right Hand",
-      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+      "duration_ms": 124853,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Whiskey Shivers",
         "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
       },
@@ -563,38 +579,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat the Devil's Tattoo",
-      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Folksinger Vol. 2",
         "url": "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 246146,
       "name": "Gallows Pole",
       "url": "https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 285680,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
+      },
+      "artists": [
+        {
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Anna & Elizabeth",
-        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
-      },
-      "artists": [
-        {
-          "name": "Anna & Elizabeth",
-          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
-        }
-      ],
-      "duration_ms": 88293,
-      "name": "Long Time Travelin'",
-      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Anna & Elizabeth",
+        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
+      },
+      "artists": [
+        {
+          "name": "Anna & Elizabeth",
+          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
+        }
+      ],
+      "duration_ms": 88293,
+      "name": "Long Time Travelin'",
+      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bless Your Soul",
-        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Bless Your Soul",
-      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Ribbon",
         "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 216538,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "My Church Is Black",
-        "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
-      },
-      "artists": [
-        {
-          "name": "Me And That Man",
-          "url": "https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "My Church Is Black",
-      "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "My Church Is Black",
+        "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
+      },
+      "artists": [
+        {
+          "name": "Me And That Man",
+          "url": "https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "My Church Is Black",
+      "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
     }
   ],
   "unique_name": "Southern Gothic",

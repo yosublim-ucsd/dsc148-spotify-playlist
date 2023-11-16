@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
-  "num_followers": 178768,
+  "num_followers": 178799,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "La Danza del Espacio Tiempo",
         "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 128981,
       "name": "La Danza del Espacio Tiempo",
       "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 243185,
-      "name": "Pitada",
-      "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 267866,
       "name": "Fanky - Live",
       "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 243185,
+      "name": "Pitada",
+      "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "De la Cabeza 2",
         "url": "https://open.spotify.com/album/3p2WuAT2zLzKwVoDFaPwml"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 277520,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 232263,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 232263,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "Tributo A Los Fabulosos Cadillacs",
         "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
-      },
-      "artists": [
-        {
-          "name": "Mariano Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Acuarela",
-      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
+      },
+      "artists": [
+        {
+          "name": "Mariano Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Acuarela",
+      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
     },
     {
       "added_at": "2023-11-10 15:29:33",

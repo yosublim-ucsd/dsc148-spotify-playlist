@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 376884,
+  "num_followers": 376986,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Future Shock",
-        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 325133,
-      "name": "Rockit",
-      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 302666,
       "name": "Rebel Without A Pause",
       "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "Future Shock",
+        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 325133,
+      "name": "Rockit",
+      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Follow The Leader (Expanded Edition)",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
         }
       ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
+      "duration_ms": 257223,
+      "name": "9mm Goes Bang",
+      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+        "name": "Follow The Leader (Expanded Edition)",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
       "artists": [
         {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 257223,
-      "name": "9mm Goes Bang",
-      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Freaks Come Out at Night",
-      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 284466,
       "name": "I Know You Got Soul",
       "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 321986,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "NOW Hip-Hop At 50",
         "url": "https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232306,
       "name": "Rapper's Delight",
       "url": "https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 321986,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "I'm Bad",
-      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Biz's Baddest Beats: The Best of Biz Markie",
         "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "I'm Bad",
+      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
     },
     {
       "added_at": "2023-10-11 12:50:31",

@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala & Raftaar",
-  "num_followers": 25617,
+  "num_followers": 25745,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -450,6 +450,10 @@
         {
           "name": "VJ Paul",
           "url": "https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn"
+        },
+        {
+          "name": "Khushi Verma",
+          "url": "https://open.spotify.com/artist/2bdyNpVEnnVc1WDz79Riz4"
         }
       ],
       "duration_ms": 154285,
@@ -631,6 +635,22 @@
     {
       "added_at": "2023-11-09 07:11:41",
       "album": {
+        "name": "Shok Albaadi",
+        "url": "https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw"
+      },
+      "artists": [
+        {
+          "name": "Monty Badanpur",
+          "url": "https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa"
+        }
+      ],
+      "duration_ms": 170736,
+      "name": "Shok Albaadi",
+      "url": "https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7"
+    },
+    {
+      "added_at": "2023-11-09 07:11:41",
+      "album": {
         "name": "Chore Haryana Aale",
         "url": "https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC"
       },
@@ -651,38 +671,18 @@
     {
       "added_at": "2023-11-09 07:11:41",
       "album": {
-        "name": "Shok Albaadi",
-        "url": "https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw"
+        "name": "Success",
+        "url": "https://open.spotify.com/album/7K4xHrateeQtpa7n3bV0XN"
       },
       "artists": [
         {
-          "name": "Monty Badanpur",
-          "url": "https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa"
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
         }
       ],
-      "duration_ms": 170736,
-      "name": "Shok Albaadi",
-      "url": "https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7"
-    },
-    {
-      "added_at": "2023-11-09 07:11:41",
-      "album": {
-        "name": "32 Bore",
-        "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
-      },
-      "artists": [
-        {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
-        },
-        {
-          "name": "DG IMMORTALS",
-          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "32 Bore",
-      "url": "https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke"
+      "duration_ms": 241957,
+      "name": "Success",
+      "url": "https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3"
     },
     {
       "added_at": "2023-11-09 07:11:41",
@@ -719,18 +719,22 @@
     {
       "added_at": "2023-11-09 07:11:41",
       "album": {
-        "name": "Success",
-        "url": "https://open.spotify.com/album/7K4xHrateeQtpa7n3bV0XN"
+        "name": "32 Bore",
+        "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
       },
       "artists": [
         {
-          "name": "KD DESIROCK",
-          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+          "name": "Fazilpuria",
+          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+        },
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
         }
       ],
-      "duration_ms": 241957,
-      "name": "Success",
-      "url": "https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3"
+      "duration_ms": 144500,
+      "name": "32 Bore",
+      "url": "https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke"
     },
     {
       "added_at": "2023-11-09 07:11:41",
@@ -783,6 +787,26 @@
     {
       "added_at": "2023-11-09 07:11:41",
       "album": {
+        "name": "Bagdadi",
+        "url": "https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW"
+      },
+      "artists": [
+        {
+          "name": "Semicolon",
+          "url": "https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh"
+        },
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Bagdadi",
+      "url": "https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN"
+    },
+    {
+      "added_at": "2023-11-09 07:11:41",
+      "album": {
         "name": "Tabahi",
         "url": "https://open.spotify.com/album/5UTeuo86cat06VcIp7Nnrk"
       },
@@ -815,26 +839,6 @@
       "duration_ms": 306750,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/31olLVhKdDW291OezbnDZt"
-    },
-    {
-      "added_at": "2023-11-09 07:11:41",
-      "album": {
-        "name": "Bagdadi",
-        "url": "https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW"
-      },
-      "artists": [
-        {
-          "name": "Semicolon",
-          "url": "https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh"
-        },
-        {
-          "name": "Amanraj Gill",
-          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Bagdadi",
-      "url": "https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN"
     },
     {
       "added_at": "2023-11-09 07:11:41",
@@ -935,6 +939,22 @@
     {
       "added_at": "2023-11-09 07:11:41",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
+    },
+    {
+      "added_at": "2023-11-09 07:11:41",
+      "album": {
         "name": "Sneeze",
         "url": "https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o"
       },
@@ -951,22 +971,6 @@
       "duration_ms": 256363,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ"
-    },
-    {
-      "added_at": "2023-11-09 07:11:41",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
-      },
-      "artists": [
-        {
-          "name": "Devender Ahlawat",
-          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
     },
     {
       "added_at": "2023-11-09 07:11:41",

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-268 songs - 19 hr 28 min
+269 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,13 +134,14 @@
 | [Los Ángeles](https://open.spotify.com/track/0wktf3rQq4TkP9iX3vaMnN) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Los Ángeles](https://open.spotify.com/album/1vKoozkUisDPH7Jkg7NnDL) | 6:53 | 2021-11-26 | 2022-07-17 |
 | [Luz](https://open.spotify.com/track/6d4QWvybqNvVZdWaIYGKvN) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ), [Paraísos Invisibles](https://open.spotify.com/artist/1erxvcprhrVPO5JcQTIkTq) | [Luz](https://open.spotify.com/album/3cSmSTHftrJ1BMdoNfM4ao) | 3:51 | 2022-04-15 | 2022-07-14 |
 | [Maajo](https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 9:06 | 2022-04-15 | 2023-11-06 |
+| [Maajo](https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl) | 9:06 | 2023-02-13 |  |
 | [Maleza](https://open.spotify.com/track/6thXjSpWtLHJL72kXLgOkI) | [Reptila](https://open.spotify.com/artist/3iITPOD4UlvqOYr6OYEnWN), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Maleza](https://open.spotify.com/album/6r9lWGNWCFR0pvef7vMIGV) | 4:19 | 2021-11-26 | 2022-06-05 |
 | [Mama Clo](https://open.spotify.com/track/1yOhCkYRiXZF8eB4JhJvx5) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:41 | 2023-02-13 |  |
 | [Mama Clo](https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Escape Plan](https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg) | 3:41 | 2022-04-15 | 2023-04-30 |
 | [Mama Clo](https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Mama Clo](https://open.spotify.com/album/2zq7CXbAWx4JcraR3Lghn8) | 3:44 | 2021-11-26 | 2022-07-29 |
 | [Mamakumba](https://open.spotify.com/track/5ChVKFg7u4c3ebjuICumUD) | [Vitu Valera](https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45) | [KUMBA](https://open.spotify.com/album/6kARIV1QmKZnKpxWBLXfnf) | 4:04 | 2021-11-26 | 2022-06-21 |
 | [Manana Tepotzlan](https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/290Qd3iRmfn85z6YGpCE7X) | 4:00 | 2021-11-26 | 2022-07-29 |
-| [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 | 2023-02-13 |  |
+| [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 | 2023-02-13 | 2023-11-16 |
 | [Mano de Fatima](https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt) | 3:55 | 2022-04-15 | 2023-05-01 |
 | [Mano de Fatima](https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [Mano de Fatima](https://open.spotify.com/album/6ZJ6wDxhI7dvFnw8abL199) | 3:55 | 2022-02-18 | 2022-07-28 |
 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 | 2022-04-15 | 2022-04-19 |

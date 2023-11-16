@@ -3684,10 +3684,28 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-16",
       "duration_ms": 204346,
       "name": "Volando Voy",
       "url": "https://open.spotify.com/track/6YksxWWmhFOZjMfh3eRyYk"
+    },
+    {
+      "album": {
+        "name": "B\u00e1sicos",
+        "url": "https://open.spotify.com/album/2MhwQcjzoXqbGbQEQL9d4w"
+      },
+      "artists": [
+        {
+          "name": "Camaron De La Isla",
+          "url": "https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Volando Voy - Rumba",
+      "url": "https://open.spotify.com/track/0pHBZV2V9dVjwqOmkjZFJY"
     },
     {
       "album": {

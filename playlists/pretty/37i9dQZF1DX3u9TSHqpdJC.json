@@ -1,13 +1,241 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Lauren Presley",
-  "num_followers": 197669,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Georgia Lines",
+  "num_followers": 197770,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTM0ZjgxMzBkMDYyNGIxZTAzOWU0ZmNlMDJhOTJmNjZjNzg2NDA4",
+  "snapshot_id": "MCw4N2QwODk1YWU3MTNlZDRjYWFjNDNjY2NkZjhjMGFiNWMwMTg4Mzcz",
   "tracks": [
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/1dzlLlAmnoDHsPnGlLEZr7"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/034hnKKD4lRG2QkizYbKV3"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "I Know What It Isn't",
+        "url": "https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 183057,
+      "name": "I Know What It Isn't",
+      "url": "https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "\u201cgaslighting isn\u2019t real, you\u2019re just mental\u201d",
+        "url": "https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34"
+      },
+      "artists": [
+        {
+          "name": "ZELA",
+          "url": "https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg"
+        }
+      ],
+      "duration_ms": 146581,
+      "name": "\u201cgaslighting isn\u2019t real, you\u2019re just mental\u201d",
+      "url": "https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "The Wishing, The Wanting, The Longing",
+        "url": "https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl"
+      },
+      "artists": [
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 170046,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/2GUSKl55bHEw5VAEBuFy06"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/2icqrYhpdEdvYusjRpT0gv"
+      },
+      "artists": [
+        {
+          "name": "Ghita",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/2T6CVkkinYWRjtQNt5yW3T"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Lonely Times",
+        "url": "https://open.spotify.com/album/6flM8jP0kU0GPCf8Lt7sDX"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "Lonely Times",
+      "url": "https://open.spotify.com/track/2RS2WXaaZ1CVZE0mLjxoG5"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "How I'm Feeling RN",
+        "url": "https://open.spotify.com/album/3OSQV3FhvaU8mRgNCAfyLz"
+      },
+      "artists": [
+        {
+          "name": "YAHYAH",
+          "url": "https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w"
+        }
+      ],
+      "duration_ms": 140471,
+      "name": "How I'm Feeling RN",
+      "url": "https://open.spotify.com/track/5msuLxjcITTO9icJapP09i"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Still Think You Do",
+        "url": "https://open.spotify.com/album/2dZwOcKSlPXF0avepEFyXy"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "duration_ms": 219608,
+      "name": "Still Think You Do",
+      "url": "https://open.spotify.com/track/2ADYaUJ8i9ElvjStgLjhLT"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0umWCbaDIHnRU7Q989s0nd"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "duration_ms": 219922,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "On My Case",
+        "url": "https://open.spotify.com/album/7pqTEZ3qTni4OeKnWNAfGt"
+      },
+      "artists": [
+        {
+          "name": "Ziad",
+          "url": "https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "On My Case",
+      "url": "https://open.spotify.com/track/4daIlFvuwNMRlxvIJ4utiC"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/2izRSGXE76YbU1TCa9trwF"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/4CVEnCLKmJeBTVnE3uxqxZ"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "Broken Desires",
+        "url": "https://open.spotify.com/album/5ftOLlxs9Z44Rk4GBSEeTA"
+      },
+      "artists": [
+        {
+          "name": "Lalu",
+          "url": "https://open.spotify.com/artist/3EeikbdxXtVV1PsTiXQbLs"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Broken Desires",
+      "url": "https://open.spotify.com/track/0ASWCy5V3j4tsDGUEP6x2T"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "DIED IN THIS TOWN",
+        "url": "https://open.spotify.com/album/5JA19XuQ733FcCNW9tze1w"
+      },
+      "artists": [
+        {
+          "name": "MissYou",
+          "url": "https://open.spotify.com/artist/4yOXdm7tRLOGo58R8VxyPn"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "DIED IN THIS TOWN",
+      "url": "https://open.spotify.com/track/5a3kF1MSMemv5DqRa3XnBq"
+    },
+    {
+      "added_at": "2023-11-15 05:00:00",
+      "album": {
+        "name": "CAN\u2019T LIVE LIKE THIS",
+        "url": "https://open.spotify.com/album/5sZynIno31Yf8PoPzJcLvd"
+      },
+      "artists": [
+        {
+          "name": "ehren",
+          "url": "https://open.spotify.com/artist/4Rl5fXjUzKsp4dQQsvUYAw"
+        },
+        {
+          "name": "Michael Stensland",
+          "url": "https://open.spotify.com/artist/2dIXpRkzjOojO35cWYuJq7"
+        }
+      ],
+      "duration_ms": 190079,
+      "name": "CAN\u2019T LIVE LIKE THIS",
+      "url": "https://open.spotify.com/track/22YhuWtOyPlsHWGHTbUItE"
+    },
     {
       "added_at": "2023-11-08 04:00:00",
       "album": {
@@ -623,54 +851,6 @@
     {
       "added_at": "2023-10-04 14:00:29",
       "album": {
-        "name": "Knock,",
-        "url": "https://open.spotify.com/album/2vcW1BucVQMfVGN5LLb8XF"
-      },
-      "artists": [
-        {
-          "name": "Heather Russell",
-          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
-        }
-      ],
-      "duration_ms": 214436,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/65ybsaE29ZYqelgjXSc7xd"
-    },
-    {
-      "added_at": "2023-10-04 14:00:29",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 134550,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6"
-    },
-    {
-      "added_at": "2023-10-04 14:00:29",
-      "album": {
-        "name": "Teach Me How To Love",
-        "url": "https://open.spotify.com/album/1TPjPKBB0IHkg7vR90ACsg"
-      },
-      "artists": [
-        {
-          "name": "Laraw",
-          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/7cqYcFDDCD9ipzdUqK1yvC"
-    },
-    {
-      "added_at": "2023-10-04 14:00:29",
-      "album": {
         "name": "Backseat Driver",
         "url": "https://open.spotify.com/album/6uP6H8cvDYJUzKV1hoi0cT"
       },
@@ -755,22 +935,6 @@
     {
       "added_at": "2023-09-27 04:11:21",
       "album": {
-        "name": "Sick Kisses",
-        "url": "https://open.spotify.com/album/2uyHyfER1KDOzu2j9C4eJe"
-      },
-      "artists": [
-        {
-          "name": "Liam Barrack",
-          "url": "https://open.spotify.com/artist/6J3nuRRUXPFTFGcWcOJvtG"
-        }
-      ],
-      "duration_ms": 213622,
-      "name": "Sick Kisses",
-      "url": "https://open.spotify.com/track/7qpWRfeB4KVRFA0UyjJcdF"
-    },
-    {
-      "added_at": "2023-09-27 04:11:21",
-      "album": {
         "name": "Stupid Little Party Girl",
         "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
       },
@@ -783,38 +947,6 @@
       "duration_ms": 179936,
       "name": "Stupid Little Party Girl",
       "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
-    },
-    {
-      "added_at": "2023-09-27 04:11:21",
-      "album": {
-        "name": "bololo",
-        "url": "https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE"
-      },
-      "artists": [
-        {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "bololo",
-      "url": "https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg"
-    },
-    {
-      "added_at": "2023-09-27 04:11:21",
-      "album": {
-        "name": "HEARTBREAK ON ANTIDEPRESSANTS",
-        "url": "https://open.spotify.com/album/25GJThOpJF9irGYwIFNdgW"
-      },
-      "artists": [
-        {
-          "name": "DONT MAKE THIS WEIRD",
-          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "HEARTBREAK ON ANTIDEPRESSANTS",
-      "url": "https://open.spotify.com/track/73Ftztx5R2t7VI9X0BabGq"
     },
     {
       "added_at": "2023-09-20 14:26:31",
@@ -842,6 +974,10 @@
         {
           "name": "Savannah Bleu",
           "url": "https://open.spotify.com/artist/0aMRKrBdQ372cexSXGl4Wv"
+        },
+        {
+          "name": "The Audibles",
+          "url": "https://open.spotify.com/artist/36XnjfEuI5iOO7b5s97a1Y"
         }
       ],
       "duration_ms": 171768,
@@ -1201,22 +1337,6 @@
       "url": "https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV"
     },
     {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Done With Boys",
@@ -1249,22 +1369,6 @@
       "url": "https://open.spotify.com/track/58tcnu6VU8M5Zg8XCgNDA4"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/2AthEJwD90TjA1CKwNZxpw"
-      },
-      "artists": [
-        {
-          "name": "Liam Benayon",
-          "url": "https://open.spotify.com/artist/4zROkwJW2Zf8SpYCmY4nhR"
-        }
-      ],
-      "duration_ms": 136678,
-      "name": "Next Chapter",
-      "url": "https://open.spotify.com/track/2gVK2Sq3JJf6qR8WtIgWQq"
-    },
-    {
       "added_at": "2023-08-23 04:00:00",
       "album": {
         "name": "Saturday",
@@ -1281,22 +1385,6 @@
       "url": "https://open.spotify.com/track/1pKKk3iHUA1ZeNbXyjF86a"
     },
     {
-      "added_at": "2023-08-09 04:00:00",
-      "album": {
-        "name": "cheater",
-        "url": "https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw"
-      },
-      "artists": [
-        {
-          "name": "Savana Santos",
-          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "cheater",
-      "url": "https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3"
-    },
-    {
       "added_at": "2023-08-16 04:07:32",
       "album": {
         "name": "Love Hate",
@@ -1311,22 +1399,6 @@
       "duration_ms": 234200,
       "name": "Love Hate",
       "url": "https://open.spotify.com/track/4udUDuv1M2Sqwnn07Ll6M0"
-    },
-    {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "care about myself",
-        "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
-      },
-      "artists": [
-        {
-          "name": "N3WYRKLA",
-          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
-        }
-      ],
-      "duration_ms": 195262,
-      "name": "care about myself",
-      "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
     },
     {
       "added_at": "2023-08-09 04:00:00",
@@ -1375,22 +1447,6 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2023-08-09 04:00:00",
-      "album": {
-        "name": "DEATH WOBBLES",
-        "url": "https://open.spotify.com/album/2JIjtWEfyzVyX07CVNXqDF"
-      },
-      "artists": [
-        {
-          "name": "CODY JON",
-          "url": "https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD"
-        }
-      ],
-      "duration_ms": 172060,
-      "name": "DEATH WOBBLES",
-      "url": "https://open.spotify.com/track/34DkUYoVpTrko0yxYSC6W0"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1455,22 +1511,6 @@
       "duration_ms": 173949,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb"
-    },
-    {
-      "added_at": "2023-06-28 04:00:00",
-      "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/3OkY4DMLxZB2sWba7tq0AM"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 171331,
-      "name": "Downer",
-      "url": "https://open.spotify.com/track/0jPDjdJs83zdeMBdfeYM6W"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -1647,22 +1687,6 @@
       "duration_ms": 183167,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
-    },
-    {
-      "added_at": "2023-05-03 04:00:00",
-      "album": {
-        "name": "What's Going On !",
-        "url": "https://open.spotify.com/album/5rCGxHBPgoLfqLou8MbyzZ"
-      },
-      "artists": [
-        {
-          "name": "syd B",
-          "url": "https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr"
-        }
-      ],
-      "duration_ms": 183944,
-      "name": "No Competition",
-      "url": "https://open.spotify.com/track/2suZEP7Ksg0ozl91PzdGkV"
     },
     {
       "added_at": "2023-04-26 04:00:00",
