@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=64RR35CJRrO21DYYIA0ueg\">Karlien Van Jaarsveld</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=vyavmvxSRq27umcMW9YLJQ\">Samantha Leonard</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 169412,
       "name": "'n Brein Met 'n Bloukol",
       "url": "https://open.spotify.com/track/1Nax5KwgOCtsPVq3avYnaD"
@@ -56,6 +56,28 @@
       "duration_ms": 236572,
       "name": "10 Uit 10",
       "url": "https://open.spotify.com/track/0Y8MPTdUEx4HKVSJKLu4Wl"
+    },
+    {
+      "album": {
+        "name": "1032",
+        "url": "https://open.spotify.com/album/7Cq1xDnyrua7WcMmW5qqHw"
+      },
+      "artists": [
+        {
+          "name": "SAMPAULE",
+          "url": "https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8"
+        },
+        {
+          "name": "Malindi Burden",
+          "url": "https://open.spotify.com/artist/05rsFl6SVvkXBttlxiVoYJ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "1032",
+      "url": "https://open.spotify.com/track/2mebViZ624t1CRfTwGOklb"
     },
     {
       "album": {
@@ -2451,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Doen jou bes",
+        "url": "https://open.spotify.com/album/7faIOqsaHaoznZEYyP5YB7"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168669,
+      "name": "Doen jou bes",
+      "url": "https://open.spotify.com/track/3abRd4MyED6FwCIUa1p2HM"
+    },
+    {
+      "album": {
         "name": "Dogter",
         "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
       },
@@ -2484,6 +2524,24 @@
       "duration_ms": 151861,
       "name": "Dolla",
       "url": "https://open.spotify.com/track/76sB2FlXnGnayUOR10SJwu"
+    },
+    {
+      "album": {
+        "name": "Donderweer",
+        "url": "https://open.spotify.com/album/2PSE7TivDq20zvKKmrX9NB"
+      },
+      "artists": [
+        {
+          "name": "Christi van Niekerk",
+          "url": "https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "Donderweer",
+      "url": "https://open.spotify.com/track/2Mbm7JfWTVoUQNxGfiLaPs"
     },
     {
       "album": {
@@ -3282,7 +3340,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 203307,
       "name": "Groenlig",
       "url": "https://open.spotify.com/track/02LfA4rOmSeVgk9koPe3y9"
@@ -3518,7 +3576,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 226792,
       "name": "Hemel se Deur",
       "url": "https://open.spotify.com/track/3wZYtFzzcrowIquMHaX2pY"
@@ -4250,7 +4308,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 179815,
       "name": "Is Als Beter?",
       "url": "https://open.spotify.com/track/59mgZs1odLmx1IqVNV5uBx"
@@ -4322,7 +4380,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 195361,
       "name": "Janneman",
       "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
@@ -5739,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Liefde Uit Die Oudedoos",
+        "url": "https://open.spotify.com/album/3fMROGZiftmorNyaHsVVMR"
+      },
+      "artists": [
+        {
+          "name": "Die donker kind",
+          "url": "https://open.spotify.com/artist/75DO8t7I030BGm8Ga9dh6v"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Liefde Uit Die Oudedoos",
+      "url": "https://open.spotify.com/track/51xYOwVyPYaOKtEgvJlHZz"
+    },
+    {
+      "album": {
         "name": "Liefdeskind",
         "url": "https://open.spotify.com/album/5a5a6LVsGeQYCIorRccgSU"
       },
@@ -5920,6 +5996,24 @@
       "duration_ms": 220256,
       "name": "Lila",
       "url": "https://open.spotify.com/track/351JOqEHuxsQ8p85u5Hqr4"
+    },
+    {
+      "album": {
+        "name": "Los My",
+        "url": "https://open.spotify.com/album/6uc5ryW3seUi5tem6VHFJM"
+      },
+      "artists": [
+        {
+          "name": "Samantha Leonard",
+          "url": "https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "Los My",
+      "url": "https://open.spotify.com/track/4V80FJoQ4F8683QSJTr4o1"
     },
     {
       "album": {
@@ -6331,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "Moet Jou H\u00ea",
+        "url": "https://open.spotify.com/album/1NGnSug5g0XOiLJD9dTscu"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "Moet Jou H\u00ea",
+      "url": "https://open.spotify.com/track/1lx6eYKW9uucqpUNwiie9N"
+    },
+    {
+      "album": {
         "name": "Money Moves",
         "url": "https://open.spotify.com/album/6tOaJp6D6jf2In3yo9CcYX"
       },
@@ -6470,6 +6582,28 @@
       "duration_ms": 186439,
       "name": "My Hele Lyf - Live",
       "url": "https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF"
+    },
+    {
+      "album": {
+        "name": "My liefde, my lied",
+        "url": "https://open.spotify.com/album/276L9IedfE3JGIIvwE5ZBr"
+      },
+      "artists": [
+        {
+          "name": "Nic Stevens",
+          "url": "https://open.spotify.com/artist/7HewgYV6z7Lmp9kZvHyWqr"
+        },
+        {
+          "name": "Leandri Martin",
+          "url": "https://open.spotify.com/artist/23vhLfPvdSy4JeT9YqAN1m"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247520,
+      "name": "My liefde, my lied",
+      "url": "https://open.spotify.com/track/3wtzEs59UmulYnkHxvp59n"
     },
     {
       "album": {
@@ -6622,6 +6756,24 @@
       "duration_ms": 166861,
       "name": "Naghoedjie",
       "url": "https://open.spotify.com/track/7dXP7V8VHHuU4Cv6EhYxnD"
+    },
+    {
+      "album": {
+        "name": "Staal Tarentaal",
+        "url": "https://open.spotify.com/album/2J6Awfg32NXdqIx5Kw29QV"
+      },
+      "artists": [
+        {
+          "name": "Die See",
+          "url": "https://open.spotify.com/artist/4C5Zzp25eOugvSULzxV7v0"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191090,
+      "name": "Nagkabaai",
+      "url": "https://open.spotify.com/track/7FeJHsVM6vhKRTQ5LEgUlN"
     },
     {
       "album": {
@@ -7376,6 +7528,24 @@
       "duration_ms": 178730,
       "name": "Ons Is Die Vuur",
       "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
+    },
+    {
+      "album": {
+        "name": "Ons Sal Jonk Bly",
+        "url": "https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265321,
+      "name": "Ons Sal Jonk Bly",
+      "url": "https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r"
     },
     {
       "album": {
@@ -8170,7 +8340,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 164827,
       "name": "Ruggas",
       "url": "https://open.spotify.com/track/26Bwk9fGWYxc6TevBQcfFC"
@@ -8392,6 +8562,24 @@
       "duration_ms": 184693,
       "name": "Sannie Die Loopdop",
       "url": "https://open.spotify.com/track/4IfngqUmK5sNeRfZBl5amD"
+    },
+    {
+      "album": {
+        "name": "Saterdag",
+        "url": "https://open.spotify.com/album/79O0Ope2la6IMayEpGGbmZ"
+      },
+      "artists": [
+        {
+          "name": "Arno Venter",
+          "url": "https://open.spotify.com/artist/6L3Uhc9Pr2KQjB5s9uvbQW"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208896,
+      "name": "Saterdag",
+      "url": "https://open.spotify.com/track/3iE21rnTTVGV7CzauyHSfG"
     },
     {
       "album": {
@@ -8938,7 +9126,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 205000,
       "name": "Soos 'n Brander",
       "url": "https://open.spotify.com/track/26OhBbnbYB8K3Qj0nyP4JN"
@@ -9094,7 +9282,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 218555,
       "name": "Sprokie vir 'n Stadskind",
       "url": "https://open.spotify.com/track/1pvn5verOnhj7ej5zpHqeu"
@@ -9156,6 +9344,24 @@
       "duration_ms": 190327,
       "name": "Stap Soldaat",
       "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
+    },
+    {
+      "album": {
+        "name": "Ek's Steeds Onstabiel",
+        "url": "https://open.spotify.com/album/7mb08dPHproJ6phCbj54XM"
+      },
+      "artists": [
+        {
+          "name": "Kabaal Klankbaan",
+          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Stapelgek",
+      "url": "https://open.spotify.com/track/4yz3j0payc2shEOAkmV0rR"
     },
     {
       "album": {
@@ -9719,6 +9925,24 @@
     },
     {
       "album": {
+        "name": "Verbeel",
+        "url": "https://open.spotify.com/album/6XDIiLnBhSSaw0ratorSYM"
+      },
+      "artists": [
+        {
+          "name": "Phillip",
+          "url": "https://open.spotify.com/artist/281XJeBYeOa7LBfZx48NmY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232044,
+      "name": "Terwyl Die W\u00eareld Bewe",
+      "url": "https://open.spotify.com/track/76zcQy3nBX1rFlYMU4JutK"
+    },
+    {
+      "album": {
         "name": "Tien Teen Een",
         "url": "https://open.spotify.com/album/1OlbKMuA03JSk1vkQZK6Sd"
       },
@@ -9944,6 +10168,24 @@
       "duration_ms": 138994,
       "name": "Tydloos",
       "url": "https://open.spotify.com/track/5rAsPBK1KpPgI9kKFv5lpV"
+    },
+    {
+      "album": {
+        "name": "U Liefde",
+        "url": "https://open.spotify.com/album/3MViCQgWxzK1ACuHX6Rr6n"
+      },
+      "artists": [
+        {
+          "name": "Chris Duvenage",
+          "url": "https://open.spotify.com/artist/1p3GqqXMmPVzDnpqhWCf6O"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "U Liefde",
+      "url": "https://open.spotify.com/track/4x1spLrDyKohB9NCr7YaVu"
     },
     {
       "album": {
@@ -11082,7 +11324,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 202654,
       "name": "Weet Jy Raak Moeg Vir My",
       "url": "https://open.spotify.com/track/26o3ww91w5jyTvULK0vUsl"
@@ -11176,6 +11418,24 @@
       "duration_ms": 169194,
       "name": "Wildman",
       "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
+    },
+    {
+      "album": {
+        "name": "Wildste Vreemdeling",
+        "url": "https://open.spotify.com/album/5WDP5EfupMkffjA0QViRy1"
+      },
+      "artists": [
+        {
+          "name": "Aya Nixon",
+          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199732,
+      "name": "Wildste Vreemdeling",
+      "url": "https://open.spotify.com/track/4Hmk5EV45y0YKDvHr5qbuN"
     },
     {
       "album": {

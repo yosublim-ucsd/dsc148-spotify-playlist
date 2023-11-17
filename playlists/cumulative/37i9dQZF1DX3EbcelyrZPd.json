@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: G Nako",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Navy Kenzo",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/16fg1IYAkOpS2hdzltwys7"
+      },
+      "artists": [
+        {
+          "name": "Navy Kenzo",
+          "url": "https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167209,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/56y1MbtIRUbWUsR7pBE5ub"
+    },
+    {
+      "album": {
         "name": "Fofofo (feat. Young Lunya)",
         "url": "https://open.spotify.com/album/2T9whvgRUn0rG84dz9h5CU"
       },
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 225306,
       "name": "Huruma (feat. Barnaba)",
       "url": "https://open.spotify.com/track/1Nch97rBUl65eO5HBlZPro"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 252857,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK"
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 209266,
       "name": "Nalego",
       "url": "https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn"
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 213756,
       "name": "Nitasema",
       "url": "https://open.spotify.com/track/0HSlAMhB61Bk9Y1wU6jyeZ"
@@ -4468,6 +4486,24 @@
       "duration_ms": 169696,
       "name": "Pepetua",
       "url": "https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3"
+    },
+    {
+      "album": {
+        "name": "Person Trainer",
+        "url": "https://open.spotify.com/album/0p7jZXKorzMKp1L7wnZCUN"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108060,
+      "name": "Person Trainer",
+      "url": "https://open.spotify.com/track/6bx50I5tIyj8J24OM7zRK8"
     },
     {
       "album": {
@@ -5175,6 +5211,28 @@
     },
     {
       "album": {
+        "name": "Chafu 3",
+        "url": "https://open.spotify.com/album/5GeGp5OCFZ5yyZkLIFweuo"
+      },
+      "artists": [
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        },
+        {
+          "name": "Chino Kidd",
+          "url": "https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165627,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/1CXIRZwIuG7qppmYYg6RD1"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/0tQvHv3J5vXMHBMa42vj9u"
       },
@@ -5446,6 +5504,28 @@
       "duration_ms": 191096,
       "name": "Teacher",
       "url": "https://open.spotify.com/track/56taTMDQvkZmt3veeCnedl"
+    },
+    {
+      "album": {
+        "name": "Teamo",
+        "url": "https://open.spotify.com/album/6YOFDhmwY7E50WLe8v0Vpe"
+      },
+      "artists": [
+        {
+          "name": "GENIUSJINI X66",
+          "url": "https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW"
+        },
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203937,
+      "name": "Teamo",
+      "url": "https://open.spotify.com/track/71KydYgv1zsyFfnk08FLhW"
     },
     {
       "album": {

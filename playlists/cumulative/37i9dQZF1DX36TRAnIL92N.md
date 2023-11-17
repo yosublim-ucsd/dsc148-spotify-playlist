@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-197 songs - 17 hr 50 min
+198 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 | 2022-07-05 | 2023-10-15 |
 | [Freedom](https://open.spotify.com/track/3Hmg1WPr7lkT3LAhcnOCHz) | [ONEDEFINED](https://open.spotify.com/artist/4SUQ1GFY0jmck4xkXmMKlk) | [Freedom EP](https://open.spotify.com/album/7meoHVlBOdeYuP3hFU4I89) | 8:02 | 2022-07-05 | 2022-07-29 |
 | [Frequency Differ \- Original Mix](https://open.spotify.com/track/2XGdv6M567kqNoWLm3KcS3) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Frequency Differ](https://open.spotify.com/album/03bFwiXnO9uziaWFdN0DyQ) | 6:49 | 2022-07-05 | 2022-07-28 |
+| [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 | 2023-11-10 |  |
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2022-07-05 | 2023-11-05 |
 | [Ghost To The Galaxy](https://open.spotify.com/track/1YhEfPqQq9Z0quKIUtEx5U) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Ghost To The Galaxy](https://open.spotify.com/album/5hqSfFWaIknbKD1gJRDE1f) | 6:27 | 2023-02-01 | 2023-02-11 |
 | [Golden Door](https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Golden Door](https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP) | 7:37 | 2023-02-01 | 2023-03-04 |
@@ -163,7 +164,7 @@
 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 | 2022-07-05 | 2022-11-26 |
 | [Switch Play](https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Switch Play](https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG) | 3:34 | 2022-07-05 | 2022-08-11 |
 | [Synergy \- Nonameleft Remix](https://open.spotify.com/track/3fPucR04bxFLQgD8qHl8Pq) | [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Synergy](https://open.spotify.com/album/15PPWV7GO8IGjqrKHDW1dS) | 6:50 | 2022-07-11 | 2022-07-13 |
-| [Take You Higher](https://open.spotify.com/track/1UdP4gLeahMZAqZyoNnDBN) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Take You Higher](https://open.spotify.com/album/5A7VgzMdiSsy3GFIhwGwLA) | 3:34 | 2023-10-13 |  |
+| [Take You Higher](https://open.spotify.com/track/1UdP4gLeahMZAqZyoNnDBN) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Take You Higher](https://open.spotify.com/album/5A7VgzMdiSsy3GFIhwGwLA) | 3:34 | 2023-10-13 | 2023-11-17 |
 | [Teatro](https://open.spotify.com/track/5wDHm6XJA1vkysHDPdI8Db) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Teatro](https://open.spotify.com/album/6t3Zksrkbhfkf8UOzBVn9k) | 6:44 | 2022-10-28 | 2022-11-17 |
 | [Techno Acid 303](https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Techno Acid 303](https://open.spotify.com/album/1qo26STwNIEujdeZ2S4IyG) | 3:50 | 2023-10-13 |  |
 | [Terra](https://open.spotify.com/track/5sxjDcq1CPIQ6pmLbMRY1o) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Terra](https://open.spotify.com/album/2HE22ZqykGRTdLjqrTJuVN) | 6:50 | 2022-07-05 | 2022-07-28 |

@@ -7313,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Tired Traveler",
+        "url": "https://open.spotify.com/album/1FGtXSTrmT4nPEhTUQOw62"
+      },
+      "artists": [
+        {
+          "name": "Choo Choo Baby",
+          "url": "https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125480,
+      "name": "Tired Traveler",
+      "url": "https://open.spotify.com/track/00jGOvVYjfgXYpHkxurrEJ"
+    },
+    {
+      "album": {
         "name": "Two Rosy Cheeks",
         "url": "https://open.spotify.com/album/6xYOdqYLLdGumrsoSKyhVU"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114877,
+  "num_followers": 114885,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM3NDU3NzcxMGMyNzg0YjQ2MmNkODIwMDE4ZDRhNjM2YmY5OWU2",
+  "snapshot_id": "MCxlMjQ2Y2Q4NDc2YTBhYWQ0YmY5ODRjNjYwNWQ0NDdmN2YxZDU2NGNj",
   "tracks": [
     {
       "added_at": "2023-11-08 15:41:14",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Posa",
-        "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Zara Williams",
-          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Posa",
-      "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Posa",
+        "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Zara Williams",
+          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Posa",
+      "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Hapo Tu",
-        "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        },
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        }
-      ],
-      "duration_ms": 187555,
-      "name": "Hapo Tu",
-      "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Hapo Tu",
+        "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        },
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        }
+      ],
+      "duration_ms": 187555,
+      "name": "Hapo Tu",
+      "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
       },
       "artists": [
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
       },
       "artists": [
         {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
         }
       ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+      "duration_ms": 205400,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
-        }
-      ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
     },
     {
       "added_at": "2023-11-08 15:41:14",

@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Marta Del Grandi on cover. Updates every Wednesday.",
-  "num_followers": 121974,
+  "num_followers": 122161,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDgzMTRlM2E3ZDhkNzBmZGQyNzU4ZjIyYTc0OGFiM2RlODQzZGYx",
+  "snapshot_id": "MCwxMjMwMjFmZjE5NTVmNzE1OWNhZTg2MDYxZGFhYjA1ODE4YTM0ODA4",
   "tracks": [
     {
       "added_at": "2023-10-25 14:01:56",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/4DqoVq7KnfCguft72zY82M"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "Figura de Cristal",
-        "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
       "artists": [
         {
-          "name": "Estrella del Sol",
-          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Figura de Cristal",
-      "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
     },
     {
       "added_at": "2023-11-08 01:45:00",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi"
     },
     {
-      "added_at": "2023-10-18 18:20:20",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+        "name": "Figura de Cristal",
+        "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Estrella del Sol",
+          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
+      "duration_ms": 180000,
+      "name": "Figura de Cristal",
+      "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
     },
     {
       "added_at": "2023-11-15 16:30:18",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2023-08-10 05:46:09",
-      "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Step Outside This Area",
@@ -691,6 +675,22 @@
       "duration_ms": 600000,
       "name": "Fractus",
       "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
+    },
+    {
+      "added_at": "2023-08-10 05:46:09",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-10-11 18:36:09",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "k00ky",
-        "url": "https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5"
-      },
-      "artists": [
-        {
-          "name": "wh0wh0",
-          "url": "https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "k00ky",
-      "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
-    },
-    {
       "added_at": "2023-10-18 18:20:20",
       "album": {
         "name": "OH YA MA HA (Music From Airports) ICN-HAN-LPQ",
@@ -923,34 +907,18 @@
     {
       "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Compa\u00f1era de la pena",
-        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
+        "name": "k00ky",
+        "url": "https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5"
       },
       "artists": [
         {
-          "name": "REHHLL",
-          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
+          "name": "wh0wh0",
+          "url": "https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw"
         }
       ],
-      "duration_ms": 207021,
-      "name": "Compa\u00f1era de la pena",
-      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 297017,
-      "name": "The End of What?",
-      "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
+      "duration_ms": 179760,
+      "name": "k00ky",
+      "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -973,6 +941,38 @@
       "url": "https://open.spotify.com/track/0V0vY4Bqlm24GycZpOvNOd"
     },
     {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 297017,
+      "name": "The End of What?",
+      "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "Compa\u00f1era de la pena",
+        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
+      },
+      "artists": [
+        {
+          "name": "REHHLL",
+          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
+        }
+      ],
+      "duration_ms": 207021,
+      "name": "Compa\u00f1era de la pena",
+      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "RIFT (Ambient Version)",
@@ -987,38 +987,6 @@
       "duration_ms": 194000,
       "name": "State of Grace - Ambient Version",
       "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
-      },
-      "artists": [
-        {
-          "name": "Mejiwahn",
-          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
-        }
-      ],
-      "duration_ms": 196996,
-      "name": "October",
-      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Signals At Both Ears",
-        "url": "https://open.spotify.com/album/6eyXuQBXVEcv3KU5cZxXM8"
-      },
-      "artists": [
-        {
-          "name": "Gonubie",
-          "url": "https://open.spotify.com/artist/5GUhu2CDRcOkRLjmz4051y"
-        }
-      ],
-      "duration_ms": 354694,
-      "name": "Baiji Returns",
-      "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1037,6 +1005,38 @@
       "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
     },
     {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Signals At Both Ears",
+        "url": "https://open.spotify.com/album/6eyXuQBXVEcv3KU5cZxXM8"
+      },
+      "artists": [
+        {
+          "name": "Gonubie",
+          "url": "https://open.spotify.com/artist/5GUhu2CDRcOkRLjmz4051y"
+        }
+      ],
+      "duration_ms": 354694,
+      "name": "Baiji Returns",
+      "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
+      },
+      "artists": [
+        {
+          "name": "Mejiwahn",
+          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
+        }
+      ],
+      "duration_ms": 196996,
+      "name": "October",
+      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
+    },
+    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "RPG",
@@ -1051,22 +1051,6 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
-    },
-    {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Follow Your Heartbeat",
-        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
-      },
-      "artists": [
-        {
-          "name": "Hidden Tapes",
-          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "Follow Your Heartbeat",
-      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
     },
     {
       "added_at": "2023-11-08 01:45:00",
@@ -1085,20 +1069,20 @@
       "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "The Year of Pornography",
-        "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
+        "name": "Follow Your Heartbeat",
+        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
       },
       "artists": [
         {
-          "name": "August, Yours Truly",
-          "url": "https://open.spotify.com/artist/6JpmrFHdahRYn2FRpPdXX3"
+          "name": "Hidden Tapes",
+          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
         }
       ],
-      "duration_ms": 321076,
-      "name": "The Year of Pornography",
-      "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
+      "duration_ms": 171440,
+      "name": "Follow Your Heartbeat",
+      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1115,6 +1099,22 @@
       "duration_ms": 127652,
       "name": "Trementina",
       "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "The Year of Pornography",
+        "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
+      },
+      "artists": [
+        {
+          "name": "August, Yours Truly",
+          "url": "https://open.spotify.com/artist/6JpmrFHdahRYn2FRpPdXX3"
+        }
+      ],
+      "duration_ms": 321076,
+      "name": "The Year of Pornography",
+      "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1149,6 +1149,26 @@
       "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "Accela",
+        "url": "https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX"
+      },
+      "artists": [
+        {
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+        },
+        {
+          "name": "Sin Maldita",
+          "url": "https://open.spotify.com/artist/1HkwulQDUEiddSaIqlWTFJ"
+        }
+      ],
+      "duration_ms": 199150,
+      "name": "Viconian Cycles",
+      "url": "https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Cascara",
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Accela",
-        "url": "https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX"
-      },
-      "artists": [
-        {
-          "name": "Lila Tirando a Violeta",
-          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
-        },
-        {
-          "name": "Sin Maldita",
-          "url": "https://open.spotify.com/artist/1HkwulQDUEiddSaIqlWTFJ"
-        }
-      ],
-      "duration_ms": 199150,
-      "name": "Viconian Cycles",
-      "url": "https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO"
-    },
-    {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
         "name": "The Infinite Hour",
         "url": "https://open.spotify.com/album/7uNdcqyAS2lganZAE5FkTc"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 385016,
       "name": "Infinity of Stasis",
       "url": "https://open.spotify.com/track/4cIeV58evWPE5jInvjirNK"
-    },
-    {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
-      },
-      "artists": [
-        {
-          "name": "Naoko Sakata",
-          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
-        }
-      ],
-      "duration_ms": 475200,
-      "name": "Improvisation 15",
-      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1239,6 +1223,22 @@
       "duration_ms": 203940,
       "name": "The Video Game",
       "url": "https://open.spotify.com/track/34fOJJhPBB5RR1cRK5ogKz"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
+      },
+      "artists": [
+        {
+          "name": "Naoko Sakata",
+          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
+        }
+      ],
+      "duration_ms": 475200,
+      "name": "Improvisation 15",
+      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/58jFqGaWoYufUkm8ZKlH05"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Boundless",
-        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
-      },
-      "artists": [
-        {
-          "name": "David's Lyre",
-          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
-        }
-      ],
-      "duration_ms": 155903,
-      "name": "Boundless",
-      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Introduction / C (Featuring the Voice of Fred Moten)",
@@ -1323,6 +1307,22 @@
       "duration_ms": 263999,
       "name": "C (Featuring the Voice of Fred Moten)",
       "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
+      },
+      "artists": [
+        {
+          "name": "David's Lyre",
+          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
+        }
+      ],
+      "duration_ms": 155903,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1481,20 +1481,20 @@
       "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "small circle",
-        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
+        "name": "If Yer Dreamin",
+        "url": "https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ"
       },
       "artists": [
         {
-          "name": "Jason Calhoun",
-          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
+          "name": "Colin Miller",
+          "url": "https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw"
         }
       ],
-      "duration_ms": 515000,
-      "name": "small circle",
-      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
+      "duration_ms": 182000,
+      "name": "If Yer Dreamin",
+      "url": "https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1513,20 +1513,20 @@
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "If Yer Dreamin",
-        "url": "https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ"
+        "name": "small circle",
+        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
       },
       "artists": [
         {
-          "name": "Colin Miller",
-          "url": "https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw"
+          "name": "Jason Calhoun",
+          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
         }
       ],
-      "duration_ms": 182000,
-      "name": "If Yer Dreamin",
-      "url": "https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ"
+      "duration_ms": 515000,
+      "name": "small circle",
+      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "W1 Sprokla",
-        "url": "https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4"
-      },
-      "artists": [
-        {
-          "name": "Index For Working Musik",
-          "url": "https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK"
-        }
-      ],
-      "duration_ms": 734064,
-      "name": "W1 Sprokla",
-      "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Ultra-Materials",
@@ -1575,6 +1559,22 @@
       "duration_ms": 916500,
       "name": "Rhyolite",
       "url": "https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "W1 Sprokla",
+        "url": "https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4"
+      },
+      "artists": [
+        {
+          "name": "Index For Working Musik",
+          "url": "https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK"
+        }
+      ],
+      "duration_ms": 734064,
+      "name": "W1 Sprokla",
+      "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
     },
     {
       "added_at": "2023-10-18 18:20:20",

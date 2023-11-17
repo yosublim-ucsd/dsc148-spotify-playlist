@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Nice Dream",
+        "url": "https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt"
+      },
+      "artists": [
+        {
+          "name": "Loveholic",
+          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS"
+    },
+    {
+      "album": {
         "name": "Op. 4",
         "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 168320,
       "name": "Life Is Cool",
       "url": "https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW"

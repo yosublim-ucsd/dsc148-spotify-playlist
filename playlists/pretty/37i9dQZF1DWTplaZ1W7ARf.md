@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,482 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,493 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
 | 50 | [Forgot How To Cry](https://open.spotify.com/track/7eebNlfH4nRdgJQh8e3yMU) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Forgot How To Cry](https://open.spotify.com/album/7ik9Eg1awH6A2Hfh0kpYTX) | 2:59 |
 
-Snapshot ID: `MCwwMmRlNjczMzlhOTA4OTllYWM3NzY3OGU4NzRiNmExM2JmZTIyOWEz`
+Snapshot ID: `MCxlZmY1MzYzMWJmZTA3OGE4YzFmODliMWMyMDZjOTlhZmYwNGZjY2Q0`

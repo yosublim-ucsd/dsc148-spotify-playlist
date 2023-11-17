@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 64657,
+  "num_followers": 64659,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODRkNzc4M2JkYzIxNWMwNWM3NWM3MGIwN2RhZDY3MTc5N2MzMWIz",
+  "snapshot_id": "MCw5MDFjZTc1MTQ5MTRjZWIwZDI1MTE2NGFjMjM1Y2Q2OGViNWYyNmU4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -983,18 +983,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Ca\u00edda Libre",
-        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+        "name": "Mirada Speed",
+        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        },
+        {
+          "name": "Diana Flores",
+          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
         }
       ],
-      "duration_ms": 231050,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+      "duration_ms": 227992,
+      "name": "Mirada Speed",
+      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Mirada Speed",
-        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
       },
       "artists": [
         {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        },
-        {
-          "name": "Diana Flores",
-          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 227992,
-      "name": "Mirada Speed",
-      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
+      "duration_ms": 231050,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
     },
     {
       "added_at": "2023-03-10 05:01:00",

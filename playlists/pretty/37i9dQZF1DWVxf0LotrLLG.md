@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,276 likes - 202 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,306 likes - 202 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Propuesta Indecente](https://open.spotify.com/track/6dRglj2bWYG9ZHY00XN0la) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:42 |
 | 202 | [Perdidos](https://open.spotify.com/track/7r7PHXM7l9pvxNGCz8RmzL) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 3:43 |
 
-Snapshot ID: `MCxlMDg5NTk2MjE3NTY4NzY5MmE5NDFiMzNkNDY1ZTg5NjEwYjMxODRm`
+Snapshot ID: `MCxlYTQ5MDQzODdiYzExYmUwODNmNjQyMzYyYjkzNmEyNjJiOTQxNmFl`

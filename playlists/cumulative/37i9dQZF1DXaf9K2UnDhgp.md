@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-219 songs - 11 hr 58 min
+220 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Father Christmas](https://open.spotify.com/track/606bXynpjFXW1YLOkWCeeC) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Father Christmas](https://open.spotify.com/album/3Q70AtqjnWHfV7Sfvox7Jw) | 2:56 | 2021-11-26 | 2022-11-09 |
 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 | 2022-12-20 |  |
 | [Father Christmas](https://open.spotify.com/track/6M2vktau9g7DbSDySsco8e) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Picture Book](https://open.spotify.com/album/1YB1LqKpVsdtL9dmjhWXGf) | 3:40 | 2021-11-26 | 2022-07-29 |
-| [Father Christmas](https://open.spotify.com/track/0wtZQyqCVwaF5QuqkbHZT9) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Come Dancing with the Kinks \(The Best of the Kinks 1977\-1986\)](https://open.spotify.com/album/0JnB2CLFLJqHrqsCQr3auR) | 3:42 | 2021-11-26 |  |
+| [Father Christmas](https://open.spotify.com/track/6eiS2z4hXTZ2VsNBJHsvM3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Picture Book](https://open.spotify.com/album/74kgMXHNs79ChPu0xi8FAe) | 3:40 | 2023-10-25 |  |
+| [Father Christmas](https://open.spotify.com/track/0wtZQyqCVwaF5QuqkbHZT9) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Come Dancing with the Kinks \(The Best of the Kinks 1977\-1986\)](https://open.spotify.com/album/0JnB2CLFLJqHrqsCQr3auR) | 3:42 | 2021-11-26 | 2023-11-17 |
 | [Father Christmas](https://open.spotify.com/track/78EGvNWqufUQ8GnEW78w5A) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Merry Christmas Everyone: 50 Christmas Pop Classics](https://open.spotify.com/album/2Qd2W3WFfq48Eoi6FD7u5R) | 3:42 | 2022-11-09 | 2022-11-13 |
 | [Father Christmas](https://open.spotify.com/track/5L8JAy13dLqNeJE6M2bAQr) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Father Christmas](https://open.spotify.com/album/3cJPXPWAnO3dyBwoMDyuHU) | 3:22 | 2021-11-26 | 2022-11-09 |
 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 | 2021-11-26 |  |

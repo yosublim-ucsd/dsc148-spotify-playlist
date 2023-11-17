@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,688 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,748 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Yaari](https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B) | [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Yaari](https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN) | 2:29 |
 | 50 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |
 
-Snapshot ID: `MCxmMzE4MzczM2I5NjhhMTFiNWE4MjU2NjY3NjE0YzYxMjhmMzJjOGEy`
+Snapshot ID: `MCxjZjVhNjExMTZhZTMxYTRjODUwMjIyYzhjNTdmYjg4YzZmZDgxYjBk`

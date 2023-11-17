@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 292937,
+  "num_followers": 292970,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzY1Y2EwNzUxNjk1NTM0N2IxODBiM2M5NjA3ZjczOWJjYzNiNzVl",
+  "snapshot_id": "MCwxZTRlZGQ5NjI5MzQ3OGE2ZjkxNmFmYTY3NGYzYWYyYjJiMjk1NzU0",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 233946,
       "name": "Ironic - Live / Unplugged",
       "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "CPM 22 - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
+        "name": "A C\u00e9u Aberto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
       },
       "artists": [
         {
-          "name": "CPM 22",
-          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Regina Let's Go - Live",
-      "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
+      "duration_ms": 244733,
+      "name": "Dan\u00e7a do Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -707,34 +707,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
-        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+        "name": "CPM 22 - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
       },
       "artists": [
         {
-          "name": "NX Zero",
-          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+          "name": "CPM 22",
+          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "A C\u00e9u Aberto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Dan\u00e7a do Tempo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
+      "duration_ms": 176973,
+      "name": "Regina Let's Go - Live",
+      "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
+        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "City Of Angels (Piano Version)",
-        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 262185,
-      "name": "City Of Angels - Piano Version",
-      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+        "name": "City Of Angels (Piano Version)",
+        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+      "duration_ms": 262185,
+      "name": "City Of Angels - Piano Version",
+      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Rock Ac\u00fastico Nacional",
-        "url": "https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm"
+        "name": "Rock Brasileiro",
+        "url": "https://open.spotify.com/album/1RK1b09Jzt9c78iAU3o4lY"
       },
       "artists": [
         {
@@ -1242,7 +1242,7 @@
       ],
       "duration_ms": 151666,
       "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN"
+      "url": "https://open.spotify.com/track/3la3tXndnn0xnlm8y1Z3Kv"
     }
   ],
   "unique_name": "Rock Ac\u00fastico",

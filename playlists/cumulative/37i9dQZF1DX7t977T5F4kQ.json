@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=LG-IJqKLQD6XidzfrXs5_A\"> Herman Suede </a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw?si=zHeqTQBjSlCgMpPiuLyaYQ\"> Quamina MP </a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -430,6 +430,28 @@
       "duration_ms": 212950,
       "name": "Aviator",
       "url": "https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3LjAal9dJ9uYSwZWFxyaah"
+      },
+      "artists": [
+        {
+          "name": "Ayesem",
+          "url": "https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9"
+        },
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p"
     },
     {
       "album": {
@@ -1179,6 +1201,32 @@
     },
     {
       "album": {
+        "name": "Danc\u00e9",
+        "url": "https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "M.O.G Beatz",
+          "url": "https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199646,
+      "name": "Danc\u00e9",
+      "url": "https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a"
+    },
+    {
+      "album": {
         "name": "Deserve",
         "url": "https://open.spotify.com/album/0WQa7tJ01bmefEoYHEhxLp"
       },
@@ -1194,6 +1242,24 @@
       "duration_ms": 193184,
       "name": "Deserve",
       "url": "https://open.spotify.com/track/2RXrtUrY8dE2ZFtKfTJmKs"
+    },
+    {
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/5wkIu7FT32wFoCGM81cRwJ"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144312,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4IMmrj6wSiWwmPUGCDzXZU"
     },
     {
       "album": {
@@ -2180,6 +2246,24 @@
       "duration_ms": 131219,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7"
+    },
+    {
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233712,
+      "name": "Inspector",
+      "url": "https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp"
     },
     {
       "album": {
@@ -4770,6 +4854,24 @@
       "duration_ms": 165000,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd"
+      },
+      "artists": [
+        {
+          "name": "Banzy Banero",
+          "url": "https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203755,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1"
     },
     {
       "album": {

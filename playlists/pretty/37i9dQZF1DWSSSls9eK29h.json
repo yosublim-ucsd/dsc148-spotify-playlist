@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 125695,
+  "num_followers": 125759,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDc5OGExNGQzODAwYjkwMDE4ZDM5ODgwZmNlYmRiNjlhMzc5ZDBm",
+  "snapshot_id": "MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Long Night Out",
         "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 334160,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Power Of Touch",
         "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 221640,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -651,18 +667,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
+        "name": "I Came To Play",
+        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
+      "duration_ms": 317800,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -679,22 +695,6 @@
       "duration_ms": 265253,
       "name": "South Of Market",
       "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 317800,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 308133,
       "name": "Treasure Hunt",
       "url": "https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "I Came To Play",
+        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw"
     },
     {
       "added_at": "2020-08-19 00:00:21",

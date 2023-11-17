@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11220,
+  "num_followers": 11224,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDE2ZDIwNjRlMzA0NmUwZDE0Yzk3NDlkMTU4ZGRhZTVhNWM5Yjgw",
+  "snapshot_id": "MCw2ZGU1NTljOWMwNGIxNjY4Y2ZjMWNmNTY4NDM4MDJmYjBhODQwNmQ4",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zitilites",
-        "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
-      },
-      "artists": [
-        {
-          "name": "Kashmir",
-          "url": "https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Surfing The Warm Industry",
-      "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Mars Audiac Quintet",
         "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 188933,
       "name": "Wow And Flutter",
       "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zitilites",
+        "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
+      },
+      "artists": [
+        {
+          "name": "Kashmir",
+          "url": "https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Surfing The Warm Industry",
+      "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -415,18 +415,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Silver Apples",
-        "url": "https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya"
+        "name": "The Music of Grand Theft Auto V, Vol. 2: The Score",
+        "url": "https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD"
       },
       "artists": [
         {
-          "name": "Silver Apples",
-          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        },
+        {
+          "name": "Woody Jackson",
+          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Program",
-      "url": "https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX"
+      "duration_ms": 330708,
+      "name": "A Haze Of Patriotic Fervor",
+      "url": "https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -447,18 +463,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+        "name": "Silver Apples",
+        "url": "https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Silver Apples",
+          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
         }
       ],
-      "duration_ms": 236239,
-      "name": "King's Lead Hat - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
+      "duration_ms": 245400,
+      "name": "Program",
+      "url": "https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -495,34 +511,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Music of Grand Theft Auto V, Vol. 2: The Score",
-        "url": "https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD"
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
       },
       "artists": [
         {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        },
-        {
-          "name": "Woody Jackson",
-          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 330708,
-      "name": "A Haze Of Patriotic Fervor",
-      "url": "https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI"
+      "duration_ms": 236239,
+      "name": "King's Lead Hat - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
-      "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
-    },
-    {
       "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "Ghost Power",
@@ -819,6 +803,22 @@
       "duration_ms": 221701,
       "name": "Asteroid Witch",
       "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2023-01-25 02:05:47",
+      "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
       "artists": [
         {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -901,20 +901,20 @@
       "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
       },
       "artists": [
         {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "No Shouts, No Calls",
         "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 310040,
       "name": "All Your Love is Gone",
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
-      "added_at": "2023-01-12 03:40:17",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Switched On",
@@ -1159,6 +1143,22 @@
       "duration_ms": 322360,
       "name": "Super-Electric",
       "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
+    },
+    {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Musik von Harmonia",
         "url": "https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 211013,
       "name": "Dino",
       "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>",
-        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 319853,
-      "name": "Yatton",
-      "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Blood Drums",
         "url": "https://open.spotify.com/album/4GU8N1Ox4qcy2CMdQOT9wK"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 139162,
       "name": "irradiated dream mouth",
       "url": "https://open.spotify.com/track/2PYURplSmYmIPT3yrFS557"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>",
+        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 319853,
+      "name": "Yatton",
+      "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
     }
   ],
   "unique_name": "Krautrock Highway",

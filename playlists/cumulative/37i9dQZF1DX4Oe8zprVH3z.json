@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Outside Inward",
+        "url": "https://open.spotify.com/album/7yNk0fn3Pcqamczhc3wTDv"
+      },
+      "artists": [
+        {
+          "name": "DILOB",
+          "url": "https://open.spotify.com/artist/0OPnxy0yjdsokyG6NIwZTw"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223714,
+      "name": "One Sun",
+      "url": "https://open.spotify.com/track/5uwOe9i2EGqbtV4R7MZbbI"
+    },
+    {
+      "album": {
         "name": "Ontspanning",
         "url": "https://open.spotify.com/album/3agfeyUWIXIlr5nRHXH3MC"
       },

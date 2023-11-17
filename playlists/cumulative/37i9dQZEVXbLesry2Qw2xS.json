@@ -14499,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "Louder Than Roots",
+        "url": "https://open.spotify.com/album/74Yx70TF95m78dV16e6w9W"
+      },
+      "artists": [
+        {
+          "name": "LO-FI ROOTS",
+          "url": "https://open.spotify.com/artist/4840I5vgCbKl2opugLm1mE"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120006,
+      "name": "Kiwis and Oranges",
+      "url": "https://open.spotify.com/track/2QPzE5oC5XhHBTeJZPtAcC"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -14646,7 +14664,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 163822,
       "name": "KUHU KADUS STEN?",
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
@@ -15424,7 +15442,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 187500,
       "name": "Let It Ache",
       "url": "https://open.spotify.com/track/7BLccqmJOTWPVLB7VODQSv"
@@ -21266,7 +21284,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 161415,
       "name": "Panama Paberid",
       "url": "https://open.spotify.com/track/5d7vwB9AONHx1nvA9S7YPW"
@@ -21676,7 +21694,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 159844,
       "name": "peitust",
       "url": "https://open.spotify.com/track/0aiCPsrQbBIXkPLi89ymrs"
@@ -24998,7 +25016,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -26220,7 +26238,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -26260,7 +26278,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -27060,6 +27078,32 @@
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
+    {
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
       "album": {
@@ -28348,6 +28392,24 @@
       "duration_ms": 188523,
       "name": "Thru Your Phone",
       "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
+    },
+    {
+      "album": {
+        "name": "X.X.4",
+        "url": "https://open.spotify.com/album/6rlKGJhKi9zsPGoJT115qH"
+      },
+      "artists": [
+        {
+          "name": "Wizdakidd",
+          "url": "https://open.spotify.com/artist/1Q8ZsgyhyJdSZAOwBvopDY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "Thug Mode",
+      "url": "https://open.spotify.com/track/2wLbvGKTfZTQmYyobMwbGV"
     },
     {
       "album": {

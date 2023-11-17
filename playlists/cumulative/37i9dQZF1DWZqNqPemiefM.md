@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-487 songs - 1 day 14 hr 37 min
+488 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [obi](https://open.spotify.com/track/356DU7XWkqYSrmPnMDPD49) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient \(vol.01 "the first"\)](https://open.spotify.com/album/2DyfeR0bFqTunVWMluANrl) | 7:36 | 2022-04-16 | 2022-06-01 |
 | [Obscure Corner](https://open.spotify.com/track/7p1GxtJvJMEcAs70TnK15l) | [Hegira Moya](https://open.spotify.com/artist/5GKnUWZLOg93scPTUsXtkj) | [Slow Vein](https://open.spotify.com/album/3SzmsmIURHxAiXTQQdVRPM) | 4:49 | 2022-03-30 | 2022-04-05 |
 | [ohayashi](https://open.spotify.com/track/0kuHELP9kPhXOZ5oEurNUQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [アダンの風](https://open.spotify.com/album/0clp0SFljD12UGPDOP0kN4) | 3:44 | 2022-03-31 | 2022-07-28 |
-| [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 | 2022-07-28 |  |
+| [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 | 2022-07-28 | 2023-11-17 |
+| [ohayashi](https://open.spotify.com/track/7dadALlIbGUdpYYv7HlEFD) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 3:44 | 2023-11-09 |  |
 | [Omoide](https://open.spotify.com/track/5LveNCy5ojSj09DJ8QIh3I) | [Teams](https://open.spotify.com/artist/3ksZVVBYMpLo14U1yVhkAl), [Noah](https://open.spotify.com/artist/2zJRv1ws89WKwU7Q8dwPsm), [Repeat Pattern](https://open.spotify.com/artist/6M3usM8OOsGkcoC0LovBZR) | [Kwaidan](https://open.spotify.com/album/7jZ8Dj4E2wXvdFtO4pwfQe) | 1:46 | 2022-03-30 | 2022-04-01 |
 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 | 2022-03-31 | 2023-03-31 |
 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 | 2023-10-27 |

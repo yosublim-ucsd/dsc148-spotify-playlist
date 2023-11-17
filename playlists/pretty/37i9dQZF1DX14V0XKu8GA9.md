@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,668 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,718 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 36 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 37 | [Too Late](https://open.spotify.com/track/2As5tC03TNPCufeYzEK57H) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 2:17 |
 | 38 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
-| 39 | [Villain](https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Villain](https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC) | 2:45 |
-| 40 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 |
+| 39 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 |
+| 40 | [Villain](https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Villain](https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC) | 2:45 |
 | 41 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
 | 42 | [Rich Remedy](https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B) | [Rich Remedy](https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv) | 1:55 |
 | 43 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 50 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 
-Snapshot ID: `MCwwMGNiNmRjMGU4YzQxMTI1NjJiM2Q3N2Y5Mjc2NzgyNDIyYWM3YzQ5`
+Snapshot ID: `MCw1ZDc4YTlkNDM3MGYxZmRmNWVlOGMwMmI1ZTI0M2MzMTI5ZDVjMjUw`

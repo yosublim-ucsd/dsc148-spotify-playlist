@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21669,
+  "num_followers": 21673,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzEwMTNmMzgzOWZmNTkyNWZhYWMxMTcyMGRhY2NjM2FhOGU1NDEx",
+  "snapshot_id": "MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Sentir Nada",
         "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
@@ -903,38 +903,6 @@
       "duration_ms": 224608,
       "name": "No Sentir Nada",
       "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
-      },
-      "artists": [
-        {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
-        }
-      ],
-      "duration_ms": 225362,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
-      },
-      "artists": [
-        {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -967,6 +935,38 @@
       "duration_ms": 185920,
       "name": "El equilibrio",
       "url": "https://open.spotify.com/track/6hBhJPHxFWgwGT8O6iRkkk"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 197886,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/5tw1aZY3QC7cfQCmggqTjB"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Too Bad",
-        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Silva",
-          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Stuck on You",
-      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Perdidos en Pantitl\u00e1n",
-        "url": "https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd"
-      },
-      "artists": [
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Perdidos en Pantitl\u00e1n",
-      "url": "https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Eternos",
         "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 223308,
       "name": "Eternos",
       "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Perdidos en Pantitl\u00e1n",
+        "url": "https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Perdidos en Pantitl\u00e1n",
+      "url": "https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Azulmagenta",
+        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 218354,
+      "name": "Azulmagenta",
+      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "My America Is Not Your America",
         "url": "https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 306321,
       "name": "My America Is Not Your America",
       "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Azulmagenta",
-        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
-      },
-      "artists": [
-        {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
-        }
-      ],
-      "duration_ms": 218354,
-      "name": "Azulmagenta",
-      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
     },
     {
       "added_at": "2020-12-01 05:03:00",

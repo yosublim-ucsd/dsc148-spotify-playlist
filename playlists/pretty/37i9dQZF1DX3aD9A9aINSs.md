@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Eftalya Yağcı
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,770 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,764 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 56 | [Şahmeran](https://open.spotify.com/track/6BWcZ9FUYYoWPusEX831YU) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Şahmeran](https://open.spotify.com/album/3Yo8wVCMdqGUpkgRYdUmLz) | 2:05 |
 | 57 | [Seni Seviyorum Kovboy](https://open.spotify.com/track/1IEFqIcHZSMrybUlRijFm7) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [Seni Seviyorum Kovboy](https://open.spotify.com/album/0tAxnTks5XPUWfAfwPtnUR) | 3:21 |
 | 58 | [Yana Yana](https://open.spotify.com/track/2gUnJ0jS4V4xYDr2Ro0zAY) | [Gizem Yanar](https://open.spotify.com/artist/5Q2sLpSinFAKA2c9sqnXx1) | [Yana Yana](https://open.spotify.com/album/0PkpzVT5flSmfejs2f9bxa) | 3:07 |
-| 59 | [Kasko](https://open.spotify.com/track/5izqfqYCoDvi9LPezBt9vK) | [Dilan](https://open.spotify.com/artist/5xRCXmsCeEaZlWpAd2I8IY) | [Kasko](https://open.spotify.com/album/7fkHfe3Nnx8xSeweAhJX8C) | 2:23 |
+| 59 | [Kasko](https://open.spotify.com/track/5izqfqYCoDvi9LPezBt9vK) | [Dilan Çıtak](https://open.spotify.com/artist/5xRCXmsCeEaZlWpAd2I8IY) | [Kasko](https://open.spotify.com/album/7fkHfe3Nnx8xSeweAhJX8C) | 2:23 |
 | 60 | [Renkli Uçurtmalar](https://open.spotify.com/track/28gT4aXPSKFTOzKr96H4IW) | [Burcu Kısakürek](https://open.spotify.com/artist/0QaK45qF6WFNNrElrk89Jo) | [Renkli Uçurtmalar](https://open.spotify.com/album/0pOvl6qNnF4QaRsau3lXf2) | 2:49 |
 | 61 | [Dön Dünya](https://open.spotify.com/track/6TX9Dr7Gx0Cpe2oEAp6kLD) | [İrem Arslan](https://open.spotify.com/artist/1huZgcFqRB1OlkBFeKgqtR) | [Dön Dünya](https://open.spotify.com/album/2qmVLGjR4PBd0RXcmTgVbE) | 2:51 |
 | 62 | [Adımız Yazıldı Ankaralara](https://open.spotify.com/track/3jAtNP1cYC0IMW5jYLbmHp) | [Berhan Arısoy](https://open.spotify.com/artist/36hOHKW14cqeQRjqlSgzIf) | [Adımız Yazıldı Ankaralara](https://open.spotify.com/album/3b4GQ4Twnfr4LiyUorfrND) | 3:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 64 | [Fırtına](https://open.spotify.com/track/1i8wXITpDdFaZLtYvLnA8M) | [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [Fırtına](https://open.spotify.com/album/1ssN6FFhwzSEscJtnZXZfO) | 3:06 |
 | 65 | [Bir Ateş İçimdeki](https://open.spotify.com/track/1F47W1k8btsc38WXLf4dKw) | [ilaydá](https://open.spotify.com/artist/1EkNauZuQgPE50N1JJqTy9) | [Bir Ateş İçimdeki](https://open.spotify.com/album/0IENo0mFEbQIekwwwEgvP5) | 2:58 |
 
-Snapshot ID: `MCw4NTkyOTBiM2JlYjViNTBmOTFhYTA2MWY5ZWZiMTZmYjU0MTg4NGJl`
+Snapshot ID: `MCxlNjZjZjUwMTYzNDcwOTZmZTNkOGRjOGE2NTc1OWY0YWMwMzUwN2Fm`

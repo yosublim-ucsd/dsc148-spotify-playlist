@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10358,
+  "num_followers": 10374,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGRhNDMxOTRmN2RhMzI3ZjIzNjFkN2UyZjRiOGMzZDE2YzAxZjA1",
+  "snapshot_id": "MCxiMGY2M2JhNzk1OWFhZjYyZjdjZWM2MDZjNTNiOTJlNzVjYjdiNDMw",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Ideologia Chinesa",
+        "url": "https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k"
+      },
+      "artists": [
+        {
+          "name": "Pessoas Que Eu Conhe\u00e7o",
+          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
+        }
+      ],
+      "duration_ms": 323629,
+      "name": "House Aprovado Pelo Governo",
+      "url": "https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Me Destr\u00f3i (Stroka Remix)",
         "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 307200,
       "name": "Me Destr\u00f3i - Stroka Remix",
       "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Ideologia Chinesa",
-        "url": "https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k"
-      },
-      "artists": [
-        {
-          "name": "Pessoas Que Eu Conhe\u00e7o",
-          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
-        }
-      ],
-      "duration_ms": 323629,
-      "name": "House Aprovado Pelo Governo",
-      "url": "https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS"
     },
     {
       "added_at": "2023-11-10 03:03:00",

@@ -12441,6 +12441,28 @@
     },
     {
       "album": {
+        "name": "20 Danske Jule Hits",
+        "url": "https://open.spotify.com/album/0DoRXVU8nb8mkB6ySRLB3j"
+      },
+      "artists": [
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5PTC90Djm2KBfRkxiZfCgh"
+        },
+        {
+          "name": "Martin Brygmann",
+          "url": "https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Jesus & Josefine",
+      "url": "https://open.spotify.com/track/0IhL5sXNR9b12DR0h9vxKa"
+    },
+    {
+      "album": {
         "name": "Absolute Christmas - Den Bedste Julemusik",
         "url": "https://open.spotify.com/album/3V3PHBvZ9Ni7GeCCMyfcwv"
       },
@@ -15032,7 +15054,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 197661,
       "name": "Lyse Morgen",
       "url": "https://open.spotify.com/track/01HSpl4qroZmNqHH8Z3B29"

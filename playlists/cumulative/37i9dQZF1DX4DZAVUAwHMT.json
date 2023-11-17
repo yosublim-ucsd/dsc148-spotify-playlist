@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: WARGASM",
+  "description": "The UK's biggest rock playlist. Cover: VUKOVI",
   "name": "The Rock List",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 197540,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry"
@@ -950,6 +950,24 @@
       "duration_ms": 200886,
       "name": "Brakelights",
       "url": "https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6"
+    },
+    {
+      "album": {
+        "name": "Brambles",
+        "url": "https://open.spotify.com/album/1LqHcvT0n9mb3DSp6oL8NB"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212025,
+      "name": "Brambles",
+      "url": "https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr"
     },
     {
       "album": {
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 205962,
       "name": "CREEP HEAT",
       "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 178097,
       "name": "Her Wings",
       "url": "https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9"
@@ -3790,10 +3808,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 181377,
       "name": "Man Of The Hour",
       "url": "https://open.spotify.com/track/3c6UDCA6oRifiwLJMkTgfh"
+    },
+    {
+      "album": {
+        "name": "mary",
+        "url": "https://open.spotify.com/album/5pPE6HpZjHXv5FKHtZXGjL"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "mary",
+      "url": "https://open.spotify.com/track/4wWyfQEUdd2G82lbRgedtD"
     },
     {
       "album": {
@@ -3852,6 +3888,24 @@
       "duration_ms": 251460,
       "name": "Memento",
       "url": "https://open.spotify.com/track/2hXILrNult7kzQpMVduV5Y"
+    },
+    {
+      "album": {
+        "name": "MERCY KILL",
+        "url": "https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "MERCY KILL",
+      "url": "https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6"
     },
     {
       "album": {
@@ -4478,7 +4532,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
@@ -6215,6 +6269,24 @@
     },
     {
       "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "Trash Puppy",
+      "url": "https://open.spotify.com/track/1ywFs89j3YEMzc69fYRDdZ"
+    },
+    {
+      "album": {
         "name": "Troubled Son",
         "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
       },
@@ -6507,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
+    },
+    {
+      "album": {
         "name": "vol.3",
         "url": "https://open.spotify.com/album/1B8CC64goZTyBVAyBmJrVX"
       },
@@ -6756,7 +6846,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 272626,
       "name": "Would You Come To My Funeral",
       "url": "https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9"

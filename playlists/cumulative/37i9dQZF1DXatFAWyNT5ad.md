@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Landon Barker
 
-668 songs - 1 day 10 hr 42 min
+670 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Can't Wait To Be Dead](https://open.spotify.com/track/0gqGNbqhZ0RLp3ypz51cHY) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/2pGFIqzeHkIzEdGlORMsTr) | 2:55 | 2022-03-24 | 2022-04-17 |
 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-03-17 | 2022-07-29 |
+| [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 | 2023-09-08 |  |
 | [Caution \- Radio Edit](https://open.spotify.com/track/4cI2rd2D44mBjwUVFxTkUZ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Caution \(Radio Edit\)](https://open.spotify.com/album/6XnLSCbiS4TzjTFL2W9979) | 3:48 | 2022-03-24 | 2022-04-21 |
 | [celebrate](https://open.spotify.com/track/7nlvjuAdtKroFHdgqwCBKC) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [celebrate](https://open.spotify.com/album/3vnCUC9qSrGMalNNrV2Fj8) | 3:15 | 2022-03-24 | 2022-07-28 |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2022-03-24 | 2022-04-21 |
@@ -156,7 +157,7 @@
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-28 |  |
 | [Dance Of The Clairvoyants](https://open.spotify.com/track/3Y1q37A7ecFEdR5IAMWodA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dance Of The Clairvoyants](https://open.spotify.com/album/2J2ZoKPtJneBtFoSkl8yJy) | 4:25 | 2022-03-24 | 2022-04-21 |
 | [Dancing in the Mirror](https://open.spotify.com/track/4h0lirk2bZfueiTWUQ0UYh) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Dancing in the Mirror](https://open.spotify.com/album/2LXpyMZDLUB9IcrIhHWWBB) | 3:04 | 2022-03-24 | 2022-04-21 |
-| [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-10-06 |  |
+| [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-10-06 | 2023-11-17 |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2022-03-24 | 2022-04-20 |
 | [Daydreams](https://open.spotify.com/track/7d0zWiniNwO2Bsex8jRDYa) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF) | [Daydreams](https://open.spotify.com/album/1j79OR9z9uQarwcxPOBTcw) | 3:52 | 2022-03-24 | 2022-04-15 |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-26 |  |
@@ -221,7 +222,7 @@
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 | 2022-03-17 | 2022-08-10 |
 | [Flavor of the Month](https://open.spotify.com/track/5cCuxmNLdzcPZT7hUsOQ6j) | [Hailey Haus](https://open.spotify.com/artist/5ohxvcrwDPxDTbl2fcwfUL) | [Flavor of the Month](https://open.spotify.com/album/1Uwr253jrhyi6VwSUwz5RO) | 2:20 | 2022-06-16 | 2022-07-23 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-03-17 | 2023-03-25 |
-| [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 |  |
+| [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 | 2023-11-17 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-03-24 | 2023-03-25 |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2022-03-17 | 2023-03-18 |
 | [Forget to Forget You](https://open.spotify.com/track/2d72tfHrceo8IRrQYsh5Ye) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Forget to Forget You](https://open.spotify.com/album/3K5fQsYTJeax7eJ7KxQSim) | 3:24 | 2022-03-24 | 2022-04-12 |
@@ -475,6 +476,7 @@
 | [Petty Drone](https://open.spotify.com/track/3CcKRG50NetH6Bsc5AcXZH) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Petty Drone](https://open.spotify.com/album/7kavQRNZD6BcLV6Gh0wRRd) | 4:45 | 2022-03-24 | 2022-04-18 |
 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-09-01 | 2022-09-17 |
 | [Photographic Head](https://open.spotify.com/track/5TLTQj9GgRcpsMQZifQjuL) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [Photographic Head](https://open.spotify.com/album/6jqTyNhgUrcXYYSgXPoKQ3) | 4:08 | 2022-03-24 | 2022-04-11 |
+| [Picasso](https://open.spotify.com/track/0QRWbkURJ1dJ3yilr8MriQ) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Picasso](https://open.spotify.com/album/2L9R8FuhcS29BY74gmq3Z9) | 2:38 | 2023-10-06 |  |
 | [Picasso](https://open.spotify.com/track/3GlinRw4e35Fi3HRwsn4mp) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Picasso](https://open.spotify.com/album/26QmJCf4oHedzu5i9EtOJo) | 2:38 | 2023-10-06 | 2023-11-06 |
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2023-06-23 |  |
 | [Play](https://open.spotify.com/track/4ndo07xOLtWk712vJGKjty) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [Play](https://open.spotify.com/album/14k6pQ78800KZL86UWLU4M) | 2:43 | 2022-03-24 | 2022-04-08 |

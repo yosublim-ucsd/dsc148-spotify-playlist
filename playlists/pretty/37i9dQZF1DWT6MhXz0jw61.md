@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,301,664 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,760 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Sandbox](https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Sandbox](https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy) | 3:37 |
 | 100 | [Carefree](https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [SOUTHEND LEGEND](https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A) | 4:01 |
 
-Snapshot ID: `MCxmZDQyY2Q5MDkwZmE3NjM1MTdlNzczZTQ4ZjFiN2EzMzU4Y2U3MjMw`
+Snapshot ID: `MCwzM2Q1ZDM0NmY1NDE2YmNlYmYyYjJiYmE1YjI5MmMyYjNkYTJlNzFk`

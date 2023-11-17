@@ -2,7 +2,7 @@
 
 ### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
+> canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, tenth sky\)
 
 227 songs - 10 hr 16 min
 

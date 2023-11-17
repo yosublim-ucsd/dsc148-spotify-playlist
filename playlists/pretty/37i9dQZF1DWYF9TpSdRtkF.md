@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,666 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,674 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [待ちぼうけのLacrima](https://open.spotify.com/track/1mKdS3XHTWTHOksIS3r4it) | [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony](https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi) | 4:22 |
 | 75 | [産声とクラブ](https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa) | [箱崎星梨花 \(CV.麻倉もも\)](https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [高坂海美 \(CV.上田麗奈\)](https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v), [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv) | 4:00 |
 
-Snapshot ID: `MCxhNTg0ZTJkZDYwMzJkNzU4MTVjMTFmZjNhYTIzNjQ0MzY1MmJjYjk4`
+Snapshot ID: `MCw5YjcyOTk3ZTNmM2I5YTE5YTRhYTgxYWY3OWY0YTZiOWU5NTcyN2Q0`

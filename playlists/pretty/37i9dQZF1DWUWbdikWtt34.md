@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Faul Gayo, Selfi Yamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,512 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,556 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 7 | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/track/37SfZOslPgeHutnlEA3NYG) | [Hetty Koes Endang](https://open.spotify.com/artist/5EITOMadvjqpslJ4Y5j5z6) | [Buih Jadi Permadani \(Versi Keroncong\)](https://open.spotify.com/album/0EUqNrL3d60KeopNKysRIz) | 4:41 |
 | 8 | [Bukan Cinta Biasa](https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Cinta Biasa](https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH) | 5:17 |
 | 9 | [IISTIMEWA](https://open.spotify.com/track/6enD0k6TWGgyUzEC4HJR8U) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky), [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM) | [IISTIMEWA](https://open.spotify.com/album/0lSqGC4B0BTMdGbvwxMuUk) | 3:13 |
-| 10 | [Menepuk Air di Dulang](https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3) | [Evie Tamala](https://open.spotify.com/artist/1K9FjNnLeoXFPJLnsofZN7) | [Menepuk Air di Dulang](https://open.spotify.com/album/5YcUGD2ssx84aki8Ykr7mk) | 5:08 |
+| 10 | [Menepuk Air di Dulang](https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3) | [Evie Tamala](https://open.spotify.com/artist/518KzpAUCquD9HcSLDklzd) | [Menepuk Air di Dulang](https://open.spotify.com/album/5YcUGD2ssx84aki8Ykr7mk) | 5:08 |
 | 11 | [Bintang Tertutup Awan](https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F) | [Gunawan](https://open.spotify.com/artist/5MZr7EDPHUoy3vWUs2R88o) | [Bintang Tertutup Awan](https://open.spotify.com/album/2wSBUcaO4xdRiPL11aRxQb) | 4:31 |
 | 12 | [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 |
 | 13 | [Bojo Setyo](https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bojo Setyo](https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2) | 4:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 74 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 |
 | 75 | [Ada Cerita](https://open.spotify.com/track/3UQldVp9e0dWy72Kb6pQW6) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Ada Cerita](https://open.spotify.com/album/6U9TkrXKstXYQjcBqAHCJR) | 3:42 |
 
-Snapshot ID: `MCw5YzBkNDUxZjQ5MWVlOTYzZTg0YWVhODk2ZTNlNWVkZjM4N2U3NDIy`
+Snapshot ID: `MCxhMzJlY2Y2ZmY2NzQzNjlkOTc3ZWJhNjkzNDJjMTE3ODhhMmQxMmI5`

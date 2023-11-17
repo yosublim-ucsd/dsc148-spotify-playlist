@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT-Cu-4SHH1wD6g\">DBN Gogo</a>",
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=rQyegiqmQySZXcK-yI8rEQ\">Caleb Awiti</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -2136,6 +2136,32 @@
       "duration_ms": 412043,
       "name": "Mang' Dakiwe (Remix)",
       "url": "https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo"
+    },
+    {
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Black Culture",
+          "url": "https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187433,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T"
     },
     {
       "album": {

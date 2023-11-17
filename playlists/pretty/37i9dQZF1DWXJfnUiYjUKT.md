@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,996 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,063 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 14 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
 | 15 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 |
 | 16 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
-| 17 | [Rummage](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
+| 17 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
 | 18 | [Your Blood](https://open.spotify.com/track/4QJKtN5EXFtxbqnHuibwEL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Your Blood](https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC) | 4:08 |
 | 19 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 |
 | 20 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 85 | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/1WjolfVc13X3MRyV1xH8h3) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Restless Thoughts](https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ) | 3:50 |
 | 86 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 |
 | 87 | [Makeup \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/4EwZjYlGVGhidbZ8gbcMJA) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Makeup \(feat\. Lolo Zouaï\)](https://open.spotify.com/album/1vq3jzAiW6kIWF2iZYATyS) | 3:11 |
-| 88 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Magnus](https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
+| 88 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 |
 | 89 | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 |
 | 90 | [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 |
 | 91 | [Sorry](https://open.spotify.com/track/4ev5OuBWzNaIXRhuKQ6LUt) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [CLOSURE](https://open.spotify.com/album/2P6igT720bydbT6u1Cbrih) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 |
 | 100 | [Angst](https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Angst](https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha) | 2:25 |
 
-Snapshot ID: `MCw0OWUwYTg2NTgzZDg1ZDNmZjhiNDVlN2E5MGUyM2Q0NGVjMTg1YjJl`
+Snapshot ID: `MCw0YmQwMzk1YzE1NTQ2NDNiN2I0MGYzMjk1MmQ3MWUxOTlmYTc3NDUx`

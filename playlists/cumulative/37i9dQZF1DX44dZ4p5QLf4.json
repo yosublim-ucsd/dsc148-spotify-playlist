@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "Kelz2busy",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247345,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS"
+    },
+    {
+      "album": {
         "name": "Candy Drip",
         "url": "https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV"
       },
@@ -2106,6 +2128,24 @@
       "duration_ms": 222733,
       "name": "Get By",
       "url": "https://open.spotify.com/track/6aL5k7WuvtlCSKEvPWuwFP"
+    },
+    {
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "album": {
@@ -6219,6 +6259,32 @@
     },
     {
       "album": {
+        "name": "sneek",
+        "url": "https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "sneek",
+          "url": "https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193566,
+      "name": "Tandem",
+      "url": "https://open.spotify.com/track/73ypDYXaKLXgb69ja5J21D"
+    },
+    {
+      "album": {
         "name": "TBU",
         "url": "https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq"
       },
@@ -6830,6 +6896,24 @@
       "duration_ms": 216089,
       "name": "Uncomplicated",
       "url": "https://open.spotify.com/track/0X9mvqR44xcw6oLo89kn92"
+    },
+    {
+      "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
     },
     {
       "album": {

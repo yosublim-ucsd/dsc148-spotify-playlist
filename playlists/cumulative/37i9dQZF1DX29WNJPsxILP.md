@@ -2,9 +2,9 @@
 
 ### [Dillihood](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Rap from the hoods of Dilli featuring Deep Kalsi
+> Rap from the hoods of Dilli featuring KR$NA & Raftaar
 
-107 songs - 5 hr 39 min
+108 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Haath Toh Laga](https://open.spotify.com/track/7GwEtrvRxKbf2E9dMiGxI6) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/3dcAK5By2PRDtcZVJbq3Xn) | 2:27 | 2023-03-10 |  |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-10 |  |
 | [Hold Up](https://open.spotify.com/track/15zn8wY4uZ05htjsWBanjS) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Hold Up](https://open.spotify.com/album/15fhMI25QDeXlJPLkAEvFC) | 3:21 | 2023-08-08 |  |
-| [Hona Door](https://open.spotify.com/track/5V53iOEMA72GtdvMyCoooa) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Hona Door](https://open.spotify.com/album/7pdDgRl2GqNxWbcDCArEAo) | 2:45 | 2023-07-24 |  |
+| [Hona Door](https://open.spotify.com/track/5V53iOEMA72GtdvMyCoooa) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Hona Door](https://open.spotify.com/album/7pdDgRl2GqNxWbcDCArEAo) | 2:45 | 2023-07-24 | 2023-11-17 |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2023-03-10 |  |
 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 | 2023-03-10 |  |
 | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/1meDneuv818z2sRDMbI72N) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/4Qz07DWj8Rnhig4nyZF6oR) | 3:01 | 2023-08-08 |  |
@@ -97,7 +97,7 @@
 | [Sheher](https://open.spotify.com/track/5fbKzbj3GMXvWpyBUAhXnJ) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Sheher](https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8) | 3:30 | 2023-03-10 | 2023-10-12 |
 | [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 |  |
 | [Taakat](https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:36 | 2023-08-28 |  |
-| [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 |  |
+| [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 | 2023-11-17 |
 | [tere saath \(i feel good\)](https://open.spotify.com/track/5EavRVLo1nDNTgLXPgfQYY) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [tere saath \(i feel good\)](https://open.spotify.com/album/1eZUWcFJQ5gzlE1Q8Ps5T3) | 1:49 | 2023-07-25 | 2023-09-02 |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 |  |
 | [Top Off](https://open.spotify.com/track/2xDEnSLBxi2CRq2SlA17g6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Nishu](https://open.spotify.com/album/0PA5ewwEHCceY61xBeVBV1) | 3:01 | 2023-03-10 |  |
@@ -113,6 +113,7 @@
 | [Vision](https://open.spotify.com/track/6oCLs2G4aTV7EN0PO3uyIE) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5kwti1UH46UthQ2EEwQCtx) | 3:02 | 2023-03-10 | 2023-08-06 |
 | [War](https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl) | [MassQline](https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh), [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [HYKE](https://open.spotify.com/artist/7yPtNp2UpTp2wYUEdM8k1O) | [War](https://open.spotify.com/album/0cGxD9dl9g9iTt0LXN3oTY) | 3:20 | 2023-10-11 |  |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-10 |  |
+| [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-16 |  |
 | [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-10 |  |
 | [Zaruri Nahi](https://open.spotify.com/track/6JLBvPFd61Y0t7scB9TxEH) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Zaruri Nahi](https://open.spotify.com/album/515rEggHfPWyzspMu4zgBY) | 3:12 | 2023-03-10 | 2023-10-12 |
 

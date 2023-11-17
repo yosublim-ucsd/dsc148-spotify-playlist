@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 155767,
       "name": "Elevador - Ao Vivo",
       "url": "https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux"
@@ -6506,7 +6506,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/4ldcxPVAtih8alepJTu8Hx"
@@ -7466,7 +7466,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -10334,7 +10334,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 207343,
       "name": "MOLETOM",
       "url": "https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ"
@@ -10368,16 +10368,16 @@
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         },
         {
-          "name": "MC Tigr\u00e3o",
-          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
           "name": "Mc Luan",
           "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
+        },
+        {
+          "name": "Mc Tig\u00e3o",
+          "url": "https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X"
         }
       ],
       "date_added": "2023-09-19",
@@ -13359,6 +13359,28 @@
     },
     {
       "album": {
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/6e5byyKtx6R0h66gagelPe"
+    },
+    {
+      "album": {
         "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
         "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
       },
@@ -14252,7 +14274,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"

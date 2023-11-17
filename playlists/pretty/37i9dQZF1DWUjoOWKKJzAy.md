@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,107 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,329 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 45 | [Polícia](https://open.spotify.com/track/1TieYORMOIeZoU2Yfkyfgs) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Cabeça Dinossauro \- Edição Comemorativa 30 anos \- Deluxe](https://open.spotify.com/album/43JdMQ3yDjaCna4aFf7PRC) | 4:20 |
 | 46 | [Baila Comigo](https://open.spotify.com/track/0dED0PRBM0fixceBz5s4XR) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:30 |
 | 47 | [Tudo com você \- Remasterizado em 2001](https://open.spotify.com/track/1ipPANmeOEA3iBNKGnpzmR) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:59 |
-| 48 | [Música Urbana \- Versão Alternativa](https://open.spotify.com/track/4C5xMKlNkmy5GOyimwR4Pc) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Rock Brazuca](https://open.spotify.com/album/5viT9nZcwfmLPvaVdZKYgU) | 3:31 |
+| 48 | [Música Urbana \- Versão Alternativa](https://open.spotify.com/track/37i2AqYonqyW5MoGXCY0pG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 3:31 |
 | 49 | [Camila, Camila](https://open.spotify.com/track/7ue3vDtaxcToVyzbyloSyQ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Nenhum de Nós](https://open.spotify.com/album/6XHpLUN8Ks2OCLfsuHK9IG) | 5:12 |
 | 50 | [Garota de Berlim](https://open.spotify.com/track/0i2pVaXri1ne58mfEC5TK1) | [Tokyo](https://open.spotify.com/artist/16NdOHGyaRuFv1365u0XEf), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Tokyo](https://open.spotify.com/album/0IraYmdQ0putFc89YQ3awM) | 3:05 |
 | 51 | [A Fórmula do Amor \(feat\. Kid Abelha\) \- Remasterizado 2013](https://open.spotify.com/track/7nedxv1LKO4fm5ZrDG3GRO) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Nada Mudou \(Box\) \[Remasterizado\]](https://open.spotify.com/album/7pn0tjUBXXNNLmckBNtv6H) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MCw0MmYwYjgxNzM2OTQwZjJiZDk4MzIxYmU0MzE1ZTMxY2U4NDYxMzMz`
+Snapshot ID: `MCxiODJkYTQ5Y2NkYTdkNmI4Mzk4OWMzNmJiYWIyNDUwODMwNDVjMTIw`

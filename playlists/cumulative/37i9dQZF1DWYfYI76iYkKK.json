@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Not Good Enough",
+        "url": "https://open.spotify.com/album/57RimKyMNZ8XfSqgWfj9GB"
+      },
+      "artists": [
+        {
+          "name": "Yo Lee",
+          "url": "https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167445,
+      "name": "Not Good Enough",
+      "url": "https://open.spotify.com/track/48eKVc1WyOJyE6HDdTngCD"
+    },
+    {
+      "album": {
         "name": "Changing Room",
         "url": "https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 283902,
       "name": "\u4e94\u6708\u7684\u4eba - \u96fb\u5f71\u300a\u4e94\u6708\u96ea\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3aL8V20GPzZ1ffXXJ8gFqI"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 211110,
       "name": "\u5927\u6d77",
       "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
@@ -3742,7 +3760,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 156214,
       "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
       "url": "https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM"
@@ -4384,7 +4402,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 226248,
       "name": "\u6bdb\u8863",
       "url": "https://open.spotify.com/track/6L4VjMZtGfEOYRcyisGUB3"
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 265694,
       "name": "\u88dd\u98fe\u97f3",
       "url": "https://open.spotify.com/track/7iC1d22Q9zG0XQZvITqetB"

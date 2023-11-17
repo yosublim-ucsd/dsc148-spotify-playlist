@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Dua Lipa
 
-2,405 songs - 5 day 20 hr 13 min
+2,406 songs - 5 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Back In The Black](https://open.spotify.com/track/5NMGoejsuDYGrNIUbZZqIp) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Back In The Black](https://open.spotify.com/album/0mje4pHNSVOZQ99Hc7mQRL) | 5:04 | 2023-05-14 | 2023-05-23 |
 | [Back in Town](https://open.spotify.com/track/2UwAkPGVe2lJOJYm37YuqM) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv) | [Back in Town](https://open.spotify.com/album/5RsSaoWEVTBXk39KFke9Ms) | 2:24 | 2023-05-14 | 2023-05-23 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-30 | 2023-08-07 |
-| [Back to Me \- Acoustic](https://open.spotify.com/track/49Tof5ULqzojVlQUn58Agn) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Reflections](https://open.spotify.com/album/0N2DgbvcCI7I977mbQgVUD) | 4:10 | 2023-11-12 |  |
+| [Back to Me \- Acoustic](https://open.spotify.com/track/49Tof5ULqzojVlQUn58Agn) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Reflections](https://open.spotify.com/album/0N2DgbvcCI7I977mbQgVUD) | 4:10 | 2023-11-12 | 2023-11-17 |
 | [Bad Bitch BIGAKU](https://open.spotify.com/track/1h3Cwx7CWLJaLDnPlVu1Mn) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [Bad Bitch BIGAKU](https://open.spotify.com/album/1fj96LQ9agWjeZp5t8uktl) | 4:20 | 2023-06-11 | 2023-06-19 |
 | [BAD CHASING](https://open.spotify.com/track/0nAnWJgpAORyGgCgjCrUKL) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [BLONDE16](https://open.spotify.com/album/42ZxDSo4pPIDul0k6IXuiC) | 4:14 | 2023-04-09 | 2023-04-24 |
 | [bad cry](https://open.spotify.com/track/7bnGO4VPzDGs9tv4HhPenC) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [bad cry](https://open.spotify.com/album/3aoEWy60XDvQpPqKV0B9EZ) | 3:25 | 2023-09-17 | 2023-09-25 |
@@ -1445,6 +1445,7 @@
 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-04-30 | 2023-05-08 |
 | [Rock n' Roll Star](https://open.spotify.com/track/2ScXh7LmiWNnQAfJbyRGr2) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [ROY](https://open.spotify.com/artist/3iKOpAmh3GBJdjXi9RcE6a) | [Rock n' Roll Star](https://open.spotify.com/album/6gNpGgAlZMddZCXlO4d2x3) | 2:56 | 2023-06-25 | 2023-07-03 |
 | [ROCK YOUR BODY](https://open.spotify.com/track/0TRqd6Gu3D15JhvRVLDMrn) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ROCK YOUR BODY](https://open.spotify.com/album/1oCMq00Ex2N0Q9tvm3dLFJ) | 3:19 | 2023-08-20 | 2023-09-18 |
+| [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-17 |  |
 | [RODEO](https://open.spotify.com/track/3TNnABL3T1O4fsF3WU81oM) | [JAY'ED](https://open.spotify.com/artist/3vlAUneucinIokaOUeYbrv) | [RODEO](https://open.spotify.com/album/0FEnQ35sFw2yeSZLy4UQ6D) | 2:29 | 2023-04-30 | 2023-05-08 |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-09 | 2023-07-17 |
 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 | 2023-02-26 | 2023-03-06 |

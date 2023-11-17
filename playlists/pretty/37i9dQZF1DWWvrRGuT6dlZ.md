@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: RINES\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,814 likes - 159 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,820 likes - 159 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 42 | [idw2fil\(again\)](https://open.spotify.com/track/6CDMbMkBJB2sxdUHZHZQBE) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [idw2fil\(again\)](https://open.spotify.com/album/0vkEZU3OwxCthhSlYfbeGY) | 2:49 |
 | 43 | [when it comes to love...](https://open.spotify.com/track/0aiZNEULvKNsKXFdArakwD) | [desthemess](https://open.spotify.com/artist/3kylCL6jUWlEECElJhtmqw) | [when it comes to love...](https://open.spotify.com/album/6ipgPBza1DAt8zjm8tb2pd) | 3:26 |
 | 44 | [Counterpart](https://open.spotify.com/track/5IDxT7F5fFeqJ6t6V88QfV) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Counterpart](https://open.spotify.com/album/32kZbnPUa3a6fUAcCaYvdy) | 3:31 |
-| 45 | [2LIVES](https://open.spotify.com/track/23WWYd2Ob0Thf66IMxMWUJ) | [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo), [TIM TOSHIBA](https://open.spotify.com/artist/7ddSNRr7yhwK01jNeqJLRQ) | [2LIVES](https://open.spotify.com/album/7h6zKuBJ7uQNdAO1BEqvXg) | 3:33 |
+| 45 | [2LIVES](https://open.spotify.com/track/5j5QQaWJnBekjn4SOipo7U) | [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo), [TIMTOSHIBA](https://open.spotify.com/artist/2qGcTSnPp2BzZ2D1YaEDQH) | [2LIVES](https://open.spotify.com/album/3uKRylnD0hb97tc2ZTbc6P) | 3:33 |
 | 46 | [Lukewarm Mess](https://open.spotify.com/track/48mJksC9bEs7SBI2P9a9fd) | [moggy](https://open.spotify.com/artist/6hP1CwI5YgT52VNQ09RQNs) | [Lukewarm Mess](https://open.spotify.com/album/1DodD9xOTP97zW5DOqUYN7) | 6:59 |
 | 47 | [All It Takes](https://open.spotify.com/track/1lEcK9Mwf5rcmtj2ccnl4X) | [The Kews](https://open.spotify.com/artist/2SyvThFg03i8N17MVkCMgD) | [All It Takes](https://open.spotify.com/album/7y7N3kF64UcAhIJ7vyPG5L) | 3:09 |
 | 48 | [Lessons](https://open.spotify.com/track/3mV5e0s5D7EXlA0dnc5w4q) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lessons](https://open.spotify.com/album/1z27FzbTQkuJedFVzXoIyV) | 4:28 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 158 | [Someone](https://open.spotify.com/track/5uNmtBDW9ByH9SleOnuE9H) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [Someone](https://open.spotify.com/album/2Z7Ci8LiAQkvPBCyHVKv81) | 2:04 |
 | 159 | [need me now](https://open.spotify.com/track/6YwC4MT8zGsL2kOfMBRaML) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m) | [need me now](https://open.spotify.com/album/54XWCvc9Y7NsNPP1Z02O3p) | 2:34 |
 
-Snapshot ID: `MCwwNDZhZjQ2MTYxYzJjZTE1MzkzNjY0M2VlNzAwZDdhZWQyYTZjN2Jh`
+Snapshot ID: `MCxiYjY3NDY0MThmMTE1MWExYmZhMGU5ZjY5YWZhNjM4ZjMwNDQzOWJm`

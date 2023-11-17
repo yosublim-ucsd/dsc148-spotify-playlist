@@ -1,13 +1,37 @@
 {
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT-Cu-4SHH1wD6g\">DBN Gogo</a>",
-  "num_followers": 6951,
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=rQyegiqmQySZXcK-yI8rEQ\">Caleb Awiti</a>",
+  "num_followers": 6954,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2JkZjg0YjlhMzNhYjAxY2U5MDUyZjNhNjY5ODQ3ZDgyNGU1MmNk",
+  "snapshot_id": "MCwwMGEzNzZmYzAyZjFiZGM4NWFiMDQyNWIwNTdlZTRhZDYyM2MwMDZk",
   "tracks": [
+    {
+      "added_at": "2023-11-16 22:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Black Culture",
+          "url": "https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T"
+    },
     {
       "added_at": "2023-10-27 05:05:19",
       "album": {

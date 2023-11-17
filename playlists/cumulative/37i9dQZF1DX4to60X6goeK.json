@@ -740,7 +740,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
@@ -2039,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "No Warning (feat. Nathan Smoker)",
+        "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
+      },
+      "artists": [
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        },
+        {
+          "name": "Nathan Smoker",
+          "url": "https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "No Warning (feat. Nathan Smoker)",
+      "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
+    },
+    {
+      "album": {
         "name": "Now Wait",
         "url": "https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g"
       },
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"

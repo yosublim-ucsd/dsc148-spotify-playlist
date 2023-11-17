@@ -2193,6 +2193,32 @@
     },
     {
       "album": {
+        "name": "Manzoor Hai",
+        "url": "https://open.spotify.com/album/16HWh1K1lhTTpMDHUoLxIT"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239504,
+      "name": "Manzoor Hai",
+      "url": "https://open.spotify.com/track/77Mo1my3vQVqu4wRmVIeCa"
+    },
+    {
+      "album": {
         "name": "Dil Bechara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr"
       },
@@ -2326,7 +2352,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 179105,
       "name": "Meri Ho Ja",
       "url": "https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr"

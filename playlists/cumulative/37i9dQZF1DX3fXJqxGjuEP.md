@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-488 songs - 1 day 5 hr 17 min
+489 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,7 @@
 | [Vámonos al Mar \(Con Dr\. Shenka\)](https://open.spotify.com/track/4gxmMu1wYIK3x8kSgRBbjD) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Vámonos al Mar \(Con Dr\. Shenka\)](https://open.spotify.com/album/0WPEKy8mfwAZlltviK2KdD) | 4:10 | 2021-10-20 | 2022-07-29 |
 | [Váyanse Todos A Mamá](https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 4:59 | 2021-10-20 |  |
 | [Vértigo](https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vértigo](https://open.spotify.com/album/19MUIINT0CT8vfZwAGW3RR) | 3:26 | 2021-10-20 | 2022-04-13 |
-| [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 | 2021-10-20 |  |
+| [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 | 2021-10-20 | 2023-11-17 |
 | [Wannajuato](https://open.spotify.com/track/43CGfpQS2COhomAP9V6Dhf) | [Fideo y los del mondo](https://open.spotify.com/artist/3ehZ9dXAC3o9SXooeNSeN8) | [Wannajuato](https://open.spotify.com/album/0b3SzKRYVbtzi04Bp7uGFT) | 3:00 | 2021-10-20 | 2022-07-28 |
 | [Whisky](https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Whisky](https://open.spotify.com/album/4HYSkSJVXmPqv7gIt6cSTq) | 3:15 | 2022-03-18 | 2022-07-19 |
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-08-05 |
@@ -486,6 +486,7 @@
 | [Y Es de Día](https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Gimnasia para Momias](https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG) | 5:37 | 2021-10-29 | 2022-04-21 |
 | [Ya No Te Quiero](https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Ya No Te Quiero](https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ) | 3:44 | 2021-10-20 | 2023-04-17 |
 | [Ya No Te Quiero](https://open.spotify.com/track/1XVG9J4jQRg3Ox7WHM6ztO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Ya No Te Quiero](https://open.spotify.com/album/0twTGUVpGy1HIwgTJR0tZn) | 3:44 | 2021-10-20 | 2022-07-28 |
+| [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 | 2023-11-16 |  |
 | [Yin Yang](https://open.spotify.com/track/1oqpMRnWkrQ2sqUSAhsUaw) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Yin Yang](https://open.spotify.com/album/0fSGPH8R7mrquL3eK5Z8KM) | 2:34 | 2022-04-17 | 2022-07-29 |
 | [Yo Bailo Sola](https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Yo Bailo Sola](https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8) | 5:17 | 2021-10-20 | 2022-07-29 |
 | [Yo Me Lo Merezco](https://open.spotify.com/track/4KKDhRcCz7CAnJfSxf8pJN) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Yo Me Lo Merezco](https://open.spotify.com/album/2hYgnSCgWk5DTu9pnCNh1R) | 3:42 | 2022-01-14 | 2022-06-01 |

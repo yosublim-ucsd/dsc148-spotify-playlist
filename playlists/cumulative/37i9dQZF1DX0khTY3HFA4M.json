@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 160000,
       "name": "90's Yeahh",
       "url": "https://open.spotify.com/track/6BereypoY0XeiHZelMWOEs"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 142592,
       "name": "Dancing Daffodils",
       "url": "https://open.spotify.com/track/5vs1DgkZ0wlNIQXB3c6DZ1"
@@ -3637,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Fare Thee Well O Noble Timepiece",
+        "url": "https://open.spotify.com/album/4csKfMmsQHpSCZYYFLtkcw"
+      },
+      "artists": [
+        {
+          "name": "Domo 759",
+          "url": "https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Fare Thee Well O Noble Timepiece",
+      "url": "https://open.spotify.com/track/3sKKyt8RryZTi8HZD0Qqu4"
+    },
+    {
+      "album": {
         "name": "Mythologies of Yarn",
         "url": "https://open.spotify.com/album/1qeE6gJE8Bf5C5emPVXast"
       },
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 186666,
       "name": "Floating",
       "url": "https://open.spotify.com/track/2uFzIxt7J5OpLC5nRagdAk"
@@ -3858,6 +3876,24 @@
       "duration_ms": 148548,
       "name": "Floating In The Night",
       "url": "https://open.spotify.com/track/33nniRxELxuacmhbQEBPmr"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/1yvMQPDOZUWcojv5pk8133"
+      },
+      "artists": [
+        {
+          "name": "Poof Tricks",
+          "url": "https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/71XyPCA7lYpu2IH6OVGlvr"
     },
     {
       "album": {
@@ -4576,7 +4612,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 109608,
       "name": "hangover",
       "url": "https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI"
@@ -4612,7 +4648,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 123039,
       "name": "Happiness Is Everything",
       "url": "https://open.spotify.com/track/4MgXRcpMm57ToFdQeAUuv5"
@@ -6107,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Lunar Lull",
+        "url": "https://open.spotify.com/album/3seI3wUvZuOd2atIYTu5Th"
+      },
+      "artists": [
+        {
+          "name": "Pi Teddy",
+          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121463,
+      "name": "Lunar Lull",
+      "url": "https://open.spotify.com/track/5ffzlptK9U9oGU2h8H9mPl"
+    },
+    {
+      "album": {
         "name": "lunch break",
         "url": "https://open.spotify.com/album/6Ie6YYGDS9HOLBjVm6RgXD"
       },
@@ -6726,7 +6780,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 190327,
       "name": "Minnie",
       "url": "https://open.spotify.com/track/3f0RvnmyJxeS6zCCM4sLiv"
@@ -7058,7 +7112,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 147317,
       "name": "my boo",
       "url": "https://open.spotify.com/track/0RpChaozqmTFfKbOSXoDtc"
@@ -7228,7 +7282,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 127395,
       "name": "Nice To Meet U",
       "url": "https://open.spotify.com/track/1Pb35g6g0mTuT2FIMSqHwa"
@@ -8009,6 +8063,24 @@
     },
     {
       "album": {
+        "name": "Piano Roll",
+        "url": "https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt"
+      },
+      "artists": [
+        {
+          "name": "Vancgroover",
+          "url": "https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Piano Roll",
+      "url": "https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp"
+    },
+    {
+      "album": {
         "name": "Pick Up Your Phone Please",
         "url": "https://open.spotify.com/album/0pZatCRgjMHMddIYmc5L7o"
       },
@@ -8414,7 +8486,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 138591,
       "name": "Real Careful",
       "url": "https://open.spotify.com/track/6fYXVvxC9nqgHaOKog1UDD"
@@ -8728,6 +8800,24 @@
       "duration_ms": 93432,
       "name": "Rice Balls for Dinner",
       "url": "https://open.spotify.com/track/7xfsqCYfZrpdylr6hbQVF2"
+    },
+    {
+      "album": {
+        "name": "river",
+        "url": "https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1"
+      },
+      "artists": [
+        {
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139599,
+      "name": "river",
+      "url": "https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85"
     },
     {
       "album": {
@@ -9937,6 +10027,24 @@
     },
     {
       "album": {
+        "name": "spacewalk",
+        "url": "https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "spacewalk",
+      "url": "https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b"
+    },
+    {
+      "album": {
         "name": "sparkle",
         "url": "https://open.spotify.com/album/0rfvc49YhjFxWwgsourOta"
       },
@@ -10028,7 +10136,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 146812,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/4NwP5uNwmGAjYyev94maJT"
@@ -11081,6 +11189,24 @@
     },
     {
       "album": {
+        "name": "Tough Night",
+        "url": "https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ"
+      },
+      "artists": [
+        {
+          "name": "Thin Wire",
+          "url": "https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107082,
+      "name": "Tough Night",
+      "url": "https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx"
+    },
+    {
+      "album": {
         "name": "Trades",
         "url": "https://open.spotify.com/album/1CUqHNxrlvmg1THkzsbrZi"
       },
@@ -12036,7 +12162,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 112855,
       "name": "Westwood",
       "url": "https://open.spotify.com/track/29sQQi0a32rj76IhYOqd2R"
@@ -12155,6 +12281,24 @@
     },
     {
       "album": {
+        "name": "Where are we now??",
+        "url": "https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi"
+      },
+      "artists": [
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70909,
+      "name": "Where are we now??",
+      "url": "https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS"
+    },
+    {
+      "album": {
         "name": "Where Is Umha?",
         "url": "https://open.spotify.com/album/7kN8thNA1SucK1nT6T4fhm"
       },
@@ -12184,7 +12328,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 132166,
       "name": "Wherever",
       "url": "https://open.spotify.com/track/32R4uBcBk1Kuo1shhsM5Hd"

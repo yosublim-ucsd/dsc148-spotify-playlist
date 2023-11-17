@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA
 
-119 songs - 7 hr 3 min
+121 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 | 2023-01-05 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
+| [Cosmic Coast \- Spa](https://open.spotify.com/track/1s63jXLAtYJOTCT9fIu4O5) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 2:18 | 2023-11-17 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-09-02 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-09-02 |  |
@@ -111,6 +112,7 @@
 | [Spirits](https://open.spotify.com/track/7cIah2OvEEfMk05ujFZxWI) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:13 | 2022-09-02 |  |
 | [Stavselet](https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Gimdalen](https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE) | 3:07 | 2022-09-02 |  |
 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 | 2022-09-02 |  |
+| [Thar Desert](https://open.spotify.com/track/6y6j2rn725fSwf7Bd1BNCo) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Thar Desert](https://open.spotify.com/album/4tn26VMIpCsVf82hX2DFRp) | 2:52 | 2023-11-17 |  |
 | [The Calm Within](https://open.spotify.com/track/1aEbQEQ5XcwwifB9V7nkXR) | [Leon Garver](https://open.spotify.com/artist/0KdKg4F51Gw2ILHS3yGiB4) | [The Calm Within](https://open.spotify.com/album/3DEIMHSgFqlBmse2Fe6USn) | 2:29 | 2022-09-02 |  |
 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2022-09-02 |  |
 | [The Poetry of Self](https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 4:02 | 2022-09-02 |  |

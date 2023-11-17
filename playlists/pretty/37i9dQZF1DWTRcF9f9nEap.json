@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 82303,
+  "num_followers": 82358,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1",
+  "snapshot_id": "MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 593546,
-      "name": "Sahib Teri Bandi - Maki Madni",
-      "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fresh Evidence (Remastered 2017)",
         "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 480149,
       "name": "Ghost Blues",
       "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 593546,
+      "name": "Sahib Teri Bandi - Maki Madni",
+      "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Deuce (Remastered 2017)",
+        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 344492,
+      "name": "In Your Town",
+      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 249093,
       "name": "Gypsy In Me",
       "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Deuce (Remastered 2017)",
-        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 344492,
-      "name": "In Your Town",
-      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 241000,
       "name": "Roll Your Moneymaker",
       "url": "https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU"
     },
     {
       "added_at": "2023-01-16 21:05:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,688 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,738 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 4 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
 | 5 | [Un Homme Et Une Femme](https://open.spotify.com/track/5ZvaHksc9o4AuZVrtOOU0r) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV), [Pierre Barouh](https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl) | [Le Cinéma De Francis Lai](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 2:42 |
 | 6 | [Tombe la neige](https://open.spotify.com/track/3d7EDEz4PLcXP9pufWVu6Y) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Adamo \- studio 1](https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl) | 3:02 |
-| 7 | [Nathalie](https://open.spotify.com/track/1ul9ZfkWWeAjA3HiRwK4Op) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Becaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 4:05 |
+| 7 | [Nathalie \- Remasterisé en 2011](https://open.spotify.com/track/1ul9ZfkWWeAjA3HiRwK4Op) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Becaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 4:05 |
 | 8 | [Comme un garçon](https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM) | 3:16 |
 | 9 | [Elle était si jolie](https://open.spotify.com/track/6m0s4XFYpE1h63NaP6hBA9) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Ma vie](https://open.spotify.com/album/31gjzol0KDwj04HxJ4mXqN) | 2:55 |
 | 10 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 |
 | 50 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 |
 
-Snapshot ID: `MCw2NDg5ZjlhMjJhM2E5OWRlMjYzMTE3MzFhMDU1ZjAyMDgzMDBhMjE2`
+Snapshot ID: `MCwzYjNjOWE3MjhmMzIyNDRmYTEwOTU3NDM5OTJiNWYyODk0ZGY1ZjVj`

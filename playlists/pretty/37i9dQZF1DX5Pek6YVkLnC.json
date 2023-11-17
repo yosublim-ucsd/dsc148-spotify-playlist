@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 230161,
+  "num_followers": 230175,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx",
+  "snapshot_id": "MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj",
   "tracks": [
     {
       "added_at": "2023-10-24 20:37:41",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
         "name": "FREELANCE 2.0 ROA, Amarion, Ankhal ( FT. CDobleta, Anubiis)",
         "url": "https://open.spotify.com/album/5x5L7lXzNVon76iOsZKdPx"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 336960,
       "name": "FREELANCE 2.0",
       "url": "https://open.spotify.com/track/49vODnnBxP9MrmlJ6PDe5v"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
-        "name": "WYA",
-        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "WYA",
-      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Ultima Lagrima",
-        "url": "https://open.spotify.com/album/6VgtsJjlNJBEm0ZCANGPRu"
-      },
-      "artists": [
-        {
-          "name": "Vale Mendoza",
-          "url": "https://open.spotify.com/artist/09GD1QFN0LUiosit4WYX9p"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Ultima Lagrima",
-      "url": "https://open.spotify.com/track/6NjRDmrDRJjEBAluGAlL5P"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "Nft 2",
         "url": "https://open.spotify.com/album/23eG6lchCrIevYE0mpKXTY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 272727,
       "name": "Nft 2",
       "url": "https://open.spotify.com/track/6cJhTgzbsM7sMlsb8JsmCM"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "Ultima Lagrima",
+        "url": "https://open.spotify.com/album/6VgtsJjlNJBEm0ZCANGPRu"
+      },
+      "artists": [
+        {
+          "name": "Vale Mendoza",
+          "url": "https://open.spotify.com/artist/09GD1QFN0LUiosit4WYX9p"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Ultima Lagrima",
+      "url": "https://open.spotify.com/track/6NjRDmrDRJjEBAluGAlL5P"
     },
     {
       "added_at": "2023-10-24 20:37:41",

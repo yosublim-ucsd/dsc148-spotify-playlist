@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,229 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,426 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 78 | [In the Bleak Midwinter](https://open.spotify.com/track/2Q7EmuVCLEY72iw7klTdPA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [In the Bleak Midwinter](https://open.spotify.com/album/43u0uu5HLQ0nXJqIxlWwiW) | 4:20 |
 | 79 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |
 | 80 | [Wizards in Winter \- Instrumental](https://open.spotify.com/track/3dvhNq0P4rNaFqmj21jKF5) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [The Lost Christmas Eve](https://open.spotify.com/album/2yJuneDUHgCOl6anHPstQG) | 3:05 |
-| 81 | [Father Christmas](https://open.spotify.com/track/0wtZQyqCVwaF5QuqkbHZT9) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Come Dancing with the Kinks \(The Best of the Kinks 1977\-1986\)](https://open.spotify.com/album/0JnB2CLFLJqHrqsCQr3auR) | 3:42 |
+| 81 | [Father Christmas](https://open.spotify.com/track/6eiS2z4hXTZ2VsNBJHsvM3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Picture Book](https://open.spotify.com/album/74kgMXHNs79ChPu0xi8FAe) | 3:40 |
 | 82 | [Ring Out, Solstice Bells \- 2003 Remaster](https://open.spotify.com/track/5UPNGmyaxdiGabPu3FzSlm) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Songs from the Wood](https://open.spotify.com/album/3hqr2lQ7zQdnyguyuID177) | 3:43 |
 | 83 | [Christmas on the Road](https://open.spotify.com/track/7xFtcZF21sF6L6ePdKq2YJ) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Christmas on the Road](https://open.spotify.com/album/4FKNkoRZwafEIzbINgIifZ) | 3:22 |
 | 84 | [Threadbare](https://open.spotify.com/track/4JrYtPByIks9p7h9FYhgeS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Threadbare](https://open.spotify.com/album/7n9A3XL9AprUZ4UhMRWCja) | 3:30 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 110 | [Sleigh Ride](https://open.spotify.com/track/7G89dEgWAsFw4rODlvygqB) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 2:55 |
 | 111 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCxlY2MzZDAwYTVmYWJkYjM0N2U0ODQ2M2FkNWI0Nzk5MTg3OGZhZjU1`
+Snapshot ID: `MCwzZWViOTg5YmE0ZTExYmVkMzJkZDM2MzAyYTgyMzU5NTYwMGM2MmUw`

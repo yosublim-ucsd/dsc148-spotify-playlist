@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-235 songs - 15 hr 25 min
+236 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2022-05-11 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/1a4GOXHBQLIg23ilouiAsl) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Remember](https://open.spotify.com/album/3RZ1A5fRgXfT9j1rDgDOuZ) | 4:25 | 2022-07-04 | 2022-07-29 |
 | [Reminisce](https://open.spotify.com/track/2loDo2DYHvIuUyj8NMhT9p) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Reminisce](https://open.spotify.com/album/4kK0qXAhAgg64PZ7b3q4u5) | 4:11 | 2022-05-11 | 2022-06-01 |
-| [Run from you](https://open.spotify.com/track/3ZLpVia2sizm0ccjLDo3wH) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3) | 3:57 | 2023-08-18 |  |
+| [Run from you](https://open.spotify.com/track/3ZLpVia2sizm0ccjLDo3wH) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3) | 3:57 | 2023-08-18 | 2023-11-17 |
 | [Run from you](https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/0s3ZnlwcovdIAm1OuWnPn2) | 3:57 | 2022-05-11 | 2022-07-23 |
 | [Sad book](https://open.spotify.com/track/2MX3uJQgNfx0vMrLf6rDid) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V), [Kim Seonghwan](https://open.spotify.com/artist/3crC2R1ytlaqCn5Ji2soN6) | [Sad book](https://open.spotify.com/album/22GskCD7rnZ8i9tf38pp8p) | 3:47 | 2022-06-20 | 2022-06-25 |
 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-04 |  |
@@ -238,6 +238,7 @@
 | [아직도 괜찮지 않은가 봐](https://open.spotify.com/track/7AwaRzPacYglDtx0skg39C) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/71WZV8KAPxXQMO4H8C69JS) | 3:53 | 2022-06-20 | 2022-06-26 |
 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-05-11 | 2022-07-27 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2022-05-11 |  |
+| [정류장 The last stop of our pain](https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [정류장 The last stop of our pain](https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED) | 4:12 | 2023-11-03 |  |
 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 | 2022-05-11 | 2023-01-19 |
 | [조심스러운 이유](https://open.spotify.com/track/1HQwtOiqL5rFku9ELPp8Bp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 3:29 | 2022-05-11 | 2022-07-13 |
 | [지나오다](https://open.spotify.com/track/5ndgHth5hDc2dFPDC9Sq9N) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/2tInxH0GgKYLdoclP1YjiM) | 4:41 | 2022-05-11 | 2022-07-27 |

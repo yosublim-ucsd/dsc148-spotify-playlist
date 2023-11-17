@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-163 songs - 10 hr 19 min
+166 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 | 2022-04-26 |  |
 | [Alter do Chão](https://open.spotify.com/track/6QGwP5HGzrFq8J6RyEf4ku) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Alter do Chão](https://open.spotify.com/album/5UKi55d1VLwwR9Hx5e7yyo) | 2:32 | 2022-04-26 |  |
 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 | 2022-04-26 | 2022-08-11 |
+| [Anita's Dream](https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Anita's Dream](https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b) | 3:07 | 2023-11-17 |  |
 | [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 | 2022-06-28 | 2022-12-24 |
 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 | 2022-04-26 | 2022-07-29 |
 | [Arrow](https://open.spotify.com/track/0uVEYY44hSFpA7czgNooR9) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Sombre](https://open.spotify.com/album/4j8NxXtdsYzudnOzeEQwxm) | 3:33 | 2022-04-26 |  |
@@ -62,6 +63,7 @@
 | [Drive\-Through Dinner](https://open.spotify.com/track/6xUyKTOx2LBGTlWz6Ndlvs) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:24 | 2022-04-26 |  |
 | [Enjoy Your Cigar](https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Sunset Martini](https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb) | 3:42 | 2022-08-10 |  |
 | [Escada Infinita](https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq) | [Danny Mandalay](https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl) | [Novo Bossa Nova](https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM) | 3:20 | 2022-04-26 |  |
+| [Esperança](https://open.spotify.com/track/068FKITnOAXx9zYVhHU2pM) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Esperança](https://open.spotify.com/album/4R8SgDPdpFpw9v2nvEyqM3) | 2:57 | 2023-11-17 |  |
 | [Esqueleto](https://open.spotify.com/track/60MvQP2d1MtTkcLZXbw0wn) | [Elevador](https://open.spotify.com/artist/7oZpGYjTZ3Jkw8ugYlJf7E) | [Cão Vadio](https://open.spotify.com/album/0SXFiAavVPGoaTbeRtsMt1) | 3:50 | 2022-04-26 |  |
 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-04-26 | 2022-10-07 |
 | [Estamos Ái](https://open.spotify.com/track/4EcIXzbnuTibtjTL5UxL0N) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Estamos Ái](https://open.spotify.com/album/69GvftuW0XyTcVKRWxrcP7) | 3:25 | 2022-08-30 |  |
@@ -141,6 +143,7 @@
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 | 2023-08-11 |
 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 | 2022-04-26 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-04-27 |  |
+| [Sombra La Lua](https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Sombra La Lua](https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5) | 3:46 | 2023-11-17 |  |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-04-26 | 2022-08-11 |
 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 | 2022-04-26 |  |
 | [Sonhar Acordado](https://open.spotify.com/track/19mMhSofoLJlqIEDy46fZ2) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 4:37 | 2022-04-26 |  |

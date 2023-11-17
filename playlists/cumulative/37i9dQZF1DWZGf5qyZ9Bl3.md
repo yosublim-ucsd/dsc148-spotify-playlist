@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-102 songs - 3 hr 54 min
+104 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [afternoon fusion](https://open.spotify.com/track/1rg9zi8x6siDbqLLK2akbQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [afternoon fusion](https://open.spotify.com/album/0psUW4Xb7xlFgZOArXsjwA) | 2:46 | 2023-09-22 |  |
 | [Aurora](https://open.spotify.com/track/3HU9ZNApVMhq8RmLFum4Mp) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Aurora](https://open.spotify.com/album/0umZ4KkR8xH3GxnP6J6HUk) | 3:05 | 2023-09-22 |  |
 | [Autumn Leaves](https://open.spotify.com/track/0IFEhrlRocuukXjcQ5szSW) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Autumn Leaves](https://open.spotify.com/album/3FbpvHVLSB0NVN2SZOvoBX) | 1:58 | 2023-09-22 |  |
+| [Autumn Visions](https://open.spotify.com/track/1qEB06ay6oCgNG9bRYzgNq) | [Uxxii](https://open.spotify.com/artist/3jzjuFegenZCrjd97xsQLC) | [Autumn Visions](https://open.spotify.com/album/0UMwiaDwM3ZXYlY71WoABm) | 2:14 | 2023-11-17 |  |
 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 | 2023-09-22 |  |
 | [back to the way it was](https://open.spotify.com/track/7A96feaxjLPBkVksD221Vb) | [slone](https://open.spotify.com/artist/7srYknHlhn9AnHNmBhAFOb) | [back to the way it was](https://open.spotify.com/album/1IOafL6GAmdaqvCzPHunUd) | 1:49 | 2023-09-22 |  |
 | [Balancing Act](https://open.spotify.com/track/4vCoZT4ZIQa34l60caeafu) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Balancing Act](https://open.spotify.com/album/4aDPMhyeN3LRMVDNWKzvns) | 1:33 | 2023-09-22 |  |
@@ -90,6 +91,7 @@
 | [Stir](https://open.spotify.com/track/5dCziBpQVzbNavB3xhRV5a) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Echo Chamber](https://open.spotify.com/album/0m3RxyaNTgnukZP16gxbVt) | 2:15 | 2023-09-22 |  |
 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 | 2023-09-22 |  |
 | [Summer Haze](https://open.spotify.com/track/7uscoXbsRGFkDXhPBay6uq) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Summer Haze](https://open.spotify.com/album/4xH8gyM3x1NfQrxab8ip9i) | 2:27 | 2023-09-22 |  |
+| [Sunset Boulevard](https://open.spotify.com/track/7uNB5da4RZLnfWIE8xIQZk) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Sunset Boulevard](https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb) | 2:15 | 2023-11-17 |  |
 | [Sunshine](https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8) | [Becky Bowder](https://open.spotify.com/artist/4H2ndjNhOqdmRcrWzvnNEo) | [Sunshine](https://open.spotify.com/album/5t8Bjlsv1UtsMgfHeH4kbf) | 2:22 | 2023-09-22 |  |
 | [telescape](https://open.spotify.com/track/1x2ddqYnVN1GDJWz4MiL8F) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [telescape](https://open.spotify.com/album/7EUmRwjLF90VFKFbrUVtAW) | 1:56 | 2023-09-22 |  |
 | [The Comeback Kid!](https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [The Comeback Kid!](https://open.spotify.com/album/6QjDkjlTwBWIYvdHPf94G0) | 2:39 | 2023-09-22 |  |

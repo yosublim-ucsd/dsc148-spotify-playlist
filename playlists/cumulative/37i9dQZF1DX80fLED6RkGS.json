@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=TAxr6tlVQImba3vwKnirxw\"> Exray Taniua </a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=1ojDmF_JTw-m7rq6pQmTVg\"> Maandy </a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 163160,
       "name": "Alert",
       "url": "https://open.spotify.com/track/33htkCWlVopcE4UQRQ8710"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 222000,
       "name": "Bariki Mzinga",
       "url": "https://open.spotify.com/track/1Fntb3jTzqiq24KEvQJDUV"
@@ -747,6 +747,32 @@
     },
     {
       "album": {
+        "name": "Body Count",
+        "url": "https://open.spotify.com/album/0Vr9Kp5Rb2kHwD3Eji29r7"
+      },
+      "artists": [
+        {
+          "name": "Noti Flow",
+          "url": "https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185279,
+      "name": "Body Count",
+      "url": "https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3"
+    },
+    {
+      "album": {
         "name": "Bonga Bonga",
         "url": "https://open.spotify.com/album/1KpP5H0yDNiBywnjPMGi5Y"
       },
@@ -844,7 +870,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 244558,
       "name": "Btw",
       "url": "https://open.spotify.com/track/1JbIMllQHyjAdq3S1yHeep"
@@ -1879,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "G 2 G (Genge to Grammy)",
+        "url": "https://open.spotify.com/album/7fqkkzqLBFCzhFuFKgoUKC"
+      },
+      "artists": [
+        {
+          "name": "Eladin Kiranja Wa Rende",
+          "url": "https://open.spotify.com/artist/3Z9htGqCQL9VBHfqgTnH2g"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146654,
+      "name": "Genge Banger",
+      "url": "https://open.spotify.com/track/6TiMhtf3KMsoSWL16dBzxB"
+    },
+    {
+      "album": {
         "name": "EXPOSED (Munga`s Revenge)",
         "url": "https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n"
       },
@@ -2562,6 +2606,24 @@
       "duration_ms": 294568,
       "name": "Kaveve Kazoze (Remix)",
       "url": "https://open.spotify.com/track/4gh5zJb9IrOTtAWcmaJs4b"
+    },
+    {
+      "album": {
+        "name": "Kejani",
+        "url": "https://open.spotify.com/album/0cmB6MbFMNdqjOjKbOVqZO"
+      },
+      "artists": [
+        {
+          "name": "sosatheprodigyy",
+          "url": "https://open.spotify.com/artist/4LFr9lmpNxcbQRDToII2q4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205705,
+      "name": "Kejani",
+      "url": "https://open.spotify.com/track/75EHmOnNQFy6Vzw11qbuHB"
     },
     {
       "album": {
@@ -3348,7 +3410,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 149446,
       "name": "Makudiro",
       "url": "https://open.spotify.com/track/7pTswKcVWgaGBKtY42e31R"
@@ -4502,7 +4564,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 181894,
       "name": "Ni Wetu",
       "url": "https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF"
@@ -4940,6 +5002,28 @@
       "duration_ms": 218833,
       "name": "Pills N Drugs",
       "url": "https://open.spotify.com/track/42t5JzMb3tw4CiWtUQl5bB"
+    },
+    {
+      "album": {
+        "name": "Pocahantas",
+        "url": "https://open.spotify.com/album/4QaCeC55ghgtBFliu7SMtY"
+      },
+      "artists": [
+        {
+          "name": "Storyteller Sam",
+          "url": "https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x"
+        },
+        {
+          "name": "Boke",
+          "url": "https://open.spotify.com/artist/0OhXLzlADt1WyKjus934n3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193132,
+      "name": "Pocahantas",
+      "url": "https://open.spotify.com/track/2lKb0Zxafn6GLthqh3Fd3P"
     },
     {
       "album": {
@@ -6526,6 +6610,28 @@
       "duration_ms": 211252,
       "name": "Unaonaje",
       "url": "https://open.spotify.com/track/3fBqp1yQcxVy16aLHcl6mg"
+    },
+    {
+      "album": {
+        "name": "Update Status",
+        "url": "https://open.spotify.com/album/1SEb4D5etu08tpFek7gsoC"
+      },
+      "artists": [
+        {
+          "name": "Arrif Shizo",
+          "url": "https://open.spotify.com/artist/2xzDbhdOze7w3jQNARy5q8"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "Update Status",
+      "url": "https://open.spotify.com/track/3sLugEb8xrupyOpFRygRdr"
     },
     {
       "album": {

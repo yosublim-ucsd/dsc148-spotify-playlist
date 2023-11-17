@@ -4,7 +4,7 @@
 
 > ahhhhhhhhh
 
-63 songs - 3 hr 22 min
+64 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-06-16 | 2023-08-08 |
 | [Oceania](https://open.spotify.com/track/0x4i5CHGt57neMPfHj1m7n) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medulla](https://open.spotify.com/album/6bjGw9Clp684XTRPBI0h6K) | 3:24 | 2022-06-16 |  |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2022-06-16 |  |
-| [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 | 2023-08-07 |  |
+| [Parasite](https://open.spotify.com/track/6CbLM1XXg4bFR6oCXXMVM6) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/6VxaPwWSbuar6T4W8D6vX2) | 1:56 | 2023-08-07 |  |
+| [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 | 2023-08-07 | 2023-11-17 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-06-16 |  |
 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 | 2022-06-16 |  |
 | [Plump](https://open.spotify.com/track/2nbTJN4paC2VOCEGX1kh1x) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 2:34 | 2022-06-16 |  |

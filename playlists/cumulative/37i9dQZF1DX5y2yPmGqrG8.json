@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
@@ -4336,6 +4336,10 @@
         {
           "name": "Savoir Adore",
           "url": "https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8"
+        },
+        {
+          "name": "Image Tapes",
+          "url": "https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz"
         }
       ],
       "date_added": "2021-10-06",
@@ -9474,7 +9478,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 347981,
       "name": "Vision of Self",
       "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"

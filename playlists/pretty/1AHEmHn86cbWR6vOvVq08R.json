@@ -1,29 +1,13 @@
 {
   "description": "Over 6 hours of Alternative &amp; Rock anthems from the 90's including Blink 182, Offspring and more! Cover: Nirvana ",
-  "num_followers": 9727,
+  "num_followers": 9730,
   "original_name": "90s Alternative",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MTY2Niw4ZWNmYjFlMzAxYmEzZGRjNzE5NTVhM2U5OGUxNmY2ZWVhMTRjMjM0",
+  "snapshot_id": "MTY2OSwzYjEzZDU5MjE5MjUwZTRmODQyMmE4ZTBiNjgwYzllZjE1NjI2NzQ2",
   "tracks": [
-    {
-      "added_at": "2023-09-20 01:12:23",
-      "album": {
-        "name": "Day For Night",
-        "url": "https://open.spotify.com/album/3qtWDY2yl7NGrpCYqxrUt6"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Nautical Disaster",
-      "url": "https://open.spotify.com/track/58Gi98Nvrjo7qVI1dHOqFD"
-    },
     {
       "added_at": "2023-09-20 01:12:23",
       "album": {
@@ -1065,7 +1049,23 @@
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
-      "added_at": "2023-11-09 08:19:09",
+      "added_at": "2023-09-20 01:12:23",
+      "album": {
+        "name": "Day For Night",
+        "url": "https://open.spotify.com/album/3qtWDY2yl7NGrpCYqxrUt6"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Nautical Disaster",
+      "url": "https://open.spotify.com/track/58Gi98Nvrjo7qVI1dHOqFD"
+    },
+    {
+      "added_at": "2023-11-16 07:41:27",
       "album": {
         "name": "Title Of Record",
         "url": "https://open.spotify.com/album/0bsS6wybJvPfLs7cr3bj7j"

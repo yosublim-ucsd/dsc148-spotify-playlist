@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 420684,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 241500,
       "name": "Boasting",
       "url": "https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6"
@@ -1096,6 +1096,24 @@
       "duration_ms": 235200,
       "name": "Diffusus",
       "url": "https://open.spotify.com/track/4FLZkM2KJn8kj5A4J03ooQ"
+    },
+    {
+      "album": {
+        "name": "Dirty Blonde",
+        "url": "https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207067,
+      "name": "Dirty Blonde",
+      "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
     },
     {
       "album": {
@@ -1978,8 +1996,8 @@
           "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
         },
         {
-          "name": "Magnus",
-          "url": "https://open.spotify.com/artist/3Axzi0Ac9JRwejcRSmhTtV"
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
       "date_added": "2023-11-13",
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 263616,
       "name": "Intelligent Energy",
       "url": "https://open.spotify.com/track/7GOBFwwgn3cpWj6OwVZ1A6"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 272250,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
@@ -2452,6 +2470,24 @@
       "duration_ms": 219187,
       "name": "Made 4 U",
       "url": "https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD"
+    },
+    {
+      "album": {
+        "name": "Making Papers",
+        "url": "https://open.spotify.com/album/2ybj5Ff2isOTMz674PmPGQ"
+      },
+      "artists": [
+        {
+          "name": "Baxter",
+          "url": "https://open.spotify.com/artist/44hRRRhNR9moRvxr2wQj6u"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178311,
+      "name": "Making Papers",
+      "url": "https://open.spotify.com/track/06wnb62LHnOLOyQIElfX6t"
     },
     {
       "album": {
@@ -2528,6 +2564,24 @@
       "duration_ms": 397996,
       "name": "Mare's Nest",
       "url": "https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh"
+    },
+    {
+      "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/3LzqlsPJ1HRJVdNlJBGAcL"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224772,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/6zvKhmH15Nlhet5nKDdVdI"
     },
     {
       "album": {
@@ -2828,6 +2882,24 @@
       "duration_ms": 372000,
       "name": "Mythrill",
       "url": "https://open.spotify.com/track/0PcrE1lcR3mvZqM8K4IUUj"
+    },
+    {
+      "album": {
+        "name": "Need Electric (2023 Redux)",
+        "url": "https://open.spotify.com/album/7MmVWRGEAORaSsGSlZ3pWB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Need Electric - 2023 Redux - Edit",
+      "url": "https://open.spotify.com/track/5G28Zwt1Scwr3XS8IQDtLh"
     },
     {
       "album": {
@@ -3351,6 +3423,28 @@
     },
     {
       "album": {
+        "name": "Raven (Mathame Remix)",
+        "url": "https://open.spotify.com/album/5XfGd1mL1KQ7cyT4hID0nM"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Proxy",
+          "url": "https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393070,
+      "name": "Raven - Mathame Remix",
+      "url": "https://open.spotify.com/track/0PHWOPRYE6ze9juI91h2An"
+    },
+    {
+      "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/1WMfD1ahZbc4vXyUZ8s8VM"
       },
@@ -3362,7 +3456,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 335404,
       "name": "Ready To Roll",
       "url": "https://open.spotify.com/track/4iuiFb9jw1mykbY8TcoCmF"
@@ -3674,7 +3768,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/3idWxkGAnciwFL0DL60683"
@@ -3950,7 +4044,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 210412,
       "name": "Still Flowing Water - Edit",
       "url": "https://open.spotify.com/track/6rSIyjJakGuPx7DL1GoMan"
@@ -4135,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "Technodroid EP",
+        "url": "https://open.spotify.com/album/1CGoimGj9pDkpfbUZ135wx"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364545,
+      "name": "Technodroid",
+      "url": "https://open.spotify.com/track/5WktV40n5IA1cyrikR69y8"
+    },
+    {
+      "album": {
         "name": "A Recurring Nature",
         "url": "https://open.spotify.com/album/06MbkEoh9pOQW2oxDwCGiX"
       },
@@ -4186,7 +4298,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 173504,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/2Rd7hUQ3nTMgev8TfihesD"
@@ -4643,6 +4755,32 @@
     },
     {
       "album": {
+        "name": "Waking Life (A New Dawn) [feat. Michael Ekow]",
+        "url": "https://open.spotify.com/album/7wYR9YnoRuKOsrveDwkzcG"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193594,
+      "name": "Waking Life (A New Dawn) [feat. Michael Ekow]",
+      "url": "https://open.spotify.com/track/3dZgjwk1krwcKzb5CFPmov"
+    },
+    {
+      "album": {
         "name": "Walkin'",
         "url": "https://open.spotify.com/album/2XuVJHfP5vUymaowjgVBZe"
       },
@@ -4854,6 +4992,24 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191408,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k"
     },
     {
       "album": {

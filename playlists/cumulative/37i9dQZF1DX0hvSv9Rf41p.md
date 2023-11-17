@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Chase & Status
 
-661 songs - 1 day 14 hr 5 min
+662 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-06-10 | 2022-12-03 |
 | [LOVE ROCKET](https://open.spotify.com/track/07Jlj2b9aloUsFDhOoeaqm) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe), [Elephant Heart](https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5) | 4:14 | 2021-12-17 | 2022-03-12 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-17 | 2022-02-26 |
+| [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 |  |
 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 | 2023-01-20 | 2023-07-29 |
 | [Mass Destruction](https://open.spotify.com/track/1RAFDlJk4pf9VfNbuLjxMA) | [AlienPark](https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R), [Usaybflow](https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i) | [Mass Destruction](https://open.spotify.com/album/2FNnWBk29lwRlR5XikUoE8) | 3:31 | 2023-07-07 | 2023-09-09 |
 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY) | 2:58 | 2021-12-17 | 2022-05-07 |
@@ -575,7 +576,7 @@
 | [Take Flight](https://open.spotify.com/track/6zzys1P8y3cLzGyj7mGz5y) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Take Flight](https://open.spotify.com/album/6KUwI4RCbvqZZbKCCiwpjO) | 4:37 | 2021-12-17 | 2022-02-26 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-06 | 2022-08-06 |
 | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95) | 3:38 | 2022-07-01 | 2023-07-08 |
-| [Take Your Throne](https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Play With You](https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w) | 3:34 | 2023-09-15 |  |
+| [Take Your Throne](https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Play With You](https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w) | 3:34 | 2023-09-15 | 2023-11-17 |
 | [Takin' Over](https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK) | [Takin' Over](https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY) | 2:19 | 2021-12-17 | 2022-05-07 |
 | [Tear Jerker](https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Tear Jerker](https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu) | 2:35 | 2023-11-03 |  |
 | [Terrabot](https://open.spotify.com/track/3VC4xbdEJ6W1RkAQ20Wto1) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Terrabot](https://open.spotify.com/album/4ubvzMcNnsIsYU9S78zb2h) | 3:18 | 2022-03-18 | 2023-01-04 |

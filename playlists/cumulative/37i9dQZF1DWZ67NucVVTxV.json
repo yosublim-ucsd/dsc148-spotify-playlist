@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/6ZNm2eW5rxG18gzgtE7iWR"
+      },
+      "artists": [
+        {
+          "name": "Klent Maidas",
+          "url": "https://open.spotify.com/artist/5HJZof8HvPVFswmsVbPt6k"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/0AQf6pQyEI2vXHxnxQzE1X"
+    },
+    {
+      "album": {
         "name": "Aje",
         "url": "https://open.spotify.com/album/2nXACAmcwj81IwAJ7AebT7"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 152368,
       "name": "Crazy Crazy",
       "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
@@ -1894,6 +1912,24 @@
       "duration_ms": 192731,
       "name": "Devil Agent (2 Fighting)",
       "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
+    },
+    {
+      "album": {
+        "name": "Disconnect + Go Hard",
+        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/26ie1qNqSkk62pgFBvOpKc"
     },
     {
       "album": {
@@ -2258,7 +2294,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
@@ -3807,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "KATIGORI/PIANO",
+        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "KATIGORI",
+      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
+    },
+    {
+      "album": {
         "name": "Keep Moving On",
         "url": "https://open.spotify.com/album/0ahrCzehmiBksefefLbguK"
       },
@@ -3950,7 +4004,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
@@ -4088,7 +4142,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
@@ -4278,6 +4332,28 @@
       "duration_ms": 228837,
       "name": "Loke",
       "url": "https://open.spotify.com/track/1apR6WcaNHQWq8a6pa8SIx"
+    },
+    {
+      "album": {
+        "name": "Lonely At The Top (Remix)",
+        "url": "https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Lonely At The Top - Remix",
+      "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
     },
     {
       "album": {
@@ -5276,7 +5352,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
@@ -6723,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/6k7zXze4nL2A2E3su4jQJE"
+      },
+      "artists": [
+        {
+          "name": "Temmy D",
+          "url": "https://open.spotify.com/artist/1u4gSyNuMZLfGZ0eM2btC3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151044,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/0JrC0UA8FeCjiQMiJbMFkp"
+    },
+    {
+      "album": {
         "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
         "url": "https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp"
       },
@@ -6790,6 +6884,32 @@
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+    },
+    {
+      "album": {
+        "name": "THE GENESIS",
+        "url": "https://open.spotify.com/album/17yWmoY733ymMQm4zhmicN"
+      },
+      "artists": [
+        {
+          "name": "Leczy",
+          "url": "https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT"
+        },
+        {
+          "name": "Peeray",
+          "url": "https://open.spotify.com/artist/0jhGRljC573bV86q5a16oF"
+        },
+        {
+          "name": "C bryan",
+          "url": "https://open.spotify.com/artist/24sdkHclQeYElyb9d2onhx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198368,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/7DBsF4GY4DHAIesHAXGGiE"
     },
     {
       "album": {
@@ -6963,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd"
+      },
+      "artists": [
+        {
+          "name": "Banzy Banero",
+          "url": "https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203755,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1"
+    },
+    {
+      "album": {
         "name": "Turkey Nla",
         "url": "https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd"
       },
@@ -6992,7 +7130,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 93473,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ"
@@ -7226,7 +7364,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
@@ -7532,6 +7670,24 @@
       "duration_ms": 146598,
       "name": "Yawa No Dey End",
       "url": "https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe"
+    },
+    {
+      "album": {
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Yaya Toure",
+      "url": "https://open.spotify.com/track/5FuI6UM6CTxzaN0P0wbZ0i"
     },
     {
       "album": {

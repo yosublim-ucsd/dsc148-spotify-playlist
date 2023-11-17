@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: MOIO
 
-1,417 songs - 3 day 3 hr 48 min
+1,418 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [airplanes](https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT) | [Lio Kalebic](https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX) | [airplanes](https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS) | 1:22 | 2023-11-15 |  |
 | [Alabaster](https://open.spotify.com/track/4f3KrxEGZ3thdvUrK4uUP9) | [Rosa Lavenne](https://open.spotify.com/artist/68Qz8rSv7EhVff0atEmo2Q) | [Alabaster](https://open.spotify.com/album/3WghQ7hfqGXHfuDenxmNeC) | 3:33 | 2022-01-05 | 2022-02-10 |
 | [Alchemy](https://open.spotify.com/track/1bP5YTdgH4jr13CDDSpBdE) | [i.b\. palms](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Alchemy](https://open.spotify.com/album/4Xwwc7D75MxlvO8mAs78BV) | 3:13 | 2023-01-04 | 2023-01-19 |
-| [Alina](https://open.spotify.com/track/7gclf1vrwlMLAtb2yZEiqL) | [Enny Owl](https://open.spotify.com/artist/2uecsLEOt63rmrWey4J1JF) | [Alina](https://open.spotify.com/album/4bOeaTfu13AG8ir53qO1MS) | 3:21 | 2023-10-10 |  |
+| [Alina](https://open.spotify.com/track/7gclf1vrwlMLAtb2yZEiqL) | [Enny Owl](https://open.spotify.com/artist/2uecsLEOt63rmrWey4J1JF) | [Alina](https://open.spotify.com/album/4bOeaTfu13AG8ir53qO1MS) | 3:21 | 2023-10-10 | 2023-11-17 |
 | [All Around](https://open.spotify.com/track/5RRol9fFPVA9YxuutdBxQv) | [Ella Knight](https://open.spotify.com/artist/3XUsPTJ2XyaMij5wXsghDI) | [All Around](https://open.spotify.com/album/0Gb1Pex8RbNowjbsMNdtIi) | 4:03 | 2022-03-08 | 2022-03-09 |
 | [All For Nothing](https://open.spotify.com/track/1xJlTxaNva7jcU5He6sauv) | [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [All For Nothing](https://open.spotify.com/album/0P8VdICsR9YN4RGNMvUrm7) | 2:33 | 2023-07-18 | 2023-08-23 |
 | [All I Do](https://open.spotify.com/track/1wff2E9wqGmO1NGHNdjmir) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [All I Do](https://open.spotify.com/album/7xchVv7MRGCHGTMBcSjSWg) | 3:39 | 2022-01-05 | 2022-03-09 |
@@ -712,6 +712,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/7fcD5Ec3o2obmOQfJecib4) | [Arnon Ray Pereira](https://open.spotify.com/artist/6b8O9G6rsfpC5IHc2VRrMu) | [Kaleidoscope](https://open.spotify.com/album/62yWcU2moAh5R3Zv1C3DoE) | 2:57 | 2023-01-04 | 2023-02-16 |
 | [Keep The Faith](https://open.spotify.com/track/2H0RjGX4Qh3qNktXRnkNUR) | [Jesse Ayo](https://open.spotify.com/artist/71KS30mVHlgBkH0ULP0dFU) | [Keep The Faith](https://open.spotify.com/album/3NizG4xNngmV3NjgBRftn1) | 3:00 | 2023-08-22 | 2023-09-13 |
 | [Kids](https://open.spotify.com/track/2eEDSiImAlmr8403EChK0R) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Kids](https://open.spotify.com/album/3Hjw4hTQa3wN4dyiZMEms0) | 2:09 | 2022-01-19 | 2022-02-17 |
+| [Killers](https://open.spotify.com/track/078SrbxWDf0hvzEv6hDTyL) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Killers](https://open.spotify.com/album/7nzdV7pxXhGojG5cnpOrwI) | 3:36 | 2023-11-16 |  |
 | [Kimbo](https://open.spotify.com/track/5LOYEyu49C5PSyzVKSiqTM) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Kimbo](https://open.spotify.com/album/25x3ck5y5bFbAAQjWe9xIn) | 3:54 | 2023-01-25 | 2023-03-29 |
 | [kinda don't wanna exist](https://open.spotify.com/track/3dcTkVIkD8oW2Ug351Oq73) | [Elisa Ailes](https://open.spotify.com/artist/1UvxtqRR5lVUcO90xgz9DP) | [kinda don't wanna exist](https://open.spotify.com/album/6rSDB1kjY3POLJq7v8iDtX) | 1:49 | 2022-10-19 | 2023-03-09 |
 | [Kingpin’s Achilles](https://open.spotify.com/track/6AAdJaI4hINLMIP2G40mhJ) | [jesi](https://open.spotify.com/artist/0yxqFoPntD6G4CStjyjMww) | [Sayonara City](https://open.spotify.com/album/7yYTN3lp9LrJ6uQFUNQGZz) | 3:56 | 2022-06-29 | 2022-07-28 |

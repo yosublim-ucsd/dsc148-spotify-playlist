@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 83367,
+  "num_followers": 83459,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx",
+  "snapshot_id": "MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -855,18 +855,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 178787,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+      "duration_ms": 161561,
+      "name": "pity party (feat. Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -887,22 +891,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 161561,
-      "name": "pity party (feat. Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
+      "duration_ms": 178787,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Inside Voices / Outside Voices",
+        "url": "https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 225033,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/140FZc81yT89NfXsooPWWW"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "SALT (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 222375,
       "name": "SALT (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Inside Voices / Outside Voices",
-        "url": "https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/140FZc81yT89NfXsooPWWW"
     },
     {
       "added_at": "2022-11-15 00:54:21",

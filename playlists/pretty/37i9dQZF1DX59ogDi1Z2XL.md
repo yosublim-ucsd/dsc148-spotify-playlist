@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: YSN Fab
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,670 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,732 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Knee Deep](https://open.spotify.com/track/7mcR36AWiXCMuKSRdlX7fF) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Knee Deep](https://open.spotify.com/album/403towgCYJ3QoEl8wTlDGA) | 2:15 |
 | 100 | [Just Like Me feat\. NAV](https://open.spotify.com/track/3NNHfUOA7t6VEZ8j1hqtmv) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:12 |
 
-Snapshot ID: `MCw4NzcxYzAwMzAzZGIyOTFiY2Y0MTQ4NmI5MDc2ZDRiYThlMzVmNmM0`
+Snapshot ID: `MCxlNTFiZTMwM2M5NWUzNDMwNmRlYTU0YjI0Y2I1NTVkYmIzY2ExMDQ0`

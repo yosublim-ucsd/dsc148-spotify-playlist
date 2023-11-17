@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: Shay
+> Photo: KeBlack
 
-53 songs - 2 hr 38 min
+54 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,13 +43,14 @@
 | [Parabellum](https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Parabellum](https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb) | 2:34 | 2023-09-28 |  |
 | [Pensées noires](https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Pensées noires](https://open.spotify.com/album/4sdwgKGBkbBQpmVXqjx0wg) | 2:37 | 2023-10-12 | 2023-11-10 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-09-28 |  |
+| [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/track/2aAAKJ6iWImiVL7WAZc6JL) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/album/74frmqOXlv1YtSCVb874M4) | 3:14 | 2023-11-16 |  |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-09-28 | 2023-10-13 |
 | [Reste Trankil](https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reste Trankil](https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm) | 3:19 | 2023-10-12 |  |
 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 | 2023-09-28 |  |
 | [Rêves de gosse](https://open.spotify.com/track/6vmIRK3rnKhfiCo0fLb2UL) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Rêves de gosse](https://open.spotify.com/album/0lKIcj2OM4dsPqrqowKqju) | 2:34 | 2023-09-28 |  |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-09-28 |  |
-| [Salsa](https://open.spotify.com/track/6Sn4DF082OidVgKmF2IJSo) | [HDX](https://open.spotify.com/artist/7GxsVvE196y7ZQKRmhyEY6) | [Salsa](https://open.spotify.com/album/1dHwor6ZgMyqwNCb6gxx4x) | 2:36 | 2023-10-19 |  |
-| [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 | 2023-11-09 |  |
+| [Salsa](https://open.spotify.com/track/6Sn4DF082OidVgKmF2IJSo) | [HDX](https://open.spotify.com/artist/7GxsVvE196y7ZQKRmhyEY6) | [Salsa](https://open.spotify.com/album/1dHwor6ZgMyqwNCb6gxx4x) | 2:36 | 2023-10-19 | 2023-11-17 |
+| [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 | 2023-11-09 | 2023-11-17 |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-09-28 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-05 |  |
 | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/track/1qStFguolAbU8pPFoZu8xy) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB) | 2:51 | 2023-09-28 | 2023-10-06 |

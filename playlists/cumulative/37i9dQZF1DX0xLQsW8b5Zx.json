@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 165293,
       "name": "My Little Sister Gotta Motorbike",
       "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
@@ -2294,6 +2294,24 @@
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+    },
+    {
+      "album": {
+        "name": "Sun Records Originals: Flyin' Saucers Rock & Roll",
+        "url": "https://open.spotify.com/album/0bj7M9oajGqNlBM7H3CHIS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "Red Hot - Remastered 2022",
+      "url": "https://open.spotify.com/track/4xDt9STUARW0vyDbPCI9Yi"
     },
     {
       "album": {

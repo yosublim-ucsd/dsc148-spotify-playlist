@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "iNtwenhle",
+        "url": "https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn"
+      },
+      "artists": [
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        },
+        {
+          "name": "Kaelan DiJulio",
+          "url": "https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "iNtwenhle",
+      "url": "https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -1296,7 +1318,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 240028,
       "name": "Koth Chwe",
       "url": "https://open.spotify.com/track/1ZUpqe0Sq2ljqiGEUbEyIn"
@@ -1634,6 +1656,28 @@
       "duration_ms": 161073,
       "name": "Moses",
       "url": "https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8"
+    },
+    {
+      "album": {
+        "name": "Mpenzi Wangu",
+        "url": "https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Nawekulo",
+          "url": "https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172947,
+      "name": "Mpenzi Wangu",
+      "url": "https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA"
     },
     {
       "album": {
@@ -2286,7 +2330,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 193937,
       "name": "Shade Tree",
       "url": "https://open.spotify.com/track/67xbJtDkUsrIzPVSf08B36"

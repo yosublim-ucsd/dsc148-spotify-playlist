@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-58 songs - 3 hr 53 min
+59 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [Burnin' And Lootin'](https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:13 | 2019-10-02 |  |
 | [Burnin' And Lootin'](https://open.spotify.com/track/3fgLnDbABMr41BpEPTeQCU) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Gold](https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ) | 4:14 | 2022-03-03 | 2023-05-14 |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2019-10-02 |  |
-| [Cry, Cry, Cry](https://open.spotify.com/track/2M7OCTV6KNgATk1T4e0HBj) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Family Time](https://open.spotify.com/album/4q9TZS99i6mrHsKwaWS6O0) | 4:43 | 2022-03-03 |  |
+| [Cry, Cry, Cry](https://open.spotify.com/track/2M7OCTV6KNgATk1T4e0HBj) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Family Time](https://open.spotify.com/album/4q9TZS99i6mrHsKwaWS6O0) | 4:43 | 2022-03-03 | 2023-11-17 |
 | [Cry, Cry, Cry](https://open.spotify.com/track/0AFXdMYA1igrP4m4ubYrOf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:43 | 2022-03-03 | 2022-10-13 |
 | [Cry, Cry, Cry](https://open.spotify.com/track/3rL6j9GjRu4yje1I4jvHWT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:43 | 2022-03-03 | 2023-11-09 |
+| [Cry, Cry, Cry \(feat\. Jack Johnson; Paula Fuga\)](https://open.spotify.com/track/36lef8eQDKVxy54w06abfX) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jack Johnson](https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:43 | 2022-03-03 |  |
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2022-03-03 |  |
 | [Exodus](https://open.spotify.com/track/5nDPGDOqmAeSV4hXQsAU01) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 7:40 | 2019-10-02 | 2022-07-29 |
 | [Forever Loving Jah](https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:02 | 2019-10-02 |  |

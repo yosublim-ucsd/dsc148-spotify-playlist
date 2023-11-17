@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-339 songs - 16 hr 59 min
+341 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Glitter](https://open.spotify.com/track/6rwt2eHNCTkN7Qf8glvwKW) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Glitter](https://open.spotify.com/album/5H68CtVXVMBMiifT3Px875) | 3:04 | 2023-04-07 |  |
 | [go back to sleep](https://open.spotify.com/track/10iVkC7JmOcnde215g7Xn1) | [pretend penguin](https://open.spotify.com/artist/0d3VJgvWH9XP3S57lQP8p8) | [go back to sleep](https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e) | 2:11 | 2021-10-12 | 2022-02-12 |
 | [Gold Coast](https://open.spotify.com/track/5XVEEfGmtPbUNUgtZhplx7) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Gold Coast](https://open.spotify.com/album/6mGgCQtLcHNKmZmjFewPMg) | 2:09 | 2022-10-07 |  |
+| [Gradual Downhill](https://open.spotify.com/track/24bFwSuFvuaYS4XrVZsBPX) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Gradual Downhill](https://open.spotify.com/album/0JmZJNNlnr0T8NzfztRAUb) | 3:06 | 2023-11-17 |  |
 | [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 | 2022-12-09 |  |
 | [hagaparken](https://open.spotify.com/track/5u3rKKdFqAl63VuzbWDZ2P) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [hagaparken](https://open.spotify.com/album/18MAXqnzVBabmMptAeu14h) | 1:59 | 2021-10-12 | 2022-02-12 |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2022-02-11 |  |
@@ -166,6 +167,7 @@
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2021-10-26 | 2022-02-12 |
 | [Lost and sound](https://open.spotify.com/track/4deG32OdrRCNIRRqlltdUJ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Lost and sound](https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU) | 2:58 | 2022-08-19 |  |
 | [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 | 2022-08-12 | 2023-02-10 |
+| [Love Again](https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Love Again](https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7) | 2:08 | 2023-11-17 |  |
 | [Love and Fear](https://open.spotify.com/track/2yZLrdAVKZXS6dhWtnheXw) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love and Fear](https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i) | 2:13 | 2019-10-04 | 2022-02-12 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2022-02-11 | 2022-10-13 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/30WY6XV23tYQ3yBXGEgGcn) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 5:40 | 2022-10-07 | 2023-08-25 |

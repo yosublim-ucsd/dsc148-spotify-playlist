@@ -4,14 +4,15 @@
 
 > Unearthing your new favourite artists\. Cover: RINES\. Artwork: Isu Kim.
 
-577 songs - 1 day 7 hr 51 min
+578 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [009](https://open.spotify.com/track/25D7HgL9wt8OY3V3mbj2rK) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [009](https://open.spotify.com/album/0ixhSJxMd4AvGWDWCIFoFZ) | 2:56 | 2022-01-13 | 2022-06-17 |
 | [12 Rounds](https://open.spotify.com/track/391YzARGCyPXjULkI9VTpl) | [Terrestrea](https://open.spotify.com/artist/7xRnjuKIM86fs5jrc7iwB1) | [12 Rounds](https://open.spotify.com/album/3L6M6zDpLESYznqaEFCAnT) | 3:00 | 2022-01-13 | 2022-03-11 |
 | [2020](https://open.spotify.com/track/13pFyKbT1u9gVUhNuODeO5) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [2020](https://open.spotify.com/album/340SJshdx3n0fntzKCTioQ) | 3:54 | 2022-09-09 | 2023-03-10 |
-| [2LIVES](https://open.spotify.com/track/23WWYd2Ob0Thf66IMxMWUJ) | [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo), [TIM TOSHIBA](https://open.spotify.com/artist/7ddSNRr7yhwK01jNeqJLRQ) | [2LIVES](https://open.spotify.com/album/7h6zKuBJ7uQNdAO1BEqvXg) | 3:33 | 2023-10-19 |  |
+| [2LIVES](https://open.spotify.com/track/23WWYd2Ob0Thf66IMxMWUJ) | [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo), [TIM TOSHIBA](https://open.spotify.com/artist/7ddSNRr7yhwK01jNeqJLRQ) | [2LIVES](https://open.spotify.com/album/7h6zKuBJ7uQNdAO1BEqvXg) | 3:33 | 2023-10-19 | 2023-11-17 |
+| [2LIVES](https://open.spotify.com/track/5j5QQaWJnBekjn4SOipo7U) | [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo), [TIMTOSHIBA](https://open.spotify.com/artist/2qGcTSnPp2BzZ2D1YaEDQH) | [2LIVES](https://open.spotify.com/album/3uKRylnD0hb97tc2ZTbc6P) | 3:33 | 2023-11-09 |  |
 | [3:07](https://open.spotify.com/track/3Z1rQsWrqtCk3lgQFbqnrI) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx), [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [3:07](https://open.spotify.com/album/5lv0shRMmophaPNApOmK65) | 3:48 | 2023-10-19 |  |
 | [4FREE](https://open.spotify.com/track/79OyP5Q7m8pC8Js1Eybpgw) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [4FREE](https://open.spotify.com/album/72lp4Ez6x7GO7mZVTRrca3) | 3:06 | 2022-11-10 | 2023-06-16 |
 | [666](https://open.spotify.com/track/755QVRdvubfL0ncGAXls5W) | [Nicco Homaili](https://open.spotify.com/artist/5sjvJdmkJqgxLqq94IsYEf) | [666](https://open.spotify.com/album/3SyR4NalqLfM2k94Ej3AFe) | 3:05 | 2022-06-16 | 2022-09-16 |

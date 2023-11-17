@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-372 songs - 20 hr 29 min
+373 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Get Right](https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 2:49 | 2022-04-08 | 2022-04-21 |
 | [Girl](https://open.spotify.com/track/0Mk38pvAxRIUCwGZkysjyP) | [Brand New Friend](https://open.spotify.com/artist/7iWAQPQTaX1BV0IYFbxKoU) | [Girl](https://open.spotify.com/album/6qeuWLyw1PqjQCzFC7yotB) | 1:59 | 2022-04-08 | 2022-04-21 |
 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 | 2021-09-02 |  |
-| [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 | 2022-04-08 |  |
+| [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 | 2022-04-08 | 2023-11-17 |
 | [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 | 2022-04-08 |  |
 | [Give It Up](https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Forget What You Know](https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu) | 3:39 | 2022-04-08 | 2022-04-21 |
 | [Give It Up](https://open.spotify.com/track/0FRUhNCLnUdGcJaGVFemLE) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Spider\-Man 2 \- Music From And Inspired By](https://open.spotify.com/album/0Cm6TwWq8MNDdGlbp6UVm9) | 3:41 | 2022-04-08 | 2022-04-13 |
@@ -182,6 +182,7 @@
 | [I've Been Dead All Day](https://open.spotify.com/track/55RUp308pgoV1T7yUGjw6D) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Vacancy](https://open.spotify.com/album/67rOh6Ndflg99VO0wgZUIF) | 3:14 | 2021-09-02 | 2022-07-29 |
 | [I've Given Up on You](https://open.spotify.com/track/4MR6PGC6LHMSXbK8iCfpug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Put Yourself Back Together](https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ) | 2:43 | 2022-06-16 | 2022-11-13 |
 | [I've Given Up on You](https://open.spotify.com/track/5bxythiVpxTD2nHZMmD8m1) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Put Yourself Back Together](https://open.spotify.com/album/3MOxvb2hL0T1vNJp1PSGRA) | 2:43 | 2022-04-08 | 2022-04-21 |
+| [If You Can't Hang](https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 4:10 | 2023-01-25 |  |
 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2021-09-02 | 2023-11-06 |
 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 | 2022-03-10 | 2022-04-21 |
 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 | 2022-04-08 |  |

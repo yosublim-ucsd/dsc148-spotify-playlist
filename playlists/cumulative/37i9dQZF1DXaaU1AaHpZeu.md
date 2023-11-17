@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Ivana en portada.
 
-3,294 songs - 7 day 15 hr 39 min
+3,295 songs - 7 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2603,6 +2603,7 @@
 | [Rápido y Brutal](https://open.spotify.com/track/4I6CipDaCToXlEj0CZXRqI) | [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr) | [Rápido y Brutal](https://open.spotify.com/album/1CGfjmCegky454IcRIlSFX) | 2:38 | 2022-04-29 | 2022-05-07 |
 | [Rédito Espiritual](https://open.spotify.com/track/13cfaknfsGgLcSx1hz0LP9) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [Rédito Espiritual](https://open.spotify.com/album/3tPzzeWCPSEl9uDhNpcz1E) | 3:49 | 2022-09-02 | 2022-09-10 |
 | [Río de la Plata](https://open.spotify.com/track/5R6cF14cHsYOZQgdxKYqXW) | [Man Ray](https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm) | [Purpurina](https://open.spotify.com/album/4eHqCIVAm9K5NZTjYELJMT) | 3:22 | 2022-06-17 | 2022-06-25 |
+| [Sabes](https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Espiral, Pt\. 1](https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft) | 2:54 | 2023-11-10 |  |
 | [SABI](https://open.spotify.com/track/30UQMD34yVMjJKnTS9QEjL) | [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [SABI](https://open.spotify.com/album/0gvi2Qze85ds6I9cNEUDGU) | 2:40 | 2023-10-13 | 2023-10-21 |
 | [Sacos de Emociones](https://open.spotify.com/track/0ddo9YLDdlk0l1GwYhfspW) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD) | [Sacos de Emociones](https://open.spotify.com/album/184Ntzev4FYUO7dC7vPWLi) | 3:39 | 2022-10-14 | 2022-10-22 |
 | [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 | 2023-04-07 | 2023-04-15 |

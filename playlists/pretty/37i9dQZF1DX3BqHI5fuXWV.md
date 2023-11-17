@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,267 likes - 75 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,325 likes - 75 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 42 | [Bye Bye Blackbird \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:54 |
 | 43 | [It Never Entered My Mind](https://open.spotify.com/track/1BEVeS2cXELpJ28ludj5so) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Chronicles \- The Complete Prestige Recordings 1951\-1956](https://open.spotify.com/album/50ov4cmom8FGshv8F0LomX) | 5:21 |
 | 44 | [White](https://open.spotify.com/track/7yEFRP0S68mIKlEDjCZdPu) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [AURA](https://open.spotify.com/album/2SaPfVOUN2nWhsk5dqt0v2) | 6:03 |
-| 45 | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 5:33 |
+| 45 | [E.S.P.](https://open.spotify.com/track/1TsAsyHFJZqkuEM26Sg34a) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968](https://open.spotify.com/album/1mM5BwiiPqVq8T0vucuKhI) | 5:28 |
 | 46 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 |
 | 47 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 |
 | 48 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 74 | [On The Corner \- Take 4](https://open.spotify.com/track/3R1vAfFxWwZvli1NepW9TY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete On The Corner Sessions](https://open.spotify.com/album/4ORrWT9p5FH1jhTCATKEcj) | 5:16 |
 | 75 | [Bluebird \- New Take 1](https://open.spotify.com/track/1qJXyjyunPZG7lnvwRNGiI) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 1](https://open.spotify.com/album/1ZVtgzuTIOTBKn4LmgNwTX) | 2:55 |
 
-Snapshot ID: `MCw4OTAwOGZjNWYyNDc1ZDdmMmUxYzllMzZhMDRjOTU1YThkNGUxZmQ3`
+Snapshot ID: `MCxkZTQyNzkzNzQ3MmEyMTY0ZDIxODI2NjQ3OGFjODg0YzkyZjUxZTQ2`

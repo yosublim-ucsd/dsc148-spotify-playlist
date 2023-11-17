@@ -4909,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Kobtan",
+        "url": "https://open.spotify.com/album/2f4yayWGqNkfjocXF84vf7"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Adawya",
+          "url": "https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "Kobtan",
+      "url": "https://open.spotify.com/track/4bHz4sVrmpeLLUsu0i9liP"
+    },
+    {
+      "album": {
         "name": "Kol Elly Fi Alby",
         "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
       },
@@ -6921,6 +6939,24 @@
     },
     {
       "album": {
+        "name": "Nensa El Leil",
+        "url": "https://open.spotify.com/album/4r6TzKnO0SNpD8qjgTlKmf"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Samy",
+          "url": "https://open.spotify.com/artist/5fFrme3y5uOMz38dF8TTR2"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212472,
+      "name": "Nensa El Leil",
+      "url": "https://open.spotify.com/track/5gVGlQ42sx0lfZena81pMp"
+    },
+    {
+      "album": {
         "name": "N\u00e9cessaire",
         "url": "https://open.spotify.com/album/3OgMI7hy4jxaRcGQwabiO1"
       },
@@ -6994,7 +7030,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 177120,
       "name": "Or2os Gamed",
       "url": "https://open.spotify.com/track/5mJI45zDeZ4Ik16iam6JJw"
@@ -9250,7 +9286,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 176111,
       "name": "Zay El-Amar",
       "url": "https://open.spotify.com/track/50X9fwUcYEvva7luyaN5wZ"

@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-183 songs - 21 hr 5 min
+184 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Testify \(Urban Blues Project present Jay Williams\) \- The U.B.P\. Sunday Vocal](https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD) | [Urban Blues Project](https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH), [Jay Williams](https://open.spotify.com/artist/2aR7Liq6qXllMrLVZJpYlR) | [Testify \(Urban Blues Project present Jay Williams\)](https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH) | 8:29 | 2023-11-04 |  |
 | [The Cure & The Cause \- Dennis Ferrer Remix](https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [The Cure & The Cause \(Dennis Ferrer Remix\)](https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6) | 6:18 | 2022-09-13 |  |
 | [The Power](https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Collection 1999\-2011](https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD) | 8:35 | 2022-09-13 |  |
-| [The Pressure \- Frankie Knuckles Classic Mix \(With Intro\)](https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Deep House Anthems](https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh) | 8:24 | 2022-09-13 |  |
+| [The Pressure \- Frankie Knuckles Classic Mix \(With Intro\)](https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Collection](https://open.spotify.com/album/7hGcxc5mdwMoA559pZ6vSQ) | 8:24 | 2023-11-04 |  |
+| [The Pressure \- Frankie Knuckles Classic Mix \(With Intro\)](https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Deep House Anthems](https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh) | 8:24 | 2022-09-13 | 2023-11-17 |
 | [The Soul Cafe](https://open.spotify.com/track/355rlP0pD78zKUeoJ9Ix5n) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Reach Out \(Deluxe Edition\)](https://open.spotify.com/album/4eo5ALOi488AJZ8nO57HR4) | 4:28 | 2022-09-13 |  |
 | [The Sound Is Yours \- Kerri Chandler Remix](https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT) | [RiskSoundSystem](https://open.spotify.com/artist/2lGFbXVi0bkg4UgNbCBwNx), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [The Sound Is Yours](https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp) | 8:23 | 2022-09-13 |  |
 | [The Way U Love Me](https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD) | [Marc Evans](https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d) | [The Way You Love Me \- Deluxe Re\-Issue](https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1) | 6:39 | 2022-09-13 |  |

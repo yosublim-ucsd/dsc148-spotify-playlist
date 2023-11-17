@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "'22",
+        "url": "https://open.spotify.com/album/7uSlRWoUkfSfgHmFbhhSzM"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        },
+        {
+          "name": "Laugh Cry Laugh",
+          "url": "https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117786,
+      "name": "'22",
+      "url": "https://open.spotify.com/track/2cWBtSKTNoi7naBpY8RKmu"
+    },
+    {
+      "album": {
         "name": "Wind Down",
         "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
       },
@@ -306,7 +328,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 222495,
       "name": "anatagaiito",
       "url": "https://open.spotify.com/track/71rDw7Lv6V1AMff91noPG0"
@@ -472,7 +494,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 193946,
       "name": "better off",
       "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
@@ -520,7 +542,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 166594,
       "name": "Better Than Snow",
       "url": "https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX"
@@ -941,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Good People / Afterhours",
+        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171858,
+      "name": "Chill Pad Deluxe",
+      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -1036,7 +1076,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 374000,
       "name": "Dark Energy",
       "url": "https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO"
@@ -1658,7 +1698,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 249119,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5qLrPj4UgxfXDQ8eMCrepp"
@@ -2340,7 +2380,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 219598,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
@@ -2727,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "lost cause",
+      "url": "https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD"
+    },
+    {
+      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -3056,7 +3114,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -3118,7 +3176,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 196762,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI"
@@ -3620,7 +3678,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
@@ -3958,6 +4016,24 @@
       "duration_ms": 274583,
       "name": "REFERENCE - Original Mix",
       "url": "https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3"
+    },
+    {
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "album": {
@@ -5038,7 +5114,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 289856,
       "name": "The Two Of Us (feat. Clara Mann)",
       "url": "https://open.spotify.com/track/514zM3fP40Dubmz2bQJSw3"

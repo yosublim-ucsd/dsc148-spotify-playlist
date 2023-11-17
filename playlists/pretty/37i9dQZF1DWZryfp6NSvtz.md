@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,426 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,616 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 2 | [SEX ON THE BEACH](https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [SEX ON THE BEACH](https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi) | 3:10 |
 | 3 | [Dead End Friend](https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Dead End Friend](https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ) | 2:44 |
 | 4 | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ) | 3:18 |
-| 5 | [Rummage](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
+| 5 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
 | 6 | [Hot! Heat! Wow! Hot!](https://open.spotify.com/track/5m2AvZcE0f59XTBDmjNqZA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Fronzoli](https://open.spotify.com/album/2fsuwVXuxg6psijDhlSbzt) | 3:32 |
 | 7 | [NYC Tough Guy](https://open.spotify.com/track/12nKYUkNsMWduwCLYhotLa) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:34 |
 | 8 | [Our Sketch Out](https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [The One \- The One I'm Looking For](https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [The One \(The One I'm Looking For\)](https://open.spotify.com/album/2IA3ckn9YMHtWyidjvz58F) | 2:41 |
 | 50 | [Toxic Boy](https://open.spotify.com/track/3IIcD3Z0CnflLQNjwBekUP) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Gospel Of Your Sins](https://open.spotify.com/album/5LBs8yRsirBmLBvIzbmESl) | 4:47 |
 
-Snapshot ID: `MCxkYmEyNDM0NjEyMDE4ZDFjNWU2NjI1ODY3NzlmZTIxNWFiZDAzZGMw`
+Snapshot ID: `MCw1MWNlNjQ0MjQwZjJkNGExYWIyMmMyMTM0NGNmZTNlNTNmNjZiMjE3`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs from LGBTQIA+ artists. Cover: LIE NING",
-  "num_followers": 1097263,
+  "num_followers": 1097178,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjY1NjY1MGMyNDZlZWQ5ZGI3ZjAwNDQzM2Y4MDRlYzg2ODY5MTJk",
+  "snapshot_id": "MCxmNWNkYmJkMjNiMzI1NjY1NDk1MWMxYTk4MGYyMTRiZmJhZjNhMzBj",
   "tracks": [
     {
       "added_at": "2023-11-14 00:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
-    },
-    {
-      "added_at": "2023-11-14 00:00:00",
-      "album": {
-        "name": "sweatshop",
-        "url": "https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS"
-      },
-      "artists": [
-        {
-          "name": "LIE NING",
-          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
-        }
-      ],
-      "duration_ms": 149211,
-      "name": "sweatshop",
-      "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
     },
     {
       "added_at": "2023-11-14 00:00:00",
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-11-14 00:00:00",
       "album": {
+        "name": "sweatshop",
+        "url": "https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "duration_ms": 149211,
+      "name": "sweatshop",
+      "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
+    },
+    {
+      "added_at": "2023-11-14 00:00:00",
+      "album": {
         "name": "DRUMMER",
         "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-14 00:00:00",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "She's On My Mind",
-      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
-    },
-    {
-      "added_at": "2023-11-14 00:00:00",
-      "album": {
         "name": "WOT?",
         "url": "https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E"
       },
@@ -711,22 +695,6 @@
     {
       "added_at": "2023-11-14 00:00:00",
       "album": {
-        "name": "Bloody Mary",
-        "url": "https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr"
-      },
-      "artists": [
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
-        }
-      ],
-      "duration_ms": 135512,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/6dfus00rufybawdDBasdG8"
-    },
-    {
-      "added_at": "2023-11-14 00:00:00",
-      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/4zjv9fDWWTMhAv6FHxwgMG"
       },
@@ -739,6 +707,22 @@
       "duration_ms": 133500,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/4dkarkP4MpqmFrRCroG3eE"
+    },
+    {
+      "added_at": "2023-11-14 00:00:00",
+      "album": {
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 135512,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/6dfus00rufybawdDBasdG8"
     },
     {
       "added_at": "2023-11-14 00:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 199034,
       "name": "Hetero Pero",
       "url": "https://open.spotify.com/track/5hgfnnDrhPuS3SqtpFR1nd"
+    },
+    {
+      "added_at": "2023-11-17 01:30:43",
+      "album": {
+        "name": "Re di Cuori",
+        "url": "https://open.spotify.com/album/4vnAsT4E94js0BXUNVCtgO"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        }
+      ],
+      "duration_ms": 170806,
+      "name": "Re di Cuori",
+      "url": "https://open.spotify.com/track/5tafzF7aJqE5e389P7YHXB"
     },
     {
       "added_at": "2023-11-14 00:00:00",

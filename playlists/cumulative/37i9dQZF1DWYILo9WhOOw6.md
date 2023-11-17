@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-115 songs - 5 hr 50 min
+117 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,12 +91,14 @@
 | [Dormire Delta Sinus 129\-133 Hz](https://open.spotify.com/track/6kK5AFqknHFsF3HeSDW7rB) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Orbital Waves](https://open.spotify.com/album/1z42IoADYAnp3xKT0ir4FJ) | 3:33 | 2023-01-20 |  |
 | [Dormire Delta Sinus 67Hz \- 71Hz](https://open.spotify.com/track/3O0MpL9WEpAOnZjB9Fg6v7) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Dormire Delta Sinus 67Hz \- 71Hz](https://open.spotify.com/album/2QYkmmz6QsfIdbHymRi9Ug) | 2:58 | 2023-07-14 |  |
 | [Dream Wave Delta](https://open.spotify.com/track/6EHkpGkXUvSk1nSd2XlfnR) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:30 | 2023-01-20 |  |
+| [Dreaming Delta 65\-66 Hz](https://open.spotify.com/track/5pmMjSPXPlNloGT4LQYZWo) | [Rio Delacruz](https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52) | [Dreaming Delta 65\-66 Hz](https://open.spotify.com/album/5Ecqg6aMETxc8sPiDwJl5F) | 2:32 | 2023-11-16 |  |
 | [Dreamless Sleep Delta 2Hz](https://open.spotify.com/track/1TX678iIWG02qd6BRdrJR2) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 6:50 | 2023-01-20 |  |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2023-01-20 | 2023-07-29 |
 | [Focusing \(Delta 1 Hz\. Binaural Beats 52\-53 Hz\)](https://open.spotify.com/track/33qUbE0KCoBkGIxFij1rrx) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Delta Triggers](https://open.spotify.com/album/1y1PzzpBPpJaOJJhcBxJks) | 3:16 | 2023-05-05 |  |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2023-01-20 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2023-01-20 |  |
 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 | 2023-01-20 |  |
+| [London Fog Delta 68\-72hz](https://open.spotify.com/track/0q2g2kTuHrc4FvfUi4bhIF) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [London Fog Delta](https://open.spotify.com/album/5vmrKdBaZGXtsCP1U2XD2J) | 2:34 | 2023-11-16 |  |
 | [Magica \(3 Hz Delta Binaural Beat Version\)](https://open.spotify.com/track/5kEVAtbYLgb7Ymen4ljPgk) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica \(Binaural Beat Versions\)](https://open.spotify.com/album/67tFryPsJTFWT7YuOLlSNk) | 3:00 | 2023-01-20 |  |
 | [Maximum Focus Delta \(1.7Hz\)](https://open.spotify.com/track/29Hn90Qbo0E3lwf97pJOHg) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2023-01-20 |  |
 | [Memory Grace D\# Delta \(73\-77hz\)](https://open.spotify.com/track/7zP2fbB1UHH3LkCSpVljgx) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Memory Grace Delta](https://open.spotify.com/album/5qbz5H4OVqibz80Ym2va8F) | 2:30 | 2023-10-13 |  |

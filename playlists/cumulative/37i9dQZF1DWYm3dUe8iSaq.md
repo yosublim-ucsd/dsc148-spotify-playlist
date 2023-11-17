@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-206 songs - 11 hr 42 min
+207 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 | 2022-07-01 |  |
 | [Unconditional](https://open.spotify.com/track/4OrLA7boWjy9X7fnWLxjld) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Unconditional](https://open.spotify.com/album/3UXXSXnc0znyU0ywfw0Nqb) | 4:20 | 2022-04-08 | 2022-07-29 |
 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 | 2022-07-01 |  |
-| [Venus](https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Venus](https://open.spotify.com/album/3B9v1QLSiQIDxV9vcb7L1R) | 3:39 | 2023-06-30 |  |
+| [Venus](https://open.spotify.com/track/1Q58zWJH3V8v9dVWRO4K8d) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Alone With My Own Thoughts EP](https://open.spotify.com/album/4EsukUGx6EJ9wXgNVdU3DK) | 3:39 | 2023-10-06 |  |
+| [Venus](https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Venus](https://open.spotify.com/album/3B9v1QLSiQIDxV9vcb7L1R) | 3:39 | 2023-06-30 | 2023-11-17 |
 | [Way Again](https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Each Memory and Every Fall](https://open.spotify.com/album/2YOx7Bj4WBtWPMw8JwGm4s) | 4:48 | 2022-04-08 | 2023-10-07 |
 | [What Is Loving Anymore](https://open.spotify.com/track/7EDn43QGnpy5wTMeHUWnRu) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs) | [What Is Loving Anymore](https://open.spotify.com/album/1Kgwc9tNKoFL8UkXE2ZEKV) | 2:59 | 2022-04-08 | 2022-07-02 |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2022-04-08 | 2022-07-29 |

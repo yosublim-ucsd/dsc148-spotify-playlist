@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 207703,
       "name": "Christmas on High",
       "url": "https://open.spotify.com/track/0yKr2aBuuJJPwCoyBgYMKU"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 166923,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/7hMhj5g6z8H70PFG78fqWl"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 160975,
       "name": "Do You Believe in Santa Claus?",
       "url": "https://open.spotify.com/track/5P6mq1N9lbSdfbTdUAGpS2"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 122012,
       "name": "I'd Like U for Christmas",
       "url": "https://open.spotify.com/track/46dfh4Dm0wJsBmJw8LI5lS"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 126607,
       "name": "In the snow",
       "url": "https://open.spotify.com/track/4IKyhdoHD4u5m8L3XDArxY"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 106255,
       "name": "Lonely Christmas",
       "url": "https://open.spotify.com/track/5jLZPmFgYojm3yz1NqGt8Y"
@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 138923,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/7gitaC1lNa7WDVEMXX0jQF"
@@ -3298,7 +3298,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 145500,
       "name": "night b4 x-muss",
       "url": "https://open.spotify.com/track/38YFj52lCAyuRlMd8C8wnw"
@@ -4478,10 +4478,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 140571,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/7jH0Upr39fP4H1PoCt2qbJ"
+    },
+    {
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/1pTakj40XmRn5gpq9VnExd"
+      },
+      "artists": [
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/2urOckDuXM1pVlukvTJ8BY"
     },
     {
       "album": {
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 135652,
       "name": "Spike the Eggnog",
       "url": "https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM"
@@ -5252,7 +5270,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144186,
       "name": "Wish You A Merry Christmas - Flowervillain Lofi Flip",
       "url": "https://open.spotify.com/track/2sApEkXRkzbI7xkPijXfz3"

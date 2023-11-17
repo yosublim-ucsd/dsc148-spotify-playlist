@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 88409,
+  "num_followers": 88453,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTdlNDZkMjlmYTQ2ZjU2NmM0Nzc5YmU2ZjRhZWVkZGRmMjlhZGQ0",
+  "snapshot_id": "MCw4Nzk1OGRkYjUzYTIxYTEzYjZhOGQ4NDIzOGI3YzNlZDkwMmVmNTNm",
   "tracks": [
     {
       "added_at": "2023-10-26 20:31:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
         "name": "La Voz de los Barrios",
         "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "El Mundo",
-        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 213183,
-      "name": "El Mundo",
-      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+      "duration_ms": 170192,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -987,6 +971,22 @@
       "duration_ms": 219282,
       "name": "La Chismeadera",
       "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 213183,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Pecados Tropicales",
         "url": "https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 194374,
       "name": "Amor de Cuarentena - Urbano",
       "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
-        "name": "Placer y Olvido (En Vivo)",
-        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 82400,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
     },
     {
       "added_at": "2023-10-26 20:31:33",

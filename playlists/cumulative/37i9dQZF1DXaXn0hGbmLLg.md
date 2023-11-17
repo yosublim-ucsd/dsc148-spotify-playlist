@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! <a href="spotify:artist:6zWJfH1TTmIqEi7EV35HGr">Pip Blom</a> is EQUAL Netherlands ambassador for November
 
-1,284 songs - 2 day 19 hr 47 min
+1,285 songs - 2 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,8 @@
 | [Moet Je Hebben](https://open.spotify.com/track/5iHv0NlDZ6S8A4XmcJ8FjS) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4), [Alice](https://open.spotify.com/artist/70FnoRkW1YHoYdGU5flixz) | [Moet Je Hebben](https://open.spotify.com/album/0Jq535aThUffmoH7g0VeRU) | 2:52 | 2022-09-06 | 2022-10-05 |
 | [Money & Shine](https://open.spotify.com/track/2Wn07fQXqIxn74fL30JnBX) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Money & Shine](https://open.spotify.com/album/65JoVecMLwZ9UBns4HcDwz) | 1:51 | 2023-10-03 | 2023-11-08 |
 | [Money on Drugs](https://open.spotify.com/track/5h8M2WCihnTE3R4JU9ogAh) | [Joan Franka](https://open.spotify.com/artist/5Vi1iegxxGqL3DKfsRnjgv) | [Luba the Baroness](https://open.spotify.com/album/7eLdK62HLqyEWvLrP0ZrNS) | 4:12 | 2023-05-02 | 2023-06-07 |
-| [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2023-11-07 |  |
+| [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2023-11-07 | 2023-11-17 |
+| [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-11-07 |  |
 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 | 2023-06-06 | 2023-07-05 |
 | [Mooier Als Je Lacht](https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mooier Als Je Lacht](https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL) | 3:38 | 2023-01-31 | 2023-04-05 |
 | [Moonflower \(Can't You See\)](https://open.spotify.com/track/6FLeQZ03RnMWA8ERNVSDmC) | [Deborah Slijkhuis](https://open.spotify.com/artist/4V70qONhw5NGzqxQHJujfb), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Wynonna Stoové](https://open.spotify.com/artist/2hkNEGnoTog2IQbOFxqixP) | [Moonflower \(Can't You See\)](https://open.spotify.com/album/7osMgxLpbO7kpxVa83knyv) | 4:32 | 2021-12-07 | 2022-02-02 |

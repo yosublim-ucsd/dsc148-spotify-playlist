@@ -4,7 +4,7 @@
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-258 songs - 17 hr 8 min
+259 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 | 2023-10-13 |  |
 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 | 2023-08-23 |  |
 | [Thug Passion \(ft\. Jewell, Outlawz, The Storm\)](https://open.spotify.com/track/2sm4Gs1uNLGIkPRnelYO8J) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3), [Storm](https://open.spotify.com/artist/2J1LCxl3oT5bN2SpGyalv8), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [All Eyez On Me](https://open.spotify.com/album/7HhH3qWRRvTEBt1xRhF2Va) | 5:07 | 2023-06-14 |  |
-| [Tieta](https://open.spotify.com/track/1bGMh6WV0Yv4U1Jh82s8Fx) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Axé Anos 90](https://open.spotify.com/album/0uwdiX1qq0e0rLeEfCVQxo) | 2:59 | 2023-11-03 |  |
+| [Tieta](https://open.spotify.com/track/1bGMh6WV0Yv4U1Jh82s8Fx) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Axé Anos 90](https://open.spotify.com/album/0uwdiX1qq0e0rLeEfCVQxo) | 2:59 | 2023-11-03 | 2023-11-17 |
+| [Tieta](https://open.spotify.com/track/4BaehaMjNwn5BVZ4tLgWm7) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Timbres](https://open.spotify.com/album/4OOEvOPya8yVKh8GHbDPEP) | 2:59 | 2023-11-03 |  |
 | [Tombei](https://open.spotify.com/track/1OSWO1hDuwzs1Xh2v5rNAF) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Tombei](https://open.spotify.com/album/3Gpq8YsZ4yEoEkMTDhppXG) | 3:25 | 2023-06-28 |  |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2023-10-20 |  |
 | [Tô Ouvindo Alguém Me Chamar](https://open.spotify.com/track/63piuNbKgyASwtlj3kq4ye) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 11:12 | 2023-08-23 |  |

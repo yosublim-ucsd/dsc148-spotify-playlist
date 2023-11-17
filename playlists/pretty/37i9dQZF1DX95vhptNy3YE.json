@@ -1,12 +1,12 @@
 {
   "description": "Mc Kadu e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 221948,
+  "num_followers": 222215,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTY5MzhlNGU4MjIxNTU4N2MwZDk1NGRhNjVkMmMzY2VhY2Y5ODI4",
+  "snapshot_id": "MCw5YTA2NTA0OTdiOTIyNTE1YWRmZjc5Y2ZmY2IxN2IyN2I1YTQ0ZTc3",
   "tracks": [
     {
       "added_at": "2023-10-27 22:32:46",
@@ -639,30 +639,6 @@
     {
       "added_at": "2023-10-27 22:32:46",
       "album": {
-        "name": "O Que Que T\u00e1 Acontecendo",
-        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
-      },
-      "artists": [
-        {
-          "name": "Mc Arizinho",
-          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "O Que Que T\u00e1 Acontecendo",
-      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
-    },
-    {
-      "added_at": "2023-10-27 22:32:46",
-      "album": {
         "name": "Acordei Bem Cedo",
         "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 377142,
       "name": "Acordei Bem Cedo",
       "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
+    },
+    {
+      "added_at": "2023-10-27 22:32:46",
+      "album": {
+        "name": "O Que Que T\u00e1 Acontecendo",
+        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
+      },
+      "artists": [
+        {
+          "name": "Mc Arizinho",
+          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "O Que Que T\u00e1 Acontecendo",
+      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
     },
     {
       "added_at": "2023-10-27 22:32:46",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-10-27 22:32:46",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "added_at": "2023-10-27 22:32:46",
+      "album": {
         "name": "Trap The Fato Deluxe",
         "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 178758,
       "name": "NOVINHA MANDRAKA",
       "url": "https://open.spotify.com/track/2hB98xPNhpahju25eLttyz"
-    },
-    {
-      "added_at": "2023-10-27 22:32:46",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Pensamentos Intrusivos",
-      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
     },
     {
       "added_at": "2023-10-27 22:32:46",

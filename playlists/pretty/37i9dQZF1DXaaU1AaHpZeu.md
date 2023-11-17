@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Ivana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,404 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,417 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 45 | [no mood](https://open.spotify.com/track/0JGrN78JCEdAegoGHXlBQW) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [no mood](https://open.spotify.com/album/0Sv3xztPkb1E7U5knJEg4k) | 2:53 |
 | 46 | [Mimosa](https://open.spotify.com/track/2EdzactC4V8mNNT7MBClVp) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Farsanta](https://open.spotify.com/album/7MG0GGt2sOTz7lOxExwhQv) | 3:29 |
 | 47 | [Bichos en tu boca](https://open.spotify.com/track/41KMMzYfHLsgbBZutvnAz1) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Bichos en tu boca](https://open.spotify.com/album/7FqS5U399n8NcgcH5W4yM3) | 3:32 |
-| 48 | [KOOL](https://open.spotify.com/track/2WPpURnvneTQ3TZSGRByTC) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [KOOL](https://open.spotify.com/album/1lyBsMTHsNPHtwBzugnRbq) | 3:28 |
-| 49 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 |
-| 50 | [OK](https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [OK](https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E) | 4:17 |
+| 48 | [Sabes](https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Espiral, Pt\. 1](https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft) | 2:54 |
+| 49 | [KOOL](https://open.spotify.com/track/2WPpURnvneTQ3TZSGRByTC) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [KOOL](https://open.spotify.com/album/1lyBsMTHsNPHtwBzugnRbq) | 3:28 |
+| 50 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 |
+| 51 | [OK](https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [OK](https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E) | 4:17 |
 
-Snapshot ID: `MCwwMDY5NWZlYzk0MWVmNTgyZmIyZDgwNzZhNDc3NTU3NDA3YzQwMTQw`
+Snapshot ID: `MCxkNzgwOGRjYzU1ZDQ0NTgzNjA5YWZjMTI4M2I4ZDQzNTFhMjgyMDBm`

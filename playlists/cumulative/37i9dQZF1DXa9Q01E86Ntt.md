@@ -4,7 +4,7 @@
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-138 songs - 10 hr 2 min
+139 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [LOST CHILD \- SQ&P](https://open.spotify.com/track/2ZOcaBsgrSZzmkhNiBZxXR) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [LOST CHILD](https://open.spotify.com/album/7zfVuTvzI5bTI7mxyDbPrK) | 5:02 | 2022-01-18 | 2023-01-17 |
 | [M.A.Y\. IN THE BACKYARD](https://open.spotify.com/track/45vQStUpPYY0NEq7GKY5Wl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ongaku Zukan \-2015 Edition\-](https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR) | 5:34 | 2022-01-18 | 2023-01-17 |
 | [M.A.Y\. IN THE BACKYARD](https://open.spotify.com/track/5jE7mMqCUMBBH3iU9yZt1u) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [音楽図鑑 \-2015 Edition\-](https://open.spotify.com/album/0rzXL99sRpufrmSXjSyhWB) | 5:34 | 2022-01-18 | 2022-07-29 |
-| [Main Theme](https://open.spotify.com/track/6iH8p3isdM1uRa2mQ3w2Jm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Little Buddha \(Bernardo Bertolucci's Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Bnk5sZEtCJhoa1I8N6FHo) | 2:50 | 2022-01-18 |  |
+| [Main Theme](https://open.spotify.com/track/6iH8p3isdM1uRa2mQ3w2Jm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Little Buddha \(Bernardo Bertolucci's Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Bnk5sZEtCJhoa1I8N6FHo) | 2:50 | 2022-01-18 | 2023-11-17 |
+| [Main Theme \- From 'Little Buddha'](https://open.spotify.com/track/3SmwsuloqGL836aBATZJ0I) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Nouvel an tibétain 2011 \- L'année du lièvre de fer](https://open.spotify.com/album/4INBsmZzCwaVe9larSnPR2) | 2:50 | 2023-04-03 |  |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/7JWyqEGZGlWEONYvvpFTdQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 5:46 | 2022-01-18 | 2023-01-17 |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 | 2023-01-16 |  |
 | [Merry Christmas Mr\. Lawrence \- version 2020](https://open.spotify.com/track/7LV2STzL0t9IXpJQ0SQHsm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Merry Christmas Mr\. Lawrence \(version 2020\)](https://open.spotify.com/album/1s8Zfke9hDnWU2w5W2VZm8) | 5:46 | 2022-01-18 | 2022-07-29 |

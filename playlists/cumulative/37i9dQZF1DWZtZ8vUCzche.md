@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-348 songs - 1 day 4 hr 42 min
+349 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2022-07-20 |  |
 | [Heaven Or Las Vegas](https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 4:58 | 2021-10-15 | 2022-07-29 |
 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2021-10-15 |  |
-| [Hope There's Someone](https://open.spotify.com/track/6hNOgftznEOoTrermrc30D) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [I Am A Bird Now](https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN) | 4:21 | 2023-01-19 |  |
+| [Hope There's Someone](https://open.spotify.com/track/6hNOgftznEOoTrermrc30D) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [I Am A Bird Now](https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN) | 4:21 | 2023-01-19 | 2023-11-17 |
 | [House Of Cards](https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:28 | 2021-10-15 | 2022-07-29 |
 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 | 2022-07-20 |  |
 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 | 2022-07-20 |  |
@@ -198,6 +198,7 @@
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2022-07-20 |  |
 | [Myth](https://open.spotify.com/track/2Zw3HNjaNV42LnQ2uY5JQs) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 4:18 | 2021-10-15 | 2022-07-29 |
 | [New Mistake](https://open.spotify.com/track/7a7y3aPXd5STF9BvCG6slI) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk](https://open.spotify.com/album/2xWIi4fDWJZT2Mw3ydTIO7) | 4:02 | 2023-02-02 | 2023-11-08 |
+| [New Mistake](https://open.spotify.com/track/0lDvjI92aVKb1BLoRV6FaH) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk \(Remastered\)](https://open.spotify.com/album/7dAjaIuG9a9Nt3jkYTcoxD) | 4:03 | 2023-07-13 |  |
 | [Night School](https://open.spotify.com/track/64su665Jqvd4xRq2aMvAQi) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Jazz From Hell](https://open.spotify.com/album/3iqmNiJspQnpKDcHczwGvr) | 4:50 | 2021-10-15 | 2022-07-29 |
 | [Night School](https://open.spotify.com/track/6JOSrjAwtkMWXm7quBdyGm) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Jazz From Hell](https://open.spotify.com/album/1MqpbO67sGvB8ZbfnhAHrr) | 4:50 | 2023-01-19 | 2023-02-12 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-07-20 |  |

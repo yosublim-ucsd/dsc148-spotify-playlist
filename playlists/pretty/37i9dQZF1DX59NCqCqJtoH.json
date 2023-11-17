@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1171222,
+  "num_followers": 1171368,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGUxMjdiNTNiZjRkOGUxMDk3YmYxZTc4NjI0ZDI0Mjc1YWMzZDkz",
+  "snapshot_id": "MCwxNmIxMzcwMDFmYmU1ZjJlMzgxNGUwMzAzZDBmZTFjOWRjMDBlMDRm",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Coffee Breath",
-        "url": "https://open.spotify.com/album/272gU5dXR1tdNe92e7h803"
+        "name": "None of This Was Your Fault",
+        "url": "https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM"
       },
       "artists": [
         {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+          "name": "Wishing",
+          "url": "https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7"
         }
       ],
-      "duration_ms": 163907,
-      "name": "Coffee Breath",
-      "url": "https://open.spotify.com/track/4jsVLYWHeoEt8UxxFWrWCH"
+      "duration_ms": 163992,
+      "name": "Goodnight Dad I Love You",
+      "url": "https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O"
     },
     {
       "added_at": "2023-11-06 23:14:40",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "None of This Was Your Fault",
-        "url": "https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM"
+        "name": "Coffee Breath",
+        "url": "https://open.spotify.com/album/272gU5dXR1tdNe92e7h803"
       },
       "artists": [
         {
-          "name": "Wishing",
-          "url": "https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7"
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
         }
       ],
-      "duration_ms": 163992,
-      "name": "Goodnight Dad I Love You",
-      "url": "https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O"
+      "duration_ms": 163907,
+      "name": "Coffee Breath",
+      "url": "https://open.spotify.com/track/4jsVLYWHeoEt8UxxFWrWCH"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "curse,",
-        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 238734,
-      "name": "curse,",
-      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 279306,
       "name": "Pictures of Us",
       "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "curse,",
+        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 238734,
+      "name": "curse,",
+      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "i'd rather be alone",
         "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
@@ -1125,20 +1141,24 @@
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-11-09 23:50:22",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+        "name": "Stepdream",
+        "url": "https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        },
+        {
+          "name": "Orbiting Human Circus",
+          "url": "https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH"
         }
       ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+      "duration_ms": 230020,
+      "name": "Rummage (feat. Orbiting Human Circus)",
+      "url": "https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1179,22 +1199,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1209,24 +1213,20 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
-      "added_at": "2023-11-09 23:50:22",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Stepdream",
-        "url": "https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd"
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
       },
       "artists": [
         {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        },
-        {
-          "name": "Orbiting Human Circus",
-          "url": "https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 230020,
-      "name": "Rummage",
-      "url": "https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t"
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "If I Showed You",
         "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Black Fins",
-        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 262727,
-      "name": "Black Fins",
-      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1635,6 +1619,22 @@
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Black Fins",
+        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Black Fins",
+      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
     },
     {
       "added_at": "2023-09-29 20:20:52",

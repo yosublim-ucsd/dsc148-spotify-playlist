@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-619 songs - 23 hr 44 min
+620 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-09-22 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-09-22 | 2023-10-17 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK) | [somai](https://open.spotify.com/artist/6q8Xr34whpzJxsu3lax6fh) | [MONTAGEM CORAL](https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG) | 2:25 | 2023-09-22 | 2023-10-05 |
+| [MONTAGEM CORAL](https://open.spotify.com/track/2rjXdiDz6cmKTn4MbnR6rS) | [veysxl](https://open.spotify.com/artist/0WeEdxpSmM2Rtjqm2mbSp3), [batuzane](https://open.spotify.com/artist/0xNQSJ31hA6QrnQNzQkK6P) | [MONTAGEM CORAL](https://open.spotify.com/album/58pJKKlXJ1s5aIhk4rwkIT) | 2:25 | 2023-09-22 |  |
 | [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-09-22 | 2023-10-12 |
 | [Montagem Coral](https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/3u9YkCaYo544roaesI591t) | 2:25 | 2023-09-22 | 2023-10-22 |
 | [Montagem Coral](https://open.spotify.com/track/7d27J37Wu0N8ZDB63wFN9I) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/0bwBO5V57PT6qnOcrp0BtR) | 2:25 | 2023-09-22 | 2023-10-16 |
@@ -461,7 +462,7 @@
 | [REQUIEM](https://open.spotify.com/track/0KEEzyspcgns3JEdJboguD) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [REQUIEM](https://open.spotify.com/album/21Y2KDAvmbyaENzKIeO2Lj) | 1:41 | 2023-04-11 | 2023-05-06 |
 | [Requiem](https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag) | [Requiem](https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz) | 1:44 | 2022-12-23 | 2023-05-06 |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
-| [Revenge](https://open.spotify.com/track/2AeJCvSLJQLWkEMxnI3jna) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Revenge](https://open.spotify.com/album/4eCNublHT4o4kGjRf5z5Aw) | 2:25 | 2023-09-22 |  |
+| [Revenge](https://open.spotify.com/track/2AeJCvSLJQLWkEMxnI3jna) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Revenge](https://open.spotify.com/album/4eCNublHT4o4kGjRf5z5Aw) | 2:25 | 2023-09-22 | 2023-11-17 |
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-03-31 |  |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/1t4IkwFNnHC2spsIuPK9kQ) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/0T9ipIDY0vEOqWPCsFLt4e) | 2:16 | 2023-08-25 | 2023-11-05 |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/4lvjXKs3tzMEKioAOuwENP) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/12PvkN2uTBWOSbDN2XoAMv) | 2:16 | 2023-08-25 | 2023-11-04 |

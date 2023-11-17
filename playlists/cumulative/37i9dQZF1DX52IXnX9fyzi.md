@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-396 songs - 17 hr 4 min
+397 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 | 2023-09-18 | 2023-10-25 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/04tMznUFQWplHXAJeAmTpG) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Levitation](https://open.spotify.com/album/1q7eyowO4zO8zwpiDDhBWj) | 1:48 | 2023-10-24 | 2023-11-06 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/1CBWjgZy7onlRVByYknOLo) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Psalm](https://open.spotify.com/album/5StjzAp4cqRyGZyit1Qc3T) | 1:48 | 2023-08-22 | 2023-09-06 |
-| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/3Yx90hFIsFIphKsTXuvAdA) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- We Are Forgiven](https://open.spotify.com/album/07vCUCKfTyRHA4yhdvSFdU) | 1:48 | 2023-10-24 |  |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/2FOCfMhidWT7tvtfrcxyC6) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Meditation](https://open.spotify.com/album/2MJ5q37BhtEgWjTaqTWVBb) | 1:48 | 2023-11-07 |  |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/3Yx90hFIsFIphKsTXuvAdA) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- We Are Forgiven](https://open.spotify.com/album/07vCUCKfTyRHA4yhdvSFdU) | 1:48 | 2023-10-24 | 2023-11-17 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Mysterious Ways](https://open.spotify.com/album/1BfKFbABeUVtwlEVtXi3yU) | 1:48 | 2023-09-05 | 2023-10-04 |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2022-04-14 | 2022-05-14 |
 | [Bringing Us Closer](https://open.spotify.com/track/407EfKCYlIForjXcRROQlv) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Bringing Us Closer](https://open.spotify.com/album/4H1jcyemjRrTrONqXXKy4b) | 1:59 | 2023-08-01 |  |

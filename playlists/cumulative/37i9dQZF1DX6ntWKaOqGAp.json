@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Anone",
+        "url": "https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406662,
+      "name": "Anone",
+      "url": "https://open.spotify.com/track/4oKsfQvfCHiFkKww8vX56O"
+    },
+    {
+      "album": {
         "name": "Anshin",
         "url": "https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6"
       },
@@ -922,6 +940,24 @@
       "duration_ms": 229999,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl"
+    },
+    {
+      "album": {
+        "name": "Be Nothing",
+        "url": "https://open.spotify.com/album/4SAoAdpY6r6Nn6I84MfNSr"
+      },
+      "artists": [
+        {
+          "name": "Newspeak",
+          "url": "https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "Be Nothing",
+      "url": "https://open.spotify.com/track/5UTz0G8NKuAfuKTETWyMZF"
     },
     {
       "album": {
@@ -8326,7 +8362,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 221981,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/2Ftlh25YMK6Oa6SYgGksyQ"
@@ -10088,7 +10124,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 406662,
       "name": "\u3042\u306e\u306d",
       "url": "https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP"

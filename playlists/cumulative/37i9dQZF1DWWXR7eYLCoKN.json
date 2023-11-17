@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "BRAZIL ALL STARS : SAMBA HITS",
+        "url": "https://open.spotify.com/album/6dadiaGXwknT2ngG6sN4eL"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/0hejQ1VJ8ySSTK4DE9EY4v"
+    },
+    {
+      "album": {
         "name": "Melhores Pagodes",
         "url": "https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan"
       },
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 243053,
       "name": "Sufoco",
       "url": "https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9"

@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-548 songs - 1 day 13 hr 3 min
+550 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Night Like This](https://open.spotify.com/track/4CGgcpgWRnAqJXK6PXQLB1) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Deleted Scenes From The Cutting Room Floor](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) | 3:45 | 2019-03-11 | 2023-03-25 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2023-05-30 |  |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2019-03-11 | 2023-11-03 |
+| [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 | 2023-06-14 |  |
 | [Afraid Of The Dark](https://open.spotify.com/track/2vSLSJH9lHKne3zUKYBVPI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Afraid Of The Dark](https://open.spotify.com/album/22lCTEPNIuOwVR4p1sp9py) | 3:08 | 2022-03-03 | 2023-05-31 |
 | [Age of Panic](https://open.spotify.com/track/6JA0MXHzaaJBG1eIbWAW3d) | [Senser](https://open.spotify.com/artist/2x3n60ukOull9yln5m080E) | [Senser Stacked up XX](https://open.spotify.com/album/303SfM4fCrqwqnsSCQG8bV) | 4:08 | 2019-03-11 | 2023-05-31 |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2019-03-11 |  |
@@ -296,7 +297,8 @@
 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 | 2023-05-30 |  |
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2019-03-11 |  |
 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2019-03-11 |  |
-| [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-05-30 |  |
+| [Lost Inside My Head](https://open.spotify.com/track/2N2XamEoHdAcg8S3oLMhcI) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 2:41 | 2023-06-14 |  |
+| [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-05-30 | 2023-11-17 |
 | [Louise](https://open.spotify.com/track/4ulCDgCtsV9gLw031TiiXf) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Venus & Mars](https://open.spotify.com/album/0oS1fyPxZ1xVNz4Ae2q9nk) | 3:24 | 2019-03-13 | 2023-05-31 |
 | [Love & Pride](https://open.spotify.com/track/3oGcHyoXwBMIAXkgIzLoQn) | [King](https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki) | [Steps In Time](https://open.spotify.com/album/7dTQ7PhsaV6a6AeGV9l97N) | 3:21 | 2019-03-11 | 2023-05-31 |
 | [Love Hurts](https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair Of The Dog](https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF) | 3:53 | 2019-03-11 | 2023-05-31 |
@@ -363,7 +365,7 @@
 | [Palomine](https://open.spotify.com/track/2C1iEgkI01gC6kFw1W19Vd) | [Bettie Serveert](https://open.spotify.com/artist/0ZY9xX3ninRS8dDz82nRQS) | [Palomine \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6gvtfxqV6zQw1Tg7zodY5i) | 4:09 | 2019-03-11 | 2023-05-31 |
 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 | 2019-03-12 | 2023-05-31 |
 | [Papillon](https://open.spotify.com/track/7hYiX6LMP8w8d0kEc4KWuW) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [In This Light and on This Evening](https://open.spotify.com/album/4JO30GKQBd4SRLZSBwtTPY) | 5:24 | 2019-03-11 | 2023-05-31 |
-| [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2019-03-11 |  |
+| [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2019-03-11 | 2023-11-17 |
 | [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 | 2019-03-11 |  |
 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 | 2019-03-11 | 2023-05-31 |
 | [Phat Planet](https://open.spotify.com/track/3cR4v4R9tl8vZkOAgqiMQh) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Rhythm and Stealth](https://open.spotify.com/album/2rSsFpV6S1AKfcJIf6FYlE) | 5:23 | 2019-03-11 | 2023-05-31 |

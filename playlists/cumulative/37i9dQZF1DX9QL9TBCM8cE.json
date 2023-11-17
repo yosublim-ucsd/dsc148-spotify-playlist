@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 247786,
       "name": "BRIGHTEST WHITE",
       "url": "https://open.spotify.com/track/06TMFKm1kw8QymT6XGMIll"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 228760,
       "name": "Secret utopIA",
       "url": "https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62"
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 08",
+        "url": "https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8"
+      },
+      "artists": [
+        {
+          "name": "\u30b3\u30e1\u30c6\u30a3\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "\u304f\u3060\u3089\u306a\u3044\u3084",
+      "url": "https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c"
+    },
+    {
+      "album": {
         "name": "\u304f\u3060\u3089\u306a\u3044\u3084",
         "url": "https://open.spotify.com/album/1en1jydyZYvHAW3ECwqmpj"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 262386,
       "name": "\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u30fb\u30a2\u30f3\u30d6\u30ec\u30e9 - 2022 Version",
       "url": "https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0"

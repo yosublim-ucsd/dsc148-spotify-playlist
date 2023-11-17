@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-197 songs - 10 hr 10 min
+201 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Good Enough](https://open.spotify.com/track/27cKloOulot9GZuKTwwPG7) | [DJ Mayson](https://open.spotify.com/artist/0yfPh6KmtnI0XLwu1oh1hP) | [Good Enough](https://open.spotify.com/album/21TmHAoMlDytDjrYs55hWk) | 3:41 | 2022-05-10 | 2022-07-01 |
 | [Good LUV](https://open.spotify.com/track/1QqBrFnnInn1nB5EsfbxNT) | [OYUKA](https://open.spotify.com/artist/7ijqibahP8A8i517Nm6KiS) | [Good LUV](https://open.spotify.com/album/23Nlb6UA6S67V9dtV6Ym8J) | 3:11 | 2021-11-11 |  |
 | [Got This](https://open.spotify.com/track/70ZtLYA9LXHb1wGivdTWh2) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 4:34 | 2021-11-11 | 2023-03-10 |
+| [Gradual Downhill](https://open.spotify.com/track/24bFwSuFvuaYS4XrVZsBPX) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Gradual Downhill](https://open.spotify.com/album/0JmZJNNlnr0T8NzfztRAUb) | 3:06 | 2023-11-17 |  |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2021-11-11 | 2022-01-22 |
 | [Habits](https://open.spotify.com/track/7x508VL7l1oKprXAlyKCr4) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Habits](https://open.spotify.com/album/5DheiEg0IKr4iadlv0hn7F) | 3:25 | 2022-07-08 |  |
 | [Hama](https://open.spotify.com/track/0kDUyKS8rnYOqVoCZos7LS) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Hama](https://open.spotify.com/album/16c5hUVkh9T9cMUZ1FRepD) | 2:49 | 2022-10-28 | 2023-08-05 |
@@ -104,6 +105,7 @@
 | [Let You Go](https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Let You Go](https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f) | 2:36 | 2021-11-11 | 2022-05-11 |
 | [Lickshot](https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ) | [Saxon Monte](https://open.spotify.com/artist/416RME57I6fWDVrfbO7H8Z) | [Lickshot](https://open.spotify.com/album/2nUwhidPZlxBourcTFX283) | 3:24 | 2021-11-11 | 2023-10-03 |
 | [Little Joys](https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk) | [Rose Sun](https://open.spotify.com/artist/6ouNagNKWDTz73MNkKiGIT) | [Little Joys](https://open.spotify.com/album/4ofw6KmpKSfygUzct5YOwF) | 2:38 | 2021-11-11 | 2023-06-03 |
+| [Love Again](https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Love Again](https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7) | 2:08 | 2023-11-17 |  |
 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 | 2023-10-13 |
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 | 2023-03-10 |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
@@ -135,13 +137,13 @@
 | [Party By The Pool](https://open.spotify.com/track/2OcKWD2WtqoQCRiutFaTYX) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Party By The Pool](https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k) | 2:56 | 2022-12-09 |  |
 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 | 2021-11-11 |  |
 | [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 | 2023-02-24 |  |
-| [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 | 2023-05-26 |  |
+| [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 | 2023-05-26 | 2023-11-17 |
 | [Pink Skies](https://open.spotify.com/track/4MXVuIpQgFNBPABhYu2VFG) | [Dylan City](https://open.spotify.com/artist/1d07rq5p4ysXE3PaGJP8Bn) | [Pink Skies](https://open.spotify.com/album/4fZ80kzntY4IOkBtsNKR1t) | 2:19 | 2021-11-11 | 2022-05-20 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2021-11-11 | 2023-08-05 |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 | 2023-03-10 |
 | [Postcard Paradise](https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Postcard Paradise](https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu) | 2:24 | 2021-11-11 | 2023-06-03 |
 | [private pools](https://open.spotify.com/track/4TATsJQ6VyMwOZbZpogkdg) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [private pools](https://open.spotify.com/album/4YLzNqNYhLsW7AT2ZauogV) | 2:41 | 2023-03-17 |  |
-| [Pull Me Closer](https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Pull Me Closer](https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb) | 3:06 | 2021-11-11 |  |
+| [Pull Me Closer](https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Pull Me Closer](https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb) | 3:06 | 2021-11-11 | 2023-11-17 |
 | [Pura Vida](https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Julia Thomsen](https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE) | [Pura Vida](https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK) | 3:10 | 2022-09-02 | 2023-08-05 |
 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 | 2023-04-14 |  |
 | [Renaissance](https://open.spotify.com/track/0Ehgq0I49NC6FwpArofFdk) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Renaissance](https://open.spotify.com/album/2guusLpexyacviaKX9hMvv) | 4:00 | 2022-12-09 | 2023-03-10 |
@@ -153,7 +155,7 @@
 | [saturday thunder](https://open.spotify.com/track/3TXyytRgN8IoyOxoAQ41cd) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [saturday thunder](https://open.spotify.com/album/3CYxz9iPi8Uu6IxWLITo5V) | 2:35 | 2023-05-05 | 2023-06-03 |
 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 | 2022-11-25 |  |
 | [See Me](https://open.spotify.com/track/6jHI5mf1ahYvoSwx0tdbNB) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [See Me](https://open.spotify.com/album/4LOia9loCga2tcDc8HQU5J) | 3:48 | 2022-07-22 |  |
-| [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 |  |
+| [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 | 2023-11-17 |
 | [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 | 2023-05-22 |  |
 | [She Knows Best](https://open.spotify.com/track/71GZwwdFqYpEcN1mNIhII5) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [She Knows Best](https://open.spotify.com/album/6YQnN8oKnYxfqNJ6eMV8lw) | 2:32 | 2021-11-11 | 2023-08-05 |
 | [Shy Papi](https://open.spotify.com/track/3DtljtN2uHPJyPO97g73BY) | [Wibbie Slush](https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj) | [Shy Papi](https://open.spotify.com/album/5hZQPlHDYj6c8jX99bijQ4) | 2:32 | 2023-02-10 | 2023-08-05 |
@@ -165,7 +167,7 @@
 | [Solidarity](https://open.spotify.com/track/2ieJ272KbcfpIawpUkr65D) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Solidarity](https://open.spotify.com/album/68bol0r3htpiEXaZo3utkT) | 2:47 | 2021-11-11 | 2023-08-05 |
 | [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 3:23 | 2021-11-11 | 2023-08-05 |
 | [Soothing Serenade](https://open.spotify.com/track/7IvaKyJMMmdqgs9i2Z3Lrb) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Cool Drink](https://open.spotify.com/album/0zeiXIlXMg8PhuG9UPRGMm) | 3:07 | 2023-02-10 |  |
-| [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-11 |  |
+| [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-11 | 2023-11-17 |
 | [Sound Vision](https://open.spotify.com/track/1NCPJfFrGhbfsJJGaM8h1t) | [No Contaban](https://open.spotify.com/artist/1YR4LnGUaLSh5PwvlM56Cx) | [Sound Vision](https://open.spotify.com/album/58kV4zk6GEV8NCmlfiLr57) | 4:08 | 2023-03-10 |  |
 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 | 2023-08-04 |  |
 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 | 2021-11-11 |  |
@@ -177,9 +179,11 @@
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-11-11 |  |
 | [Sunflower](https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 4:04 | 2021-11-11 | 2022-04-06 |
 | [Sunset Bliss](https://open.spotify.com/track/3PuyKuyF1LrKVpyAzPxWVU) | [Leon FM](https://open.spotify.com/artist/4Yc8THLLISQc6PwYxM1yu1) | [Sunset Bliss](https://open.spotify.com/album/20OYVxQ5rrVMiGaRb2CvWI) | 2:21 | 2023-10-20 |  |
+| [Sunset Dream](https://open.spotify.com/track/7ncTzToPsfpmZ6yeu4wp5O) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Sunset Dream](https://open.spotify.com/album/2gPB6BHVBEHa5gyO3OSsD8) | 2:14 | 2023-11-17 |  |
 | [Supernova](https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [Supernova](https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm) | 3:38 | 2021-11-11 |  |
 | [Swerve](https://open.spotify.com/track/2w2UDzxOhiujUtZjTxeODU) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Swerve](https://open.spotify.com/album/6mjJf2GE64QAdr8LQFEznF) | 3:11 | 2021-11-11 | 2022-01-22 |
 | [Switch to Mandarin](https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Switch to Mandarin](https://open.spotify.com/album/6rdVhNeC9SJXYbOvkMlRCB) | 3:11 | 2023-05-26 | 2023-09-16 |
+| [Takamagahara](https://open.spotify.com/track/1ZwyC2Nz4XZVngLbIiBEGR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Takamagahara](https://open.spotify.com/album/6WPNmPlwsoIgdlgmebraT7) | 2:19 | 2023-11-17 |  |
 | [The Dove](https://open.spotify.com/track/1z2cIPvykmRJQ99WG7Qytb) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Dove](https://open.spotify.com/album/6kanlvfIHHu37y1qIO7iES) | 2:16 | 2021-11-11 | 2023-08-05 |
 | [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 | 2021-11-11 |  |
 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 | 2023-04-21 |  |

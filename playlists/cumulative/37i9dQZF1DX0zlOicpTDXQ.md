@@ -2,9 +2,9 @@
 
 ### [Netflix Holidays Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0zlOicpTDXQ)
 
-> Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
+> Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Brandy in Best\. Christmas\. Ever.
 
-75 songs - 3 hr 46 min
+77 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-11-18 | 2023-09-15 |
 | [Christmas Without You](https://open.spotify.com/track/5dTaAzAttwilDZNwJuf6yN) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:54 | 2022-11-18 |  |
 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 | 2022-11-18 | 2023-11-16 |
+| [Deck The Halls](https://open.spotify.com/track/4T6tMacwnRK53WSUfWJDRL) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 2:28 | 2023-11-16 |  |
 | [Diamonds \(Shine Bright\)](https://open.spotify.com/track/04JchRaXdanKuxR1HRYzcm) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Mighty Thor: The Complete Fantasy Playlist \- Loni Lovato](https://open.spotify.com/album/49BZUDxAcjlCTRNcRF6QSo) | 3:45 | 2022-11-18 | 2023-11-16 |
 | [Diamonds \(Shine Bright\)](https://open.spotify.com/track/7vLejPnkOAHDdLxcnuzDEw) | [Loni Lovato](https://open.spotify.com/artist/78zmh0WTNg87VyzbGxDoHu) | [The Princess Switch The Ultimate Fantasy Playlist](https://open.spotify.com/album/2ol7ZnOj2eeKwBdy3sAuCJ) | 3:45 | 2022-11-18 | 2023-01-05 |
 | [Don Juan Comes To Life](https://open.spotify.com/track/1xoUqYTmTqMF24a4uBEQ5U) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Jingle Jangle: A Christmas Journey \(Score from the Netflix Original Film\)](https://open.spotify.com/album/2PQq1kd1uEjrpDrErtYYEX) | 1:04 | 2022-11-18 |  |
@@ -42,6 +43,7 @@
 | [Jessica’s Picture](https://open.spotify.com/track/4IceduohsCgzUyl2QoLuwX) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Jingle Jangle: A Christmas Journey \(Score from the Netflix Original Film\)](https://open.spotify.com/album/2PQq1kd1uEjrpDrErtYYEX) | 1:40 | 2022-11-18 |  |
 | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:56 | 2022-11-18 |  |
 | [Jingle Bells](https://open.spotify.com/track/5BqPZ2JaPic94cybdSmh9h) | [Aliana Lohan](https://open.spotify.com/artist/1wPfaXhiaOzhtpCa52LRux) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:52 | 2022-11-18 |  |
+| [Jingle Bells](https://open.spotify.com/track/2K7a3IIm84ssfyjcy7fAvH) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 2:50 | 2023-11-16 |  |
 | [Last Christmas](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:23 | 2022-11-18 |  |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2022-11-18 | 2023-11-07 |
 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 | 2022-11-18 | 2023-11-16 |

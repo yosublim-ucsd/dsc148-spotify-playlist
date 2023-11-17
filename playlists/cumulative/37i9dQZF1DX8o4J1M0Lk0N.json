@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-06-10",
-  "description": "Classic instrumental Soul to play during your working hours. ",
-  "name": "Workday Soul",
+  "description": "Classic instrumental Soul for any activity.  ",
+  "name": "Soul in the Background",
   "tracks": [
     {
       "album": {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Janne Schaffer",
+        "url": "https://open.spotify.com/album/1BJs0UO6E7pXoWHTPmrufR"
+      },
+      "artists": [
+        {
+          "name": "Janne Schaffer",
+          "url": "https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259106,
+      "name": "Ballon Is Growing",
+      "url": "https://open.spotify.com/track/6WW378Ydb7oInNuADKcBvt"
+    },
+    {
+      "album": {
         "name": "High Contrast",
         "url": "https://open.spotify.com/album/6vJhvpnUSfBNxDRrCWbuda"
       },
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/3rBYtQQ1zguHEE7grrCuW8"
+      },
+      "artists": [
+        {
+          "name": "Gianni Oddi",
+          "url": "https://open.spotify.com/artist/6jkr7vmHa8d26PsZVu5pvu"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Chanel N. 7",
+      "url": "https://open.spotify.com/track/4XMWb7gwsFNH27nlaIpjcc"
+    },
+    {
+      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc"
       },
@@ -254,6 +290,24 @@
       "duration_ms": 255533,
       "name": "Dreamflower",
       "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
+    },
+    {
+      "album": {
+        "name": "Up From The Basement - Unreleased Tracks - Volumes 1 & 2",
+        "url": "https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s"
+      },
+      "artists": [
+        {
+          "name": "Galt MacDermot",
+          "url": "https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Duffer in F (Version 2)",
+      "url": "https://open.spotify.com/track/0hw7hcbmKIxWNfptV8fNfz"
     },
     {
       "album": {
@@ -412,7 +466,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 252733,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/7vWwU25xjL03GVWnGbhhem"
@@ -589,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Lucky Seven",
+        "url": "https://open.spotify.com/album/5XKta0GLLuIn43jkhC8YsX"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333026,
+      "name": "Look-Alike",
+      "url": "https://open.spotify.com/track/5Cdre4FgMQxOor0E1ciuwl"
+    },
+    {
+      "album": {
         "name": "The Budos Band",
         "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
       },
@@ -618,7 +690,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 441770,
       "name": "Moon Star",
       "url": "https://open.spotify.com/track/1WoT5eQNrYU4vx4cWL8Bgv"
@@ -654,7 +726,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 250773,
       "name": "My Mood",
       "url": "https://open.spotify.com/track/6MdCS3louSciZtWoE9tfVI"
@@ -719,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Truth & Soul presents The Best of The Fabulous Three",
+        "url": "https://open.spotify.com/album/57eg3xSuJqbjkcLyfjFToQ"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Three",
+          "url": "https://open.spotify.com/artist/3le5O6so782djcAD0TbiAC"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "Odyssey Revised",
+      "url": "https://open.spotify.com/track/1xvawNhSJBMxVGbE0cBEkW"
+    },
+    {
+      "album": {
         "name": "On Love",
         "url": "https://open.spotify.com/album/4qGtAEG7JCu2tOJDlDPU3t"
       },
@@ -773,6 +863,24 @@
     },
     {
       "album": {
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165880,
+      "name": "Pluto's Lament",
+      "url": "https://open.spotify.com/track/58BAK2xCNBY2Q8xnCzp69E"
+    },
+    {
+      "album": {
         "name": "Solid Soul",
         "url": "https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq"
       },
@@ -788,6 +896,24 @@
       "duration_ms": 134720,
       "name": "Prayer Meetin'",
       "url": "https://open.spotify.com/track/19YLQaeQT88GJ6nz1IlbNK"
+    },
+    {
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/6CSRaAJ3krsCkhuMAzx4PD"
+      },
+      "artists": [
+        {
+          "name": "Jack Wilkins",
+          "url": "https://open.spotify.com/artist/6oalE1Ov29U9WBDn63puSu"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298798,
+      "name": "Red Clay",
+      "url": "https://open.spotify.com/track/3Mbkhd9tdMwyqbrVE3IODX"
     },
     {
       "album": {
@@ -1180,7 +1306,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 371378,
       "name": "Sweet Honey Wine",
       "url": "https://open.spotify.com/track/419dfghlxcJ00rAJS0IX9e"
@@ -1259,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/3V7pXooxBp9qCV6a4SK2jX"
+      },
+      "artists": [
+        {
+          "name": "William Stuckey",
+          "url": "https://open.spotify.com/artist/0zXSMLUZhpEGRzYSAXeWNp"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260028,
+      "name": "The First Time - Instrumental",
+      "url": "https://open.spotify.com/track/7o66wmJitsR8xtNGATHRMh"
+    },
+    {
+      "album": {
         "name": "Gettin' Funkier All the Time: The Complete Josie, Reprise and Warner Recordings 1968-1977",
         "url": "https://open.spotify.com/album/5Z78Vqw6GHUtxhulhZPAGY"
       },
@@ -1324,7 +1468,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 195226,
       "name": "Time Is Tight",
       "url": "https://open.spotify.com/track/3XOVanRi3prWDEZQiZTlYx"
@@ -1346,6 +1490,24 @@
       "duration_ms": 149173,
       "name": "Tippi-Toes",
       "url": "https://open.spotify.com/track/4IC87geBnjbgduIfAz5xbd"
+    },
+    {
+      "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Tired of Fighting",
+      "url": "https://open.spotify.com/track/3FnPyzSwXrbr23MVrrV0MJ"
     },
     {
       "album": {

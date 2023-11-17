@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LIE NING
 
-997 songs - 2 day 6 hr 12 min
+998 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,6 +726,7 @@
 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 | 2022-02-25 | 2022-04-21 |
 | [RAINBOW](https://open.spotify.com/track/0a64yxcRWyJ9mcJOe7fNTj) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [RAINBOW](https://open.spotify.com/album/1UVIRXLksbAlXmV7Onih5h) | 3:33 | 2023-07-11 | 2023-07-26 |
 | [Rave in the Casba](https://open.spotify.com/track/2U8W0if8bgd8Fru41AW1OL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Rave in the Casba](https://open.spotify.com/album/7wqLZzK27gTVo6QZIUb4WO) | 3:06 | 2023-08-08 | 2023-09-13 |
+| [Re di Cuori](https://open.spotify.com/track/5tafzF7aJqE5e389P7YHXB) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [Re di Cuori](https://open.spotify.com/album/4vnAsT4E94js0BXUNVCtgO) | 2:50 | 2023-11-17 |  |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Readiness](https://open.spotify.com/track/228Z0vmFHvfaTjadu5hgu3) | [DOLLY BING BING](https://open.spotify.com/artist/2K9eZVd9LAo9FWNPgKPkhb) | [Readiness](https://open.spotify.com/album/4BT79hiS57D6PpqSKQuHKf) | 3:57 | 2023-03-07 | 2023-04-01 |
 | [Real Love](https://open.spotify.com/track/5aaY8s8X72TDkuNutmWqgl) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Real Love](https://open.spotify.com/album/36MMfOa4HDNwQcBqgmMJdk) | 3:40 | 2023-03-07 | 2023-05-10 |
@@ -774,7 +775,7 @@
 | [She Fell In Love In The Summer](https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [She Fell In Love In The Summer](https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN) | 2:52 | 2023-05-09 | 2023-06-02 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2021-12-17 | 2022-12-01 |
 | [she knows it](https://open.spotify.com/track/5M24GbbGWy0Z2W4RmLqFFf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [self sabotage](https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C) | 2:36 | 2022-09-16 | 2022-10-08 |
-| [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-12 |  |
+| [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-12 | 2023-11-17 |
 | [She's so differentə](https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [She's so differentə](https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps) | 4:23 | 2023-04-13 | 2023-05-10 |
 | [SHOW OFF \(feat\. Nicole Scherzinger\)](https://open.spotify.com/track/1jpnnxTKqfvSWl6MccJjAd) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [FEMULINE](https://open.spotify.com/album/5HMKe2aSQafz0Oix7nePGT) | 3:40 | 2021-12-17 | 2022-01-17 |
 | [Showertime](https://open.spotify.com/track/6KNlMadA2Tfi6kYDbUzPp9) | [Georgia Greene](https://open.spotify.com/artist/4gG86DjoxWcWl5fkltnt6J) | [Showertime](https://open.spotify.com/album/6VqTVKNFXuhFzlG13yEidF) | 2:37 | 2021-12-24 | 2022-01-28 |

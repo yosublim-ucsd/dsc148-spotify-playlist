@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:Rothy\(로시\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:THAMA\(따마\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-435 songs - 1 day 4 hr 23 min
+436 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-20 | 2023-01-06 |
 | [Autumn Night](https://open.spotify.com/track/05f49QdY08agCPBn5ihwt2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:04 | 2022-03-24 | 2022-04-20 |
 | [AWay](https://open.spotify.com/track/6kDjvnLPUyDn0GVc6BLG6A) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:20 | 2022-02-10 | 2022-05-02 |
+| [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 |  |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 |  |
 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-05 | 2022-09-22 |
 | [Bad Influence](https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Bad Influence](https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor) | 2:40 | 2022-03-24 | 2023-03-22 |
@@ -265,7 +266,7 @@
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 |  |
 | [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 | 2023-03-27 | 2023-04-01 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |
-| [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 | 2023-11-06 |  |
+| [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 | 2023-11-06 | 2023-11-17 |
 | [Nobody else \(Under the Oak Tree\) \- Original Soundtrack, Part\. 3](https://open.spotify.com/track/41hJZwfHtGsr3MxQa6V7bv) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Nobody else \(Under the Oak Tree\) \[Original Soundtrack, Part\. 3\]](https://open.spotify.com/album/0HYFc6RTdNzocWOcSKkVP7) | 3:45 | 2022-01-27 | 2022-07-27 |
 | [Not Anyone Else](https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Anyone Else](https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR) | 4:18 | 2021-12-20 | 2022-07-23 |
 | [Not My Fault](https://open.spotify.com/track/1ysdMnzZoC0zedcbGnKChd) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Unsaid, Pt\. 1](https://open.spotify.com/album/6SKaAubOnUpjGqUi5T5W9z) | 4:38 | 2022-03-24 | 2022-04-19 |

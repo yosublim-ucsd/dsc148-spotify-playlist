@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=82LFO0ChSqib1SNOluXr5A\">Barto</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=MyXNh3NQTfiACilP98hBBA\">Karlien Van Jaarsveld</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 233541,
       "name": "Afrikaans is Alles",
       "url": "https://open.spotify.com/track/3eeGal6kEMlUaPnxY7bTtJ"
+    },
+    {
+      "album": {
+        "name": "Als Is Okay",
+        "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
+      },
+      "artists": [
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Als Is Okay",
+      "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
     },
     {
       "album": {
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 169194,
       "name": "Wildman",
       "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"

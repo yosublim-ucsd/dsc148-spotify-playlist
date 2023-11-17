@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,795 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,811 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 14 | [feel me](https://open.spotify.com/track/7hsqpR9vgiLxWSoOTCBjNB) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [CUTE](https://open.spotify.com/album/6BvDmyz4nJ9ucotNDbEnWh) | 3:56 |
 | 15 | [Lazer](https://open.spotify.com/track/62W8V9yHSCbHpYoOKZwi4Y) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Lazer](https://open.spotify.com/album/7jYd88sKn0QdQLhpeY35Df) | 3:10 |
 | 16 | [02:29](https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [02:29](https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u) | 2:29 |
-| 17 | [In This Darkness](https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT) | 3:17 |
+| 17 | [In This Darkness](https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ) | 3:17 |
 | 18 | [arrpfaded](https://open.spotify.com/track/6hbUv75OlC4JzRYePSHQj7) | [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Improvisational Loops](https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU) | 2:07 |
 | 19 | [Blue \- Happa Remix](https://open.spotify.com/track/5S6nhI2Xya2RAuuKiZ9aQn) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6), [Happa](https://open.spotify.com/artist/37j7tcvJMvkQiDBPnHHanF) | [Blue \(Happa Remix\)](https://open.spotify.com/album/13rXm57JyVWc4GqIWHbJyO) | 4:43 |
 | 20 | [Midsommar](https://open.spotify.com/track/7xJT1Sge4iqzoclKg8FIDx) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Midsommar](https://open.spotify.com/album/1PrAfISnIa9BPJ21hAiA7u) | 4:35 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 51 | [Love Loop To Fade](https://open.spotify.com/track/2tFR5NPXOFszGPGcrAazJB) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 2:03 |
 | 52 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/5QglfG3SyT9ZHFTtcxA0FK) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:15 |
 
-Snapshot ID: `MCxlNjU0MTZlZjdlZDY4ZTJlMmMzZjRlNjA2MWI5ZmNhYjAyYzI0NTY4`
+Snapshot ID: `MCxjMmQwMzAyOWM4MzM1OWRkMjEyZmY4ZGM0N2ZiYTJkMzIwZjA0NTFl`

@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Yoss Bones y Dharius en portada.
 
-247 songs - 14 hr 9 min
+248 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [No Eres Rapero](https://open.spotify.com/track/0PvQddVhVgnLK2FHiTQh8l) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Oldtape](https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf) | [No Eres Rapero](https://open.spotify.com/album/6OBEOXqY6rJLtarTzYoBIP) | 3:17 | 2023-07-17 |  |
 | [No Hay Fallo](https://open.spotify.com/track/6uX08Q1SKqYD5NqcpqbVZL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [No Hay Fallo](https://open.spotify.com/album/6quIBjOBol9YtKVjJAQqQm) | 2:53 | 2021-12-30 | 2022-02-25 |
 | [No Me Pueden Parar](https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [No Me Pueden Parar](https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK) | 3:28 | 2023-03-24 | 2023-10-07 |
-| [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 | 2021-12-30 |  |
+| [No Que No Eras Fan](https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:22 | 2023-11-10 |  |
+| [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 | 2021-12-30 | 2023-11-17 |
 | [No Se Va](https://open.spotify.com/track/0ubgtrFRXQwmKc85Bbreq9) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [No Se Va](https://open.spotify.com/album/6WwkPmYxmRu31muR62tdN7) | 4:12 | 2021-12-30 | 2022-10-29 |
 | [Nunca Imaginé](https://open.spotify.com/track/07XudW9mstFnVTESabbOUu) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/09T8DBQY3aDVDLgWckmNxb) | 2:48 | 2021-12-30 | 2022-08-16 |
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2022-04-21 | 2022-11-25 |

@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 349293,
       "name": "Il suffira d'un signe",
       "url": "https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 180813,
       "name": "Lalalove You",
       "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
@@ -980,6 +998,24 @@
       "duration_ms": 195693,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
+    },
+    {
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
     },
     {
       "album": {
@@ -1322,10 +1358,32 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 178173,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
+    },
+    {
+      "album": {
+        "name": "Pays des merveilles",
+        "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        },
+        {
+          "name": "CEUZANY",
+          "url": "https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206619,
+      "name": "Pays des merveilles",
+      "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
     },
     {
       "album": {

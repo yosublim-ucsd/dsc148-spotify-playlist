@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536,261 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536,367 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [For My Love\(2023\)](https://open.spotify.com/track/3V8fMqqEnhsUuG77YXQMeY) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3DXEGzNiQ0rq9BlRNHy1bZ) | 4:20 |
 | 100 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 |
 
-Snapshot ID: `MCw2MDhlMWVmMDU4ZjIzNDFiOWVjZTNlNmVkZDM5OTQ5MzI5ZWE0MGY2`
+Snapshot ID: `MCw1MjNmMjBkOTFjNjI5NDcyZWI1ZDYyMDFmMWQ5ZmYxZDFjNmJiNjI1`

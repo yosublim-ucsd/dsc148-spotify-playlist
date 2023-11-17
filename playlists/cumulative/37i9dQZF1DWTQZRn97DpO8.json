@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : IPNDEGO",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Enchant\u00e9e Julia",
   "name": "le miel",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 195692,
       "name": "CIN\u00c9",
       "url": "https://open.spotify.com/track/2QwBM6L5t8yuEwaC2FXid7"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 203653,
       "name": "Encaisser",
       "url": "https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I"
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "era 24",
+        "url": "https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Oublie-moi",
+      "url": "https://open.spotify.com/track/638DO6YrucQZj3VLt0KH4W"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e"
       },
@@ -774,7 +792,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 150724,
       "name": "P.U.O.",
       "url": "https://open.spotify.com/track/4MzVaIZs5751w1XQdhmfPJ"
@@ -889,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Une semaine \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214871,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI"
+    },
+    {
+      "album": {
         "name": "Saison 00",
         "url": "https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf"
       },
@@ -980,7 +1020,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 193432,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF"
@@ -1006,6 +1046,24 @@
       "duration_ms": 176087,
       "name": "Saison",
       "url": "https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY"
+    },
+    {
+      "album": {
+        "name": "Sans dire au revoir",
+        "url": "https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS"
+      },
+      "artists": [
+        {
+          "name": "C\u00e4roline",
+          "url": "https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Sans dire au revoir",
+      "url": "https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8"
     },
     {
       "album": {
@@ -1042,6 +1100,28 @@
       "duration_ms": 226569,
       "name": "Si J't'oubliais",
       "url": "https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "Enchant\u00e9e Julia",
+          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
+        },
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165421,
+      "name": "Sois Pas Press\u00e9",
+      "url": "https://open.spotify.com/track/6MC1N4HYZJMKLj0H5deTgR"
     },
     {
       "album": {
@@ -1222,7 +1302,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 183963,
       "name": "VENUS",
       "url": "https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl"

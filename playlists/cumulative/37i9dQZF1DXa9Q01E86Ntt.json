@@ -1424,10 +1424,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 170466,
       "name": "Main Theme",
       "url": "https://open.spotify.com/track/6iH8p3isdM1uRa2mQ3w2Jm"
+    },
+    {
+      "album": {
+        "name": "Nouvel an tib\u00e9tain 2011 - L'ann\u00e9e du li\u00e8vre de fer",
+        "url": "https://open.spotify.com/album/4INBsmZzCwaVe9larSnPR2"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170553,
+      "name": "Main Theme - From 'Little Buddha'",
+      "url": "https://open.spotify.com/track/3SmwsuloqGL836aBATZJ0I"
     },
     {
       "album": {

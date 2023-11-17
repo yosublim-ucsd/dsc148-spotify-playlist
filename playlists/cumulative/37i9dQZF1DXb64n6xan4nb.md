@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-139 songs - 9 hr 38 min
+140 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [I turned off the TV..\. \(feat\. Yoonmirae & Kwon Jung\-yeol\)](https://open.spotify.com/track/1oBUbM6xZOPQoHkMJNrRTp) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [Kwon Jung\-yeol](https://open.spotify.com/artist/41xhje1ncKfDdlwZLWqr5M) | [AsuRaBalBalTa](https://open.spotify.com/album/4of6ei5UMWYCB3bD5bNDXS) | 3:35 | 2022-06-13 |  |
 | [I'll change](https://open.spotify.com/track/0FD70FH11msBXqZGV3vDMt) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Cyworld BGM 2021](https://open.spotify.com/album/4pRjMMT8KQjmbBHNI8AgCv) | 4:12 | 2022-06-13 | 2023-06-02 |
 | [I'll change](https://open.spotify.com/track/0yGGSo8VQE8YfpJvdYsqFk) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Cyworld BGM 2021](https://open.spotify.com/album/2hM6xcBoE6GcsLRIHh4xYu) | 4:12 | 2022-06-13 |  |
+| [If Only](https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Nice Dream](https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt) | 3:50 | 2022-06-13 |  |
 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 | 2022-06-13 |  |
 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/6h7ndBCXhabUn9QnqG3q1B) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 | 2022-06-13 |  |
 | [Johnny](https://open.spotify.com/track/2dnlQFidlBLM0juOQrVQHx) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cyworld BGM 2021](https://open.spotify.com/album/6YSjJerpELdsYXBj4CxBy2) | 3:18 | 2022-06-13 | 2023-06-02 |
 | [Johnny](https://open.spotify.com/track/6QviEIBaYzPQSHXJMfwi9l) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cyworld BGM 2021](https://open.spotify.com/album/6nkQfuVTgwKmNRCfk4d8vB) | 3:18 | 2022-06-13 |  |
 | [Let's Get Retarded](https://open.spotify.com/track/03nvFFGnitYLSl8H8af3ww) | [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [Let's Get Retarded](https://open.spotify.com/album/3EpcCN5EKkRdN7g7zOflQO) | 3:36 | 2022-06-13 | 2023-06-14 |
-| [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/6G7NK00vdfxNtdjLOfdUnZ) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 | 2022-06-13 |  |
+| [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/6G7NK00vdfxNtdjLOfdUnZ) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 | 2022-06-13 | 2023-11-17 |
 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 | 2022-06-13 | 2023-09-26 |
 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 | 2022-06-13 |  |
 | [Love Rain](https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [T\-VIRUS](https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh) | 3:59 | 2022-06-13 |  |

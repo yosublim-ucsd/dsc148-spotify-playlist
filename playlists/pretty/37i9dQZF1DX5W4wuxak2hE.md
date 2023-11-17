@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,799 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,833 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 18 | [What I Like About You](https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [What I Like About You \(And Other Romantic Hits\)](https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B) | 2:55 |
 | 19 | [I Got You](https://open.spotify.com/track/3KOPorZiKeW6gFeIViqMoq) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [True Colours](https://open.spotify.com/album/5UjwQ3co1TWY9458ojqjAj) | 3:29 |
 | 20 | [Renee Remains The Same](https://open.spotify.com/track/3nbRFWzOJrHIRh3xc53bKK) | [Material Issue](https://open.spotify.com/artist/3JqoJ9CMC1y6iLHz5zZLut) | [International Pop Overthrow](https://open.spotify.com/album/1FUKgKp6kDuZhL3e6f1ggW) | 3:16 |
-| 21 | [New Mistake](https://open.spotify.com/track/0lDvjI92aVKb1BLoRV6FaH) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk](https://open.spotify.com/album/7dAjaIuG9a9Nt3jkYTcoxD) | 4:03 |
+| 21 | [New Mistake](https://open.spotify.com/track/0lDvjI92aVKb1BLoRV6FaH) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk \(Remastered\)](https://open.spotify.com/album/7dAjaIuG9a9Nt3jkYTcoxD) | 4:03 |
 | 22 | [Saturday Night](https://open.spotify.com/track/78zYiMv9yNTHgmm6kaUPCm) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Shang\-A\-Lang](https://open.spotify.com/album/1JXwUifkvVxOVMBOg6TZIt) | 2:54 |
 | 23 | [Rock N Roll Girl](https://open.spotify.com/track/5YL7rH0cV48cGucqEZOnoJ) | [Paul Collins](https://open.spotify.com/artist/626sWfma3ur1YG5JL5UjSH), [The Beat](https://open.spotify.com/artist/6izO47rLWLrNUnYMwWGdse) | [The Beat](https://open.spotify.com/album/4yAKP1sLHvwL26AgcaEOLD) | 2:16 |
 | 24 | [Dreaming](https://open.spotify.com/track/2Rn7bVL1FVYboc4c55RUdg) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 69 | [Boys Don't Lie](https://open.spotify.com/track/3r4zJhOS92RECuCXKyCcO2) | [Shoes](https://open.spotify.com/artist/1SyCQtKtDtMfJBBKGm0A8B) | [Black Vinyl Shoes](https://open.spotify.com/album/0wOTP7wVEQqYwIVaPWqQNo) | 1:57 |
 | 70 | [Erica's Word](https://open.spotify.com/track/7DIf1GG2V04EVfPg2iq28Y) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/1UOR0sayUQipXwipanS1S3) | 3:54 |
 
-Snapshot ID: `MCxmNmZhZjdkZTE1Mjk1ZmNjZWJiNTZiNjVkNjYwZTg5ZDkyYTUyYzZh`
+Snapshot ID: `MCw5ZDNlNjA3NWRhZDAyMTMyZWFiOGIwNjliZjE0MDY0NDE1YmM5Mjgy`

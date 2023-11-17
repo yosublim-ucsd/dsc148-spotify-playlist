@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig">Shane Eagle</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=GkFCponvT7aad8\_K8wHWoQ">MashBeatz</a>
 
 639 songs - 1 day 10 hr 50 min
 

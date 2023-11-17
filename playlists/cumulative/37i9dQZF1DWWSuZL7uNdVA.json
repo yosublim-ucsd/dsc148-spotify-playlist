@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Green Day au top des meilleurs morceaux rock du moment.",
+  "description": "M\u00e5neskin au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "BIG",
+        "url": "https://open.spotify.com/album/1L8bOet9vwhCUUHgJewc2Q"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135340,
+      "name": "BIG",
+      "url": "https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG"
+    },
+    {
+      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 205426,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi"
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 162000,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3"
@@ -803,6 +821,24 @@
     },
     {
       "album": {
+        "name": "pity",
+        "url": "https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179790,
+      "name": "pity",
+      "url": "https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV"
+    },
+    {
+      "album": {
         "name": "Playing With Fire / ELF",
         "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
       },
@@ -1196,10 +1232,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 197320,
       "name": "Take Me With You",
       "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
+    },
+    {
+      "album": {
+        "name": "Tamagotchi",
+        "url": "https://open.spotify.com/album/5LfIrn2CRhwWfIJ9bCttaz"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "Tamagotchi",
+      "url": "https://open.spotify.com/track/5tY2w7GAcE6vhSAKHaigSk"
     },
     {
       "album": {

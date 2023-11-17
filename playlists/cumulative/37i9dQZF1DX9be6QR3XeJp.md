@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Tomike
+> Discover your new favourite artists from UK&IE\. Cover: B\-ahwe
 
-236 songs - 12 hr 49 min
+237 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Patience](https://open.spotify.com/track/2G6GODY8ZSa7vtzlzPNt9o) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/14plmyqkoSBmJoPHNJvCRH) | 3:04 | 2023-06-08 | 2023-10-09 |
 | [Patience](https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp) | 3:04 | 2023-05-18 | 2023-06-10 |
 | [Patience](https://open.spotify.com/track/5wMGj0epWXlXtyRYivwGdd) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [At The End Of The Day..\. It's Night](https://open.spotify.com/album/04VHaHFqBl62WzGz9Kb9na) | 3:04 | 2023-10-04 |  |
+| [Patience](https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:41 | 2023-11-17 |  |
 | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/track/5mEW1mq6KKEOO5rgHrepif) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/album/5kYQxc0ICdvP7ZS9OfR0i6) | 4:57 | 2022-02-18 |  |
 | [PBFF](https://open.spotify.com/track/6EyvkNx0su9PD8splN00kl) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/6MbOTpj7i8XQU6DDEyTgCH) | 2:45 | 2022-10-06 |  |
 | [PBFF](https://open.spotify.com/track/6fs1giNt7VJabuEvZ4ybqM) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/1PMpkPlvHMuzQiNNsc1qxr) | 2:45 | 2022-02-18 | 2022-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,597 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,602 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 91 | [tone \- feat\. GIRA MUNDO](https://open.spotify.com/track/3Dgn42lyjmfxyL69qpBCKB) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [GIRA MUNDO](https://open.spotify.com/artist/62Va8ffu6xF2kgP4oqHBkW) | [tone \(feat\. GIRA MUNDO\)](https://open.spotify.com/album/64G5fyF0zzLyxxqg4WIKTJ) | 5:18 |
 | 92 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 93 | [i'll still love you anyway](https://open.spotify.com/track/1uHY0CfGOZOKO2CSTVlFLs) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [affection's blind](https://open.spotify.com/album/24GRAjW5zhZcPYn9Mco2Vv) | 3:31 |
-| 94 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 |
+| 94 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 95 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 |
-| 96 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
+| 96 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 |
 | 97 | [Romance Dai 2 ban Op.50 \(Beethoven\)](https://open.spotify.com/track/2rKOIRnpxAWTu8x59bbsTE) | [Mariko Senju](https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W), [Pierre Dervaux](https://open.spotify.com/artist/0KvsxPaE9zVFOFWGVaQcmU), [Luxembourg Radio Symphony Orchestra](https://open.spotify.com/artist/3PiFts5w1ytZKYU8lKqqpG) | [Ongaku Kenkou Yuuryouji 2 Sawayaka Egao no Ongaku \-Selection\-](https://open.spotify.com/album/6Ml8fEaZpZhmixHQAmTvbG) | 8:51 |
 | 98 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 99 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 |
-| 100 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
+| 100 | [Two Hearts](https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE) | 4:06 |
 
-Snapshot ID: `MCxmYTI1ZWUwODM2NzRmNjlmYTFhMWQ2MTU1ZDc1MzhjYzdmZWUyNDJh`
+Snapshot ID: `MCw0MjEwYmIyODI2MzFjNDYyYjRjNzM4MTQwNDk3ZTcxNjNiMTQ0ZGQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 706 songs - 1 day 11 hr 49 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 707 songs - 1 day 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -714,5 +714,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 704 | [Strawberry Peels \(feat\. Young Thug & Gunna\)](https://open.spotify.com/track/4lAQfuREAHG8IC0PiiigBt) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 1:55 |
 | 705 | [Nightcrawler \(feat\. Swae Lee & Chief Keef\)](https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:21 |
 | 706 | [100 Grapes](https://open.spotify.com/track/5LFvCWD0wsTWbVrf3EYrMn) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 2:52 |
+| 707 | [MONSTER](https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t) | [Kempton Zalen](https://open.spotify.com/artist/533FxOCnNtctm1LHR6sUj4) | [MONSTER](https://open.spotify.com/album/1otKeILDeZoK6WFqfKAH42) | 2:04 |
 
-Snapshot ID: `ODY5LDU0MDMzNTIwZmZkODFmNzhkMjU5Njg5MDRhZWJmNzg3Mzg1ZmQxMWM=`
+Snapshot ID: `ODcwLDMzMjFiZDM0NzQxZDBhNjI2OGM4ZDcxZTU0YjkyYTFlZDgzNTJkYTQ=`

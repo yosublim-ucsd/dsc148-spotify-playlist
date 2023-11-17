@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 132281,
+  "num_followers": 132310,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTdhYTc0ZDIyYWM3ZGFmNTMxYWZmZDkwYzNiNjcxNjAwM2EzM2E0",
+  "snapshot_id": "MCw4NDhlMmQyNTI0OTA1MzFjNzBlNTA2NzhiMTVmNmM3NWRjNDE2Mjcz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:52:42",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-03 04:52:42",
       "album": {
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+    },
+    {
+      "added_at": "2023-11-03 04:52:42",
+      "album": {
         "name": "Bitcoins",
         "url": "https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 222635,
       "name": "Bitcoins",
       "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
-    },
-    {
-      "added_at": "2023-11-03 04:52:42",
-      "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-11-03 04:52:42",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-11-03 04:52:42",
       "album": {
-        "name": "Estrangeiro",
-        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 226911,
-      "name": "Estrangeiro",
-      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
-    },
-    {
-      "added_at": "2023-11-03 04:52:42",
-      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2023-11-03 04:52:42",
+      "album": {
+        "name": "Estrangeiro",
+        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 226911,
+      "name": "Estrangeiro",
+      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
     },
     {
       "added_at": "2023-11-03 04:52:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-03 04:52:42",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2023-11-03 04:52:42",
-      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 225000,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+    },
+    {
+      "added_at": "2023-11-03 04:52:42",
+      "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-11-03 04:52:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-03 04:52:42",
       "album": {
-        "name": "Fui Encontrado",
-        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 193662,
-      "name": "Fui Encontrado",
-      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
-    },
-    {
-      "added_at": "2023-11-03 04:52:42",
-      "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/44UeCTwnZhEnGCzD7cKmML"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 231126,
       "name": "Inteiro",
       "url": "https://open.spotify.com/track/5b6mh3jQ9Fo1UGn6WYcsMB"
+    },
+    {
+      "added_at": "2023-11-03 04:52:42",
+      "album": {
+        "name": "Fui Encontrado",
+        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 193662,
+      "name": "Fui Encontrado",
+      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
     },
     {
       "added_at": "2023-11-03 04:52:42",

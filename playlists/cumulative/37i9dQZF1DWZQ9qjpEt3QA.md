@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-121 songs - 8 hr 17 min
+122 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-05-26 | 2022-11-03 |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-26 | 2023-02-17 |
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-05-26 |  |
-| [Groovin \(feat\. Jue\)](https://open.spotify.com/track/6U3c49IZbXVJopmisWnSnS) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk) | 3:22 | 2023-07-06 |  |
+| [Groovin \(feat\. Jue\)](https://open.spotify.com/track/6U3c49IZbXVJopmisWnSnS) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk) | 3:22 | 2023-07-06 | 2023-11-17 |
 | [Groovin \(Feat\. Jue\)](https://open.spotify.com/track/3lU74wFGWyiuSCD3ePWwks) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/0os1fLqjWmaWiEdYik02c0) | 3:22 | 2023-05-18 | 2023-09-03 |
+| [Groovin \(Feat\. Jue\)](https://open.spotify.com/track/27Dw4pJjgbOpGLbDh1lmzZ) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Butterfly](https://open.spotify.com/album/7LOVo2cJQuIcGhcAO62ssb) | 3:24 | 2023-10-19 |  |
 | [Have You Ever](https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Have You Ever](https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv) | 3:52 | 2022-05-26 |  |
 | [Hello Ocean](https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx) | [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [Hello Ocean](https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb) | 4:00 | 2022-05-26 |  |
 | [Hey You](https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg) | [Cyndi Seui](https://open.spotify.com/artist/6Vl77bkShN9BMikIfhdHG9) | [Toy Boy](https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG) | 3:51 | 2022-05-26 |  |

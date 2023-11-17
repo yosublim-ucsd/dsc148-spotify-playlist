@@ -13625,6 +13625,24 @@
     },
     {
       "album": {
+        "name": "Re di Cuori",
+        "url": "https://open.spotify.com/album/4vnAsT4E94js0BXUNVCtgO"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170806,
+      "name": "Re di Cuori",
+      "url": "https://open.spotify.com/track/5tafzF7aJqE5e389P7YHXB"
+    },
+    {
+      "album": {
         "name": "Read My Mind",
         "url": "https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72"
       },
@@ -14568,7 +14586,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 181240,
       "name": "She's On My Mind",
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"

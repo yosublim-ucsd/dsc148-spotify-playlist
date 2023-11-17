@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: I'mdifficult (Taiwan)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Merry Lamb Lamb (Hong Kong)",
   "name": ".ORG",
   "tracks": [
     {
@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4tgy9j0OaBd7rJbnwyGmHL"
+      },
+      "artists": [
+        {
+          "name": "Dead Bachelors",
+          "url": "https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6"
+        },
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245300,
+      "name": "A Weekend Song for Me and You",
+      "url": "https://open.spotify.com/track/6U7OAuBeJuAsx3zpDDABWW"
+    },
+    {
+      "album": {
         "name": "A.Y.A",
         "url": "https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu"
       },
@@ -944,7 +966,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 146750,
       "name": "Anatomy of Joy",
       "url": "https://open.spotify.com/track/7lgCnB4iYFAqDTzYfi4zcM"
@@ -1114,7 +1136,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 206351,
       "name": "ANXIOUS HEART",
       "url": "https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W"
@@ -1298,10 +1320,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 306243,
       "name": "Asleep Among Endives",
       "url": "https://open.spotify.com/track/7AKxbxzkxm2ERWrd1ggniO"
+    },
+    {
+      "album": {
+        "name": "Asleep Among Endives",
+        "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306271,
+      "name": "Asleep Among Endives",
+      "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
     },
     {
       "album": {
@@ -2545,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Diffusion of Responsibility",
+        "url": "https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243700,
+      "name": "Bystanders",
+      "url": "https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO"
+    },
+    {
+      "album": {
         "name": "no public sounds",
         "url": "https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd"
       },
@@ -3094,7 +3152,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 276006,
       "name": "Ciao (feat. akiko)",
       "url": "https://open.spotify.com/track/1eMIPPjQYgZFw50XNp3HAF"
@@ -3590,6 +3648,28 @@
       "duration_ms": 195300,
       "name": "CRAY CRAY",
       "url": "https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS"
+    },
+    {
+      "album": {
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/7rRge1A2yeEk3KUIz76qxe"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "Temsu Clover",
+          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy"
     },
     {
       "album": {
@@ -4962,7 +5042,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 319375,
       "name": "Endless Emotions",
       "url": "https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU"
@@ -5328,6 +5408,24 @@
       "duration_ms": 221550,
       "name": "Faltu Pyar",
       "url": "https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211768,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho"
     },
     {
       "album": {
@@ -5852,6 +5950,24 @@
       "duration_ms": 225795,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3Q9xCPaEU0vla6XzjIIKpx"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263111,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
     },
     {
       "album": {
@@ -6478,6 +6594,24 @@
       "duration_ms": 191000,
       "name": "HALL-ROLL",
       "url": "https://open.spotify.com/track/7hynAayzA6HbcRMQmjcv5n"
+    },
+    {
+      "album": {
+        "name": "House Mouse",
+        "url": "https://open.spotify.com/album/2PotF1jdtZBOL9hSZOfB5I"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203799,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5IConHG7gM7weQdrWt9p98"
     },
     {
       "album": {
@@ -10992,7 +11126,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 321429,
       "name": "Mute",
       "url": "https://open.spotify.com/track/6VZYg1hHBVae2x8cQf8Qvp"
@@ -11304,6 +11438,24 @@
       "duration_ms": 177454,
       "name": "NEED",
       "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
+    },
+    {
+      "album": {
+        "name": "need/give me",
+        "url": "https://open.spotify.com/album/5OS7a9coLERbREP13y3QBG"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "need/give me",
+      "url": "https://open.spotify.com/track/2I5lObSyl2UqX6PrykvJAS"
     },
     {
       "album": {
@@ -12610,7 +12762,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 149610,
       "name": "Please don't wait for me",
       "url": "https://open.spotify.com/track/3GrnpIuS3LvGiqkxusFXQe"
@@ -12910,6 +13062,24 @@
       "duration_ms": 154000,
       "name": "quite like u",
       "url": "https://open.spotify.com/track/0GQJkqfrcUCkLlFE6YBvt9"
+    },
+    {
+      "album": {
+        "name": "Quite Like You",
+        "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179839,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
     },
     {
       "album": {
@@ -13222,6 +13392,28 @@
       "duration_ms": 223461,
       "name": "Rockstar - TELEx TELEXs Remix",
       "url": "https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J"
+    },
+    {
+      "album": {
+        "name": "room",
+        "url": "https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        },
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "room",
+      "url": "https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ"
     },
     {
       "album": {
@@ -13778,7 +13970,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 209554,
       "name": "Semi Automatic Butane",
       "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
@@ -15300,7 +15492,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 211809,
       "name": "Superior Gengsi",
       "url": "https://open.spotify.com/track/3x4iI1oSfvNPhPu1y3eSW0"
@@ -15340,7 +15532,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 202855,
       "name": "Supra",
       "url": "https://open.spotify.com/track/0MHXRs859cDbV4zXyu0Ahv"
@@ -18188,7 +18380,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 254672,
       "name": "You're Young",
       "url": "https://open.spotify.com/track/3g18LxsivreftG2yU39qCg"
@@ -19752,6 +19944,24 @@
       "duration_ms": 215999,
       "name": "\u666f\u7f8e",
       "url": "https://open.spotify.com/track/3czww3w60fmC2JZnxSa0Z7"
+    },
+    {
+      "album": {
+        "name": "\u6697\u6d41",
+        "url": "https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW"
+      },
+      "artists": [
+        {
+          "name": "deca joins",
+          "url": "https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262539,
+      "name": "\u6697\u6d41",
+      "url": "https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
-  "num_followers": 176057,
+  "num_followers": 176216,
   "original_name": "Deep Dive: 90s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGVmODZiZWFmZGU2M2U3M2Y4ZGE0NGE3ODljYTQ1OTViZDFiODY5",
+  "snapshot_id": "MCw1MDljMjZlYjY0ODYzM2Y1ODBkOGY4NGY4ZmExZjRmMDQ0NzBmYzZi",
   "tracks": [
     {
       "added_at": "2023-01-18 21:17:22",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "Let Her Cry",
-      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 133586,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "Let Her Cry",
+      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Purple (2019 Remaster)",
-        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Vasoline - 2019 Remaster",
-      "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 269360,
       "name": "Parallel Universe",
       "url": "https://open.spotify.com/track/1Se0r96r0gnqg67kJPmESc"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Vasoline - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 267293,
       "name": "Head over Feet - 2015 Remaster",
       "url": "https://open.spotify.com/track/735rjks7kQgWCjTQlIHMuH"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Spiderwebs",
-      "url": "https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Core (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 217813,
       "name": "Sex Type Thing - 2017 Remaster",
       "url": "https://open.spotify.com/track/6skC0VsaOZE1kG4CwXI2Zj"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 223880,
       "name": "Drain You",
       "url": "https://open.spotify.com/track/5Ddlk6C2JVxb1SReZ6O1wk"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 331400,
-      "name": "Round Here",
-      "url": "https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "My Name Is Jonas",
-      "url": "https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w"
+      "duration_ms": 331400,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1111,6 +1095,22 @@
       "duration_ms": 152626,
       "name": "Debonaire",
       "url": "https://open.spotify.com/track/0eEJrthp6PcMd33xs2NLrc"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "My Name Is Jonas",
+      "url": "https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Doll Parts",
-      "url": "https://open.spotify.com/track/49t1GWE6ZiEoBgN92oMDdM"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Foo Fighters",
         "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 232533,
       "name": "I'll Stick Around",
       "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Doll Parts",
+      "url": "https://open.spotify.com/track/49t1GWE6ZiEoBgN92oMDdM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 381400,
-      "name": "Livin' On The Edge",
-      "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Purple (2019 Remaster)",
-        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
       "artists": [
         {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 294800,
-      "name": "Big Empty - 2019 Remaster",
-      "url": "https://open.spotify.com/track/2E6elGQS3KaKR7QdfzQXdP"
+      "duration_ms": 381400,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1303,6 +1287,22 @@
       "duration_ms": 302533,
       "name": "One",
       "url": "https://open.spotify.com/track/35GwlKlVXgFCMF5uTp5r7P"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Big Empty - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2E6elGQS3KaKR7QdfzQXdP"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "You Wreck Me",
-      "url": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Yield",
         "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 238866,
       "name": "Given to Fly",
       "url": "https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "You Wreck Me",
+      "url": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1495,6 +1495,22 @@
       "duration_ms": 253493,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Do the Evolution",
+      "url": "https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Do the Evolution",
-      "url": "https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Recovering The Satellites",
         "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
       },
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
+      "duration_ms": 306680,
+      "name": "Bullet In The Head",
+      "url": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
       },
       "artists": [
         {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 306680,
-      "name": "Bullet In The Head",
-      "url": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw"
+      "duration_ms": 206586,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 233733,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "So Much For The Afterglow",
-        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
       "artists": [
         {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 238133,
-      "name": "I Will Buy You A New Life",
-      "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
+      "duration_ms": 262826,
+      "name": "Do You Remember The First Time?",
+      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2123,34 +2123,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
         }
       ],
-      "duration_ms": 262826,
-      "name": "Do You Remember The First Time?",
-      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Hey Stoopid",
-        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Feed My Frankenstein",
-      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
+      "duration_ms": 238133,
+      "name": "I Will Buy You A New Life",
+      "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2251,18 +2235,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+        "name": "Hey Stoopid",
+        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
       },
       "artists": [
         {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Jealous Again",
-      "url": "https://open.spotify.com/track/5IJWnvJJgH4PR4p9aXnNCQ"
+      "duration_ms": 284693,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2331,18 +2315,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
         }
       ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+      "duration_ms": 275066,
+      "name": "Jealous Again",
+      "url": "https://open.spotify.com/track/5IJWnvJJgH4PR4p9aXnNCQ"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2379,18 +2363,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
       "artists": [
         {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
         }
       ],
-      "duration_ms": 296840,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1N0UflnZhn7xOkrN2l8zxx"
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2407,6 +2391,22 @@
       "duration_ms": 245266,
       "name": "Wicked Garden - 2017 Remaster",
       "url": "https://open.spotify.com/track/7FblcKgEyo6zZjSMAnYpOX"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 296840,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1N0UflnZhn7xOkrN2l8zxx"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Cracked Rear View (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4Oi5WVWO8C8zYKQ5K4GQTI"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "I Go Blind - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0ye53FFhP3oRFuaz5Ubcop"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 382266,
       "name": "Whatever - Remastered",
       "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Cracked Rear View (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Oi5WVWO8C8zYKQ5K4GQTI"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "I Go Blind - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0ye53FFhP3oRFuaz5Ubcop"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Under the Table and Dreaming (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8"
       },
       "artists": [
         {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 291640,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
+      "duration_ms": 220333,
+      "name": "Velouria",
+      "url": "https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2635,18 +2635,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8"
+        "name": "Under the Table and Dreaming (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Velouria",
-      "url": "https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3"
+      "duration_ms": 291640,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2835,18 +2835,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Blaze Of Glory",
-        "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
+        "name": "Yes I Am",
+        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
       },
       "artists": [
         {
-          "name": "Jon Bon Jovi",
-          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
         }
       ],
-      "duration_ms": 319426,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6FJ9Xp3fCxSTAdcRVaDQdl"
+      "duration_ms": 236000,
+      "name": "Come To My Window",
+      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2867,18 +2867,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Yes I Am",
-        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
+        "name": "Blaze Of Glory",
+        "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
       },
       "artists": [
         {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Come To My Window",
-      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
+      "duration_ms": 319426,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6FJ9Xp3fCxSTAdcRVaDQdl"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2915,22 +2915,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Devils Haircut",
-      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Check Your Head (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq"
       },
@@ -2943,6 +2927,22 @@
       "duration_ms": 216940,
       "name": "So What'Cha Want - Remastered 2009",
       "url": "https://open.spotify.com/track/0gmGBCJ5XhOmoNR37MmxEE"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Devils Haircut",
+      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6vaA6gtaY9kZJT97F2v4zP"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Always The Sun - Sunny Side Up Mix",
-      "url": "https://open.spotify.com/track/10BQIOZ8dhGwOOGBVA97qz"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 246373,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2lU2VI066HaPGyKTh6ANvI"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6vaA6gtaY9kZJT97F2v4zP"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Always The Sun - Sunny Side Up Mix",
+      "url": "https://open.spotify.com/track/10BQIOZ8dhGwOOGBVA97qz"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3107,38 +3107,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "I Hope You Die",
-      "url": "https://open.spotify.com/track/3B0Er8HRu24IbPKCi59N0b"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Dust N' Bones",
-      "url": "https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -3151,6 +3119,22 @@
       "duration_ms": 252866,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "I Hope You Die",
+      "url": "https://open.spotify.com/track/3B0Er8HRu24IbPKCi59N0b"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3183,6 +3167,22 @@
       "duration_ms": 318320,
       "name": "Israel's Son",
       "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Dust N' Bones",
+      "url": "https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu"
     },
     {
       "added_at": "2023-01-18 21:17:22",

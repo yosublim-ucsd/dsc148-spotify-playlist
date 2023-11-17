@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690312,
+  "num_followers": 690319,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWQ0ZDVmOWJjZDk0NjM1OGUyODZlNTQ0MzExZTg4OWI2MGI4NGZl",
+  "snapshot_id": "MCxmOTI0Zjk2OTU2NGMyMTM4MjQyMGNhZTlhZjUzYmIwYjZjYzM3YWJl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Servando",
-          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
-        }
-      ],
-      "duration_ms": 146332,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -1299,26 +1279,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Manolo Ramos",
-          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
-        },
-        {
-          "name": "Ghetto",
-          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
+          "name": "Servando",
+          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
         }
       ],
-      "duration_ms": 212013,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
+      "duration_ms": 146332,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1343,6 +1319,30 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Manolo Ramos",
+          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
+        },
+        {
+          "name": "Ghetto",
+          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "UuU",
         "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 189000,
       "name": "Entonces",
       "url": "https://open.spotify.com/track/3kZ6jh67FdUaGxKXb1v8G7"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
     },
     {
       "added_at": "2023-10-06 04:00:00",

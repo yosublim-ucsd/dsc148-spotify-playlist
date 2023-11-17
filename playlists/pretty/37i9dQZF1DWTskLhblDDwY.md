@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,896 likes - 99 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,912 likes - 99 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 34 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
 | 35 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
 | 36 | [How many いい顔](https://open.spotify.com/track/3QYPpLc1sAtW2GVBtJHeck) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [MAGIC](https://open.spotify.com/album/62Ds4Rtpb6XQxbSjBrKxm7) | 3:03 |
-| 37 | [Yes\-No](https://open.spotify.com/track/6C7H84b6soUzdgXj52peoe) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [We are](https://open.spotify.com/album/4xfeMb2mB0God3yG9KcjmS) | 4:35 |
+| 37 | [Yes\-No \- アルバムヴァージョン](https://open.spotify.com/track/6C7H84b6soUzdgXj52peoe) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [We are](https://open.spotify.com/album/4xfeMb2mB0God3yG9KcjmS) | 4:35 |
 | 38 | [TOKIO \(Single Version\)](https://open.spotify.com/track/4Msk2brhNGrDw15PBFvn3i) | [Kenji Sawada](https://open.spotify.com/artist/4ODvJoXQmuckB89qwmCzTd) | [ROYAL STRAIGHT FLUSH \[3\]](https://open.spotify.com/album/06H6E4rZjHPWf6WUBxctE4) | 4:37 |
 | 39 | [蜃気楼](https://open.spotify.com/track/6Y4VzqMxWZC3XqdTCP1zhb) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [ポプコン スーパー・セレクション クリスタルキング ベスト](https://open.spotify.com/album/01swsQfeHXyL0LTe8dqACg) | 3:58 |
 | 40 | [狂った果実](https://open.spotify.com/track/2DVRnvC6vFegpWdps3kz3P) | [Alice](https://open.spotify.com/artist/4E4iezRaf9PoT4yV2NYz0c) | [アリス・ザ・グレイテスト －アリス・ベスト2001－](https://open.spotify.com/album/1rdj1vPOIz87o4uTEITU6O) | 4:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 98 | [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 |
 | 99 | [おまえとふたり](https://open.spotify.com/track/3OL41vM3n4DdyaWELJi6QL) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクション3\(1971\-1994\)～おまえとふたり～](https://open.spotify.com/album/5NC095cpBWbZNFGvpOVoki) | 3:27 |
 
-Snapshot ID: `MCw0OThjZThkMjQ1OGFiYzZhZjRjOGUwYTlkMTFlYTgyY2I1NTI1ZWY2`
+Snapshot ID: `MCw3MmE0Nzc2ZmNmNTUyM2MyNjRjMGE0OTg2MDZmNmU1YmY5NTJmZjQy`

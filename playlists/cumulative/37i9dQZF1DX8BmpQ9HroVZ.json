@@ -2896,10 +2896,36 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 218600,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/0ntAdrRd2ferE32aw637e9"
+    },
+    {
+      "album": {
+        "name": "Long time no see",
+        "url": "https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79"
+      },
+      "artists": [
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        },
+        {
+          "name": "Raffey Anwar",
+          "url": "https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD"
+        },
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218600,
+      "name": "Long time no see",
+      "url": "https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg"
     },
     {
       "album": {

@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 262773,
       "name": "1-800-GHETTOLICIOUS",
       "url": "https://open.spotify.com/track/7u6MpMQU3LujRn2rte9whp"
@@ -306,6 +306,24 @@
       "duration_ms": 270982,
       "name": "4\u00c6M",
       "url": "https://open.spotify.com/track/5deLCvXuDrTOTV7XiJuO8Z"
+    },
+    {
+      "album": {
+        "name": "apple juice",
+        "url": "https://open.spotify.com/album/6LfyurnoMknxDGX50Yfo4e"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "5 floors",
+      "url": "https://open.spotify.com/track/5LDSRMKZIpHWKO4MC1eAkE"
     },
     {
       "album": {
@@ -681,6 +699,46 @@
     },
     {
       "album": {
+        "name": "All Of It",
+        "url": "https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        },
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331609,
+      "name": "All Of It",
+      "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6wLUtL7qbjb63rxB4X9fO9"
+      },
+      "artists": [
+        {
+          "name": "Subtrax",
+          "url": "https://open.spotify.com/artist/1li6c6TniSl5U8ABWQCNAD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1ay56Nz2pbIvnzNht1d2LL"
+    },
+    {
+      "album": {
         "name": "Cloud9",
         "url": "https://open.spotify.com/album/6NW5PiEHF9eN8cCCcrPFCT"
       },
@@ -790,7 +848,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 139097,
       "name": "angel",
       "url": "https://open.spotify.com/track/35YjuzZevlQNidhmj2jKYu"
@@ -1744,7 +1802,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 232696,
       "name": "Blush Cut",
       "url": "https://open.spotify.com/track/3HaUAMFIw5iZfpO5yOpw2P"
@@ -1766,6 +1824,24 @@
       "duration_ms": 174705,
       "name": "Bodiless",
       "url": "https://open.spotify.com/track/28lXXI052MwMKPEwj832Nn"
+    },
+    {
+      "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/0Bmbgr7uBJhdR4BH8LFbUo"
+      },
+      "artists": [
+        {
+          "name": "The Pressure",
+          "url": "https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/2VPUd42FJQSxKOYjwFeNy7"
     },
     {
       "album": {
@@ -2633,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/2CrrSNB8tJXsqwoFyf1TnF"
+      },
+      "artists": [
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171710,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/3nv5Gv3ssYmgApHtAJ7QiR"
+    },
+    {
+      "album": {
         "name": "complicated",
         "url": "https://open.spotify.com/album/3cs1EKFpp7lQ73A6JfERLR"
       },
@@ -2900,6 +2994,24 @@
       "duration_ms": 202159,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
+    },
+    {
+      "album": {
+        "name": "crying at the Orgy",
+        "url": "https://open.spotify.com/album/34KIJfUuoxN8NFgTrLsrp6"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143272,
+      "name": "crying at the Orgy",
+      "url": "https://open.spotify.com/track/67k9cC6UadKPmToT2OZm1D"
     },
     {
       "album": {
@@ -3226,7 +3338,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
@@ -3396,7 +3508,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 165022,
       "name": "Don't We Always",
       "url": "https://open.spotify.com/track/5wGUVrYzmEp9yP24YTSt0z"
@@ -4806,7 +4918,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 174069,
       "name": "fumble (feat. piri)",
       "url": "https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX"
@@ -4966,7 +5078,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 227555,
       "name": "GET ME OUT OF THIS CLUB",
       "url": "https://open.spotify.com/track/1K1LA6XbeCDYFXuKyZAYIE"
@@ -5783,6 +5895,28 @@
     },
     {
       "album": {
+        "name": "Higher Than Ever Before (yun\u00e8 pinku Remix)",
+        "url": "https://open.spotify.com/album/3ru4z9AhYi5cNUoUHG8T4A"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217153,
+      "name": "Higher Than Ever Before - yun\u00e8 pinku Remix",
+      "url": "https://open.spotify.com/track/6datYMoOV1Zq1yUJbFQuDw"
+    },
+    {
+      "album": {
         "name": "hit me + !",
         "url": "https://open.spotify.com/album/7oT3URKnCgzLOXPb8JXAma"
       },
@@ -5918,6 +6052,24 @@
       "duration_ms": 150697,
       "name": "HOLDMECLOSE",
       "url": "https://open.spotify.com/track/0jONgVFz2gyvTf2OgowurS"
+    },
+    {
+      "album": {
+        "name": "genr.es (let go/what breaks-1)",
+        "url": "https://open.spotify.com/album/5xTiGK5L7tstao6DuxOIpn"
+      },
+      "artists": [
+        {
+          "name": "es.cher",
+          "url": "https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "holdu",
+      "url": "https://open.spotify.com/track/3yS493zkDMt3nGjoDrT9dG"
     },
     {
       "album": {
@@ -6335,6 +6487,28 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164983,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
+    },
+    {
+      "album": {
         "name": "I Hate You I Love You",
         "url": "https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ"
       },
@@ -6502,6 +6676,28 @@
       "duration_ms": 148852,
       "name": "i've got a bf (best friend)",
       "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
+    },
+    {
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2FIrS3aP6Fd1NeEDLf8QNi"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137806,
+      "name": "idol",
+      "url": "https://open.spotify.com/track/4cOq1Qx9d5Kxtjd3Tww47b"
     },
     {
       "album": {
@@ -7107,6 +7303,24 @@
     },
     {
       "album": {
+        "name": "Just Your Doll",
+        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+    },
+    {
+      "album": {
         "name": "Irly",
         "url": "https://open.spotify.com/album/2WUxZpVbQWjMqyc7SDQlzh"
       },
@@ -7434,7 +7648,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 418003,
       "name": "Leave it to the vibe",
       "url": "https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P"
@@ -8116,7 +8330,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 138546,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7wzMbipfjq1bv39UZYOQQ9"
@@ -9556,7 +9770,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 224957,
       "name": "other delusions",
       "url": "https://open.spotify.com/track/5zRC713gYpWNKikdw4XKUp"
@@ -11762,7 +11976,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 141176,
       "name": "Some Fries",
       "url": "https://open.spotify.com/track/2dWQBlnjp91yZhJZ9V8NgT"
@@ -12649,6 +12863,28 @@
     },
     {
       "album": {
+        "name": "thicc",
+        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Cosha",
+          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "thicc",
+      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
+    },
+    {
+      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1"
       },
@@ -13196,7 +13432,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 124745,
       "name": "Under my Bed",
       "url": "https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj"
@@ -13422,6 +13658,24 @@
       "duration_ms": 141782,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
+    },
+    {
+      "album": {
+        "name": "Victory Lap (Edit)",
+        "url": "https://open.spotify.com/album/1dn55BQH9nrFPilYVtDPKg"
+      },
+      "artists": [
+        {
+          "name": "BUFFEE",
+          "url": "https://open.spotify.com/artist/375sZCoa1ojgt8tICkADmd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Victory Lap - Edit",
+      "url": "https://open.spotify.com/track/6VLmoYYs4WV7I4waJcs7Vr"
     },
     {
       "album": {
@@ -14050,7 +14304,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 187401,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh"

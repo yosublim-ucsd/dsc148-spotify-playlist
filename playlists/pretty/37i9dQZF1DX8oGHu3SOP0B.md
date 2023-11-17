@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: Mai Davika
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,678 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,684 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ใจเหลือเหลือ](https://open.spotify.com/track/5etlu2WUvdziSYZQAtBZmW) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ใจเหลือเหลือ](https://open.spotify.com/album/1l7zA5dsfIpWVh3EgUsT5R) | 3:33 |
 | 50 | [Closer \(Clothes Off\)](https://open.spotify.com/track/69PNolzZo5U1k73cZzvcVq) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [ANGELOGY](https://open.spotify.com/album/3EgQMtDdT3dEXhus3ZglOe) | 3:15 |
 
-Snapshot ID: `MCw0MTUwOWM2N2MwNGNjMzVlODdmOGI5MTA0NTZjNzMxM2FjNmNiMzI4`
+Snapshot ID: `MCw5OGU0NmQ5Y2UxMGY1ZWVhZTA3NDQwM2YzOTE3OGU1MDQ2OGFjZDUy`

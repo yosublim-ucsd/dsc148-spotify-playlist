@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/5UlDa30dE4XZP1G5hCdr5P"
+      },
+      "artists": [
+        {
+          "name": "Mandoja",
+          "url": "https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172529,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6ygeLzsdN6NrxDVcGWlV0u"
+    },
+    {
+      "album": {
         "name": "Equality",
         "url": "https://open.spotify.com/album/4bCi8izrMc43Wdenchwy56"
       },
@@ -3551,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Posh",
+        "url": "https://open.spotify.com/album/1GpTCaPVpVL5leRQixh1qQ"
+      },
+      "artists": [
+        {
+          "name": "Everyday Elegant",
+          "url": "https://open.spotify.com/artist/4oHaTYncF2buToofw62wHO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Posh",
+      "url": "https://open.spotify.com/track/4FSMSdyw42rD66HHawn2Ur"
+    },
+    {
+      "album": {
         "name": "Prends Une Gorg\u00e9e",
         "url": "https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG"
       },
@@ -4232,6 +4268,24 @@
       "duration_ms": 226909,
       "name": "Street Spiritz",
       "url": "https://open.spotify.com/track/1WUpnPChiUlbXUTRLTQTQn"
+    },
+    {
+      "album": {
+        "name": "Sultry Sun",
+        "url": "https://open.spotify.com/album/1LUNQlnOc4fJUAuY5elK5q"
+      },
+      "artists": [
+        {
+          "name": "Ealot",
+          "url": "https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sultry Sun",
+      "url": "https://open.spotify.com/track/0eVgyPTBj8yNjN2eaUiAVr"
     },
     {
       "album": {

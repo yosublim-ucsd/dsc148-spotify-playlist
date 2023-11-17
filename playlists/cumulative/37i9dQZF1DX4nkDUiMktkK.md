@@ -4,7 +4,7 @@
 
 > All juice
 
-160 songs - 10 hr 16 min
+163 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Closer To You](https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Closer To You / Make Yourself At Home](https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ) | 2:34 | 2023-09-14 |  |
 | [Cloudy \- Kelbin Remix](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Cloudy \(Kelbin Remix\)](https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa) | 5:36 | 2023-06-08 |  |
 | [Cosmo Memory](https://open.spotify.com/track/0gr3NiPtCTIchpyrRUyDsw) | [The Phantom's Revenge](https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe) | [Happiness Therapy 20: The Power](https://open.spotify.com/album/42I6I0sQtx5N9mbpGB08lo) | 4:53 | 2023-10-19 |  |
+| [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 | 2023-11-16 |  |
 | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p) | 2:13 | 2023-08-03 |  |
 | [DESIIRE](https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [DESIIRE](https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7) | 5:04 | 2023-06-08 |  |
 | [die young \- 33 Below Remix](https://open.spotify.com/track/7v7eF1koFUNnRFMvky3RDM) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [die young \(33 Below Remix\)](https://open.spotify.com/album/4CuHqQsLcaHoiveB3Evl6v) | 3:43 | 2023-08-17 |  |
@@ -78,6 +79,7 @@
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2023-06-08 |  |
 | [JOY \(Breathe Into Me\)](https://open.spotify.com/track/56YsW4QgEEvoUGZPw4ypr6) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 5:17 | 2023-11-02 |  |
 | [Keep It Burning](https://open.spotify.com/track/7Ewp4wV3NqvQb1qBeUc6ek) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Keep It Burning](https://open.spotify.com/album/5W6A8Fmm0dz02oKVCO1d4l) | 2:30 | 2023-06-29 |  |
+| [Keep Things Random](https://open.spotify.com/track/7ElqztGIlLw0QQXiUR6Tk4) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [The World I'm Searching For](https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg) | 2:54 | 2023-11-16 |  |
 | [Lab \- black balloons Remix](https://open.spotify.com/track/34zfM258Ht6YwQToo7Olr9) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [Lab \(black balloons Remix\)](https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os) | 3:22 | 2023-06-29 |  |
 | [Last Time](https://open.spotify.com/track/698KnJq3rEVcqU0HuULKXJ) | [Pesukone](https://open.spotify.com/artist/68mk8GNhUjTLMw72RCBIvV), [S productions](https://open.spotify.com/artist/7kvyLfCFgU54LdKnmhtsNK) | [Last Time](https://open.spotify.com/album/2BpOWG7n3kCSiplzMPhxkx) | 6:55 | 2023-08-31 |  |
 | [LIVE\-O \- Haai Remix](https://open.spotify.com/track/1KWoVLw43OxWMNuA7gS7WS) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [LIVE\-O \(HAAi remix\)](https://open.spotify.com/album/0CyDae0WkQmAu3LN6BrnLi) | 3:12 | 2023-06-22 |  |
@@ -140,6 +142,7 @@
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-06-08 |  |
 | [The Power](https://open.spotify.com/track/696bVHNFOCocjXvAw61qvw) | [The Phantom's Revenge](https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe) | [Happiness Therapy 20: The Power](https://open.spotify.com/album/42I6I0sQtx5N9mbpGB08lo) | 6:14 | 2023-10-19 |  |
 | [The Sea \- TDJ Remix](https://open.spotify.com/track/1LSczPyZiwY661qgwcM8d2) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [The Sea \(TDJ Remix\)](https://open.spotify.com/album/0UWYZHIK9zcNtbu3kmfyIm) | 4:41 | 2023-08-24 |  |
+| [Tigh Pop](https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Tigh Pop](https://open.spotify.com/album/3yQOXiQZJVFSyovlXUhulQ) | 4:13 | 2023-11-16 |  |
 | [To be honest \- SG Lewis Remix](https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [To be honest \(SG Lewis Remix\)](https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en) | 3:58 | 2023-08-31 |  |
 | [Tomorrow Never Comes](https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Tomorrow Never Comes](https://open.spotify.com/album/3g4I1lrC7oDxUhVysMfxZD) | 2:40 | 2023-08-03 |  |
 | [Tranquil](https://open.spotify.com/track/5GzrDqeWcgIAjuTXOg9pI1) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [Heard This Calling](https://open.spotify.com/album/2IALQfr0s4LYREWQxE7aNC) | 5:32 | 2023-06-08 |  |

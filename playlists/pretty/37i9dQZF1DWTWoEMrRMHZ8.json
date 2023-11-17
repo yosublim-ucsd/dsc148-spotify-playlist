@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Bryan Behr",
-  "num_followers": 346714,
+  "num_followers": 346767,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWUwMmE2YzhiZjgxOWNhOGU0MTlkYTEwM2QyNmM0ZmNmZGFkYWE1",
+  "snapshot_id": "MCwwNTFiYWIyYTY4NmY3ZmRjNzJjMDNmODE3MjdmMmNlNGQ0MzcwYjUz",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:20",
@@ -415,6 +415,30 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "N\u00f3s e o Mar",
+        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        },
+        {
+          "name": "Ricardo Bacelar",
+          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
+        }
+      ],
+      "duration_ms": 233273,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "N\u00f3s e o Mar",
-        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        },
-        {
-          "name": "Ricardo Bacelar",
-          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
-        }
-      ],
-      "duration_ms": 233273,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Sonas Sessions (Live Session)",
-        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
         },
         {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
         }
       ],
-      "duration_ms": 220990,
-      "name": "Cara a Cara (Live Session)",
-      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -675,22 +675,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+        "name": "Sonas Sessions (Live Session)",
+        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
       },
       "artists": [
         {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         },
         {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
         }
       ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+      "duration_ms": 220990,
+      "name": "Cara a Cara (Live Session)",
+      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Luzes Acesas",
+        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Luzes Acesas",
+      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Luzes Acesas",
-        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Luzes Acesas",
-      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 233459,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Um Gosto de Sol",
         "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 233459,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Oswaldo Montenegro e Orquestra",
-        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "A Lista",
-      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Oswaldo Montenegro e Orquestra",
+        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "A Lista",
+      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Redescobrir",
         "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-11-03 06:00:20",

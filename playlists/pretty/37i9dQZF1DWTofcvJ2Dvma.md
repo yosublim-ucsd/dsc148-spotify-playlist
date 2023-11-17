@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,063 likes - 150 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,082 likes - 150 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 149 | [Hojas Secas](https://open.spotify.com/track/1GU8SNqu49z9lay861Rby1) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Hojas Secas](https://open.spotify.com/album/1jngVxcmAseCKTOA6I3OHR) | 2:20 |
 | 150 | [Simmer Down](https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Simmer Down](https://open.spotify.com/album/0mzDPdasH5BhizWTqoMlRV) | 3:05 |
 
-Snapshot ID: `MCxlMDkyNTdlOTA4NDE2N2E0NGMxZmZkZDdiMjAzZGEyMzAwYWI3NWM4`
+Snapshot ID: `MCxkNzJkN2NiYTJmMmU4ZWY3NmQ2YzM3OTZjNmYxZGUxZjJhMGQ0ZjQ1`

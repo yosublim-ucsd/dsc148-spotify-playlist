@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 250107,
+  "num_followers": 250225,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDc4Njc3YTQxOTFmMmEwNDJjYjg2YjRiMjFmMjc0MDk4ZjU1NTdi",
+  "snapshot_id": "MCxkYTUwYmNiODJjMzA1MTM0NmVjZjYwYmIwNWRmODYxYzhmYTYxYjYz",
   "tracks": [
     {
       "added_at": "2023-09-08 14:39:34",
@@ -212,8 +212,8 @@
       },
       "artists": [
         {
-          "name": "goretexcoversmysoul",
-          "url": "https://open.spotify.com/artist/74B1T98LYaRpu1jMWcLhKI"
+          "name": "ghostlycheeks",
+          "url": "https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv"
         }
       ],
       "duration_ms": 210000,
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa"
-      },
-      "artists": [
-        {
-          "name": "Austin Farwell",
-          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
-        }
-      ],
-      "duration_ms": 165365,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 173337,
       "name": "Melanine",
       "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa"
+      },
+      "artists": [
+        {
+          "name": "Austin Farwell",
+          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE"
     },
     {
       "added_at": "2023-09-08 14:39:34",

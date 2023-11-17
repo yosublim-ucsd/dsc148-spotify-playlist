@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-358 songs - 21 hr 7 min
+359 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Lost Myself](https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Lost Myself](https://open.spotify.com/album/3sklQMiJt3Nzjparx4K4N9) | 3:28 | 2022-01-21 | 2023-01-28 |
 | [Lost Without You](https://open.spotify.com/track/0bJRy8fhup9rKOnk7SMwL2) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/4gNsuthQHyqYvSQJMNG7iM) | 3:11 | 2022-07-01 | 2023-07-15 |
 | [Lost Without You](https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF) | 3:11 | 2022-07-01 | 2022-12-17 |
-| [Love In A Groove](https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [Love In A Groove](https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe) | 3:30 | 2022-11-04 |  |
+| [Love In A Groove](https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [Love In A Groove](https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe) | 3:30 | 2022-11-04 | 2023-11-17 |
+| [LOVE IN A GROOVE](https://open.spotify.com/track/46mbePiv2oTh4VfNcQpjjd) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [The Sovereign of 14742](https://open.spotify.com/album/61ofiuSmZuRkvPc2KWNVtf) | 3:30 | 2022-11-04 |  |
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 |  |
 | [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 | 2023-08-18 |  |
 | [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 | 2022-11-25 | 2023-03-04 |

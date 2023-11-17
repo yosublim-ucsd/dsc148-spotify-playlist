@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,924 likes - 134 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,096 likes - 134 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,9 +138,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 128 | [lost soul](https://open.spotify.com/track/2j9SzgUxed9qgv9Kq7n2hG) | [leapyear](https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR) | [lost soul](https://open.spotify.com/album/6eMxlQKrIN4KhHUelVaqKC) | 1:55 |
 | 129 | [Floating Beyond](https://open.spotify.com/track/46R7YAndtQpOLNK6qrlK2h) | [Depthscape](https://open.spotify.com/artist/4ELgf1YQ39tzJMhFgsTKh9) | [Enigma](https://open.spotify.com/album/0UFgH3aQpfZIig5TWqh26z) | 2:12 |
 | 130 | [Wintry](https://open.spotify.com/track/3PVrNNjbvONiK5sOrGrqzy) | [CNQR+](https://open.spotify.com/artist/0Yoj4rKPSKtGEFHEvGNHuj), [for home use only.](https://open.spotify.com/artist/7D826TatvsCgtSudZ8F1Ik) | [Digital Cassette](https://open.spotify.com/album/2221uM2MKZondhwYE8otDp) | 3:33 |
-| 131 | [safe](https://open.spotify.com/track/3e8iYpjIK0MdKut5BNXwoB) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [safe](https://open.spotify.com/album/2VcZx2fkVVarmxhm0u0N7v) | 2:19 |
-| 132 | [Saudade](https://open.spotify.com/track/1EZ6UEouCbyEe3nyEoxXcy) | [MrNotYet](https://open.spotify.com/artist/4iCgLge4R9IC6xVrL4HFPB) | [Saudade](https://open.spotify.com/album/3dEIvjDR0egTaMIVaRlJzh) | 2:53 |
+| 131 | [safe](https://open.spotify.com/track/1kCwgcdRYmKV5UMenxx5FX) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [safe](https://open.spotify.com/album/5tkv9pScEDnLa6Liqh1hQp) | 2:19 |
+| 132 | [Saudade](https://open.spotify.com/track/0jc3A1Itp3192EXJILJjSH) | [MrNotYet](https://open.spotify.com/artist/4iCgLge4R9IC6xVrL4HFPB) | [Saudade](https://open.spotify.com/album/2ZyR62p3DBbzChF7PqdS7z) | 2:53 |
 | 133 | [overthinking \- slowed + reverb](https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg) | [coldlakes](https://open.spotify.com/artist/3jxJQ1JkYdqHNGnvIoW0nI) | [overthinking \(slowed + reverb\)](https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei) | 2:51 |
 | 134 | [lost](https://open.spotify.com/track/7sTqjmUu3ju7Dbcth2TjgU) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [lost](https://open.spotify.com/album/4juhd8RDQF4ixb0T2cIVNM) | 2:02 |
 
-Snapshot ID: `MCw5NjVjZWM5ZDhlZWNhMTNjM2Y2MTE4N2JkYjgwODQ1MDMwNzBiNWMx`
+Snapshot ID: `MCxhZDhiZWU2NWJmYThhYmY3N2VjODcxMTczY2QxMjU1YWY3MjRjNzM5`

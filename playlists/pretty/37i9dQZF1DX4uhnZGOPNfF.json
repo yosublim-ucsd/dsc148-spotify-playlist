@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 15352,
+  "num_followers": 15356,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2UwOTIzNDkxNzhlZTdmODVlMTQyZDAxNTQzMTM3YWEwYzZkZDgw",
+  "snapshot_id": "MCxhMzI1MzBlYWY2OTAyNDJmZTAyYzBkNGU3OWRmYjA5ZDJlNWZlMTNh",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Brut de femme",
-        "url": "https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7"
-      },
-      "artists": [
-        {
-          "name": "Diam's",
-          "url": "https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Dj",
-      "url": "https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Brut de femme",
+        "url": "https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7"
+      },
+      "artists": [
+        {
+          "name": "Diam's",
+          "url": "https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Dj",
+      "url": "https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS"
     },
     {
       "added_at": "2022-02-01 21:20:54",

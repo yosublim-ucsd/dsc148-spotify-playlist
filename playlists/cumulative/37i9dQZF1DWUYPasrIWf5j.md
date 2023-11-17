@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-139 songs - 8 hr 0 min
+141 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 | 2022-05-20 |  |
 | [Heather](https://open.spotify.com/track/0152wIoLYZdFSPz3Shm15o) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:14 | 2022-05-20 | 2023-04-28 |
 | [Here Comes the Sun](https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg) | [Carsten Knudsen](https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj) | [Ukulele](https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg) | 2:08 | 2022-05-20 |  |
+| [Hey Jude](https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Hey Jude](https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3) | 2:57 | 2023-11-17 |  |
 | [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 | 2022-05-20 | 2023-04-13 |
 | [Hey There Delilah](https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:14 | 2023-03-16 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3gt6ASrvqi8Rsv0Or4adcb) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:03 | 2023-03-16 |  |
@@ -108,6 +109,7 @@
 | [Soak Up the Sun](https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:16 | 2022-07-26 | 2023-01-28 |
 | [Soak up the Sun](https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK) | [The Smooth Day Sessions](https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5) | [Ukulele Surf Style \(Acoustic Style Covers\)](https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd) | 3:16 | 2022-05-20 | 2022-07-29 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/4R7lHfZHL0rYnN146xuCPb) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somebody That I Used to Know](https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4) | 4:14 | 2022-05-20 | 2023-04-28 |
+| [Somebody That I Used To Know](https://open.spotify.com/track/7y8BOvgcHDSRlqkgRE3rZb) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Somebody That I Used To Know](https://open.spotify.com/album/3eM86lV2bNhNGpvWzBw6Ya) | 3:03 | 2023-11-17 |  |
 | [Something](https://open.spotify.com/track/21ANW6JqDX85o3AXlhoVhj) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:48 | 2022-07-26 | 2023-06-15 |
 | [Something](https://open.spotify.com/track/57st2cqWQh6NQdZMdz7Jrp) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra plays The Beatles](https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU) | 2:48 | 2022-05-20 | 2022-07-29 |
 | [Something In The Orange](https://open.spotify.com/track/3wiKfJCnMTgMAGosU3dtUI) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Another Love](https://open.spotify.com/album/1ooUrQVIUBFcKiSHbRRYf3) | 3:39 | 2023-04-27 |  |

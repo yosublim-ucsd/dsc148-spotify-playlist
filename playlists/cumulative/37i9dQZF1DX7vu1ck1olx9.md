@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-238 songs - 9 hr 38 min
+239 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2020-11-12 |  |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2020-11-12 | 2022-07-27 |
 | [cool nights](https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [cool nights](https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka) | 2:36 | 2023-10-27 |  |
+| [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 | 2023-11-17 |  |
 | [Cozy Cabin](https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Cozy Cabin](https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9) | 2:08 | 2023-10-27 |  |
 | [crinkled sheets](https://open.spotify.com/track/4mzdv3VSKgQ9LHgyc78sH1) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [crinkled sheets](https://open.spotify.com/album/0CgSvSIIqWTkxcRXk3RJhG) | 2:14 | 2023-10-27 |  |
 | [Day At The Beach](https://open.spotify.com/track/2uwZFVIBJ4XpXV2NNoiZPx) | [Fireflyx](https://open.spotify.com/artist/2OOTNVKel4Dl6bdGfkChIx), [Melloe D](https://open.spotify.com/artist/4n9punzhmPTvX0KIHDPW7U) | [Day At The Beach](https://open.spotify.com/album/2MByrZsI4Q72MDX97wSSmu) | 2:48 | 2023-10-27 |  |
@@ -121,7 +122,7 @@
 | [keep on](https://open.spotify.com/track/5ZxiA42PnZVycgvipSIkA2) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/3X3K9zkWjJhctjCqONIqSd) | 2:20 | 2020-11-12 | 2022-07-29 |
 | [Keep Up](https://open.spotify.com/track/5yMJbHjfQzTVy9FeKxoF5G) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Awake in the Dark](https://open.spotify.com/album/3b4SsWWV1TrrHMGgRWvgmS) | 3:07 | 2020-11-12 | 2022-07-29 |
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2023-10-27 |  |
-| [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 |  |
+| [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 | 2023-11-17 |
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-27 |  |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-10-27 |  |
 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 | 2023-10-27 |  |

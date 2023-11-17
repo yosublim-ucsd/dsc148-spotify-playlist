@@ -5022,10 +5022,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 224944,
       "name": "ohayashi",
       "url": "https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6"
+    },
+    {
+      "album": {
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "ohayashi",
+      "url": "https://open.spotify.com/track/7dadALlIbGUdpYYv7HlEFD"
     },
     {
       "album": {

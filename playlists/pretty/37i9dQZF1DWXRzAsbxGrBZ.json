@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 33949,
+  "num_followers": 34067,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjNkNzliYWM2ODQ3OGU3ZjdiZmRhZTBlN2YwOGQ1YTFhZTQwZjQ4",
+  "snapshot_id": "MCw4Yjk2NmFjM2I0OTYzNmVkYWU0MTdiYmM4OTcyNzYyN2YzMDZlMThj",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Electronic Deep House King",
+        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
+      },
+      "artists": [
+        {
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+        }
+      ],
+      "duration_ms": 336352,
+      "name": "Electronic Deep House King",
+      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "BAUHAUS",
         "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
@@ -763,6 +779,22 @@
       "duration_ms": 482979,
       "name": "BAUHAUS",
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+      },
+      "artists": [
+        {
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+        }
+      ],
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -799,54 +831,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "The Savior",
-        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
-      },
-      "artists": [
-        {
-          "name": "Zhane",
-          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
-        }
-      ],
-      "duration_ms": 411127,
-      "name": "The Savior - Original Mix",
-      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Electronic Deep House King",
-        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
-      },
-      "artists": [
-        {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
-        }
-      ],
-      "duration_ms": 336352,
-      "name": "Electronic Deep House King",
-      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
-      },
-      "artists": [
-        {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
-        }
-      ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
+      },
+      "artists": [
+        {
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
       "added_at": "2023-11-09 23:00:00",

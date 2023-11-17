@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3"
+      },
+      "artists": [
+        {
+          "name": "Elis Pearson",
+          "url": "https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177295,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk"
+    },
+    {
+      "album": {
         "name": "Hey There Delilah / Hey, Soul Sister",
         "url": "https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol"
       },
@@ -1810,6 +1828,24 @@
       "duration_ms": 254508,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/4R7lHfZHL0rYnN146xuCPb"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/3eM86lV2bNhNGpvWzBw6Ya"
+      },
+      "artists": [
+        {
+          "name": "Elis Pearson",
+          "url": "https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183550,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/7y8BOvgcHDSRlqkgRE3rZb"
     },
     {
       "album": {

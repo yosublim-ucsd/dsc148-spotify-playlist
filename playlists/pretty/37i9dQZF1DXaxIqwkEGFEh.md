@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Meek Mill & Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,030 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,496 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 5 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
 | 6 | [Go Again](https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Go Again](https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP) | 2:34 |
 | 7 | [Lyrical Eazy](https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Lyrical Eazy](https://open.spotify.com/album/534PxJHGdYXYCRnjNeWMuo) | 1:40 |
-| 8 | [Extra Clips \(feat\. WizDaWizard & Wam SpinThaBin\)](https://open.spotify.com/track/0wultQNBegZy2JkGlvui7x) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [WizDaWizard](https://open.spotify.com/artist/4p8ivLWn8hpHM5uLhYiMix), [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [When I Was Dead](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 3:56 |
+| 8 | [Extra Clips \(feat\. WizDaWizard & Wam SpinThaBin\)](https://open.spotify.com/track/0wultQNBegZy2JkGlvui7x) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [WizDaWizard](https://open.spotify.com/artist/4p8ivLWn8hpHM5uLhYiMix), [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 3:56 |
 | 9 | [Trust No One](https://open.spotify.com/track/3ELv6VNvmTiF6OaS0eGO4p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Might Forgive](https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU) | 2:44 |
 | 10 | [60 Miles](https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG) | [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [60 Miles](https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj) | 2:06 |
 | 11 | [Murder & Millions](https://open.spotify.com/track/27RWVlCet2iZlGciBETorw) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Murder & Millions](https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [100+ \(feat\. Lil Baby\)](https://open.spotify.com/track/6NJYGSDR7I0Bz7NlUhmlxE) | [Young Shiners](https://open.spotify.com/artist/3j8KnvnrydBHrj5y4BblMp), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [EST Marti](https://open.spotify.com/artist/5DZRcxS14ntEBa4mAJkikV), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Shiners Are Forever](https://open.spotify.com/album/15xQHdl4XG9vWf7dU48IBX) | 2:59 |
 | 100 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
 
-Snapshot ID: `MCwyZmIwYTRkMDAzMmYwNmY4ZmJlNTZjOGIwNjc5ZTNiMTNhYmI3MWY4`
+Snapshot ID: `MCwyN2QwOGVjYzdkMjk3MDE3OGUwOTc4YjM5YmJiMWZjM2EzYWRjYWZj`

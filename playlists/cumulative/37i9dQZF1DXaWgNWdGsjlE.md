@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-200 songs - 10 hr 54 min
+201 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [OHMAMI \- With Maggie Lindemann](https://open.spotify.com/track/1c7YvFPE0PWud0InScOX3r) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [OHMAMI \(With Maggie Lindemann\)](https://open.spotify.com/album/7nSsnVn4iG0gGnmXa7YkWG) | 3:46 | 2022-04-08 |  |
 | [Orgy in the Morgue](https://open.spotify.com/track/0EMKvC3xGPr6LfTgcVYMvV) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 3:20 | 2022-04-08 | 2022-09-24 |
 | [pantychrist](https://open.spotify.com/track/4BQq2dO7jLJGKAxnhywP1x) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [pantychrist](https://open.spotify.com/album/29KrOkd982LewCSh0wPOU7) | 2:47 | 2022-04-08 |  |
-| [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 | 2023-08-18 |  |
+| [Parasite](https://open.spotify.com/track/6CbLM1XXg4bFR6oCXXMVM6) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/6VxaPwWSbuar6T4W8D6vX2) | 1:56 | 2023-09-22 |  |
+| [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 | 2023-08-18 | 2023-11-17 |
 | [Pay the Butcher's Bill](https://open.spotify.com/track/42yx5VJxrEzRqkXDGIEnbF) | [Angelspit](https://open.spotify.com/artist/7Coo58A8U3BCpCl4nQ3pda), [4th Wall](https://open.spotify.com/artist/21vsckiGZoMCydfJIR69qz) | [Pay the Butcher's Bill](https://open.spotify.com/album/3Nf0NKxvznQwcly521Zj7a) | 4:07 | 2023-03-24 | 2023-08-19 |
 | [peachy](https://open.spotify.com/track/0isrhXBLy3hrbG6ZrNOBmK) | [Saint Slumber](https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM) | [peachy](https://open.spotify.com/album/70hyK14y20n2Eooh8RyOv7) | 3:23 | 2022-04-08 | 2023-07-15 |
 | [peachy](https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS) | [Saint Slumber](https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM) | [peachy](https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT) | 3:23 | 2023-05-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,849 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,866 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 23 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
 | 24 | [Soda Pop](https://open.spotify.com/track/6EJ0MQNjga0strXUOLiQXf) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [The Black Delorean Project](https://open.spotify.com/album/34o8amg7ZtCb7ku8xKaXEO) | 2:44 |
 | 25 | [Laurinha \- Radio Edit](https://open.spotify.com/track/0S45sEjrBbhAHpo20X4p0P) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Laurinha](https://open.spotify.com/album/7y3sgKoeWhEsAK2gNe3EMj) | 3:48 |
-| 26 | [My Mind](https://open.spotify.com/track/5alpNfo0QWoAzUWhmw9H70) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [My Mind](https://open.spotify.com/album/7k1cXQ9sTLHhgyw4Wi4NvG) | 3:31 |
+| 26 | [My Mind](https://open.spotify.com/track/5alpNfo0QWoAzUWhmw9H70) | [NEWER](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [My Mind](https://open.spotify.com/album/7k1cXQ9sTLHhgyw4Wi4NvG) | 3:31 |
 | 27 | [It Gets Better](https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:04 |
 | 28 | [I'm A Mess](https://open.spotify.com/track/0Rzz75C3MDHszEW2co7BCC) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW), [EXPLICIT!](https://open.spotify.com/artist/5A13OuT27Bf5NZtXmzYtSL) | [I'm A Mess](https://open.spotify.com/album/7l77bhDnMweoM8hb0OZNPZ) | 3:01 |
 | 29 | [bad vibes "/](https://open.spotify.com/track/5qRKhuxccR1inzrWEX0Dqs) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [Treinando com amor](https://open.spotify.com/album/5vIVjQUehmCZ3jhMlTGFQ7) | 3:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCw3MmM0OWMxMDcxMzY3NzFkZjJmOWIwOTgzNzk5ZmM0ODU5ZDk2ODUw`
+Snapshot ID: `MCxlOWUzZGE5Mzk2ODIzODhjMjQ1NjE5NWZiZjZlNDdiOGRiODk4NmQ4`

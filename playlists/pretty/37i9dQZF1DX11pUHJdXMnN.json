@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 62019,
+  "num_followers": 62041,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj",
+  "snapshot_id": "MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -819,22 +819,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Gleis 2 - Lichtenberg Remixes",
-        "url": "https://open.spotify.com/album/3xVK14DvoI1oYFAMWKCuDk"
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
       },
       "artists": [
         {
-          "name": "Johannes Albert",
-          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
-        },
-        {
-          "name": "Shan",
-          "url": "https://open.spotify.com/artist/06tx6ueiCMiQl07jV0j1gb"
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
         }
       ],
-      "duration_ms": 405453,
-      "name": "Wing House - Shan Remix",
-      "url": "https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp"
+      "duration_ms": 236000,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
     }
   ],
   "unique_name": "Laser Disco",

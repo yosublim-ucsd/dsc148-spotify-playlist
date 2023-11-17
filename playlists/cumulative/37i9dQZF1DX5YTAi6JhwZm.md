@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-157 songs - 13 hr 16 min
+158 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Newark News](https://open.spotify.com/track/1TGyRyiXEM1X6kwbr16xtW) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [What Comes Next](https://open.spotify.com/album/2yen9cLjtZ8gNhADXYn8kP) | 5:08 | 2022-06-29 |  |
 | [Newark News](https://open.spotify.com/track/1djanB1pGdTRSKHbiJQsUX) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [Newark News](https://open.spotify.com/album/0fUb3moDnawIh8a9tsajrH) | 5:08 | 2021-12-17 | 2022-07-29 |
 | [O Mama Enit \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/6xFh3v76Pv1Ucqf4xAT2bY) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 5:34 | 2022-02-25 | 2023-09-14 |
+| [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 | 2023-11-17 |  |
 | [On a Clear Day](https://open.spotify.com/track/43n3LROB96YF1AA6luCAbs) | [Filip Ekestubbe Trio](https://open.spotify.com/artist/22fkqIp1tH47ueIeCeg7Fr), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [On a Clear Day](https://open.spotify.com/album/12lYuu8BDuE1gJqyHj4lA6) | 6:00 | 2022-06-29 |  |
 | [On a Clear Day You Can See Forever](https://open.spotify.com/track/2EjpDPynGPxmhmjY1llgI2) | [Filip Ekestubbe Trio](https://open.spotify.com/artist/22fkqIp1tH47ueIeCeg7Fr) | [On a Clear Day](https://open.spotify.com/album/4etOBTogBYyurgykqGY85Z) | 6:00 | 2021-12-17 | 2022-07-29 |
 | [On The Second Day](https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [On the Second Day](https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff) | 4:32 | 2021-12-17 |  |

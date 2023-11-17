@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj?si=UFddna35Qde6UQ66Vm7Kbg"> KABEAUSHE</a>
 
-172 songs - 10 hr 20 min
+174 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 | 2023-10-13 | 2023-11-10 |
 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 |  |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
+| [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 |  |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 | 2023-09-29 |
 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-02 | 2023-07-29 |
 | [Japa Japa](https://open.spotify.com/track/3LohrjLiSAKdLxta3Y7sp5) | [BANTU](https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H) | [What Is Your Breaking Point?](https://open.spotify.com/album/5BNEYB2U96GLnTo2CjG9qd) | 4:50 | 2023-06-08 |  |
@@ -74,7 +75,7 @@
 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 | 2022-12-08 | 2023-03-10 |
 | [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 | 2023-02-27 |
 | [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-01-27 | 2023-06-23 |
-| [Koth Chwe](https://open.spotify.com/track/1ZUpqe0Sq2ljqiGEUbEyIn) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY) | [Ololokwe](https://open.spotify.com/album/6rQYuXskUNsOMsMg1A1Cu8) | 4:00 | 2023-10-20 |  |
+| [Koth Chwe](https://open.spotify.com/track/1ZUpqe0Sq2ljqiGEUbEyIn) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY) | [Ololokwe](https://open.spotify.com/album/6rQYuXskUNsOMsMg1A1Cu8) | 4:00 | 2023-10-20 | 2023-11-17 |
 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 | 2023-06-22 | 2023-09-22 |
 | [Light](https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 3:11 | 2023-10-13 |  |
 | [Love is all around you](https://open.spotify.com/track/1Ow7Aqj42PhFfzgtWaQOX9) | [Poetra Asantewa](https://open.spotify.com/artist/1wavl70KiuxkAOZdBnZwad) | [prelude to a poem \(EP\)](https://open.spotify.com/album/6keODjWos1S6S9646nrhdN) | 4:06 | 2023-08-17 | 2023-11-10 |
@@ -92,6 +93,7 @@
 | [Mmuan Daan](https://open.spotify.com/track/3s5i68yM2uOrvWXxQ5BVHE) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV) | [Mmuan Daan](https://open.spotify.com/album/7pqLfnPiVJGRWFvDXJwTYL) | 3:37 | 2023-03-17 | 2023-08-04 |
 | [Money](https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk) | [Senkulive](https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac) | [Money](https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG) | 4:54 | 2022-12-02 | 2023-06-09 |
 | [Moses](https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Moses](https://open.spotify.com/album/0bfbqUxGnVezR36AUwTbfq) | 2:41 | 2023-10-13 |  |
+| [Mpenzi Wangu](https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Mpenzi Wangu](https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv) | 2:52 | 2023-11-17 |  |
 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 | 2022-09-09 | 2023-01-13 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 |  |
 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
@@ -125,7 +127,7 @@
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-08-05 |  |
 | [Secret](https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Secret](https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p) | 3:14 | 2023-04-27 | 2023-09-22 |
 | [See Me \- Remix](https://open.spotify.com/track/7nYcbjV7zOrwHaXU1Qzqio) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [See Me \(Remix\)](https://open.spotify.com/album/1uV8jqGi34ZR4doIvsxkLH) | 2:50 | 2023-07-13 | 2023-07-29 |
-| [Shade Tree](https://open.spotify.com/track/67xbJtDkUsrIzPVSf08B36) | [Rocky Dawuni](https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC) | [Shade Tree](https://open.spotify.com/album/5I7rZvrGeh0eMeeoFHYSwm) | 3:13 | 2023-09-14 |  |
+| [Shade Tree](https://open.spotify.com/track/67xbJtDkUsrIzPVSf08B36) | [Rocky Dawuni](https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC) | [Shade Tree](https://open.spotify.com/album/5I7rZvrGeh0eMeeoFHYSwm) | 3:13 | 2023-09-14 | 2023-11-17 |
 | [Shidaa](https://open.spotify.com/track/2hLPTyeShZCBFAKI25umC1) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Shidaa](https://open.spotify.com/album/2iTU7qZLX7KyxL0rnM5Mx6) | 3:59 | 2021-12-09 | 2022-12-09 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 | 2023-08-18 |
 | [SIRINA TIME](https://open.spotify.com/track/1XISfavYLaLDgbPPPIVo1G) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [SIRINA TIME](https://open.spotify.com/album/2FeZdukSXs2e5TjQA50lOU) | 2:33 | 2023-09-09 | 2023-09-15 |

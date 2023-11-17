@@ -2001,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Rajon",
+        "url": "https://open.spotify.com/album/25i8QRZTbGKeSCLpGyxZxM"
+      },
+      "artists": [
+        {
+          "name": "Gloster Gladiator",
+          "url": "https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Rajon",
+      "url": "https://open.spotify.com/track/5brQKlwccMQLO2RHz5LPVp"
+    },
+    {
+      "album": {
         "name": "Ramblas",
         "url": "https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf"
       },
@@ -2362,6 +2380,24 @@
       "duration_ms": 177560,
       "name": "Strando",
       "url": "https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew"
+    },
+    {
+      "album": {
+        "name": "Sunny Sides",
+        "url": "https://open.spotify.com/album/2tWPuGy38UmTsEIZWjyGxw"
+      },
+      "artists": [
+        {
+          "name": "Mont \u00c1y",
+          "url": "https://open.spotify.com/artist/1lEZ94eNcaKh7AHMaBcv0q"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sunny Sides",
+      "url": "https://open.spotify.com/track/6olBk82nCjXjLcXL5bPZBj"
     },
     {
       "album": {

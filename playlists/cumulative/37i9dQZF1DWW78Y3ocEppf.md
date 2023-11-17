@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-578 songs - 1 day 6 hr 11 min
+579 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-12-15 | 2022-07-28 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 | 2023-09-25 |
 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-08-18 | 2023-11-05 |
+| [212](https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV) | 2:26 | 2023-05-05 |  |
 | [212](https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk) | 2:26 | 2023-05-05 | 2023-10-25 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-07-29 |
 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 | 2022-06-10 | 2022-12-03 |
@@ -336,7 +337,7 @@
 | [Mistreated \(feat\. Queen Naija\)](https://open.spotify.com/track/58zfAqutz6jGnEbHdyz8G7) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 3:22 | 2021-12-15 | 2022-04-19 |
 | [Money](https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Money](https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63) | 2:48 | 2021-12-15 | 2022-07-27 |
 | [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 | 2023-07-21 | 2023-08-19 |
-| [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 | 2023-07-21 |  |
+| [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 | 2023-07-21 | 2023-11-17 |
 | [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-07-21 | 2023-09-08 |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-02-04 | 2023-01-28 |
 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 | 2023-02-10 | 2023-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 113889,
+  "num_followers": 113987,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWYxZWJlMjIxOGVlMmEyZjhhZTgxMzg1NTIxZDFkOWYzZGY0NDhm",
+  "snapshot_id": "MCwzMDI0MzZjYWViYzA5Y2NkNGIxNzlmNzc2YzlkMDU0OTdiNzM2M2Qw",
   "tracks": [
     {
       "added_at": "2023-10-09 08:51:54",
@@ -32,17 +32,21 @@
       "added_at": "2023-10-09 08:51:54",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         }
       ],
-      "duration_ms": 212757,
+      "duration_ms": 212250,
       "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/5CKoBGlcSzg6GLgWiswbKd"
+      "url": "https://open.spotify.com/track/23YGhMVq1wJYROCp2kr8yP"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -72,17 +76,21 @@
       "added_at": "2023-10-09 08:51:54",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
       "duration_ms": 151989,
       "name": "Jatt Vailly",
-      "url": "https://open.spotify.com/track/7F9swP8ux9UGIkNbZP72gL"
+      "url": "https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -147,26 +155,6 @@
     {
       "added_at": "2023-10-09 08:51:54",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Sultaan",
-          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Lalkara",
-      "url": "https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -179,6 +167,30 @@
       "duration_ms": 213333,
       "name": "Born to Shine",
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lalkara",
+      "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -200,17 +212,21 @@
       "added_at": "2023-10-09 08:51:54",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         }
       ],
       "duration_ms": 135500,
       "name": "Case",
-      "url": "https://open.spotify.com/track/1kOkkEe8QdviYXBqDZpavh"
+      "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -227,22 +243,6 @@
       "duration_ms": 189176,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 213344,
-      "name": "Kinni Kinni",
-      "url": "https://open.spotify.com/track/5oVm4nHsLXs8YenSJEVfhG"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-10-09 08:51:54",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 213344,
+      "name": "Kinni Kinni",
+      "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
@@ -384,17 +404,61 @@
       "added_at": "2023-10-09 08:51:54",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
       "duration_ms": 137395,
       "name": "Whatcha Doin'",
-      "url": "https://open.spotify.com/track/4qQnXwD4XtiWq4PfjQoTbo"
+      "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Poppin'",
+      "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -419,22 +483,6 @@
       "duration_ms": 176670,
       "name": "High End",
       "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Poppin'",
-      "url": "https://open.spotify.com/track/4FdTSLXTrsXZh4qRkR6R6u"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -471,22 +519,6 @@
       "duration_ms": 190005,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/33prbytYlicGFOMinBYN5U"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -539,26 +571,6 @@
     {
       "added_at": "2023-10-09 08:51:54",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 148158,
-      "name": "Cry Later",
-      "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
@@ -600,17 +612,41 @@
       "added_at": "2023-10-09 08:51:54",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
       "duration_ms": 167731,
       "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/4aedRI0oJrcejDSsGF6vWg"
+      "url": "https://open.spotify.com/track/2CHMiZynW2WhXSizjcs9R5"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 148158,
+      "name": "Cry Later",
+      "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -635,6 +671,26 @@
     {
       "added_at": "2023-10-09 08:51:54",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 184434,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -647,6 +703,22 @@
       "duration_ms": 205333,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 148619,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/0iRX4RbbX7JIrWj0pLYvHv"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -671,22 +743,6 @@
       "duration_ms": 193398,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 148619,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/0iRX4RbbX7JIrWj0pLYvHv"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -719,6 +775,26 @@
       "duration_ms": 215723,
       "name": "Navi Navi Yaari",
       "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
+    },
+    {
+      "added_at": "2023-10-09 08:51:54",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 275083,
+      "name": "Psychotic",
+      "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -799,22 +875,6 @@
     {
       "added_at": "2023-10-09 08:51:54",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 184434,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/7MKlfwCqEtTtFzEZxkBSR8"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
         "name": "What Ve",
         "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
       },
@@ -836,17 +896,25 @@
       "added_at": "2023-10-09 08:51:54",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Hrmnn",
+          "url": "https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H"
         }
       ],
-      "duration_ms": 275083,
-      "name": "Psychotic",
-      "url": "https://open.spotify.com/track/5EUZP5Z7I9kYOrsqkvvcWE"
+      "duration_ms": 172242,
+      "name": "Midnight Desires",
+      "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
     },
     {
       "added_at": "2023-10-09 08:51:54",
@@ -883,22 +951,6 @@
       "duration_ms": 234435,
       "name": "El Sue\u00f1o (feat. Tru-Skool)",
       "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
-    },
-    {
-      "added_at": "2023-10-09 08:51:54",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Taare",
-      "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

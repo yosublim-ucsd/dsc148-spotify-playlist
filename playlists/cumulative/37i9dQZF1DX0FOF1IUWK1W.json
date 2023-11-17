@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Simone Mendes e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "GREGO, Paulo Pires e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2135,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196988,
+      "name": "Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
+    },
+    {
+      "album": {
         "name": "Chaaama",
         "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
       },
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/1jrBamLozddSX0DOjJTj31"
@@ -4176,16 +4198,16 @@
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         },
         {
-          "name": "MC Tigr\u00e3o",
-          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
           "name": "Mc Luan",
           "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
+        },
+        {
+          "name": "Mc Tig\u00e3o",
+          "url": "https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X"
         }
       ],
       "date_added": "2023-09-21",
@@ -4622,7 +4644,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
@@ -6338,6 +6360,32 @@
       "duration_ms": 173375,
       "name": "Tes\u00e3o Da Madrugada - Ao Vivo",
       "url": "https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU"
+    },
+    {
+      "album": {
+        "name": "Tipo Hollywood",
+        "url": "https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6"
+      },
+      "artists": [
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        },
+        {
+          "name": "MC Cothi\u00ea",
+          "url": "https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131538,
+      "name": "Tipo Hollywood",
+      "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"
     },
     {
       "album": {

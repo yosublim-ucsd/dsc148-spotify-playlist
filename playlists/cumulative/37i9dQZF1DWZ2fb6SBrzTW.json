@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Body, Soul & Spirit",
+        "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146097,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi"
+    },
+    {
+      "album": {
         "name": "2:30",
         "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 172062,
       "name": "Abracadabra - Remix",
       "url": "https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr"
@@ -186,6 +204,24 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "album": {
+        "name": "African Barbie",
+        "url": "https://open.spotify.com/album/4KS8qey7WwIbSVrWu2Dhp7"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203903,
+      "name": "African Barbie",
+      "url": "https://open.spotify.com/track/0WRP2IqQuc331kcHmzbA7A"
     },
     {
       "album": {
@@ -524,7 +560,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 175264,
       "name": "AVAILABU",
       "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
@@ -730,6 +766,24 @@
       "duration_ms": 377063,
       "name": "Baleka (feat. Nokwazi, DJ Biza & Tsiki XII)",
       "url": "https://open.spotify.com/track/7iBiBYaVBw69mmPwPBgM0t"
+    },
+    {
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/6hsaKXGp06WY02B4C7kxce"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127433,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/0wThOxjogothAzU1LDoNQX"
     },
     {
       "album": {
@@ -1557,6 +1611,32 @@
     },
     {
       "album": {
+        "name": "Danc\u00e9",
+        "url": "https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "M.O.G Beatz",
+          "url": "https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199646,
+      "name": "Danc\u00e9",
+      "url": "https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a"
+    },
+    {
+      "album": {
         "name": "Dapada",
         "url": "https://open.spotify.com/album/7kQrviDexyq5ucIFwMXhe7"
       },
@@ -1637,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Disturb",
+        "url": "https://open.spotify.com/album/1xnVrGYqelK5bISTyVS1YV"
+      },
+      "artists": [
+        {
+          "name": "DJ Xclusive",
+          "url": "https://open.spotify.com/artist/6eYjM3EJ2ux62CjigGQIiU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Disturb",
+      "url": "https://open.spotify.com/track/43p0oGbCed8SfxNhPivTqp"
+    },
+    {
+      "album": {
         "name": "Disturbing U",
         "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
@@ -1670,7 +1768,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 168048,
       "name": "DND",
       "url": "https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu"
@@ -2106,7 +2204,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 198347,
       "name": "Feeling Funny",
       "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
@@ -4026,7 +4124,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"

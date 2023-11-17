@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "bird bath",
+        "url": "https://open.spotify.com/album/3FZCSBJ8gXOv4mxuLSIUCS"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "bird bath",
+      "url": "https://open.spotify.com/track/5gQS58bvi4xhWM26hMskkV"
+    },
+    {
+      "album": {
         "name": "Birdie Nest",
         "url": "https://open.spotify.com/album/0dMdJZ9VH0eRLxn4o68MmA"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 145260,
       "name": "Calma",
       "url": "https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084"
@@ -1748,6 +1766,24 @@
       "duration_ms": 108000,
       "name": "dead reckoning",
       "url": "https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL"
+    },
+    {
+      "album": {
+        "name": "Deep Asleep",
+        "url": "https://open.spotify.com/album/0m7wkauGzHvfV6V6fuPPeo"
+      },
+      "artists": [
+        {
+          "name": "Tales of Urbania",
+          "url": "https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123302,
+      "name": "Deep Asleep",
+      "url": "https://open.spotify.com/track/53ZhQHLOB8k5pnAipbQIXs"
     },
     {
       "album": {
@@ -2368,7 +2404,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 109446,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6ac0dSqkAAZxExq9mPkW0u"
@@ -2640,6 +2676,24 @@
       "duration_ms": 112418,
       "name": "Flower trip",
       "url": "https://open.spotify.com/track/3YsmPCSFwhkKrwNn4OOECm"
+    },
+    {
+      "album": {
+        "name": "Flying Over",
+        "url": "https://open.spotify.com/album/0IjgTLnQT99ADLUEre4BN6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fridell",
+          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197979,
+      "name": "Flying Over",
+      "url": "https://open.spotify.com/track/3zB69ZJmFPI31v1slVYBJO"
     },
     {
       "album": {
@@ -6230,7 +6284,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 162639,
       "name": "Pizogi",
       "url": "https://open.spotify.com/track/13VfNj6MtlTyqEOsm3LWBq"
@@ -7386,7 +7440,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 126315,
       "name": "Sounds Of The Universe",
       "url": "https://open.spotify.com/track/7D4P2t9hBikZYSiAl8pN9X"
@@ -8550,7 +8604,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 146333,
       "name": "Until Dawn",
       "url": "https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4"

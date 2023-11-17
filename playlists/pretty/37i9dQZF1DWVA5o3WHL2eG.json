@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: UCHE YARA",
-  "num_followers": 29914,
+  "num_followers": 29919,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWRiMTdlNzUzMDY1N2E1ZDk2NDJmMTA2NTAyNWZmMGJkYzA1NzZl",
+  "snapshot_id": "MCwxNTAwMTZmNmFmZjI1OWVhNjE2ZmE3MTllY2MzMDVjNWQ2ZGU4ZGI3",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "No Spell for Moving Water",
-        "url": "https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Boots Walkin' All over You",
-      "url": "https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "It's All Happening",
         "url": "https://open.spotify.com/album/0oP0OCi2uZY6rqlzcS88xd"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 231994,
       "name": "Dream Of Hell",
       "url": "https://open.spotify.com/track/71xwMsjqpSNfT9PHlEZow8"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "No Spell for Moving Water",
+        "url": "https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Boots Walkin' All over You",
+      "url": "https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "Generation Maximum",
+        "url": "https://open.spotify.com/album/3IRL2ac5gqSttManEU7pX7"
+      },
+      "artists": [
+        {
+          "name": "Culk",
+          "url": "https://open.spotify.com/artist/5IjUMI9yd5rHBglgX8Ye4z"
+        }
+      ],
+      "duration_ms": 228606,
+      "name": "Generation Maximum",
+      "url": "https://open.spotify.com/track/4qDv2bC2dwYySPFW8J3Pmq"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/4I5yaci3ZR4kaoizp9zcSe"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Generation Maximum",
-        "url": "https://open.spotify.com/album/3IRL2ac5gqSttManEU7pX7"
+        "name": "I C U",
+        "url": "https://open.spotify.com/album/0xsFbTqIAva4xM9b5foBNe"
       },
       "artists": [
         {
-          "name": "Culk",
-          "url": "https://open.spotify.com/artist/5IjUMI9yd5rHBglgX8Ye4z"
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
         }
       ],
-      "duration_ms": 228606,
-      "name": "Generation Maximum",
-      "url": "https://open.spotify.com/track/4qDv2bC2dwYySPFW8J3Pmq"
+      "duration_ms": 175555,
+      "name": "I C U",
+      "url": "https://open.spotify.com/track/5ElKn41pCBDbAPZOAvfHPK"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 246871,
       "name": "Something's Dripping From The Ceiling",
       "url": "https://open.spotify.com/track/3zO4t7n7JScZQPcpPNi1WF"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "I C U",
-        "url": "https://open.spotify.com/album/0xsFbTqIAva4xM9b5foBNe"
-      },
-      "artists": [
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "I C U",
-      "url": "https://open.spotify.com/track/5ElKn41pCBDbAPZOAvfHPK"
     },
     {
       "added_at": "2023-11-07 23:00:00",

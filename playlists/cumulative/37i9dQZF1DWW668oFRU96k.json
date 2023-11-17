@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ti\u00ebsto x R3HAB",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x ERNEST",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 195446,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "BELLYDANCING",
+        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122520,
+      "name": "BELLYDANCING",
+      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
+    },
+    {
+      "album": {
         "name": "Silk",
         "url": "https://open.spotify.com/album/6tsUUk2FMKkYPJPnSNPDHy"
       },
@@ -1340,6 +1358,28 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
+    },
+    {
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "album": {
@@ -1842,7 +1882,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 132902,
       "name": "can't get over it",
       "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
@@ -2938,7 +2978,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 247550,
       "name": "Do u miss me ?",
       "url": "https://open.spotify.com/track/7kp2PHQnCb4j4zfDsg8vqg"
@@ -3066,6 +3106,28 @@
       "duration_ms": 156190,
       "name": "Don't Step On My Nikes",
       "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
+    },
+    {
+      "album": {
+        "name": "Don't Step On My Nikes (Carta VIP Mix)",
+        "url": "https://open.spotify.com/album/0JBoSpQhDnCiSMzB3H4NkN"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Don't Step On My Nikes (Carta VIP Mix)",
+      "url": "https://open.spotify.com/track/1keLOyHNTUsIXbOhzMX1T3"
     },
     {
       "album": {
@@ -4825,6 +4887,32 @@
     },
     {
       "album": {
+        "name": "Glass House",
+        "url": "https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Terry Zhong",
+          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+        },
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197122,
+      "name": "Glass House",
+      "url": "https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8"
+    },
+    {
+      "album": {
         "name": "God Is In The Soundwaves",
         "url": "https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ"
       },
@@ -5434,6 +5522,28 @@
       "duration_ms": 157001,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "Zimmer",
+          "url": "https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb"
+        },
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285713,
+      "name": "Hide & Run",
+      "url": "https://open.spotify.com/track/58mpPHPDKMlZBiDxBWYsnj"
     },
     {
       "album": {
@@ -6320,7 +6430,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
@@ -6368,7 +6478,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 192016,
       "name": "I'm My Only Friend (feat. Arden Jones)",
       "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
@@ -6520,7 +6630,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 198779,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/522c3VF7dWUXomjwILxwKC"
@@ -6668,7 +6778,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 179062,
       "name": "Inside Your Arms",
       "url": "https://open.spotify.com/track/0tATqVAVy1G5qrXup05Gn3"
@@ -7438,6 +7548,32 @@
       "duration_ms": 115403,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/0unJKMlGI2EwbpOcd3ZoRO"
+    },
+    {
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/6Fhcoxf7WN9cJbd5oqPMi7"
+      },
+      "artists": [
+        {
+          "name": "Eric Rivero",
+          "url": "https://open.spotify.com/artist/7keRfuUA5I02VC8crMNT0j"
+        },
+        {
+          "name": "PuFFcorn",
+          "url": "https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171289,
+      "name": "Lost in Love",
+      "url": "https://open.spotify.com/track/6MJWUfqNEdgZ9FlCWvifvt"
     },
     {
       "album": {
@@ -8548,6 +8684,28 @@
       "duration_ms": 140600,
       "name": "My Life (feat. The Runaway Club)",
       "url": "https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH"
+    },
+    {
+      "album": {
+        "name": "My Reason",
+        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "My Reason",
+      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
     },
     {
       "album": {
@@ -9938,7 +10096,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 148965,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
@@ -10069,6 +10227,28 @@
     },
     {
       "album": {
+        "name": "Pulse Drive",
+        "url": "https://open.spotify.com/album/1T0k2FYQn9cAFrrpVzGaOP"
+      },
+      "artists": [
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        },
+        {
+          "name": "Drifter5",
+          "url": "https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142563,
+      "name": "Pulse Drive",
+      "url": "https://open.spotify.com/track/64N4a1pJvcg57LM0GQrK87"
+    },
+    {
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/19nmV2vDXF4wm3KlN2ZpHC"
       },
@@ -10158,6 +10338,28 @@
       "duration_ms": 139024,
       "name": "Rain on Me",
       "url": "https://open.spotify.com/track/1ymVJxxBnFgNM9ocMzVqSg"
+    },
+    {
+      "album": {
+        "name": "Rapture (with Robert Falcon)",
+        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
     },
     {
       "album": {
@@ -11319,6 +11521,28 @@
     },
     {
       "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174665,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
+    },
+    {
+      "album": {
         "name": "Together As One",
         "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
       },
@@ -12182,7 +12406,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 163200,
       "name": "Synergy",
       "url": "https://open.spotify.com/track/35NvrrDGnW9VzG0yyga4ls"
@@ -12369,6 +12593,28 @@
     },
     {
       "album": {
+        "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211347,
+      "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5"
+    },
+    {
+      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/7IbY9AMzf8mVQ3IETBH4AC"
       },
@@ -12432,7 +12678,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
@@ -12884,7 +13130,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 136825,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/2kM9z0qXLXvUjb4MqIn1U8"
@@ -13198,7 +13444,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 173760,
       "name": "Undone (feat. JKLN)",
       "url": "https://open.spotify.com/track/6XM788XKKzR71AfS6X0zKD"
@@ -13268,6 +13514,28 @@
       "duration_ms": 154349,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196849,
+      "name": "Us ft. ERNEST",
+      "url": "https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5"
     },
     {
       "album": {
@@ -14671,6 +14939,28 @@
     },
     {
       "album": {
+        "name": "You Don\u2019t Even Know Me",
+        "url": "https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151698,
+      "name": "You Don't Even Know Me",
+      "url": "https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj"
+    },
+    {
+      "album": {
         "name": "You feel like home",
         "url": "https://open.spotify.com/album/4cGlubuV6TsFImYORCOqhs"
       },
@@ -14730,7 +15020,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 153250,
       "name": "You're So Cold",
       "url": "https://open.spotify.com/track/0k4Ntfwh6jqxnyenlsuy6d"

@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 233514,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
@@ -776,6 +776,24 @@
       "duration_ms": 210931,
       "name": "Caf\u00e9 International",
       "url": "https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56"
+    },
+    {
+      "album": {
+        "name": "Can't Say the Word",
+        "url": "https://open.spotify.com/album/7zlbqbcAWmuyYU7uV3Emz4"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "Can't Say the Word",
+      "url": "https://open.spotify.com/track/3r5ANnOexoh703rQIUIgFj"
     },
     {
       "album": {
@@ -1316,6 +1334,24 @@
       "duration_ms": 245713,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/6xeEdMWJiNsQwxmCJ7fsQ6"
+    },
+    {
+      "album": {
+        "name": "Everytime We Say Hello",
+        "url": "https://open.spotify.com/album/2gKBIiQPl5DA9ftNIu7qj6"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223696,
+      "name": "Everytime We Say Hello",
+      "url": "https://open.spotify.com/track/4PnwjyfS2Q6Mp2ZH1vyLqF"
     },
     {
       "album": {

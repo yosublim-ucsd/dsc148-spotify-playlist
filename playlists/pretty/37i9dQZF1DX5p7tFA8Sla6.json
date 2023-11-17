@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 53725,
+  "num_followers": 53750,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh",
+  "snapshot_id": "MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tuxedo II",
-        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 166590,
-      "name": "Fux with the Tux",
-      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "What We Got Together",
         "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 155933,
       "name": "Funk That Junk",
       "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Tuxedo II",
+        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 166590,
+      "name": "Fux with the Tux",
+      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Commodores: The Definitive Collection",
-        "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Slippery When Wet",
-      "url": "https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 261945,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Commodores: The Definitive Collection",
+        "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Slippery When Wet",
+      "url": "https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1"
     },
     {
       "added_at": "2019-09-20 18:33:34",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 282106,
-      "name": "Housequake",
-      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
       },
       "artists": [
         {
@@ -1124,25 +1124,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1159,6 +1143,22 @@
       "duration_ms": 220093,
       "name": "This Funk (Give Me a Hand)",
       "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-09-06 07:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Funk!",
         "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 225424,
       "name": "Let's Take a Ride",
       "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
     },
     {
       "added_at": "2019-08-22 14:26:16",

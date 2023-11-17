@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,358 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,357 likes - 150 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Parted Ways \- Acoustic Version](https://open.spotify.com/track/6xySuu99uUYsziFbBxSLYQ) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Arrow \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5ur0y0jEG0KuqshNyju035) | 5:03 |
 | 150 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 |
 
-Snapshot ID: `MCxhNGVmYjIzNDA1MTUzOWZiNmE0YzQ2ZDQ0ZWY1YWQ5NDFjZDA1Njlh`
+Snapshot ID: `MCwzZDk2Yzc0ZjZhYmY2ZGMzZGJkZmJjODI2ZDM3MmQxOTc4MjRkMTZi`

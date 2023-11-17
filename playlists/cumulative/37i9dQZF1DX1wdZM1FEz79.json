@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: KIM YEO MYUNG(\uae40\uc5ec\uba85)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: EPITONE PROJECT(YOONA)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694. (\ucee4\ubc84: \uc5d0\ud53c\ud1a4 \ud504\ub85c\uc81d\ud2b8(\uc724\uc544))",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -3819,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "knock",
+        "url": "https://open.spotify.com/album/1esBidl6GhZiW8qpsejsXT"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "knock (Vocal by YOONA)",
+      "url": "https://open.spotify.com/track/7tARXrGfGoujF5wjwHYSW1"
+    },
+    {
+      "album": {
         "name": "laputa",
         "url": "https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ"
       },
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 175238,
       "name": "O",
       "url": "https://open.spotify.com/track/769ZTqFKMUBIVaQyudP0K3"
@@ -6592,7 +6610,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 188864,
       "name": "Stupid love song (with Crush)",
       "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
@@ -8372,7 +8390,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"

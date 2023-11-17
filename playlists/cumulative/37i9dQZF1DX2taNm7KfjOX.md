@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-544 songs - 1 day 10 hr 2 min
+545 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-10-22 | 2023-10-17 |
 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 | 2021-10-22 |  |
 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 | 2022-06-24 |  |
+| [Bed Song 1](https://open.spotify.com/track/4h7d4UJBGJmBuRX1AgVfKx) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:59 | 2023-11-10 |  |
 | [Bed Song 1](https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Bed Song 1](https://open.spotify.com/album/1vpdtDIoL0jW47H7gYfp9n) | 3:59 | 2021-11-19 | 2022-07-29 |
 | [Before the Fall](https://open.spotify.com/track/4zDgW6uebdnhvGnZsAicHa) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Before the Fall](https://open.spotify.com/album/7GvIlBDCCgy1xnjpQCLzkY) | 2:59 | 2021-10-22 | 2022-01-15 |
 | [Belfast Song](https://open.spotify.com/track/4gJb1BBWsaVOUtStGvAfWl) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Belfast Song](https://open.spotify.com/album/73TQtEbV8FZpUeMSrIadUv) | 3:46 | 2022-01-14 | 2022-07-25 |
@@ -186,7 +187,7 @@
 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 | 2021-10-22 | 2022-11-13 |
 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 | 2022-06-24 | 2022-10-15 |
 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 | 2022-04-13 | 2022-04-21 |
-| [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2023-07-04 |  |
+| [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2023-07-04 | 2023-11-17 |
 | [Fraction](https://open.spotify.com/track/2FuWTzgUyXpihyhhZmKNvU) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Fraction](https://open.spotify.com/album/2MYeCk5Qnnmi3I0JKMqTtu) | 3:01 | 2022-04-13 | 2022-04-20 |
 | [Fresh Water in an Empty Vase](https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0) | [Natalie Schepman](https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG) | [Fresh Water in an Empty Vase](https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA) | 2:59 | 2021-10-22 | 2022-07-25 |
 | [From Gold](https://open.spotify.com/track/4GjD33yTih7RqvGkH9C9wO) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [From Gold](https://open.spotify.com/album/46tU4DTzvaCi8BibeSKa0A) | 3:33 | 2022-04-13 | 2022-04-21 |

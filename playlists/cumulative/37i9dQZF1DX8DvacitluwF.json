@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=Cab1PruJRs2tAlHxZAyPdQ\">Blxckie</a>, <a href=\"https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE?si=kxvAF7mNQ_KSI8BG95VlvA\">Mx Blouse</a>, <a href=\"https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS?si=DB_7k5eLSoSvUOlTJcnZQw\">Una Rams</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS?si=de_fFd_ASGy4EPjE-EqLyg\">Una Rams</a>",
   "name": "BlueZA",
   "tracks": [
     {
@@ -245,6 +245,42 @@
     },
     {
       "album": {
+        "name": "hold me when it's cold: the cuddle pack",
+        "url": "https://open.spotify.com/album/6Qgr0c19to4RJXIbwfxKST"
+      },
+      "artists": [
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262151,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/2tkPJsgycUtCTpK6rob0CA"
+    },
+    {
+      "album": {
+        "name": "All Things Considered",
+        "url": "https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP"
+      },
+      "artists": [
+        {
+          "name": "Titose",
+          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170960,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
       },
@@ -423,6 +459,32 @@
     },
     {
       "album": {
+        "name": "ForPlay",
+        "url": "https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        },
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        },
+        {
+          "name": "Jillz",
+          "url": "https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Duet (feat. Jillz)",
+      "url": "https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv"
+    },
+    {
+      "album": {
         "name": "EBBS & FLOWS: Endlessly",
         "url": "https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b"
       },
@@ -496,6 +558,24 @@
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
+    },
+    {
+      "album": {
+        "name": "Mr O\u00falala",
+        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149571,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
     },
     {
       "album": {
@@ -664,6 +744,46 @@
       "duration_ms": 152068,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/5UWNkFcMRrwjoLioVmr1Y7"
+    },
+    {
+      "album": {
+        "name": "ForPlay",
+        "url": "https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Gentle Magic",
+      "url": "https://open.spotify.com/track/7lczAygHoTb5pgd8fdiVz3"
+    },
+    {
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "album": {
@@ -1585,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/73hkRIHrOXz1RlVITE16mY"
       },
@@ -1661,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Where Ya Been? - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Where Ya Been? - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234"
+    },
+    {
+      "album": {
         "name": "Wild Ride - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
       },
@@ -1702,6 +1858,36 @@
       "duration_ms": 228235,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0L4hMz440iOVrQ516sFBza"
+    },
+    {
+      "album": {
+        "name": "Full Full Condition Vol. 3",
+        "url": "https://open.spotify.com/album/36kkJHEPONjWSX6mOYHlRi"
+      },
+      "artists": [
+        {
+          "name": "Tangaza",
+          "url": "https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS"
+        },
+        {
+          "name": "Tai Dai",
+          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
+        },
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF"

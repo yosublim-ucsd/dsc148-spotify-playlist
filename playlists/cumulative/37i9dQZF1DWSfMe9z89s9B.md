@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Unsual Demont
 
-1,024 songs - 2 day 6 hr 47 min
+1,025 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Call the Bluff](https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [Call the Bluff](https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv) | 2:59 | 2022-12-02 | 2023-01-25 |
 | [call waiting](https://open.spotify.com/track/7qUsTlk0PuRtkA3daJTMWf) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [On A Virgo Mind](https://open.spotify.com/album/09Uyj0lcbXUL2FzIiA3NSE) | 2:50 | 2021-08-13 | 2022-07-29 |
 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 | 2022-04-01 | 2022-04-15 |
+| [Can We Do This? \- Original Demo](https://open.spotify.com/track/2eMnWLn7VUZaTOfNkFAz4r) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Further Out Than The Edge \(Deluxe\)](https://open.spotify.com/album/770XvZzNgIz4wGT4gUTrOW) | 1:31 | 2023-11-10 |  |
 | [can't fight the devil](https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 3:29 | 2022-12-16 | 2023-04-09 |
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2022-04-01 | 2022-04-12 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2022-06-10 | 2022-07-30 |
@@ -282,7 +283,7 @@
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2021-05-14 | 2022-07-23 |
 | [Eternal Sunshine \(Fire Pit\)](https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:16 | 2023-03-03 | 2023-07-22 |
 | [Eternity](https://open.spotify.com/track/7jrbOhDHb5bvvcmzEPbRWw) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Eternity](https://open.spotify.com/album/5SXIbnJOOXC2z3gpj3u1U1) | 3:34 | 2022-04-01 | 2022-04-09 |
-| [Eucalyptus](https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Eucalyptus](https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng) | 4:28 | 2023-09-29 |  |
+| [Eucalyptus](https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Eucalyptus](https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng) | 4:28 | 2023-09-29 | 2023-11-17 |
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everybody's Gotta Learn Sometimes](https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-09-29 |  |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-07-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: TA GA DA",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie, punk ed emo dall'Italia. Cover: Bambole Di Pezza",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 308142,
       "name": "Acqua Bagnami",
       "url": "https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 239539,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/3KV0mra7zQTb04DDHnMSfu"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 300533,
       "name": "CARNEVALE",
       "url": "https://open.spotify.com/track/1v1JM0dxz9InQ7gfnQ4JeA"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 232823,
       "name": "DIFFIDENZA",
       "url": "https://open.spotify.com/track/5LUmYeaE8VlFMM6dY6d2vQ"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 209794,
       "name": "Ero troppo fatto",
       "url": "https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w"
@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 185163,
       "name": "Freddy Krueger",
       "url": "https://open.spotify.com/track/0cKNxtpixpYANQTUs168su"
@@ -4486,7 +4486,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 154060,
       "name": "ho perso (tempo)",
       "url": "https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd"
@@ -4580,6 +4580,24 @@
       "duration_ms": 159121,
       "name": "How",
       "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
+    },
+    {
+      "album": {
+        "name": "Hunters Of Hope",
+        "url": "https://open.spotify.com/album/3gWzsaXdytzGgQu3teTX7Y"
+      },
+      "artists": [
+        {
+          "name": "Miss Chain & the Broken Heels",
+          "url": "https://open.spotify.com/artist/1BrYRk30V2dJbQdFR4WSPi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206091,
+      "name": "Hunters Of Hope",
+      "url": "https://open.spotify.com/track/4cl1EbCu1f5nZnFoxegWib"
     },
     {
       "album": {
@@ -5505,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "HUMANIZE",
+        "url": "https://open.spotify.com/album/0OkZmSBdLAVLDfKh6OWTRl"
+      },
+      "artists": [
+        {
+          "name": "Appino",
+          "url": "https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "LA FINE DI UN RAGAZZO",
+      "url": "https://open.spotify.com/track/09AN0C4hAhXzbwTbM3K1fE"
+    },
+    {
+      "album": {
         "name": "La musica \u00e8 finita",
         "url": "https://open.spotify.com/album/79iordJotLmxKPRHQTUU88"
       },
@@ -6156,7 +6192,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144456,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU"
@@ -6856,7 +6892,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 191500,
       "name": "Nocera by Night (feat. Visconti)",
       "url": "https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU"
@@ -8309,6 +8345,24 @@
     },
     {
       "album": {
+        "name": "Quelli come noi",
+        "url": "https://open.spotify.com/album/4rYhntW2a7ri7dnstTtip8"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/6upmplbcaxbVDciIg7UAQh"
+    },
+    {
+      "album": {
         "name": "MOSTRO",
         "url": "https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt"
       },
@@ -8346,6 +8400,42 @@
       "duration_ms": 164000,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j"
+    },
+    {
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/0010d1A2rC7GUI0F9yPNCz"
+      },
+      "artists": [
+        {
+          "name": "Umberto Maria Giardini",
+          "url": "https://open.spotify.com/artist/1jUnq1j9h7jwhefWzS8r95"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Re",
+      "url": "https://open.spotify.com/track/2MXmns9bnMQK75QRXglbuE"
+    },
+    {
+      "album": {
+        "name": "This Is How We Dance",
+        "url": "https://open.spotify.com/album/3mUOOM6v6ZPfbYmhp0iQH0"
+      },
+      "artists": [
+        {
+          "name": "TA GA DA",
+          "url": "https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Receding Hairlines",
+      "url": "https://open.spotify.com/track/1LoqsE92WXai4UkfSoCBzF"
     },
     {
       "album": {
@@ -8476,6 +8566,24 @@
       "duration_ms": 305164,
       "name": "Rincorretevi",
       "url": "https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP"
+    },
+    {
+      "album": {
+        "name": "DIRTY (Deluxe)",
+        "url": "https://open.spotify.com/album/1p5swkw2kYdhom08qbCQfc"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191785,
+      "name": "Riparliamone Domani",
+      "url": "https://open.spotify.com/track/2FNnxj2DX3KJ7SMVEFw1CH"
     },
     {
       "album": {
@@ -8746,7 +8854,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 192250,
       "name": "Satelliti",
       "url": "https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl"
@@ -8916,6 +9024,24 @@
       "duration_ms": 156576,
       "name": "Scomparire il rumore",
       "url": "https://open.spotify.com/track/640HPkDgsy0HXv9AkWPhrE"
+    },
+    {
+      "album": {
+        "name": "Eugenio Sournia",
+        "url": "https://open.spotify.com/album/14pQ7uZjRUJqBktOWRUkO8"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Sournia",
+          "url": "https://open.spotify.com/artist/3WCGURs8932ul1bUI4FHCX"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Scrivere",
+      "url": "https://open.spotify.com/track/6A4gpoXjKnQC0IpBqJRxAL"
     },
     {
       "album": {
@@ -9168,6 +9294,24 @@
       "duration_ms": 263600,
       "name": "She's so different\u0259",
       "url": "https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9"
+    },
+    {
+      "album": {
+        "name": "Anni Venti",
+        "url": "https://open.spotify.com/album/6BWEyWZY8KZfuBPh0fhVgN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mox",
+          "url": "https://open.spotify.com/artist/4XzJm38kgQbtmqhXP3yfsk"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149125,
+      "name": "Shhh.",
+      "url": "https://open.spotify.com/track/1o135lY1qAAupB72BNb8jK"
     },
     {
       "album": {
@@ -9612,6 +9756,24 @@
       "duration_ms": 187620,
       "name": "Stati di agitazione",
       "url": "https://open.spotify.com/track/7bTraSxvK6F3beRP5vL17h"
+    },
+    {
+      "album": {
+        "name": "Stefano",
+        "url": "https://open.spotify.com/album/3rOAf8bWbzAMWrWwBQRhc0"
+      },
+      "artists": [
+        {
+          "name": "le vite degli altri",
+          "url": "https://open.spotify.com/artist/5MXyajGaB4FejUzTBE8Oyi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184813,
+      "name": "Stefano",
+      "url": "https://open.spotify.com/track/4x2ujpyYo1aKwZY2VdY3i2"
     },
     {
       "album": {
@@ -10122,6 +10284,24 @@
       "duration_ms": 188136,
       "name": "THE DRIVER",
       "url": "https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6"
+    },
+    {
+      "album": {
+        "name": "The Girl Sleeping Next to Me",
+        "url": "https://open.spotify.com/album/7D4fnijlgPVFdVn5zfMChZ"
+      },
+      "artists": [
+        {
+          "name": "The Singer is Dead",
+          "url": "https://open.spotify.com/artist/21bN775otWRD0ldHpVqXHK"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371905,
+      "name": "The Girl Sleeping Next to Me",
+      "url": "https://open.spotify.com/track/2NZfckfF2jzReopBG88UOB"
     },
     {
       "album": {
@@ -10854,7 +11034,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 252304,
       "name": "Un filo di fumo",
       "url": "https://open.spotify.com/track/5I4mPSt7kb2u666eVXd7dT"

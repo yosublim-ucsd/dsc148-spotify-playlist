@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-217 songs - 15 hr 1 min
+218 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Destiny](https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:17 | 2022-10-03 |  |
 | [Does Anybody Know](https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 3:28 | 2023-02-24 |  |
 | [Does Anybody Know](https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:28 | 2022-10-03 | 2023-03-02 |
-| [Don't Be a Stranger](https://open.spotify.com/track/5t2IeNWSmf8gegtwVxrWIH) | [Matthew Curry](https://open.spotify.com/artist/7l2PJU1YHpVxat3wymK9J8) | [Don't Be a Stranger](https://open.spotify.com/album/0xKbwByE0EiKtl4RiaTqyJ) | 3:32 | 2023-08-25 |  |
+| [Don't Be a Stranger](https://open.spotify.com/track/5t2IeNWSmf8gegtwVxrWIH) | [Matthew Curry](https://open.spotify.com/artist/7l2PJU1YHpVxat3wymK9J8) | [Don't Be a Stranger](https://open.spotify.com/album/0xKbwByE0EiKtl4RiaTqyJ) | 3:32 | 2023-08-25 | 2023-11-17 |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/1RMmxSQGG9Xd4OLwnCWEvY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Sisters & Brothers](https://open.spotify.com/album/37ISHphkeOt1OZXVr5WK2r) | 3:24 | 2022-05-25 | 2022-07-29 |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-07-29 |  |
 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 | 2022-05-25 |  |
@@ -124,7 +124,7 @@
 | [Just Like New](https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 4:20 | 2023-08-18 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2022-05-25 |  |
 | [Lay In Your Arms](https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Havin' Such A Good Time](https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I) | 3:22 | 2023-08-11 |  |
-| [Let It Shine](https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG) | [David Gelman](https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN) | [Dusty Highway](https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H) | 4:02 | 2023-08-25 | 2023-09-03 |
+| [Let It Shine](https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG) | [David Gelman](https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN) | [Dusty Highway](https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H) | 4:02 | 2023-08-25 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 |  |
 | [Little Girl](https://open.spotify.com/track/0T7VAmfLUzTw8zSjhPZLuV) | [Dana Masters](https://open.spotify.com/artist/60Vsjzkpv3xyOYPtNnoNCh) | [Because of You](https://open.spotify.com/album/0FtKh6eZHrAOQwd786kUlk) | 5:05 | 2023-08-18 |  |
 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 | 2023-06-20 |
@@ -158,6 +158,7 @@
 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 | 2022-05-25 |  |
 | [Not the One](https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Not the One](https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS) | 3:38 | 2023-05-22 |  |
 | [Oh Betty \- Acoustic](https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty \(Acoustic\)](https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr) | 4:06 | 2023-02-03 |  |
+| [Oh Frustration](https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Oh Frustration](https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo) | 3:46 | 2023-10-13 |  |
 | [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 | 2022-10-03 | 2023-11-04 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 |  |
@@ -217,7 +218,7 @@
 | [Underground Railroad](https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R) | [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Underground Railroad](https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO) | 4:14 | 2023-04-21 |  |
 | [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 | 2023-06-09 |  |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
-| [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 |  |
+| [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 | 2023-11-17 |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
 | [Wild Wild Woman](https://open.spotify.com/track/1VZEVlkVRuqAi22iH00sm6) | [Grace Theisen](https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf) | [Wild Wild Woman](https://open.spotify.com/album/7oBpr82ETE4s71NUZGfGvk) | 4:03 | 2023-10-13 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |

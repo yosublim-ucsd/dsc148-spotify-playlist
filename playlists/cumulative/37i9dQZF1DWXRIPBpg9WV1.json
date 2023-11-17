@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Hungry Heart",
+        "url": "https://open.spotify.com/album/1qG0q30RBXj5Z5C7vvM6S3"
+      },
+      "artists": [
+        {
+          "name": "Nathan R. Edwards",
+          "url": "https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135106,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/7546Slt3mB42vU0JVG1K0a"
+    },
+    {
+      "album": {
         "name": "H\u00f6stvisa",
         "url": "https://open.spotify.com/album/2At7owW3nBBJ2OTsUucXi6"
       },
@@ -3245,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1gwzRt9wH6nIYLFkxz9O0i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rick",
+          "url": "https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163082,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/2hT1Htm2vYNr33XIkfzWGp"
+    },
+    {
+      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql"
       },
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 182026,
       "name": "Still Crazy After All These Years",
       "url": "https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l"
@@ -3728,6 +3764,24 @@
       "duration_ms": 149804,
       "name": "The Long And Winding Road",
       "url": "https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/4ANtz0euMNdAZS1NBXKf9E"
+      },
+      "artists": [
+        {
+          "name": "Liam Dunn",
+          "url": "https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145671,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/3PRRa4dwDkFCy9eSkJ9uDe"
     },
     {
       "album": {
@@ -4254,6 +4308,24 @@
       "duration_ms": 204435,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/1hH0H7zBLYfhBEFVJIYfyY"
+    },
+    {
+      "album": {
+        "name": "When You Say Nothing At All",
+        "url": "https://open.spotify.com/album/1heo44LPMiIUkFQjiQjrM3"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/6j0tjTQ6Pz3tB0O8uix2Eo"
     },
     {
       "album": {

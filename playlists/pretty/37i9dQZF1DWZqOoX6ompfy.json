@@ -1,15 +1,47 @@
 {
   "description": "Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.",
-  "num_followers": 20685,
+  "num_followers": 20696,
   "original_name": "This Is Yuna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDhjZGEzYWYwZDBmMjk3YzU2MDM0OTYyZjc3ODMxYWY0NWM1YTUw",
+  "snapshot_id": "MCw3MjljYzljZmYyMzJlZTA0MjJhYTZhNTY0OWVlOWZjODliZmIwNTI0",
   "tracks": [
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
+      "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 161884,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV"
+    },
+    {
+      "added_at": "2023-11-16 16:08:30",
+      "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/2rK1Db8xEtfnabBB8tLpEt"
+    },
+    {
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Masih Yuna",
         "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/4ifkFslxRF6O8n5BkQA3CJ"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Menanti",
         "url": "https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Masih Yuna",
         "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/5R8ZfnGDbXOdoGtrJSIdsK"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Masih Yuna",
         "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y5",
         "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y5",
         "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/3m72DbCsyauAyLGBG1SkT5"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y5",
         "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/1UVOIeEqSQi2SJA03lWW9i"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/1DbxaS3eXoPKyuozdx2K4U"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/0PYda6TzmdxYdy1qupkgj6"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
@@ -217,7 +249,7 @@
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/2BgaLvetf63G4VdXOUxZ4R"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/2w51uNsOAFZWlyklAcZspM"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/0ujDmkO6xZwv2cHbKJEaAT"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/20CL5Ad8EQ5uIHLYZI6aZa"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/1Kob3GjOFd7jvgf3CV97i4"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/2hi0n0WV9VwJRa1tcZwFDR"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "So Right (feat. Yuna)",
         "url": "https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Don't Blame It On Love",
         "url": "https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Dance Like Nobody's Watching",
         "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "ANGRY HEARTS",
         "url": "https://open.spotify.com/album/3H9mOpsztHarggXBOaNTsB"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/78ZSpNggaGhHY1HdcjGJr4"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Stay Where You Are",
         "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4e1HlR812DhUkqoKJtjwoQ"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/3iMJbAaMEEAuq6IyTffTz8"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Lights And Camera",
         "url": "https://open.spotify.com/album/7wA4RVDhJ7rcscmbzhrD1J"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/4USgaSv1DqJby1iW6wVpeH"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/7EMR7wcOHzK7qdyRPnqRMm"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Yuna",
         "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/7mQn2FH0hM9gYIp39vyoi1"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/6XhnayiqvBCpmzTvbb0bMr"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "sleepless in __________",
         "url": "https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/5aChZc5uCUTB3UTfOZv1Wn"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/15Hc18rqD3gSMqDJpJBk6V"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/5ACPHH68L8NG0kXSZP7Un0"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/0Zm9ipBEwWxHcmZYz68iJA"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/0ObxUuZOX5GOliEfhGeV6b"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Sixth Street EP",
         "url": "https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/52mRPy2g9SmQoqu9pOHkqm"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/0EgpgnzlNHZJMkU6Te9gx9"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/5f6SnXCbbdgRMdJ5w5BlHH"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/4u4hQml1aNk0wQUhQzijNr"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Lullabies",
         "url": "https://open.spotify.com/album/7D2toenyHJ9NaVFRgY5get"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/3RJuptH9QoeJWzHd4ZCI0u"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Yuna",
         "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/7vzwp2cxXQQAb5TUvod05n"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/67SECQMJ3wC0VislGuQDA0"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/4baFSFLNit6bSF4tAt6NGS"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/7v9Z565IlQCbjF2rgrMwWN"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/7wCUtxSlTy1oJQYHgO4fHU"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/7nOtXCM1w97j4KeBRH2rPj"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -841,7 +873,7 @@
       "url": "https://open.spotify.com/track/4KXAulHeLjKCVoHrCAMdto"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/52FKgcBw9YcVVguoqiDFEq"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -877,7 +909,7 @@
       "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -897,7 +929,7 @@
       "url": "https://open.spotify.com/track/1dQ6fXJvfnqMWeZBXHquGI"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -913,7 +945,7 @@
       "url": "https://open.spotify.com/track/7F0K8l8zL5ci567eovodtD"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/1xyfMKTdotUdGmnC5B5lUD"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/0ZOkSl1fZHaDYmgSKBDOyB"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/58RTRxdJg6JHyq83zUhgAN"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Decorate",
         "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/0uJrYwDIKZgHLtCY3z36Dj"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4Z6rzupjLzFdjR489LBqwj"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -997,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0Ss4J4QHCkl0btHF5j9xvI"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
@@ -1017,7 +1049,7 @@
       "url": "https://open.spotify.com/track/0yIUV22RiuBmcdPQHIFNsX"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -1033,7 +1065,7 @@
       "url": "https://open.spotify.com/track/44PPBr9Erm49p5VxHKTnDx"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -1049,7 +1081,7 @@
       "url": "https://open.spotify.com/track/42ZTvtzDTTwq5J74RaZKUJ"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/111V69LdYDmj8FVteHKMUo"
@@ -1065,7 +1097,7 @@
       "url": "https://open.spotify.com/track/48Egr6zPIlUDMflxQzg4uM"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Yuna",
         "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
@@ -1081,7 +1113,7 @@
       "url": "https://open.spotify.com/track/298GtxeVHZbbotHS1e3vxO"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Calling All Heroes",
         "url": "https://open.spotify.com/album/3Wi7Mwc31hrN7WZCxKM9Ke"
@@ -1101,7 +1133,7 @@
       "url": "https://open.spotify.com/track/31cX56mMJcLXaTJljNxsu7"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Bicara",
         "url": "https://open.spotify.com/album/6ufoegReK29yTjs90kUycb"
@@ -1117,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7twGTbiq9QAlXwrqQR8aHE"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
@@ -1137,7 +1169,7 @@
       "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -1153,7 +1185,7 @@
       "url": "https://open.spotify.com/track/6M1VZfBisoKZDCzBIoGpFk"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Yuna",
         "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
@@ -1169,7 +1201,7 @@
       "url": "https://open.spotify.com/track/7tEYqT5yrhltSKDCdAnEsi"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -1185,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1BwXRI7LNEOwGFp3SgNxbd"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Yuna",
         "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
@@ -1201,7 +1233,7 @@
       "url": "https://open.spotify.com/track/20A2K6ZbdhIORwhL2Wnmt7"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Material (Yuna)",
         "url": "https://open.spotify.com/album/22MgQWfRDQSqZhPZONVjVJ"
@@ -1217,7 +1249,7 @@
       "url": "https://open.spotify.com/track/0lhAdSoAgXjHHGJhoatDXO"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
@@ -1233,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -1249,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2IQyAo7BKgYGOL9SYaXdw3"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Shoffy",
         "url": "https://open.spotify.com/album/102J7QdW6oFSUlQcWmJZ3E"
@@ -1269,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3J9vgqmKhQmC7GFwGrA2ik"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
@@ -1293,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2g5u6IsOCEuwMBoQcP07wG"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Langit (Single)",
         "url": "https://open.spotify.com/album/4iBiPGE1fOxJ3lAGtTld8x"
@@ -1309,7 +1341,7 @@
       "url": "https://open.spotify.com/track/6znALQgiLf17IIfCsRDkxy"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Yuna",
         "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
@@ -1325,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1OerJEsQx82DtYL2VoZXUp"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -1341,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6arq2bSoU7HJQZjk1IRz9U"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Decorate",
         "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
@@ -1357,7 +1389,7 @@
       "url": "https://open.spotify.com/track/6OVTzggJbGZRNJj7gjj0It"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Sixth Street EP",
         "url": "https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0"
@@ -1373,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4gm6Wt1RPjxUObbW4RJk5m"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Lautan",
         "url": "https://open.spotify.com/album/0rTLWi37ESBVwKI2qwhQbF"
@@ -1389,7 +1421,7 @@
       "url": "https://open.spotify.com/track/5Ggl1nIAbq8DhsfZAkwx7L"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Pulang",
         "url": "https://open.spotify.com/album/74CtUACIorbi85uLiLXv14"
@@ -1409,7 +1441,7 @@
       "url": "https://open.spotify.com/track/2FlD3k6jV8ylgvh1ocMHmB"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Decorate",
         "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
@@ -1425,7 +1457,7 @@
       "url": "https://open.spotify.com/track/5arSLsu32pb7Kr8oNPydH7"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Sixth Street EP",
         "url": "https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0"
@@ -1441,7 +1473,7 @@
       "url": "https://open.spotify.com/track/0bAVgtlPYLBJZsRf8sI9jO"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Blank Marquee",
         "url": "https://open.spotify.com/album/5d2TPnMOde0tUIfzDZwAcr"
@@ -1461,7 +1493,7 @@
       "url": "https://open.spotify.com/track/4Ipmi2u1eQ45RaYk4Rl512"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Baby Boy (feat. Yuna)",
         "url": "https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV"
@@ -1481,7 +1513,7 @@
       "url": "https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -1497,7 +1529,7 @@
       "url": "https://open.spotify.com/track/3njmCkSeyIwe6rNjxL27tM"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "P. Ramlee : Satu Indiepretasi",
         "url": "https://open.spotify.com/album/3n3dlojrdjl8clhx3dT5lH"
@@ -1513,7 +1545,7 @@
       "url": "https://open.spotify.com/track/5L6GF1QgRVb7Ox1aTFdQ7B"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "The Croods (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI"
@@ -1533,7 +1565,7 @@
       "url": "https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Nocturnal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
@@ -1549,7 +1581,7 @@
       "url": "https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc"
     },
     {
-      "added_at": "2023-10-19 16:00:00",
+      "added_at": "2023-11-16 16:08:30",
       "album": {
         "name": "Decorate",
         "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"

@@ -1,12 +1,12 @@
 {
   "description": "n\u00e3o \u00e9 easy nem hard \u00e9 o dacoromode com o Tz",
-  "num_followers": 1284336,
+  "num_followers": 1284896,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmEzNGY1MWY2YmQ5MDU1ZGVlODVhMGVjYjA0YWZkYTI4OWU4NDRh",
+  "snapshot_id": "MCxlYmI3NTg1Njg3Y2VjMzFiOTk3MTU5MGEwNGQwNzI0NzNlMWViMDli",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Hino dos Mlks",
-        "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Hino dos Mlks",
-      "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 215520,
       "name": "M\u00e1goa e Rancor (feat. Portugal No Beat)",
       "url": "https://open.spotify.com/track/6MAmqRj8wEiIULizWgEBd9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Hino dos Mlks",
+        "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Hino dos Mlks",
+      "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -1379,22 +1379,30 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "A Moda Antiga",
-        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
       "artists": [
         {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 203636,
-      "name": "O 7 Patrocina",
-      "url": "https://open.spotify.com/track/5aDlgmz3RSR2FP5SqZuuzs"
+      "duration_ms": 229894,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -1431,30 +1439,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+        "name": "A Moda Antiga",
+        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
       },
       "artists": [
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         }
       ],
-      "duration_ms": 229894,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+      "duration_ms": 203636,
+      "name": "O 7 Patrocina",
+      "url": "https://open.spotify.com/track/5aDlgmz3RSR2FP5SqZuuzs"
     },
     {
       "added_at": "2023-11-10 03:03:00",

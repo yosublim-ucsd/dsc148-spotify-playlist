@@ -746,7 +746,7 @@
     {
       "album": {
         "name": "Parasite",
-        "url": "https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl"
+        "url": "https://open.spotify.com/album/6VxaPwWSbuar6T4W8D6vX2"
       },
       "artists": [
         {
@@ -757,6 +757,24 @@
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 116750,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6CbLM1XXg4bFR6oCXXMVM6"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,040 songs - 4 day 13 hr 7 min
+2,041 songs - 4 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 | 2023-09-06 | 2023-09-13 |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-05-16 | 2023-05-18 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-21 | 2023-03-29 |
-| [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 | 2023-11-15 |  |
+| [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 | 2023-11-15 | 2023-11-17 |
 | [24 Songs](https://open.spotify.com/track/4A3waun6HF0JfPjS9xT3RF) | [LucaTheG1](https://open.spotify.com/artist/29cpCvKYnwMrhaZo5IuczB) | [24 Songs](https://open.spotify.com/album/3W9ivB8clpbbNLw49cjsLx) | 3:45 | 2023-06-16 | 2023-06-18 |
 | [24 Songs](https://open.spotify.com/track/2nqy2NyysOPp8yKSD2bNDx) | [Shooter Akrami](https://open.spotify.com/artist/0YG0hJrt9V9qhvYKTiFZrE) | [24 songs](https://open.spotify.com/album/1lXCI05CgLuRTxN8E93hZL) | 3:33 | 2023-11-10 | 2023-11-16 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-11-01 | 2022-11-09 |
@@ -1543,6 +1543,7 @@
 | [Shakey x off these drugs](https://open.spotify.com/track/5hbjWmsPxsoUf8xupri1g7) | [ShakeyFunnyAzz](https://open.spotify.com/artist/4CWLmkNh01ZxgBM5gDXlIx) | [Shakey x off these drugs](https://open.spotify.com/album/5B3bW5H5XiW9AyDBLw9xeI) | 2:19 | 2022-01-01 | 2022-02-01 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-02-07 | 2023-02-17 |
 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 | 2023-10-17 | 2023-10-25 |
+| [SHAQ & KOBE \(Remix\) ft\. Shaquille O’Neal & Dame D.O.L.L.A.](https://open.spotify.com/track/7p8LdmtCGxMh52iqMMZsKM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 6:52 | 2023-11-16 |  |
 | [Shavkat](https://open.spotify.com/track/0IzfVZmlCiwPZmjNkRJehY) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:39 | 2023-09-17 | 2023-09-21 |
 | [Shawty Got Wap Like Fetty](https://open.spotify.com/track/0yNKnJsSUOrOiZEG5UsPfP) | [svntana archive](https://open.spotify.com/artist/6HS5NrP6hHRCg7EoxUOv1w) | [Shawty Got Wap Like Fetty](https://open.spotify.com/album/40oJrlOJoyKhaFYXYOupFO) | 2:22 | 2023-03-08 | 2023-03-14 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-24 | 2023-11-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 78641,
+  "num_followers": 78698,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTVkOTIyZDZhZTQ2NzVkNWFjYWU0NWFmNzg1NWZiYTg0NmE1NTE1",
+  "snapshot_id": "MCwzZjk3MGExYzdlMTc0YzJhMjc1MjVkN2Q4MWUxMTMyODBlODcyNjVh",
   "tracks": [
     {
       "added_at": "2023-09-29 13:36:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 992440,
-      "name": "Medley (Yo Que No Vivo Sin Ti / Culpable O No / M\u00e1s All\u00e1 De Todo / Fr\u00eda Como El Viento / Entr\u00e9gate /Tengo Todo Excepto A Ti / La Incondicional) - En Vivo",
-      "url": "https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 204533,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 992440,
+      "name": "Medley (Yo Que No Vivo Sin Ti / Culpable O No / M\u00e1s All\u00e1 De Todo / Fr\u00eda Como El Viento / Entr\u00e9gate /Tengo Todo Excepto A Ti / La Incondicional) - En Vivo",
+      "url": "https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq"
     },
     {
       "added_at": "2021-12-25 17:56:56",

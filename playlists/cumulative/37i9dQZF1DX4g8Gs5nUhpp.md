@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Wren Evans
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Binz
 
 215 songs - 13 hr 43 min
 

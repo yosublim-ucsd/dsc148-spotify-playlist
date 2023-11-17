@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: RedSpin",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NANON",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "THE SECRETS OF THE UNIVERSE",
+        "url": "https://open.spotify.com/album/1fkYltp0XYhWyE2FpYmbin"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199245,
+      "name": "SPARK!",
+      "url": "https://open.spotify.com/track/4O2jdf604G0LxUb1HNLO8y"
+    },
+    {
+      "album": {
         "name": "SPIDERMAN",
         "url": "https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk"
       },
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 203000,
       "name": "\u0e04\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e2b\u0e49\u0e32\u0e21\u0e40\u0e25\u0e34\u0e01 (No Return)",
       "url": "https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A"
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 214144,
       "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
       "url": "https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY"
@@ -4288,6 +4306,52 @@
       "duration_ms": 214948,
       "name": "\u0e21\u0e35\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e1e\u0e39\u0e14\u0e44\u0e2b\u0e21 (Untold Story)",
       "url": "https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e09\u0e31\u0e19 (Safe Zone) - Single",
+        "url": "https://open.spotify.com/album/3m7BYn24J2INtDV0wZr2Eh"
+      },
+      "artists": [
+        {
+          "name": "\u0e44\u0e1a\u0e23\u0e4c\u0e17 \u0e19\u0e23\u0e20\u0e31\u0e17\u0e23",
+          "url": "https://open.spotify.com/artist/3CitLsx5P9qFKEHwaiJqIz"
+        },
+        {
+          "name": "\u0e1f\u0e34\u0e25\u0e4c\u0e21 \u0e18\u0e19\u0e20\u0e31\u0e17\u0e23",
+          "url": "https://open.spotify.com/artist/0GKloCvkBbc25NBYzuIcgD"
+        },
+        {
+          "name": "Fluke Gawin",
+          "url": "https://open.spotify.com/artist/1OI5LuORfGbstS0VaCMiSo"
+        },
+        {
+          "name": "\u0e41\u0e08\u0e21 \u0e23\u0e0a\u0e15\u0e30",
+          "url": "https://open.spotify.com/artist/5Ly3FFcd5BAGgP4cchhQOb"
+        },
+        {
+          "name": "KRIST",
+          "url": "https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l"
+        },
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        },
+        {
+          "name": "Peck Palitchoke",
+          "url": "https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm"
+        },
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269838,
+      "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e09\u0e31\u0e19 (Safe Zone)",
+      "url": "https://open.spotify.com/track/2UC53K6OpwTxFI7oTKKwdh"
     },
     {
       "album": {

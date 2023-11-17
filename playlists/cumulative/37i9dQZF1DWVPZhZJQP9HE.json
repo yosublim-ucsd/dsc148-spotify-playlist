@@ -7087,6 +7087,28 @@
     },
     {
       "album": {
+        "name": "Parotta Varatta",
+        "url": "https://open.spotify.com/album/5pSVvX0fC1YJ29dK395M6g"
+      },
+      "artists": [
+        {
+          "name": "Thejas Krishna",
+          "url": "https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2"
+        },
+        {
+          "name": "Roshan B.S.",
+          "url": "https://open.spotify.com/artist/1ihN77vdgnpkSZswoLp6gM"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230608,
+      "name": "Parotta Varatta",
+      "url": "https://open.spotify.com/track/0NUotMW1flHmN2sEprkak8"
+    },
+    {
+      "album": {
         "name": "Pattampoochi",
         "url": "https://open.spotify.com/album/6WnFuWkZT1agYeLSHtUo46"
       },

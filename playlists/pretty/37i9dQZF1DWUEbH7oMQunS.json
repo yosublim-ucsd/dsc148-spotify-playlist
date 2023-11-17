@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 57343,
+  "num_followers": 57388,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
+  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Instrumental Worship Music, Vol. 1",
+        "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Biel",
+          "url": "https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 392790,
       "name": "Like a Fire (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Instrumental Worship Music, Vol. 1",
-        "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Biel",
-          "url": "https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Matins : Vespers",
-        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
-      },
-      "artists": [
-        {
-          "name": "Parachute Band",
-          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "* Consecrate *",
-      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 279451,
       "name": "God Who Saves",
       "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Matins : Vespers",
+        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
+      },
+      "artists": [
+        {
+          "name": "Parachute Band",
+          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "* Consecrate *",
+      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Spirit Of God",
+        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Something About The Name - Live",
+      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Nineveh (Live)",
         "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Of God",
-        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+        "name": "Jesus Is___. Music Project",
+        "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
       "artists": [
         {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+          "name": "The City Church",
+          "url": "https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ"
         }
       ],
-      "duration_ms": 290813,
-      "name": "Something About The Name - Live",
-      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
+      "duration_ms": 277853,
+      "name": "Jesus Is___.",
+      "url": "https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -871,22 +887,6 @@
       "duration_ms": 179678,
       "name": "Lord I need You",
       "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Jesus Is___. Music Project",
-        "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
-      },
-      "artists": [
-        {
-          "name": "The City Church",
-          "url": "https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Jesus Is___.",
-      "url": "https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Hope Where There Was None",
         "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
       },
@@ -995,38 +1011,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Universal Christ",
         "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 231424,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rekindle",
-        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
-      },
-      "artists": [
-        {
-          "name": "The Church Vessel",
-          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
-        }
-      ],
-      "duration_ms": 394520,
-      "name": "Beckon",
-      "url": "https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Love Has a Name",
         "url": "https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 270500,
       "name": "Weight of Heaven",
       "url": "https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rekindle",
+        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
+      },
+      "artists": [
+        {
+          "name": "The Church Vessel",
+          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
+        }
+      ],
+      "duration_ms": 394520,
+      "name": "Beckon",
+      "url": "https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 252631,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I Won't Let Go",
+        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Picture Parlour
 
-184 songs - 10 hr 37 min
+185 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 | 2023-04-18 |  |
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2023-02-24 |  |
 | [Chancer](https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/4e5Wq8BfWIoW5sRe72mbqI) | 3:14 | 2023-03-31 | 2023-11-16 |
+| [Chancer](https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv) | 3:14 | 2023-10-20 |  |
 | [Changing Trends](https://open.spotify.com/track/14X8VWSbK3ghd2gVgOvf52) | [Lyerr](https://open.spotify.com/artist/15RXcuqShkrQqtCRjKtgss) | [Changing Trends](https://open.spotify.com/album/29NPGoxQMh9TRhciutEl4w) | 2:55 | 2023-02-10 | 2023-06-08 |
 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 | 2023-01-10 |  |
 | [Cherish](https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Cherish](https://open.spotify.com/album/3qOfKTVNQD2C5sYqpTQsMo) | 2:40 | 2023-02-24 |  |
@@ -63,7 +64,7 @@
 | [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 | 2023-01-10 | 2023-02-24 |
 | [Fading Away](https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fading Away](https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V) | 3:26 | 2023-10-20 |  |
 | [Falling](https://open.spotify.com/track/4U1lnceYei81AcieKqPxIs) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/2ESEsbqDurKc7fCmduKViu) | 2:53 | 2023-01-10 | 2023-04-01 |
-| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 |  |
+| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 | 2023-11-17 |
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-28 | 2023-10-10 |
 | [Feels So Real](https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [The Clockworks](https://open.spotify.com/album/5yy6SxQG6UFCXMP6wDAUJR) | 3:32 | 2023-01-10 | 2023-09-20 |
 | [Female of the Species](https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [A Sense Of Doubt](https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK) | 3:06 | 2023-09-19 |  |

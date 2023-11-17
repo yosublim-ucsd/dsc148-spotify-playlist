@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Lane Pittman
 
-495 songs - 1 day 3 hr 9 min
+497 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Get to Gettin’ Gone](https://open.spotify.com/track/0Zp0Q7p94hUim8q07dXeN1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Get to Gettin’ Gone](https://open.spotify.com/album/3b13DQUYaS5PvsM58BYv6Q) | 3:02 | 2022-12-22 | 2023-06-07 |
 | [Get to Gettin’ Gone](https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:02 | 2023-06-01 | 2023-07-21 |
 | [Get To Know Ya](https://open.spotify.com/track/1jS01RraB3eTBL3GnYXCaN) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Get To Know Ya](https://open.spotify.com/album/73OAVag102lgJ7XCQ4zHFb) | 3:25 | 2022-01-27 | 2022-05-27 |
+| [Get You Backroads](https://open.spotify.com/track/0FqqU2QL808TP8TLFgBYVQ) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Get You Backroads](https://open.spotify.com/album/56fBEp4OU1DW43AxHZfLae) | 3:08 | 2023-11-16 |  |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-17 | 2022-06-10 |
 | [GHOSTED](https://open.spotify.com/track/3FJEkL4zxl9pNg3UAGcLT6) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [GHOSTED](https://open.spotify.com/album/5mVRTqoL3PSrmdSai5lqsK) | 3:23 | 2022-11-10 | 2023-03-10 |
 | [Give Her That](https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Give Her That](https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb) | 3:21 | 2023-08-10 | 2023-11-10 |
@@ -326,7 +327,7 @@
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-01-27 | 2022-07-15 |
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-09 | 2022-09-30 |
 | [Place for Me](https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Place for Me](https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT) | 3:12 | 2023-01-05 | 2023-04-28 |
-| [Pour My Heart Out](https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Pour My Heart Out](https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y) | 3:38 | 2023-09-21 |  |
+| [Pour My Heart Out](https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Pour My Heart Out](https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y) | 3:38 | 2023-09-21 | 2023-11-17 |
 | [Pretty Doesn't Make You Good](https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Pretty Doesn't Make You Good](https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN) | 2:53 | 2023-05-18 | 2023-07-07 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-05-25 | 2023-09-22 |
 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 | 2022-06-16 | 2022-12-05 |
@@ -454,7 +455,7 @@
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 | 2022-07-29 |
 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2023-06-01 |  |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-09-08 | 2023-02-17 |
-| [Try That In A Small Town](https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Try That In A Small Town](https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO) | 3:00 | 2023-05-25 |  |
+| [Try That In A Small Town](https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Try That In A Small Town](https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO) | 3:00 | 2023-05-25 | 2023-11-17 |
 | [Try To Forget You](https://open.spotify.com/track/1lYZtEEGD1UtpSiT9J8Dtc) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Try To Forget You](https://open.spotify.com/album/1SrKEKh22rvCW04I33xlHb) | 3:06 | 2023-02-23 | 2023-06-23 |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-01-27 | 2022-04-22 |
 | [Unforgivingly Me](https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Unforgivingly Me](https://open.spotify.com/album/01hoYJaRqNuMi06xhfvcLF) | 2:56 | 2023-03-30 | 2023-06-16 |
@@ -487,6 +488,7 @@
 | [Wide Open](https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Wide Open](https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x) | 3:09 | 2023-07-17 | 2023-09-15 |
 | [Wild As Her](https://open.spotify.com/track/1z6tm5brz2j2CFmD8EZzLm) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/1NnTbVXoZVccmFpDrsyqPA) | 3:01 | 2022-03-31 | 2022-07-22 |
 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 | 2021-12-30 | 2022-02-01 |
+| [Wild Mama](https://open.spotify.com/track/0L6X8MYQRuhPOsq8p2VJFS) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Wild Mama](https://open.spotify.com/album/4WTG0Ws7pne2qQvRePZxus) | 3:41 | 2023-11-16 |  |
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-05 |  |
 | [Wildfires \(feat\. Ian Moss\)](https://open.spotify.com/track/1tzga9gxw04e70G72qMtd3) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM), [Ian Moss](https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u) | [Acres](https://open.spotify.com/album/7i5lVXY0ro1Y94G6AqlS2e) | 2:59 | 2023-05-04 | 2023-07-14 |
 | [Wine Me Up](https://open.spotify.com/track/3ZJbbe2uezoIchAt5UbE52) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Wine Me Up](https://open.spotify.com/album/3pXtrKr3AdwgyBifPpuSLq) | 2:46 | 2022-09-08 | 2022-11-18 |

@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm"
+      },
+      "artists": [
+        {
+          "name": "Planet boy Beatz",
+          "url": "https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH"
+    },
+    {
+      "album": {
         "name": "Love Pill",
         "url": "https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub"
       },

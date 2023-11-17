@@ -2,7 +2,7 @@
 
 ### [Rock Covers](https://open.spotify.com/playlist/37i9dQZF1DX2S9rTKTX6JP)
 
-> Sometimes a cover can be even better than the original\. You decide\. Cover: Fall Out Boy
+> Sometimes a cover can be even better than the original\. You decide\. Cover: Duran Duran
 
 309 songs - 19 hr 52 min
 

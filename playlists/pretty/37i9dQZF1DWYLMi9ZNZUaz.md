@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,702 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,786 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 |
 | 50 | [Khu Tao Sống](https://open.spotify.com/track/14khFA3ijq29og5P6GJqDP) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Khu Tao Sống](https://open.spotify.com/album/215gdadHh4OlcH03JBF7GB) | 4:04 |
 
-Snapshot ID: `MCw3NzAyYTZjYmE1YWQ3ZWIzNWFkNzBmYzc3NjBhYTdiNTcxZDk4MjE2`
+Snapshot ID: `MCw0MDljY2I1M2MzNjVhNzkzMDk3ZTk2ZDU3NzZmOTAwZGM2OWZmYzVh`

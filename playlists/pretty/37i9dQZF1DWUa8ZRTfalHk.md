@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: PinkPantheress & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,137,400 likes - 87 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,138,120 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 86 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 |
 | 87 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
 
-Snapshot ID: `MCw5N2NkY2UxYjVhYzU0MzJkNzQ1YzcwZWJhMDRlZDZiZWM1OWQ1MThi`
+Snapshot ID: `MCxiMmY5M2IwNWQ2YjYxYzAzMGU3MjRlMTg5MjYxOTJhOWE5YTk4ZTlh`

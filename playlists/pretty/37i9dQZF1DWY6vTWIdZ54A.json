@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 485563,
+  "num_followers": 485623,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk",
+  "snapshot_id": "MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hollow Bones",
         "url": "https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 207359,
       "name": "Tied Up",
       "url": "https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Pressure & Time",
-        "url": "https://open.spotify.com/album/7uVg7wY0NO9dtxGQOgxZgA"
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
       "artists": [
         {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 196773,
-      "name": "Pressure and Time",
-      "url": "https://open.spotify.com/track/01qLRZjy5hnWDdqKuM6AJh"
+      "duration_ms": 179447,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 179447,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "-!- (Deluxe)",
         "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 224306,
       "name": ".CoDA.",
       "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Pressure & Time",
+        "url": "https://open.spotify.com/album/7uVg7wY0NO9dtxGQOgxZgA"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Pressure and Time",
+      "url": "https://open.spotify.com/track/01qLRZjy5hnWDdqKuM6AJh"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Sea of Cowards",
+        "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "I Can't Hear You",
+      "url": "https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "daphne did it / the depths",
         "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 217066,
       "name": "Hard Working Man",
       "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Sea of Cowards",
-        "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "I Can't Hear You",
-      "url": "https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hannah Wicklund & The Steppin Stones",
         "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 164645,
       "name": "Bomb Through the Breeze",
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210850,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "LUCKY PENNY",
         "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210850,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Phosphene Dream",
         "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 218560,
       "name": "Entrance Song",
       "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "duration_ms": 187890,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1351,22 +1367,6 @@
       "duration_ms": 186933,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n"
-      },
-      "artists": [
-        {
-          "name": "JJ Wilde",
-          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
-        }
-      ],
-      "duration_ms": 187890,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Double Life",
-        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 143712,
-      "name": "Double Life",
-      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1475,6 +1459,22 @@
       "duration_ms": 176373,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 143712,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
     },
     {
       "added_at": "2023-09-22 00:56:58",

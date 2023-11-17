@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191543,
+      "name": "Ain't Hard To Tell",
+      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
+    },
+    {
+      "album": {
         "name": "Airborne Panic Attack",
         "url": "https://open.spotify.com/album/5FdmmdyUz9j9B4sE3iRZ1v"
       },
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 194355,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl"
@@ -4446,7 +4464,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 199583,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/2f3oU7cZayaEMrEENEeaDf"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 279284,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 142760,
       "name": "Medication",
       "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
@@ -8294,7 +8312,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 224773,
       "name": "Victim",
       "url": "https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk"

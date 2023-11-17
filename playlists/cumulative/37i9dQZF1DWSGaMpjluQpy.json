@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/1baTg9J8Uzw1ba3UjShsBt"
+      },
+      "artists": [
+        {
+          "name": "Zoe Rei",
+          "url": "https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188036,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/2YXw0ruvR2FhKdFyumhvYI"
+    },
+    {
+      "album": {
         "name": "Regnig Jazz",
         "url": "https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp"
       },

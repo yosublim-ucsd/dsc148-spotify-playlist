@@ -1056,10 +1056,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 99533,
       "name": "Five Little Monkeys",
       "url": "https://open.spotify.com/track/1Cx3wEBRVnepDsjbOFbFzO"
+    },
+    {
+      "album": {
+        "name": "Kids Road Trip",
+        "url": "https://open.spotify.com/album/6yx2Pda5LExOqJvJTkUfBe"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99533,
+      "name": "Five Little Monkeys",
+      "url": "https://open.spotify.com/track/6JXrKmSeYSM4AhmJMO34fd"
     },
     {
       "album": {

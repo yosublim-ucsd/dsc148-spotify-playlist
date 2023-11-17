@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,717 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,740 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 54 | [どんだけー！小西マン](https://open.spotify.com/track/5AbcqHXOlO6jUwhKEb14rp) | [Ko\-saku](https://open.spotify.com/artist/7KHGYuxI4FmyuoY2680SeN) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 1:10 |
 | 55 | [ハードボイルド同心 小銭形平次のテーマ壱](https://open.spotify.com/track/1BV0Qknxsm8zaQYlX25oxW) | [小銭形平次\(CV.石塚運昇\)](https://open.spotify.com/artist/7vZh1NQdV2G3srvR0Ca3Z7) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 0:20 |
 | 56 | [DESTINY](https://open.spotify.com/track/509zVXuBtSpsHTQlxsIrcV) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [DESTINY](https://open.spotify.com/album/40wxXoU6DjUDVoxfFUUjOZ) | 4:08 |
-| 57 | [プライド革命](https://open.spotify.com/track/2UfQ8bejhARFxIOUCScLsD) | [Chico](https://open.spotify.com/artist/4Q9qjVl2sT6IsEU7Npd5k8), [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:55 |
+| 57 | [プライド革命](https://open.spotify.com/track/2UfQ8bejhARFxIOUCScLsD) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL), [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:55 |
 | 58 | [最後までII](https://open.spotify.com/track/5Wnth7BblXc89BBirOQXOj) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [最後までII](https://open.spotify.com/album/47lqQu1ixkWHyvjj8LNWEP) | 4:21 |
 | 59 | [Beautiful Days](https://open.spotify.com/track/2Xp2VP7RS5z5fKJgEN9tYd) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Beautiful Days](https://open.spotify.com/album/1KBRny9ik8UTkE84f8oAdj) | 3:52 |
 | 60 | [グロリアスデイズ](https://open.spotify.com/track/0wsgQQJ4MVe9jvXwZ88XeC) | [THREE LIGHTS DOWN KINGS](https://open.spotify.com/artist/3IN5Twv2f6MM4yIyhwHIIo) | [グロリアスデイズ](https://open.spotify.com/album/4VjYWDTjfuIX4u5oPugu16) | 3:58 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 86 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
 | 87 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 
-Snapshot ID: `MCw4YTIyZmIzNTVkZThiNmQxM2FlM2M4ZjRkOTMyOWM4NjdhZGRmMmRi`
+Snapshot ID: `MCw0MGRjZGU0OTUzMmQyNjBiMzc3YTA4NTg1MjU4ZjdhMDg1ZDUwODJm`

@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 46431,
+  "num_followers": 46460,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmQ1YTg0NGI0ZmI1NTUxYjk5NGYxYWQwMTBkZjdlZWMyMWYyMGYw",
+  "snapshot_id": "MCxkMGZjYjFjN2Y3YjRiZTYwNDRjNzJlNDlmNTU4MGI1YjkzMmViM2Y4",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Don't Haffi Dread",
-        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Heritage",
-          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
-        }
-      ],
-      "duration_ms": 238550,
-      "name": "Don't Haffi Dread",
-      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Extra Raw: The First Lady Of Dancehall",
         "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+        "name": "Don't Haffi Dread",
+        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
       },
       "artists": [
         {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
         }
       ],
-      "duration_ms": 217573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
+      "duration_ms": 238550,
+      "name": "Don't Haffi Dread",
+      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -651,6 +635,22 @@
       "duration_ms": 310173,
       "name": "Stop That Train",
       "url": "https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -703,6 +703,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Differentology",
         "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 234720,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
     },
     {
       "added_at": "2020-10-19 09:02:25",

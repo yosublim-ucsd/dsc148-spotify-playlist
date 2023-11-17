@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,692 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,699 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 18 | [Fuga \(Repeat 4ever\)](https://open.spotify.com/track/46R1d7oUNmmped1zNKrRvV) | [Olalla.lux](https://open.spotify.com/artist/0PYhG5IGj1YdShFBQnv3r7), [Hugo Calcio](https://open.spotify.com/artist/6IJkwXqB0Nkx0rHHTgpdhu) | [Fuga \(Repeat 4ever\)](https://open.spotify.com/album/71UGPoCIX41e1uNELpI7P3) | 2:02 |
 | 19 | [Speakers](https://open.spotify.com/track/5M0gfdsqjfBoZRTYnPIJTx) | [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA), [Pura Pura](https://open.spotify.com/artist/3MCAFjmV9DblN9ECzKIciU) | [Speakers/Rift Estate](https://open.spotify.com/album/4hABiHFaQzm4PLAiffvR2v) | 2:48 |
 | 20 | [Not Int](https://open.spotify.com/track/7jYbbovIuaM9Pdipiprw27) | [Nastia Reigel](https://open.spotify.com/artist/4jdGTgmlRjIXreuTLKoO4m) | [Break a Fancy Vase](https://open.spotify.com/album/1GGwMxXSl9AjW3CcGEl425) | 5:48 |
-| 21 | [Trivago Slough](https://open.spotify.com/track/7x14QwlaT2SppYdYMBm5jN) | [C\. Powers](https://open.spotify.com/artist/2VqRsA0qBsFW94kCJPOKTV) | [Teargas Neighborhood](https://open.spotify.com/album/2dOcpA8c9kZLw1rVbyPKIC) | 4:13 |
+| 21 | [Trivago Slough](https://open.spotify.com/track/7x14QwlaT2SppYdYMBm5jN) | [C Powers](https://open.spotify.com/artist/2VqRsA0qBsFW94kCJPOKTV) | [Teargas Neighborhood](https://open.spotify.com/album/2dOcpA8c9kZLw1rVbyPKIC) | 4:13 |
 | 22 | [Rolla Dex](https://open.spotify.com/track/3akb2K8zi2slSAib0sBmXj) | [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Push The Body](https://open.spotify.com/album/6PYKwF2iQJqKCmdlIVGOBI) | 5:23 |
 | 23 | [Badders](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Badders](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 |
 | 24 | [Crystal Wonders](https://open.spotify.com/track/2ZJ9M6258T9yyTKBwg4Vyn) | [FMSAO](https://open.spotify.com/artist/6Zn5oumrPxS3fq3oxvOjzJ) | [Tales of Severe Damage](https://open.spotify.com/album/2rEId06UIFvktn1uDiS43Y) | 3:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 51 | [Flashbang](https://open.spotify.com/track/1xo8cLjroJVSng6nd9uQSI) | [KREEATE](https://open.spotify.com/artist/2Lb4pzj23LS4JDOmMIfoGU) | [Flashbang](https://open.spotify.com/album/6W1OclPEAU9iGy4xC80d9y) | 5:29 |
 | 52 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 
-Snapshot ID: `MCw0YzZlNzVkNTdmMWNjY2IzNmI0NDFhNDE5YzNjNmE3MjUwZDI1MDI2`
+Snapshot ID: `MCw0ZWRjNzczOTBjM2VlMTdhYjE0NWVmMTkzZjE5MWNjMTM4MTg4ODU5`

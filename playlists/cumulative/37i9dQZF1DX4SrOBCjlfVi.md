@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Jack Harlow, Kodak Black, Youngboy NBA, and more\. Cover: Meek Mill & Rick Ross
 
-3,952 songs - 7 day 16 hr 38 min
+3,953 songs - 7 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1943,7 +1943,8 @@
 | [Legal Sins](https://open.spotify.com/track/513IPuqvC7V8XHTbIe6EWw) | [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Legal Sins](https://open.spotify.com/album/4sgCJKD6I8VxRoaD1RpC8d) | 3:30 | 2022-02-25 | 2022-03-05 |
 | [Legendary](https://open.spotify.com/track/7dFIUaovJ1U3Ey4dHV0IcY) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Legendary](https://open.spotify.com/album/5UfVCzzsMDdam2tutHmUbn) | 2:12 | 2023-03-17 | 2023-03-25 |
 | [Legitimate](https://open.spotify.com/track/4481asU8i7Er5HV5Wi3wV5) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [111th East](https://open.spotify.com/album/12hhyQxtPLlfI1aTxGv7oR) | 2:46 | 2022-07-01 | 2022-07-09 |
-| [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 |  |
+| [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2023-11-17 |
+| [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-10 |  |
 | [LEMONADE](https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:59 | 2022-04-08 | 2022-04-16 |
 | [Lenny Cooke](https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/6jdxGiQy5ZulPW0IoAwDoX) | 2:27 | 2023-09-29 | 2023-10-07 |
 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 | 2022-09-16 | 2022-09-24 |

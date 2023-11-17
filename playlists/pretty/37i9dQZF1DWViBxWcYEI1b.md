@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Matt Hansen
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,297 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,336 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 100 | [favorite kind of high](https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:55 |
 | 101 | [Parallel](https://open.spotify.com/track/6gOVpgsAf80mReuix9Inxt) | [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Parallel](https://open.spotify.com/album/3NLfyLsd28UzhllOrsPhlv) | 3:46 |
 
-Snapshot ID: `MCxjMDM1MzRmZGEwOWE3YmY4NWNkNjVmYjk2ZWI1MzM2MTc1ZThiZGZl`
+Snapshot ID: `MCwxOTY2MjY0MGIyMTQ4MDM3ZjUzMzYzZTg0MzMyNzU3OWZjMTg0ZmY4`

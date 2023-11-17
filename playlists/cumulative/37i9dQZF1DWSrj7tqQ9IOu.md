@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Zélie
+> The best French indie tracks right now\. Cover : Adèle Castillon
 
-417 songs - 22 hr 51 min
+420 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-08 | 2023-11-03 |
 | [a ride](https://open.spotify.com/track/7zIynZNxk2CBmIkjp1CcjP) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [a ride](https://open.spotify.com/album/4KUa7MP6XTWP3qJfh4VPcT) | 2:54 | 2022-08-25 | 2022-09-09 |
-| [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 | 2023-09-14 |  |
+| [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 | 2023-09-14 | 2023-11-17 |
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-06-30 | 2023-03-25 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-10 | 2022-12-24 |
 | [Aidono](https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Aidono](https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T) | 3:50 | 2022-11-10 | 2023-01-20 |
@@ -60,6 +60,7 @@
 | [Call My Name](https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Call My Name](https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K) | 3:40 | 2022-12-01 | 2023-01-06 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2022-12-15 | 2023-04-07 |
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 | 2022-04-15 |
+| [Can't Get You Out Of My Mind](https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Can't Get You Out Of My Mind](https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca) | 4:16 | 2023-11-16 |  |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-02 |  |
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 | 2022-05-20 |
 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 | 2023-10-05 |  |
@@ -141,6 +142,7 @@
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
 | [Hello Mr Slender Man](https://open.spotify.com/track/6iI3dQJVOs6zeRbOIyjdw0) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Hello Mr Slender Man](https://open.spotify.com/album/3y8Q2pVIu3SoPWsGYGshOH) | 2:47 | 2023-06-01 | 2023-06-30 |
 | [Hey Boy](https://open.spotify.com/track/28goX2uKr53LeijjP2waQV) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Hey Boy](https://open.spotify.com/album/1KnLWdAOEeuSF4wGSdbas0) | 3:49 | 2022-06-23 | 2022-08-26 |
+| [Hey Lou](https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Hey Lou](https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2) | 3:40 | 2023-11-16 |  |
 | [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-06-22 | 2023-10-13 |
 | [Hiroshima](https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Hiroshima](https://open.spotify.com/album/5DGO0wF5Sn3uXMTModz4p9) | 2:46 | 2022-10-13 | 2022-12-16 |
 | [Holidays](https://open.spotify.com/track/2R0tA1s4ZzSqrgBDMMCXZl) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [Pirogue](https://open.spotify.com/album/41akXmvvyrc6hd7P3zfnfn) | 3:41 | 2022-04-14 | 2022-07-01 |
@@ -288,7 +290,7 @@
 | [Pampa](https://open.spotify.com/track/2JHWd0U5QENovcGYjwsE1g) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Pampa](https://open.spotify.com/album/3fhGVkv2gwWWqibMwPcDHN) | 3:22 | 2022-04-21 | 2022-09-09 |
 | [Paraiso](https://open.spotify.com/track/11kPRHkZCTgudM8Xyr1KXu) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Paraiso](https://open.spotify.com/album/3XzAkdhEehbZ38bOhHbloj) | 3:17 | 2023-03-02 | 2023-03-25 |
 | [Paris](https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Paris](https://open.spotify.com/album/0hzxwjmrSYnUIhaQElBQMj) | 2:44 | 2022-12-22 | 2023-03-25 |
-| [Paris cyclone](https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N) | 2:51 | 2023-10-12 |  |
+| [Paris cyclone](https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N) | 2:51 | 2023-10-12 | 2023-11-17 |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 | 2022-08-25 | 2023-01-20 |
 | [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
@@ -307,7 +309,8 @@
 | [Premonitions](https://open.spotify.com/track/7hNRsJNe5XSRm8TI4QuZi8) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Premonitions](https://open.spotify.com/album/6aeZHE4ppb4tCzNlDTH91i) | 3:41 | 2023-11-02 |  |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Puzzle](https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Puzzle](https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY) | 3:28 | 2023-03-09 | 2023-10-06 |
-| [QUESTIONS\. N4.23](https://open.spotify.com/track/1EO9ajG5uaGyNEtkNNWq1J) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [QUESTIONS\. N4.23](https://open.spotify.com/album/5B9lfPhUwNsMx4vsNl28Ac) | 3:22 | 2023-06-29 |  |
+| [Qu'est\-ce que j'y peux](https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Qu'est\-ce que j'y peux](https://open.spotify.com/album/2lXxEzMqi73YHiFywsxz3k) | 3:08 | 2023-11-16 |  |
+| [QUESTIONS\. N4.23](https://open.spotify.com/track/1EO9ajG5uaGyNEtkNNWq1J) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [QUESTIONS\. N4.23](https://open.spotify.com/album/5B9lfPhUwNsMx4vsNl28Ac) | 3:22 | 2023-06-29 | 2023-11-17 |
 | [RBH](https://open.spotify.com/track/7s2kizsNmMzKoJXTkxGTRj) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [RBH](https://open.spotify.com/album/1Ur9lpwWAuK90MoUyNtLK0) | 4:16 | 2023-03-09 | 2023-04-07 |
 | [RDV](https://open.spotify.com/track/5rFfq3wabTZxIq9nxehZ5P) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [RDV](https://open.spotify.com/album/10Pk5LsFeQG9YYkrK9A6fa) | 2:41 | 2023-07-06 |  |
 | [Ready Baby](https://open.spotify.com/track/0W27iECtGTgI94wQOiJGEm) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Ready Baby](https://open.spotify.com/album/1acFnL6yQpen1hzMX2RGyT) | 3:19 | 2023-06-22 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Naura Ayu
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Aziz Hedra
 
-176 songs - 11 hr 16 min
+177 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 | 2022-07-28 | 2023-04-14 |
 | [In Situ](https://open.spotify.com/track/6pNdQ1iQsK2z3nJeWoU7Ba) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ](https://open.spotify.com/album/54ku7s6zlpt1KoTR8raxp6) | 3:45 | 2022-03-24 | 2023-04-14 |
 | [In Situ \(Remix Version\)](https://open.spotify.com/track/2BzHGy5g8keLdzk18JWd1n) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ \(Remix Version\)](https://open.spotify.com/album/33Wa80qjHTh7UnaxyT0i7N) | 3:00 | 2023-01-26 | 2023-04-14 |
+| [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2023-11-16 |  |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 | 2023-04-14 |
 | [Jaga Hati Ini](https://open.spotify.com/track/1RV4ibzfQKOYisbT5GY3Mg) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm), [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:17 | 2023-04-13 |  |
 | [Jakarta Hari Ini](https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Get Closer with For Revenge](https://open.spotify.com/album/6S5wissFJVU7kyPv6O4sqd) | 3:37 | 2023-04-13 |  |

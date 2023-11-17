@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: svegliaginevra
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,692 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,697 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 24 | [aula stretta](https://open.spotify.com/track/4zQ005lpriarZU7F4WwqCY) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [aula stretta](https://open.spotify.com/album/3yt5j00esQ6bwVgDB3ruKg) | 2:55 |
 | 25 | [Koala](https://open.spotify.com/track/3dvc2alQsbI9yOJgHCgGaD) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Obi](https://open.spotify.com/artist/397C43QkYq9EVsZCkhh84L) | [Koala](https://open.spotify.com/album/16n5szWljslh8FIDKOg6zB) | 3:00 |
 | 26 | [amore/squallore](https://open.spotify.com/track/1XnatIIfDsklJ9Mmz5qci0) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [amore/squallore](https://open.spotify.com/album/1E3atzTv47V9738zZvx0px) | 2:55 |
-| 27 | [Restiamo A Guardare](https://open.spotify.com/track/1GYR1T4PSHtkElGyahDDqu) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I) | [Restiamo A Guardare](https://open.spotify.com/album/49PSQYzOyKjwIGZSUwzxR5) | 2:09 |
+| 27 | [Restiamo A Guardare](https://open.spotify.com/track/1GYR1T4PSHtkElGyahDDqu) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [Restiamo A Guardare](https://open.spotify.com/album/49PSQYzOyKjwIGZSUwzxR5) | 2:09 |
 | 28 | [FAT](https://open.spotify.com/track/4TLOGF37OKLeNkvCeFaohW) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [FAT](https://open.spotify.com/album/6AEugZyw2iAaoVGEgNdbdI) | 3:00 |
 | 29 | [Tu](https://open.spotify.com/track/7qySMmsuLCAlEugqK01BzT) | [Johana](https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91) | [Tu](https://open.spotify.com/album/4EEAV92EzAKWduyIKWyVMb) | 2:21 |
 | 30 | [XOXO](https://open.spotify.com/track/6jozqjEnIIgJHfcU7DCkfe) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [XOXO](https://open.spotify.com/album/3s8ZAoor3QKU1Se21RoT0s) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [2 vite in 1 minuto](https://open.spotify.com/track/54vG6nk5bN1C6ohD22wbon) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [2 vite in 1 minuto](https://open.spotify.com/album/1XI2p80TbQBJpPl5a5FOyv) | 3:01 |
 | 50 | [My Best](https://open.spotify.com/track/6IJXxt8NCCjiBIIoNEWeCG) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [My Best](https://open.spotify.com/album/5kzMtLRcuNtHU3Hwr09qoG) | 2:41 |
 
-Snapshot ID: `MCwwOThkOTExN2U4OGZhMGFkZjI2YjIwNWFhOWUzNzkxZDFhYWYwZGU2`
+Snapshot ID: `MCwzMGViY2YzNGY1MjExOGU2OWRlNzNlYzQ2MWNmMjcwNjczMzY3YWYz`

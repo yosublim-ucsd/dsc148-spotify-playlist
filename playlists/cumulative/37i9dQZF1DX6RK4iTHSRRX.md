@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-109 songs - 4 hr 21 min
+111 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,14 +62,16 @@
 | [In The Bleak Midwinter](https://open.spotify.com/track/1OqSragbUUlPg7WKF01prY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Blue Christmas](https://open.spotify.com/album/21w7OtjUD2N02608s1pYNE) | 2:12 | 2023-10-27 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/2yYTQ6Jjz9lSIcytWrdbTq) | [Ernie Rissmann](https://open.spotify.com/artist/6jc0zP2sIU3iDeJBYcH8jt) | [Silent Night \(Christmas Carols on Acoustic Guitar\)](https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7) | 2:09 | 2021-12-22 | 2023-10-27 |
 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/4e37raAOz628uYyP41jW77) | [Unplugged](https://open.spotify.com/artist/2zWN3tPCwG3g59tOvIZPXY) | [Acoustic Christmas](https://open.spotify.com/album/7z4ULIFjxpGEBwePyr9Aki) | 2:42 | 2021-12-22 |  |
-| [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 | 2021-12-22 |  |
+| [It Came Upon a Midnight Clear](https://open.spotify.com/track/3CQr9je6lodUVdrZXAkdQr) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [It Came Upon a Midnight Clear](https://open.spotify.com/album/78QZDSa0cAbMCXumjzbbQl) | 2:42 | 2023-11-17 |  |
+| [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 | 2021-12-22 | 2023-11-17 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/1zo1WCdXM70TiBJHuyPdrK) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:19 | 2021-12-22 | 2023-10-27 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3ry6n349kyaCvCfUUPHiDc) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7q2FCx4GuSOPTZpuz5sBV1) | 3:18 | 2023-10-27 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/6t68rLj181LJxc9uq8L9CK) | [Pamela Shay](https://open.spotify.com/artist/6yZOUT42GLUyzTOhPjH8eY) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/6X6sd5OTjpelj3Yt7AZGGB) | 2:01 | 2021-12-22 | 2023-09-14 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/5Cz9y0oIZYZ2Z0Iw2QfDfn) | [Sebastien Haut](https://open.spotify.com/artist/0450HZEyW3HwJD7P7QmcEm) | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/album/6Vy0z6meXhBNGgsHKCRJHw) | 2:28 | 2022-11-11 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4LkGFlV1izCeRL1HWIvY8a) | [Kelley Bern](https://open.spotify.com/artist/7GeVyZTaBYvM4Jn1wkLQQ4) | [Classical Guitar Christmas](https://open.spotify.com/album/4orCYHK2ncSRThz48Bns8o) | 3:29 | 2021-12-22 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/3MboDieu1S5uxPQKHFpjyS) | [Kelley Bern](https://open.spotify.com/artist/7GeVyZTaBYvM4Jn1wkLQQ4) | [Classical Guitar Christmas Vol\. 2](https://open.spotify.com/album/4EqbkKP99UGtf0zHXKiTI6) | 3:30 | 2021-12-22 | 2022-07-29 |
-| [Jingle Bell Rock](https://open.spotify.com/track/1XQuEs30VUufnkgDgUcyDj) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:08 | 2021-12-22 |  |
+| [Jingle Bell Rock](https://open.spotify.com/track/1XQuEs30VUufnkgDgUcyDj) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:08 | 2021-12-22 | 2023-11-17 |
+| [Jingle Bell Rock](https://open.spotify.com/track/2LDHmclmowVSztpVer3qhD) | [Constantine](https://open.spotify.com/artist/3zV8rff53dNXMVot6aca7h) | [Jingle Bell Rock](https://open.spotify.com/album/7vWJjd4Xa3AyAHmzS6DWMc) | 2:40 | 2023-11-17 |  |
 | [Jingle Bells](https://open.spotify.com/track/6nXBOfjXQfU1LuNPNDSa2L) | [Thomas Goran](https://open.spotify.com/artist/7G2JO0YKokgwGDFCdqBIxQ) | [My Christmas Tree](https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY) | 1:34 | 2021-12-22 |  |
 | [Joy To The World](https://open.spotify.com/track/2NjzUWcGx23mzft2N2kkZI) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Joy To The World](https://open.spotify.com/album/5zIDMV2FDJ7uOJq6N0B4Nc) | 1:28 | 2021-12-22 |  |
 | [Last Christmas](https://open.spotify.com/track/2bMTaFsvRxO05fjCKEc0Sn) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Last Christmas](https://open.spotify.com/album/7c8HuqoBKlSFFIDhJS1ehD) | 1:57 | 2021-12-22 |  |

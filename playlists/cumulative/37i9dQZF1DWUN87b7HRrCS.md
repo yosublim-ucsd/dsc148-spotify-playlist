@@ -4,13 +4,14 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-85 songs - 5 hr 33 min
+87 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bossa for Love](https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Smile For Me](https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK) | 3:30 | 2023-08-17 |  |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2023-05-11 |  |
 | [Above the Clouds](https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:00 | 2023-08-24 |  |
+| [Anita's Dream](https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Anita's Dream](https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b) | 3:07 | 2023-11-17 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2023-05-11 |  |
 | [Boomerang](https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Boomerang](https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb) | 3:27 | 2023-10-06 |  |
 | [Brisa](https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Amalgama](https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN) | 6:24 | 2023-05-11 |  |
@@ -74,6 +75,7 @@
 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2023-05-11 |  |
 | [Saudade](https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Saudade](https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu) | 2:40 | 2023-10-20 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-05-11 |  |
+| [Sombra La Lua](https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Sombra La Lua](https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5) | 3:46 | 2023-11-17 |  |
 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 | 2023-05-11 |  |
 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 | 2023-05-11 |  |
 | [Strangers in the Night](https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Strangers in the Night](https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs) | 2:50 | 2023-05-11 |  |

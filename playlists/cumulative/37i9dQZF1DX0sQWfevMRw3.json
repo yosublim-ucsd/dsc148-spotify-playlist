@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "ALLA SOM VILL LEKA",
+        "url": "https://open.spotify.com/album/7CLvBf2yCLXR7nmzv3yaW1"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156206,
+      "name": "ALLA SOM VILL LEKA",
+      "url": "https://open.spotify.com/track/2tF0hgXyVxUoWMOoUm97Va"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7lTBci4cO9i9oBbe5MIBBC"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 156800,
       "name": "BRUDMAGNET",
       "url": "https://open.spotify.com/track/7xtvBMeE33uhIhnCBVbTcN"
@@ -2473,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Den lilla l\u00e5gan av eld",
+        "url": "https://open.spotify.com/album/3qzU62442KiaSwYIaNJnPQ"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Den lilla l\u00e5gan av eld",
+      "url": "https://open.spotify.com/track/2IRrBDGOZedNN5Kq0fFKIs"
+    },
+    {
+      "album": {
         "name": "DET ENDA JAG VILL G\u00d6RA",
         "url": "https://open.spotify.com/album/0AiTt9GdapJbyq0Skglav5"
       },
@@ -2710,7 +2746,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 132666,
       "name": "DISKOTEKA",
       "url": "https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz"
@@ -3808,7 +3844,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 136000,
       "name": "EN GAMMAL AMAZON",
       "url": "https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll"
@@ -4036,6 +4072,32 @@
       "duration_ms": 156325,
       "name": "EPA ANTHEM",
       "url": "https://open.spotify.com/track/1a2heLjas6cQZ3IV5hUEI0"
+    },
+    {
+      "album": {
+        "name": "EPA EPA",
+        "url": "https://open.spotify.com/album/6isFJLes3gZndtQyhfvTvD"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        },
+        {
+          "name": "DJ DUNK",
+          "url": "https://open.spotify.com/artist/3xZIABI7kdGYETfS4fSbOI"
+        },
+        {
+          "name": "Julia Kedhammar",
+          "url": "https://open.spotify.com/artist/24JKr8xzxciKUmpx8fu8AY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "EPA EPA",
+      "url": "https://open.spotify.com/track/0SWGVCDhgFJcfwP2D2dxym"
     },
     {
       "album": {
@@ -4616,6 +4678,32 @@
       "duration_ms": 126923,
       "name": "FEL NAMN",
       "url": "https://open.spotify.com/track/4XvEzI5L5FhmwOOYNUSWMH"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/4AhJlpBAo88WDTcHzgbtaF"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "DANJAL",
+          "url": "https://open.spotify.com/artist/4HUyn4KZwjD66czjxk8SxN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180389,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/405KFcAcNc9qIx4OB3ymjz"
     },
     {
       "album": {
@@ -5430,6 +5518,28 @@
       "duration_ms": 144750,
       "name": "Full som en kastrull",
       "url": "https://open.spotify.com/track/5wIPWSYnyYy3YligvwXyNc"
+    },
+    {
+      "album": {
+        "name": "FULLARE \u00c4N SATAN",
+        "url": "https://open.spotify.com/album/3cfTUoDsc5neQ1b26CVTLP"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148322,
+      "name": "FULLARE \u00c4N SATAN",
+      "url": "https://open.spotify.com/track/6o8Eot8XTwsoIS9sQ6MVV1"
     },
     {
       "album": {
@@ -6860,6 +6970,24 @@
       "duration_ms": 132064,
       "name": "Hej Alla Raggare",
       "url": "https://open.spotify.com/track/294hfH0VbX7jwv4PcyOlgb"
+    },
+    {
+      "album": {
+        "name": "HEJ TOMTEGUBBAR",
+        "url": "https://open.spotify.com/album/79v6HVrdfIocyZPcFgi6IO"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "HEJ TOMTEGUBBAR",
+      "url": "https://open.spotify.com/track/3c0besSUqbItxZ9oWchwC2"
     },
     {
       "album": {
@@ -9112,7 +9240,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 158400,
       "name": "K\u00d6RV",
       "url": "https://open.spotify.com/track/4NkBhWCx368rEmeJTorBRo"
@@ -9294,7 +9422,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 123488,
       "name": "LATJOLAJBAN",
       "url": "https://open.spotify.com/track/4UKToZjQgwqj9siXsFnCe0"
@@ -9382,7 +9510,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 153053,
       "name": "Leende guldbruna \u00f6gon (N!NE EPA Remix)",
       "url": "https://open.spotify.com/track/1hT82azpl8svlpfRA9b4Zx"
@@ -10395,6 +10523,24 @@
     },
     {
       "album": {
+        "name": "Du \u00e4r s\u00e5 s\u00f6t, min k\u00e4ra lilla ponny",
+        "url": "https://open.spotify.com/album/1oPeMx3wcZuzr6WM4720AB"
+      },
+      "artists": [
+        {
+          "name": "Dolores",
+          "url": "https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Min Ponny (min k\u00e4ra lilla ponny)",
+      "url": "https://open.spotify.com/track/3nlmYsWXQLcsXOWJEPc21E"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/098FaVNDWnOYMluE1uEFA8"
       },
@@ -10534,6 +10680,24 @@
       "duration_ms": 166391,
       "name": "Motorola",
       "url": "https://open.spotify.com/track/0MJcz6AjlF7uJyPoxe2zzc"
+    },
+    {
+      "album": {
+        "name": "MOTVIND",
+        "url": "https://open.spotify.com/album/0Bpzk7XdNZi6ifWOMxKdCL"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "MOTVIND",
+      "url": "https://open.spotify.com/track/6rcTOCXzLFVMK9rxfm8WOu"
     },
     {
       "album": {
@@ -12329,6 +12493,24 @@
     },
     {
       "album": {
+        "name": "Raggar-Ren",
+        "url": "https://open.spotify.com/album/5yztW4IgxhbtujBhwB9bfh"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142380,
+      "name": "Raggar-Ren",
+      "url": "https://open.spotify.com/track/1AU50cPvCOvuSrQ6CI1R2n"
+    },
+    {
+      "album": {
         "name": "Raggarbil",
         "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
       },
@@ -12748,7 +12930,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 106000,
       "name": "RAGGAR\u00d6VARE",
       "url": "https://open.spotify.com/track/5kGuNbNtvv5NeeriVTKi04"
@@ -13263,6 +13445,32 @@
     },
     {
       "album": {
+        "name": "RULLA MED MIG",
+        "url": "https://open.spotify.com/album/46RVSyoZ87uLMJYc4Jo2YT"
+      },
+      "artists": [
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        },
+        {
+          "name": "Lurifaks",
+          "url": "https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK"
+        },
+        {
+          "name": "Lirare",
+          "url": "https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "RULLA MED MIG",
+      "url": "https://open.spotify.com/track/7AYd3bkvwgf4Z7lk8L9AG2"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2jGilBxBmfAiXeMqypCpH6"
       },
@@ -13352,7 +13560,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 139027,
       "name": "SALONGEN",
       "url": "https://open.spotify.com/track/2TdCU5V5PoHkGZ4TrcJWif"
@@ -13616,7 +13824,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 199718,
       "name": "Se p\u00e5 mig - INWHITE Remix",
       "url": "https://open.spotify.com/track/3DIB5yAdk6RnnBMjJPk9my"
@@ -13876,6 +14084,24 @@
       "duration_ms": 117691,
       "name": "SIMPER ALLTID F\u00d6R DIG",
       "url": "https://open.spotify.com/track/2FQpk0L3AUMuT53j5x3GDC"
+    },
+    {
+      "album": {
+        "name": "Sista flaskan",
+        "url": "https://open.spotify.com/album/2pjXF87QupfExLxUP1XUDx"
+      },
+      "artists": [
+        {
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169658,
+      "name": "Sista flaskan",
+      "url": "https://open.spotify.com/track/2SuATJjKTbCxHFCLE10Gmh"
     },
     {
       "album": {
@@ -14834,6 +15060,24 @@
       "duration_ms": 150000,
       "name": "Sprit & bubbel",
       "url": "https://open.spotify.com/track/1g7b4k2ADrqOZFkepFoU6G"
+    },
+    {
+      "album": {
+        "name": "Stackars Tomten",
+        "url": "https://open.spotify.com/album/1kUqtRM2afvY7ogV73DLmN"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167544,
+      "name": "Stackars Tomten",
+      "url": "https://open.spotify.com/track/0lCRFJLVVl6fJaEmFvqnwW"
     },
     {
       "album": {
@@ -16680,7 +16924,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 150895,
       "name": "Trevlig Helg",
       "url": "https://open.spotify.com/track/6lBqUzMey82byvP8pFpOfY"
@@ -17464,7 +17708,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 166408,
       "name": "VI SKA TILL MACKEN",
       "url": "https://open.spotify.com/track/4J2M7YknSzL0pisUVVKwMS"
@@ -17738,7 +17982,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 159642,
       "name": "V\u00c4LKOMMEN TILL BYN",
       "url": "https://open.spotify.com/track/0w8hszhninZ71K81uDxKAb"

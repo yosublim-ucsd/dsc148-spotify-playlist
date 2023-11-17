@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kTzeyVQOZK.md) - [plain]
 
 > Las mejores canciones de hip\-hop mexa del año, con Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,033 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,140 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kTzeyVQOZK.md) - [plain]
 | 8 | [Tocando Tierra](https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Lolita Ayala](https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 1:48 |
 | 9 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 |
 | 10 | [Se Me Olvidó](https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g) | 3:40 |
-| 11 | [WARZONE FREESTYLE](https://open.spotify.com/track/1r0Kw8tD2U85vkePWQdRV6) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:16 |
+| 11 | [WARZONE FREESTYLE](https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:16 |
 | 12 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 |
 | 13 | [Mi Tío Snoop](https://open.spotify.com/track/0LO25x6ME7wcnafsnObpDL) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:23 |
 | 14 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kTzeyVQOZK.md) - [plain]
 | 33 | [Valgo Vrga](https://open.spotify.com/track/6FVCc0zxpOsFLxUU97qIRF) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Valgo Vrga](https://open.spotify.com/album/5phWpZ6JIKq3O4b1UNwwsh) | 2:39 |
 | 34 | [High](https://open.spotify.com/track/1xVnUb8w5GG7zdyRUoTJTZ) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [The Good Trip Deluxe](https://open.spotify.com/album/46jzOHZDl2PjizEDddWSi0) | 2:40 |
 | 35 | [Bang Bang](https://open.spotify.com/track/3qFqaCPV6rXPahcr7IgWe3) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Bang Bang](https://open.spotify.com/album/1gLIwHzAQrID7wAqeWTIvX) | 2:30 |
-| 36 | [Round 6](https://open.spotify.com/track/3mHK8SNRle9jGTHwEw54we) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:36 |
+| 36 | [Round 6](https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:36 |
 | 37 | [Soy Cholo](https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [Soy Cholo](https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym) | 3:52 |
 | 38 | [Nunca Sabrás Cuánto](https://open.spotify.com/track/7bRhkyeYBACx1hMvUTahTg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ) | [Nunca Sabrás Cuánto](https://open.spotify.com/album/0dpeeNrvWMnq4GjG8xOe8J) | 4:37 |
 | 39 | [Casa en la Montaña 3](https://open.spotify.com/track/1bv7wjY1eVYRjkulzmqJP2) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Nark](https://open.spotify.com/artist/4mjXYIvLlviUNf2BEryIMF), [Seven](https://open.spotify.com/artist/4grvhYi44nIifNrJgSzit2), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3), [Blaze](https://open.spotify.com/artist/5XF8C0JpxRmie3MvAH3r6c) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 7:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kTzeyVQOZK.md) - [plain]
 | 49 | [6 Am](https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [6 Am](https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx) | 2:56 |
 | 50 | [Hijo de Papi](https://open.spotify.com/track/2lfdVNDoYFSl01zVfaH0cR) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:25 |
 
-Snapshot ID: `MCw1MTkwMzk3MTVlODJjMDIyMTk0ODdhNjUxYzIxNmFiMmNkMzY3NmU4`
+Snapshot ID: `MCw5Y2RiMmNmMWU0YTJlMTI3NWVkY2U2MTM4YWYyNzcwY2ViMjAyNjc5`

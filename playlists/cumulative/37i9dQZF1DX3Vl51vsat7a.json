@@ -471,6 +471,32 @@
     },
     {
       "album": {
+        "name": "Bahnhof",
+        "url": "https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Nate57",
+          "url": "https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163946,
+      "name": "Bahnhof",
+      "url": "https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO"
+    },
+    {
+      "album": {
         "name": "Bedroom Exile",
         "url": "https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ"
       },
@@ -962,6 +988,24 @@
       "duration_ms": 224033,
       "name": "coq au vin",
       "url": "https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b"
+    },
+    {
+      "album": {
+        "name": "Cover Up My Face",
+        "url": "https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204591,
+      "name": "Cover Up My Face",
+      "url": "https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG"
     },
     {
       "album": {
@@ -1489,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "FRANKENSTEIN",
+        "url": "https://open.spotify.com/album/2soZWSMd2glxCRjBNgrws2"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237179,
+      "name": "FRANKENSTEIN",
+      "url": "https://open.spotify.com/track/1TedN903wyVk0dX1gdiADm"
+    },
+    {
+      "album": {
         "name": "FRAULEIN B",
         "url": "https://open.spotify.com/album/0O8zVFS6l712Lct2D83ct2"
       },
@@ -1764,7 +1826,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 155538,
       "name": "good good",
       "url": "https://open.spotify.com/track/4clhJIomittfffOssrsKMh"
@@ -2568,7 +2630,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 170732,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x"
@@ -3999,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "sweatshop",
+        "url": "https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149211,
+      "name": "sweatshop",
+      "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
+    },
+    {
+      "album": {
         "name": "S\u00fc\u00dfe Tr\u00e4ume",
         "url": "https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf"
       },
@@ -4826,7 +4906,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 151242,
       "name": "WITCH",
       "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
@@ -4964,7 +5044,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 135826,
       "name": "Zug",
       "url": "https://open.spotify.com/track/4HzI51MtylzWfyHt5M9dAX"

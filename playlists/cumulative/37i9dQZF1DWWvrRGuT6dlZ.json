@@ -74,10 +74,32 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 213626,
       "name": "2LIVES",
       "url": "https://open.spotify.com/track/23WWYd2Ob0Thf66IMxMWUJ"
+    },
+    {
+      "album": {
+        "name": "2LIVES",
+        "url": "https://open.spotify.com/album/3uKRylnD0hb97tc2ZTbc6P"
+      },
+      "artists": [
+        {
+          "name": "AE$OP CA$H",
+          "url": "https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo"
+        },
+        {
+          "name": "TIMTOSHIBA",
+          "url": "https://open.spotify.com/artist/2qGcTSnPp2BzZ2D1YaEDQH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "2LIVES",
+      "url": "https://open.spotify.com/track/5j5QQaWJnBekjn4SOipo7U"
     },
     {
       "album": {

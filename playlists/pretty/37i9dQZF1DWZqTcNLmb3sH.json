@@ -1,12 +1,12 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 55616,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side B\n",
+  "num_followers": 55633,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGIwZGQwZjc1N2I4NTY0MzgyNDA0MzAwZGNhODEzMDljNDk0Y2Jm",
+  "snapshot_id": "MCwzMTcyMmQxZWI5NjI5YWY0MDFjOTFkM2MwOWI1MWIzNDgyZjY1MmFh",
   "tracks": [
     {
       "added_at": "2023-11-15 12:36:47",
@@ -33,6 +33,34 @@
       "url": "https://open.spotify.com/track/6NYDLGkaITUCpnLtkxSBpx"
     },
     {
+      "added_at": "2023-11-16 11:45:39",
+      "album": {
+        "name": "Upadhyaksha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19GERqtPrlvIoBwdwGcybq"
+      },
+      "artists": [
+        {
+          "name": "Chikkanna",
+          "url": "https://open.spotify.com/artist/5q8fmCfSQNoG8opy8CfolL"
+        },
+        {
+          "name": "Shivani Naveen",
+          "url": "https://open.spotify.com/artist/7CfAjNeEwzBDVuMTVHrJdf"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar Bharjari",
+          "url": "https://open.spotify.com/artist/7sN6nRZG6QgGZkgJr2jt8C"
+        }
+      ],
+      "duration_ms": 234011,
+      "name": "Hattiri Nandu Super Scooter",
+      "url": "https://open.spotify.com/track/1aWNLzd2uMEfI9nZyiZWAI"
+    },
+    {
       "added_at": "2023-11-06 09:53:51",
       "album": {
         "name": "Third Ogm (From \"Ghost\")",
@@ -51,6 +79,34 @@
       "duration_ms": 122058,
       "name": "Third Ogm (From \"Ghost\")",
       "url": "https://open.spotify.com/track/2rZJtBSjlJLZQUqe7obzKR"
+    },
+    {
+      "added_at": "2023-11-16 11:53:50",
+      "album": {
+        "name": "Prathi Hejje (From \"Bembidada Naavika\")",
+        "url": "https://open.spotify.com/album/0PidiiVjAeLArsS7vZlLvk"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Anush Shetty",
+          "url": "https://open.spotify.com/artist/002DctrCJ3ccdtMs0Elp1g"
+        },
+        {
+          "name": "Pramod Kumar S",
+          "url": "https://open.spotify.com/artist/1ZA2hKvz1vSbvjVzHaiACb"
+        },
+        {
+          "name": "Naavu Munna Mysuru",
+          "url": "https://open.spotify.com/artist/1bXejErllvNMvRB7Fg8aXe"
+        }
+      ],
+      "duration_ms": 160655,
+      "name": "Prathi Hejje (From \"Bembidada Naavika\")",
+      "url": "https://open.spotify.com/track/4gllrD1umojIwbG7xwL3PT"
     },
     {
       "added_at": "2023-11-07 07:43:50",

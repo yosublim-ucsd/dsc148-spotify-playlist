@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Chancer",
+        "url": "https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194245,
+      "name": "Chancer",
+      "url": "https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai"
+    },
+    {
+      "album": {
         "name": "Changing Trends",
         "url": "https://open.spotify.com/album/29NPGoxQMh9TRhciutEl4w"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 174379,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"

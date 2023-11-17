@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-166 songs - 9 hr 29 min
+167 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Run Mage Run](https://open.spotify.com/track/4qRicd9ES3SvE2i31JMJWR) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Refixmusic](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Run Mage Run](https://open.spotify.com/album/1a2IZtCHRqPu1EsCve1A0X) | 2:11 | 2023-07-04 | 2023-10-12 |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 | 2023-07-28 |
 | [Sernthom Pirinthom](https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Sernthom Pirinthom](https://open.spotify.com/album/1EzqQmsgWsqYkyAyWN4RMu) | 3:43 | 2023-07-10 |  |
+| [Shiva Thandavam](https://open.spotify.com/track/2nwc64nkdBuT655QCKopWY) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Shiva Thandavam](https://open.spotify.com/album/2vvjTqC3sGfNBacT2tBTkE) | 3:48 | 2023-11-16 |  |
 | [Shoe Theriyudha](https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm) | [Sumesh Kumar](https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr) | [Shoe Theriyudha](https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk) | 3:34 | 2023-10-06 |  |
 | [Shy Boi](https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Shy Boi](https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2) | 2:37 | 2023-08-07 | 2023-11-07 |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |

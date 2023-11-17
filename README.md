@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7040\)
+## Playlists \(7041\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1675,7 +1675,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Día de Shakira](/playlists/pretty/37i9dQZF1DX2aEQIkO99yg.md)
 - [Días Lluviosos](/playlists/pretty/37i9dQZF1DWTIpAoUPaStF.md)
 - [EA NHL 24 Official Playlist](/playlists/pretty/37i9dQZF1DWWP0WY5aV2Xz.md)
-- [EA SPORTS FC 24 Official Soundtrack](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [EA SPORTS FIFA Mix](/playlists/pretty/37i9dQZF1DXdDfBvFXqzpv.md)
 - [ECHO : Fascinating Flute](/playlists/pretty/37i9dQZF1DX4x2OUqt1eGO.md)
 - [ECHO : Soulful Sitar](/playlists/pretty/37i9dQZF1DX8mlN8vvE4ZI.md)
@@ -4676,6 +4675,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Soul Revived](/playlists/pretty/37i9dQZF1DWY12BqhkMFW2.md)
 - [Soul Soothers](/playlists/pretty/3TymQFosH9UgfP5jV5mPEe.md)
 - [Soul Workout](/playlists/pretty/37i9dQZF1DWXUtxBFupUW9.md)
+- [Soul in the Background](/playlists/pretty/37i9dQZF1DX8o4J1M0Lk0N.md)
 - [Soulful](/playlists/pretty/37i9dQZF1DX2AHwa6tQ2Yy.md)
 - [Soulful Blend](/playlists/pretty/37i9dQZF1DX8Md3JnnrexB.md)
 - [Soulful Christmas](/playlists/pretty/37i9dQZF1DWXcOHfWefCtg.md)
@@ -4688,6 +4688,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sound Semester](/playlists/pretty/37i9dQZF1DX4eQiqG0uCMB.md)
 - [Sounds of the Ocean](/playlists/pretty/37i9dQZF1DWV90ZWj21ygB.md)
 - [Soundtrack Love Songs](/playlists/pretty/37i9dQZF1DXar0WmW5YgAc.md)
+- [Soundtrack oficial de EA SPORTS FC 24](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [Soundtracked](/playlists/pretty/37i9dQZF1DWW7gj0FcGEx6.md)
 - [Soundtracks for Studying](/playlists/pretty/37i9dQZF1DWZ27zYbfKITD.md)
 - [Soundtracks Épicos](/playlists/pretty/37i9dQZF1DXdEH86O6asrX.md)
@@ -5008,6 +5009,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [The Core](/playlists/pretty/37i9dQZF1DWXIcbzpLauPS.md)
 - [The Critics Choice 2012](/playlists/pretty/24HEIuw8etbkitpDCxZ1dQ.md)
 - [The Crossover](/playlists/pretty/37i9dQZF1DX2QGqIfuB65s.md)
+- [The Crown Official Playlist](/playlists/pretty/37i9dQZF1DX7pKSVhIpJRE.md)
 - [The Dance Tent](/playlists/pretty/37i9dQZF1DXaTFABWvWVT6.md)
 - [The Essential Edgar Allan Poe](/playlists/pretty/37i9dQZF1DWVezbGpUvpz7.md)
 - [The Essential Ska](/playlists/pretty/37i9dQZF1DX7WJ4yDmRK8R.md)
@@ -6501,7 +6503,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Workday Jazz](/playlists/pretty/37i9dQZF1DX41cLva7hoYQ.md)
 - [Workday K\-Pop \(내적댄스 업무/공부\)](/playlists/pretty/37i9dQZF1DX5eq3AONkaho.md)
 - [Workday Lounge](/playlists/pretty/37i9dQZF1DWT5lkChsPmpy.md)
-- [Workday Soul](/playlists/pretty/37i9dQZF1DX8o4J1M0Lk0N.md)
 - [Workday – Zen](/playlists/pretty/1oDFttzXiLUJLjMyulUugY.md)
 - [Workday: Rock Classics](/playlists/pretty/37i9dQZF1DX1lwxXvReaux.md)
 - [Workout](/playlists/pretty/37i9dQZF1DX70RN3TfWWJh.md)

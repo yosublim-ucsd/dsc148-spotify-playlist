@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-726 songs - 1 day 18 hr 7 min
+727 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,8 @@
 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 | 2023-04-15 |
 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 | 2021-08-04 | 2022-04-18 |
 | [Shock Flesh](https://open.spotify.com/track/5x9TpKuPv0dkGF5jxUNgZd) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Shock Flesh](https://open.spotify.com/album/5v5XVEaBSrL2wAURNfUEAf) | 3:41 | 2022-04-08 | 2022-07-29 |
-| [Show Me](https://open.spotify.com/track/7wfrMpmDnJUKVztxhNrLvn) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [Show Me](https://open.spotify.com/album/4FmfQrqUX9MZKVAGvU2raK) | 3:27 | 2023-10-06 |  |
+| [Show Me](https://open.spotify.com/track/3g2fynyyFDpBjQhECDPkpp) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [Show Me](https://open.spotify.com/album/1Yfyyfp4la2cNoonBHmoxr) | 3:27 | 2023-10-06 |  |
+| [Show Me](https://open.spotify.com/track/7wfrMpmDnJUKVztxhNrLvn) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [Show Me](https://open.spotify.com/album/4FmfQrqUX9MZKVAGvU2raK) | 3:27 | 2023-10-06 | 2023-11-17 |
 | [Sideline Girl](https://open.spotify.com/track/5eEWWPea9qS1ZllyuhcxR8) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Sideline Girl](https://open.spotify.com/album/6zIDBFckPpV9jF06EfSmlo) | 3:37 | 2022-04-08 | 2022-04-21 |
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-04-15 | 2023-01-28 |
 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 | 2023-04-28 |  |

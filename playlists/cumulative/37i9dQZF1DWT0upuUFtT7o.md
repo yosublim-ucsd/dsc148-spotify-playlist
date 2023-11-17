@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: mercury <3
 
-1,975 songs - 4 day 12 hr 2 min
+1,977 songs - 4 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,6 +856,7 @@
 | [I See You](https://open.spotify.com/track/4derY89Caf6ShCgi08wNsJ) | [Echo Frame](https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi) | [I See You](https://open.spotify.com/album/11BhLCphuQO5Cak7MwgZHp) | 2:43 | 2022-07-27 | 2022-09-01 |
 | [I See You](https://open.spotify.com/track/1xNKBe4fXH4goCnHYAM7Jc) | [Folly Tree](https://open.spotify.com/artist/1hT145icDtkvzjToOQkvkz) | [Remedies](https://open.spotify.com/album/4tmd4DyOAZqjpuzagYlqnS) | 2:34 | 2022-04-06 | 2022-04-27 |
 | [I Smile for E](https://open.spotify.com/track/5ui5Wk6zMALtwtYIHaB9a6) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 3:08 | 2023-10-25 |  |
+| [I Stole Your Jumper](https://open.spotify.com/track/664NIGThIg9Ls7IuREwlqS) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Hookey](https://open.spotify.com/album/7KknC9RikxSrgFy83Kv6Dj) | 3:54 | 2023-11-16 |  |
 | [I Think I'm Gay](https://open.spotify.com/track/3oRQ21pdUxoU8A0LmnHT6L) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I Think I'm Gay](https://open.spotify.com/album/5ddH2AIMYI2vI9TFc17Hoi) | 3:58 | 2022-06-29 | 2022-08-11 |
 | [I Think I'm in Tokyo](https://open.spotify.com/track/64Jy8mwPNmVHihnedbNMtr) | [Dog Orchestra](https://open.spotify.com/artist/1kyTjoLy5Ec4ztAlxKpw2G) | [I Think I'm in Tokyo](https://open.spotify.com/album/2puiinAcTvkpd5qKA3bN5n) | 3:04 | 2022-03-30 | 2022-04-27 |
 | [I Thought I Could Be Alone](https://open.spotify.com/track/6AeN6ulWEY8j83QpypLFMF) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [I Thought I Could Be Alone](https://open.spotify.com/album/6fl6DiBDOurxqWj3Yo9Co4) | 4:40 | 2023-06-21 | 2023-07-26 |
@@ -1718,6 +1719,7 @@
 | [the fatalist](https://open.spotify.com/track/4tjU3FbweegHC4T3taQ7RI) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the fatalist](https://open.spotify.com/album/3B21t0wxJugADsFAd6SU2X) | 4:27 | 2021-12-01 | 2022-01-13 |
 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2022-08-10 | 2023-03-23 |
 | [The Gig](https://open.spotify.com/track/2V71mWNNXX6n27OPSzGcEM) | [Fantastic Cat](https://open.spotify.com/artist/1UuGqBhc9CLkj8qgKCHjw5), [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy), [Don DiLego](https://open.spotify.com/artist/0fPBRuaiHxlXH5tXSeB4qM), [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V), [Hollis Brown](https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw) | [The Gig](https://open.spotify.com/album/1Wfkp2qhZlSX06dpj3TdJd) | 2:48 | 2022-06-29 | 2022-08-04 |
+| [The Great American Picnic](https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [When Horses Would Run](https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf) | 2:16 | 2023-11-16 |  |
 | [The Holiday](https://open.spotify.com/track/2MHc9vvKR51g8kh8pX5Lm9) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [The Holiday](https://open.spotify.com/album/1njeQMMZBblx6rKKkyuI6l) | 3:01 | 2023-08-08 | 2023-09-14 |
 | [The Hopeful Kind](https://open.spotify.com/track/72sIjHtNB3sOg5vmZ1brwF) | [Spuddy](https://open.spotify.com/artist/1EGquwqYB8H2qTgiMXirRs) | [Junk Drawer](https://open.spotify.com/album/6rNontdJmeB0MLisWPpkbw) | 3:46 | 2022-08-10 | 2022-09-29 |
 | [The Line](https://open.spotify.com/track/4uZJ40a5AePzu7aZ1dY9Em) | [Hairpin](https://open.spotify.com/artist/56T7NRvLxhB1iFBbLgWOJ3) | [The Line](https://open.spotify.com/album/19dYt1yxJLFmLdBRuKEW1b) | 3:58 | 2022-10-19 | 2022-12-01 |

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: odol
 
-991 songs - 2 day 13 hr 44 min
+992 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-10-11 |
 | [animal planet](https://open.spotify.com/track/2wQ5Yg8AZKlY6WheocbLM6) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [animal planet](https://open.spotify.com/album/7sgJK1TlHzp4AAuKCfltqG) | 3:28 | 2023-10-24 |  |
-| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 |  |
+| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 | 2023-11-17 |
 | [Anshin](https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Anshin](https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6) | 3:24 | 2023-10-31 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 | 2023-10-10 |  |
@@ -763,7 +763,7 @@
 | [バケーションに沿って](https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [バケーションに沿って](https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX) | 3:16 | 2023-07-18 | 2023-09-24 |
 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 | 2023-11-07 |  |
 | [バッドデイズ・オンファイヤー](https://open.spotify.com/track/6XuHRXgiGEpxs03w47OGy1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [バッドデイズ・オンファイヤー](https://open.spotify.com/album/7I0ezrFRdXuNBD2C0Hp5p2) | 2:16 | 2023-10-24 | 2023-10-26 |
-| [バースデイ](https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 2:21 | 2023-06-23 | 2023-11-01 |
+| [バースデイ](https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 2:21 | 2023-06-23 |  |
 | [パンデミック](https://open.spotify.com/track/2yKphSroLPQ2vPZO5lcHqy) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [XX](https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc) | 3:29 | 2023-07-18 | 2023-07-28 |
 | [パンデミック](https://open.spotify.com/track/362O8pwLinfFwPKUqxFhIg) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [パンデミック](https://open.spotify.com/album/0IdY0aJAlMww8ki3Rh4WBo) | 3:29 | 2023-01-12 | 2023-07-20 |
 | [ピクチャー](https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ピクチャー](https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB) | 2:48 | 2023-01-12 | 2023-02-24 |
@@ -795,7 +795,7 @@
 | [ローガイズ](https://open.spotify.com/track/4uOZCZrJsqi7wWeyklhD9i) | [Charisma.com](https://open.spotify.com/artist/5plo5UwgrFliohBttLzqRr) | [ローガイズ](https://open.spotify.com/album/7cRIyOg1H6O7xglwzLBZ0h) | 3:47 | 2023-06-13 | 2023-06-15 |
 | [ワンダワンダナイト](https://open.spotify.com/track/7z8HA9CFTA59asI9VDOR32) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [ワンダワンダナイト](https://open.spotify.com/album/63pr0cg2LzCxWlAaLq5CzV) | 2:36 | 2023-07-11 | 2023-07-19 |
 | [一生このまま](https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [一生このまま](https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U) | 4:43 | 2023-05-30 | 2023-06-01 |
-| [不安時間](https://open.spotify.com/track/6IFu5wpsp8fqtsEsogzB4w) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [不安時間](https://open.spotify.com/album/4F4gdyk85vpE3eoyUpycjr) | 3:22 | 2023-10-31 |  |
+| [不安時間](https://open.spotify.com/track/6IFu5wpsp8fqtsEsogzB4w) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [不安時間](https://open.spotify.com/album/4F4gdyk85vpE3eoyUpycjr) | 3:22 | 2023-10-31 | 2023-11-17 |
 | [不思議な関係](https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [不思議な関係](https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9) | 4:32 | 2023-01-12 | 2023-01-18 |
 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 | 2023-09-26 |  |
 | [主人公](https://open.spotify.com/track/2hIqgaBOn6Z1iGB5Bx6n5S) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [みんなのさだ Another Edition](https://open.spotify.com/album/5NcJl0jiqk2fDs1sAutNU3) | 5:00 | 2023-10-24 | 2023-11-08 |
@@ -921,6 +921,7 @@
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-01 |
 | [海がきこえる](https://open.spotify.com/track/6SDLJ9Rv5EF91UogxwRvRj) | [THE TREES](https://open.spotify.com/artist/3T2vPCbSCuXduryVIIi2GY) | [海がきこえる](https://open.spotify.com/album/2N7nCxZj9sNB8eTo5ZOj31) | 4:16 | 2023-01-31 | 2023-02-15 |
 | [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 | 2023-07-25 | 2023-08-02 |
+| [海に来たのに](https://open.spotify.com/track/0uSckPzqdnuVBEttiMnn4x) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA), [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [海に来たのに](https://open.spotify.com/album/6rU7GVOy5czVHTRBnSbpZC) | 4:19 | 2023-11-16 |  |
 | [海へ海へ海へ](https://open.spotify.com/track/3EnTDoXpd45Y96q9NeSbsT) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [海へ海へ海へ](https://open.spotify.com/album/6BNiu85dNukURB7kx4N5LN) | 4:10 | 2023-07-27 | 2023-08-02 |
 | [涙](https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [涙](https://open.spotify.com/album/1kzUbAwv2BjK5ucekGZqmZ) | 3:22 | 2023-05-04 | 2023-06-14 |
 | [液化](https://open.spotify.com/track/1SYl2CaGm5Joxz8FRptNnU) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [液化](https://open.spotify.com/album/4LKPTeleZPodLn7CvkTIoY) | 2:15 | 2023-09-26 | 2023-10-04 |

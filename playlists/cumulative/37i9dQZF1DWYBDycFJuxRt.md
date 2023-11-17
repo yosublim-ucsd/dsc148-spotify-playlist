@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/323840?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-3,959 songs - 10 day 0 hr 39 min
+3,960 songs - 10 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [animal planet](https://open.spotify.com/track/2wQ5Yg8AZKlY6WheocbLM6) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [animal planet](https://open.spotify.com/album/7sgJK1TlHzp4AAuKCfltqG) | 3:28 | 2023-10-24 | 2023-11-01 |
 | [ANIME](https://open.spotify.com/track/00BG9SLrzAdl4BqsBXuOY0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/153c91yGLUSNj6yefDIIoL) | 2:42 | 2023-07-25 | 2023-07-27 |
 | [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-07-26 | 2023-08-02 |
+| [Anone](https://open.spotify.com/track/4oKsfQvfCHiFkKww8vX56O) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Anone](https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi) | 6:46 | 2023-11-15 |  |
 | [Anshin](https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Anshin](https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6) | 3:24 | 2023-11-01 | 2023-11-08 |
 | [Anthem](https://open.spotify.com/track/6obGdxytPyQqV1mlm9tfZm) | [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [B.T.Reo 440](https://open.spotify.com/artist/2qjaD0RrOu050uQd9RUr3K) | [Anthem](https://open.spotify.com/album/59NHtYJ8nSlCK8U8Lqsgoo) | 4:26 | 2023-03-14 | 2023-03-22 |
 | [anthem](https://open.spotify.com/track/3JeWH79fpt8lFF799Zbqws) | [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP), [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt), [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [anthem](https://open.spotify.com/album/0kOnGqiGCtJYM9NWOzu7up) | 5:38 | 2023-10-18 | 2023-10-25 |
@@ -2710,7 +2711,7 @@
 | [あなたの虜](https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [あなたの虜](https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr) | 3:08 | 2023-10-31 | 2023-11-08 |
 | [あなたを踊らせたい](https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [あなたを踊らせたい](https://open.spotify.com/album/1xWEFy3OY6pJp6shojQAA1) | 4:51 | 2023-08-30 | 2023-09-06 |
 | [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-16 | 2023-05-24 |
-| [あのね](https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [あのね](https://open.spotify.com/album/51IrCOKFFNz3tgimqoyBCm) | 6:46 | 2023-11-15 |  |
+| [あのね](https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [あのね](https://open.spotify.com/album/51IrCOKFFNz3tgimqoyBCm) | 6:46 | 2023-11-15 | 2023-11-17 |
 | [あの夏のRadio](https://open.spotify.com/track/0TW89yREoPADchLd1okIJ2) | [天童児直](https://open.spotify.com/artist/14X47SyysR5Hhx9g3jG4RG) | [あの夏のRadio](https://open.spotify.com/album/5CpLvAalwyQ9eKN58aiBdl) | 3:53 | 2023-08-30 | 2023-09-06 |
 | [ありがとう](https://open.spotify.com/track/7J5BZye9TxCA5ClG5FWbm7) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Cherish](https://open.spotify.com/album/229eliBOpkkhkqI1w2bHXs) | 4:02 | 2023-10-17 | 2023-10-25 |
 | [ありったけのコイン](https://open.spotify.com/track/2CvPEKp1U7dx37Nk3Fi9Om) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ありったけのコイン](https://open.spotify.com/album/62GwXPyGCPm4ZqVdSCfj9k) | 4:33 | 2023-03-21 | 2023-03-23 |

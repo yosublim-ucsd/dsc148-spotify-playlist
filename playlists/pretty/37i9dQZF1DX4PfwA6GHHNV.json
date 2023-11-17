@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 13101,
+  "num_followers": 13118,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjIwYTMyOWNmMGVjMjMzNDU0Y2ExNzZhYjViYzUxNTUxOTM5NTI1",
+  "snapshot_id": "MCxkNTYxNTFlYzM4OTNjZDM3NmYwM2UxNzQxOTNmNGRlMWYxMzgyODQy",
   "tracks": [
     {
       "added_at": "2023-11-10 13:58:51",
@@ -155,34 +155,6 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "Causa",
-        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
-      },
-      "artists": [
-        {
-          "name": "Don",
-          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        },
-        {
-          "name": "Pascon",
-          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
-        }
-      ],
-      "duration_ms": 127627,
-      "name": "Causa",
-      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
@@ -207,6 +179,34 @@
       "duration_ms": 175543,
       "name": "Online",
       "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
+        "name": "Causa",
+        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Pascon",
+          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+        }
+      ],
+      "duration_ms": 127627,
+      "name": "Causa",
+      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -311,6 +311,42 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
+      },
+      "artists": [
+        {
+          "name": "Kota Manda",
+          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Erick Lobato",
+          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
+        },
+        {
+          "name": "Vittau",
+          "url": "https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8"
+        },
+        {
+          "name": "TOCS",
+          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
       },
@@ -375,42 +411,6 @@
       "duration_ms": 142105,
       "name": "Canc\u00fan",
       "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
-      },
-      "artists": [
-        {
-          "name": "Kota Manda",
-          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        },
-        {
-          "name": "Erick Lobato",
-          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
-        },
-        {
-          "name": "Vittau",
-          "url": "https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8"
-        },
-        {
-          "name": "TOCS",
-          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -579,30 +579,6 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "Te Vejo Mais Tarde",
-        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "\u00c9ffe",
-          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
-        }
-      ],
-      "duration_ms": 114117,
-      "name": "Te Vejo Mais Tarde",
-      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
         "name": "J\u00e9 Ka S\u00f3r\u00f3",
         "url": "https://open.spotify.com/album/3TkDRjv287cJL9Y7UEnUsL"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 160000,
       "name": "J\u00e9 Ka S\u00f3r\u00f3",
       "url": "https://open.spotify.com/track/4R4sLlLQ1Spt62pe8ce0fj"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        }
+      ],
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     },
     {
       "added_at": "2023-11-10 13:58:51",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-11-10 13:58:51",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acG MC",
-          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2023-11-10 13:58:51",
-      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 205000,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
+    },
+    {
+      "added_at": "2023-11-10 13:58:51",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acG MC",
+          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2023-11-10 13:58:51",

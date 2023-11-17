@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-163 songs - 12 hr 37 min
+165 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Kärleken](https://open.spotify.com/track/3d7t7THXUO2c7HMx7nccv7) | [Anders Boson Jazz Ensemble](https://open.spotify.com/artist/41da8g6o6JZKF3sX5OOYaL) | [Kärleken](https://open.spotify.com/album/6m3ZxyDoaTm1gUh7YOB2jV) | 5:57 | 2021-11-08 |  |
 | [L'Est](https://open.spotify.com/track/7fHj5Y3RjtXZGZdN2Q3yqz) | [Oddjob](https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n) | [Kong](https://open.spotify.com/album/3oidkAVyOYKYEMkOgJHgWg) | 4:44 | 2022-06-22 |  |
 | [La La La La](https://open.spotify.com/track/6JdEe9rpK06pzsWzwiyd7W) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg), [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Lars Skoglund](https://open.spotify.com/artist/7qn4gClb24W6l4oG2sAPm1), [Calle Bagge](https://open.spotify.com/artist/1LU9KWP28USoKTyd0DCvKr), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [La La Lars](https://open.spotify.com/album/5L1jwQzcmmYTZ9kcvO02SF) | 3:40 | 2021-11-08 |  |
+| [Ledsen](https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Ledsen](https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ) | 5:30 | 2023-11-17 |  |
 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 | 2021-11-08 |  |
 | [Lochiel's warning](https://open.spotify.com/track/5cJPtbO8KZ8T9E8QNztPto) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 5:48 | 2021-11-08 |  |
 | [Love in Its Splendor](https://open.spotify.com/track/41qmKHMIrsew65y5uhzg6O) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Love in Its Splendor](https://open.spotify.com/album/5ENQwG6uYyKw183C0G0PDW) | 6:34 | 2023-09-22 |  |
@@ -128,6 +129,7 @@
 | [Sense and Sensibility](https://open.spotify.com/track/3fgjg9ouOVvTnwQG7y9JDs) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Sense and Sensibility](https://open.spotify.com/album/0y24BgxYjAJkKAsFnGYMDL) | 6:43 | 2022-10-13 |  |
 | [Singel](https://open.spotify.com/track/0z6ZJJu9yDl0sfPcTUWDvy) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Gammal Kärlek](https://open.spotify.com/album/6X8vM6cdvDAKDyRemTllQW) | 3:27 | 2022-06-22 |  |
 | [Singel](https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Singel](https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw) | 3:27 | 2021-11-08 | 2022-07-29 |
+| [Sjön håller himlen](https://open.spotify.com/track/5NPNh5heNH26QPhsb5gdxd) | [Ingrid Malmén](https://open.spotify.com/artist/6uJfepnIWETHQxJ17m1RC6), [Alice Hernqvist](https://open.spotify.com/artist/1rESTuT9litogW6ubtyzHy), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y), [Thomas Backman](https://open.spotify.com/artist/5h61EPng9DRaWNdtcJ46pf) | [Tidvatten](https://open.spotify.com/album/4W7a2yYRkWtAmeph2GBsyF) | 4:11 | 2023-11-17 |  |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 | 2022-10-20 |  |
 | [SOL](https://open.spotify.com/track/4nFNfCSmsGGEE3pNfClo9c) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Ett göteborgsporträtt](https://open.spotify.com/album/5gTDcU2wzbBthQRng50CbV) | 6:03 | 2023-06-08 |  |

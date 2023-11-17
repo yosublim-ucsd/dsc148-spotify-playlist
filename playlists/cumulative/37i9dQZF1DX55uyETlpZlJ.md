@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-204 songs - 11 hr 5 min
+205 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Naa Arive](https://open.spotify.com/track/0qFEglcQZCUMNADVKihoYy) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Naa Arive](https://open.spotify.com/album/0gQRlHibWUXKObi4Csgvn9) | 4:26 | 2023-08-08 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
 | [Naavu Kuuda OG](https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Naavu Kuuda OG](https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq) | 1:00 | 2023-08-18 |  |
+| [Nagu](https://open.spotify.com/track/2slEJoC0joGbBb1MXeCIWi) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Ajith Keshava](https://open.spotify.com/artist/2NnKgoCQI8K5GzRNR0mX9r) | [Nagu](https://open.spotify.com/album/2aVEDrhiFODgbnvPQpTfCV) | 3:37 | 2023-11-16 |  |
 | [Naguve](https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Naguve](https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ) | 4:04 | 2023-06-30 | 2023-07-18 |
 | [Namma Gully](https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU) | [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Namma Gully](https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D) | 1:56 | 2023-08-31 |  |
 | [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 | 2023-06-15 |

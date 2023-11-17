@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-942 songs - 2 day 1 hr 20 min
+943 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Féreg](https://open.spotify.com/track/6lA6j2feoBOyBkDRbE6MtB) | [Analog Balaton](https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ) | [Csússz le](https://open.spotify.com/album/01HMWLFq2qZgWTPWlI2KTt) | 3:52 | 2022-10-21 | 2022-10-24 |
 | [Függő](https://open.spotify.com/track/2WO6S8AQfpwB7QVqvaOnDP) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Függő](https://open.spotify.com/album/4sjnVOB3UFMS1WiZkKOgB6) | 3:20 | 2023-05-06 | 2023-07-16 |
 | [FÜGGŐ](https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KINCUGI](https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk) | 3:20 | 2023-09-13 | 2023-09-29 |
-| [Gang John Lennon](https://open.spotify.com/track/1IP0VEcQ1FC4ruwDR9OK15) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Gang John Lennon](https://open.spotify.com/album/5eSw3gDhm21MWhUHE1ffM8) | 2:41 | 2023-10-27 |  |
+| [Gang John Lennon](https://open.spotify.com/track/1IP0VEcQ1FC4ruwDR9OK15) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Gang John Lennon](https://open.spotify.com/album/5eSw3gDhm21MWhUHE1ffM8) | 2:41 | 2023-10-27 | 2023-11-17 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-04 |
 | [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/track/7uVfJBixz1VViRCizlpr8L) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/album/0SrCxMpHSTvng01kKn0JHm) | 5:04 | 2023-11-04 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
@@ -331,6 +331,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2023-08-19 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-23 | 2022-12-29 |
 | [Har Du Vatt Här](https://open.spotify.com/track/02xJj4Cv22TV60L0T3atsO) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [LUCKY 20](https://open.spotify.com/album/2YTvyVZxequVl2mx9mwyUj) | 3:20 | 2022-12-27 | 2022-12-29 |
+| [Haramia](https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:14 | 2023-11-16 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 | 2022-12-28 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-03-27\* | 2022-01-03 |
 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 | 2021-03-27\* | 2021-09-14 |

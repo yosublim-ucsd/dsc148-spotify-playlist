@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: beabadoobee, Mac Wetha, Amin\u00e9",
-  "num_followers": 696812,
+  "num_followers": 696814,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjhkZDlhZTliMmM2MGM5N2U4MDNiNzhjYmE0ZTFjNjg3NzQyZjJk",
+  "snapshot_id": "MCw4MGFmOWU1NDE5MDQ0ZGIxZjhiZDc3OGFjYjViMjc0NDQ5YzE4Mjc5",
   "tracks": [
     {
       "added_at": "2023-11-03 22:14:03",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
     },
     {
-      "added_at": "2023-10-13 16:01:40",
-      "album": {
-        "name": "Marlboro Nights",
-        "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
-      },
-      "artists": [
-        {
-          "name": "Lonely God",
-          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
-        }
-      ],
-      "duration_ms": 68522,
-      "name": "Marlboro Nights",
-      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "if u think i'm pretty",
@@ -179,6 +163,22 @@
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j"
+    },
+    {
+      "added_at": "2023-10-13 16:01:40",
+      "album": {
+        "name": "Marlboro Nights",
+        "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
+      },
+      "artists": [
+        {
+          "name": "Lonely God",
+          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
+        }
+      ],
+      "duration_ms": 68522,
+      "name": "Marlboro Nights",
+      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
     },
     {
       "added_at": "2023-10-13 16:09:24",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "Wallsocket",
-        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 245122,
-      "name": "Johnny johnny johnny",
-      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "Where Are You Going?",
         "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Wallsocket",
+        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 245122,
+      "name": "Johnny johnny johnny",
+      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
       "added_at": "2023-10-20 14:28:02",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
     },
     {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 165989,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
+    },
+    {
       "added_at": "2023-10-20 14:28:02",
       "album": {
         "name": "Jonny",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "Driver",
-        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 165989,
-      "name": "Driver",
-      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "Again?",
         "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 172360,
       "name": "Again?",
       "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "\"DESTRUCTION FOR DUMMIES\", PT. 2 JEAN DAWSON AS \"NIGHTMARE\"",
-        "url": "https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 189978,
-      "name": "X-RAY",
-      "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
     },
     {
       "added_at": "2023-11-07 18:58:00",
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "E3",
-        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+        "name": "\"DESTRUCTION FOR DUMMIES\", PT. 2 JEAN DAWSON AS \"NIGHTMARE\"",
+        "url": "https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO"
       },
       "artists": [
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 226000,
-      "name": "heartache blues",
-      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
+      "duration_ms": 189978,
+      "name": "X-RAY",
+      "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
     },
     {
       "added_at": "2023-10-13 16:01:40",
@@ -815,6 +799,22 @@
       "duration_ms": 146298,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/6VKha9kbRxUWQSx7eH7Rxw"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "E3",
+        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "heartache blues",
+      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
     },
     {
       "added_at": "2023-10-20 14:28:02",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Stay Blessed",
-        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Stay Blessed",
-      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
-    },
-    {
       "added_at": "2023-11-07 18:58:00",
       "album": {
         "name": "JASMINE",
@@ -911,6 +895,22 @@
       "duration_ms": 127058,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
+      "added_at": "2023-11-10 16:31:21",
+      "album": {
+        "name": "HALLOWEEN",
+        "url": "https://open.spotify.com/album/6osEKEYLvMuscn50TnWIUd"
+      },
+      "artists": [
+        {
+          "name": "Oshi",
+          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "HALLOWEEN",
+      "url": "https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me"
+    },
+    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "&ONE",
@@ -1109,36 +1125,20 @@
       "url": "https://open.spotify.com/track/6Awe5dR7eYAfHVkycO6m5X"
     },
     {
-      "added_at": "2023-11-10 16:31:21",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "HALLOWEEN",
-        "url": "https://open.spotify.com/album/6osEKEYLvMuscn50TnWIUd"
+        "name": "oggy",
+        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
       },
       "artists": [
         {
-          "name": "Oshi",
-          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 160800,
-      "name": "HALLOWEEN",
-      "url": "https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me"
-    },
-    {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R"
-      },
-      "artists": [
-        {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        }
-      ],
-      "duration_ms": 262147,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy"
+      "duration_ms": 128618,
+      "name": "oggy",
+      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1157,20 +1157,20 @@
       "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-07 18:58:00",
       "album": {
-        "name": "oggy",
-        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
         }
       ],
-      "duration_ms": 128618,
-      "name": "oggy",
-      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
+      "duration_ms": 262147,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1219,22 +1219,6 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Used To This",
-        "url": "https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi"
-      },
-      "artists": [
-        {
-          "name": "Finn Askew",
-          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Used To This",
-      "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
+        "name": "Used To This",
+        "url": "https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
         "name": "care about myself",
         "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
       },
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/6zr5AoFLscKXYSmnj6qXbT"
     },
     {
+      "added_at": "2023-11-07 18:58:00",
+      "album": {
+        "name": "Deer in Headlights",
+        "url": "https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 209187,
+      "name": "Deer in Headlights",
+      "url": "https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z"
+    },
+    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "SXC",
@@ -1383,22 +1399,6 @@
       "duration_ms": 161500,
       "name": "SXC",
       "url": "https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d"
-    },
-    {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "Deer in Headlights",
-        "url": "https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 209187,
-      "name": "Deer in Headlights",
-      "url": "https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg"
     },
     {
+      "added_at": "2023-11-07 18:58:00",
+      "album": {
+        "name": "Nearly Straight",
+        "url": "https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/7aT1OARtCIRZnPLVxmUghR"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "my sweet caroline",
@@ -1527,22 +1543,6 @@
       "duration_ms": 146000,
       "name": "getting older",
       "url": "https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m"
-    },
-    {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "Nearly Straight",
-        "url": "https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Outta My Mind",
-      "url": "https://open.spotify.com/track/7aT1OARtCIRZnPLVxmUghR"
     },
     {
       "added_at": "2023-11-07 18:58:00",
@@ -1717,24 +1717,20 @@
       "url": "https://open.spotify.com/track/3yZS2Yeowfm4m6ll4pk7Ce"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
+      "added_at": "2023-11-07 18:58:00",
       "album": {
-        "name": "frenemy",
-        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+        "name": "mud on my superstars",
+        "url": "https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP"
       },
       "artists": [
         {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        },
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
         }
       ],
-      "duration_ms": 259680,
-      "name": "love that 4 u",
-      "url": "https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz"
+      "duration_ms": 201680,
+      "name": "american spirit",
+      "url": "https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg"
     }
   ],
   "unique_name": "anti pop",

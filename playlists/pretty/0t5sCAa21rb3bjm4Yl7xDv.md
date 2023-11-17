@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Jonas Brothers
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 81,937 likes - 178 songs - 9 hr 6 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 81,933 likes - 178 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

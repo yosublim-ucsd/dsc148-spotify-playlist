@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Gradual Downhill",
+        "url": "https://open.spotify.com/album/0JmZJNNlnr0T8NzfztRAUb"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Gradual Downhill",
+      "url": "https://open.spotify.com/track/24bFwSuFvuaYS4XrVZsBPX"
+    },
+    {
+      "album": {
         "name": "Growing",
         "url": "https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w"
       },
@@ -1738,6 +1756,24 @@
       "duration_ms": 158100,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7"
+      },
+      "artists": [
+        {
+          "name": "Egelloc",
+          "url": "https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz"
     },
     {
       "album": {
@@ -2314,7 +2350,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 186407,
       "name": "Petros",
       "url": "https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb"
@@ -2422,7 +2458,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 186929,
       "name": "Pull Me Closer",
       "url": "https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8"
@@ -2642,7 +2678,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 207880,
       "name": "See You There",
       "url": "https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks"
@@ -2858,7 +2894,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 254608,
       "name": "Souls",
       "url": "https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz"
@@ -3063,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Sunset Dream",
+        "url": "https://open.spotify.com/album/2gPB6BHVBEHa5gyO3OSsD8"
+      },
+      "artists": [
+        {
+          "name": "Jaake Alsonn",
+          "url": "https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134978,
+      "name": "Sunset Dream",
+      "url": "https://open.spotify.com/track/7ncTzToPsfpmZ6yeu4wp5O"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm"
       },
@@ -3114,6 +3168,24 @@
       "duration_ms": 191089,
       "name": "Switch to Mandarin",
       "url": "https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA"
+    },
+    {
+      "album": {
+        "name": "Takamagahara",
+        "url": "https://open.spotify.com/album/6WPNmPlwsoIgdlgmebraT7"
+      },
+      "artists": [
+        {
+          "name": "Innocent Panda",
+          "url": "https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139797,
+      "name": "Takamagahara",
+      "url": "https://open.spotify.com/track/1ZwyC2Nz4XZVngLbIiBEGR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,587 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,620 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 37 | [Les elucubrations d'Antoine](https://open.spotify.com/track/2yHTeToSYvVE9FuUO3uwHe) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:26 |
 | 38 | [Comment te dire adieu \- Remasterisé en 2016](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu \(Remasterisé en 2016\)](https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB) | 2:28 |
 | 39 | [Laisse tomber les filles](https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Best Of](https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u) | 2:07 |
-| 40 | [Il fait trop beau pour travailler](https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:20 |
+| 40 | [Il fait trop beau pour travailler](https://open.spotify.com/track/4Xt6do7xmBqVEs1G6vkPlh) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Il Fait Trop Beau Pour Travailler](https://open.spotify.com/album/3qYJhooIMPsv0O501RunHQ) | 2:20 |
 | 41 | [Comic Strip](https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 2:10 |
 | 42 | [7 heures du matin](https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [Jacqueline Taïeb](https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG) | 2:16 |
 | 43 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCw5NTE0NjYxMGI3OWFmMTc5ZTFiMjkxZjQ3YTUwZGE0NTQ3MWE5NjM5`
+Snapshot ID: `MCwyMDE4NTMzMmFlNTdiNDAzNzVjNDEyZWQ2MTYyZmJjMjJhNTVlODU4`

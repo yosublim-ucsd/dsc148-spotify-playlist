@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=oqjOEndqQBSN126wMc9uig">Shane Eagle</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=GkFCponvT7aad8\_K8wHWoQ">MashBeatz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,975 likes - 52 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,039 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 51 | [ALRIGHT](https://open.spotify.com/track/5NPVb2mvDB4RXx8IvhHPno) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [ALRIGHT](https://open.spotify.com/album/3seOgx490JcE7bfxREGGz6) | 2:40 |
 | 52 | [Sporo](https://open.spotify.com/track/5X6tKe5O4zaTnoqm2CUSyg) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [You Want Some More?](https://open.spotify.com/album/254iOtG4PBeSKH1SuIdNtp) | 3:15 |
 
-Snapshot ID: `MCw5ZGI2ZDE3YmNhZjA1ZGM3ZDVhMjZmOTY2YTQyNGMyYWJlOTA4NjJk`
+Snapshot ID: `MCw5YTUxNDU1Mjk1NThiMmRhMDEyNmZhMjI0NjI3YzFiODdjOGI4ZmU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,004 likes - 1,190 songs - 3 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,049 likes - 1,190 songs - 3 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 11 | [The Coffee Cola Song](https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 5:05 |
 | 12 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 |
 | 13 | [Inang Bo Tinang](https://open.spotify.com/track/6tviATdqDPRuPqaWHKd7jj) | [Hail Atan](https://open.spotify.com/artist/21NDxhH3FMr4ZGOy4kNoAm), [Rebana Funk Brothers](https://open.spotify.com/artist/4Wg4HTapgCGLbcShemfGIf) | [Inang Bo Tinang](https://open.spotify.com/album/7HCHd8CxIKME9Nryt7slDW) | 3:24 |
-| 14 | [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 |
+| 14 | [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:18 |
 | 15 | [Bananeira](https://open.spotify.com/track/7z3VFSZIVskVQ3UJK6AOTZ) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago](https://open.spotify.com/album/5ePDapcpcssBfsIpU3iJPZ) | 2:52 |
 | 16 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 |
 | 17 | [Pelangi Cinta](https://open.spotify.com/track/1iTi52faAQoKjCOKynJeer) | [Hetty Koes Endang](https://open.spotify.com/artist/5EITOMadvjqpslJ4Y5j5z6) | [Hati Lebur Jadi Debu](https://open.spotify.com/album/00K8cQ3QRDmnNr6RSighqm) | 4:48 |
@@ -1199,4 +1199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1189 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1190 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`
+Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`

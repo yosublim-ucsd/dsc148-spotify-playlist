@@ -1,12 +1,12 @@
 {
   "description": "Ascolta a tutto volume queste straordinarie artiste italiane! Cover: svegliaginevra",
-  "num_followers": 19692,
+  "num_followers": 19697,
   "original_name": "EQUAL Italia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOThkOTExN2U4OGZhMGFkZjI2YjIwNWFhOWUzNzkxZDFhYWYwZGU2",
+  "snapshot_id": "MCwzMGViY2YzNGY1MjExOGU2OWRlNzNlYzQ2MWNmMjcwNjczMzY3YWYz",
   "tracks": [
     {
       "added_at": "2023-11-07 23:01:00",
@@ -442,6 +442,10 @@
         {
           "name": "MARGHERITA PRINCIPI",
           "url": "https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
         }
       ],
       "duration_ms": 129600,

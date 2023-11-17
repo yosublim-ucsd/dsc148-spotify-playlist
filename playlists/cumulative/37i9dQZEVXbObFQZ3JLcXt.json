@@ -3799,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "Meraih Bintang",
+        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "Karena Kamu",
+      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
+    },
+    {
+      "album": {
         "name": "Katakan Saja",
         "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
       },
@@ -6678,7 +6696,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 205466,
       "name": "Secukupnya",
       "url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"

@@ -4,7 +4,7 @@
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-92 songs - 5 hr 33 min
+94 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Asing](https://open.spotify.com/track/5R8ZfnGDbXOdoGtrJSIdsK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 3:14 | 2023-04-27 |  |
 | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV) | 3:34 | 2023-04-27 |  |
 | [Bad Intentions](https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Bad Intentions](https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx) | 2:23 | 2023-10-19 |  |
+| [Battle](https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Battle](https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe) | 2:41 | 2023-11-16 |  |
 | [Best Love](https://open.spotify.com/track/42ZTvtzDTTwq5J74RaZKUJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:51 | 2023-04-27 |  |
 | [Best Of Me](https://open.spotify.com/track/7F0K8l8zL5ci567eovodtD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:53 | 2023-04-27 |  |
 | [Better Now](https://open.spotify.com/track/4baFSFLNit6bSF4tAt6NGS) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Better Now](https://open.spotify.com/album/67SECQMJ3wC0VislGuQDA0) | 3:52 | 2023-04-27 |  |
@@ -29,6 +30,7 @@
 | [Come As You Are](https://open.spotify.com/track/48Egr6zPIlUDMflxQzg4uM) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Come As You Are](https://open.spotify.com/album/111V69LdYDmj8FVteHKMUo) | 4:25 | 2023-04-27 |  |
 | [Creep](https://open.spotify.com/track/0ObxUuZOX5GOliEfhGeV6b) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Creep](https://open.spotify.com/album/0Zm9ipBEwWxHcmZYz68iJA) | 3:44 | 2023-04-27 |  |
 | [Crush](https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:03 | 2023-04-27 |  |
+| [Cyanide](https://open.spotify.com/track/2rK1Db8xEtfnabBB8tLpEt) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Battle](https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe) | 2:54 | 2023-11-16 |  |
 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 | 2023-04-27 |  |
 | [Decorate](https://open.spotify.com/track/7mQn2FH0hM9gYIp39vyoi1) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Yuna](https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg) | 3:44 | 2023-04-27 |  |
 | [Deeper Conversation](https://open.spotify.com/track/0uJrYwDIKZgHLtCY3z36Dj) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:17 | 2023-04-27 |  |

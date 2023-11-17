@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F?si=LtkmAB0iQqqNVcfCHdHAuQ">Hunter As a Horse</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,018 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,031 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [We're on an Island, but it's the UK](https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [We're on an Island, but it's the UK](https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt) | 2:48 |
 | 100 | [Soda Machine](https://open.spotify.com/track/4w0rb02uJ6SSErAm0wcFwP) | [CJ Jonker](https://open.spotify.com/artist/2SvvK78Gnc0Re7Ucg4vrC1) | [Scrapyard](https://open.spotify.com/album/2FDevXzDplVuc024A9vFWY) | 3:07 |
 
-Snapshot ID: `MCwyNGMyNDExZGM0NDVjMGE5YTlmNmQwYzg1NThlYTJlNjRjZTYwMTNl`
+Snapshot ID: `MCxjNzQ2YmUwMmM3YmY1OTdhYTgyZDQ0YzY3MzM5ZjIzNDJjMzE2OGZk`

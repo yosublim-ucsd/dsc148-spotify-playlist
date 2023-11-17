@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Atidaviau Tau Visk\u0105",
+        "url": "https://open.spotify.com/album/42G2o0GXAZliSWO2685eLL"
+      },
+      "artists": [
+        {
+          "name": "GJan",
+          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Atidaviau Tau Visk\u0105",
+      "url": "https://open.spotify.com/track/10D6xf5L2sNsNHaqcas3js"
+    },
+    {
+      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/0LBVy2We4H4onc7gFm5EzK"
       },
@@ -8618,7 +8636,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -11490,7 +11508,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 180983,
       "name": "Ko Tau Reikia",
       "url": "https://open.spotify.com/track/5SVo1JpFTKbTbnDXeJoL6p"
@@ -11904,7 +11922,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
@@ -11926,6 +11944,24 @@
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
       "album": {
@@ -19526,7 +19562,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"

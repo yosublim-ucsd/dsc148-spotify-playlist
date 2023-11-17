@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP-CdTqJ2D1Ing\"> Reggie</a> and  <a href=\"https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie_tw\"> Kofi Mole</a>  ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M?si=BNTOQCPGRsq2weIB86uouA\"> Kojo Cue</a>  ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -38,6 +38,32 @@
       "duration_ms": 137622,
       "name": "2 Fresh",
       "url": "https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt"
+    },
+    {
+      "album": {
+        "name": "I'm Back",
+        "url": "https://open.spotify.com/album/4kffUglXMYplYAIgeDpkfW"
+      },
+      "artists": [
+        {
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257664,
+      "name": "32",
+      "url": "https://open.spotify.com/track/2PiJXFSfjwBxX6AgLwdQvm"
     },
     {
       "album": {
@@ -1117,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Focus On Me",
+        "url": "https://open.spotify.com/album/6PMxU7xULJ3fhQegSvfhsX"
+      },
+      "artists": [
+        {
+          "name": "Freda Rhymz",
+          "url": "https://open.spotify.com/artist/3e8jas2EOwWf2Pp3laUajH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Focus On Me",
+      "url": "https://open.spotify.com/track/3gQxTu5e5K9btGajeTy5iv"
+    },
+    {
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi"
       },
@@ -1282,7 +1326,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 262401,
       "name": "Gimme Dat (feat. Thomas the Great, Terrist Carter, CHICOGOD, Sparkle, Reggie, Jay Bahd & Kawabanga)",
       "url": "https://open.spotify.com/track/7eA8Jp3AHKqqs8x7fw3kR8"
@@ -1474,7 +1518,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 236826,
       "name": "Invoice (feat. JayBhad and Superwozzy)",
       "url": "https://open.spotify.com/track/0OhBrDka6qnfgUAqJmVOep"
@@ -1812,7 +1856,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 156666,
       "name": "MOBB (feat. Le Juiice)",
       "url": "https://open.spotify.com/track/23JIrjj90Vu9zQh8EE79h1"
@@ -2608,7 +2652,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 256782,
       "name": "Streets Ayeshi",
       "url": "https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad"
@@ -2722,6 +2766,24 @@
       "duration_ms": 165848,
       "name": "Time",
       "url": "https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll"
     },
     {
       "album": {

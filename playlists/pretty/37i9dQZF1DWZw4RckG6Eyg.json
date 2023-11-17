@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 9881,
+  "num_followers": 9879,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTY4NWU3YzRjNWVmYjMxODM4ZWRkNmJhZjNlODRjNmM1N2Q5YjMy",
+  "snapshot_id": "MCw1Y2FmOWM0ZWNmNjZkZjI2M2FjMjIzYzUzMWI1NWRiNTE3NzM3N2Fl",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -715,18 +715,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "HUNTER SCHAFER",
-        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
+        "name": "High-Speed Kissing",
+        "url": "https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU"
       },
       "artists": [
         {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+          "name": "Lake Malawi",
+          "url": "https://open.spotify.com/artist/4UXTIkBW9t9Lcx3xtlaifs"
+        },
+        {
+          "name": "We Are Domi",
+          "url": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
         }
       ],
-      "duration_ms": 193000,
-      "name": "HUNTER SCHAFER",
-      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
+      "duration_ms": 188369,
+      "name": "High-Speed Kissing",
+      "url": "https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -747,22 +751,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "High-Speed Kissing",
-        "url": "https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU"
+        "name": "HUNTER SCHAFER",
+        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
       },
       "artists": [
         {
-          "name": "Lake Malawi",
-          "url": "https://open.spotify.com/artist/4UXTIkBW9t9Lcx3xtlaifs"
-        },
-        {
-          "name": "We Are Domi",
-          "url": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
         }
       ],
-      "duration_ms": 188369,
-      "name": "High-Speed Kissing",
-      "url": "https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5"
+      "duration_ms": 193000,
+      "name": "HUNTER SCHAFER",
+      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Heterotopia",
-        "url": "https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Siddiqui",
-          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Enjoy Your Stay",
         "url": "https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 190079,
       "name": "Allure",
       "url": "https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Heterotopia",
+        "url": "https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -911,22 +911,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Nada de M\u00ed Vale Dinero",
-        "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
         },
         {
-          "name": "TIRAYA",
-          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 257897,
-      "name": "Nada de M\u00ed Vale Dinero",
-      "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
+      "duration_ms": 213293,
+      "name": "Do You Well (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Nada de M\u00ed Vale Dinero",
+        "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        },
+        {
+          "name": "TIRAYA",
+          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
+        }
+      ],
+      "duration_ms": 257897,
+      "name": "Nada de M\u00ed Vale Dinero",
+      "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Acting Funny",
         "url": "https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 166526,
       "name": "Busy",
       "url": "https://open.spotify.com/track/1MotJM9gUDBLEPXn84V1U0"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Bastard Jargon",
-        "url": "https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Do You Well (feat. Perfume Genius)",
-      "url": "https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Baby You\u2019re the One I Need",
+        "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Baby You\u2019re the One I Need",
+      "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Se Eu Acordar",
         "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 150540,
       "name": "Se Eu Acordar",
       "url": "https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Baby You\u2019re the One I Need",
-        "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Baby You\u2019re the One I Need",
-      "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
     },
     {
       "added_at": "2022-11-30 13:45:00",

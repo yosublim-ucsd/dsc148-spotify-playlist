@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: K Motionz, Songer\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 364137,
       "name": "Absolutely True",
       "url": "https://open.spotify.com/track/65E9N8x7N7mp4jUre4Ksyl"
+    },
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/6TuKaiAboNZRNzzhX5x3f7"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2Z0Za6JR9qE17tD54QSImJ"
     },
     {
       "album": {
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 225785,
       "name": "All U Gotta Do",
       "url": "https://open.spotify.com/track/1Uk6kqbSTNFBqXACE4Vv6A"
@@ -3619,6 +3637,28 @@
     },
     {
       "album": {
+        "name": "Get Down Tonight",
+        "url": "https://open.spotify.com/album/4OxzcwRIf9rd1cGSkSDIsD"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169310,
+      "name": "Get Down Tonight",
+      "url": "https://open.spotify.com/track/0US9lbL0BESSgE0eeYFCkL"
+    },
+    {
+      "album": {
         "name": "Ghetto Strugglaz Lullaby (Serum Remix)",
         "url": "https://open.spotify.com/album/0faQJ2pyDUMQZxhlZTtlVb"
       },
@@ -3762,6 +3802,28 @@
       "duration_ms": 192514,
       "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
+    },
+    {
+      "album": {
+        "name": "Going Out To The Ravers (feat. Everyone You Know)",
+        "url": "https://open.spotify.com/album/5odIXcGxVjgUxTSEL0Uycv"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189342,
+      "name": "Going Out To The Ravers (feat. Everyone You Know)",
+      "url": "https://open.spotify.com/track/0vOWeFm0mBgfMT4xYymzhr"
     },
     {
       "album": {
@@ -5225,6 +5287,28 @@
     },
     {
       "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
+      },
+      "artists": [
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279566,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
+    },
+    {
+      "album": {
         "name": "Light the Fuse",
         "url": "https://open.spotify.com/album/1EfbWAZS6KyzWNPnrYsv7M"
       },
@@ -6536,6 +6620,28 @@
       "duration_ms": 168653,
       "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone)",
       "url": "https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z"
+    },
+    {
+      "album": {
+        "name": "No Warning (feat. Nathan Smoker)",
+        "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
+      },
+      "artists": [
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        },
+        {
+          "name": "Nathan Smoker",
+          "url": "https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "No Warning (feat. Nathan Smoker)",
+      "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
     },
     {
       "album": {
@@ -9702,6 +9808,28 @@
       "duration_ms": 229780,
       "name": "Transformations",
       "url": "https://open.spotify.com/track/0cvxGtA2GcmiB1YXKEqosQ"
+    },
+    {
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/4mxwjHZznXJ4Ljlg8ik31w"
+      },
+      "artists": [
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201942,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/1zptaFO2mqYrgwvQdrDOKd"
     },
     {
       "album": {

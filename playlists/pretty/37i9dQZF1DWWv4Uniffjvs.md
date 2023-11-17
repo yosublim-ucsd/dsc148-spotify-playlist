@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,155 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,166 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 49 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [绿帽 Green Hat](https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD) | 3:45 |
 | 50 | [HOUSE\-O\-RMX \- Original Mix](https://open.spotify.com/track/4L6Nc1cZvjbgk4Lgy3fnpr) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [Off Spring](https://open.spotify.com/album/05084c5nFbYK5k3HdW6Ige) | 3:43 |
 
-Snapshot ID: `MCw5NmExNmRkNTI5NzQwYjY3MTM1ZjUwYThjYWUwYmNkNmMwMGNlZTk3`
+Snapshot ID: `MCwwMTMyNTY5NzE1OGUwN2FlYzYyMzc3ZGFkZmU2MTc1YzRjYTE4Yjhh`

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-506 songs - 20 hr 41 min
+507 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 | 2023-03-04 |
 | [Spring](https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Spring](https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A) | 4:23 | 2023-04-06 |  |
 | [Spring and Fall](https://open.spotify.com/track/2KDCFFEyox8PJpoidOyk2f) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Spring and Fall](https://open.spotify.com/album/6pH0bbiw8SzL4HvQ8Z83p5) | 2:30 | 2019-05-26\* | 2019-06-15 |
+| [stained glass](https://open.spotify.com/track/1CZGGAMZ8L8K7KixFUvrDS) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [stained glass](https://open.spotify.com/album/7kW2HciwXAKpd3a5Ln6V9o) | 3:00 | 2023-11-16 |  |
 | [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 | 2022-11-19 |
 | [Star Lights](https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL) | 1:41 | 2022-11-17 | 2023-05-03 |
 | [Stargazer](https://open.spotify.com/track/3XTSVcS7PAcPRH3UezID60) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Stargazer](https://open.spotify.com/album/7dYatSw8Opfly87QzILAlK) | 4:29 | 2019-05-26\* | 2022-04-20 |
@@ -448,7 +449,7 @@
 | [The Hills](https://open.spotify.com/track/4ty9E5SUZFund6cPRFIq7e) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [The Hills](https://open.spotify.com/album/2gPo6ntKNlU510Y5AIot59) | 2:19 | 2020-03-27 | 2021-10-29 |
 | [THE MACHINE](https://open.spotify.com/track/4edUiv5NAqU6EDAHp7Qta4) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [THE MACHINE](https://open.spotify.com/album/1ujQwmyKZNQejXvJtaL8rE) | 1:48 | 2020-06-19 | 2020-11-06 |
 | [The Night I Drank Too Much](https://open.spotify.com/track/0jVidjRxTXgXUAnnsBKK1s) | [Ai\_No\_Hana](https://open.spotify.com/artist/4heV3hbKWGxsJ0v5Ty8I3Z), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [BamBOOO!](https://open.spotify.com/artist/4W8ztHzpP32Op3SuA2ydpM) | [The Night I Drank Too Much](https://open.spotify.com/album/7JNrsLvONENTUd0pZ4YfIb) | 1:31 | 2020-06-29 | 2022-06-10 |
-| [The Night I Drank Too Much](https://open.spotify.com/track/3gnc0simp5IpXLUKCcEehE) | [Ai\_No\_Hana](https://open.spotify.com/artist/4heV3hbKWGxsJ0v5Ty8I3Z), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [BamBOOO!](https://open.spotify.com/artist/4W8ztHzpP32Op3SuA2ydpM) | [The Night I Drank Too Much](https://open.spotify.com/album/2WtCMLh7hROPFrHHSewWot) | 1:31 | 2023-11-09 |  |
+| [The Night I Drank Too Much](https://open.spotify.com/track/3gnc0simp5IpXLUKCcEehE) | [Ai\_No\_Hana](https://open.spotify.com/artist/4heV3hbKWGxsJ0v5Ty8I3Z), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [BamBOOO!](https://open.spotify.com/artist/4W8ztHzpP32Op3SuA2ydpM) | [The Night I Drank Too Much](https://open.spotify.com/album/2WtCMLh7hROPFrHHSewWot) | 1:31 | 2023-11-09 | 2023-11-17 |
 | [The Sun & the Moon](https://open.spotify.com/track/1oGx7Y8FAbsqVNeQRlW0i2) | [Kreaem](https://open.spotify.com/artist/2YZPTSt35NSvVpG0yqZkOK) | [The Sun & the Moon](https://open.spotify.com/album/1LT9IedizRYJtZaSBdvB6g) | 1:48 | 2019-08-31 | 2022-07-22 |
 | [The World Is Ours](https://open.spotify.com/track/6BGTLwYhPmKJTtpY6xgju2) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic Jazzstrumentals, Vol\. 2](https://open.spotify.com/album/138wdWeWBp6a96pQa01vZJ) | 3:33 | 2019-05-26\* | 2020-01-14 |
 | [Think for Yourself](https://open.spotify.com/track/0J9C432nUkMtgKiHQrVF1L) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Think for Yourself](https://open.spotify.com/album/2cgAsluSyoCwyXlWgIGNOV) | 2:30 | 2020-01-14 | 2022-11-20 |

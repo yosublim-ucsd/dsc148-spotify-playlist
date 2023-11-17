@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Quinten Circle, Lyente, Sonny Wern, ZANA",
+  "description": "The biggest Dance hits and the ones to come. Cover: Ofenbach, Norma Jean Martine",
   "name": "Main Stage",
   "tracks": [
     {
@@ -406,6 +406,32 @@
       "duration_ms": 185348,
       "name": "All Good Things (Come To An End) - Nelly Furtado x Quarterhead",
       "url": "https://open.spotify.com/track/0cgwBauQ20B1nVedvGxUQs"
+    },
+    {
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
+      },
+      "artists": [
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130700,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
     },
     {
       "album": {
@@ -2852,7 +2878,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 165845,
       "name": "Fable",
       "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
@@ -4458,7 +4484,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 182307,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/1VxpvS3eD1v8tNfJzGxi3X"
@@ -4885,6 +4911,28 @@
     },
     {
       "album": {
+        "name": "Kommissar",
+        "url": "https://open.spotify.com/album/1qA3Oxzn8bVMUJgP1aILp9"
+      },
+      "artists": [
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "NoooN",
+          "url": "https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163940,
+      "name": "Kommissar",
+      "url": "https://open.spotify.com/track/6QeYonzZSkrBytfyvdQei7"
+    },
+    {
+      "album": {
         "name": "kunterbunt",
         "url": "https://open.spotify.com/album/76JWwHeDCQYMUdj9dl1lBO"
       },
@@ -4914,7 +4962,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 137595,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
@@ -6602,7 +6650,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
@@ -6924,7 +6972,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 196821,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
@@ -7541,6 +7589,28 @@
     },
     {
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "The Bossline",
+          "url": "https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146304,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7"
+    },
+    {
+      "album": {
         "name": "Rave All Night",
         "url": "https://open.spotify.com/album/2m2DL56EzrVle3Cqg5cA6d"
       },
@@ -7822,6 +7892,28 @@
       "duration_ms": 165857,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt"
+    },
+    {
+      "album": {
+        "name": "Run Free (Countdown)",
+        "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Run Free (Countdown)",
+      "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
     },
     {
       "album": {
@@ -9848,6 +9940,28 @@
       "duration_ms": 135276,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

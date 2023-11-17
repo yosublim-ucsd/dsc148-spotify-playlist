@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-232 songs - 13 hr 48 min
+233 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Fly Me To the Moon \- Yoko Takahashi Acid Bossa Version](https://open.spotify.com/track/3ia8uKWZIDLp8hKm18zuNS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 3:50 | 2023-01-03 | 2023-05-13 |
 | [For Once In My Life](https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [For Once In My Life](https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t) | 3:25 | 2021-12-09 |  |
 | [For Your Love](https://open.spotify.com/track/7aQl0tl7Dcf6doXtTgixwh) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [For Your Love](https://open.spotify.com/album/6rvpybNWiLEhQOadkUPDZj) | 3:14 | 2023-05-16 |  |
+| [From The Start](https://open.spotify.com/track/4LoPAEHD6VdEmBgMiWgEu2) | [Brad Gibbons](https://open.spotify.com/artist/07HQ4bkB1wrpo6AyJ5wCQh) | [From The Start](https://open.spotify.com/album/1JhWmyKkdLe6Q8OdA2gxWl) | 3:12 | 2023-11-17 |  |
 | [Garota de Ipanema](https://open.spotify.com/track/7pQimuWRaeJ78d0xrLE8Tg) | [Luiz Mura](https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Garota de Ipanema](https://open.spotify.com/album/6RHgOku5pTAN57FGc7prY5) | 3:09 | 2023-05-09 | 2023-05-13 |
 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 | 2021-12-09 | 2023-05-13 |
 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 | 2022-08-26 |  |

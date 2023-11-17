@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,028 songs - 2 day 7 hr 57 min
+1,029 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [High \- Don Diablo Remix](https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [High \(Don Diablo Remix\)](https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p) | 4:01 | 2022-03-11 | 2022-07-29 |
 | [High Water](https://open.spotify.com/track/0A7HEkQfNEe9bjg2x2VpNG) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [High Water](https://open.spotify.com/album/5PSNHuNaxZZABd6Lqs2vNP) | 4:11 | 2021-07-10 | 2021-09-18 |
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2020-09-21\* | 2021-01-23 |
+| [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 | 2023-11-13 |  |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2021-04-10 | 2021-07-17 |
 | [Hit List](https://open.spotify.com/track/1dQtt3K8GyPmH7ZD1LJ2ox) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Hit List](https://open.spotify.com/album/2HFagfqzSWiinz9jqcj4Q2) | 2:46 | 2021-01-05 | 2021-07-24 |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2022-12-02 |  |
@@ -600,7 +601,7 @@
 | [Nothing Matters \- Kapera Remix](https://open.spotify.com/track/182diZ20hXa9pRtRJv1vyJ) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Kapera](https://open.spotify.com/artist/6pbownHQeZG6xwDSUEjewe) | [Nothing Matters \(Remixes\)](https://open.spotify.com/album/4jUmWgA0Y6GjeAnojjAxYC) | 3:18 | 2021-12-03 | 2022-03-12 |
 | [Nuclear Lethargy](https://open.spotify.com/track/1OibEvLxYUIkQyFekXqC5N) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Nuclear Lethargy](https://open.spotify.com/album/1IrOPaGt16r7H2TYbVH83c) | 5:44 | 2021-12-03 | 2022-04-23 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-08 |  |
-| [Numb \- Alok Remix](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Numb \(Alok Remix\)](https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf) | 2:52 | 2022-08-26 |  |
+| [Numb \- Alok Remix](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Numb \(Alok Remix\)](https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf) | 2:52 | 2022-08-26 | 2023-11-17 |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2021-10-09 | 2022-03-12 |
 | [Obey](https://open.spotify.com/track/0wYJthlYqptzzneYqMCExU) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 2:58 | 2020-09-21\* | 2021-01-23 |
 | [OCB](https://open.spotify.com/track/4fs4MJMbe10cgpF0cvTtb8) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [OCB](https://open.spotify.com/album/5HBjLxdxgbIZPWfCbTxTde) | 4:13 | 2020-09-21\* | 2020-12-18 |

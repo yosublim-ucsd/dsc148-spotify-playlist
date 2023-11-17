@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,051 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,517 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 |
 | 100 | [Boyfriend](https://open.spotify.com/track/2tyoliWMdmudrQuQbGuKzJ) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You 2](https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk) | 2:18 |
 
-Snapshot ID: `MCw5ZDA4YzBiMzBiMWI2MTUyNjZiMWM4YTRjMmE0M2E4NGZlMGE0MWFj`
+Snapshot ID: `MCw1YmI5OTA0ZDllOTVlMjZkOTVmZDk1YTE3NzZlY2EyNDZlMWFhOGMy`

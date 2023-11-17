@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Gradual Downhill",
+        "url": "https://open.spotify.com/album/0JmZJNNlnr0T8NzfztRAUb"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Gradual Downhill",
+      "url": "https://open.spotify.com/track/24bFwSuFvuaYS4XrVZsBPX"
+    },
+    {
+      "album": {
         "name": "Green Grass",
         "url": "https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP"
       },
@@ -2894,6 +2912,24 @@
       "duration_ms": 197181,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7"
+      },
+      "artists": [
+        {
+          "name": "Egelloc",
+          "url": "https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz"
     },
     {
       "album": {

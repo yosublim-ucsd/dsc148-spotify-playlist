@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Lancelot
+> La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-90 songs - 4 hr 30 min
+93 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Comme je suis belle](https://open.spotify.com/track/7yM1d0OtroPcDI7tRxIExK) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [J'vais bien](https://open.spotify.com/album/1zOhEkxGnRvaESmUxpcucl) | 2:42 | 2023-07-27 | 2023-10-06 |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-21 |  |
 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 | 2023-10-12 |  |
+| [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-16 |  |
 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-27 |  |
 | [Célibataire](https://open.spotify.com/track/5NHRS577smnJUQ8OSinlzs) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [La Traversée du Désir](https://open.spotify.com/album/3KYtykOTlAZhuKcinFjMi3) | 3:05 | 2023-11-09 |  |
 | [Des Trésors](https://open.spotify.com/track/3La4lre4zcgSmP8ZtSZWAL) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/0EcdCP79FGAUF30sPIvgI6) | 3:22 | 2023-07-27 | 2023-09-08 |
@@ -34,6 +35,7 @@
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2023-07-27 | 2023-09-08 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-09-14 |  |
 | [FEEL GOOD](https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [FEEL GOOD](https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF) | 3:19 | 2023-07-27 | 2023-10-13 |
+| [Film Noir](https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Film Noir](https://open.spotify.com/album/0EAD1CSYjqg88Wsgp3xwKC) | 3:27 | 2023-11-16 |  |
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-11-09 |  |
 | [Fête des années 70](https://open.spotify.com/track/2C8FoGkNZ59r0e4tkVTby5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Fête des années 70](https://open.spotify.com/album/2Joa0NEZ7HkFyTwjITLmZh) | 2:21 | 2023-11-09 |  |
 | [Hold Up \(à l'eau de rose\)](https://open.spotify.com/track/6a0Ad99CVzcR9FS9XJr9VP) | [Sara Saphir](https://open.spotify.com/artist/64WmkM3KtYsEfK2niBa4Jl) | [Pansements](https://open.spotify.com/album/09p6CCTiy6jIdGDgyFSnTB) | 3:10 | 2023-07-27 | 2023-08-25 |
@@ -52,7 +54,7 @@
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 |  |
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 |  |
-| [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 |  |
+| [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 | 2023-11-17 |
 | [Les insectes](https://open.spotify.com/track/17nHtKXQRXjyXb7YpFf9gB) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les Royaumes Minuscules](https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz) | 3:20 | 2023-07-27 | 2023-09-01 |
 | [Les silences](https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 3:43 | 2023-10-19 |  |
 | [LIGNE D'ARRIVÉE](https://open.spotify.com/track/7apnTW8c5llW1ERH033ETy) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [LIGNE D'ARRIVÉE](https://open.spotify.com/album/7LAKsgH2czlD90MDrUXEf2) | 2:58 | 2023-09-28 |  |
@@ -68,9 +70,9 @@
 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-08-31 |  |
 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 | 2023-09-07 | 2023-10-20 |
 | [Particulière](https://open.spotify.com/track/08JcUKpP6YqbYuSZxBHz7R) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Particulière](https://open.spotify.com/album/56GnbazzHQ5v2V4ZRwSloh) | 2:48 | 2023-07-27 | 2023-09-08 |
-| [Pas vraiment](https://open.spotify.com/track/50bolTQzLQn8AC1QhjM3XP) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:42 | 2023-07-27 |  |
+| [Pas vraiment](https://open.spotify.com/track/50bolTQzLQn8AC1QhjM3XP) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:42 | 2023-07-27 | 2023-11-17 |
 | [Pensées violentes](https://open.spotify.com/track/7LZeI9vSZQCOVQHGsblPNi) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Pensées violentes](https://open.spotify.com/album/0m67K9xL80XNzIc4jtlBgB) | 2:10 | 2023-09-28 | 2023-11-10 |
-| [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-07-27 |  |
+| [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-07-27 | 2023-11-17 |
 | [Pleurer de joie](https://open.spotify.com/track/4lZqzNfv2xx0DJSchmyci8) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Pleurer de joie](https://open.spotify.com/album/4oY57RnsySHT43Zvtf6Em2) | 2:45 | 2023-07-27 | 2023-09-15 |
 | [Pluie Violette](https://open.spotify.com/track/6lu9B5zAGzdwly5UfY7BFD) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Pluie Violette](https://open.spotify.com/album/1FvgPkOyVI2RPQYME5P1Ho) | 3:36 | 2023-09-14 |  |
 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 | 2023-09-28 |  |
@@ -86,6 +88,7 @@
 | [Roméo](https://open.spotify.com/track/3uBlI0TvJ1QGOPesQ7yL6W) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 3:12 | 2023-07-27 | 2023-11-10 |
 | [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 | 2023-07-27 | 2023-09-08 |
 | [Sauvée par la nuit](https://open.spotify.com/track/09g6qL7DNxJNeGsr85ltPl) | [Clo](https://open.spotify.com/artist/6fCkytzB2pRVxkmn3awZ1h) | [Sauvée par la nuit](https://open.spotify.com/album/1oxBuZiPXUo6kEJhreMZmr) | 2:43 | 2023-07-27 | 2023-09-15 |
+| [Souvenirs](https://open.spotify.com/track/6CLY3RUrhyQNVYV8J1dQIg) | [Adrian Ström](https://open.spotify.com/artist/6wx08H9LZLWjuj6gYySyzX), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Souvenirs](https://open.spotify.com/album/0H0JL5VvXBnu5Kg7j8jEnr) | 2:58 | 2023-11-16 |  |
 | [Spoon](https://open.spotify.com/track/4lrByaHULAk1oFuKI6rOsA) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Spoon](https://open.spotify.com/album/4dFtbwST7q3v77LrcurwP8) | 2:59 | 2023-07-27 |  |
 | [SPQ](https://open.spotify.com/track/56LuwIO3bDdZNjbMIcbVGL) | [Manwarp](https://open.spotify.com/artist/54YtaiyvjFdsEu7iVGL7r3) | [SPQ](https://open.spotify.com/album/4pvMSdpkZtn8diJEwiLigi) | 3:04 | 2023-09-07 |  |
 | [Stigmate](https://open.spotify.com/track/3SsLyXY1ddnhjAwSafPIrc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:10 | 2023-10-05 |  |

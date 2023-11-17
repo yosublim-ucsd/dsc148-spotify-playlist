@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-298 songs - 19 hr 40 min
+299 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Horizon](https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Horizon](https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK) | 3:34 | 2021-08-05 | 2023-05-31 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-24 |  |
 | [Hurt Somebody](https://open.spotify.com/track/59oLiH1CC7dmBolUZQSSRt) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Hurt Somebody](https://open.spotify.com/album/6ePXCJjApGvTuNYbufL2Xq) | 2:59 | 2021-08-05 | 2022-07-29 |
+| [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-17 |  |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2023-05-30 | 2023-11-05 |
 | [I Love America](https://open.spotify.com/track/6m3E1vIR4NLoMkc5ahzYkb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of 70](https://open.spotify.com/album/2Xxtj609hC0qtICpAac9Hh) | 3:50 | 2023-05-14 | 2023-05-30 |
 | [I Love Video](https://open.spotify.com/track/7yKGeGDjtxmfp4jlMvPUyE) | [New Paradise](https://open.spotify.com/artist/7ybbaTETR9aq05M6ud64ru) | [I Love Video](https://open.spotify.com/album/4vFB185QRgDTR4R6vY6Xms) | 4:01 | 2023-05-14 | 2023-05-30 |
@@ -266,7 +267,7 @@
 | [The Player](https://open.spotify.com/track/1CMYaclBw1oZTwivt0Z8Si) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 4:04 | 2023-05-14 | 2023-05-30 |
 | [The Same](https://open.spotify.com/track/3ncJhUV2qVs2GZJFeTZY3S) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [The Same](https://open.spotify.com/album/3UNlgvakgvIGcdwFuQiAWy) | 8:18 | 2021-08-05 | 2022-06-19 |
 | [The Semimodular Bird of Jazz](https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on Me EP](https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc) | 4:49 | 2023-07-21 |  |
-| [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2023-10-30 |  |
+| [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2023-10-30 | 2023-11-17 |
 | [The Strolling Cat](https://open.spotify.com/track/6NrkR6O4lunnPdW8NUXjoC) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Oh Baby — The Strolling Cat](https://open.spotify.com/album/7nzEV1BJm9za8L9kU58RrW) | 4:13 | 2021-08-05 | 2022-07-29 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2023-05-30 |  |
 | [The Way You Say \- LP Giobbi Remix](https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Way You Say \(Remixes\)](https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ) | 2:55 | 2023-05-30 |  |

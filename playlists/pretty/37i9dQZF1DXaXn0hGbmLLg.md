@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! <a href="spotify:artist:6zWJfH1TTmIqEi7EV35HGr">Pip Blom</a> is EQUAL Netherlands ambassador for November
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,516 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,511 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 40 | [So Excited](https://open.spotify.com/track/5CrFz7M2WpF1YYx6QL9z7z) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [So Excited](https://open.spotify.com/album/2NdXKVut24C4q6TeU1mldx) | 2:39 |
 | 41 | [2 Glazen Wijn](https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75), [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0) | [2 Glazen Wijn](https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg) | 2:34 |
 | 42 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
-| 43 | [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 |
+| 43 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 |
 | 44 | [Liquid Sunshine](https://open.spotify.com/track/6PgifhusUkCULgeIeKPm06) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Liquid Sunshine](https://open.spotify.com/album/5N67bJAkAlVuN61fYyVC6X) | 4:55 |
 | 45 | [No Room 4 U](https://open.spotify.com/track/6oqnGzKVZ6UAw2qRLxCIco) | [Anna\-Rose Clayton](https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS) | [No Room 4 U](https://open.spotify.com/album/4tJcJC8yYgfSnosxA6dEJw) | 2:40 |
 | 46 | [I’ve said it all](https://open.spotify.com/track/4OFOEZ6dXRaVlmdDEZ0xfA) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [I’ve said it all](https://open.spotify.com/album/6EAIwS6OLfgul70IfWq62w) | 2:56 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 66 | [Sorry dat ik stoor](https://open.spotify.com/track/1otdNSbercygfjKDmtSNTZ) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Sorry dat ik stoor](https://open.spotify.com/album/4d19JlNDJ2OwrGBWETU3rP) | 3:24 |
 | 67 | [Verdwijnen](https://open.spotify.com/track/5zLzSpToBAVDR6a8u4ambI) | [Rosann](https://open.spotify.com/artist/3dE7on3BB65SgLwpiloMsT) | [Verdwijnen](https://open.spotify.com/album/5ZP298nZZ4vNkoXDErzjmd) | 3:51 |
 
-Snapshot ID: `MCwzN2IzMDFlZmY0NmU1NWNjYjUwNGYxMzFhZWU4OGMzN2VmMjAxNzc0`
+Snapshot ID: `MCxiNDkyODM0MzRiOGEwYTI4N2EzMTVlMjY4YjFjMGZiZWE2YmExMjU5`

@@ -2,7 +2,7 @@
 
 ### [Chill the F\*\*\* out](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
-> Just chill the F\*\*\* out to our mix of relaxing hits\. Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix \| Chillax \| Relax
+> Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix \| Chillax \| Relax
 
 655 songs - 1 day 12 hr 25 min
 

@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Cold Springs",
+        "url": "https://open.spotify.com/album/1TVpqDyN81M4VZTZZDC2cY"
+      },
+      "artists": [
+        {
+          "name": "New 4",
+          "url": "https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx"
+        },
+        {
+          "name": "Toomas Keski-S\u00e4ntti",
+          "url": "https://open.spotify.com/artist/6Nv4OPkMMv7s5Kush2Flp3"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324413,
+      "name": "Cold Springs",
+      "url": "https://open.spotify.com/track/7c3tADXsEF2hHNLMQ9bWAs"
+    },
+    {
+      "album": {
         "name": "Prog Fu!",
         "url": "https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7"
       },
@@ -544,6 +566,28 @@
       "duration_ms": 435773,
       "name": "Corona",
       "url": "https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i"
+    },
+    {
+      "album": {
+        "name": "Cross-Atlantic Connection",
+        "url": "https://open.spotify.com/album/3Drx9aUm2Oerolurx12WBr"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358946,
+      "name": "Cross-Atlantic Connection",
+      "url": "https://open.spotify.com/track/7jkmwQVtug8tB9RzPMY6pH"
     },
     {
       "album": {
@@ -674,7 +718,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 360560,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/2ulrCn7v24eySiwshtmyFN"
@@ -692,7 +736,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 303093,
       "name": "Direction Zero",
       "url": "https://open.spotify.com/track/1g3OXg3fy4uuvT6f1lfTrr"
@@ -2092,7 +2136,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 289698,
       "name": "One small step",
       "url": "https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F"
@@ -3364,7 +3408,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 74300,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA"

@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+      },
+      "artists": [
+        {
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+    },
+    {
+      "album": {
         "name": "Merit!",
         "url": "https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi"
       },
@@ -2538,6 +2556,40 @@
       "duration_ms": 207960,
       "name": "Singel",
       "url": "https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh"
+    },
+    {
+      "album": {
+        "name": "Tidvatten",
+        "url": "https://open.spotify.com/album/4W7a2yYRkWtAmeph2GBsyF"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Malm\u00e9n",
+          "url": "https://open.spotify.com/artist/6uJfepnIWETHQxJ17m1RC6"
+        },
+        {
+          "name": "Alice Hernqvist",
+          "url": "https://open.spotify.com/artist/1rESTuT9litogW6ubtyzHy"
+        },
+        {
+          "name": "Par-Ola Landin",
+          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
+        },
+        {
+          "name": "Jon F\u00e4lt",
+          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
+        },
+        {
+          "name": "Thomas Backman",
+          "url": "https://open.spotify.com/artist/5h61EPng9DRaWNdtcJ46pf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "Sj\u00f6n h\u00e5ller himlen",
+      "url": "https://open.spotify.com/track/5NPNh5heNH26QPhsb5gdxd"
     },
     {
       "album": {

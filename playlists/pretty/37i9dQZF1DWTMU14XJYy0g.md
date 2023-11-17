@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Richard Coleman
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,688 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,689 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 69 | [Lejos Estoy](https://open.spotify.com/track/7p9hMuHlKpiJoeoBWT1jic) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Ciro Pertusi](https://open.spotify.com/artist/1WfuDfBxYtT6FmhKaLKFJc) | [Lejos Estoy](https://open.spotify.com/album/6eBMJM8ZcUFxeP7rXMVgL8) | 3:32 |
 | 70 | [EGO](https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [EGO](https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP) | 2:56 |
 
-Snapshot ID: `MCw3ZmU1ZDM4ZDI2NjM1ZWRlY2QyMGE3NTU2YjY4ZDIyYmY5ZWNlZTI1`
+Snapshot ID: `MCwyZWU4OWQzZTFiNzViOGMyNDk2NWMyZDAzNWZjM2M3ZWZlNzFlYzQ3`

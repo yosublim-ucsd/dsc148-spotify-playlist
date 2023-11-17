@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 141176,
       "name": "Apple",
       "url": "https://open.spotify.com/track/4CWY4ISUUdFrN8YDrqETzh"
@@ -3872,7 +3872,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 125538,
       "name": "Bright Encounters",
       "url": "https://open.spotify.com/track/5sNMW4UPPJ8Zosu9elP9dj"
@@ -8256,7 +8256,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 129750,
       "name": "Elektrons & Sand",
       "url": "https://open.spotify.com/track/1Z4bpJGqmQggtnW2ecBcVl"
@@ -11352,7 +11352,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 132705,
       "name": "gramophone groove",
       "url": "https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP"
@@ -14508,7 +14508,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 145000,
       "name": "Kyoto Heights",
       "url": "https://open.spotify.com/track/7DM4hfmEqXzcmsm5OciGRw"
@@ -14844,6 +14844,24 @@
       "duration_ms": 159216,
       "name": "Lay back and Groove",
       "url": "https://open.spotify.com/track/5VPyMhao8bpy9aqPWpORk2"
+    },
+    {
+      "album": {
+        "name": "Lazy Locomotive",
+        "url": "https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "Lazy Locomotive",
+      "url": "https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49"
     },
     {
       "album": {
@@ -16027,6 +16045,24 @@
     },
     {
       "album": {
+        "name": "Lounge Pony",
+        "url": "https://open.spotify.com/album/1pgUDDxFjA5xXQdjpCJQGG"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137834,
+      "name": "Lounge Pony",
+      "url": "https://open.spotify.com/track/15YqQldesDAP9s43MzFk3q"
+    },
+    {
+      "album": {
         "name": "Lost Instrument",
         "url": "https://open.spotify.com/album/21Y57FbMC9n2wHJWBq0qCk"
       },
@@ -16662,6 +16698,24 @@
       "duration_ms": 101052,
       "name": "Mantle",
       "url": "https://open.spotify.com/track/01CiHxdD5pV8KzXzsZbaUH"
+    },
+    {
+      "album": {
+        "name": "Marbles",
+        "url": "https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF"
+      },
+      "artists": [
+        {
+          "name": "Maggotts&Becketts",
+          "url": "https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131124,
+      "name": "Marbles",
+      "url": "https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl"
     },
     {
       "album": {
@@ -17542,6 +17596,24 @@
       "duration_ms": 177534,
       "name": "Mist",
       "url": "https://open.spotify.com/track/20PI4A6FMkxYnNESr4pF6p"
+    },
+    {
+      "album": {
+        "name": "Mister you forgot your hat",
+        "url": "https://open.spotify.com/album/5AMN6MO3ZFp44QI8WeM5X9"
+      },
+      "artists": [
+        {
+          "name": "Meryl Street",
+          "url": "https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144035,
+      "name": "Mister you forgot your hat",
+      "url": "https://open.spotify.com/track/7HHLfthMPLGO4INZtNjxHW"
     },
     {
       "album": {
@@ -20420,7 +20492,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -20732,7 +20804,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 129000,
       "name": "Particles",
       "url": "https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2"
@@ -21556,6 +21628,42 @@
       "duration_ms": 144000,
       "name": "Phunk dilla",
       "url": "https://open.spotify.com/track/2dOCWgcDWcxpWq2VwmYDQE"
+    },
+    {
+      "album": {
+        "name": "Piano Roll",
+        "url": "https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt"
+      },
+      "artists": [
+        {
+          "name": "Vancgroover",
+          "url": "https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Piano Roll",
+      "url": "https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp"
+    },
+    {
+      "album": {
+        "name": "piece of cake",
+        "url": "https://open.spotify.com/album/2ISl6imEYl6rHKHjzASGM2"
+      },
+      "artists": [
+        {
+          "name": "Beats Me, Innit?",
+          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "piece of cake",
+      "url": "https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw"
     },
     {
       "album": {
@@ -23353,6 +23461,24 @@
     },
     {
       "album": {
+        "name": "sandwhich beach",
+        "url": "https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z"
+      },
+      "artists": [
+        {
+          "name": "Grace Belly",
+          "url": "https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120588,
+      "name": "sandwhich beach",
+      "url": "https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD"
+    },
+    {
+      "album": {
         "name": "Sandy Feels",
         "url": "https://open.spotify.com/album/6xBm6nNdFvYwnO6DXSoowt"
       },
@@ -23926,7 +24052,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 120839,
       "name": "Shade",
       "url": "https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC"
@@ -24216,6 +24342,24 @@
       "duration_ms": 150007,
       "name": "Sightseeing",
       "url": "https://open.spotify.com/track/5PpqEXf7oqY1OrZz5D8E4V"
+    },
+    {
+      "album": {
+        "name": "signs of winter",
+        "url": "https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6"
+      },
+      "artists": [
+        {
+          "name": "J0pie",
+          "url": "https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125782,
+      "name": "signs of winter",
+      "url": "https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk"
     },
     {
       "album": {
@@ -25885,6 +26029,24 @@
     },
     {
       "album": {
+        "name": "starry night",
+        "url": "https://open.spotify.com/album/3Izct1glTX9dzY3SMbodJO"
+      },
+      "artists": [
+        {
+          "name": "Mathis",
+          "url": "https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143273,
+      "name": "starry night",
+      "url": "https://open.spotify.com/track/4EpMnMxqGXNfmDmEV4Uq6E"
+    },
+    {
+      "album": {
         "name": "Starry Sky",
         "url": "https://open.spotify.com/album/58c0I7luC6IYww4orYNgjq"
       },
@@ -27012,7 +27174,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 145945,
       "name": "Swaype",
       "url": "https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv"
@@ -27030,7 +27192,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144000,
       "name": "Sweet water",
       "url": "https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl"
@@ -28495,6 +28657,24 @@
     },
     {
       "album": {
+        "name": "Tough Night",
+        "url": "https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ"
+      },
+      "artists": [
+        {
+          "name": "Thin Wire",
+          "url": "https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107082,
+      "name": "Tough Night",
+      "url": "https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx"
+    },
+    {
+      "album": {
         "name": "toy story clouds",
         "url": "https://open.spotify.com/album/2IUxB4DkAY8lK6jJmkSGA4"
       },
@@ -28806,7 +28986,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 112142,
       "name": "troppo cotti",
       "url": "https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL"
@@ -31426,6 +31606,24 @@
       "duration_ms": 120666,
       "name": "Zen A.M.",
       "url": "https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11"
+    },
+    {
+      "album": {
+        "name": "Zen Way",
+        "url": "https://open.spotify.com/album/38MgwKlLibLqCp341q38XE"
+      },
+      "artists": [
+        {
+          "name": "Soul Dojo",
+          "url": "https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Zen Way",
+      "url": "https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1"
     },
     {
       "album": {

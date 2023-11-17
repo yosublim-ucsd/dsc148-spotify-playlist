@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-467 songs - 14 hr 23 min
+468 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Time To Nap](https://open.spotify.com/track/7IrYHQD7d72xGSyCMt0VQ5) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Time To Nap](https://open.spotify.com/album/0ShUq9Hv1ihHW5YnjyhAJv) | 1:57 | 2022-08-11 | 2023-05-19 |
 | [Tiny Footprints](https://open.spotify.com/track/2LAf4b2AM8H7tN1qzYRJDc) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Tiny Footprints](https://open.spotify.com/album/6fapnJb9DQAPHrA9g63NAw) | 1:37 | 2022-08-11 |  |
 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Suavidad unida](https://open.spotify.com/artist/0eGCjjaZERJhnbzrQhxskq) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 | 2023-06-22 |  |
+| [Tired Traveler](https://open.spotify.com/track/00jGOvVYjfgXYpHkxurrEJ) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Tired Traveler](https://open.spotify.com/album/1FGtXSTrmT4nPEhTUQOw62) | 2:05 | 2023-11-17 |  |
 | [To a Child](https://open.spotify.com/track/4nqglfsBJV9vUKEDc35UBc) | [Ester Duncan](https://open.spotify.com/artist/3RWd3Uey3oS6wYZOLydd8B) | [Two Rosy Cheeks](https://open.spotify.com/album/6xYOdqYLLdGumrsoSKyhVU) | 1:37 | 2022-08-11 |  |
 | [Tom's Little House](https://open.spotify.com/track/6dbCgZcfcdleCGXz1rzyz0) | [Rudyard Brinley](https://open.spotify.com/artist/6a2UqNxvxt2KjAcRjwcsnn) | [Dinosaur Bob](https://open.spotify.com/album/0JwNu9RVqfxNi1Re491kT7) | 1:15 | 2022-08-11 | 2023-01-20 |
 | [Tommy the night chaser](https://open.spotify.com/track/2abCBj9MO2sLRbU6VMe8XH) | [Paden Small](https://open.spotify.com/artist/72Ja8KG7J3p0Hs7xDV43bC) | [Tommy the night chaser](https://open.spotify.com/album/42vm1mHFdkzuiN4qqAaIT0) | 2:01 | 2022-08-11 |  |

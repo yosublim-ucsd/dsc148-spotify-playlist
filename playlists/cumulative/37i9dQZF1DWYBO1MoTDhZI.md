@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-723 songs - 1 day 15 hr 6 min
+724 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 | 2022-05-20 | 2022-10-15 |
 | [SWEATPANTS](https://open.spotify.com/track/69u2nAgjUzcGcj4Cbn0gHy) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [SWEATPANTS](https://open.spotify.com/album/7Dik3Q7rrHgYDdGY7sqrLh) | 2:07 | 2021-12-11 | 2022-03-05 |
 | [Sweet Little Lies](https://open.spotify.com/track/6ZahaGPhyiXTi1pLEtGM6e) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Sweet Little Lies](https://open.spotify.com/album/0qSNBMGUgtdmmP46p4DTwU) | 2:55 | 2019-09-05\* | 2021-01-08 |
+| [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 | 2023-11-10 |  |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-09-24 | 2022-03-18 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2022-02-18 | 2022-03-26 |
 | [Take A Chance](https://open.spotify.com/track/46d67vPhehiB0xlvfa7zn7) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Take A Chance](https://open.spotify.com/album/1RQS929sWdYKcsNMTuKjiQ) | 2:59 | 2021-11-27 | 2022-01-29 |

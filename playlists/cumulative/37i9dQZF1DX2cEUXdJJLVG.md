@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-283 songs - 17 hr 1 min
+285 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2022-09-09 |  |
 | [Do It Again](https://open.spotify.com/track/1M0R8wiivM8HqsxMEk5BcS) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Dream State](https://open.spotify.com/album/43nVY2OnjsaYqvBcHLVDQN) | 3:20 | 2022-09-09 |  |
 | [Doing What](https://open.spotify.com/track/7xEQu4lEHFsschQceaVpcT) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Doing What](https://open.spotify.com/album/4l31MW9es2uvMFbbZy6vnn) | 3:19 | 2022-09-09 |  |
+| [Double Takes](https://open.spotify.com/track/11IuzqdMsc4EnlwZBeG132) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:37 | 2023-11-16 |  |
 | [Down This Path](https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh), [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Owen Chow](https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7) | [Down This Path](https://open.spotify.com/album/47pnzCgYCKlZpp5MfzDAQW) | 3:22 | 2022-09-15 |  |
 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 | 2022-09-09 |  |
 | [Each Other](https://open.spotify.com/track/1UxoikqGrtU13hhUWdK9IW) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Each Other](https://open.spotify.com/album/2hGHGDawkr0RijE04htGhB) | 3:42 | 2023-02-16 | 2023-03-18 |
@@ -82,6 +83,7 @@
 | [Feelings Mutual?](https://open.spotify.com/track/7J1Zusa5GedbeBAtGrvFoC) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Feelings Mutual?](https://open.spotify.com/album/1X8csoHCSCdhiM37VtKGM6) | 3:09 | 2022-09-09 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-09-09 |  |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 |  |
+| [Find My Balance](https://open.spotify.com/track/504gjXtirBdrvFv7NATVmU) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Find My Balance](https://open.spotify.com/album/51USTT6ydedr5TKwT41XqN) | 2:58 | 2023-11-16 |  |
 | [Fkn Around \(feat\. Megan Thee Stallion\) \- Cuppy Remix](https://open.spotify.com/track/15LBKnN52Sxs9RF3oU1ARA) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Fkn Around \(feat\. Megan Thee Stallion\) \[Cuppy Remix\]](https://open.spotify.com/album/0XoxlkhNlweuQ8E5GeELTr) | 3:14 | 2022-09-09 | 2022-09-16 |
 | [Flashing Lights](https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy) | [Flashing Lights](https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv) | 3:33 | 2023-02-16 |  |
 | [Found Without Searching](https://open.spotify.com/track/6ol1UDjGWnfNs5BvAP8suV) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Found Without Searching](https://open.spotify.com/album/5fW9qR76fuA5QBeSw0qENR) | 3:45 | 2022-09-09 |  |

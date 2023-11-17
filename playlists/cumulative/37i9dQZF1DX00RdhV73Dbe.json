@@ -1050,7 +1050,7 @@
     {
       "album": {
         "name": "In This Darkness",
-        "url": "https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT"
+        "url": "https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ"
       },
       "artists": [
         {
@@ -1061,6 +1061,24 @@
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197000,
+      "name": "In This Darkness",
+      "url": "https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR"
+    },
+    {
+      "album": {
+        "name": "In This Darkness",
+        "url": "https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
       "duration_ms": 197000,
       "name": "In This Darkness",
       "url": "https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy"

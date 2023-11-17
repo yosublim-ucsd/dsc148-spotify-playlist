@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-169 songs - 8 hr 37 min
+170 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2022-11-18 |  |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-09-01 |  |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-11-18 |  |
-| [Solo](https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk) | [Solo](https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq) | 2:58 | 2023-10-20 |  |
+| [Solo](https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Solo](https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT) | 2:58 | 2023-11-10 |  |
+| [Solo](https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk) | [Solo](https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq) | 2:58 | 2023-10-20 | 2023-11-17 |
 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 | 2022-11-18 |  |
 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 | 2022-11-18 | 2023-04-29 |
 | [Só Você](https://open.spotify.com/track/4xXTMynUAc9pRq0DXLC8f3) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [Só Você](https://open.spotify.com/album/4k8YNiDI2cA6mAcNQselNg) | 3:43 | 2023-01-13 | 2023-04-01 |

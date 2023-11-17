@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-18",
-  "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Lindsay Lohan in Falling for Christmas. \n",
+  "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Brandy in Best. Christmas. Ever. ",
   "name": "Netflix Holidays Official Playlist",
   "tracks": [
     {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148751,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/4T6tMacwnRK53WSUfWJDRL"
+    },
+    {
+      "album": {
         "name": "The Mighty Thor: The Complete Fantasy Playlist - Loni Lovato",
         "url": "https://open.spotify.com/album/49BZUDxAcjlCTRNcRF6QSo"
       },
@@ -634,6 +652,24 @@
       "duration_ms": 172073,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/5BqPZ2JaPic94cybdSmh9h"
+    },
+    {
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170807,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/2K7a3IIm84ssfyjcy7fAvH"
     },
     {
       "album": {

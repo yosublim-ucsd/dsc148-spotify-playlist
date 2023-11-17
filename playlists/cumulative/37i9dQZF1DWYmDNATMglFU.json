@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. NOAHFINNCE",
+  "description": "it's a generation \u26d3 ft. Charlotte Sands ",
   "name": "The Locker",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 138127,
       "name": "2 BEST FRIENDS",
       "url": "https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "something4now",
+        "url": "https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203767,
+      "name": "april's",
+      "url": "https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k"
+    },
+    {
+      "album": {
         "name": "Are You Impressed?",
         "url": "https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU"
       },
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 149416,
       "name": "beautiful waste",
       "url": "https://open.spotify.com/track/6JfISacOvddHFsPkE8bE3Z"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 191761,
       "name": "bLeSs uR hEaRt",
       "url": "https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 186601,
       "name": "Brat",
       "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
@@ -3666,7 +3684,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
@@ -7804,7 +7822,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 131944,
       "name": "nobody's favorite person, not even my own",
       "url": "https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq"
@@ -8482,6 +8500,24 @@
       "duration_ms": 133483,
       "name": "Pink Paper",
       "url": "https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje"
+    },
+    {
+      "album": {
+        "name": "pity",
+        "url": "https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179790,
+      "name": "pity",
+      "url": "https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV"
     },
     {
       "album": {
@@ -10082,7 +10118,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 165000,
       "name": "Sucka",
       "url": "https://open.spotify.com/track/5ncA4JJkIyrOz7TEx1C2WS"
@@ -11068,7 +11104,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 204197,
       "name": "This Won't Go Over Well",
       "url": "https://open.spotify.com/track/5orscSJxQSOKAa76mp9xOJ"
@@ -11905,6 +11941,24 @@
     },
     {
       "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
+    },
+    {
+      "album": {
         "name": "Weirdo",
         "url": "https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z"
       },
@@ -12198,7 +12252,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 272626,
       "name": "Would You Come To My Funeral",
       "url": "https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9"

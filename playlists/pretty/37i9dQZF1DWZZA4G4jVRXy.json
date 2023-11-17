@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 126667,
+  "num_followers": 126685,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGQ0YmYzMGQxNmY1MzlmMzM4ZGQ2ZTFlOGE5OWU0ZmVlZGUzYzU0",
+  "snapshot_id": "MCw5NWFkY2U0MjNlNTgzNTIyMGVhYmVjZmNhZmZkMTJhNWYxODdhNTIz",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -335,18 +335,22 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Swingin' sounds for the Jungle Jetset !",
-        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
+        "name": "Lounge Music Deluxe: 101 Strings",
+        "url": "https://open.spotify.com/album/2mvV5ZGc4Iq4h7cOltp31p"
       },
       "artists": [
         {
-          "name": "The Tikiyaki Orchestra",
-          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "101 Strings Orchestra",
+          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Sunset on the Kona Kai",
-      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+      "duration_ms": 157077,
+      "name": "Tropicando",
+      "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -367,22 +371,18 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Lounge Music Deluxe: 101 Strings",
-        "url": "https://open.spotify.com/album/2mvV5ZGc4Iq4h7cOltp31p"
+        "name": "Swingin' sounds for the Jungle Jetset !",
+        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
       },
       "artists": [
         {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        },
-        {
-          "name": "101 Strings Orchestra",
-          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
+          "name": "The Tikiyaki Orchestra",
+          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
         }
       ],
-      "duration_ms": 157077,
-      "name": "Tropicando",
-      "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
+      "duration_ms": 220733,
+      "name": "Sunset on the Kona Kai",
+      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Dance Beat of Xavier Cugat",
+        "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
+      },
+      "artists": [
+        {
+          "name": "Xavier Cugat",
+          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -479,22 +495,6 @@
       "duration_ms": 135946,
       "name": "Coffee Bean / Calabash Annie",
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Dance Beat of Xavier Cugat",
-        "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
-      },
-      "artists": [
-        {
-          "name": "Xavier Cugat",
-          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
-        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
-      },
-      "artists": [
-        {
-          "name": "Jackie Davis",
-          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Glow Worm Cha Cha Cha - Remastered",
-      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "On A Magic Carpet",
-        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
+        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
+        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
       "artists": [
         {
-          "name": "The Three Suns",
-          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
+          "name": "Jackie Davis",
+          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Terry's Theme (From \"Limelight)",
-      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
+      "duration_ms": 143666,
+      "name": "Glow Worm Cha Cha Cha - Remastered",
+      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -675,6 +659,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "On A Magic Carpet",
+        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
+      },
+      "artists": [
+        {
+          "name": "The Three Suns",
+          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Terry's Theme (From \"Limelight)",
+      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
         "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
       },
@@ -687,38 +687,6 @@
       "duration_ms": 259519,
       "name": "Lotus Land",
       "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
-      },
-      "artists": [
-        {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Blue Hawaii",
-      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -739,6 +707,22 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
         "name": "Call of the Islands",
         "url": "https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184718,
       "name": "Colors of Hawaiki",
       "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Don Ho Show! (Live)",
-        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Shells - Live from Hawaii",
-      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hana Hou! Vol. 1",
         "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 110666,
       "name": "Ipo Hula",
       "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Don Ho Show! (Live)",
+        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
+      },
+      "artists": [
+        {
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Shells - Live from Hawaii",
+      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Chill Out Hawaiian Music",
-        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
-      },
-      "artists": [
-        {
-          "name": "The Surfmen",
-          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
-        }
-      ],
-      "duration_ms": 103903,
-      "name": "Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
         "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 190840,
       "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Chill Out Hawaiian Music",
+        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
+      },
+      "artists": [
+        {
+          "name": "The Surfmen",
+          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
+        }
+      ],
+      "duration_ms": 103903,
+      "name": "Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
     },
     {
       "added_at": "2021-01-20 03:50:53",

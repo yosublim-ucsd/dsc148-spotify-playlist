@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,162 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,161 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 74 | [Presence](https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Presence](https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs) | 3:04 |
 | 75 | [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 |
 | 76 | [No Rules \(Slut Me Out\)](https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0), [Paxquiao](https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd) | [No Rules \(Slut Me Out\) \(Single\)](https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd) | 2:52 |
-| 77 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
-| 78 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
+| 77 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
+| 78 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 79 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 |
 | 80 | [PT\. II \(DRAKE & DRIVE\)](https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:39 |
 | 81 | [RollBack](https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9) | [FIFTEENAFTER](https://open.spotify.com/artist/3c6du62jWz8v0jfv24Eye3), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [RollBack](https://open.spotify.com/album/298ehDYTKeUklRTxCBjgdc) | 2:19 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 90 | [This Man](https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4) | 3:48 |
 | 91 | [Man on Fire](https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:24 |
 | 92 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 |
-| 93 | [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 |
-| 94 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 |
-| 95 | [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 |
-| 96 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 |
+| 93 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 |
+| 94 | [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 |
+| 95 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 |
+| 96 | [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 |
 | 97 | [3am](https://open.spotify.com/track/1pXiO2TJZw3n2BzstJxWao) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 2:59 |
 | 98 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 |
 | 99 | [Too Good](https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Too Good](https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l) | 2:48 |
-| 100 | [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 |
+| 100 | [212](https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV) | 2:26 |
 
-Snapshot ID: `MCw4ZTAyMzk1YjkyNzQ4M2UzYjVjYzFlOGRjNTZmN2E2YTcxMDNhYzBj`
+Snapshot ID: `MCwzZjE3MzhhNzViMmE4NWIwNGJlM2VkMDhjMGE2OTNhOGVkZDViZDUy`

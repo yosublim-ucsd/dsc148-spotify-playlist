@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Cristina Lizzul",
+  "description": "Il meglio dell'R&B italiano. Cover: Tho\u00e9",
   "name": "anima R&B",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 206500,
       "name": "ASTRI",
       "url": "https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 215172,
       "name": "BLU",
       "url": "https://open.spotify.com/track/6w4QgM7NJgyIxAOVdvMR32"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 169549,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/6K4c1neXmVgj2qWOZTcGvi"
@@ -1969,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "DOVE SEI?",
+        "url": "https://open.spotify.com/album/4h4NuIGOoWIuvIbkIgvp0S"
+      },
+      "artists": [
+        {
+          "name": "sir prodige",
+          "url": "https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp"
+        },
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "DOVE SEI?",
+      "url": "https://open.spotify.com/track/3s9POjHrD2s3vgFj02G08R"
+    },
+    {
+      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/0Wl0FHybUm2l6mkouUthkz"
       },
@@ -2370,7 +2392,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 150256,
       "name": "Fiori Stanchi",
       "url": "https://open.spotify.com/track/3aVujWlpVrqvuMZvfUpRQu"
@@ -2938,6 +2960,24 @@
       "duration_ms": 160000,
       "name": "I film non sono bastati",
       "url": "https://open.spotify.com/track/4SSCJmAu1ApX5X0TCUjUJk"
+    },
+    {
+      "album": {
+        "name": "ieri/oggi/domani",
+        "url": "https://open.spotify.com/album/4r4q6jwhhoh3TGWcBrG3V4"
+      },
+      "artists": [
+        {
+          "name": "Francesco Kairos",
+          "url": "https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "ieri/oggi/domani",
+      "url": "https://open.spotify.com/track/5bRgaTI1IKf0x1nVFWKRZn"
     },
     {
       "album": {
@@ -3536,7 +3576,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 140877,
       "name": "LA NIGHT",
       "url": "https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE"
@@ -3718,6 +3758,28 @@
       "duration_ms": 146636,
       "name": "Lei o me",
       "url": "https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD"
+    },
+    {
+      "album": {
+        "name": "Letto di rose",
+        "url": "https://open.spotify.com/album/4eWB89BekSjAVnaEIiHs4U"
+      },
+      "artists": [
+        {
+          "name": "Grace Cambria",
+          "url": "https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73"
+        },
+        {
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/6Q1fNu0tbemB0s4igQa5G9"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Letto di rose",
+      "url": "https://open.spotify.com/track/2o1Ug8TARMTYvYx3iPtNZq"
     },
     {
       "album": {
@@ -4270,6 +4332,24 @@
       "duration_ms": 216004,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP"
+    },
+    {
+      "album": {
+        "name": "MEDUSA",
+        "url": "https://open.spotify.com/album/2YYlMDMoqDgCvqGEmuibiX"
+      },
+      "artists": [
+        {
+          "name": "HERMES",
+          "url": "https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175443,
+      "name": "MEDUSA",
+      "url": "https://open.spotify.com/track/5j5xkOryUnxtARjVzpqrN5"
     },
     {
       "album": {
@@ -4858,10 +4938,32 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 171428,
       "name": "non siamo crazy in love",
       "url": "https://open.spotify.com/track/6Xv6BTZfLTsOQgkPIIg1Nd"
+    },
+    {
+      "album": {
+        "name": "Non ti credo",
+        "url": "https://open.spotify.com/album/0fPKyI7zy1RO4VU5jZ64EX"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140724,
+      "name": "Non ti credo",
+      "url": "https://open.spotify.com/track/0fzky2CPINj0Y3QiTMGUqs"
     },
     {
       "album": {
@@ -4880,6 +4982,28 @@
       "duration_ms": 181463,
       "name": "Non ti sento pi\u00f9",
       "url": "https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR"
+    },
+    {
+      "album": {
+        "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/0RWG0hwJKw9uBOA8wFIF1u"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242658,
+      "name": "Non vuoi perdere mai",
+      "url": "https://open.spotify.com/track/1ltRsqo1JQV4qcVLPYkgXL"
     },
     {
       "album": {
@@ -4982,7 +5106,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 166624,
       "name": "Nuvole bianche",
       "url": "https://open.spotify.com/track/53ElUkXHe9yi0UhVP5ZCF2"
@@ -6026,7 +6150,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 176585,
       "name": "Rosso di Marte",
       "url": "https://open.spotify.com/track/5rMe8OtABwtqal2o4e7bDL"
@@ -6110,6 +6234,24 @@
       "duration_ms": 178788,
       "name": "Sad",
       "url": "https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75"
+    },
+    {
+      "album": {
+        "name": "Sakira",
+        "url": "https://open.spotify.com/album/5svGHIiGpLTYtM6lfvqdKo"
+      },
+      "artists": [
+        {
+          "name": "RAFFAELLI",
+          "url": "https://open.spotify.com/artist/2I3PBscT1ZzrreQykk2A7R"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139177,
+      "name": "Sakira",
+      "url": "https://open.spotify.com/track/7MxSR9qAAALy5ewin0QIdx"
     },
     {
       "album": {
@@ -6486,6 +6628,24 @@
       "duration_ms": 178544,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5"
+    },
+    {
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/3Cj25smMyT4TUkMhyyxVLP"
+      },
+      "artists": [
+        {
+          "name": "Tho\u00e9",
+          "url": "https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/6rBZMRl4WssrTFcmr8evTL"
     },
     {
       "album": {

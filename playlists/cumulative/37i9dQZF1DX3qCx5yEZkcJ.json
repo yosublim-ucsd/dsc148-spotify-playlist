@@ -8101,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "stained glass",
+        "url": "https://open.spotify.com/album/7kW2HciwXAKpd3a5Ln6V9o"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "stained glass",
+      "url": "https://open.spotify.com/track/1CZGGAMZ8L8K7KixFUvrDS"
+    },
+    {
+      "album": {
         "name": "Star Lights",
         "url": "https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL"
       },
@@ -8652,7 +8670,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 91768,
       "name": "The Night I Drank Too Much",
       "url": "https://open.spotify.com/track/3gnc0simp5IpXLUKCcEehE"

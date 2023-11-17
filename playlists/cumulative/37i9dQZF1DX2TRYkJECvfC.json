@@ -6814,7 +6814,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 176000,
       "name": "Sorry I Hide in My Room",
       "url": "https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd"
@@ -7740,6 +7740,28 @@
       "duration_ms": 296000,
       "name": "There's No End in the Beginning",
       "url": "https://open.spotify.com/track/5wFeHcOCzPjmzlWS2ro5rI"
+    },
+    {
+      "album": {
+        "name": "These Things Take Time (AK Remix)",
+        "url": "https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181374,
+      "name": "These Things Take Time - AK Remix",
+      "url": "https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap"
     },
     {
       "album": {

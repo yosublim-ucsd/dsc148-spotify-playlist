@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,056 likes - 118 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,208 likes - 118 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 117 | [Aurora](https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Aurora](https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM) | 4:34 |
 | 118 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
 
-Snapshot ID: `MCw0ZTIzOGY4NjZhOTVkMjA3ZGM2MGM4M2EzNWFiNmEwZDNhNzExODA2`
+Snapshot ID: `MCwxMjUwMThjYzU5MDdhMDU2ZjRhYzEwMzg1NTBiMjhhNjE0Mjk2ZmY5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: FLEMMING & Boef",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Snelle",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 170630,
       "name": "23",
       "url": "https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0"
+    },
+    {
+      "album": {
+        "name": "25 Nachten (Wonderful Days)",
+        "url": "https://open.spotify.com/album/3VOCrc5wbid37e9Yj4B2RO"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139756,
+      "name": "25 Nachten (Wonderful Days)",
+      "url": "https://open.spotify.com/track/3vc8nuTPR0eNE06rnywF8V"
     },
     {
       "album": {
@@ -349,6 +367,28 @@
     },
     {
       "album": {
+        "name": "Al Heb Ik Mijn Dag Niet",
+        "url": "https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Al Heb Ik Mijn Dag Niet",
+      "url": "https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC"
+    },
+    {
+      "album": {
         "name": "Twintig I",
         "url": "https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU"
       },
@@ -440,7 +480,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 175853,
       "name": "Alles Kan Vanavond",
       "url": "https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG"
@@ -1105,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "Birkin",
+        "url": "https://open.spotify.com/album/6JBwSQvRHF3HEmifjSWG3W"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126062,
+      "name": "Birkin",
+      "url": "https://open.spotify.com/track/3290xz17jucVOEtGhgEHyi"
+    },
+    {
+      "album": {
         "name": "Bla Bla",
         "url": "https://open.spotify.com/album/59jXHqXPFGBCmcA1zcXLj7"
       },
@@ -1264,7 +1326,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 153176,
       "name": "Boeie",
       "url": "https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO"
@@ -1420,6 +1482,24 @@
       "duration_ms": 160000,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/2QdLK8Px4ogArZbqV4fzyF"
+    },
+    {
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143437,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
     },
     {
       "album": {
@@ -2440,7 +2520,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 174936,
       "name": "Eenzaam Samen",
       "url": "https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF"
@@ -2476,7 +2556,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 186000,
       "name": "Eigen Weg",
       "url": "https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj"
@@ -2828,6 +2908,24 @@
       "duration_ms": 203381,
       "name": "Glas Omhoog",
       "url": "https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv"
+    },
+    {
+      "album": {
+        "name": "Moderne Manieren",
+        "url": "https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Glijpanter",
+      "url": "https://open.spotify.com/track/2ThroYFQQFTyhd2Vi8FwSW"
     },
     {
       "album": {
@@ -3316,7 +3414,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 183968,
       "name": "Hoodiedate",
       "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
@@ -4816,10 +4914,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 174690,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174690,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB"
     },
     {
       "album": {
@@ -5700,6 +5816,28 @@
       "duration_ms": 156470,
       "name": "Reden",
       "url": "https://open.spotify.com/track/27C4hWKoHD15w2UjiOGxdq"
+    },
+    {
+      "album": {
+        "name": "Rock \u2019n Roll in Nederland",
+        "url": "https://open.spotify.com/album/1xrVhPW2YITqCyJFDiKlbL"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Thomas Acda",
+          "url": "https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183518,
+      "name": "Rock \u2018n Roll in Nederland",
+      "url": "https://open.spotify.com/track/7o51u26XzNsTpA23561NJv"
     },
     {
       "album": {
@@ -6660,7 +6798,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 245980,
       "name": "Vaders Zoon",
       "url": "https://open.spotify.com/track/5TGv7eOHSbsxktJJVFc21Q"
@@ -7137,6 +7275,24 @@
     },
     {
       "album": {
+        "name": "Wat Ik Bedoel Te Zeggen",
+        "url": "https://open.spotify.com/album/0jiQXkXsViYvsACHqi2l4n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Eve",
+          "url": "https://open.spotify.com/artist/0eA3GIgzZiKukkzphXJbu5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237407,
+      "name": "Waar Ben Je Bang Voor",
+      "url": "https://open.spotify.com/track/3wIsia7eAooBiChieqIOs2"
+    },
+    {
+      "album": {
         "name": "Waarom",
         "url": "https://open.spotify.com/album/3fcUz2SzycRa0vTdhZmzkc"
       },
@@ -7427,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Weerspiegelde Pijn",
+        "url": "https://open.spotify.com/album/2FdMP9V6my6LEpTZWM4thN"
+      },
+      "artists": [
+        {
+          "name": "Younes",
+          "url": "https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Weerspiegelde Pijn",
+      "url": "https://open.spotify.com/track/5I7Albio6CNHPM8uHoyWuF"
+    },
+    {
+      "album": {
         "name": "Wijze Woorden",
         "url": "https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG"
       },
@@ -7564,7 +7738,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 227119,
       "name": "Zie jij het ook",
       "url": "https://open.spotify.com/track/5bMPwUAC4VdX3c3ChuIogI"
@@ -7806,7 +7980,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 183025,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd"

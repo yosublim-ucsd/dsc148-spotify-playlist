@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf?si=9ANmJOzEQB6eyA_cGJEOug\">Musa Keys</a>  ",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8?si=zSD6LBvEQy2g_TblMXzphQ\">DJ Stopper</a>  ",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -7225,6 +7225,44 @@
     },
     {
       "album": {
+        "name": "Entabeni",
+        "url": "https://open.spotify.com/album/28mecJvytS5gd7huKJ7xfG"
+      },
+      "artists": [
+        {
+          "name": "Soa Family",
+          "url": "https://open.spotify.com/artist/5G4K3KXOIFeKp5qMJSGrka"
+        },
+        {
+          "name": "Tribal Soul",
+          "url": "https://open.spotify.com/artist/60Gxquk4j6GtpnqXaN7MHs"
+        },
+        {
+          "name": "De Rose",
+          "url": "https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL"
+        },
+        {
+          "name": "B33Kay SA",
+          "url": "https://open.spotify.com/artist/3JnGUDpLOhd0VXPUSv6j1R"
+        },
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        },
+        {
+          "name": "Frank Mabeat",
+          "url": "https://open.spotify.com/artist/6UMibn1aMdn9ZYFwgycomA"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381428,
+      "name": "Entabeni",
+      "url": "https://open.spotify.com/track/13qA1SmBLqaepUpabuzJ7u"
+    },
+    {
+      "album": {
         "name": "Ephathini",
         "url": "https://open.spotify.com/album/27MC4CRf1IA1nDKjdytl6A"
       },
@@ -12372,6 +12410,40 @@
       "duration_ms": 357852,
       "name": "Jikelele",
       "url": "https://open.spotify.com/track/1QCo6ngqSV28GA4F7l3d5J"
+    },
+    {
+      "album": {
+        "name": "Jikeleza",
+        "url": "https://open.spotify.com/album/5anE4qB86jFqI1uohNgKcM"
+      },
+      "artists": [
+        {
+          "name": "DJ Stopper",
+          "url": "https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "KMAT",
+          "url": "https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373805,
+      "name": "Jikeleza",
+      "url": "https://open.spotify.com/track/40RWUjtb9QHD2ZUdmQQIes"
     },
     {
       "album": {
@@ -21800,6 +21872,36 @@
       "duration_ms": 415736,
       "name": "Shuku Sha",
       "url": "https://open.spotify.com/track/1oMDG84rvz0SnKZbzkGyGm"
+    },
+    {
+      "album": {
+        "name": "Shukuku",
+        "url": "https://open.spotify.com/album/1C4V0p4q4HGAMqXYsbLq67"
+      },
+      "artists": [
+        {
+          "name": "Luu Nineleven",
+          "url": "https://open.spotify.com/artist/3KeANQfpzWH0OS18JMIU28"
+        },
+        {
+          "name": "Sbu YDN",
+          "url": "https://open.spotify.com/artist/55wbVfRWYzcgJKvpueJ8ry"
+        },
+        {
+          "name": "Babygirlmint",
+          "url": "https://open.spotify.com/artist/3h6u4GmSmqF1SO8M2vj4Ou"
+        },
+        {
+          "name": "ilovelethu",
+          "url": "https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394285,
+      "name": "Shukuku",
+      "url": "https://open.spotify.com/track/2zbofndS7J1D7yXFbLXs7l"
     },
     {
       "album": {

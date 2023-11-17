@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104427,
+  "num_followers": 104438,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDU2ZDIxYWM5Zjc2MDIwYTU1YjJjYWQxMjY5NWExZGE2OWEwNjlk",
+  "snapshot_id": "MCw0ZmRlYTg0NzdkMzYwMDIwNjkwMDdhNTViNmViOWQ2YzQyM2M5MTYy",
   "tracks": [
     {
       "added_at": "2023-10-26 19:55:24",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Indios",
         "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 214213,
       "name": "Jullie",
       "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "Velocidad Crucero",
         "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 216771,
-      "name": "Inteligencia Emocional",
-      "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -983,18 +963,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
       "artists": [
         {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+      "duration_ms": 216771,
+      "name": "Inteligencia Emocional",
+      "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1011,6 +995,22 @@
       "duration_ms": 216670,
       "name": "C\u00f3smica",
       "url": "https://open.spotify.com/track/7gtubJCPm9EcKuHgBxRZRJ"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Matem\u00e1tica sentimental",
         "url": "https://open.spotify.com/album/6TLIjWfvqznXw1p54hPlKE"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 178995,
       "name": "Matem\u00e1tica sentimental",
       "url": "https://open.spotify.com/track/71OHXDiAw5B3Y9yPs9JuEg"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "Te Estoy Amando Locamente",
+        "url": "https://open.spotify.com/album/28zWvg3JwecBCXSgb94aLO"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 200234,
+      "name": "Te Estoy Amando Locamente",
+      "url": "https://open.spotify.com/track/04C2HgsiWUi8WNCp49f1Yj"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "Te Estoy Amando Locamente",
-        "url": "https://open.spotify.com/album/28zWvg3JwecBCXSgb94aLO"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 200234,
-      "name": "Te Estoy Amando Locamente",
-      "url": "https://open.spotify.com/track/04C2HgsiWUi8WNCp49f1Yj"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Por los Dos",
         "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 181622,
       "name": "Por los Dos",
       "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
+        "name": "Tripulantes",
+        "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Bruno Pinto",
+          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
         }
       ],
-      "duration_ms": 138653,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7"
+      "duration_ms": 228504,
+      "name": "Tripulantes",
+      "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "Tripulantes",
-        "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
-      },
-      "artists": [
-        {
-          "name": "Bruno Pinto",
-          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
-        }
-      ],
-      "duration_ms": 228504,
-      "name": "Tripulantes",
-      "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1739,6 +1723,22 @@
       "duration_ms": 198237,
       "name": "Para M\u00ed",
       "url": "https://open.spotify.com/track/0BnNmxZQLByTlVlppl9g1b"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-10-26 19:55:24",

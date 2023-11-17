@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 20090,
+  "num_followers": 20157,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzg1Y2E4MDYyYzM3YzRiZjNlNDlmNjEzMmE2NzA0OTg3YWJiODRm",
+  "snapshot_id": "MCxjNjgyNzBjYmEwNGM3NWY4M2ZmY2IyZDdlYmE5YTExZDE4N2JkYTli",
   "tracks": [
     {
       "added_at": "2023-11-14 13:45:37",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
-        "name": "Mordisco",
-        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "19 (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
+        "name": "Mordisco",
+        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "19 (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
-        "name": "LA FORMA DE TUS HUESOS",
-        "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
+        "name": "Carta para no llorar",
+        "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 212033,
-      "name": "LA FORMA DE TUS HUESOS",
-      "url": "https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn"
+      "duration_ms": 178577,
+      "name": "Carta para no llorar",
+      "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -699,22 +703,18 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
-        "name": "Carta para no llorar",
-        "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
+        "name": "LA FORMA DE TUS HUESOS",
+        "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         }
       ],
-      "duration_ms": 178577,
-      "name": "Carta para no llorar",
-      "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+      "duration_ms": 212033,
+      "name": "LA FORMA DE TUS HUESOS",
+      "url": "https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 173209,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0GH7oknphO2UXvCdQSEwko"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
+        "name": "Cositas",
+        "url": "https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Cositas",
+      "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
         "name": "Gamba - Los Retro",
         "url": "https://open.spotify.com/album/2Y8xORMOnz6pfEr1yrjmjx"
       },
@@ -1079,38 +1095,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) [Vivo]",
       "url": "https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 225586,
-      "name": "Tormento de Amor",
-      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
-        "name": "Cositas",
-        "url": "https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Cositas",
-      "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
-        "name": "Mujer & Ego",
-        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 214006,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1179,6 +1147,38 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
+        "name": "Mujer & Ego",
+        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
+        }
+      ],
+      "duration_ms": 214006,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Tormento de Amor",
+      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
+        "name": "Tarde (feat. Malena Villa)",
+        "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 153058,
+      "name": "Tarde (feat. Malena Villa)",
+      "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
         "name": "Bandana La Vuelta",
         "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 200560,
       "name": "Una L\u00e1grima y Un Beso",
       "url": "https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
-        "name": "Tarde (feat. Malena Villa)",
-        "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        },
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 153058,
-      "name": "Tarde (feat. Malena Villa)",
-      "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
     },
     {
       "added_at": "2023-11-14 13:45:37",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-11-14 13:45:37",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 237456,
-      "name": "Otro Lado",
-      "url": "https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O"
-    },
-    {
-      "added_at": "2023-11-14 13:45:37",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/3gWVb2bUlxVyKWJxaxVgnZ"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 205053,
       "name": "Maldita Noche",
       "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
+    },
+    {
+      "added_at": "2023-11-14 13:45:37",
+      "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 237456,
+      "name": "Otro Lado",
+      "url": "https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O"
     },
     {
       "added_at": "2023-11-14 13:45:37",

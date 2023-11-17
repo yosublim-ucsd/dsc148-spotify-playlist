@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Ran\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,099 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,235 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 63 | [Innovate](https://open.spotify.com/track/1cDsGG8T7UO3hABFM3D0Co) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Innovate](https://open.spotify.com/album/0Ybg4XFk2EItSqZjIIsBEU) | 3:04 |
 | 64 | [Legendary Days](https://open.spotify.com/track/1CJ55e1kyGUzTSiv8utzQw) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Legendary Days](https://open.spotify.com/album/1cKE4N7SuHLkHMFyVhB5Wn) | 3:13 |
 | 65 | [XTC](https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Verox](https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD) | [XTC](https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4) | 2:42 |
-| 66 | [Spirit of the Wolf \- Knockout Outdoor 2023 Anthem](https://open.spotify.com/track/2r4viiAZKsiged9SPMN9Cj) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Spirit of the Wolf \(Knockout Outdoor 2023 Anthem\)](https://open.spotify.com/album/3ocayucRrw5IuJ5Ad4PM0o) | 4:23 |
+| 66 | [Spirit of the Wolf \- \(Knockout Outdoor 2023 Anthem\)](https://open.spotify.com/track/2r4viiAZKsiged9SPMN9Cj) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Spirit of the Wolf \(Knockout Outdoor 2023 Anthem\)](https://open.spotify.com/album/3ocayucRrw5IuJ5Ad4PM0o) | 4:23 |
 | 67 | [Lose It All \- LNY TNZ Remix](https://open.spotify.com/track/1Bwxcp4pB2pvs9jec5Nv01) | [Julian Cross](https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Lose It All \(LNY TNZ Remix\)](https://open.spotify.com/album/4ob6yXOrhWmHGilz7h8EFC) | 2:55 |
 | 68 | [Lost](https://open.spotify.com/track/7gkilPgnvT3g0K0VF2BMVJ) | [Zero Days](https://open.spotify.com/artist/2KNwETqTaIm0KbNyGrCnc6) | [Lost](https://open.spotify.com/album/3Ax0G7wwmN5qsiblbvMdhy) | 3:58 |
 | 69 | [My Pain](https://open.spotify.com/track/0Iuu9xzvZPtqLUkpeMT78L) | [Insurgent](https://open.spotify.com/artist/2SyZmJfQgELdyr4sbiqZS6) | [Cognitive Chaos](https://open.spotify.com/album/6KFBWXbscOOgRsufAipATw) | 3:39 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 78 | [Hardstyle Fanatics](https://open.spotify.com/track/3untbrbsiO4Mi50qNjuoa3) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [MC Activate](https://open.spotify.com/artist/2T6Y1C0xpZYgY2vBKNyr3n) | [Hardstyle Fanatics](https://open.spotify.com/album/4ReLzz8o0IaMTWjhXFmSzI) | 2:42 |
 | 79 | [Dead Or Alive](https://open.spotify.com/track/5hY8EYoOnN5aLdNymjBtGA) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Dead Or Alive](https://open.spotify.com/album/5itpFQfq0ZpU2Yp3xU6411) | 3:48 |
 | 80 | [Hurt Myself](https://open.spotify.com/track/5cuoXXuCjuDrG6rBYwJPxb) | [Wasted Penguinz](https://open.spotify.com/artist/1Ok5WQlGEnuFOiUlpCKcVT), [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [Hurt Myself](https://open.spotify.com/album/0jbxJqUcOe8arLdlI9tuZo) | 3:21 |
-| 81 | [Reawakening \- Atmozfears Edit](https://open.spotify.com/track/2znFCITDYslbygrynpOpvX) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Reawakening \(Atmozfears Edit\)](https://open.spotify.com/album/5hTZnGIfPCS4wkSJFG7wDX) | 4:38 |
+| 81 | [Reawakening \(Atmozfears Edit\)](https://open.spotify.com/track/2znFCITDYslbygrynpOpvX) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Reawakening \(Atmozfears Edit\)](https://open.spotify.com/album/5hTZnGIfPCS4wkSJFG7wDX) | 4:38 |
 | 82 | [Superpower \- Stonebank Remix](https://open.spotify.com/track/37xLtEF5Ewn0U1PFHyTjoK) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Seiren](https://open.spotify.com/artist/5HKQopZI4z7YTgcqsScIrN), [Ina Bravo](https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Superpower \(Stonebank Remix\)](https://open.spotify.com/album/1kwkz7PWHsSvg9DpuAvVnp) | 4:01 |
 | 83 | [Love Death](https://open.spotify.com/track/1H2HyRY6Z4krifebdRQqNY) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Love Death](https://open.spotify.com/album/2Y4Wkt6tTWwGI5yXM9olvN) | 3:12 |
 | 84 | [The Hoover](https://open.spotify.com/track/0QssNmq5FzUv2GMBmeEcX1) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Hoover](https://open.spotify.com/album/5jsHwT2aE5EhLyz69txG1R) | 3:39 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Ruffneck Sound](https://open.spotify.com/track/0QVF56A9dHRJh9iB7L5tZ5) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Ruffneck Sound](https://open.spotify.com/album/4yOfxfaE7xQmSaXjfRc2Xz) | 2:46 |
 | 96 | [Burn The Place Up](https://open.spotify.com/track/3JFlEtsbsAb74sz7rkB4kW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Burn The Place Up](https://open.spotify.com/album/2cAAQ0ANoKN9V3Ze3vKQjN) | 3:07 |
 
-Snapshot ID: `MCw5NGU0NzZhYWQ4YjEzOGQ3YWI4OTI3NmYwMWU1N2YzMTIzZDY2ZmZk`
+Snapshot ID: `MCw4NDJhYTJkODA4MWM0ZjUzMTY3NjU1ZjYzMTkzMTM2ZTJkMjIxNTcy`

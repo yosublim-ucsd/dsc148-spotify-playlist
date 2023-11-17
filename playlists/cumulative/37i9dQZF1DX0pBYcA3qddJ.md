@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-595 songs - 1 day 16 hr 17 min
+596 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Scene II, Kyoto](https://open.spotify.com/track/1PAir9FZ9zwcb5xyVECQfk) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [Cahier de musique / 音楽手帖](https://open.spotify.com/album/58qq0mSyZZV66wEDiMu93i) | 4:27 | 2023-06-13 | 2023-09-06 |
 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 | 2023-05-11 | 2023-06-05 |
 | [Seconds](https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 3:07 | 2023-06-13 | 2023-07-12 |
-| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 |  |
+| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 | 2023-11-17 |
 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 | 2023-11-02 |  |
 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 | 2023-01-26 | 2023-03-01 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-05-05 |
@@ -481,6 +481,7 @@
 | [Tuning to Hear / WAVE I](https://open.spotify.com/track/5UfTtAnJEw6qPLe3hoXCB5) | [Iwamura Ryuta](https://open.spotify.com/artist/3OmrzPwelcCJVLFVSf1CrT) | [Tuning to Hear](https://open.spotify.com/album/5APYYdhxL66xCZKEk4CPgz) | 4:52 | 2023-07-18 | 2023-09-15 |
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-23 | 2023-08-23 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-10-20 | 2022-12-14 |
+| [Two Hearts](https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE) | 4:06 | 2023-11-16 |  |
 | [Tárrega: 涙](https://open.spotify.com/track/3hp9Ue2ZQSPe9KKdT1InrO) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Kiyoshi Shomura](https://open.spotify.com/artist/5T92pu2YFgCPzV64j3EHwB) | [ノスタルジー \~郷愁のショーロ](https://open.spotify.com/album/4Uxsj7kQ2QKMT8xr29YhNT) | 2:06 | 2022-10-20 | 2022-11-23 |
 | [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2022-11-08 | 2023-03-22 |
 | [upside down](https://open.spotify.com/track/6zQ0c4YaJefSGSKeF9iESF) | [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [upside down](https://open.spotify.com/album/6EKbr6r3Xl6LbXMla63wgr) | 2:13 | 2023-02-28 | 2023-04-07 |

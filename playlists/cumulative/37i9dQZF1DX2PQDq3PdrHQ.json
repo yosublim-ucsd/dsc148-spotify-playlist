@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy"
+      },
+      "artists": [
+        {
+          "name": "ax am",
+          "url": "https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135146,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX"
+    },
+    {
+      "album": {
         "name": "Night Light",
         "url": "https://open.spotify.com/album/0JC4SwWrKoQbA55FN64t6R"
       },
@@ -6596,7 +6614,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
@@ -6680,6 +6698,24 @@
       "duration_ms": 141199,
       "name": "Midnight Heart",
       "url": "https://open.spotify.com/track/1MbYPlwWJJ5xYeBt3Yv186"
+    },
+    {
+      "album": {
+        "name": "Midnight Journey",
+        "url": "https://open.spotify.com/album/3J41GkQjmUt8qWVWDv21vT"
+      },
+      "artists": [
+        {
+          "name": "Caretta",
+          "url": "https://open.spotify.com/artist/3Vx5qnH2Ka7XxY1wPbNAWs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181471,
+      "name": "Midnight Journey",
+      "url": "https://open.spotify.com/track/0iHiCxWbptp309rMO6hjVW"
     },
     {
       "album": {
@@ -6854,6 +6890,24 @@
       "duration_ms": 148427,
       "name": "Moniva",
       "url": "https://open.spotify.com/track/2EyksANQ3HLOJgwOhcRnXA"
+    },
+    {
+      "album": {
+        "name": "moon inhale",
+        "url": "https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128046,
+      "name": "moon inhale",
+      "url": "https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D"
     },
     {
       "album": {
@@ -7503,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Nightcap",
+        "url": "https://open.spotify.com/album/0QbrZvU6DYZ7SmJWNpjke2"
+      },
+      "artists": [
+        {
+          "name": "Extatics",
+          "url": "https://open.spotify.com/artist/4iGRANB0bQlyjiewj4ZFs6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144618,
+      "name": "Nightcap",
+      "url": "https://open.spotify.com/track/2Gmuu7T4Zpxbq7BK0uQzSv"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1YRKNXXgVr5Z2XcbrT1JiY"
       },
@@ -7558,10 +7630,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 157134,
       "name": "Nightjar",
       "url": "https://open.spotify.com/track/4xFjlPu00tvSacWqqO51LX"
+    },
+    {
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/12jhOYT2GvjrAib4UMZ7VY"
+      },
+      "artists": [
+        {
+          "name": "Mathssiah",
+          "url": "https://open.spotify.com/artist/4Qm8xoP2jEHarmxmbX0IVe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114474,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/0XQXaNd4gTiSs0SVhOEMNC"
     },
     {
       "album": {
@@ -9339,6 +9429,24 @@
     },
     {
       "album": {
+        "name": "Sense Of Self",
+        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
+      },
+      "artists": [
+        {
+          "name": "Dreams On Vinyl",
+          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131396,
+      "name": "Sense Of Self",
+      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
+    },
+    {
+      "album": {
         "name": "Sensou (Sleep Lofi)",
         "url": "https://open.spotify.com/album/40LyiDymUu0TRDbwRwBeZL"
       },
@@ -9546,7 +9654,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 136000,
       "name": "Silent Path",
       "url": "https://open.spotify.com/track/010GNDJHKUgs9j2npP13iI"

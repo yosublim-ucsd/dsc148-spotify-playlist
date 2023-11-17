@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-178 songs - 17 hr 3 min
+179 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1996 \- Original Mix](https://open.spotify.com/track/4l3DJXvG7RuXWV6G9A2tL1) | [SWART](https://open.spotify.com/artist/5okK26XaG9mv8O5iVKdM6k) | [1996](https://open.spotify.com/album/5ZfQeNuDvVLLKYT93wq4Bu) | 5:32 | 2022-12-02 | 2023-01-28 |
 | [303 State](https://open.spotify.com/track/3Wf6hVbr3YWCWt9py5OzDy) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1), [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [303 State](https://open.spotify.com/album/2Rk7WeMa2O3KhtTlKbg4vH) | 7:33 | 2023-10-06 |  |
 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 | 2023-04-14 | 2023-10-07 |
-| [Addicted To Bass](https://open.spotify.com/track/5znvNcm0PtwWEuy15ufpQa) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Blesssed](https://open.spotify.com/album/5uuW7OVeTJ82at4DTbq69d) | 5:51 | 2023-10-06 |  |
+| [Addicted To Bass](https://open.spotify.com/track/5znvNcm0PtwWEuy15ufpQa) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Blesssed](https://open.spotify.com/album/5uuW7OVeTJ82at4DTbq69d) | 5:51 | 2023-10-06 | 2023-11-17 |
 | [Addiction](https://open.spotify.com/track/6lzfUGV1owlw0hp5JvhpOL) | [Portex](https://open.spotify.com/artist/0pkAxB7rgoFyPyQbyxJN8N) | [Addiction](https://open.spotify.com/album/3G1ZTNCd8H7rWlpwSBrUWE) | 6:30 | 2023-10-06 |  |
 | [Addictive Personality](https://open.spotify.com/track/5Tular0DVDsypYQ59QzTcO) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [About Last Night EP](https://open.spotify.com/album/6CMz9Zfb9ibME18ek4QL4G) | 6:17 | 2022-12-02 | 2023-01-28 |
 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-12-02 | 2023-06-03 |
@@ -184,6 +184,7 @@
 | [West Coast Love](https://open.spotify.com/track/6IdsEMXOA9i8efy41OlFB4) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Blicz](https://open.spotify.com/artist/3PnWOaMJ1XWctt7UBJuwz0) | [RCKLSS006](https://open.spotify.com/album/44g3plYDtTn9MB3FTjvkrc) | 6:12 | 2023-01-27 | 2023-10-07 |
 | [Witch Doctor \- Original Mix](https://open.spotify.com/track/5tjPpvhaP6WAhTdTWnZVta) | [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Dance With Me EP](https://open.spotify.com/album/7yM16V22VOujgezbM9bUHg) | 4:45 | 2023-10-06 |  |
 | [World of Magic \- Original Mix](https://open.spotify.com/track/4KjgynSXWOLeo3QGMS5zY7) | [Nika Key](https://open.spotify.com/artist/6PMYdlBji0qnyKvhAKydGv) | [World of Magic](https://open.spotify.com/album/4mXUHr646P99aa02c5o5El) | 7:22 | 2023-10-06 |  |
+| [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 | 2023-11-16 |  |
 | [You Want More](https://open.spotify.com/track/79eTTS35Pkav11RYByADD7) | [Analect](https://open.spotify.com/artist/5oMo0oEwNSokwvVOrX2FTk) | [One Step Further](https://open.spotify.com/album/30sbfn8qrOUr1qtqvUtOdq) | 5:25 | 2022-12-02 | 2023-01-28 |
 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2023-10-06 |  |
 

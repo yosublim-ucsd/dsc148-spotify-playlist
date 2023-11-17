@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/323840?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,650 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,794 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 |
 | 2 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
-| 3 | [あのね](https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [あのね](https://open.spotify.com/album/51IrCOKFFNz3tgimqoyBCm) | 6:46 |
+| 3 | [Anone](https://open.spotify.com/track/4oKsfQvfCHiFkKww8vX56O) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Anone](https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi) | 6:46 |
 | 4 | [Hoshi no Furu Hi ni](https://open.spotify.com/track/1wUV9QbSDeBKintovkTn5v) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hoshi no Furu Hi ni](https://open.spotify.com/album/39nOsCE0tDfgTBPVRHwpvk) | 4:49 |
 | 5 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
 | 6 | [美電球](https://open.spotify.com/track/4oEcfGnvhxjjMscLLnNYSR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Ame](https://open.spotify.com/track/4ktqxaSCWyy9UUMt0oW3sk) | [Sonosaki Tomari](https://open.spotify.com/artist/6UvCh5mEmgJe9Oeb4XjKDA) | [Ame](https://open.spotify.com/album/6IQy4ozFBnwlZJ4DBwAIcJ) | 5:04 |
 | 80 | [paradiselost \- feat.成山内\(sleepy.ab\)](https://open.spotify.com/track/2t6MxMhjkpVFoJTzWfu0Sv) | [noid](https://open.spotify.com/artist/2fmNCUJ5ne4OgRofGX4iQT), [成山内\(sleepy.ab\)](https://open.spotify.com/artist/7CE7DciBrq4HZUSzF5N1CK) | [YAMI／YO／AKE](https://open.spotify.com/album/43riQ3B9dmCTPmJdKQX8LD) | 5:29 |
 
-Snapshot ID: `MCwwODQwY2UzOGNjMmM4MTZlNzMwNmEwMGNhNTQxYWIzZDdhNDc3MmQ0`
+Snapshot ID: `MCxhNDkxMmMzMjI3YzRmNmU0ODA2YWJjNzFkNjYxZWRkMDhmZDU3NWEx`

@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Elmiene",
-  "num_followers": 134414,
+  "num_followers": 134479,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzRmNDY5MTI2ZjFlNjg2YzA2MDhmNGYzZjg0YzhlMWU5ODk0MTQw",
+  "snapshot_id": "MCwzZDJhMzJkZmM5YzkzMWRmNTcxMjA4OGNhOGIxM2I4ODcyZWQwZjZl",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs"
-    },
-    {
-      "added_at": "2023-11-03 00:01:00",
-      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199833,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
+    },
+    {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "When the Rain Comes",
-        "url": "https://open.spotify.com/album/2mPSmGrWTnWuND6i6CwgWE"
+        "name": "Djesse Vol. 3",
+        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
       },
       "artists": [
         {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 199146,
-      "name": "When the Rain Comes",
-      "url": "https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ"
+      "duration_ms": 232706,
+      "name": "In Too Deep (feat. Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Djesse Vol. 3",
-        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
+        "name": "When the Rain Comes",
+        "url": "https://open.spotify.com/album/2mPSmGrWTnWuND6i6CwgWE"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
         }
       ],
-      "duration_ms": 232706,
-      "name": "In Too Deep (feat. Kiana Led\u00e9)",
-      "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+      "duration_ms": 199146,
+      "name": "When the Rain Comes",
+      "url": "https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -971,22 +971,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "As You Are - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
+        "name": "BARE SUGAR",
+        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
       "artists": [
         {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
         },
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 221493,
-      "name": "As You Are - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
+      "duration_ms": 155728,
+      "name": "long stay (feat. Bakar)",
+      "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
     },
     {
       "added_at": "2023-11-03 00:01:00",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Timeout",
-        "url": "https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg"
+        "name": "As You Are - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
       "artists": [
         {
-          "name": "Mellina Tey",
-          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 131612,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn"
+      "duration_ms": 221493,
+      "name": "As You Are - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
     }
   ],
   "unique_name": "R&B UK",

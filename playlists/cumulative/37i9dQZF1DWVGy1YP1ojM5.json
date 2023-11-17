@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 202453,
       "name": "BPW",
       "url": "https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7"
@@ -3424,6 +3424,28 @@
       "duration_ms": 250362,
       "name": "Teen Scene feat. Buddy",
       "url": "https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj"
+    },
+    {
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241746,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/1826XXl1rbdbhFk5xdnXNA"
     },
     {
       "album": {

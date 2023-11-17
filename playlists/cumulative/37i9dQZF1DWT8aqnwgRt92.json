@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 180826,
       "name": "6\u3092\u64ab\u3067\u308b",
       "url": "https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo"
@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "TV SERIES \u201dTHE EMINENCE IN SHADOW\u201d 2ND SEASON \u201dEverything is Changing\u201d",
+        "url": "https://open.spotify.com/album/48PV0k4eMCzWk3TSyweLpw"
+      },
+      "artists": [
+        {
+          "name": "\u524d\u5cf6\u9ebb\u7531",
+          "url": "https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "EVERYTHING IS CHANGING",
+      "url": "https://open.spotify.com/track/3aSsyMvqldzre2hOSgJAVg"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/1gy6kxmk82kfFlscoStQsa"
       },
@@ -3064,6 +3082,24 @@
       "duration_ms": 223789,
       "name": "FRIENDS (from \"\u6c38\u4e45\u5c11\u5e74 Eternal Boys\")",
       "url": "https://open.spotify.com/track/0xALdPJdiAiU1JzkPDaG7L"
+    },
+    {
+      "album": {
+        "name": "Friends Are For",
+        "url": "https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe"
+      },
+      "artists": [
+        {
+          "name": "MOONCHILD",
+          "url": "https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Friends Are For",
+      "url": "https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi"
     },
     {
       "album": {
@@ -8328,7 +8364,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 220359,
       "name": "RISE FROM DEAD",
       "url": "https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC"

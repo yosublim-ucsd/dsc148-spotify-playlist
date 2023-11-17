@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 544222,
+  "num_followers": 544227,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUzNDEyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUzNDk5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Kristoffer Robin",
         "url": "https://open.spotify.com/album/6La3rhXQv3k63XxsEOD6sM"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6qECeG4hIl0jXP4XaGUTaC"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Badebussen (feat. Kjartan Lauritzen)",
         "url": "https://open.spotify.com/album/4MYKiIrk0MXrgthFJTgKe9"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5F8c71PbayLIedqmjskrhM"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -117,27 +117,7 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Feeling Myself (Roc Boyz Remix)",
-        "url": "https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Feeling Myself - Roc Boyz Remix",
-      "url": "https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "STAG 2024",
         "url": "https://open.spotify.com/album/4XZVXvWuCJIVsOG5AN3FBa"
@@ -161,23 +141,27 @@
       "url": "https://open.spotify.com/track/0R7rw7i4pd27isZrMen0X7"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "Feeling Myself (Roc Boyz Remix)",
+        "url": "https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 182769,
+      "name": "Feeling Myself - Roc Boyz Remix",
+      "url": "https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -193,23 +177,23 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
-        "name": "Blendende Lys (Sprut)",
-        "url": "https://open.spotify.com/album/6Kqynu13o6sqwdbx0h4w8O"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 129130,
-      "name": "Blendende Lys (Sprut)",
-      "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -225,23 +209,23 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "Blendende Lys (Sprut)",
+        "url": "https://open.spotify.com/album/6Kqynu13o6sqwdbx0h4w8O"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+      "duration_ms": 129130,
+      "name": "Blendende Lys (Sprut)",
+      "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "The Singles: Echoes from the Edge of Heaven",
         "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
@@ -257,7 +241,23 @@
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
@@ -273,7 +273,23 @@
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Et godt stup i et grunt vann",
+        "url": "https://open.spotify.com/album/0BrcpRYg40t0Ia6XUtkVU5"
+      },
+      "artists": [
+        {
+          "name": "Cezinando",
+          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Kristoffer Robin",
+      "url": "https://open.spotify.com/track/6EfZLPYsaXiu9yszHkkc0w"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -293,23 +309,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Et godt stup i et grunt vann",
-        "url": "https://open.spotify.com/album/0BrcpRYg40t0Ia6XUtkVU5"
-      },
-      "artists": [
-        {
-          "name": "Cezinando",
-          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Kristoffer Robin",
-      "url": "https://open.spotify.com/track/6EfZLPYsaXiu9yszHkkc0w"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
         "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Haien Kommer (Sharkdog)",
         "url": "https://open.spotify.com/album/1cWmabFDCXJPWv5Zxf0D0U"
@@ -361,7 +361,39 @@
       "url": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Zanotti",
+      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Michelin Stjerner",
+      "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -377,23 +409,23 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
       "artists": [
         {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -409,7 +441,23 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Danseproblem",
         "url": "https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE"
@@ -429,23 +477,7 @@
       "url": "https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Return Of The Russeartist",
         "url": "https://open.spotify.com/album/3Cg7WHGJvCRBPrvJNw31bR"
@@ -473,7 +505,39 @@
       "url": "https://open.spotify.com/track/7g9ZXfxVN8gsO3IdgkyoMD"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "hope ur miserable",
+        "url": "https://open.spotify.com/album/7CnjqYvhqexT3lRJA3TDQS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 145631,
+      "name": "hope ur miserable",
+      "url": "https://open.spotify.com/track/4JYijTDaaV48IotViPKOm6"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "ER DETTE TIL \u00c5 OVERLEVE",
         "url": "https://open.spotify.com/album/5XnpGSg6UC4A9j0lyWM9Y6"
@@ -493,23 +557,7 @@
       "url": "https://open.spotify.com/track/1aILoZDz3wsIKO4Nj6aLgz"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Michelin Stjerner",
-      "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -525,107 +573,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "hope ur miserable",
-        "url": "https://open.spotify.com/album/7CnjqYvhqexT3lRJA3TDQS"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 145631,
-      "name": "hope ur miserable",
-      "url": "https://open.spotify.com/track/4JYijTDaaV48IotViPKOm6"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Zanotti",
-      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Dagene",
-        "url": "https://open.spotify.com/album/41sgFLH3ullYaSckj7sF5X"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 158728,
-      "name": "Dagene",
-      "url": "https://open.spotify.com/track/25FS0ztvFZVMpVyYiqUKsx"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Hver Gang Vi M\u00f8tes 2023",
-        "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 212962,
-      "name": "Floden",
-      "url": "https://open.spotify.com/track/0XzWcSh30W1H1o4ZiyI90j"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
@@ -645,23 +593,59 @@
       "url": "https://open.spotify.com/track/0WFyQgDzbQCfJuxcHW4Zrt"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
-        "name": "Hjemme for meg",
-        "url": "https://open.spotify.com/album/719up99DviL8hUvJIUNbxk"
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Hver Gang Vi M\u00f8tes 2023",
+        "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
       },
       "artists": [
         {
           "name": "Emma Steinbakken",
           "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 142403,
-      "name": "Hjemme for meg",
-      "url": "https://open.spotify.com/track/7JTcRjQ2dXXuCWCBWQdrvF"
+      "duration_ms": 212962,
+      "name": "Floden",
+      "url": "https://open.spotify.com/track/0XzWcSh30W1H1o4ZiyI90j"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Dagene",
+        "url": "https://open.spotify.com/album/41sgFLH3ullYaSckj7sF5X"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 158728,
+      "name": "Dagene",
+      "url": "https://open.spotify.com/track/25FS0ztvFZVMpVyYiqUKsx"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
@@ -677,7 +661,23 @@
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Hjemme for meg",
+        "url": "https://open.spotify.com/album/719up99DviL8hUvJIUNbxk"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 142403,
+      "name": "Hjemme for meg",
+      "url": "https://open.spotify.com/track/7JTcRjQ2dXXuCWCBWQdrvF"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "M\u00e5nen",
         "url": "https://open.spotify.com/album/5SYRak3CgSgi6GtzfMeMDr"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0xU931puzHsdjnFHpuS5y0"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -729,7 +729,27 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Pikenes Jens",
+        "url": "https://open.spotify.com/album/7Ia36oNhbVY4eLI2RhD7e0"
+      },
+      "artists": [
+        {
+          "name": "Phill",
+          "url": "https://open.spotify.com/artist/1caxfZzRftKxfWglKFyXEj"
+        },
+        {
+          "name": "Gutterommet",
+          "url": "https://open.spotify.com/artist/55X2mGZWaFXgnyt5dAvbXv"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "Pikenes Jens 2024 (Partysnekk)",
+      "url": "https://open.spotify.com/track/0rLhveYoDgncC1dHbDjSLE"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -745,7 +765,23 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Lenge Leve",
+      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -761,27 +797,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "K\u00e5mon (ft. Roc Boyz)",
-        "url": "https://open.spotify.com/album/6Ropk4s8fhqWlSebU9RJHx"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "K\u00e5mon (ft. Roc Boyz)",
-      "url": "https://open.spotify.com/track/04KbGASNQpMe2yiNkfnsni"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Rizzetid",
         "url": "https://open.spotify.com/album/1VsbaUaBQ5LvjVyJWEvXGv"
@@ -805,27 +821,7 @@
       "url": "https://open.spotify.com/track/09Ljv4rzoqrDyiuH7cOPgh"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "Pikenes Jens",
-        "url": "https://open.spotify.com/album/7Ia36oNhbVY4eLI2RhD7e0"
-      },
-      "artists": [
-        {
-          "name": "Phill",
-          "url": "https://open.spotify.com/artist/1caxfZzRftKxfWglKFyXEj"
-        },
-        {
-          "name": "Gutterommet",
-          "url": "https://open.spotify.com/artist/55X2mGZWaFXgnyt5dAvbXv"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "Pikenes Jens 2024 (Partysnekk)",
-      "url": "https://open.spotify.com/track/0rLhveYoDgncC1dHbDjSLE"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -845,39 +841,27 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
-        "name": "Turn\u00e9",
-        "url": "https://open.spotify.com/album/6IckHChPtlWt1NhCb4aDyW"
+        "name": "K\u00e5mon (ft. Roc Boyz)",
+        "url": "https://open.spotify.com/album/6Ropk4s8fhqWlSebU9RJHx"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Turn\u00e9",
-      "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"
-    },
-    {
-      "added_at": "2023-11-15 10:18:04",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        },
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+      "duration_ms": 149090,
+      "name": "K\u00e5mon (ft. Roc Boyz)",
+      "url": "https://open.spotify.com/track/04KbGASNQpMe2yiNkfnsni"
     },
     {
-      "added_at": "2023-11-15 10:18:04",
+      "added_at": "2023-11-16 08:59:21",
       "album": {
         "name": "Violeta Violeta Volume I",
         "url": "https://open.spotify.com/album/32wGzwMnSvQjp5PmjGEPtz"
@@ -891,6 +875,22 @@
       "duration_ms": 200093,
       "name": "Hjerteknuser",
       "url": "https://open.spotify.com/track/3RAHhTC61TZLoQ7I6FfgdN"
+    },
+    {
+      "added_at": "2023-11-16 08:59:21",
+      "album": {
+        "name": "Turn\u00e9",
+        "url": "https://open.spotify.com/album/6IckHChPtlWt1NhCb4aDyW"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "Turn\u00e9",
+      "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"
     }
   ],
   "unique_name": "Top 50 - Norway",

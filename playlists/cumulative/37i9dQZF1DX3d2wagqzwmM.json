@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4DTZ8cBptl7NzqHrH7wVfU"
+      },
+      "artists": [
+        {
+          "name": "Michael Parker",
+          "url": "https://open.spotify.com/artist/4Pt8SOQa9s8qftzbBPPC76"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140812,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4"
+    },
+    {
+      "album": {
         "name": "AIR",
         "url": "https://open.spotify.com/album/3tYIMhkgftIuiTtdKpnySC"
       },
@@ -188,6 +206,24 @@
       "duration_ms": 186000,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/7i3uPLPnfPvssc3gvzIKdQ"
+    },
+    {
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/0qUyM1v4xv2u5jW6lL9tmc"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/4cXtPGaAVwKygE3vVdYfbT"
     },
     {
       "album": {
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 170307,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa"
@@ -4528,7 +4564,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 140800,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/065VacUyBvH3e5rt3C6yh5"
@@ -5124,6 +5160,32 @@
       "duration_ms": 181908,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/3LPtsTvGpHtVgwja5VZFRb"
+    },
+    {
+      "album": {
+        "name": "Party With The Cops (feat. Haley Maze)",
+        "url": "https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Haley Maze",
+          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Party With The Cops (feat. Haley Maze)",
+      "url": "https://open.spotify.com/track/0y0nhyZlrRGJ4qWKAwCbNI"
     },
     {
       "album": {
@@ -6650,7 +6712,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 204250,
       "name": "Superman",
       "url": "https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e"

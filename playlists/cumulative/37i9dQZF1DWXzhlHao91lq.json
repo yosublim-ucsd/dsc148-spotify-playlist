@@ -2032,6 +2032,24 @@
     {
       "album": {
         "name": "Mariposa (Acoustic)",
+        "url": "https://open.spotify.com/album/2nqO2hJ3NZQcnk0FKtgnwY"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216612,
+      "name": "Mariposa - Acoustic",
+      "url": "https://open.spotify.com/track/3AmEKm9QOvIQbyctkPOXsP"
+    },
+    {
+      "album": {
+        "name": "Mariposa (Acoustic)",
         "url": "https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L"
       },
       "artists": [
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"

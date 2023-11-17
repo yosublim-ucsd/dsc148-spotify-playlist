@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,047 songs - 2 day 18 hr 6 min
+1,049 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [1000 Nen Ai](https://open.spotify.com/track/60GPx1m5pDetSEXbpDD9K2) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Naino Zouga Guchiwo Kobosumonode](https://open.spotify.com/album/2fHkGXswIaHWRU0Y3KOIVw) | 5:18 | 2023-11-07 |  |
 | [1000年愛](https://open.spotify.com/track/1Lo6vGRaUV5ZIMgZk8xSFx) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000年愛](https://open.spotify.com/album/5nqpf4XFM9KhU8EYhW2I7n) | 5:18 | 2023-09-19 | 2023-09-21 |
 | [101 bells ring](https://open.spotify.com/track/1MKPkdxASJbPI77vJs4bIx) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [101 bells ring](https://open.spotify.com/album/4f5tOPurCI3HKGOBHbe0Yt) | 5:47 | 2023-10-03 | 2023-11-01 |
-| [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 |  |
+| [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 | 2023-11-17 |
 | [8th HEAVEN](https://open.spotify.com/track/3d45q7MTSFGPbYPwKJ7SFc) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [8th HEAVEN](https://open.spotify.com/album/08zVfmvFnPEBCNqYGdLCKi) | 3:36 | 2023-10-19 | 2023-11-01 |
 | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/track/2HqmDb5HE9W9bh15VRZCHw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [アイニー](https://open.spotify.com/artist/1PqSi9Rgp6H0LhdCefCyPi), [RED](https://open.spotify.com/artist/5bVJRJd9mUtOh6b1sxM9gb) | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/album/7Av4wZIVDisfPaIzarh3UC) | 3:59 | 2023-09-19 | 2023-10-25 |
 | [A NEW DAY](https://open.spotify.com/track/6MLjkhdkMiC3IVpS9205Xf) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [A NEW DAY](https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q) | 3:35 | 2023-07-13 | 2023-07-26 |
@@ -153,6 +153,7 @@
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-05-28 | 2022-07-01 |
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-02 | 2022-10-05 |
 | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |
+| [EVERYTHING IS CHANGING](https://open.spotify.com/track/3aSsyMvqldzre2hOSgJAVg) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON ”Everything is Changing”](https://open.spotify.com/album/48PV0k4eMCzWk3TSyweLpw) | 4:37 | 2023-11-16 |  |
 | [Evolution](https://open.spotify.com/track/37Lrq9EI7AYyCp8z8i7wSo) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Evolution](https://open.spotify.com/album/1gy6kxmk82kfFlscoStQsa) | 3:51 | 2023-01-17 | 2023-02-15 |
 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 | 2022-10-05 |
 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-03 | 2023-04-09 |
@@ -173,6 +174,7 @@
 | [Follow You!](https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Follow You!](https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP) | 3:40 | 2023-05-30 | 2023-07-07 |
 | [Freestyle Lover](https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [DETONATOR](https://open.spotify.com/album/3Ii5xT9Sreevb2z0eun83F) | 3:44 | 2023-11-07 | 2023-11-16 |
 | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/track/0xALdPJdiAiU1JzkPDaG7L) | [Story of Love](https://open.spotify.com/artist/3LVHQwyhX567rGRU09vt6I) | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ) | 3:43 | 2022-10-18 | 2022-10-28 |
+| [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 |  |
 | [Friends Are For TV SIZE](https://open.spotify.com/track/19Qk7QLzQlHzKueJ5XWE92) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For TV SIZE](https://open.spotify.com/album/1YOv5Oyb8M95kTPgSP1cyC) | 1:30 | 2023-10-07 | 2023-10-13 |
 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2022-12-22 | 2023-01-18 |
 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-07-28 | 2022-08-17 |
@@ -456,7 +458,7 @@
 | [reversal](https://open.spotify.com/track/27ViqDyuEQlG1u1Gn5cm0p) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [reversal](https://open.spotify.com/album/5IGCCikDv7sUqWbU1zVjsO) | 3:42 | 2023-07-18 | 2023-10-04 |
 | [Reversal](https://open.spotify.com/track/3EaLX2LusDc6gdjrBtAGSS) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [CYAN](https://open.spotify.com/album/43hgcfzrljkCzbw3OlKWHE) | 4:13 | 2022-05-28 | 2022-07-06 |
 | [Rewrite \- From CrosSing](https://open.spotify.com/track/1RwWzFRxsNzJqcLDnnrFC1) | [Nakamura Shugo](https://open.spotify.com/artist/3hE4ryyzMuML98YQzQRC4P) | [Rewrite \- From CrosSing](https://open.spotify.com/album/31kjhPcNFE7CeOUR6y3CYc) | 3:48 | 2022-11-22 | 2022-12-07 |
-| [RISE FROM DEAD](https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [RISE FROM DEAD](https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ) | 3:40 | 2023-10-07 |  |
+| [RISE FROM DEAD](https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [RISE FROM DEAD](https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ) | 3:40 | 2023-10-07 | 2023-11-17 |
 | [Rivals!](https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn) | [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:18 | 2023-08-22 | 2023-09-27 |
 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 | 2023-01-17 | 2023-04-19 |
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-03 | 2023-10-11 |

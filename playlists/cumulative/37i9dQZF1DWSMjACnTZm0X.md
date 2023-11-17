@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT\-Cu\-4SHH1wD6g">DBN Gogo</a>
+> Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=rQyegiqmQySZXcK\-yI8rEQ">Caleb Awiti</a>
 
-161 songs - 11 hr 35 min
+162 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 | 2023-03-22 | 2023-08-26 |
 | [Manca \- Remix](https://open.spotify.com/track/4WvYQAdl6NtuTk6ZHS9pPR) | [DJ Kazu](https://open.spotify.com/artist/1IOPs2IN12TMhz9TzBy1uI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Zan'Ten](https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL), [EnayBlack](https://open.spotify.com/artist/3LDAnmGaQ3d7gQsziGQDSS) | [Manca \(Remix\)](https://open.spotify.com/album/1MK3PCIc5Eg9Umk5znC2pC) | 6:20 | 2023-03-02 | 2023-10-13 |
 | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI) | 6:52 | 2022-05-23 | 2023-03-03 |
+| [Maria](https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp) | [Maria](https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs) | 3:07 | 2023-11-16 |  |
 | [Mashonzha](https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh) | [Gusba Banana](https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb) | [EP Ya Baba](https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7) | 3:36 | 2022-11-10 | 2023-07-08 |
 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 | 2023-08-10 |  |
 | [Mozambique \(feat\. 10x Guluva, Yung Silly Coon & PILLS\)](https://open.spotify.com/track/6y6XLG70Bys7LyDkN8lwhD) | [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Star'Jazz](https://open.spotify.com/artist/5iSqsyNKGA6wZt74I9m0t4), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [10x Guluva](https://open.spotify.com/artist/6ERjd6Gp7PLOeLcYdo17mW), [Yung Silly Coon](https://open.spotify.com/artist/008z8vzKUB32BQzute4ZIW), [Pills](https://open.spotify.com/artist/0ad9OWagoBkIhBrKg6VYOn) | [Mozambique \(feat\. 10x Guluva, Yung Silly Coon & PILLS\)](https://open.spotify.com/album/6jQrJD5qjoxVBBooTpHMEK) | 7:34 | 2022-11-10 | 2023-09-23 |

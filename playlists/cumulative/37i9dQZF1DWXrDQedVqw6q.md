@@ -4,10 +4,11 @@
 
 > Calm music to help you focus on your reading.
 
-161 songs - 7 hr 32 min
+163 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Gentle Touch](https://open.spotify.com/track/4PEWJM5Bz6Ax2uuzeuPIPM) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [A Gentle Touch](https://open.spotify.com/album/5yOWOb71BXYF2BUR3B9Skd) | 2:31 | 2023-11-16 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-03-21 |  |
 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 | 2023-02-08 |
 | [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 | 2022-05-06 |
@@ -69,6 +70,7 @@
 | [In the Past](https://open.spotify.com/track/7BGQQE0Xgic9Bvk7BlRumP) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 1:56 | 2022-03-21 | 2023-07-29 |
 | [Infinite Sustain](https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:29 | 2022-03-21 |  |
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2022-03-21 |  |
+| [Into The Stillness](https://open.spotify.com/track/33e8KMmhVnNr0BLuWENnv9) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Into The Stillness](https://open.spotify.com/album/1HjdKuXwqq82BWDXm9TyUI) | 2:48 | 2023-11-16 |  |
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 | 2022-03-21 |  |
 | [Latitude](https://open.spotify.com/track/1BMuBZVM8iuYu5bhVMmaID) | [Antonin Luthar](https://open.spotify.com/artist/04pS81HPxt768ZxxeJY36Z) | [Latitude](https://open.spotify.com/album/4nt53fqQh4PzVtWIHI7qMG) | 3:18 | 2022-03-21 | 2022-08-13 |

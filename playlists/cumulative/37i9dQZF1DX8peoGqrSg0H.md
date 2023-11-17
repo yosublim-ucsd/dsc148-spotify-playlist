@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: RedSpin
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NANON
 
-406 songs - 1 day 0 hr 23 min
+408 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
+| [SPARK!](https://open.spotify.com/track/4O2jdf604G0LxUb1HNLO8y) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [THE SECRETS OF THE UNIVERSE](https://open.spotify.com/album/1fkYltp0XYhWyE2FpYmbin) | 3:19 | 2023-11-16 |  |
 | [SPIDERMAN](https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [SPIDERMAN](https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk) | 2:48 | 2023-02-23 | 2023-03-10 |
 | [STOP!](https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 3:51 | 2023-08-04 | 2023-09-02 |
 | [Sugar](https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Sugar](https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ) | 3:21 | 2023-02-02 | 2023-02-11 |
@@ -125,7 +126,7 @@
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-05-26 | 2023-04-22 |
 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-08-31 |  |
 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 | 2022-07-14 | 2022-07-23 |
-| [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 | 2023-08-24 |  |
+| [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 | 2023-08-24 | 2023-11-17 |
 | [ความพยายามอยู่ที่ไหน \(Please Try Again\)](https://open.spotify.com/track/5Mkz9wO3zxHfQ5WPYLGL9e) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ความพยายามอยู่ที่ไหน \(Please Try Again\) \- Single](https://open.spotify.com/album/6K2zKb33MJ8I4aYe3bYgio) | 3:30 | 2023-10-05 | 2023-10-20 |
 | [คาเฟอีน \(My Caffeine\)](https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [คาเฟอีน](https://open.spotify.com/album/2n144mh5bLRanWiqkGxdSN) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 | 2022-11-18 |
@@ -219,7 +220,7 @@
 | [ปีนไม่ไหว \- From Future วิศวะสุดหล่อกับคุณหมอของผม](https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm) | [Bever Patsapon](https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK) | [ปีนไม่ไหว \(From Future วิศวะสุดหล่อกับคุณหมอของผม\)](https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0) | 3:36 | 2023-02-23 | 2023-03-03 |
 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-10 |  |
 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2022-05-26 | 2022-08-26 |
-| [พลั้ง \(Confess\)](https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [พลั้ง \(Confess\)](https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw) | 3:34 | 2023-09-19 |  |
+| [พลั้ง \(Confess\)](https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [พลั้ง \(Confess\)](https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw) | 3:34 | 2023-09-19 | 2023-11-17 |
 | [พิง \- เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2022-05-26 | 2023-03-03 |
 | [พิสูจน์ \(PROVE IT\)](https://open.spotify.com/track/2hvFb7MUUY2hfKdzySdPHO) | [SIZZY](https://open.spotify.com/artist/5nWu2ZmwUsVv1eAfbIUSXF) | [พิสูจน์ \(PROVE IT\)](https://open.spotify.com/album/1pLQp0VSjMiGLV3jzTaQMs) | 3:37 | 2022-06-16 | 2022-06-24 |
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 | 2022-05-26 | 2022-07-29 |
@@ -235,6 +236,7 @@
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-06-23 | 2022-07-02 |
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2022-05-26 | 2022-07-24 |
 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:34 | 2023-11-09 |  |
+| [มีเธอมีฉัน \(Safe Zone\)](https://open.spotify.com/track/2UC53K6OpwTxFI7oTKKwdh) | [ไบร์ท นรภัทร](https://open.spotify.com/artist/3CitLsx5P9qFKEHwaiJqIz), [ฟิล์ม ธนภัทร](https://open.spotify.com/artist/0GKloCvkBbc25NBYzuIcgD), [Fluke Gawin](https://open.spotify.com/artist/1OI5LuORfGbstS0VaCMiSo), [แจม รชตะ](https://open.spotify.com/artist/5Ly3FFcd5BAGgP4cchhQOb), [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l), [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo), [Peck Palitchoke](https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm), [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [มีเธอมีฉัน \(Safe Zone\) \- Single](https://open.spotify.com/album/3m7BYn24J2INtDV0wZr2Eh) | 4:29 | 2023-11-16 |  |
 | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q) | [ATK](https://open.spotify.com/artist/5QKuqbXQ3cujnmrGOh4Qx1) | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX) | 3:53 | 2023-09-15 | 2023-09-23 |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
 | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS) | 4:10 | 2022-09-15 | 2022-10-13 |

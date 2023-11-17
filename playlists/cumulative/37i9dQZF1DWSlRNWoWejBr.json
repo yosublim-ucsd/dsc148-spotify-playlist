@@ -1442,16 +1442,16 @@
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         },
         {
-          "name": "MC Tigr\u00e3o",
-          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
-        },
-        {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
           "name": "Mc Luan",
           "url": "https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF"
+        },
+        {
+          "name": "Mc Tig\u00e3o",
+          "url": "https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X"
         }
       ],
       "date_added": "2023-10-06",
@@ -1544,6 +1544,28 @@
       "duration_ms": 143759,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM CORAL",
+        "url": "https://open.spotify.com/album/58pJKKlXJ1s5aIhk4rwkIT"
+      },
+      "artists": [
+        {
+          "name": "veysxl",
+          "url": "https://open.spotify.com/artist/0WeEdxpSmM2Rtjqm2mbSp3"
+        },
+        {
+          "name": "batuzane",
+          "url": "https://open.spotify.com/artist/0xNQSJ31hA6QrnQNzQkK6P"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "MONTAGEM CORAL",
+      "url": "https://open.spotify.com/track/2rjXdiDz6cmKTn4MbnR6rS"
     },
     {
       "album": {
@@ -1776,6 +1798,36 @@
       "duration_ms": 122000,
       "name": "No Baile Ela Se Arruma - Remix",
       "url": "https://open.spotify.com/track/43BbABuvRewiznicv3QgyL"
+    },
+    {
+      "album": {
+        "name": "Noite Dos Perdidos",
+        "url": "https://open.spotify.com/album/5Daso30Ue6dC3bFySoOCta"
+      },
+      "artists": [
+        {
+          "name": "DJ JV DO SG",
+          "url": "https://open.spotify.com/artist/1vb3NH4REyIWVAKShUYQUh"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Mc Dudu Sk",
+          "url": "https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1"
+        },
+        {
+          "name": "DJ WV Oficial",
+          "url": "https://open.spotify.com/artist/01tECeLpHN4yRu1gBqZ6WZ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156525,
+      "name": "Noite Dos Perdidos",
+      "url": "https://open.spotify.com/track/0llpifaw5Kle6wQxrdUy5p"
     },
     {
       "album": {
@@ -2136,7 +2188,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 145055,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/2AeJCvSLJQLWkEMxnI3jna"
@@ -2424,6 +2476,32 @@
       "duration_ms": 105461,
       "name": "Tchau",
       "url": "https://open.spotify.com/track/043UqjcBUxcuoKfaxujfLA"
+    },
+    {
+      "album": {
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Terminei Com A Ex",
+      "url": "https://open.spotify.com/track/301UKq8uNAv7Zj7MQkQWyd"
     },
     {
       "album": {

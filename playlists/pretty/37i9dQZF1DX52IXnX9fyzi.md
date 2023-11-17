@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,057 likes - 267 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,202 likes - 267 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 61 | [Vesper](https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:12 |
 | 62 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
 | 63 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 |
-| 64 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/3Yx90hFIsFIphKsTXuvAdA) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- We Are Forgiven](https://open.spotify.com/album/07vCUCKfTyRHA4yhdvSFdU) | 1:48 |
+| 64 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/2FOCfMhidWT7tvtfrcxyC6) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Meditation](https://open.spotify.com/album/2MJ5q37BhtEgWjTaqTWVBb) | 1:48 |
 | 65 | [Return of the wolves](https://open.spotify.com/track/2OIzFIGMPL2UCjtDyEjzhK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG), [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [Return of the wolves](https://open.spotify.com/album/5zldCchYUyq0M1gbxkRuhQ) | 2:46 |
 | 66 | [A Dead Sea's Ripples](https://open.spotify.com/track/2cRAkZZruWU1FfeEi2dCez) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Dead Sea's Ripples](https://open.spotify.com/album/1RkYa0eVp8mBZCCLAQpbtx) | 3:00 |
 | 67 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 266 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 267 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCw2YjczNjRhMGUxMGIwNzAxYjM0ZjEzMzgzZjQxYWU2NzY5MDA0ZDBk`
+Snapshot ID: `MCw3OWJiZGY2NjQwNmQ0MGY3NWJiMTlmNGFjOTEzN2Y5YWQ0NThlZGI2`

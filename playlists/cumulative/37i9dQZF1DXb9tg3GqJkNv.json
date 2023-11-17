@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 169463,
       "name": "BURN EVERYTHING",
       "url": "https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj"
@@ -1062,6 +1062,24 @@
       "duration_ms": 196363,
       "name": "Jupiter & Mars",
       "url": "https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA"
+    },
+    {
+      "album": {
+        "name": "Jupiter & Mars",
+        "url": "https://open.spotify.com/album/3iRKgJqd2XTistB0EAh9QU"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Jupiter & Mars",
+      "url": "https://open.spotify.com/track/7GSOsyYPXAS31vaEVyzzRh"
     },
     {
       "album": {

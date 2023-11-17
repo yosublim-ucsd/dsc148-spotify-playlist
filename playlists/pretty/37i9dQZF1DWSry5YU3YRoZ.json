@@ -1,29 +1,13 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 3270,
+  "num_followers": 3286,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzQyOGQ3ZjMwZGJlOTE4ZmQ0YmRmYzAxMDA0OTZlY2EwMzc5MmQ4",
+  "snapshot_id": "MCxjYTExNjljOWQxZTFkMzBkMDZiYjI2Y2NjNjI1MDVkNzNlOGJiNjQw",
   "tracks": [
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
-        "name": "CHAT-SHIRE",
-        "url": "https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 282887,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
-    },
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 228266,
       "name": "Forest",
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "CHAT-SHIRE",
+        "url": "https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 282887,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 261720,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -127,22 +111,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "Hi, I am Deulre Jang",
         "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
       },
@@ -155,6 +123,22 @@
       "duration_ms": 248154,
       "name": "I don't know",
       "url": "https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -191,8 +175,8 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
       "artists": [
         {
@@ -200,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 240718,
-      "name": "When love passes by",
-      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+      "duration_ms": 261720,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -275,22 +259,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
@@ -339,6 +307,38 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 240718,
+      "name": "When love passes by",
+      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
         "name": "We need to meet now",
         "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 257862,
       "name": "\uc785\ub9de\ucda4",
       "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "\ub450 \uc0ac\ub78c The Lover",
-        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
-      },
-      "artists": [
-        {
-          "name": "OKDAL",
-          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
-        }
-      ],
-      "duration_ms": 185644,
-      "name": "\ub450 \uc0ac\ub78c The Lover",
-      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
       },
@@ -455,6 +439,38 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
+        "name": "\ub450 \uc0ac\ub78c The Lover",
+        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "duration_ms": 185644,
+      "name": "\ub450 \uc0ac\ub78c The Lover",
+      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
+    },
+    {
+      "added_at": "2023-11-03 06:18:49",
+      "album": {
         "name": "\ud3b8\uc9c0 Letter",
         "url": "https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 246301,
       "name": "\ud3b8\uc9c0 Letter",
       "url": "https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f"
-    },
-    {
-      "added_at": "2023-11-03 06:18:49",
-      "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
         }
       ],
-      "duration_ms": 187999,
-      "name": "Excuse",
-      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
+      "duration_ms": 223965,
+      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
     },
     {
       "added_at": "2023-11-03 06:18:49",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-11-03 06:18:49",
       "album": {
-        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
-        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
       "artists": [
         {
-          "name": "GYE0M",
-          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 223965,
-      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
-      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
+      "duration_ms": 187999,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
     },
     {
       "added_at": "2023-11-03 06:18:49",

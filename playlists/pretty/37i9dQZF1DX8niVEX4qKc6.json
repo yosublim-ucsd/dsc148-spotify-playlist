@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
-  "num_followers": 178799,
+  "num_followers": 178807,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjM3OTk4MWMzYzJmMTVhNzQxNDkwNWUyMjM2ZjljNjlhNTQ0MWE2",
+  "snapshot_id": "MCxiYWI1OWE3NzVjOGVkNzBmM2IxZDdjOTA4NjU2ZWIyODE4ZmY1Zjlj",
   "tracks": [
     {
       "added_at": "2023-11-10 15:29:33",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Rezo Por Vos - Live",
+      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
         "name": "Guandanara",
         "url": "https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 262978,
       "name": "La Pibita",
       "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Rezo Por Vos - Live",
-      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 198500,
       "name": "Como vos - En vivo",
       "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 208289,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "Desapego",
         "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 208289,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
     },
     {
       "added_at": "2023-11-10 15:29:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-11-10 15:29:33",
       "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 278964,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
-    },
-    {
-      "added_at": "2023-11-10 15:29:33",
-      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 203805,
       "name": "Bajo el Sol",
       "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
+    },
+    {
+      "added_at": "2023-11-10 15:29:33",
+      "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "added_at": "2023-11-10 15:29:33",

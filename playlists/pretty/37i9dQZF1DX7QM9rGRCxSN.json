@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 28001,
+  "num_followers": 28022,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
+  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
+        "name": "Sintetica",
+        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
       },
       "artists": [
         {
-          "name": "Apartamentos Acapulco",
-          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
         }
       ],
-      "duration_ms": 191573,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
+      "duration_ms": 273493,
+      "name": "Mil Espejos",
+      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
-      },
-      "artists": [
-        {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
       },
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sintetica",
-        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
       },
       "artists": [
         {
-          "name": "Nudozurdo",
-          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
         }
       ],
-      "duration_ms": 273493,
-      "name": "Mil Espejos",
-      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Chambers",
-        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 298122,
-      "name": "What\u2019s holding you?",
-      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 299999,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 298122,
+      "name": "What\u2019s holding you?",
+      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Tri\u00e1ngulo de Amor Bizarro",
         "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2023-05-05 06:00:00",

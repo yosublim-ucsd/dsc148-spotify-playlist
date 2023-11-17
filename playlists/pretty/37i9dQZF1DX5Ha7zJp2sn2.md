@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 
 > El sonido de la nueva canción latinoamericana\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,697 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,707 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 | 59 | [Corazón Negro](https://open.spotify.com/track/40MCJ7vMPvmENFf7yDBtmi) | [Aida Bossa](https://open.spotify.com/artist/67pueAIehGjbKbuwPQ0Lyv) | [Corazón Negro](https://open.spotify.com/album/6jSPaMf0h8xKnp4kgRQnhU) | 2:46 |
 | 60 | [Pa Poderte Ver](https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [Pa Poderte Ver](https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk) | 2:46 |
 
-Snapshot ID: `MCw2MTAwMjU3ZGNkYjQzZmU4ZTg1NWEwMDZkY2NhMDAzMGZiMjZiYzNh`
+Snapshot ID: `MCwxZjhmMGY0ZGU0NDg1MmIzY2EyOTYzZDBmMTk0NGRhZDFmZTAxZjk5`

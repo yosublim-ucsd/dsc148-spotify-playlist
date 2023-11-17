@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-289 songs - 14 hr 44 min
+290 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 | 2021-06-04 | 2023-01-04 |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0crhvasDtSsXpLX2dlnb7Z) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:16 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 | 2021-02-03 | 2022-09-07 |
-| [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/track/6KV5CVoCjuHX9FOJilDrcw) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/album/0xjzdHpgKNy5jusRVHV4oz) | 2:44 | 2022-09-13 |  |
+| [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/track/6KV5CVoCjuHX9FOJilDrcw) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/album/0xjzdHpgKNy5jusRVHV4oz) | 2:44 | 2022-09-13 | 2023-11-17 |
 | [Binaural Sines 7hz Alpha \- 58hz \- 65hz](https://open.spotify.com/track/2DbwsaYDvznsSkh4c5XgmI) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Assembly of Sines](https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy) | 2:40 | 2022-08-12 |  |
 | [Binaural Vibe Alpha Sinus 64\-74 Hz](https://open.spotify.com/track/3QjHNYEzGUDfMOHqjnPJJA) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:26 | 2022-08-22 |  |
 | [Birds Touch \- Gamma](https://open.spotify.com/track/19TGWSV1jpgTRxb6N37BdA) | [Meditative Souls](https://open.spotify.com/artist/6nyLL1OEFX7G7DUL3Wiyul) | [Birds Touch \- Gamma](https://open.spotify.com/album/0wFeuyeCcAOFVZrcPNmbUw) | 1:41 | 2021-02-03 | 2021-12-09 |
@@ -184,6 +184,7 @@
 | [Dreams \- Alpha Sinus 105 Hz \- 107 Hz](https://open.spotify.com/track/7mudqKvibtfNDLwKVs46Wl) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Alpha Sinus Therapy](https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7) | 3:03 | 2022-05-26 |  |
 | [Driver of Time](https://open.spotify.com/track/2VpBxikEAc1jm1CPdrxYMl) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:36 | 2019-05-26\* | 2020-12-03 |
 | [emerging roots \- Alpha Sinus 81Hz \- 89Hz](https://open.spotify.com/track/7JwG4QGEMVEJT1yyqLYlmv) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 4:23 | 2021-06-18 |  |
+| [Endless Road Gamma Sinus 103\-139hz](https://open.spotify.com/track/1V9jjFO2mRokLP3oJlbkeg) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Koi Pond Gamma](https://open.spotify.com/album/1BVsgUX3OIsMzTwhtmKPPp) | 2:41 | 2023-11-16 |  |
 | [Energizer \(Beta 18 Hz\)](https://open.spotify.com/track/2O0HJYQm9QRX0EpUqz9tEk) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binaural Beats For Focus](https://open.spotify.com/album/4EOJ0H7R7LEmsUzu72u9Bt) | 3:50 | 2020-01-22 | 2021-01-19 |
 | [Eventi Alpha SInus 88\-94 Hz](https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:40 | 2022-08-22 |  |
 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/7qgmuFa8s0woxvn8Tnl84Q) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 | 2021-02-24 |  |

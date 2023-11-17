@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,122 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,168 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 41 | [A Word I Give \(with Ryuichi Sakamoto\)](https://open.spotify.com/track/1zANV84VJJnsxaHZzvh4IY) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Sometimes](https://open.spotify.com/album/0RcwBD2P5YubxRUpeKezTF) | 3:26 |
 | 42 | [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 |
 | 43 | [Solitude](https://open.spotify.com/track/4bT9hPHDjm5lgGlHeUyvEe) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:54 |
-| 44 | [Main Theme](https://open.spotify.com/track/6iH8p3isdM1uRa2mQ3w2Jm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Little Buddha \(Bernardo Bertolucci's Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Bnk5sZEtCJhoa1I8N6FHo) | 2:50 |
+| 44 | [Main Theme \- From 'Little Buddha'](https://open.spotify.com/track/3SmwsuloqGL836aBATZJ0I) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Nouvel an tibétain 2011 \- L'année du lièvre de fer](https://open.spotify.com/album/4INBsmZzCwaVe9larSnPR2) | 2:50 |
 | 45 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
 | 46 | [Hawk Punished](https://open.spotify.com/track/3rEBYnu7yDK336CdV22IiX) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:14 |
 | 47 | [Journey](https://open.spotify.com/track/3QccCjmocanWvP9TD6aOUh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [My TYRANO: Together, Forever Original Soundtrack by Ryuichi Sakamoto](https://open.spotify.com/album/0h5Qx3bDxA9unv9HJ1ncfn) | 1:31 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 56 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 |
 | 57 | [Discovering River](https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:11 |
 
-Snapshot ID: `MCw1ZGYzYjIxOTAzZTFiOTBmODVmZTY3MWQ3YmE4OTBiNDk4OGE5YTQ2`
+Snapshot ID: `MCxjNGU5NzkwZWVkYzM3ZmJiYWRjNGJjNTZiZmQ5NTZhNWIxYzM0NWEy`

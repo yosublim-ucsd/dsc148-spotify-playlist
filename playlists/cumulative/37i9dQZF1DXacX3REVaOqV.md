@@ -4,7 +4,7 @@
 
 > The best in house music
 
-356 songs - 1 day 1 hr 12 min
+357 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Be Funky](https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Be Funky](https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3) | 3:27 | 2022-04-14 |  |
 | [Be with You \- Radio Edit](https://open.spotify.com/track/0DqwFLo68dQ8HsjFFrdPiF) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan) | [Be with You](https://open.spotify.com/album/3zEdRynsO932VFMxNFpGsy) | 3:22 | 2022-12-15 | 2023-02-05 |
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-16 | 2023-03-19 |
-| [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 |  |
+| [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 | 2023-11-17 |
 | [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 | 2023-06-08 |  |
 | [Better Take That](https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS) | [Better Take That](https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba) | 2:55 | 2023-09-21 | 2023-10-27 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2022-04-14 |  |
@@ -56,6 +56,7 @@
 | [Can You Feel It](https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Can You Feel It](https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7) | 3:44 | 2022-05-16 |  |
 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 | 2022-07-28 | 2022-10-14 |
 | [Carefree \(I Am A Star\)](https://open.spotify.com/track/7DEr2iSIyUqYwzsFWanmIV) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Big Mel](https://open.spotify.com/artist/6xhOLmNrpmgXOlnXU1Dd5K) | [Carefree \(I Am A Star\)](https://open.spotify.com/album/3wekOId1QamQFvzkiQWPvV) | 5:47 | 2022-04-14 | 2022-07-29 |
+| [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-11-16 |  |
 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 | 2022-04-14 |  |
 | [Casually](https://open.spotify.com/track/3c41zFBe0h5itqKcvEyvGe) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz) | [Casually](https://open.spotify.com/album/2anuqj5ryxqMb6fmYmjUkk) | 2:46 | 2022-12-22 | 2022-12-28 |
 | [Caught In The Rain](https://open.spotify.com/track/1GvyPmmkOxcrnLBjpgFBPX) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [L.I.T](https://open.spotify.com/artist/79PE76jMPidK5Dz6mXOMxS) | [Caught In The Rain](https://open.spotify.com/album/49Q6nGh5yaOQ85ttYKA3XX) | 2:22 | 2022-04-14 | 2023-11-02 |
@@ -238,7 +239,7 @@
 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 | 2023-08-17 |  |
 | [On Da Groove](https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [On Da Groove](https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI) | 5:12 | 2022-04-14 |  |
 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 | 2022-04-14 | 2022-07-20 |
-| [On My Mind](https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [On My Mind](https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f) | 2:11 | 2022-04-14 |  |
+| [On My Mind](https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [On My Mind](https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f) | 2:11 | 2022-04-14 | 2023-11-17 |
 | [Once Again](https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Once Again](https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab) | 2:38 | 2022-05-19 |  |
 | [OOH](https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd) | [Roog](https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh) | [OOH](https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj) | 2:52 | 2023-03-09 |  |
 | [Organ \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Organ](https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy) | 3:36 | 2022-04-20 |  |

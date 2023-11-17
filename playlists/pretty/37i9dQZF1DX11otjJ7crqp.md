@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: AJR
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,326 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,373 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [CONTROL](https://open.spotify.com/track/3C5yiqNUMtRJ2xZqXxuujS) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [CONTROL](https://open.spotify.com/album/7IbleAdOhUBZK9XSaysxRv) | 2:38 |
 | 100 | [Again & Again](https://open.spotify.com/track/1iyKspP2iddREZXUMNPUcb) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Again & Again](https://open.spotify.com/album/0PaNomHi1PHG4urXQuFqgs) | 2:43 |
 
-Snapshot ID: `MCw5MzRmNTEzNzhjZTgyNzIxZTViZGI2YmViM2E0MzZlYmY3OGE3YzAz`
+Snapshot ID: `MCxhNTZlYzY2Yzc2OTljNzBiNjdmODdmNDU1ZDk2NDIyZmViZGZhMTli`

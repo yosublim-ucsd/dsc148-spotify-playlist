@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: TOKIODK, DaFrança
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,924 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,938 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 57 | [Shake](https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Shake](https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC) | 2:34 |
 | 58 | [Favelinha](https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Favelinha](https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd) | 1:42 |
 | 59 | [AQL SLV](https://open.spotify.com/track/4x96ZVUti5pKCpiImokxB4) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 4:55 |
-| 60 | [Freestyle 01](https://open.spotify.com/track/1sW0BCO3lnzCx7aYnPzV6K) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Freestyle 01](https://open.spotify.com/album/6pXEoRJ3l0YfFDNrxEKl6Y) | 2:07 |
+| 60 | [Freestyle 01](https://open.spotify.com/track/1sW0BCO3lnzCx7aYnPzV6K) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Freestyle 01](https://open.spotify.com/album/6pXEoRJ3l0YfFDNrxEKl6Y) | 2:07 |
 | 61 | [Não Vou Voltar pro Inicio](https://open.spotify.com/track/11RdOd0rsmo2J84Dtv45zk) | [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [808luc](https://open.spotify.com/artist/5rNKi6Cbr4REKCYw6IBApD) | [Não Vou Voltar pro Inicio](https://open.spotify.com/album/0nbu08GyM6WxVJQRLw3sZU) | 3:04 |
 | 62 | [Dia de Baile](https://open.spotify.com/track/4PfqsdrU6sLm9o5mQyL3Ab) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Antiherói](https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es) | 1:58 |
 | 63 | [Vida Bandida](https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [CRIME](https://open.spotify.com/track/0beS82r81NQmbSmZ3hEGgt) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [CRIME](https://open.spotify.com/album/3wDmkkTCFs3cvSzKCDOogf) | 3:08 |
 | 75 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 
-Snapshot ID: `MCw2NTZiZTFmMzNiN2E1YmNmODJlMTMxYWI4YTg0MDRkYzMyMWMzYTBk`
+Snapshot ID: `MCxmZGJjZDlkMThlNWE4MDczOGI5NDcxZmI2ZTYxOWViNzE2YTgzNTdh`

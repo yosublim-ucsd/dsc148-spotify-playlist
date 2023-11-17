@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-110 songs - 6 hr 21 min
+111 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/track/1wPvqaFBWI8wpDZDm1xoCH) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6) | 3:11 | 2023-04-27 |  |
 | [Her Song](https://open.spotify.com/track/1ePnBDWTj8rvGAqsfKApk3) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Her Song](https://open.spotify.com/album/6rcsRUeB2jjdWMtRZ3Yjjr) | 3:38 | 2023-05-25 |  |
 | [Honeymoon \(Rain\)](https://open.spotify.com/track/2qQqxXl7I6Z2QhpU5zPwHl) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Honeymoon \(Rain\)](https://open.spotify.com/album/0qsUKVODzSAZLkDxUlR5KZ) | 4:22 | 2023-08-03 |  |
+| [Hopeless](https://open.spotify.com/track/2YXw0ruvR2FhKdFyumhvYI) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Hopeless](https://open.spotify.com/album/1baTg9J8Uzw1ba3UjShsBt) | 3:08 | 2023-11-17 |  |
 | [Hoping](https://open.spotify.com/track/40cR5aBJrfrfsDVFEKhdFJ) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 3:25 | 2023-04-27 |  |
 | [Hoppet](https://open.spotify.com/track/2BaO1C4HWolgBawfyhr1NC) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 2:38 | 2023-04-27 |  |
 | [How High Is the Moon](https://open.spotify.com/track/49F5FzKXM1htgixJFaD7rM) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [How High Is the Moon](https://open.spotify.com/album/2UEkb0VLEZWU1c6U1waxxF) | 2:23 | 2023-04-27 |  |

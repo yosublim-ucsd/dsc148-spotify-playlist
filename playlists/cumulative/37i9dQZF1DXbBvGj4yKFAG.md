@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-199 songs - 10 hr 42 min
+201 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-03-07 |  |
 | [comeonback](https://open.spotify.com/track/1rOSQ490O5zO3LzlgWHemr) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [comeonback](https://open.spotify.com/album/5eecDPoRArTxgGgKBQ7MuV) | 2:51 | 2023-04-11 | 2023-07-01 |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2023-02-09 | 2023-08-12 |
-| [Cosmic Healing](https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf) | 3:08 | 2023-04-14 |  |
+| [Cosmic Healing](https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf) | 3:08 | 2023-04-14 | 2023-11-17 |
+| [Cosmic Healing](https://open.spotify.com/track/6Ns2VSFlxtdYcVwPeCbRv7) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/1zx3P8caa5G0F0bKIsN7Gd) | 3:08 | 2023-04-14 |  |
 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 | 2023-04-11 |  |
 | [Crybaby](https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:01 | 2023-06-13 |  |
 | [CryWitMe.mp3](https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [CryWitMe.mp3](https://open.spotify.com/album/2V2cmfoMXI7XuFVAt3l7A6) | 1:30 | 2023-04-11 | 2023-07-15 |
@@ -120,6 +121,7 @@
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 |  |
 | [Mirrors](https://open.spotify.com/track/38PleSiXelEox4nUyO5apt) | [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [From the bathroom floor](https://open.spotify.com/album/4mrRaqeKbrKIgLGzFT8Ovy) | 3:39 | 2023-06-23 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
+| [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 | 2023-11-14 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-02 |  |
 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2023-05-19 |  |
 | [Never Know Why](https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [Far From This World](https://open.spotify.com/album/1iifPkSZrNgcOmc8LU2Xm6) | 3:36 | 2023-04-11 | 2023-07-08 |

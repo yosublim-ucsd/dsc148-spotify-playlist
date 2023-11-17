@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Georgia Lines
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,770 likes - 108 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,780 likes - 108 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Quarter Life Crisis](https://open.spotify.com/track/7HGd3eYorrvkbVMRLhodLD) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Quarter Life Crisis](https://open.spotify.com/album/0bgl9yFKMZsMh6jc0WpavY) | 3:07 |
 | 100 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 |
 | 101 | [Rain In California](https://open.spotify.com/track/3uLWWGfrQUUEbBRLru9zKO) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/7sVmdfwKVReBMtUV8wEniC) | 2:28 |
-| 102 | [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 |
+| 102 | [Sweet Nothings](https://open.spotify.com/track/58fTsTMMtsbkmmfKvigaAT) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2AF660vQbgKR2QHGZ83kW3) | 2:15 |
 | 103 | [Sunshine Roams](https://open.spotify.com/track/0GHZOdTKBL7fQmjxErlIk7) | [MoonBee](https://open.spotify.com/artist/2lpThELNjySTGNx4CmkyqH) | [Sunshine Roams](https://open.spotify.com/album/00lDuonqVhC4Bt8ZPTBh4o) | 3:36 |
 | 104 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 |
 | 105 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 107 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 108 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCw4N2QwODk1YWU3MTNlZDRjYWFjNDNjY2NkZjhjMGFiNWMwMTg4Mzcz`
+Snapshot ID: `MCwwODg4NWMzNmE4NTBlZTMzODljMjllYjgyY2Y3Yzk3ZDViNTMyZTMy`

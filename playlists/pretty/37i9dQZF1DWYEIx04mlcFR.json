@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Humbe en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 65097,
+  "num_followers": 65192,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGM2YzVkNmRkYTk2OWJiZGNlZjE1Nzk2MDBlYjhmYjQwODU4Mjky",
+  "snapshot_id": "MCxlOGNkYTYxN2E4Yzg0NjZhY2E1NjhhMzMwYzMwNTQzMDI2ZjExM2Yz",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "lalalala",
-        "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
       },
       "artists": [
         {
-          "name": "Masta Roi",
-          "url": "https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 244235,
-      "name": "lalalala",
-      "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
+      "duration_ms": 224363,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
+        "name": "lalalala",
+        "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Masta Roi",
+          "url": "https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 224363,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
+      "duration_ms": 244235,
+      "name": "lalalala",
+      "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
     },
     {
       "added_at": "2023-10-21 01:26:40",

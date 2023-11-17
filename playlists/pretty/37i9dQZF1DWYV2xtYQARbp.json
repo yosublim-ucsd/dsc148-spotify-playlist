@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14192,
+  "num_followers": 14202,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODg4ZTE3ZmFkNmZkNGViZmMxNjA4YmIyYWRjZmRhYTBmYmE3Nzk0",
+  "snapshot_id": "MCwzZTlhZjU4ZDdlYmQxMDU3NzYyZjBhOWFhYmRjMzYwZjNhMjE0YjQ2",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Fire of Love (Remastered 2020)",
-        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
-      },
-      "artists": [
-        {
-          "name": "The Gun Club",
-          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
-        }
-      ],
-      "duration_ms": 157995,
-      "name": "Promise Me - Remastered 2020",
-      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 186093,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Fire of Love (Remastered 2020)",
+        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+      },
+      "artists": [
+        {
+          "name": "The Gun Club",
+          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+        }
+      ],
+      "duration_ms": 157995,
+      "name": "Promise Me - Remastered 2020",
+      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
     },
     {
       "added_at": "2022-03-28 20:14:58",

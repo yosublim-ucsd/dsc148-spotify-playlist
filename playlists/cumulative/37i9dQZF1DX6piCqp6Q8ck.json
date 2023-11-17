@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 154306,
       "name": "Christmas Time All Over the World",
       "url": "https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya"
@@ -644,6 +644,24 @@
       "duration_ms": 154306,
       "name": "Christmas Time All Over the World",
       "url": "https://open.spotify.com/track/0C8nRQ4PjSD8MMPP8PurAo"
+    },
+    {
+      "album": {
+        "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
+        "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
+      },
+      "artists": [
+        {
+          "name": "David Hazletine",
+          "url": "https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356853,
+      "name": "Christmas Time Is Here - Christmas Cards from David Hazeltine",
+      "url": "https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G"
     },
     {
       "album": {
@@ -1289,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225596,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
+    },
+    {
+      "album": {
         "name": "Ella & Louis Christmas",
         "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
       },
@@ -1468,7 +1504,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 174090,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
@@ -2256,7 +2292,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 305666,
       "name": "The Last Day of the Year",
       "url": "https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp"

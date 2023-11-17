@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11941,
+  "num_followers": 11944,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzVkNWRiNTJlMmQ4OWM1MmFlOWE3NGU4OTQ3MDU3ODgyMDgwZTc1",
+  "snapshot_id": "MCw2MDlhM2NjZjZlMjA3ZmRkYTgyNDU5Mjg3MjllZGExNjhkMjBkYTky",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "The Airport",
-        "url": "https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "duration_ms": 150404,
-      "name": "The Airport",
-      "url": "https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Meet Me When I Come",
         "url": "https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 191620,
       "name": "Meet Me When I Come",
       "url": "https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "The Airport",
+        "url": "https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "duration_ms": 150404,
+      "name": "The Airport",
+      "url": "https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Sleeping In",
-        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 180543,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Heaven and Heart",
         "url": "https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 140412,
       "name": "Heaven and Heart",
       "url": "https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
-      },
-      "artists": [
-        {
-          "name": "Taylor Ellis",
-          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Millst\u00e4tter See",
         "url": "https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 157034,
       "name": "Millst\u00e4tter See",
       "url": "https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ellis",
+          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Dandelion wishes",
-        "url": "https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq"
-      },
-      "artists": [
-        {
-          "name": "Aveline Bisset",
-          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Dandelion wishes",
-      "url": "https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Broader Perspective",
         "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 144000,
       "name": "Broader Perspective",
       "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Dandelion wishes",
+        "url": "https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Dandelion wishes",
+      "url": "https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A Quiet Message",
-        "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
-      },
-      "artists": [
-        {
-          "name": "Morris Lafleur",
-          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
-        }
-      ],
-      "duration_ms": 165545,
-      "name": "A Quiet Message",
-      "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Happy Faces",
         "url": "https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 200609,
       "name": "Happy Faces",
       "url": "https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A Quiet Message",
+        "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
+      },
+      "artists": [
+        {
+          "name": "Morris Lafleur",
+          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
+        }
+      ],
+      "duration_ms": 165545,
+      "name": "A Quiet Message",
+      "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Quiver and Wince",
-        "url": "https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH"
-      },
-      "artists": [
-        {
-          "name": "Dean M Parker",
-          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
-        }
-      ],
-      "duration_ms": 139113,
-      "name": "Quiver and Wince",
-      "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Lonely Trip",
         "url": "https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 135626,
       "name": "A place to go",
       "url": "https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Quiver and Wince",
+        "url": "https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "duration_ms": 139113,
+      "name": "Quiver and Wince",
+      "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Alpen Rose",
-        "url": "https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW"
-      },
-      "artists": [
-        {
-          "name": "Camilo Branca",
-          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
-        }
-      ],
-      "duration_ms": 164072,
-      "name": "Alpen Rose",
-      "url": "https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "If I Can Make It To The Hill",
         "url": "https://open.spotify.com/album/7Cd8BWAq74gw22EGkK8HIu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 244720,
       "name": "If I Can Make It To The Hill",
       "url": "https://open.spotify.com/track/4CMxXvhCI8kVTsHqdmN2IZ"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Alpen Rose",
+        "url": "https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "duration_ms": 164072,
+      "name": "Alpen Rose",
+      "url": "https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Valle dei Templi",
-        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 180070,
-      "name": "Valle dei Templi",
-      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Caledonia",
         "url": "https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 208096,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Valle dei Templi",
+        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 180070,
+      "name": "Valle dei Templi",
+      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Coiseachd",
-        "url": "https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw"
-      },
-      "artists": [
-        {
-          "name": "Maya Eden",
-          "url": "https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Coiseachd",
-      "url": "https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Tulum",
         "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+        "name": "Coiseachd",
+        "url": "https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw"
       },
       "artists": [
         {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+          "name": "Maya Eden",
+          "url": "https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS"
         }
       ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
+      "duration_ms": 166793,
+      "name": "Coiseachd",
+      "url": "https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1899,22 +1883,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Path To The Mind",
-        "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Path To The Mind",
-      "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 164000,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Path To The Mind",
+        "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Path To The Mind",
+      "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Objects In The Mirror",
-        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Objects In The Mirror",
-      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 147317,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+      },
+      "artists": [
+        {
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+        }
+      ],
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Misty Midnight",
-        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+        "name": "Objects In The Mirror",
+        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
       },
       "artists": [
         {
-          "name": "Alina Hussain",
-          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 134498,
-      "name": "Misty Midnight",
-      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
+      "duration_ms": 170250,
+      "name": "Objects In The Mirror",
+      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Todo Es Mi Culpa",
-        "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
-      },
-      "artists": [
-        {
-          "name": "Ringunguinja",
-          "url": "https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Todo Es",
-      "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 270000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Todo Es Mi Culpa",
+        "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
+      },
+      "artists": [
+        {
+          "name": "Ringunguinja",
+          "url": "https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Todo Es",
+      "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
     },
     {
       "added_at": "2023-09-15 09:04:35",

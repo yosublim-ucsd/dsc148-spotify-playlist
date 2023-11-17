@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Lancelot",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "CRASH <3",
+      "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
+    },
+    {
+      "album": {
         "name": "Creep (Reprise)",
         "url": "https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD"
       },
@@ -498,6 +516,24 @@
       "duration_ms": 199146,
       "name": "FEEL GOOD",
       "url": "https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv"
+    },
+    {
+      "album": {
+        "name": "Film Noir",
+        "url": "https://open.spotify.com/album/0EAD1CSYjqg88Wsgp3xwKC"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Film Noir",
+      "url": "https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo"
     },
     {
       "album": {
@@ -860,7 +896,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 188142,
       "name": "Le sport",
       "url": "https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx"
@@ -1156,7 +1192,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 162626,
       "name": "Pas vraiment",
       "url": "https://open.spotify.com/track/50bolTQzLQn8AC1QhjM3XP"
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 317513,
       "name": "PERDUE",
       "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
@@ -1478,6 +1514,28 @@
       "duration_ms": 163891,
       "name": "Sauv\u00e9e par la nuit",
       "url": "https://open.spotify.com/track/09g6qL7DNxJNeGsr85ltPl"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/0H0JL5VvXBnu5Kg7j8jEnr"
+      },
+      "artists": [
+        {
+          "name": "Adrian Str\u00f6m",
+          "url": "https://open.spotify.com/artist/6wx08H9LZLWjuj6gYySyzX"
+        },
+        {
+          "name": "Louisette",
+          "url": "https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/6CLY3RUrhyQNVYV8J1dQIg"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Feel Good Classical](https://open.spotify.com/playlist/37i9dQZF1DX5Lm1ZiObdc3)
 
-> Classical tunes to make you feel good.
+> Las más alegres piezas clásicas, garantizadas para hacerte sonreír.
 
 78 songs - 5 hr 0 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 ### [Chill the F\*\*\* out](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
-> Just chill the F\*\*\* out to our mix of relaxing hits\. Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix \| Chillax \| Relax
+> Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix \| Chillax \| Relax
 
-[Digster](https://open.spotify.com/user/digster.fm) - 111,283 likes - 50 songs - 2 hr 55 min
+[Digster](https://open.spotify.com/user/digster.fm) - 111,278 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 49 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 50 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 
-Snapshot ID: `NzkzOCw1MWU3Zjg2NjZiODI5N2YzNjc3NjRmOGM2ZTJlMjkzOTk4ODQwMjJj`
+Snapshot ID: `NzkzOSxmZThlZjBkZjdkNGRiZWViMmVjMTJmOTBiZmUzMDUxZDY4N2VlNzU2`

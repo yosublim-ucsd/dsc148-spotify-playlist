@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F?si=RGwI-u-WSYCfFe-MWMKHIw\">DJ Bongz</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=Pp_DGPnxRZ6lVU9j-VfIEQ\">Sykes</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -11493,6 +11493,36 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/23U4H6XUT9NRfZvZv3dYqX"
+      },
+      "artists": [
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Tshego AMG",
+          "url": "https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257704,
+      "name": "Mathandana (feat. Azana, Skillz & Tshego AMG)",
+      "url": "https://open.spotify.com/track/7prrm9RDeY3cRtpz9yVwbD"
+    },
+    {
+      "album": {
         "name": "Mavulindlela",
         "url": "https://open.spotify.com/album/6FItZLFgZaZHtGhviVtEOZ"
       },
@@ -11840,6 +11870,40 @@
       "duration_ms": 313220,
       "name": "Mina",
       "url": "https://open.spotify.com/track/5aJTwe8xpO6799PDiMUojU"
+    },
+    {
+      "album": {
+        "name": "Mina Nawe (Francis Mercier Rework)",
+        "url": "https://open.spotify.com/album/4IBYotSB1NkcGuqOOEvGl0"
+      },
+      "artists": [
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Happy Jazzman",
+          "url": "https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C"
+        },
+        {
+          "name": "Emotionz DJ",
+          "url": "https://open.spotify.com/artist/0GMM9vgCLkEfMle3KaJyxy"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "Mina Nawe (Francis Mercier Rework)",
+      "url": "https://open.spotify.com/track/6EuOHdrMhZb6KIGjxAp5Uu"
     },
     {
       "album": {
@@ -18126,7 +18190,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 470867,
       "name": "Time To Dance",
       "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
@@ -19396,7 +19460,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

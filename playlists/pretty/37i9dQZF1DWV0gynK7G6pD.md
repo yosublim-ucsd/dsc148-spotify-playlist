@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Anne Sophie Mutter
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,061 likes - 63 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,161 likes - 63 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 62 | [Piano Concerto: III.](https://open.spotify.com/track/4SuBulVt2w8TiyZkJAsDH4) | [Unsuk Chin](https://open.spotify.com/artist/6FiLRj0EeeMGtgQAWFWO0A), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Sakari Oramo](https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q), [Sunwook Kim](https://open.spotify.com/artist/0GWoIoZxx4ZvQLyCXxkX8g) | [Chin: Piano Concerto: III.](https://open.spotify.com/album/6sSMZ7SHUpu2Zwj07lacIB) | 4:28 |
 | 63 | [Scenes from Indian Life: IV\. Feast Day](https://open.spotify.com/track/5uIhU14w32DwV2Sfv3fOYW) | [Louis W\. Ballard](https://open.spotify.com/artist/4NmEcz9I8RjuRzUjHNYiPb), [Louis Wayne Ballard](https://open.spotify.com/artist/71yVHXqyXU4oxrd5ZwlFXc), [Fort Smith Symphony](https://open.spotify.com/artist/2RF1pwxVSPHMVoOpSiscAE), [John Jeter](https://open.spotify.com/artist/3R8JNp3hUoSjDI0OMGt6VN) | [Ballard: Devil's Promenade, Fantasy Aborigine No\. 3, The Four Moons & Scenes from Indian Life](https://open.spotify.com/album/6lqYQidZpyHfe5XgUvKNGp) | 4:06 |
 
-Snapshot ID: `MCxkOGRkNDhkNGNhOTJlZjY3OTI0MjgzN2M0NzQ3N2NjMDYxODY0Mjlj`
+Snapshot ID: `MCwwZGNhNWRjYmU0OTViNDlhZTMzZWJkY2U1NTFkZTc5NmViMjVmOGVi`

@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/2pFaAIZYxORUijSGppJeIv"
+      },
+      "artists": [
+        {
+          "name": "Andreia",
+          "url": "https://open.spotify.com/artist/2z9V4iySmzWIdxf3skkpFa"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172970,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/22LdVB5ygfxXiaAJuStP2s"
+    },
+    {
+      "album": {
         "name": "Empreinte",
         "url": "https://open.spotify.com/album/2d3dlA16tR1IgxoJhkGrmv"
       },
@@ -794,7 +816,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 160615,
       "name": "Bless Mo Life",
       "url": "https://open.spotify.com/track/57hfbNwAYXznJHgAGnxHya"
@@ -1425,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Come in",
+        "url": "https://open.spotify.com/album/4nBgAdBLBhREghf7gkFv5X"
+      },
+      "artists": [
+        {
+          "name": "Vj Lou",
+          "url": "https://open.spotify.com/artist/4UVzZ2QgBMOIRqygmERMzL"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148924,
+      "name": "Come in",
+      "url": "https://open.spotify.com/track/4BbYnsT6UiI8ZJHqedticd"
+    },
+    {
+      "album": {
         "name": "Condensed Milk",
         "url": "https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ"
       },
@@ -1680,7 +1724,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 155480,
       "name": "DIRTY DANCE",
       "url": "https://open.spotify.com/track/7AOLcbO2fK3SxmASZ6XS2d"
@@ -3270,7 +3314,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 167600,
       "name": "Laptop",
       "url": "https://open.spotify.com/track/7e2vCAtcYXuM8JOUqIZ9GQ"
@@ -4004,7 +4048,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 140000,
       "name": "My Doudou",
       "url": "https://open.spotify.com/track/1eSE9S5Z58BDnwafWr8Akw"
@@ -4070,6 +4114,32 @@
       "duration_ms": 236425,
       "name": "Next To Me (feat. Toni-Ann Singh)",
       "url": "https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69"
+    },
+    {
+      "album": {
+        "name": "ANGILINAZULI",
+        "url": "https://open.spotify.com/album/29ujaXlT7f6iUcODhf2X2h"
+      },
+      "artists": [
+        {
+          "name": "ANGILINAZULI",
+          "url": "https://open.spotify.com/artist/2CoGupiCn8QwhrowUqkJTJ"
+        },
+        {
+          "name": "Lazuli",
+          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
+        },
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165446,
+      "name": "Nintendo",
+      "url": "https://open.spotify.com/track/21OaI5XKCWB7hZbcawR4eW"
     },
     {
       "album": {
@@ -4709,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "PROTOCOLE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/67fxAS0referLXN4dJlKr3"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177791,
+      "name": "PROTOCOLE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
@@ -4888,6 +4976,24 @@
       "duration_ms": 192180,
       "name": "Rayi",
       "url": "https://open.spotify.com/track/76YX35vB9aQETqzZQUThpR"
+    },
+    {
+      "album": {
+        "name": "Rayken X T-way (Badman)",
+        "url": "https://open.spotify.com/album/0eBYiBr7kaJduz5Xav655X"
+      },
+      "artists": [
+        {
+          "name": "LAPEPHIT",
+          "url": "https://open.spotify.com/artist/38xCZASXRtNapBIk1uhbTa"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Rayken X T-way (Badman)",
+      "url": "https://open.spotify.com/track/4v4zQRI0LARHVF4qeY8X94"
     },
     {
       "album": {
@@ -5912,7 +6018,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 146400,
       "name": "Tek Whine",
       "url": "https://open.spotify.com/track/1DFp0EkgfuX2UTJ460YtaC"
@@ -6018,7 +6124,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 135651,
       "name": "Tikitak",
       "url": "https://open.spotify.com/track/6z2pL9JslKLIWbsm68s1V4"
@@ -6044,6 +6150,28 @@
       "duration_ms": 160000,
       "name": "Titi (feat. Meiitod)",
       "url": "https://open.spotify.com/track/64g9eUfFLlqJ1rMVzPjuQI"
+    },
+    {
+      "album": {
+        "name": "TKT PAS",
+        "url": "https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206294,
+      "name": "TKT PAS",
+      "url": "https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u"
     },
     {
       "album": {

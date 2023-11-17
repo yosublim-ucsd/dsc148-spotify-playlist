@@ -4272,10 +4272,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 210397,
       "name": "Love In A Groove",
       "url": "https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM"
+    },
+    {
+      "album": {
+        "name": "The Sovereign of 14742",
+        "url": "https://open.spotify.com/album/61ofiuSmZuRkvPc2KWNVtf"
+      },
+      "artists": [
+        {
+          "name": "Raja-Nee'",
+          "url": "https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "LOVE IN A GROOVE",
+      "url": "https://open.spotify.com/track/46mbePiv2oTh4VfNcQpjjd"
     },
     {
       "album": {

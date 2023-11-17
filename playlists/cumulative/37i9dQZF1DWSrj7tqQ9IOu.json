@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Z\u00e9lie",
+  "description": "The best French indie tracks right now. Cover : Ad\u00e8le Castillon",
   "name": "Made in France",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 226640,
       "name": "A Taste Of Possibility",
       "url": "https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1"
@@ -978,6 +978,24 @@
       "duration_ms": 218946,
       "name": "CAMISOLE",
       "url": "https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Out Of My Mind",
+        "url": "https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca"
+      },
+      "artists": [
+        {
+          "name": "Keep Dancing Inc",
+          "url": "https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "Can't Get You Out Of My Mind",
+      "url": "https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q"
     },
     {
       "album": {
@@ -2528,6 +2546,28 @@
       "duration_ms": 229067,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/28goX2uKr53LeijjP2waQV"
+    },
+    {
+      "album": {
+        "name": "Hey Lou",
+        "url": "https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "Hey Lou",
+      "url": "https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS"
     },
     {
       "album": {
@@ -5328,7 +5368,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 171832,
       "name": "Paris cyclone",
       "url": "https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn"
@@ -5679,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "Qu'est-ce que j'y peux",
+        "url": "https://open.spotify.com/album/2lXxEzMqi73YHiFywsxz3k"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pite",
+          "url": "https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Qu'est-ce que j'y peux",
+      "url": "https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm"
+    },
+    {
+      "album": {
         "name": "QUESTIONS. N4.23",
         "url": "https://open.spotify.com/album/5B9lfPhUwNsMx4vsNl28Ac"
       },
@@ -5690,7 +5748,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 202400,
       "name": "QUESTIONS. N4.23",
       "url": "https://open.spotify.com/track/1EO9ajG5uaGyNEtkNNWq1J"

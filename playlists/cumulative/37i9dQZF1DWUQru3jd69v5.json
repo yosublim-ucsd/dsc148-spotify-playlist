@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Don Pero",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Digital Astro, Tony Boy, Artie 5ive",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 166151,
       "name": "ATTIMO",
       "url": "https://open.spotify.com/track/01nHhpyMvqwrOaObKtGwRz"
@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144466,
       "name": "BVLGARI",
       "url": "https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I"
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 316322,
       "name": "CONNEXION (feat. Samara, Izi & AbSynapse)",
       "url": "https://open.spotify.com/track/79Hlcx3lsgzE7ZdaSlUgMc"
@@ -4448,6 +4448,28 @@
       "duration_ms": 65147,
       "name": "DM 6",
       "url": "https://open.spotify.com/track/04BI8KWPOEX0Y3EcdOkcSz"
+    },
+    {
+      "album": {
+        "name": "DM 7",
+        "url": "https://open.spotify.com/album/6EXSCswY3KcpYWd0BOHZVE"
+      },
+      "artists": [
+        {
+          "name": "Sisco",
+          "url": "https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE"
+        },
+        {
+          "name": "DiglieloMosi",
+          "url": "https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "DM 7",
+      "url": "https://open.spotify.com/track/6R5II1wAAQ6D3p4vTa8oZR"
     },
     {
       "album": {
@@ -5338,7 +5360,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 180413,
       "name": "FAT",
       "url": "https://open.spotify.com/track/4TLOGF37OKLeNkvCeFaohW"
@@ -6294,7 +6316,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 152727,
       "name": "GHOSTBUSTERS",
       "url": "https://open.spotify.com/track/7kp2AdxHK8C8XDjFhm4URC"
@@ -6610,6 +6632,24 @@
       "duration_ms": 157714,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
+    },
+    {
+      "album": {
+        "name": "Guadagno x2",
+        "url": "https://open.spotify.com/album/1PP93VHTU31A0juYtEOlsl"
+      },
+      "artists": [
+        {
+          "name": "Flame",
+          "url": "https://open.spotify.com/artist/21L6MycWS5ozaHjts8wrIt"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Guadagno x2",
+      "url": "https://open.spotify.com/track/5DMzIWTK9HtRZOcJxxfUHq"
     },
     {
       "album": {
@@ -8404,7 +8444,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 202800,
       "name": "La voglio mora",
       "url": "https://open.spotify.com/track/4MkVun7qrIUHC3jaLTDuFd"
@@ -8811,6 +8851,24 @@
     },
     {
       "album": {
+        "name": "Lo Faccio Lo Stesso \u2800",
+        "url": "https://open.spotify.com/album/3HCzc4jRvGBvAUNLILsUu7"
+      },
+      "artists": [
+        {
+          "name": "rooc lee",
+          "url": "https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105633,
+      "name": "Lo Faccio Lo Stesso \u2800",
+      "url": "https://open.spotify.com/track/3CBjMT0NwzW9e8NkBR1EUt"
+    },
+    {
+      "album": {
         "name": "LOGIN",
         "url": "https://open.spotify.com/album/7CSUEnbclK7M6Jxtg3y8mo"
       },
@@ -8870,7 +8928,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 161090,
       "name": "Losca (feat. Kuremino)",
       "url": "https://open.spotify.com/track/6yKvyPl3dgOsnid7PIFjRn"
@@ -8968,6 +9026,28 @@
       "duration_ms": 138500,
       "name": "Ma che Hit",
       "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
+    },
+    {
+      "album": {
+        "name": "Ma Vie (feat. Yunes LaGrintaa)",
+        "url": "https://open.spotify.com/album/6xRzhWdw5m06NPd5sgOfSw"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179395,
+      "name": "Ma Vie (feat. Yunes LaGrintaa)",
+      "url": "https://open.spotify.com/track/4niw0XCnNAQvejckvnVUtS"
     },
     {
       "album": {
@@ -9351,6 +9431,28 @@
     },
     {
       "album": {
+        "name": "Mamy Freestyle",
+        "url": "https://open.spotify.com/album/35td96bqxOCf5NE1eRH12o"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Mamy Freestyle",
+      "url": "https://open.spotify.com/track/0IXzwakHiOvrggIXRpsa1B"
+    },
+    {
+      "album": {
         "name": "MAR7ABA (feat. Nabi)",
         "url": "https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch"
       },
@@ -9574,6 +9676,32 @@
       "duration_ms": 146307,
       "name": "MASHALLAH",
       "url": "https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF"
+    },
+    {
+      "album": {
+        "name": "Masri (feat. ZiYou)",
+        "url": "https://open.spotify.com/album/39qXLgjvzRDEKdSDFW2hFX"
+      },
+      "artists": [
+        {
+          "name": "Vnubi",
+          "url": "https://open.spotify.com/artist/1Q9xOa8YwVuNBwkR2HFii8"
+        },
+        {
+          "name": "Nesti",
+          "url": "https://open.spotify.com/artist/7fUBZgfNvdE2zssOFOZHsj"
+        },
+        {
+          "name": "ZiYou",
+          "url": "https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Masri (feat. ZiYou)",
+      "url": "https://open.spotify.com/track/1hfd9La1uFtxQAY9OzDVBL"
     },
     {
       "album": {
@@ -10664,6 +10792,28 @@
       "duration_ms": 161149,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu"
+    },
+    {
+      "album": {
+        "name": "Nazionale",
+        "url": "https://open.spotify.com/album/4km7UAm4VvBVdau5KHFgtP"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140880,
+      "name": "Nazionale",
+      "url": "https://open.spotify.com/track/1Aipk8s276jf0GaHbT5Vlz"
     },
     {
       "album": {
@@ -12035,6 +12185,32 @@
     },
     {
       "album": {
+        "name": "4ever Young",
+        "url": "https://open.spotify.com/album/7JGo8geTlXXnc182JQZwU5"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        },
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156938,
+      "name": "Pesos (feat. 8blevrai)",
+      "url": "https://open.spotify.com/track/1RY1d6oUioU8PG7GMIEcVB"
+    },
+    {
+      "album": {
         "name": "PIACERE FRANCESCO",
         "url": "https://open.spotify.com/album/0vaYb9C3HxAFGwPJvIypgR"
       },
@@ -13098,7 +13274,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144362,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1"
@@ -14887,6 +15063,28 @@
     },
     {
       "album": {
+        "name": "Stonks",
+        "url": "https://open.spotify.com/album/4IXWBE3xMPigmNiOIOy7xc"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt"
+        },
+        {
+          "name": "Tradez",
+          "url": "https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Stonks",
+      "url": "https://open.spotify.com/track/2cf5zu4qeyR7cHoeiqB3NR"
+    },
+    {
+      "album": {
         "name": "Strade",
         "url": "https://open.spotify.com/album/4FZq38mnAgnwYhNouzOuoG"
       },
@@ -16438,7 +16636,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 168292,
       "name": "Victoria (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
@@ -16856,7 +17054,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 178750,
       "name": "WHITE",
       "url": "https://open.spotify.com/track/1yZm8DsxzsLuBqo6ih9ccu"
@@ -17188,6 +17386,24 @@
       "duration_ms": 202105,
       "name": "YOUSSEF",
       "url": "https://open.spotify.com/track/0R6KCfzkmpudxNXKfp0QrC"
+    },
+    {
+      "album": {
+        "name": "YSL",
+        "url": "https://open.spotify.com/album/1qXwrDwzwSaRTTWhAuSrYr"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123080,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/5DgsJ58u1QvwvQKukjTGwM"
     },
     {
       "album": {

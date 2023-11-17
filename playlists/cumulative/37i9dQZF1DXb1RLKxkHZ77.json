@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 232460,
       "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
       "url": "https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 283900,
       "name": "Hilang Tanpa Bilang",
       "url": "https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE"
@@ -2084,6 +2084,24 @@
       "duration_ms": 270926,
       "name": "Hingga Tua Bersama",
       "url": "https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg"
+    },
+    {
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/3t4OfTBXeGTZIjJlCrEvIU"
+      },
+      "artists": [
+        {
+          "name": "Daniesh Suffian",
+          "url": "https://open.spotify.com/artist/0lvy5lqKIOZlOe8YrDgQRw"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199594,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/5a3Uhr9I6M95TBinpxaZBp"
     },
     {
       "album": {
@@ -2494,6 +2512,28 @@
       "duration_ms": 178369,
       "name": "Jujurlah",
       "url": "https://open.spotify.com/track/7lIeRxGVub1d6DV17yZGXB"
+    },
+    {
+      "album": {
+        "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
+        "url": "https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt"
+      },
+      "artists": [
+        {
+          "name": "Gadis Kretek - Cast",
+          "url": "https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
+      "url": "https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH"
     },
     {
       "album": {
@@ -3931,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "OR7",
+        "url": "https://open.spotify.com/album/2wNGcMa8TAJO7D5kPiryox"
+      },
+      "artists": [
+        {
+          "name": "K-Clique",
+          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298452,
+      "name": "OR7",
+      "url": "https://open.spotify.com/track/1jBArINXOIRzHaK2WuPhtU"
+    },
+    {
+      "album": {
         "name": "Orang Yang Salah",
         "url": "https://open.spotify.com/album/1RBbHtYeLqhXOxFJ0BJdRa"
       },
@@ -5106,7 +5164,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 278500,
       "name": "Semata Karenamu",
       "url": "https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai"
@@ -5276,6 +5334,24 @@
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5"
+    },
+    {
+      "album": {
+        "name": "Sinar Pelangi",
+        "url": "https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb"
+      },
+      "artists": [
+        {
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sinar Pelangi",
+      "url": "https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp"
     },
     {
       "album": {
@@ -5920,7 +5996,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 231084,
       "name": "Ternoktah",
       "url": "https://open.spotify.com/track/5TZKS3PVVQE3QSUdGMAPIG"

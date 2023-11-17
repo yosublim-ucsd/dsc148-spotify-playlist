@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,992 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,008 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 | 62 | [Birds by the Waterside](https://open.spotify.com/track/4vknBBfaGO6ZnHw69a2Bi0) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Forest Sounds for Peace of Mind](https://open.spotify.com/album/6egF1GuipId0GYNcYMB0jU) | 3:55 |
 | 63 | [Afternoon Forest Birds for Calm and Peaceful](https://open.spotify.com/track/3dajNRGucdNCwn6rpkClh8) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 3:14 |
 | 64 | [Calm Kauai Stream](https://open.spotify.com/track/5XGlFomLYTsaaAdYwjuluF) | [Pleasures of Sound](https://open.spotify.com/artist/60RUlSJ5XKalbdsayiwjfm) | [Calm Streams](https://open.spotify.com/album/2QCRaOrJDhaoJdkAVekjlV) | 4:37 |
-| 65 | [A Soft Stream](https://open.spotify.com/track/0yjljFghb48ji37VwtUpzv) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:46 |
-| 66 | [Medium Stream A Rainy Day](https://open.spotify.com/track/5VtzrZbuh3sNuyjOmSfcP1) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Babbling Brook](https://open.spotify.com/album/65R8Dk7xuH019duMnKI8Hw) | 3:00 |
+| 65 | [Medium Stream A Rainy Day](https://open.spotify.com/track/5VtzrZbuh3sNuyjOmSfcP1) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Babbling Brook](https://open.spotify.com/album/65R8Dk7xuH019duMnKI8Hw) | 3:00 |
+| 66 | [A Soft Stream](https://open.spotify.com/track/0yjljFghb48ji37VwtUpzv) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:46 |
 | 67 | [Sweet Chirping At The Lake](https://open.spotify.com/track/24NfMFq9KuUvECooBHmhGq) | [Silenor](https://open.spotify.com/artist/3PbL8E5dj9kG8BzsqHBNQ1) | [Sleep Cure](https://open.spotify.com/album/1mZOARqTCM1uc0JxwMc5gW) | 2:53 |
 | 68 | [Rain Birds and Trees](https://open.spotify.com/track/19Z12iKnGDu5e1MXndHnhk) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Nature Sound FX](https://open.spotify.com/album/1ifeTvwPqKxJSlr3BdsEBJ) | 2:26 |
 | 69 | [Morning Waves](https://open.spotify.com/track/4f139MAcdsT4VoLzkjeGe0) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 3](https://open.spotify.com/album/2A8JvegkrBaRgYeCJbNk6k) | 3:32 |
 | 70 | [Birds By Mountain Stream](https://open.spotify.com/track/3KTbery9uig2aa5inLdPvy) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Mountain Birds](https://open.spotify.com/album/5GppWjsZF1di4rn5t3V9B9) | 3:07 |
 
-Snapshot ID: `MCw1MTE3NGZmMmE4YzgwYzg4ZjQxM2EyYmI1MDVjZTFmMjgwYzhhYzgy`
+Snapshot ID: `MCw1YTljYjlkOTZjZGE3YzI2MWI1ZTg2NmQ2MDhkZjAxMThjYzhiZWI3`

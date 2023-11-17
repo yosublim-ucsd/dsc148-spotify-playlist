@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 65451,
+  "num_followers": 65596,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDIwOThkNjgxMGU1MTg3MTQ3NzQ4MmYyODUzZjVhMzk4NGQ0YWY4",
+  "snapshot_id": "MCw3MDY2NDAyZmI5ZDAzZGFmNzBlNDdmNDI4ZDNhOTJjYmRlMTEyMDlj",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194117,
       "name": "Attack",
       "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "The Gospel (Geck-o's Gabber Confession Remix)",
-        "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
-      },
-      "artists": [
-        {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
-        },
-        {
-          "name": "Geck-O",
-          "url": "https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "The Gospel - Geck-o's Gabber Confession Remix",
-      "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1315,26 +1295,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "We are One (Official Leaderz 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j"
+        "name": "The Gospel (Geck-o's Gabber Confession Remix)",
+        "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
       },
       "artists": [
         {
-          "name": "F. Noize",
-          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
         },
         {
-          "name": "Broken Brains",
-          "url": "https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8"
-        },
-        {
-          "name": "Mc Braincase",
-          "url": "https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve"
+          "name": "Geck-O",
+          "url": "https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB"
         }
       ],
-      "duration_ms": 241500,
-      "name": "We are One (Official Leaderz 2023 Anthem)",
-      "url": "https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt"
+      "duration_ms": 231500,
+      "name": "The Gospel - Geck-o's Gabber Confession Remix",
+      "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1367,6 +1343,30 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "We are One (Official Leaderz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j"
+      },
+      "artists": [
+        {
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+        },
+        {
+          "name": "Broken Brains",
+          "url": "https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8"
+        },
+        {
+          "name": "Mc Braincase",
+          "url": "https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "We are One (Official Leaderz 2023 Anthem)",
+      "url": "https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Outta Here",
         "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 138500,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
+      },
+      "artists": [
+        {
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "DON'T BE SCARED",
         "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 186098,
       "name": "DON'T BE SCARED",
       "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
-      },
-      "artists": [
-        {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "TH3 FL0W",
-        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
-      },
-      "artists": [
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        }
-      ],
-      "duration_ms": 154272,
-      "name": "TH3 FL0W",
-      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "TH3 FL0W",
+        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 154272,
+      "name": "TH3 FL0W",
+      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
     },
     {
       "added_at": "2023-11-02 23:00:00",

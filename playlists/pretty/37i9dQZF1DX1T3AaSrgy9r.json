@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 113953,
+  "num_followers": 114092,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
+  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl - Remastered 2015",
-      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Windowlicker",
         "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 365640,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Stupid Girl - Remastered 2015",
+      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Battleflag",
-        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
-      },
-      "artists": [
-        {
-          "name": "Lo Fidelity Allstars",
-          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Battleflag",
-      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Spin Spin Sugar",
         "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Battleflag",
+        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
+      },
+      "artists": [
+        {
+          "name": "Lo Fidelity Allstars",
+          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Battleflag",
+      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
     },
     {
       "added_at": "2021-07-14 17:36:34",

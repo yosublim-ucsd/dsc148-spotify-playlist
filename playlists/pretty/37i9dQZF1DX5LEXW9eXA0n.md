@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:DAVICHI\(다비치\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,254 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,477 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 100 | [Look into eyes say it](https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Again,Star \#2](https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0) | 3:56 |
 | 101 | [Eclipse](https://open.spotify.com/track/5m52cGb4MWsj44ggieU76K) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [Eclipse](https://open.spotify.com/album/1TyitQhFrsvGGQu9lYNEsw) | 4:08 |
 
-Snapshot ID: `MCxlOGFjOTJiZmU1OGQ1NzIyYjJhMmQ5MWQ5YTJlOTRiODU0OTk5ZGMw`
+Snapshot ID: `MCw0YTIzNTRlZDA1OWY0N2MzYzY0ZGQ1NTczYjU0ZmU3YmQ4ZWE3Mzg4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Peggy Gou, Lenny Kravitz",
+  "description": "The home for alternative electronic music. Cover: The Blessed Madonna, Joy Anonymous",
   "name": "Altar",
   "tracks": [
     {
@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Backshifting",
+        "url": "https://open.spotify.com/album/5H96oSbsd5Ob8DqOAMHIS7"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244634,
+      "name": "Backshifting",
+      "url": "https://open.spotify.com/track/7AsthFcXBLZlGAyDpljpoy"
+    },
+    {
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt"
       },
@@ -2628,6 +2646,32 @@
       "duration_ms": 199413,
       "name": "CAPONE",
       "url": "https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69"
+    },
+    {
+      "album": {
+        "name": "Carry Me Higher",
+        "url": "https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270402,
+      "name": "Carry Me Higher - 7 Inch Version",
+      "url": "https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9"
     },
     {
       "album": {
@@ -4202,6 +4246,28 @@
       "duration_ms": 226087,
       "name": "EMBER",
       "url": "https://open.spotify.com/track/3TEvSR6IiKJOnZyDY7Zfs7"
+    },
+    {
+      "album": {
+        "name": "NOTHING MADE SENSE",
+        "url": "https://open.spotify.com/album/4Ptah9ieLZ5DVEtgrRHFDQ"
+      },
+      "artists": [
+        {
+          "name": "808Charmer",
+          "url": "https://open.spotify.com/artist/6UVkc7bPScP0qTQE5dDaEX"
+        },
+        {
+          "name": "808INK",
+          "url": "https://open.spotify.com/artist/1eSFjbv86usit5ZF5ywtLf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153542,
+      "name": "EMOTIONAL INTELLIGENCE",
+      "url": "https://open.spotify.com/track/2VGzWYCwuJrUXSb3sKAhWc"
     },
     {
       "album": {
@@ -6308,7 +6374,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 267655,
       "name": "Heat of the Moon - Phairo's Lunar Eclipse Mix",
       "url": "https://open.spotify.com/track/1q7MXzLGZK2DqVNIF66VFh"
@@ -10784,7 +10850,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 268904,
       "name": "Oxytoxin",
       "url": "https://open.spotify.com/track/6dAnLQly7pimsgewp5AUyX"
@@ -11106,7 +11172,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 369098,
       "name": "Pills",
       "url": "https://open.spotify.com/track/58a1Fay6JytcOR0Fv04BCc"
@@ -12477,6 +12543,28 @@
     },
     {
       "album": {
+        "name": "Seasoning",
+        "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        },
+        {
+          "name": "2b.Frank",
+          "url": "https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203869,
+      "name": "Seasoning (feat. 2b.Frank)",
+      "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+    },
+    {
+      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/4d1qEIVehda9qcRO6VgkdT"
       },
@@ -12558,6 +12646,28 @@
       "duration_ms": 311250,
       "name": "Seher - Edit",
       "url": "https://open.spotify.com/track/5kkBdbx49vPGrbQg5l014Z"
+    },
+    {
+      "album": {
+        "name": "Self To Blame",
+        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Self To Blame",
+      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
     },
     {
       "album": {
@@ -13868,7 +13978,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 197822,
       "name": "Syren",
       "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
@@ -14364,7 +14474,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 301838,
       "name": "The One",
       "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
@@ -14418,7 +14528,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 232380,
       "name": "The Return - Edit",
       "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
@@ -14512,6 +14622,28 @@
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD"
+    },
+    {
+      "album": {
+        "name": "thicc",
+        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Cosha",
+          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "thicc",
+      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
     },
     {
       "album": {
@@ -15600,7 +15732,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 208333,
       "name": "Waiheke Island - Radio Edit",
       "url": "https://open.spotify.com/track/2T2IRIdVQfWOJAeGl4xeCp"
@@ -15738,6 +15870,24 @@
       "duration_ms": 223077,
       "name": "Want Me Back",
       "url": "https://open.spotify.com/track/4BVgc6D5Z3eYlQMIrPLRgB"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "album": {

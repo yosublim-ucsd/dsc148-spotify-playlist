@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 131480,
       "name": "C'est toi - Bonus",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
@@ -538,6 +538,28 @@
       "duration_ms": 200470,
       "name": "Chic",
       "url": "https://open.spotify.com/track/38sPQGVoRnzlF4VBr71fln"
+    },
+    {
+      "album": {
+        "name": "era 24",
+        "url": "https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Chill (feat. Lisandro Cuxi)",
+      "url": "https://open.spotify.com/track/2iU2zIwf1swwLUTMLkb5NN"
     },
     {
       "album": {
@@ -1017,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Double Jeu",
+        "url": "https://open.spotify.com/album/7siHw2KsKpvxF3QWIaFAz2"
+      },
+      "artists": [
+        {
+          "name": "Awa Imani",
+          "url": "https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164677,
+      "name": "Double Jeu",
+      "url": "https://open.spotify.com/track/5CkrxFlXXBSLqs3cslTnpF"
+    },
+    {
+      "album": {
         "name": "D\u00e9chirer",
         "url": "https://open.spotify.com/album/7EjSTlxv8BlPWR8hoUhfAL"
       },
@@ -1086,7 +1130,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 140242,
       "name": "Encore",
       "url": "https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764"
@@ -1264,6 +1308,24 @@
       "duration_ms": 203294,
       "name": "Garde Le",
       "url": "https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292"
+    },
+    {
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137437,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
     },
     {
       "album": {
@@ -3160,7 +3222,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 195803,
       "name": "Prouver",
       "url": "https://open.spotify.com/track/7dXepJOiMWsBqEsQ6XIvS0"

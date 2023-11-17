@@ -4,7 +4,7 @@
 
 > The best tracks from the great Miles Davis.
 
-142 songs - 13 hr 59 min
+143 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Dr\. Jackle \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1d8nSRQam4oz1J0TDS6nvk) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:45 | 2021-07-02 |  |
 | [E.S.P.](https://open.spotify.com/track/7rUY3EGXQIMZTQuW8P3w4N) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Best Of Miles Davis](https://open.spotify.com/album/14Gdsp33387vOEIskmNYUy) | 5:28 | 2022-09-16 | 2022-11-13 |
 | [E.S.P.](https://open.spotify.com/track/1IPHdEjEFdVMPvqvbceEYK) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968](https://open.spotify.com/album/2QzE84Dzdn1cLXMLwSnilN) | 5:28 | 2021-07-02 | 2022-07-29 |
-| [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 5:33 | 2022-04-27 |  |
+| [E.S.P.](https://open.spotify.com/track/1TsAsyHFJZqkuEM26Sg34a) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968](https://open.spotify.com/album/1mM5BwiiPqVq8T0vucuKhI) | 5:28 | 2023-10-26 |  |
+| [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 5:33 | 2022-04-27 | 2023-11-17 |
 | [Easy Living](https://open.spotify.com/track/0D4zoclhjrB0yvvkvxrPY5) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Blue Moods / The Musings Of Miles](https://open.spotify.com/album/72uGp1PIdFF6PbZM4aoLpw) | 5:06 | 2021-07-02 | 2022-07-29 |
 | [Easy Living](https://open.spotify.com/track/0fTlABpO8LnVVdyOcEq4fr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Complete Debut Recordings](https://open.spotify.com/album/4mFHvcqplecJDsIT7dD1fe) | 5:03 | 2022-09-16 | 2022-11-14 |
 | [Easy Living](https://open.spotify.com/track/3QHeOALQbMukSiCWQrP2b0) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Blue Moods](https://open.spotify.com/album/6QNUsyQxf8merg8Sv696aI) | 5:03 | 2022-04-27 |  |

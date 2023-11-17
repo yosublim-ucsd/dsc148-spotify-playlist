@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-731 songs - 1 day 6 hr 42 min
+732 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Frimærke](https://open.spotify.com/track/1WTagWjqB683U3RcPams59) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Frimærke](https://open.spotify.com/album/6fUjJxTzXZYPIURDgLm8PJ) | 2:17 | 2023-08-07 |  |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-05-27 | 2023-05-10 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-05-27 |  |
-| [Frühlingserwachen](https://open.spotify.com/track/1L54P6yrhLNADvO50r5XbT) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Frühlingserwachen](https://open.spotify.com/album/5TfHigXqrAYvlx4JXjJlMS) | 2:20 | 2023-05-19 |  |
+| [Frühlingserwachen](https://open.spotify.com/track/1L54P6yrhLNADvO50r5XbT) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Frühlingserwachen](https://open.spotify.com/album/5TfHigXqrAYvlx4JXjJlMS) | 2:20 | 2023-05-19 | 2023-11-17 |
 | [Fulfilled](https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM) | [Alejandro Seitz](https://open.spotify.com/artist/3uRK0WRR8JCS6mlkg3NHej) | [Fulfilled](https://open.spotify.com/album/750a4bHkMhjvPdSTbLxLWN) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-05-27 | 2023-01-03 |
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-05-27 |  |
@@ -722,6 +722,7 @@
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2022-05-27 | 2022-09-24 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-05-27 |  |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-05-27 | 2023-03-28 |
+| [Whispered Truth \- Spotify Version](https://open.spotify.com/track/6CnpyDqtruXnv3WvTXvcRh) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Whispered Truth \(Spotify Version\)](https://open.spotify.com/album/0SUXofzR2Lwt9GoYBsYBkP) | 2:17 | 2023-11-14 |  |
 | [White](https://open.spotify.com/track/3ywq1JwwitXZ7XXVB0l5f0) | [Salvatore Altavilla](https://open.spotify.com/artist/1fdryWe2TzsSVCIBB46nCv) | [White](https://open.spotify.com/album/3m5fZgrlIJHlhTKHvjyjHi) | 2:12 | 2023-02-06 |  |
 | [White Birds](https://open.spotify.com/track/5a2S0A5mnpBhXx6Tg36Mw7) | [Sabr Alptekin](https://open.spotify.com/artist/63kbSX61U1d74efq90Nqva) | [White Birds](https://open.spotify.com/album/3S0uHMfE1YY8N2JFCZYikK) | 1:55 | 2023-02-06 | 2023-07-25 |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-05-27 | 2023-09-22 |

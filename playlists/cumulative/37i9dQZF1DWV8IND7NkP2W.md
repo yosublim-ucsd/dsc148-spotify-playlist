@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-681 songs - 1 day 6 hr 28 min
+682 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [In Moment](https://open.spotify.com/track/0gN3UHcbbfLtIe2HThmvE1) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [In Moment](https://open.spotify.com/album/4zAoLpf8uLbOETYXKoYIWq) | 2:18 | 2022-03-03 | 2022-07-24 |
 | [ingenuity](https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV) | 3:04 | 2022-07-28 | 2023-01-11 |
 | [ingenuity](https://open.spotify.com/track/7Jpq5JifjHGXkcke4xaxa8) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/073FOLOmSzVc8brGH32LWB) | 3:04 | 2021-12-23 | 2022-07-29 |
-| [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 | 2023-07-28 |
+| [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 |  |
 | [Inside Love](https://open.spotify.com/track/5WSaTxllq6SNyOCEh2C1kb) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Inside Love](https://open.spotify.com/album/4bA08DkU2XGgOvwgmB7dFa) | 1:40 | 2022-04-14 | 2022-07-28 |
 | [Intersect](https://open.spotify.com/track/40ZwjOSE0JE0eqYN6v1XXn) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [Cadence](https://open.spotify.com/album/61KwQrK6ffvkm5JWWHwjTg) | 2:51 | 2021-12-23 | 2022-07-17 |
 | [IQ \- Instrumental](https://open.spotify.com/track/5Ied56g4AIcQbG2xB782QW) | [CARREC](https://open.spotify.com/artist/2GvSLpKBp3XZdNbAtiChQr), [TALOW](https://open.spotify.com/artist/5HwgnSQkBOfC49j0eCs7BJ) | [IQ](https://open.spotify.com/album/0Yn3CPyencGnFUlj0VuMoF) | 4:32 | 2022-01-06 | 2022-04-20 |
@@ -403,7 +403,7 @@
 | [Morning Walk Inst](https://open.spotify.com/track/59WH3nBd9Y7NpcoIaIT43P) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Morning Walk Inst](https://open.spotify.com/album/1NJShCw5uw960gpKaOC8cm) | 3:13 | 2021-12-23 | 2022-12-16 |
 | [MOVE FORWARD](https://open.spotify.com/track/3PqyQ64sDy2sngYdx9QAOt) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [MOVE FORWARD](https://open.spotify.com/album/1FQ6y1HVUGlFdFJ0JV91iJ) | 4:00 | 2022-01-13 | 2022-07-22 |
 | [Mt\. Kita](https://open.spotify.com/track/1txwaLQknVX822mGk13eEe) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo) | [Mt\. Kita](https://open.spotify.com/album/6LEAAJjaQDPzSxwy6pKHTs) | 2:29 | 2021-12-23 | 2022-08-13 |
-| [mugen](https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [mugen](https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO) | 2:48 | 2023-06-20 |  |
+| [mugen](https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [mugen](https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO) | 2:48 | 2023-06-20 | 2023-11-17 |
 | [My Favorite Sled](https://open.spotify.com/track/0mOp1W6ChQsQfdpxqYKEA4) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [My Favorite Sled](https://open.spotify.com/album/2mNWkRT6uTeHghQ9PCfDyc) | 3:06 | 2023-01-19 | 2023-01-21 |
 | [My Favorite Sled](https://open.spotify.com/track/6426skUo8oTgrEeMkxr1aI) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [My Favorite Sled](https://open.spotify.com/album/6mPFzZq0I56A4I86StgAbD) | 3:06 | 2023-01-19 | 2023-04-05 |
 | [My Holiday](https://open.spotify.com/track/2SoUXBqoOo1R0QnDQSnB58) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [My Holiday](https://open.spotify.com/album/2zuKgk99s5W3C5Ran0ZCYt) | 3:09 | 2021-12-23 | 2022-07-29 |
@@ -560,6 +560,7 @@
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 | 2023-09-29 |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 | 2023-06-18 |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |
+| [stained glass](https://open.spotify.com/track/1CZGGAMZ8L8K7KixFUvrDS) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [stained glass](https://open.spotify.com/album/7kW2HciwXAKpd3a5Ln6V9o) | 3:00 | 2023-11-16 |  |
 | [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 | 2022-11-19 |
 | [Star Lights](https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL) | 1:41 | 2022-11-17 | 2023-06-01 |
 | [Starting point](https://open.spotify.com/track/0j1JcVzUyAUSJjuzzriAnv) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Starting point](https://open.spotify.com/album/18tf8ePtBy0DbHh771cSms) | 2:18 | 2021-12-23 | 2022-04-17 |
@@ -604,7 +605,7 @@
 | [Tequila at midnight](https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Bar counter](https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB) | 1:52 | 2022-02-03 | 2022-09-19 |
 | [Thankful](https://open.spotify.com/track/4EedntG2oTsHGjDNVldyqj) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn) | [Wake Up](https://open.spotify.com/album/5QIRw20KA0LEOTVBhUm5VE) | 2:00 | 2022-03-31 | 2022-04-16 |
 | [The Answer \(from\)](https://open.spotify.com/track/2lrMcnt8NOLKyVvYgJIpd3) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [The Answer](https://open.spotify.com/album/4akg02EFGvrpQePOCgo6iO) | 2:24 | 2021-12-23 | 2022-01-27 |
-| [The Black Cat](https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [The Black Cat](https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H) | 1:52 | 2021-12-23 |  |
+| [The Black Cat](https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [The Black Cat](https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H) | 1:52 | 2021-12-23 | 2023-11-17 |
 | [The Color of Your Heart](https://open.spotify.com/track/5oIdUGVkz7UjsZTWl71jQk) | [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [The Color of Your Heart](https://open.spotify.com/album/1dQ2W2w3AnGpDWkIVwKmiu) | 4:28 | 2021-12-23 | 2022-07-27 |
 | [The Train Ride Home](https://open.spotify.com/track/0I9Sb0yl3ygzcmcW6sDl16) | [Taiyo Ky](https://open.spotify.com/artist/0MxSQxHSbd0E7RgmqDZ1DA) | [The Train Ride Home](https://open.spotify.com/album/2dphwqQhCUNDGrAX9ncfN2) | 3:04 | 2021-12-23 | 2022-04-21 |
 | [The Way I Feel](https://open.spotify.com/track/2SDIyQgY55oWZOqRmMWE3h) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [The Way I Feel](https://open.spotify.com/album/5duFo9fLgha403PX3005QI) | 1:36 | 2021-12-23 | 2022-01-22 |

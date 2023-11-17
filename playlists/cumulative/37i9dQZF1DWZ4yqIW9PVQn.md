@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-138 songs - 8 hr 23 min
+139 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Story of night fall](https://open.spotify.com/track/6E2eYYvCV8znuzYlhudAJY) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 4:14 | 2022-07-04 |  |
 | [Stupid](https://open.spotify.com/track/3sGYUtkUI0ampaZvbjSrkp) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/6bYLR9Zkhc6p9YWWnjxtip) | 2:58 | 2022-07-04 |  |
 | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/track/3Qh3Pr6IJYb3Aj1qvILr4B) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/album/4WRxDU0q82GFtTPFKcUPlR) | 2:44 | 2023-09-20 |  |
-| [Sunday Night](https://open.spotify.com/track/7y2knCRhPmiyv5lmLaNBhG) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U), [Jurin](https://open.spotify.com/artist/08nocpCapN94qptgBMDIUy) | [Sunday Night](https://open.spotify.com/album/7c3RhURbVqHtRrTvHwxLpK) | 3:45 | 2023-10-22 |  |
+| [Sunday Night](https://open.spotify.com/track/0TvQwOhmfnspiN63l0O1Z6) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Sunday Night](https://open.spotify.com/album/4YdVfqWVp7w00dn3iSnZha) | 3:45 | 2023-11-03 |  |
+| [Sunday Night](https://open.spotify.com/track/7y2knCRhPmiyv5lmLaNBhG) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U), [Jurin](https://open.spotify.com/artist/08nocpCapN94qptgBMDIUy) | [Sunday Night](https://open.spotify.com/album/7c3RhURbVqHtRrTvHwxLpK) | 3:45 | 2023-10-22 | 2023-11-17 |
 | [Sunday Night](https://open.spotify.com/track/1XvZJO24bVGFcoTjUdwDyi) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U), [JURIN](https://open.spotify.com/artist/7ltLMdhCWprT0dbggchc6e) | [Sunday Night](https://open.spotify.com/album/6U9cqG0pcELOONAmqMTVsd) | 3:45 | 2022-07-04 | 2023-11-02 |
 | [Sunshine of June](https://open.spotify.com/track/6BVY60lo3QaL6TSgBwKzgM) | [Dailylab](https://open.spotify.com/artist/4by96utXSeGTsQSfR16Olh) | [Sunshine of June](https://open.spotify.com/album/4ziHz60Ut95gknIzloSxhf) | 4:12 | 2022-07-04 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 |  |

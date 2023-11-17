@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,246 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,305 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 33 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 |
 | 34 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 35 | [Call My Name](https://open.spotify.com/track/25otaaQaySgAkOW61WibDs) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Call My Name](https://open.spotify.com/album/0EzgsLTpps8HovqZA1aMNK) | 3:25 |
-| 36 | [Venus](https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Venus](https://open.spotify.com/album/3B9v1QLSiQIDxV9vcb7L1R) | 3:39 |
+| 36 | [Venus](https://open.spotify.com/track/1Q58zWJH3V8v9dVWRO4K8d) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Alone With My Own Thoughts EP](https://open.spotify.com/album/4EsukUGx6EJ9wXgNVdU3DK) | 3:39 |
 | 37 | [For Your Touch](https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [For Your Touch](https://open.spotify.com/album/3E6MTeXMibrYqUIqUnn9qO) | 3:02 |
 | 38 | [Silence](https://open.spotify.com/track/6IAgGNsx1TSppM1g2ig4Il) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Silence](https://open.spotify.com/album/0xZA75KUxVBNV4Nwz2ni1Y) | 4:04 |
 | 39 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [The World Seen Through Your Eyes](https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [The World Seen Through Your Eyes](https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW) | 2:30 |
 | 80 | [I Hate Myself](https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:02 |
 
-Snapshot ID: `MCxiNWE3ODYzYWRlNTNhZWNhODc2NTBmZmYzOWE2N2Y5ZDYwOWMzZWY5`
+Snapshot ID: `MCw3ZWE4OWUwOGE4ZjI4ZWE2MGIzYWNjMDVhYmM1MTA1Mjc4MjU0NWQy`

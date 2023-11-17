@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
-> Pódcasts que necesitas mantener en tu RADAR: Sofá manta y crimen, Radio La Pera, La placita amarilla, Somos Estupendas, Coquetas y bravas.
+> Pódcasts que necesitas mantener en tu RADAR: Somos Estupendas, Sofá manta y crimen, Radio La Pera, La placita amarilla,  Coquetas y bravas.
 
 18 songs - 14 hr 44 min
 

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Atrak (\u0639\u0637\u0631\u0643)",
+        "url": "https://open.spotify.com/album/4YFT5NIXxVZgl7IbijSa4U"
+      },
+      "artists": [
+        {
+          "name": "Jalal Al Zain",
+          "url": "https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250729,
+      "name": "Atrak - \u0639\u0637\u0631\u0643",
+      "url": "https://open.spotify.com/track/2QtVbvCqhwmhorkdu1BS6t"
+    },
+    {
+      "album": {
         "name": "Awel Mara",
         "url": "https://open.spotify.com/album/2j8kRtxQ6mzA5TsWFMTWj8"
       },

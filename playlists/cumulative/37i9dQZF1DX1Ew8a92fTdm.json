@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Angels Watching",
+        "url": "https://open.spotify.com/album/0Q1B92Ey7yC9X4GAGvtVEb"
+      },
+      "artists": [
+        {
+          "name": "Allan London",
+          "url": "https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80720,
+      "name": "Angels Watching",
+      "url": "https://open.spotify.com/track/645aw5RzvcmIXq9s4H3JpR"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/590SCNsLWNHSHSmCH0mgU9"
       },
@@ -383,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Bairn",
+        "url": "https://open.spotify.com/album/6nC6102gVFYcAzfyxqUiuw"
+      },
+      "artists": [
+        {
+          "name": "Mr Flat Bear",
+          "url": "https://open.spotify.com/artist/1iAISuXBWfgtU3b9ncXYDJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Bairn",
+      "url": "https://open.spotify.com/track/5uVRTn1dt26B6rAjb6ce7j"
+    },
+    {
+      "album": {
         "name": "Ballet Shoes",
         "url": "https://open.spotify.com/album/4cRhTmroqLADRlhKHGCZvv"
       },
@@ -545,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Rainbow",
+        "url": "https://open.spotify.com/album/0ECGXb6YohmPjcORy1hLkl"
+      },
+      "artists": [
+        {
+          "name": "Egil Nielsen",
+          "url": "https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92922,
+      "name": "Beyond the Rainbow",
+      "url": "https://open.spotify.com/track/6wY6hfDa3zgxSb8heXOGQI"
+    },
+    {
+      "album": {
         "name": "Bienveillant - Music Box",
         "url": "https://open.spotify.com/album/4aDLE7q9KH28M6vkfHKX4X"
       },
@@ -682,10 +736,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 116250,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/5RamjYcCBe4dcmxBIPY2xe"
+    },
+    {
+      "album": {
+        "name": "Brahms Lullaby",
+        "url": "https://open.spotify.com/album/30pBqGBuddB699Wc1aAPHb"
+      },
+      "artists": [
+        {
+          "name": "Maurice Marsipano",
+          "url": "https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Brahms Lullaby",
+      "url": "https://open.spotify.com/track/64MhdTI2NpxFmxT4Iy4Zxr"
     },
     {
       "album": {
@@ -776,6 +848,24 @@
       "duration_ms": 109868,
       "name": "Bug Juice Summer",
       "url": "https://open.spotify.com/track/29uMnRN95ImeQVvQhky5Pk"
+    },
+    {
+      "album": {
+        "name": "Bundle Of Joy",
+        "url": "https://open.spotify.com/album/15nuJXpYq54wHHVRYqXCpA"
+      },
+      "artists": [
+        {
+          "name": "Little Night Owl",
+          "url": "https://open.spotify.com/artist/0XtzVCRLGk98nYDNNNnnzX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69614,
+      "name": "Bundle Of Joy",
+      "url": "https://open.spotify.com/track/3e5g2MWiGuU0h2RQxef002"
     },
     {
       "album": {
@@ -1514,6 +1604,24 @@
       "duration_ms": 119361,
       "name": "Golden Dust-Musicbox",
       "url": "https://open.spotify.com/track/0uifpcR1fyjLRYOSTbZoM4"
+    },
+    {
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/5TqLODQhMewEuehlgB8VYr"
+      },
+      "artists": [
+        {
+          "name": "Will Bloom",
+          "url": "https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/4514yczhgbgkqFCa3ymD8p"
     },
     {
       "album": {
@@ -2831,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Rain Rain, Go Away",
+        "url": "https://open.spotify.com/album/5F5pfOSlPWb1YC8yHjQ6Ab"
+      },
+      "artists": [
+        {
+          "name": "Isa Kaur",
+          "url": "https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68275,
+      "name": "Rain Rain, Go Away",
+      "url": "https://open.spotify.com/track/3W2uPHkZrhRBoPvVEzxZtC"
+    },
+    {
+      "album": {
         "name": "Rainbow Magic (MusicBox)",
         "url": "https://open.spotify.com/album/46CnGj2wgurkTi1296mHkJ"
       },
@@ -3083,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Angel",
+        "url": "https://open.spotify.com/album/11yWjXDQZ2lpm4v0rInRwp"
+      },
+      "artists": [
+        {
+          "name": "Nattkvisten",
+          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92208,
+      "name": "Sleeping Angel",
+      "url": "https://open.spotify.com/track/4HC4pGvGPUomA1m4409wrY"
+    },
+    {
+      "album": {
         "name": "Sleeping On Cloud 9",
         "url": "https://open.spotify.com/album/1mr5gy4ZZ8uTL4t64v74bd"
       },
@@ -3278,6 +3422,24 @@
       "duration_ms": 83579,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB"
+    },
+    {
+      "album": {
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/5hvuGvH0a6v5LntcX7HywG"
+      },
+      "artists": [
+        {
+          "name": "Maria Gustavo",
+          "url": "https://open.spotify.com/artist/0iTNrCJl7pHmoN50pTNL3t"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111758,
+      "name": "Storybook",
+      "url": "https://open.spotify.com/track/3yPJpsAl7FIQ4AaDP5RQkr"
     },
     {
       "album": {
@@ -4192,7 +4354,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 77663,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX"
@@ -4214,6 +4376,24 @@
       "duration_ms": 57430,
       "name": "Willow Song",
       "url": "https://open.spotify.com/track/4U7P98xdvMWtAkhP6M0Kj7"
+    },
+    {
+      "album": {
+        "name": "Music Box Peace",
+        "url": "https://open.spotify.com/album/0bLGMD8qbTGDAwAlttoSIz"
+      },
+      "artists": [
+        {
+          "name": "Laurel Hoh",
+          "url": "https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Yankee Doodle",
+      "url": "https://open.spotify.com/track/1rPArr7MqVeVEWlbCKIotc"
     },
     {
       "album": {

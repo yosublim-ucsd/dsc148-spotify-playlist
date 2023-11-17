@@ -1131,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "Innovator - Soundtrack for the Tenth Planet",
+        "url": "https://open.spotify.com/album/2nH10JrMji3X2CU7TLlG06"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        },
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/282lxjPMsfa7LFFyomKh2z"
+        },
+        {
+          "name": "Rhythim Is Rhythim",
+          "url": "https://open.spotify.com/artist/2nIqaAaqBMuBUDiBFNMw9w"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454500,
+      "name": "Strings Of Life",
+      "url": "https://open.spotify.com/track/3vNUr7vbYQwWO83fOeeMhB"
+    },
+    {
+      "album": {
         "name": "Strings of Life",
         "url": "https://open.spotify.com/album/5knBVpCK429T6OoVzXK2Yk"
       },
@@ -1150,7 +1176,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 454500,
       "name": "Strings of Life - Original Mix",
       "url": "https://open.spotify.com/track/4y05fec0H4RQ2yfyMn4Ux3"

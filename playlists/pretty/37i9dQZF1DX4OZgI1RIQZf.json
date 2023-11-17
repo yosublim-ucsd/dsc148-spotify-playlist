@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 78784,
+  "num_followers": 78775,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjc1MDcwMmNjZDc0NTIyNWY1OGFmODM5ZDY0MWVhZmE1YTMwNTEy",
+  "snapshot_id": "MCxjZDRlZDVmZTgwOGZiMTAyYTViZGFlNTBhMjIzYWEyYmMwZmVjZWNk",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "God Is Dead",
         "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 241614,
       "name": "Let's Have A Satanic Orgy",
       "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 307453,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "GHOSTS ON TAPE",
         "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 226622,
       "name": "MORBID FASCINATION",
       "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 307453,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
-        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Trick or Treatz",
-      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
         "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 160800,
       "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
       "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
+        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Trick or Treatz",
+      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Transangelic Exodus",
-        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
-      },
-      "artists": [
-        {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Suck the Blood from My Wound",
-      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Four Words To Stand On",
         "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 211480,
       "name": "Standing On Ghosts",
       "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Transangelic Exodus",
+        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Suck the Blood from My Wound",
+      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "The Five Ghosts",
-        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
-      },
-      "artists": [
-        {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "I Died So I Could Haunt You",
-      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Hit to Death in the Future Head",
-        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+        "name": "We Need Medicine",
+        "url": "https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
         }
       ],
-      "duration_ms": 342693,
-      "name": "Halloween on the Barbary Coast",
-      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1191,6 +1191,22 @@
       "duration_ms": 239866,
       "name": "Witches! Witches! Rest Now in the Fire",
       "url": "https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Hit to Death in the Future Head",
+        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 342693,
+      "name": "Halloween on the Barbary Coast",
+      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 295840,
       "name": "Dark and Stormy",
       "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "We Need Medicine",
-        "url": "https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Halloween Blues",
-      "url": "https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW"
     },
     {
       "added_at": "2023-10-27 07:45:00",

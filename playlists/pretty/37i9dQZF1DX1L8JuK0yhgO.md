@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,176 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,179 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 24 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 |
 | 25 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
 | 26 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
-| 27 | [RSVP \- Remix](https://open.spotify.com/track/7bNi5x8b8yyWw9fjeoDJqP) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHIO CHICANO](https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb), [BM of KARD](https://open.spotify.com/artist/7wiNDpAVXGUvbcFbdZs6tt), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [RSVP \(Remix\)](https://open.spotify.com/album/0s08PlLmcGFHnYqF2EsSh8) | 3:48 |
+| 27 | [RSVP \- Remix](https://open.spotify.com/track/7bNi5x8b8yyWw9fjeoDJqP) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHIO CHICANO](https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [RSVP \(Remix\)](https://open.spotify.com/album/0s08PlLmcGFHnYqF2EsSh8) | 3:48 |
 | 28 | [Human Theater \(feat.sunwoojunga\)](https://open.spotify.com/track/77hp55clC1HagsQhxOgH0S) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [SICHIMI](https://open.spotify.com/album/39b4TqR7yPKfBJVFUvQjny) | 3:18 |
 | 29 | [Chanel Pit](https://open.spotify.com/track/5kB1yLY4eLZB3htcq3LuZn) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Chanel Pit](https://open.spotify.com/album/5eyIsZJw0Bb4VGi65JflHE) | 2:48 |
 | 30 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Earth Steps \- Stones Taro Remix](https://open.spotify.com/track/64Fw1IBthfBnZdp3cMUNd6) | [Pee J Anderson](https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Earth Steps Remixes](https://open.spotify.com/album/1Hgj4xit7jwAruS3eNkOO0) | 5:22 |
 | 60 | [Magma](https://open.spotify.com/track/7g6Mtr3OYNWDuJuZAZjfuJ) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Magma](https://open.spotify.com/album/0dije5QxbqtbhIBBV4NEZX) | 3:00 |
 
-Snapshot ID: `MCxjNzRlZmY5YjZmZTA0YzY2ZWZiYzkyNjhkNzNmZjU3MjRlM2ZhYjli`
+Snapshot ID: `MCwxMWRhNzkxYzdiNzdmYzQ4Y2M3ZTlmZmFmNTJlYTEyNzBlYzFlM2I4`

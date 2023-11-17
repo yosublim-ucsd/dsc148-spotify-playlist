@@ -4,11 +4,11 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-157 songs - 8 hr 11 min
+158 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2000 Miles](https://open.spotify.com/track/4zrdqZybs0wk1sXkxlCLlB) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [2000 Miles](https://open.spotify.com/album/423lxgcnvIhkE70kUZ6Z0n) | 3:49 | 2022-10-24 |  |
+| [2000 Miles](https://open.spotify.com/track/4zrdqZybs0wk1sXkxlCLlB) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [2000 Miles](https://open.spotify.com/album/423lxgcnvIhkE70kUZ6Z0n) | 3:49 | 2022-10-24 | 2023-11-17 |
 | [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 3:08 | 2021-12-17 |  |
 | [A Hazy Shade Of Winter](https://open.spotify.com/track/07UJwROZlxGkoq0dlv4FvQ) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [A Hazy Shade Of Winter](https://open.spotify.com/album/35NxsFHdWTSkPnMOpgYld3) | 3:18 | 2022-10-24 | 2023-10-21 |
 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 | 2023-10-27 |  |
@@ -21,7 +21,7 @@
 | [Baby, It's Cold Outside](https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Baby, It's Cold Outside](https://open.spotify.com/album/3eSv2kdz0jDZl8Vx9Oiakt) | 2:24 | 2021-12-17 | 2023-10-21 |
 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 | 2022-10-07 |  |
 | [Carol of the Bells](https://open.spotify.com/track/0mZa0SSpNscGBpmXT5iKk4) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/1FA4hRu48DNpVQQiEWmra3) | 1:57 | 2021-12-17 | 2022-07-29 |
-| [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 | 2021-12-17 |  |
+| [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 | 2021-12-17 | 2023-11-17 |
 | [Christmas \(Baby Please Come Home\) \- Acoustic](https://open.spotify.com/track/6beE2TbUK19qeOCBQUjqRF) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Christmas \(Baby Please Come Home\) \[Acoustic\]](https://open.spotify.com/album/6F9QQItaqltAOrDhzWZT8a) | 2:08 | 2022-09-23 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/4iZI4cXUM9nnNIBKAMvZot) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Christmas All Over Again](https://open.spotify.com/album/1hXYg23VfDBvn1yhdFhi8A) | 5:24 | 2022-10-24 | 2023-10-21 |
 | [Christmas Always Finds Me \- Acoustic](https://open.spotify.com/track/2Sod5LQvNcsXc1zjSnlOAT) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Christmas Always Finds Me \(Acoustic\)](https://open.spotify.com/album/5ue2joXJpbxq5V1tvzqTpJ) | 3:04 | 2022-09-23 |  |
@@ -82,6 +82,7 @@
 | [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 | 2023-10-20 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3sefGbSgty0fqgMwyMbrJt) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/album/5xd4V5XVWsHti76vti9Kq1) | 3:07 | 2021-12-17 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 | 2022-10-07 |  |
+| [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 | 2023-11-17 |  |
 | [Joy to the World](https://open.spotify.com/track/0xc5KjVhHz4clU9sq0Kx0R) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Wonder](https://open.spotify.com/album/4PQTPY07Isdve9WYAGUfjx) | 3:40 | 2021-12-17 | 2022-07-29 |
 | [Joy to the World](https://open.spotify.com/track/6RBYORZyAfUGCztCDDFLXv) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Wonder](https://open.spotify.com/album/5NpyKhf0cf8Ta6pgHRJhyd) | 3:40 | 2022-10-27 | 2022-11-13 |
 | [Joy to the World](https://open.spotify.com/track/6jOU5yx5hzH9YWEaHb3QV0) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [It's Our Favorite Time of Year](https://open.spotify.com/album/0L9g2oXz83mY783Motpo94) | 3:40 | 2021-12-17 |  |

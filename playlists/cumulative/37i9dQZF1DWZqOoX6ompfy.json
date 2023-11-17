@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161884,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV"
+    },
+    {
+      "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
       },
@@ -404,6 +422,24 @@
       "duration_ms": 243133,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc"
+    },
+    {
+      "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/2rK1Db8xEtfnabBB8tLpEt"
     },
     {
       "album": {

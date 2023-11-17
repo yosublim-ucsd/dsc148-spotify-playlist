@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 351283,
       "name": "Addicted To Bass",
       "url": "https://open.spotify.com/track/5znvNcm0PtwWEuy15ufpQa"
@@ -3354,6 +3354,24 @@
       "duration_ms": 442285,
       "name": "World of Magic - Original Mix",
       "url": "https://open.spotify.com/track/4KjgynSXWOLeo3QGMS5zY7"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191408,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k"
     },
     {
       "album": {

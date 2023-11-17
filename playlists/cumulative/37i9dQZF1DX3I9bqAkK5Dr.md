@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-169 songs - 10 hr 16 min
+170 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Laya](https://open.spotify.com/track/74x8AK6doFpc9hXiPolBay) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Laya](https://open.spotify.com/album/5upnKToHtUzOuHz9BrbhIK) | 2:35 | 2023-02-03 | 2023-05-27 |
 | [Lollipop](https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Lollipop](https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs) | 5:29 | 2022-07-18 | 2023-05-23 |
 | [London Bridge](https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX) | [London Bridge](https://open.spotify.com/album/5XOL1zvVGNrsQsIPmtZWUL) | 2:05 | 2023-05-18 | 2023-07-04 |
+| [Love Letter](https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH) | [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Love Letter](https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm) | 2:22 | 2023-11-16 |  |
 | [Love Pill](https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Love Pill](https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub) | 2:40 | 2023-10-06 |  |
 | [Maakkikirkiri](https://open.spotify.com/track/0p5SBWlo2FD8jQFDyqbIGt) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Maakkikirkiri](https://open.spotify.com/album/7tGakiVZjFCUKw3uh8LUuS) | 5:17 | 2022-07-18 |  |
 | [Madana Mohana](https://open.spotify.com/track/3zgwUXkrvDhdw7Sm5iHTRv) | [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Madana Mohana](https://open.spotify.com/album/4iceg1DMLNXG4vIr8H9Tjq) | 2:56 | 2023-06-22 | 2023-07-11 |

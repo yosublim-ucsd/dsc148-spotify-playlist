@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: とた
 
-1,218 songs - 3 day 2 hr 44 min
+1,220 songs - 3 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Control](https://open.spotify.com/track/6dtdMzhCicbyXYsR9oEXwm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6OP3fToKPWz8rEgyf4Le2e) | 3:37 | 2022-07-28 | 2022-08-10 |
 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 | 2023-04-18 | 2023-07-26 |
 | [crash](https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/1H9MBQi6MUPyVq4oXWEtz8) | 2:46 | 2022-06-07 | 2022-07-01 |
+| [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-16 |  |
 | [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 | 2022-09-20 | 2022-10-26 |
 | [d.s.m \- Studio Live Session](https://open.spotify.com/track/1383Xfuq08qSbx4zMJPFRd) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun Studio Live Session](https://open.spotify.com/album/5LlCwmuxbZODLBZqviAlOM) | 3:11 | 2022-04-05 | 2022-04-22 |
 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 | 2022-03-22 | 2022-05-11 |
@@ -259,6 +260,7 @@
 | [Heavy Fog](https://open.spotify.com/track/0HlFGdDMoTns4Ye8lVsClr) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Heavy Fog](https://open.spotify.com/album/3ZUffdWBcMr5zGAeX4U9vf) | 3:42 | 2022-06-28 | 2022-07-27 |
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2022-02-17 | 2022-04-06 |
 | [Hello!!!](https://open.spotify.com/track/5NQpjsVqs7QuVjdDWIiYNI) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [Hello!!!](https://open.spotify.com/album/0NddNK9Rl0m0qIdMe44zUm) | 3:03 | 2022-06-21 | 2022-07-20 |
+| [Helter Skelter](https://open.spotify.com/track/75gtSkZ8ko4aiNysNRaWLc) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Helter Skelter](https://open.spotify.com/album/03jk8TVKp0zhwochd99y6t) | 3:05 | 2023-11-16 |  |
 | [Hemoglobin](https://open.spotify.com/track/3iPE0bDuggnq8Redh8GxfU) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [Hemoglobin](https://open.spotify.com/album/1W9yD6w2u9cnOx6wSjFVxF) | 3:17 | 2022-10-25 | 2022-11-16 |
 | [Hentotai](https://open.spotify.com/track/77e43kws6FyAhyNmUMAO08) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [Hentotai](https://open.spotify.com/album/49drcV28EOnBPoInfKimh9) | 3:48 | 2023-09-26 | 2023-11-01 |
 | [Hesitate](https://open.spotify.com/track/059gJJ8254eNcPhese0enO) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Hesitate](https://open.spotify.com/album/2a4JxJrhYkacvjOShXbKSX) | 2:55 | 2023-02-01 | 2023-02-22 |
@@ -557,7 +559,7 @@
 | [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 | 2023-06-16 |
 | [signal](https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [signal](https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81) | 3:39 | 2022-08-09 | 2022-09-28 |
 | [Silent Cry](https://open.spotify.com/track/02XMPanqyG0PsRpNHTJQdG) | [Hazy Sparkle](https://open.spotify.com/artist/6mFv1f54XeuP48JnCOjWKZ) | [Silent Cry](https://open.spotify.com/album/2CuqgSs1taLByd14tf9tWU) | 3:38 | 2023-08-29 | 2023-09-06 |
-| [silver halide](https://open.spotify.com/track/6mr15INPDsvJvF88KnJGek) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [innovation](https://open.spotify.com/album/5bdAKMVRR7xgucjsH21VxF) | 4:41 | 2023-09-20 |  |
+| [silver halide](https://open.spotify.com/track/6mr15INPDsvJvF88KnJGek) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [innovation](https://open.spotify.com/album/5bdAKMVRR7xgucjsH21VxF) | 4:41 | 2023-09-20 | 2023-11-17 |
 | [Similar](https://open.spotify.com/track/5rED2p3ixwhiHaLfX02TXo) | [Houkago Hotal](https://open.spotify.com/artist/6CTXHqUj5LQSZXGIujgK0h) | [Similar](https://open.spotify.com/album/2iixevVJRGjDAwdIeEWskt) | 3:11 | 2023-08-15 | 2023-10-04 |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 | 2023-06-21 |
 | [sister](https://open.spotify.com/track/6nhwWS4Avopq8rsdXMXbF0) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [sister](https://open.spotify.com/album/4OZZX92llP50sdAIapaZ2m) | 3:00 | 2023-09-26 | 2023-10-06 |
@@ -1222,7 +1224,7 @@
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 | 2023-10-10 |  |
 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 | 2023-04-25 | 2023-06-14 |
-| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 |  |
+| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2023-11-17 |
 | [食欲](https://open.spotify.com/track/7xwewmsS7PzGMtdvRNqZff) | [SephiroSpace](https://open.spotify.com/artist/1WFZhAfqVFdVZRBSOM9o18) | [僕の宇宙 君の宇宙](https://open.spotify.com/album/46kewcuoGgxMAsXoNALFgh) | 2:35 | 2022-08-04 | 2022-08-24 |
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:54 | 2023-10-03 | 2023-11-16 |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-02-14 | 2023-04-26 |

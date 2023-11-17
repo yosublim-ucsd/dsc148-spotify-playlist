@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Al Ghayeb",
+        "url": "https://open.spotify.com/album/6dgUsT5lqbH4bYc8mSThvd"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212884,
+      "name": "Al Ghayeb",
+      "url": "https://open.spotify.com/track/63OHHhts1iM6ko08jfZIXF"
+    },
+    {
+      "album": {
         "name": "AL Haneen",
         "url": "https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2"
       },
@@ -1873,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Jeet Gablek",
+        "url": "https://open.spotify.com/album/3JLvO6OvmIwaHVN5vE2UZS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333531,
+      "name": "Jeet Gablek",
+      "url": "https://open.spotify.com/track/7uMCb7TtPSx5qdPCxpH05I"
+    },
+    {
+      "album": {
         "name": "Kareh Nafsi",
         "url": "https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp"
       },
@@ -2992,7 +3028,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 182000,
       "name": "Sadmat Omri",
       "url": "https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi"
@@ -4114,7 +4150,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 252000,
       "name": "\u0627\u0644\u0627 \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8"

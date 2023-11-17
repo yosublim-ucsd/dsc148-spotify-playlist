@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Conquer Divide.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,728 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,861 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [VIOLENT PRINCIPLES](https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [VIOLENT PRINCIPLES](https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT) | 3:47 |
 | 50 | [Unraveling](https://open.spotify.com/track/6YP09NwxQ8SLxcIksD89Bp) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Unraveling](https://open.spotify.com/album/1QpkidAXuoW3JBeHlA8Vu0) | 2:59 |
 
-Snapshot ID: `MCw4YjFhZGJjMzU5OTk5ZDZmODk0Zjc4YzBmZmZjYmVmZTU3MzYyMzJl`
+Snapshot ID: `MCxjYTZkNjljYmQ3ZTYyNzE5NmMzNjdjNTE0YzU5OGI5ZTI0Y2ViZThi`

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Zokush au top de la première playlist de rap français !
+> Leto au top de la première playlist de rap français !
 
-206 songs - 10 hr 38 min
+208 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10 minutes](https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:32 | 2023-05-04 | 2023-11-10 |
 | [22](https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:21 | 2022-07-28 | 2022-11-11 |
 | [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-16 | 2022-07-29 |
-| [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-15 |  |
+| [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-15 | 2023-11-17 |
 | [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 | 2023-02-16 | 2023-04-14 |
 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 | 2022-12-09 |
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-06-08 | 2023-10-06 |
 | [Fixette](https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Fixette](https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE) | 3:33 | 2022-01-06 | 2022-10-07 |
 | [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 | 2023-09-21 | 2023-09-27 |
+| [FLASHBACK](https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:56 | 2023-11-16 |  |
 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2022-12-08 | 2023-09-22 |
 | [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 | 2022-06-09 | 2022-12-02 |
 | [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-11 | 2023-06-16 |
@@ -135,7 +136,7 @@
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 | 2022-09-30 |
 | [Match](https://open.spotify.com/track/5atXcF9P7BvCIfCwpALYXB) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Match](https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U) | 2:23 | 2023-02-09 | 2023-05-12 |
-| [Mauvais](https://open.spotify.com/track/54UJEUIggHJVojkbMOtkZT) | [Mayo](https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mauvais](https://open.spotify.com/album/539crVxyaWT2XJ5l3npt6c) | 2:46 | 2023-06-08 |  |
+| [Mauvais](https://open.spotify.com/track/54UJEUIggHJVojkbMOtkZT) | [Mayo](https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mauvais](https://open.spotify.com/album/539crVxyaWT2XJ5l3npt6c) | 2:46 | 2023-06-08 | 2023-11-17 |
 | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch) | 4:00 | 2022-01-06 | 2022-07-08 |
 | [MAUVAIS PAYEUR](https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [MAUVAIS PAYEUR](https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT) | 2:19 | 2022-01-20 | 2022-05-06 |
 | [Maybach](https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Maybach](https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu) | 3:08 | 2023-02-23 |  |
@@ -150,6 +151,7 @@
 | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi) | 3:20 | 2022-03-03 | 2022-11-18 |
 | [Mr\. Ocho](https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:46 | 2022-12-22 | 2023-01-04 |
 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2022-12-29 | 2023-11-10 |
+| [Mucho cuir](https://open.spotify.com/track/5Iol6n8dmMjguHDCc8WUh2) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 3:05 | 2023-11-16 |  |
 | [Même pas un grincement](https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Même pas un grincement](https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O) | 3:45 | 2023-01-26 | 2023-06-09 |
 | [N.I](https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [N.I](https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9) | 2:59 | 2022-01-06 | 2022-10-21 |
 | [NEYMAR JR](https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NOSTALGIA+](https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75) | 2:45 | 2022-05-05 | 2022-11-11 |

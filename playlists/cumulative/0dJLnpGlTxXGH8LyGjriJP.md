@@ -4,7 +4,7 @@
 
 > 
 
-708 songs - 1 day 11 hr 56 min
+709 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2022-06-08 |  |
 | [Money Conversations](https://open.spotify.com/track/6ZGJxCrdcILAro3kM3wvRA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:11 | 2022-12-09 |  |
 | [Money On The Dresser](https://open.spotify.com/track/0k88aN0xmk8Xn1zdnyTiPG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:13 | 2023-07-06 |  |
+| [MONSTER](https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t) | [Kempton Zalen](https://open.spotify.com/artist/533FxOCnNtctm1LHR6sUj4) | [MONSTER](https://open.spotify.com/album/1otKeILDeZoK6WFqfKAH42) | 2:04 | 2023-11-16 |  |
 | [Monster](https://open.spotify.com/track/37EDnGj3yFe5Hs4Zk3s3YF) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Monster](https://open.spotify.com/album/5utK9Cv1ooSgBHsEiN7OAp) | 2:50 | 2023-05-31 |  |
 | [Mood Swings](https://open.spotify.com/track/5rvCAB0gKp5UzEcz6uteH9) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:36 | 2022-11-11 |  |
 | [Moody](https://open.spotify.com/track/5kNrhABkAowO87oF0EHDPv) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 1:42 | 2022-10-21 |  |

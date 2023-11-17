@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-884 songs - 2 day 2 hr 33 min
+886 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Clockworks](https://open.spotify.com/track/3Z2xBMW1k2tnFVN9LFTYru) | [syudou × mafumafu](https://open.spotify.com/artist/49PT4JMR6tzZNVG3ZrPdDv), [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Clockworks](https://open.spotify.com/album/63a70AOcUUpQx05D3ONP5k) | 3:22 | 2023-02-21 | 2023-03-15 |
 | [Contrail](https://open.spotify.com/track/6Jffw7lJh3tD8SV6rRo1D3) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [Contrail](https://open.spotify.com/album/5FULlgWKDYs668WaYaUq4l) | 2:55 | 2022-06-09 | 2022-06-14 |
 | [crash](https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/1H9MBQi6MUPyVq4oXWEtz8) | 2:46 | 2022-06-09 | 2022-07-27 |
+| [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-16 |  |
 | [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 | 2022-09-20 | 2022-10-26 |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO) | 2:41 | 2023-03-23 | 2023-03-31 |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 | 2022-06-09 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-17 | 2023-06-21 |
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-26 |
 | [ivy \- 案山子 Remix](https://open.spotify.com/track/054igXu6lULCOituDaKYtw) | [心悠](https://open.spotify.com/artist/3w2emKs367tVZRrVZzgqRZ), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [ivy \(Remixes\)](https://open.spotify.com/album/6wjbKxlxsTSaHnRxweDQUf) | 3:35 | 2022-06-14 | 2022-06-22 |
-| [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-21 |  |
+| [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-21 | 2023-11-17 |
 | [juice box](https://open.spotify.com/track/1dhNZf5E0qpgTEJ81HxzS6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [aruma](https://open.spotify.com/artist/007ymf6nTBbhE9f9zxTcJF), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [juice box](https://open.spotify.com/album/4Uvm3mUSpQCRTwyfLHsFip) | 3:58 | 2022-08-30 | 2022-10-19 |
 | [Kaidan \(feat\. m\)](https://open.spotify.com/track/5vkO73sy8jFxwI0s3qRSj4) | [Kakashi](https://open.spotify.com/artist/2qfMc1YTRsQv7y8djXdvTf), [m](https://open.spotify.com/artist/01pmHFmU0sMTM6HCCyEHB0) | [Kaidan \(feat\. m\)](https://open.spotify.com/album/4Qoy6FmiySgbupDdakzJyP) | 2:56 | 2022-09-08 | 2022-09-21 |
 | [Kakureinnkya](https://open.spotify.com/track/24cDuwLAerdswc0obvMw58) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Kakureinnkya](https://open.spotify.com/album/5Cq5KfoJnsISILpjQ09rwy) | 3:19 | 2022-08-25 | 2022-09-07 |
@@ -382,6 +383,7 @@
 | [もしも命が描けたら](https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:21 | 2022-06-09 | 2022-07-27 |
 | [もしも命が描けたら](https://open.spotify.com/track/5WYTSyhKonzQZ3hu14LNr6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:21 | 2023-01-05 | 2023-01-17 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-06-09 | 2022-07-29 |
+| [やっちゃったわ](https://open.spotify.com/track/5FpALRE5R6UbONSBLF9Vhq) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [やっちゃったわ](https://open.spotify.com/album/2R3BmVGXanFTzQmsMS9zmi) | 2:41 | 2023-11-16 |  |
 | [よさそう](https://open.spotify.com/track/3qUlyd1hCDKBrVJqOb13j0) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [よさそう](https://open.spotify.com/album/1WCwIL4vt7ompMPbGtlUcv) | 3:01 | 2022-06-21 | 2022-07-29 |
 | [よろこびのうた](https://open.spotify.com/track/1zZGAhpXotGlwMbXiwGmih) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [よろこびのうた](https://open.spotify.com/album/0IhZpahkXyDzuDdxKb8H4N) | 0:55 | 2022-06-23 | 2022-06-25 |
 | [らいふいずあびっち!](https://open.spotify.com/track/3Q2uURmkqLGK2xO3tEl7Qg) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [らいふいずあびっち!](https://open.spotify.com/album/3kTS5tLtDHI0iJdgttmGeG) | 3:16 | 2022-07-19 | 2022-07-21 |
@@ -780,7 +782,7 @@
 | [猫かぶり](https://open.spotify.com/track/63YKp0qJprGUxgK5fl5bCz) | [雨宿り](https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK) | [猫かぶり](https://open.spotify.com/album/6dYJSeGgkI6kF3FeR8eapR) | 3:47 | 2022-12-27 | 2023-01-04 |
 | [猫リセット](https://open.spotify.com/track/68TwxeHi1pyFDRIKHxSArM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [猫リセット](https://open.spotify.com/album/5UYCMMhY28GdZa56yEQGV9) | 4:07 | 2022-06-09 | 2022-07-24 |
 | [猫被り](https://open.spotify.com/track/3ZzcCGmLtedAge5b1eWZZ0) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [猫被り](https://open.spotify.com/album/3nk5STrK5pfQrB2oy2TbkV) | 3:02 | 2022-06-09 | 2022-07-25 |
-| [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-17 |  |
+| [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-17 | 2023-11-17 |
 | [甘やかな毒 \- feat\. EMA](https://open.spotify.com/track/2mQ0PT8ssxO2tyKzTBRgxN) | [Goat](https://open.spotify.com/artist/4mfb1N5wHaJn88xVYvHq8H), [EMA](https://open.spotify.com/artist/23rpDPnKdY96j4smcpPTJT) | [甘やかな毒 \(feat\. EMA\)](https://open.spotify.com/album/2wDhn1gtxadLTmv1uWpEUz) | 2:45 | 2022-06-09 | 2022-06-14 |
 | [生きるよすが](https://open.spotify.com/track/1SLtDIhXQG2ud0AXrb2fn8) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [生きるよすが](https://open.spotify.com/album/3jZ6QhG9rcrPxxMxJbBNko) | 4:04 | 2022-06-09 | 2022-07-11 |
 | [生命謳歌](https://open.spotify.com/track/4ds7UtHjZaDOqrNfDvEAFu) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [贅沢](https://open.spotify.com/album/4veTaGfANaofpm4qHiNnah) | 3:09 | 2023-04-25 | 2023-04-27 |

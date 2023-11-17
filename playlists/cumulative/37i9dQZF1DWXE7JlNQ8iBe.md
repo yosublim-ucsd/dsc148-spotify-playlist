@@ -4,7 +4,7 @@
 
 > Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradición viva.
 
-87 songs - 5 hr 51 min
+88 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Que Se Muere Que Se Muere](https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 1:28 | 2023-10-01 |  |
 | [Que te vaya bonito Nicolás](https://open.spotify.com/track/3KYesDx7jiG9giHLHWSLYD) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 6:47 | 2023-10-01 |  |
 | [Recuérdame \(Solo\) \- Inspirado en "Coco"](https://open.spotify.com/track/1A4ivTDHcqvSf7NdvRa5xE) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:43 | 2022-10-28 | 2023-10-02 |
-| [Regresa](https://open.spotify.com/track/28QIfk2hJEeoxd3eTyyfrC) | [Lucha Reyes](https://open.spotify.com/artist/5grvAbHKRb8mjsRqmuLKp0) | [Serie Regresa: Lucha Reyes, la Morena de Oro del Perú](https://open.spotify.com/album/1LroWsHZakzATuaGv3QkrK) | 2:50 | 2023-10-01 |  |
+| [Regresa](https://open.spotify.com/track/261UIQr3UnHsgDoTyLFcg7) | [Lucha Reyes](https://open.spotify.com/artist/5grvAbHKRb8mjsRqmuLKp0) | [Lucha Reyes Le Canta a Augusto Polo Campos](https://open.spotify.com/album/4OR5IKVFXEUDWzaBw54h7P) | 2:50 | 2023-10-17 |  |
+| [Regresa](https://open.spotify.com/track/28QIfk2hJEeoxd3eTyyfrC) | [Lucha Reyes](https://open.spotify.com/artist/5grvAbHKRb8mjsRqmuLKp0) | [Serie Regresa: Lucha Reyes, la Morena de Oro del Perú](https://open.spotify.com/album/1LroWsHZakzATuaGv3QkrK) | 2:50 | 2023-10-01 | 2023-11-17 |
 | [Rin Del Angelito](https://open.spotify.com/track/1aBo75gcRkyunxk9GYGfTX) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Homenaje A Violeta Parra](https://open.spotify.com/album/36yAwraxsgTgpguSVpHnHd) | 3:19 | 2023-10-01 |  |
 | [Si Me Matan](https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:10 | 2023-10-01 |  |
 | [Son de los Diablos](https://open.spotify.com/track/0l7nvBma9IRxp9EjHWpFnO) | [Perú Negro](https://open.spotify.com/artist/5PsVU8lua3ri94gDn7zUIY) | [Afro\-Peruvian Classics: The Soul of Black Peru](https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas) | 2:27 | 2023-10-01 |  |

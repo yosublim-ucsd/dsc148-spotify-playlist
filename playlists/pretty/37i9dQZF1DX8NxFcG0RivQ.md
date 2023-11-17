@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NxFcG0RivQ.md) - [plain]
 
 > El soundtrack ideal para tu sesión matutina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,940 likes - 258 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,945 likes - 258 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NxFcG0RivQ.md) - [plain]
 | 257 | [Lithe](https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Lithe](https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U) | 2:42 |
 | 258 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 |
 
-Snapshot ID: `MCxhMzM3MGE1YjgyNGY4ODY1NDY3MWUwNzUxZTg0Njk0MTEzMmM4Yjg3`
+Snapshot ID: `MCw4OWI0MzAzMjQxMGNkNjc0ODJjYzg5Y2NmZDhmMjg5OWJjMDk2NjJm`

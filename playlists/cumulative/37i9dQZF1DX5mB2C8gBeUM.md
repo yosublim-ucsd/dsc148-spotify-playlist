@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-413 songs - 20 hr 45 min
+414 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Accidentally on Purpose](https://open.spotify.com/track/1aFf7UJwTpI5AV1xfLXlhJ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Accidentally on Purpose](https://open.spotify.com/album/2s4FZW0AtYfV1PTrM2vjKm) | 3:04 | 2021-12-10 | 2023-01-04 |
 | [Actin' Up](https://open.spotify.com/track/6GWfFBDsbGHOSAex90tfXI) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Actin' Up](https://open.spotify.com/album/04yCexTvMFC47BOGeV1qyt) | 3:25 | 2022-04-08 | 2023-08-02 |
 | [Ain't Doing Something Right](https://open.spotify.com/track/5lesYQ4UDsSGGFMNf5fLVn) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:32 | 2021-12-10 | 2022-02-26 |
-| [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 | 2022-04-22 |  |
+| [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 | 2022-04-22 | 2023-11-17 |
+| [Ain’t Enough Cowboy](https://open.spotify.com/track/3afFTNgLBBkYKdfs4yH0Mr) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 2:36 | 2023-11-10 |  |
 | [Ain’t That Some](https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:38 | 2023-03-10 |  |
 | [Alibi](https://open.spotify.com/track/1vlPA1mn1CJAwIG0TSIioL) | [Kalie Shorr](https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5) | [I Got Here by Accident](https://open.spotify.com/album/5vJ7PF3eWbjlG569FY1Dej) | 3:08 | 2021-12-10 | 2022-01-08 |
 | [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 | 2021-12-10 | 2022-09-24 |

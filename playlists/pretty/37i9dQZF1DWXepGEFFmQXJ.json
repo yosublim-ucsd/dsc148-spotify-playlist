@@ -1,31 +1,15 @@
 {
   "description": "The cream of today's Country crop. Cover: Lane Pittman",
-  "num_followers": 370582,
+  "num_followers": 370688,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjE2YmMwNDAyZDE4NWY3MTZhNjE2YWE1ZGVmMDc2MDI0Y2NmZGU5",
+  "snapshot_id": "MCw2N2JjODAzMDMxNjdiYmZiZGZmZTJjYWQ3ZTBiMTk1YTY0MzlhNzI4",
   "tracks": [
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Thank God She's A Country Girl",
         "url": "https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Ain't Too Much To Ask",
         "url": "https://open.spotify.com/album/3OVvIjcMve3JjzJFsnjXT4"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/5i1zwHDWoKrUKOjfCOLxcv"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Wild Ones (feat. Jelly Roll)",
         "url": "https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g"
@@ -93,7 +77,7 @@
       "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Call It A Day",
         "url": "https://open.spotify.com/album/5bb1vKHBhujvkX7ziKLijA"
@@ -109,7 +93,7 @@
       "url": "https://open.spotify.com/track/4qLUfteMobl6D5b9psoyrV"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Highway Desperado",
         "url": "https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "20 Number Ones (Bonus Version)",
         "url": "https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe"
@@ -145,23 +145,23 @@
       "url": "https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+      "duration_ms": 193986,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Dancing On The Tables",
         "url": "https://open.spotify.com/album/4JEB3AmMnStHSmVLfRos56"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/0PB8X1URo1d36ltWZ0ivXk"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -197,39 +197,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "A Lot With A Little",
-        "url": "https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 183508,
-      "name": "A Lot With A Little",
-      "url": "https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "RAISED LIKE THAT",
         "url": "https://open.spotify.com/album/6sQ9VKXI6GlECcHW319zrN"
@@ -245,23 +213,39 @@
       "url": "https://open.spotify.com/track/0ml4Ta4KNsETTa31i71gpe"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "I Can Feel It",
-        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 163600,
-      "name": "I Can Feel It",
-      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "Get You Backroads",
+        "url": "https://open.spotify.com/album/56fBEp4OU1DW43AxHZfLae"
+      },
+      "artists": [
+        {
+          "name": "Zac & George",
+          "url": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Get You Backroads",
+      "url": "https://open.spotify.com/track/0FqqU2QL808TP8TLFgBYVQ"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Little More Country",
         "url": "https://open.spotify.com/album/5BdwfjzRMHWaz3l0ZmXDXh"
@@ -277,75 +261,55 @@
       "url": "https://open.spotify.com/track/33LP5EPvWMtjRGG2wn4NJf"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/7sYU3TwTLUFudBlbnWWMM4"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
       "artists": [
         {
-          "name": "Mason & Julez",
-          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/4GRvesPS6gPU8AV2RUgECk"
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "On One Hand",
-        "url": "https://open.spotify.com/album/1s3wNlFSNI6DIEaLTOCqt9"
+        "name": "A Lot With A Little",
+        "url": "https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB"
       },
       "artists": [
         {
-          "name": "Troy Kemp",
-          "url": "https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 190314,
-      "name": "On One Hand",
-      "url": "https://open.spotify.com/track/0HsgQEjBv4P0cwx8VsIC8b"
+      "duration_ms": 183508,
+      "name": "A Lot With A Little",
+      "url": "https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "She Calls Me Back (with Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 243962,
-      "name": "She Calls Me Back (with Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Date Night (feat. Morgan Evans)",
         "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
@@ -365,7 +329,75 @@
       "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/7sYU3TwTLUFudBlbnWWMM4"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/4GRvesPS6gPU8AV2RUgECk"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "She Calls Me Back (with Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 243962,
+      "name": "She Calls Me Back (with Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
@@ -381,23 +413,23 @@
       "url": "https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+        "name": "Wild Mama",
+        "url": "https://open.spotify.com/album/4WTG0Ws7pne2qQvRePZxus"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
         }
       ],
-      "duration_ms": 193986,
-      "name": "Leather",
-      "url": "https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb"
+      "duration_ms": 221110,
+      "name": "Wild Mama",
+      "url": "https://open.spotify.com/track/0L6X8MYQRuhPOsq8p2VJFS"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Rich Men North of Richmond",
         "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "I Will (When You Do)",
         "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
@@ -469,23 +501,7 @@
       "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "WORTH ITS WEIGHT IN GOLD",
         "url": "https://open.spotify.com/album/0gHoE5r8YIQJ4Bz2LExtjN"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/2cOZ6OUPWIlM0Iu5XfLE8i"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
@@ -521,7 +537,23 @@
       "url": "https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
+      "album": {
+        "name": "On One Hand",
+        "url": "https://open.spotify.com/album/1s3wNlFSNI6DIEaLTOCqt9"
+      },
+      "artists": [
+        {
+          "name": "Troy Kemp",
+          "url": "https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT"
+        }
+      ],
+      "duration_ms": 190314,
+      "name": "On One Hand",
+      "url": "https://open.spotify.com/track/0HsgQEjBv4P0cwx8VsIC8b"
+    },
+    {
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
@@ -573,7 +605,7 @@
       "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Ain't The One",
         "url": "https://open.spotify.com/album/3dxiEuuXYgLO8gCbXK2YaO"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Somewhere In Mexico",
         "url": "https://open.spotify.com/album/6epWsRvTYtr8LouzE0CLck"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/6V1Lz4fHzpeQPkyA1OAVXs"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Summer You",
         "url": "https://open.spotify.com/album/6jRppK7fDnHxfA5D8MWLHD"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/0ji6YIynl98z5b5qRYaVbj"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "This Town",
         "url": "https://open.spotify.com/album/0JujBFz9ERfluY6AFqVkI9"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "In Your Love",
         "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Shouldn't Be Doing This",
         "url": "https://open.spotify.com/album/12Y9kiAnxFxuBesMAE2bHW"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/0SCMoEjToRt0GL3eIFI8FV"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Something's Gonna Kill Me",
         "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/2c4Ls6gjK0JwPTtIZ8mKrn"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/6NKjPJS3dRoY8weRf3EnC3"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/7IR47GtoRVprsTTjbI8B3S"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/1mIMMbBqd08X5kgfVupyqo"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "The Long Way Home",
         "url": "https://open.spotify.com/album/6flZe9WaoJjVOF6ZS9824w"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/3sXZExdTZQnBcyPRfzlyoP"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "The Painter",
         "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Fences",
         "url": "https://open.spotify.com/album/06kSYPE413cF0P4TJYsZRK"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/1m09N7oG6VPvKt64totSrx"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Too Far Gone",
         "url": "https://open.spotify.com/album/1WLgw88p4v0I3MYoA3L1ze"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/0yJbmeXPDK1dXsCEshUuMC"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "The Heartland EP",
         "url": "https://open.spotify.com/album/7ihEHyfbFjHfLrrGeKOgvN"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/59Er5XFfEdfPQcsEdwdvrb"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "But I Got A Beer In My Hand",
         "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/17topUiRhUH8Y5IVU73ua5"
@@ -869,7 +901,7 @@
       "url": "https://open.spotify.com/track/7omL77giPW28kmRZtOO9nU"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Never Give Up On A Good Time",
         "url": "https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA"
@@ -885,7 +917,7 @@
       "url": "https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/01Y0pBzYfnlxvcjG9HxCym"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/2nuAkoDw5i0jLogecydq1y"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "The Girl I Knew",
         "url": "https://open.spotify.com/album/3ti4yhlrktsAPHwQ7gRs4P"
@@ -917,7 +949,7 @@
       "url": "https://open.spotify.com/track/5fC1YgBLFdSv3Uslvw6EoM"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "The Devil I Know",
         "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Hurts the Best",
         "url": "https://open.spotify.com/album/2BBS4o7myEVNl21JAzLXAk"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/1abnvxVAa8EEPS51JjuV9Q"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Called It",
         "url": "https://open.spotify.com/album/1QhnJ5OGZXLQ4gn88mOCMI"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/6dYuef1LgfWOze15agxnJv"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Always Gonna Be",
         "url": "https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Nothin' To Lose",
         "url": "https://open.spotify.com/album/1qpy06v2ONW7lM0bC0wOfA"
@@ -997,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2KFQn8jIxqqoKJrxJrxKiB"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Back Then Right Now",
         "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "NIGHTS LIKE THIS",
         "url": "https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Now She Ain't",
         "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
@@ -1045,7 +1077,7 @@
       "url": "https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Love In A Country Town",
         "url": "https://open.spotify.com/album/4l7zygarBRjtJrGaE8w04t"
@@ -1061,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0CdgXUdmcZ2Tej7Ilv2Hz0"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/15rK99g25Bclj0d5hxo40X"
@@ -1077,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1wbppgIYETM96m7IgFbrLO"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -1093,23 +1125,7 @@
       "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "Pour My Heart Out",
-        "url": "https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y"
-      },
-      "artists": [
-        {
-          "name": "Taylor Moss",
-          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Pour My Heart Out",
-      "url": "https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Feelin' Love",
         "url": "https://open.spotify.com/album/1TziVHlrIqMbPmuRZ0Xudc"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5GiOrSNO9SXfTTHILJ7abt"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Damn You",
         "url": "https://open.spotify.com/album/1ZUQqkazumfecgePTpi8YG"
@@ -1141,7 +1157,7 @@
       "url": "https://open.spotify.com/track/4HRzB2lByJLeWdNqx5R0Be"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Been Better",
         "url": "https://open.spotify.com/album/0PVRY0As601uZ4anMvKxH2"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6FhR5krBQdAF8DbjqRp377"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -1173,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Remember Me Well",
         "url": "https://open.spotify.com/album/5lLxk2C7m4VjYFG1jmzd4c"
@@ -1205,7 +1221,7 @@
       "url": "https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -1237,7 +1253,7 @@
       "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Now She Ain't",
         "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
@@ -1253,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5uWiBMDjI0vnmVOuTFhwFf"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
@@ -1269,23 +1285,7 @@
       "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "Try That In A Small Town",
-        "url": "https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "Try That In A Small Town",
-      "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Million Eyes",
         "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
@@ -1301,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Poets & Old Souls",
         "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
-      "added_at": "2023-11-09 13:00:00",
+      "added_at": "2023-11-16 13:00:00",
       "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"

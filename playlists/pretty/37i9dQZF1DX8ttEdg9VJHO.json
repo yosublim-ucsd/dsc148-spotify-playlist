@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 348424,
+  "num_followers": 348462,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDY3MTMwMDQ4OWE5Yzg5Mzk4ZWI5ZGQ2OTIwY2UwMDkzNTk5ZWEx",
+  "snapshot_id": "MCw0MDllZmM5MWE5NDFmYjVjYjdiMjA0MmE2MDFkY2EyNGI5ZGI1YTJh",
   "tracks": [
     {
       "added_at": "2023-11-08 17:37:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-08 17:37:18",
       "album": {
-        "name": "Sweethoneylove",
-        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
-      },
-      "artists": [
-        {
-          "name": "Baba Blakes",
-          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
-        }
-      ],
-      "duration_ms": 150540,
-      "name": "Sweethoneylove",
-      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
-    },
-    {
-      "added_at": "2023-11-08 17:37:18",
-      "album": {
         "name": "Keep It Low",
         "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-11-08 17:37:18",
       "album": {
-        "name": "Somewhere in Between",
-        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+        "name": "Sweethoneylove",
+        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Baba Blakes",
+          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
         }
       ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
+      "duration_ms": 150540,
+      "name": "Sweethoneylove",
+      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
     },
     {
       "added_at": "2023-11-08 17:37:18",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-11-08 17:37:18",
       "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
+    },
+    {
+      "added_at": "2023-11-08 17:37:18",
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-11-08 17:37:18",
       "album": {
-        "name": "Remember Roses",
-        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
+        "name": "Best You Ever Had",
+        "url": "https://open.spotify.com/album/0vL34mO5klplb791wYYGbK"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Wishing Girl",
-      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
+      "duration_ms": 167313,
+      "name": "Best You Ever Had",
+      "url": "https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk"
     },
     {
       "added_at": "2023-11-08 17:37:18",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-11-08 17:37:18",
       "album": {
-        "name": "Best You Ever Had",
-        "url": "https://open.spotify.com/album/0vL34mO5klplb791wYYGbK"
+        "name": "Remember Roses",
+        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
       },
       "artists": [
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 167313,
-      "name": "Best You Ever Had",
-      "url": "https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk"
+      "duration_ms": 192613,
+      "name": "Wishing Girl",
+      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
     },
     {
       "added_at": "2023-11-08 17:37:18",

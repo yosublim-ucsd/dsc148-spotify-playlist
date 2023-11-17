@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-258 songs - 12 hr 56 min
+262 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Home](https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Home](https://open.spotify.com/album/1v4R7rQf9gReJr1FaR4q0O) | 2:49 | 2023-10-06 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/6WaePja4uzj9uw3TrZFdpM) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [How Deep Is Your Love](https://open.spotify.com/album/3foW7pDxBNyUfM4SpLFIop) | 3:21 | 2022-05-20 |  |
 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 | 2022-05-20 |  |
+| [Hungry Heart](https://open.spotify.com/track/7546Slt3mB42vU0JVG1K0a) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Hungry Heart](https://open.spotify.com/album/1qG0q30RBXj5Z5C7vvM6S3) | 2:15 | 2023-11-17 |  |
 | [Höstvisa](https://open.spotify.com/track/0mzIHWDRo3GNCE24OxU5Cn) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Höstvisa](https://open.spotify.com/album/2At7owW3nBBJ2OTsUucXi6) | 2:42 | 2022-05-20 | 2023-08-25 |
 | [I Ain't Worried](https://open.spotify.com/track/1o9MJp74EnMwN9EIzej4Tv) | [Ela Hills](https://open.spotify.com/artist/4rPETLWsKT01K13kePkC0r) | [I Ain't Worried](https://open.spotify.com/album/4yeyCrTubpjifk1H8sd7a9) | 2:40 | 2022-12-02 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/0Th2vVrmdqvmfOfLsgbKXs) | [Christian Brock](https://open.spotify.com/artist/6xMVXba934pnedrlPFuoin) | [Waiting Waves](https://open.spotify.com/album/7r3F09Ae7QE2hCXVPrZRo8) | 4:58 | 2022-05-20 |  |
@@ -188,6 +189,7 @@
 | [Snow On The Beach](https://open.spotify.com/track/3g2mR39gD6HT8jM5igcTqS) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Snow On The Beach](https://open.spotify.com/album/0kVPJ064l0EoD5U5XroBRD) | 3:08 | 2022-12-02 | 2023-06-03 |
 | [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 | 2023-10-20 |
 | [Someone You Loved](https://open.spotify.com/track/6FPbcBmK0Je6EZvmXhHD5k) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:37 | 2022-12-02 | 2023-06-03 |
+| [Something](https://open.spotify.com/track/2hT1Htm2vYNr33XIkfzWGp) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Something](https://open.spotify.com/album/1gwzRt9wH6nIYLFkxz9O0i) | 2:43 | 2023-11-17 |  |
 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 | 2023-01-13 |  |
 | [Something Stupid](https://open.spotify.com/track/6nXgJ4xsUc5VPX1Pxiyy1D) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Something Stupid](https://open.spotify.com/album/0OATPNiA0gYUB6UhE0iIFv) | 2:46 | 2023-05-05 |  |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-10 |  |
@@ -195,7 +197,7 @@
 | [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 | 2022-06-15 |  |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-05-20 | 2023-04-13 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-17 |  |
-| [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-12-02 |  |
+| [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-12-02 | 2023-11-17 |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
 | [Stuck with you](https://open.spotify.com/track/3DxwjhRknMbHmPcS46zKrC) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 3:46 | 2022-05-20 |  |
 | [Summer Of 69](https://open.spotify.com/track/6qKfPJbP73WNOky10iESVS) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [Summer Of 69](https://open.spotify.com/album/0gMvh3IrLGFKdd4e7iKyrc) | 2:00 | 2023-05-05 |  |
@@ -215,6 +217,7 @@
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-05-05 |  |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 | 2023-06-03 |
+| [The River](https://open.spotify.com/track/3PRRa4dwDkFCy9eSkJ9uDe) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [The River](https://open.spotify.com/album/4ANtz0euMNdAZS1NBXKf9E) | 2:25 | 2023-11-17 |  |
 | [The Scientist](https://open.spotify.com/track/0G5GJAPyg9f1jEn2BYay1r) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 3:07 | 2022-12-02 | 2023-06-03 |
 | [The Sound of Silence](https://open.spotify.com/track/6LwO9pzd8TTZ5SIUnmG5N9) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [The Sound of Silence](https://open.spotify.com/album/3Fa9MpSoql0TJLTYRuNK9p) | 2:33 | 2022-12-23 | 2023-08-11 |
 | [The Times They Are a\-Changin’](https://open.spotify.com/track/3Oj3qgVvYddVbPrNBDEWO3) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [The Times They Are a\-Changin’](https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US) | 2:22 | 2022-05-20 |  |
@@ -244,6 +247,7 @@
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 | 2022-05-20 | 2023-06-03 |
 | [When I Was Your Man \- Acoustic Instrumental](https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ), [Guus Dielissen](https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P) | [When I Was Your Man \(Acoustic Instrumental\)](https://open.spotify.com/album/5iwJPbUmhTUapFPmP3MoRU) | 3:35 | 2022-05-20 |  |
 | [When You Believe](https://open.spotify.com/track/1hH0H7zBLYfhBEFVJIYfyY) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [When You Believe](https://open.spotify.com/album/4XEr0vUwngo6ITz4wynWEz) | 3:24 | 2023-02-24 |  |
+| [When You Say Nothing At All](https://open.spotify.com/track/6j0tjTQ6Pz3tB0O8uix2Eo) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [When You Say Nothing At All](https://open.spotify.com/album/1heo44LPMiIUkFQjiQjrM3) | 3:21 | 2023-11-17 |  |
 | [When You Were Young](https://open.spotify.com/track/7zvMrz8rXUXpAkE2uhBIbJ) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [When You Were Young](https://open.spotify.com/album/50vdHsYMxbea4YadMnLA2I) | 1:42 | 2023-02-24 | 2023-08-26 |
 | [When You´re Gone](https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [When You´re Gone](https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf) | 3:45 | 2022-06-15 | 2023-05-05 |
 | [Where The Streets Have No Name](https://open.spotify.com/track/0iwIdXQHWuyU7Ze6wBnNun) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Where The Streets Have No Name](https://open.spotify.com/album/1CyGN6dC2BrhF0WXNCNUTh) | 2:49 | 2023-05-05 |  |

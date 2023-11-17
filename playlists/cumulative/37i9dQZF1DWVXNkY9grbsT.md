@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-365 songs - 1 day 6 hr 44 min
+366 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [AVI \- Joseph Shabason + Vibrant Matter Remix](https://open.spotify.com/track/5jDMfbG58TUZxTobCpYCBU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Vibrant Matter](https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY) | [AVI \(Joseph Shabason + Vibrant Matter Remix\)](https://open.spotify.com/album/0HJypKWzMjEfqfqwARGvBl) | 3:56 | 2022-04-01 | 2022-07-29 |
 | [AVI \- Joseph Shabason + Vibrant Matter Remix](https://open.spotify.com/track/6ACrwGYBc9Zxq4xLhKqulg) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Vibrant Matter](https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY) | [AVI REMIX EP](https://open.spotify.com/album/2kPAby0flE4TQGyZvoV8Fc) | 3:56 | 2022-11-22 | 2023-08-21 |
 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 | 2021-12-26 | 2022-07-27 |
+| [Beacon of Light](https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:12 | 2023-11-14 |  |
 | [Beethoven 250](https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0 EP2](https://open.spotify.com/album/7JhFp9EZEw22dpg3P93HiO) | 4:11 | 2021-12-26 | 2023-08-12 |
 | [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2023-08-05 |
 | [Belt & Carpet](https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 3:58 | 2023-04-14 |  |
@@ -358,7 +359,7 @@
 | [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 | 2023-01-20 |  |
 | [We Took Short Journeys](https://open.spotify.com/track/75EFPyBUQmkgaYbFKEdZFJ) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq), [Kate Ellis](https://open.spotify.com/artist/6lz4GyLX8jF0HNjD712zxc) | [MAY SOUNDS](https://open.spotify.com/album/1mk6oLTC1jTaNHhpLiIBBe) | 3:22 | 2021-12-26 | 2023-01-03 |
 | [Weltenwandler \- Radio Edit](https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl) | [Klartraum](https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF) | [Weltenwandler](https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb) | 5:16 | 2022-02-11 |  |
-| [Westerpark](https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC) | [BSS \(AMS\)](https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH) | [Suikerplein EP](https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ) | 5:13 | 2022-01-28 |  |
+| [Westerpark](https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC) | [BSS \(AMS\)](https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH) | [Suikerplein EP](https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ) | 5:13 | 2022-01-28 | 2023-11-17 |
 | [White Carnations](https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:43 | 2023-04-21 |  |
 | [White Cells](https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [White Cells](https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO) | 5:48 | 2022-03-18 | 2023-07-18 |
 | [Who You Are](https://open.spotify.com/track/7B8kFfDxMuQxR0nB7ZD1RM) | [Etibar Asadli](https://open.spotify.com/artist/1pxYHvjHJul1t7PFTZaf9c) | [Who You Are](https://open.spotify.com/album/2flEFWLYGlxaX6JR3AY3Pl) | 4:24 | 2022-01-28 | 2022-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,801 likes - 42 songs - 2 hr 24 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,810 likes - 42 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 10 | [Big Bad City](https://open.spotify.com/track/6xmOyNPiAfN1O1Zoq9txOZ) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Big Bad City](https://open.spotify.com/album/2L2L6vKqHKMNYjx0Kx74KK) | 3:03 |
 | 11 | [Pumping Iron \- TR710](https://open.spotify.com/track/0Jdz3oXx2Fj6gh0LJkf4i0) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Toolroom Radio EP710 \- Presented by Mark Knight](https://open.spotify.com/album/2kV2foxXBqOiRpbsmS3YvB) | 3:44 |
 | 12 | [Phone \- VLTRA Remix](https://open.spotify.com/track/2m4s3761CzsYyH5lYoF4qu) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Phone \(Remix Package\)](https://open.spotify.com/album/2gjm70X9ASc86NQHFQONyY) | 3:27 |
-| 13 | [What You Want](https://open.spotify.com/track/0Co3Y36bP8ZUQ3gGieVb7P) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Coco](https://open.spotify.com/artist/6pQmq4OED8Lrt9tC4zsej8) | [What You Want](https://open.spotify.com/album/6IoynviOeMpv2BkQ4fLds7) | 3:21 |
+| 13 | [What You Want](https://open.spotify.com/track/0Co3Y36bP8ZUQ3gGieVb7P) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Coco](https://open.spotify.com/artist/0uqB2YQ20mm8CMooHaJI3I) | [What You Want](https://open.spotify.com/album/6IoynviOeMpv2BkQ4fLds7) | 3:21 |
 | 14 | [Bongos](https://open.spotify.com/track/02iUOsajHXDI4ncxVT6u27) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista Kazuko](https://open.spotify.com/artist/2FolG4F7PJKFEbG2cJ0Ncq) | [Bongos](https://open.spotify.com/album/4HWzyEtJROe6cguogQ5pbJ) | 4:29 |
 | 15 | [Freak Out](https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Freak Out](https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro) | 2:18 |
 | 16 | [Unexpected](https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Unexpected](https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3) | 2:54 |

@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "believe",
+        "url": "https://open.spotify.com/album/2SYjVVDUklh5cQn68UbRgV"
+      },
+      "artists": [
+        {
+          "name": "QUARTEER",
+          "url": "https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/17L5OzbZllHylKxpy2e7Hi"
+    },
+    {
+      "album": {
         "name": "My Name Is Spruce",
         "url": "https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 110818,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/1JpDYuMELHWVIIb8RcY1TJ"
@@ -1494,6 +1512,24 @@
       "duration_ms": 151301,
       "name": "hey, soul sister",
       "url": "https://open.spotify.com/track/1qJgvV6WYN8pLieuY18ahM"
+    },
+    {
+      "album": {
+        "name": "Hold On We're Going Home",
+        "url": "https://open.spotify.com/album/1ALfJ33fMEOetofYD5T2Wv"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181158,
+      "name": "Hold On We're Going Home",
+      "url": "https://open.spotify.com/track/6tUsyUdQkxT7diLVsIp33U"
     },
     {
       "album": {
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144691,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/4kXpvrCczkZ11zHR9wFR88"
@@ -3176,7 +3212,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 95059,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/5bgVt8KSOMsB3f0SUUd92n"
@@ -3288,10 +3324,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 99160,
       "name": "teardrop",
       "url": "https://open.spotify.com/track/5RoOmKUeBRmwe2eWsGnDZH"
+    },
+    {
+      "album": {
+        "name": "teardrops",
+        "url": "https://open.spotify.com/album/6dEpQbpJTWKmbFhPTUeeQN"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188958,
+      "name": "teardrops",
+      "url": "https://open.spotify.com/track/2jK4MSRgDJ4UNC6hkWLamf"
     },
     {
       "album": {
@@ -3754,6 +3808,24 @@
       "duration_ms": 177142,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/0lWMhwtR0GBhMopl6Acixa"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/6GtjKPUoHi5CronjJabgNx"
     },
     {
       "album": {

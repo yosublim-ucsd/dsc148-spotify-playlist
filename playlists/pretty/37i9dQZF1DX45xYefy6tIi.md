@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Listen to the fast\-paced soundtrack ahead of the Las Vegas Grand Prix, curated by Marshmello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,404 likes - 29 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,398 likes - 29 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 28 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 29 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 |
 
-Snapshot ID: `MCxiNjE1MjdhMDdlMjE3Yzg1NjcyNTUxNjBmNTNlNzE4MTA3MTMyMTAz`
+Snapshot ID: `MCxiMDA0NGYyMDU5MzQwMmIzZGNiMDBlMzZkZTIwYjc4YTg0YTllY2E2`

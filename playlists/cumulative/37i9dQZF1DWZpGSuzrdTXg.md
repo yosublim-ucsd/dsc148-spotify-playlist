@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-134 songs - 7 hr 43 min
+135 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-12-22 | 2023-03-18 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-12-22 | 2023-05-05 |
 | [No Time to Look at You](https://open.spotify.com/track/2y7BiJKbpLp1ooF5dZ25eZ) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Sunday Competition](https://open.spotify.com/album/05eSwrzxGxXVGgs7MW6YyQ) | 3:13 | 2022-12-22 |  |
+| [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 |  |
 | [Open Hearts](https://open.spotify.com/track/7MeGQWcetCusGKRiVqTWTq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6weIQdeQfPdsVPv4SptiVE) | 3:23 | 2022-12-22 |  |
 | [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 | 2022-12-22 |  |
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 |  |
@@ -111,7 +112,7 @@
 | [Tattoo](https://open.spotify.com/track/4UfNfXmf6TosF4MsJYcaph) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Tattoo](https://open.spotify.com/album/7uYTIkxdTFnLaetkUJKT4m) | 3:39 | 2022-12-22 |  |
 | [Tell Me That You Miss Me](https://open.spotify.com/track/5tDCPZMXj1gEKLqYsJDhWa) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Tell Me That You Miss Me](https://open.spotify.com/album/4rSITSawyDRONvcpYUjXP4) | 2:55 | 2022-12-22 |  |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2022-12-22 |  |
-| [The Beauty](https://open.spotify.com/track/2gGN3tZeL4YfLwLlABQOr6) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Self\-Realization](https://open.spotify.com/album/0NGSY2d3hlo6vKo6ecP2bu) | 4:15 | 2022-12-22 |  |
+| [The Beauty](https://open.spotify.com/track/2gGN3tZeL4YfLwLlABQOr6) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Self\-Realization](https://open.spotify.com/album/0NGSY2d3hlo6vKo6ecP2bu) | 4:15 | 2022-12-22 | 2023-11-17 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-12-22 | 2023-05-26 |
 | [the night we met](https://open.spotify.com/track/6Gwbza1h3SmUhtt6mffsGm) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [the night we met](https://open.spotify.com/album/2jM0k484jzyT9xx1AayJkk) | 2:46 | 2023-11-09 |  |
 | [The Room](https://open.spotify.com/track/07U0FinW8EoiM4IU8SfdNS) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [The Room](https://open.spotify.com/album/7Lc8y1N0fhcYHWQbBimu3Z) | 4:04 | 2022-12-22 | 2023-03-18 |

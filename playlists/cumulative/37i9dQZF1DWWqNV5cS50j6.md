@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,567 songs - 3 day 3 hr 34 min
+1,568 songs - 3 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2020-12-16 | 2021-03-26 |
 | [Altar](https://open.spotify.com/track/3eRdNkKRi6wpkaG9XrfQpJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Altar](https://open.spotify.com/album/4v5fXLtIXx2kywknrAZg2o) | 2:28 | 2022-04-15 | 2022-06-04 |
 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 | 2022-03-28 | 2022-11-17 |
+| [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 | 2023-11-07 |  |
 | [AMPED UP](https://open.spotify.com/track/3cA34URgTzhITECAAtDKfH) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [AMPED UP](https://open.spotify.com/album/70L8buoF4aTyySIBMaoo2E) | 3:04 | 2023-05-19 | 2023-06-24 |
 | [ANECDOTE](https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 2:01 | 2022-10-04 | 2022-11-17 |
 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 | 2022-11-16 | 2023-07-22 |
@@ -808,7 +809,7 @@
 | [Love and Power](https://open.spotify.com/track/6frv1qEE5I5hSBq8ERR0G2) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Love and Power](https://open.spotify.com/album/0iLsF6AoUziz5JCmUOm47q) | 4:04 | 2022-08-12 | 2022-11-10 |
 | [Love Being Used](https://open.spotify.com/track/2W2lVHqOlwpEi41EKlu0o1) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Love Being Used](https://open.spotify.com/album/04JP41K4j9UmDMnG5Glmg4) | 1:29 | 2021-06-16 | 2021-10-16 |
 | [Love Me](https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Love Me](https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd) | 2:20 | 2022-10-14 | 2022-11-10 |
-| [love that 4 u](https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 4:19 | 2023-05-22 |  |
+| [love that 4 u](https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 4:19 | 2023-05-22 | 2023-11-17 |
 | [Love Yourself](https://open.spotify.com/track/1UcVVqUun6yljvpoXpfrLR) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Toro Y Rome Vol\. 1](https://open.spotify.com/album/1W2fD7CSls8BSGAeUXUlPp) | 2:32 | 2023-06-30 | 2023-07-22 |
 | [Love, of Money](https://open.spotify.com/track/2XILilAwcXHdGwZLNHteue) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Let the Sun Talk](https://open.spotify.com/album/1RU8i9ISNQ52Vs8msq30C1) | 1:04 | 2022-05-09 | 2022-05-24 |
 | [LOVE, STARGIRL](https://open.spotify.com/track/1AgJta10Dm76yA5uz7EuTV) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [SURF](https://open.spotify.com/album/4tqKTPbidKIGn9UIZe5I73) | 2:16 | 2022-05-09 | 2022-08-06 |

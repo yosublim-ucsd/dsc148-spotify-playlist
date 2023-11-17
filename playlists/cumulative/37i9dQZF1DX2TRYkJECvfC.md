@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-442 songs - 1 day 14 hr 8 min
+443 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |
 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 | 2022-10-28 |  |
-| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 |  |
+| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 | 2023-11-17 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a) | 4:50 | 2023-01-06 | 2023-07-01 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-05-03 | 2023-02-03 |
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |
@@ -401,6 +401,7 @@
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2022-02-21 |  |
 | [There's No End in the Beginning](https://open.spotify.com/track/0rWXWWfMU3biukxJAdgRNY) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [There's No End in the Beginning](https://open.spotify.com/album/7f5U8TxKNio8b10Qcf5NvT) | 4:56 | 2021-12-08 | 2022-07-29 |
 | [There's No End in the Beginning](https://open.spotify.com/track/5wFeHcOCzPjmzlWS2ro5rI) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [There's No End in the Beginning](https://open.spotify.com/album/3BOaIfN24J7TZ7s2Hx5TrH) | 4:56 | 2023-01-06 | 2023-08-06 |
+| [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 | 2023-11-10 |  |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-12-08 |  |
 | [To Feel Happy](https://open.spotify.com/track/2ykGnGyPhwMw8ALjrAGvI9) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [To Feel Happy](https://open.spotify.com/album/1dfi8YaoRYgsIqGJpvX1Ma) | 3:11 | 2022-02-21 | 2022-03-09 |
 | [Trace](https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE) | [Tommy Tickle](https://open.spotify.com/artist/6fdPipPgwuSQrqDkAFpqu9) | [Trace](https://open.spotify.com/album/5eyT1hs1NEOkcSk6uyBDxT) | 3:31 | 2021-12-08 | 2022-07-29 |

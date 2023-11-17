@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,343 songs - 2 day 23 hr 45 min
+1,344 songs - 2 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Miss Young](https://open.spotify.com/track/3ypM5ER2yHe94Lm6QLFE71) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 2:55 | 2021-03-27\* | 2021-03-27 |
 | [Mitropolis In C\# Minor](https://open.spotify.com/track/1Xc1c0Hly4lyiJL7zGyXPU) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E), [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 3:29 | 2023-04-21 | 2023-04-30 |
 | [MODERN JAM](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-07-31 |
+| [Moira](https://open.spotify.com/track/0RHHTYRMbow3v1XASd8LEi) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Ta Kala Koritsia](https://open.spotify.com/album/5k1Gf4AvdraC33TbU9iBgc) | 2:21 | 2023-11-16 |  |
 | [Mojo](https://open.spotify.com/track/11pHaB9c5V4nqxLGzejdk1) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 3:48 | 2022-01-22 | 2022-01-24 |
 | [MON AMIE](https://open.spotify.com/track/1QphVfogCxCARRZLergCjS) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 2:38 | 2022-11-12 | 2023-03-19 |
 | [Mona Lisa](https://open.spotify.com/track/0eAbsvU6aw0fekXCoGSF08) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [5D](https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho) | 2:18 | 2023-05-27 | 2023-06-12 |
@@ -1097,7 +1098,7 @@
 | [Sinthikes](https://open.spotify.com/track/3aMmyk82Hs36APmNoEM0ZJ) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Money and Drugs Can't Live in Poverty \(Deluxe Version\)](https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN) | 4:20 | 2022-07-26 | 2022-07-30 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
-| [Skoni](https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 2:03 | 2022-05-27 |  |
+| [Skoni](https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 2:03 | 2022-05-27 | 2023-11-17 |
 | [Skoni & Kapnos](https://open.spotify.com/track/3Tm8kDi9atOtwMZRwr2807) | [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Skoni & Kapnos](https://open.spotify.com/album/3YJcJQBNOUR2AFRViqNbnP) | 2:54 | 2023-09-19 | 2023-10-01 |
 | [Sky Is The Limit](https://open.spotify.com/track/7KOPaI1FFvP3AClMxXNLIs) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 2:49 | 2022-02-23 | 2022-02-27 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2021-12-27 |

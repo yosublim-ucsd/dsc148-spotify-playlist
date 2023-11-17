@@ -714,7 +714,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 285500,
       "name": "Dawn in the Adan",
       "url": "https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 240886,
       "name": "hello",
       "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -2339,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "MY\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "MY\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
+    },
+    {
+      "album": {
         "name": "Natsu no Yoru ni Hibiku Melody",
         "url": "https://open.spotify.com/album/48E8ijxYmqGN5S5pQcIiIx"
       },
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 269290,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
@@ -2722,6 +2740,24 @@
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
+    },
+    {
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "album": {
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 275630,
       "name": "Space Orphans",
       "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
@@ -6580,6 +6616,24 @@
       "duration_ms": 197909,
       "name": "\u900f\u660e\u306a\u306c\u304f\u3082\u308a",
       "url": "https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV"
+    },
+    {
+      "album": {
+        "name": "TSUBOMI",
+        "url": "https://open.spotify.com/album/0PC24I2HdtyX6jYvB6KkQ8"
+      },
+      "artists": [
+        {
+          "name": "Ai Iwasaki",
+          "url": "https://open.spotify.com/artist/51qaMmNzuOlzFsRI7GXK6H"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "\u904a\u89a7\u8239",
+      "url": "https://open.spotify.com/track/2Uf76zPC65kpeIfkZkhqZ4"
     },
     {
       "album": {

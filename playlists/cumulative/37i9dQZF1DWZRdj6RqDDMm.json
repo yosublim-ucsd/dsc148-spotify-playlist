@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 226000,
       "name": "Free, Pt. 2",
       "url": "https://open.spotify.com/track/5FY9J29KgfImVtacAJor1F"
@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
+    },
+    {
+      "album": {
         "name": "Joyful Noise",
         "url": "https://open.spotify.com/album/4rEJpPtx2uMpFYHfh0Iii1"
       },
@@ -1008,6 +1026,24 @@
       "duration_ms": 236667,
       "name": "Lift Me",
       "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
+    },
+    {
+      "album": {
+        "name": "Love Me So",
+        "url": "https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp"
+      },
+      "artists": [
+        {
+          "name": "Naomee",
+          "url": "https://open.spotify.com/artist/3No8oTslmtUkR63cY6gWp0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206808,
+      "name": "Love Me So",
+      "url": "https://open.spotify.com/track/71JY98oO0Tf3J7AIi1zYne"
     },
     {
       "album": {
@@ -1338,6 +1374,36 @@
       "duration_ms": 146773,
       "name": "Peace (Open Verse)",
       "url": "https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/0vaGqeqotjImeaBUvBP4mS"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Annie Daymar",
+          "url": "https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1HCNR9ew8WunsxuoFp0SJ4"
     },
     {
       "album": {
@@ -1783,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "album": {
         "name": "Work It Out",
         "url": "https://open.spotify.com/album/74aAyivHbswbVLoqBBwpOV"
       },
@@ -1886,6 +1974,24 @@
       "duration_ms": 279614,
       "name": "Your Baby - live Version",
       "url": "https://open.spotify.com/track/67mewy94QmXc3UqqzxNNju"
+    },
+    {
+      "album": {
+        "name": "Your Love is Amazing",
+        "url": "https://open.spotify.com/album/1HFVwMq3e8eRqrX2n0kFTw"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320085,
+      "name": "Your Love is Amazing",
+      "url": "https://open.spotify.com/track/1sDLL1lKapOjUZBtdjp9CE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm"

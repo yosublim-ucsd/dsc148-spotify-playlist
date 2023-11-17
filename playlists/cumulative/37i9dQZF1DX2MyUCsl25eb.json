@@ -10316,7 +10316,7 @@
     {
       "album": {
         "name": "Show Me",
-        "url": "https://open.spotify.com/album/4FmfQrqUX9MZKVAGvU2raK"
+        "url": "https://open.spotify.com/album/1Yfyyfp4la2cNoonBHmoxr"
       },
       "artists": [
         {
@@ -10331,6 +10331,28 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207878,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/3g2fynyyFDpBjQhECDPkpp"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/4FmfQrqUX9MZKVAGvU2raK"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Tatiana Marie Clark",
+          "url": "https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
       "duration_ms": 207878,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/7wfrMpmDnJUKVztxhNrLvn"

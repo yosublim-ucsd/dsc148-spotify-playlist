@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMjY0MjAsMDAwMDAwMDBmOGZmNDQ2NmRjNzM1YjM1NTY1ZTM4NDkzNmFkZGY2Mg==",
+  "snapshot_id": "MjgzMjY0MjAsMDAwMDAwMDBjODM3Njk0NWUzNjNlMjQzZWNhMTNlYjBkYTk5NWE5YQ==",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "A Torch In The Dark",
-        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 173116,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 409000,
       "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
       "url": "https://open.spotify.com/track/11SkgKmpzIviXkKuILQTc9"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "A Torch In The Dark",
+        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 173116,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "New Gold Dream - Live From Paisley Abbey",
+        "url": "https://open.spotify.com/album/3cJ50VlN3fp5pwTKPPH4xz"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Glittering Prize (Live From Paisley Abbey)",
+      "url": "https://open.spotify.com/track/3ZV1YERoqObJ9kqS2AbLOh"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "New Gold Dream - Live From Paisley Abbey",
-        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
+        "name": "Diamonds and Pearls (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 255866,
-      "name": "Glittering Prize - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
+      "duration_ms": 332680,
+      "name": "Diamonds and Pearls (Long Version)",
+      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -579,22 +595,6 @@
       "duration_ms": 270013,
       "name": "A Doorway - Dub Mix",
       "url": "https://open.spotify.com/track/3AY5AeJjkD04OrUlbtfqX8"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Diamonds and Pearls (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 332680,
-      "name": "Diamonds and Pearls (Long Version)",
-      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
-        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
-      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Ice Nine Kills, Asking Alexandria, From Ashes To New) [Acoustic]",
         "url": "https://open.spotify.com/album/426F7edvwDBldhLL4UfVLg"
       },
@@ -695,8 +679,24 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Home (with Michael Bubl\u00e9)",
-        "url": "https://open.spotify.com/album/30Z0pm7xXbQYjP2wUVy3ER"
+        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
+        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
       "artists": [
         {
@@ -710,7 +710,7 @@
       ],
       "duration_ms": 224586,
       "name": "Home (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/3bGcmjOqLYBVt1AtiLpmmT"
+      "url": "https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b"
     },
     {
       "added_at": "2023-11-10 03:00:00",

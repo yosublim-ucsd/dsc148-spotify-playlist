@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "BABA (feat. Ghali)",
+        "url": "https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "BABA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg"
+    },
+    {
+      "album": {
         "name": "\u0628\u0627\u0642\u064a",
         "url": "https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3"
       },

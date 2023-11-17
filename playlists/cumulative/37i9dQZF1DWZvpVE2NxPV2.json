@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Eternal Flow",
+        "url": "https://open.spotify.com/album/1JaUqBU4LFvEevvNNNGQ5b"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "Eternal Flow",
+      "url": "https://open.spotify.com/track/3uDpYjuJvPSDSn9uXIG8RF"
+    },
+    {
+      "album": {
         "name": "Eternal Slumber",
         "url": "https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1"
       },
@@ -2237,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Quiescence",
+        "url": "https://open.spotify.com/album/19hoNIvh1uWXqTakJUCNhL"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175798,
+      "name": "Quiescence",
+      "url": "https://open.spotify.com/track/3m51cUr11ZSJWFGmIn800g"
+    },
+    {
+      "album": {
         "name": "Rainfall",
         "url": "https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe"
       },
@@ -2792,6 +2828,24 @@
       "duration_ms": 240042,
       "name": "Shoreline Waves",
       "url": "https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8"
+    },
+    {
+      "album": {
+        "name": "Sinus",
+        "url": "https://open.spotify.com/album/3p0yXuPgxloFFUMO0YIVxu"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Fredig",
+          "url": "https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130794,
+      "name": "Sinus",
+      "url": "https://open.spotify.com/track/6Zwt26VVEUeS7Iq9BR0kiA"
     },
     {
       "album": {
@@ -3602,7 +3656,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 193793,
       "name": "Wave",
       "url": "https://open.spotify.com/track/4rChINjAEtwr5rq3V1lht7"

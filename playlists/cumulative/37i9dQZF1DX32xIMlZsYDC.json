@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "\u00c1rtabra",
+        "url": "https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202147,
+      "name": "A\u0301rtabra",
+      "url": "https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 3 / RWKS",
         "url": "https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 215000,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/1QQUFiArleFKStW1ttUfoN"

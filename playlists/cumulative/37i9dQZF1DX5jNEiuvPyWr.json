@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 181437,
       "name": "Aimons-nous vivants",
       "url": "https://open.spotify.com/track/6tkYlbsNN6crQj12xjSHdH"
+    },
+    {
+      "album": {
+        "name": "AKANI",
+        "url": "https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl"
+      },
+      "artists": [
+        {
+          "name": "Berry",
+          "url": "https://open.spotify.com/artist/2DkgMESM21mm7IoELw2tjQ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160030,
+      "name": "AKANI",
+      "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
     },
     {
       "album": {
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 139130,
       "name": "GRANDIR ET RAJEUNIR",
       "url": "https://open.spotify.com/track/0qXgwDS6MQzM4FHgoS0eLp"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 157714,
       "name": "Intermission",
       "url": "https://open.spotify.com/track/3jb2r0BwMc52cmZS0prJYl"
@@ -2659,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Gardien du Labyrinthe",
+        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "L'incendie",
+      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
+    },
+    {
+      "album": {
         "name": "Origine",
         "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
       },
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 161218,
       "name": "LE GO",
       "url": "https://open.spotify.com/track/1NQa6P3uWrx9LySoktgFPP"
@@ -3702,6 +3738,24 @@
       "duration_ms": 145443,
       "name": "Nuage",
       "url": "https://open.spotify.com/track/07r5QxQIHnfgnOI4Bkdy7o"
+    },
+    {
+      "album": {
+        "name": "NUAGES",
+        "url": "https://open.spotify.com/album/4ycC3Z34tOQLpyjsd8i9bx"
+      },
+      "artists": [
+        {
+          "name": "KLS",
+          "url": "https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145211,
+      "name": "NUAGES",
+      "url": "https://open.spotify.com/track/2dTgoKc0BQ06TLkt9P5BbI"
     },
     {
       "album": {
@@ -4871,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "SITCOM",
+        "url": "https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY"
+      },
+      "artists": [
+        {
+          "name": "S4Y",
+          "url": "https://open.spotify.com/artist/730brklpRJyEsMwAd4mQRp"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133793,
+      "name": "SITCOM",
+      "url": "https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL"
+    },
+    {
+      "album": {
         "name": "SKYLER",
         "url": "https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u"
       },
@@ -5225,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "Triste temps",
+        "url": "https://open.spotify.com/album/4rGYoyAGZJbSOSgJEbU7Mx"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Triste temps",
+      "url": "https://open.spotify.com/track/2EjucVZtebnlRYwMIOle3N"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1ym3PUxJ1ZMGwj6rnK71R2"
       },
@@ -5308,7 +5398,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144733,
       "name": "Une \u00e9ternit\u00e9 ne suffit pas (Affam\u00e9 #22)",
       "url": "https://open.spotify.com/track/7DpCZl6Gej1g4TDBcwzoix"
@@ -5536,7 +5626,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 159375,
       "name": "\u00c9T\u00c9 HIVER",
       "url": "https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A"

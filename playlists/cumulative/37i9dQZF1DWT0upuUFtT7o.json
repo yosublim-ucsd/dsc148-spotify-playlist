@@ -15461,6 +15461,24 @@
     },
     {
       "album": {
+        "name": "Hookey",
+        "url": "https://open.spotify.com/album/7KknC9RikxSrgFy83Kv6Dj"
+      },
+      "artists": [
+        {
+          "name": "Eaves Wilder",
+          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234710,
+      "name": "I Stole Your Jumper",
+      "url": "https://open.spotify.com/track/664NIGThIg9Ls7IuREwlqS"
+    },
+    {
+      "album": {
         "name": "I Think I'm Gay",
         "url": "https://open.spotify.com/album/5ddH2AIMYI2vI9TFc17Hoi"
       },
@@ -31230,6 +31248,24 @@
       "duration_ms": 168533,
       "name": "The Gig",
       "url": "https://open.spotify.com/track/2V71mWNNXX6n27OPSzGcEM"
+    },
+    {
+      "album": {
+        "name": "When Horses Would Run",
+        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136697,
+      "name": "The Great American Picnic",
+      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
     },
     {
       "album": {

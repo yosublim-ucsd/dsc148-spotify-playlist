@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 320842,
+  "num_followers": 320908,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQwNGFjZTdjMzlhMjRiNzlmZjg1NTU2OWZiMTMyODk4ZjcyOGYw",
+  "snapshot_id": "MCw2ZmVkNmUyNzkzMjhhMDZjMWM0ZjhkNjcxYjllZTE3MWYyYWMyZmZj",
   "tracks": [
     {
       "added_at": "2023-11-03 04:37:52",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
-      },
-      "artists": [
-        {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 281402,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Divino Esposo",
-        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
+        "name": "A tua ternura",
+        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
       },
       "artists": [
         {
@@ -348,13 +348,13 @@
           "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
         },
         {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
         }
       ],
-      "duration_ms": 218104,
-      "name": "Divino Esposo",
-      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
+      "duration_ms": 201089,
+      "name": "A tua ternura",
+      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "A tua ternura",
-        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
       },
       "artists": [
         {
@@ -512,13 +512,33 @@
           "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
         },
         {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
         }
       ],
-      "duration_ms": 201089,
-      "name": "A tua ternura",
-      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
+      "duration_ms": 218104,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
+        "name": "Subirei a Montanha",
+        "url": "https://open.spotify.com/album/37EhgHdVrf9W1zaLbjADJx"
+      },
+      "artists": [
+        {
+          "name": "Dago Soares",
+          "url": "https://open.spotify.com/artist/6j82Fe8Y9AeqfUT3df8awS"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 255510,
+      "name": "Subirei a Montanha",
+      "url": "https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -539,22 +559,6 @@
       "duration_ms": 228125,
       "name": "Em Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Subirei a Montanha",
-        "url": "https://open.spotify.com/album/37EhgHdVrf9W1zaLbjADJx"
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
       "artists": [
         {
-          "name": "Dago Soares",
-          "url": "https://open.spotify.com/artist/6j82Fe8Y9AeqfUT3df8awS"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 255510,
-      "name": "Subirei a Montanha",
-      "url": "https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv"
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 177322,
-      "name": "Cora\u00e7\u00e3o de M\u00e3e",
-      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
+        "name": "Quero Ouvir Tua Voz",
+        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "Quero Ouvir Tua Voz",
+      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -859,22 +859,22 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Quero Ouvir Tua Voz",
-        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
         }
       ],
-      "duration_ms": 264891,
-      "name": "Quero Ouvir Tua Voz",
-      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
+      "duration_ms": 177322,
+      "name": "Cora\u00e7\u00e3o de M\u00e3e",
+      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Maria Vem",
-        "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
-      },
-      "artists": [
-        {
-          "name": "Liah Soares",
-          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
-        }
-      ],
-      "duration_ms": 240513,
-      "name": "Maria Vem",
-      "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
         "name": "Gba Stage, Vol. 11",
         "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 302794,
       "name": "Maria de Minha Inf\u00e2ncia",
       "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
+        "name": "Maria Vem",
+        "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
+      },
+      "artists": [
+        {
+          "name": "Liah Soares",
+          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
+        }
+      ],
+      "duration_ms": 240513,
+      "name": "Maria Vem",
+      "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
     },
     {
       "added_at": "2023-11-03 04:37:52",

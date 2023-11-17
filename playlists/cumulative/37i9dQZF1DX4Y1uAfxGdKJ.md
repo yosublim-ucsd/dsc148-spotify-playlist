@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-151 songs - 8 hr 23 min
+153 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Pós Sol](https://open.spotify.com/track/2bbPnvi0OaViwKNEG0DnPC) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb) | [Pós Sol](https://open.spotify.com/album/7h2mvg8UNNs3TPl0hxgPBj) | 2:30 | 2022-09-23 |  |
 | [Queztal](https://open.spotify.com/track/3dyrjNrz8HcVBx2VsUaYVh) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Kaloula](https://open.spotify.com/album/7zFO0WXUlKoBjyQJXGguRS) | 4:08 | 2023-05-22 |  |
 | [Quick Sand](https://open.spotify.com/track/6htTBHUpAE9VFfbCrR5rQH) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Quick Sand](https://open.spotify.com/album/6lEvyBtEpcKbzZUr4ONKBX) | 3:53 | 2022-11-25 | 2023-07-18 |
+| [Rajon](https://open.spotify.com/track/5brQKlwccMQLO2RHz5LPVp) | [Gloster Gladiator](https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg) | [Rajon](https://open.spotify.com/album/25i8QRZTbGKeSCLpGyxZxM) | 2:20 | 2023-11-17 |  |
 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 | 2023-03-31 |  |
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 | 2023-07-18 |
 | [Rebel](https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Parachutes](https://open.spotify.com/album/5MoNA5y7SgdWPmr7Tw23Hk) | 3:58 | 2023-02-10 | 2023-09-23 |
@@ -138,6 +139,7 @@
 | [Something in the Water](https://open.spotify.com/track/4mDWO0QP4kZ37nHonhCHtd) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Rise Together](https://open.spotify.com/album/6v5H9zuekGF6sK9iDOd6vZ) | 3:19 | 2022-09-23 | 2023-07-18 |
 | [stories 13](https://open.spotify.com/track/6HNgWzpxQl1qukSKeIuqid) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [stories 13](https://open.spotify.com/album/56rTivunke1UwRpxEe8yMP) | 2:42 | 2023-01-06 | 2023-07-18 |
 | [Strando](https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Strando](https://open.spotify.com/album/00RDUWlShtyBYbZvdpB89W) | 2:57 | 2022-09-23 | 2023-07-18 |
+| [Sunny Sides](https://open.spotify.com/track/6olBk82nCjXjLcXL5bPZBj) | [Mont Áy](https://open.spotify.com/artist/1lEZ94eNcaKh7AHMaBcv0q) | [Sunny Sides](https://open.spotify.com/album/2tWPuGy38UmTsEIZWjyGxw) | 2:48 | 2023-11-17 |  |
 | [Sweet Harmony \- Erdi Irmak Remix](https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK), [Erdi Irmak](https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6) | [Sweet Harmony \(Remixed\)](https://open.spotify.com/album/02MzP5OO5FfTgyH1OlpEnS) | 6:46 | 2023-03-10 | 2023-04-29 |
 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 | 2023-01-06 |  |
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-09-23 | 2023-07-18 |

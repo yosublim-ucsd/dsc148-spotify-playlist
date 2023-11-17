@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\u00d6ver Broarna",
+        "url": "https://open.spotify.com/album/2y8RsbPzpHh6ImIeUAg3C7"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200471,
+      "name": "(D)u ska (IN)te tr(O) - Mellan Broarna 2019 Bonussp\u00e5r",
+      "url": "https://open.spotify.com/track/11JjOKITId5awV1yR8rmxJ"
+    },
+    {
+      "album": {
         "name": "03:30",
         "url": "https://open.spotify.com/album/5r7vOF3pjDZrz29Ek0V4zn"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 186806,
       "name": "AfterParty",
       "url": "https://open.spotify.com/track/0ARF9LfcpSgZeT1NvcEFhZ"
@@ -1037,7 +1055,7 @@
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160013,
+      "duration_ms": 160634,
       "name": "Aktiv",
       "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
@@ -4116,7 +4134,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 91764,
       "name": "Brazil Flow",
       "url": "https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr"
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 126000,
       "name": "Buzz Down",
       "url": "https://open.spotify.com/track/0tbpWmfRjlVkBa3vNJyYit"
@@ -8091,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/2BlNVM9L2b3tj0H67QHcjL"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/4e3c7sCyBXsOE84AB6Hiig"
+    },
+    {
+      "album": {
         "name": "Frero",
         "url": "https://open.spotify.com/album/5MiAugswi2g5TCP8RbK2YD"
       },
@@ -9583,6 +9619,24 @@
     },
     {
       "album": {
+        "name": "G\u00fcten Tag",
+        "url": "https://open.spotify.com/album/2HnP4EIIwWhCIoVEj620qp"
+      },
+      "artists": [
+        {
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "G\u00fcten Tag",
+      "url": "https://open.spotify.com/track/0hBaLYtzhrXncWPtISF8BY"
+    },
+    {
+      "album": {
         "name": "Habiba",
         "url": "https://open.spotify.com/album/1fw2IHZiOUmjZAhTSgNQSQ"
       },
@@ -9784,7 +9838,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 127164,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/5YIxKvVImUV3FxyRmKiwdb"
@@ -9962,6 +10016,24 @@
       "duration_ms": 206548,
       "name": "Heady",
       "url": "https://open.spotify.com/track/06UrJVwbBaCLZGbEm5EfLz"
+    },
+    {
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/2hKdmqtrvIYeN6DVSNKCVf"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149529,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/79x6bjemiP14D0mYRfrNgr"
     },
     {
       "album": {
@@ -10840,7 +10912,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 136855,
       "name": "I HAD A DREAM",
       "url": "https://open.spotify.com/track/5OjoeMHqhRFTB6aweHaYlv"
@@ -11886,7 +11958,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 161454,
       "name": "Ka Kac",
       "url": "https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw"
@@ -14901,6 +14973,28 @@
     },
     {
       "album": {
+        "name": "Mandy",
+        "url": "https://open.spotify.com/album/62h5f1yJ87KxfvV8g8s3tA"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148137,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/47y2uDVf39r1RVkdsWSU3c"
+    },
+    {
+      "album": {
         "name": "MANO",
         "url": "https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1"
       },
@@ -15218,7 +15312,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 147450,
       "name": "MED STIL",
       "url": "https://open.spotify.com/track/2kl3Q9Guba2qxFuF1PQRd4"
@@ -15334,7 +15428,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 182053,
       "name": "mellanm\u00e5l (vila i frid kewin <3)",
       "url": "https://open.spotify.com/track/1LDbGjdGXi5XeZTdpp3XZE"
@@ -15680,7 +15774,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 121263,
       "name": "Millions",
       "url": "https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq"
@@ -16380,6 +16474,24 @@
       "duration_ms": 135944,
       "name": "M\u00d6NSTER",
       "url": "https://open.spotify.com/track/2ADLH4BFG8l6g0roAGq2kb"
+    },
+    {
+      "album": {
+        "name": "M\u00f6rdare",
+        "url": "https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "M\u00f6rdare",
+      "url": "https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag"
     },
     {
       "album": {
@@ -17236,6 +17348,28 @@
       "duration_ms": 138556,
       "name": "Ollie Dovin",
       "url": "https://open.spotify.com/track/1snyenKHSJqWEEFFVlxfB6"
+    },
+    {
+      "album": {
+        "name": "Om & Om",
+        "url": "https://open.spotify.com/album/047HhbkClcqCs840O6W8dn"
+      },
+      "artists": [
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        },
+        {
+          "name": "Nordik Beatz",
+          "url": "https://open.spotify.com/artist/5tUMfmPXYszsVvtXHnITtD"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Om & Om",
+      "url": "https://open.spotify.com/track/1bcYfrBhfeDeA4Qep622fh"
     },
     {
       "album": {
@@ -22316,7 +22450,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 127663,
       "name": "Tar det tillbaka igen",
       "url": "https://open.spotify.com/track/4s3JPsZs1hNPRUB9aQAk7L"
@@ -23290,7 +23424,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-17",
       "duration_ms": 144000,
       "name": "Tugga",
       "url": "https://open.spotify.com/track/1fXLBeukz094BCY5VZVKba"
@@ -24772,6 +24906,28 @@
       "duration_ms": 161250,
       "name": "WAS GEHT",
       "url": "https://open.spotify.com/track/3DchPWZrC5ZjjCEVkU392L"
+    },
+    {
+      "album": {
+        "name": "Kod R\u00f6d",
+        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "We Lit",
+      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
     },
     {
       "album": {

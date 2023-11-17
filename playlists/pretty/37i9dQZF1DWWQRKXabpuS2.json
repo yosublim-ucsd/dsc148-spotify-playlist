@@ -1,15 +1,47 @@
 {
   "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u0645\u0639\u0646\u0649",
-  "num_followers": 31937,
+  "num_followers": 31968,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGUyN2I0YmQ1NGM1OTA3ZTQ2MTQxMTdkZDhhMTEwNmM1MDkxYzIw",
+  "snapshot_id": "MCxiNDNiMDdhOGY2MDI2ODBkODliNzNjYmJhOTRiYmEzMzc1NjMzNjUz",
   "tracks": [
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
+      "album": {
+        "name": "Jeet Gablek",
+        "url": "https://open.spotify.com/album/3JLvO6OvmIwaHVN5vE2UZS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "duration_ms": 333531,
+      "name": "Jeet Gablek",
+      "url": "https://open.spotify.com/track/7uMCb7TtPSx5qdPCxpH05I"
+    },
+    {
+      "added_at": "2023-11-16 20:20:54",
+      "album": {
+        "name": "Al Ghayeb",
+        "url": "https://open.spotify.com/album/6dgUsT5lqbH4bYc8mSThvd"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "duration_ms": 212884,
+      "name": "Al Ghayeb",
+      "url": "https://open.spotify.com/track/63OHHhts1iM6ko08jfZIXF"
+    },
+    {
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "#1",
         "url": "https://open.spotify.com/album/1ufUw2q6WAB4jrghwChTec"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/1Ne42Dc6BPemYb4i1XikJk"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Kareh Nafsi",
         "url": "https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/2HBLe2Hkm1l2Om72BJ9Bxx"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Allah Yekhalleek Lehalek",
         "url": "https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Waqaf Lahfatk",
         "url": "https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0627\u0644\u0623\u0631\u0636",
         "url": "https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Yedor Elroh",
         "url": "https://open.spotify.com/album/1tet3XkFW9xL8108hVfEmo"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/2Fj7CCqcJzQNS9e1ArnAxp"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Tezzakar Al Nesyan",
         "url": "https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ma Fagadtek",
         "url": "https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0645\u0635\u0644\u062d\u062a\u0643",
         "url": "https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ahmed Allah Aleek",
         "url": "https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0631\u0627\u0628\u062d \u0635\u0642\u0631 \u0662\u0660\u0662\u0663 - \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u062b\u0627\u0644\u062b",
         "url": "https://open.spotify.com/album/0gjd8nLLwr2sHk7lsfBfvL"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/0GUMuiH1nCUrv6Qn3XoSLt"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ehssas",
         "url": "https://open.spotify.com/album/4c79IbeNeVTf7a0GXRa0l4"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/0FZ83x8emlQB24jrOSDsYc"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Khatftni",
         "url": "https://open.spotify.com/album/3wxQX2Gzc7oh5AlziRmRRa"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/1ZRtIeGiOwFBWDckCWaame"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0627\u0644\u0623\u0631\u0636",
         "url": "https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0627\u0644\u0639\u062c\u0628 \u0641\u064a \u0627\u0644\u0647\u0648\u0649",
         "url": "https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Roho Beldamea",
         "url": "https://open.spotify.com/album/6KDLTLDvY8EF629yJQyH6j"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/6vUjGTGvHvNUuTNGMkWZl7"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u062c\u0646\u0646\u062a \u0642\u0644\u0628\u064a",
         "url": "https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "El Gheyab",
         "url": "https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u0623\u0628\u062f\u064a",
         "url": "https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Tmmor Jarhi",
         "url": "https://open.spotify.com/album/48gEAuMdpxSycv3wpFJc8O"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Tkhawfni",
         "url": "https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Wesh Fini",
         "url": "https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Mara Aan Malioun (feat. Daffy)",
         "url": "https://open.spotify.com/album/0pTDbXQGqK3li48QMqAoFr"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/3qCKXqyJjrc2qWVITysP6i"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Hatha Al Kalam",
         "url": "https://open.spotify.com/album/6XX6i3D0ovgR2Q4m7Mc26Q"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/4YfGPnOkFzM1SjwqpCSE7U"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Habeetah",
         "url": "https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u064a\u0627 \u0645\u0648\u0627\u062f\u0639\u0646\u064a",
         "url": "https://open.spotify.com/album/6mKCtEMVudgtCNJ3vwSZWy"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/4xkoyU4spVdQdqThhLKfWY"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Kellahe El Shouq",
         "url": "https://open.spotify.com/album/6RBuponLlbtQMbtKh5uJ53"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0644\u0628\u064a\u0647",
         "url": "https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Kathaab",
         "url": "https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Resayel Ams",
         "url": "https://open.spotify.com/album/2C44qfSEKmvuZzJ7Pva7n4"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/1Qnh4KEeIljMwB4VBtAndB"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Marhala Saabah",
         "url": "https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ana Adhak",
         "url": "https://open.spotify.com/album/1vOqDeqDhPK59GAWeSJgeN"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/7lLSXSxCmZmwqtaSq0pkZ2"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Nadak Qalbi",
         "url": "https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ya Labba Soutak",
         "url": "https://open.spotify.com/album/6tlwjwtnF7WqRFDx6lc2n4"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/7pqCy96fz2S4QM4v2lsNme"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Abiha Mn Allah",
         "url": "https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u062d\u0638 \u0645\u0646 \u0634\u0627\u0641\u0643",
         "url": "https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Alnehaiat Al Saeeda",
         "url": "https://open.spotify.com/album/1uRKnJDDUqGCrqFSxQpOhC"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/6YijLSaqbmhfw4Z8ZQbwzh"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Mezlaaj",
         "url": "https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0631\u0627\u0628\u062d \u0635\u0642\u0631 \u0662\u0660\u0662\u0663 - \u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u062b\u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0633\u0648\u0627\u0644\u064a\u0641 \u0627\u0644\u0648\u0644\u0647",
         "url": "https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0627\u0644\u062d\u064a\u0644\u0629",
         "url": "https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ahla Khabar",
         "url": "https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Araftouh",
         "url": "https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Shabeah Rouhi",
         "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Shof Galbi",
         "url": "https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ana Lak",
         "url": "https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "Ana A7tereg",
         "url": "https://open.spotify.com/album/1J5aVon8xDBJyOHPZU3n13"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/3NzkzuF7YhWevZKf0rvwk8"
     },
     {
-      "added_at": "2023-11-14 10:38:38",
+      "added_at": "2023-11-16 20:20:54",
       "album": {
         "name": "\u0639\u0634\u0642 \u0633\u064a\u062f\u0647",
         "url": "https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4"
@@ -799,38 +831,6 @@
       "duration_ms": 212105,
       "name": "\u0639\u0634\u0642 \u0633\u064a\u062f\u0647",
       "url": "https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63"
-    },
-    {
-      "added_at": "2023-11-14 10:38:38",
-      "album": {
-        "name": "Nar",
-        "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
-      },
-      "artists": [
-        {
-          "name": "Salma Rachid",
-          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sadmat Omri",
-      "url": "https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi"
-    },
-    {
-      "added_at": "2023-11-14 10:38:38",
-      "album": {
-        "name": "\u0627\u0644\u0627 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox"
-      },
-      "artists": [
-        {
-          "name": "\u0647\u062f\u0649 \u0627\u0644\u0641\u0647\u062f",
-          "url": "https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "\u0627\u0644\u0627 \u0642\u0644\u0628\u064a",
-      "url": "https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

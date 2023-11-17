@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Georgia Lines
 
-3,226 songs - 6 day 20 hr 8 min
+3,227 songs - 6 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2693,7 +2693,8 @@
 | [Sweatshirt](https://open.spotify.com/track/2Lp3YWgTMuA94YhwCg3nY6) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/4143L9i3dl8e3zJFhTAjLv) | 3:27 | 2020-10-13\* | 2021-01-15 |
 | [Sweet & Sour](https://open.spotify.com/track/5dKEjd7OcB0yWo45GJcCvo) | [Queen Star](https://open.spotify.com/artist/7aWcchXaMFsOnIhrHJ29tu) | [Sweet & Sour](https://open.spotify.com/album/3CK6fX2aALQy0hfi88Hxdw) | 3:45 | 2023-01-25 | 2023-03-02 |
 | [Sweet 16](https://open.spotify.com/track/0xiVurRahlzF6xC3oZIGJE) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Sweet 16](https://open.spotify.com/album/5UNytZyGlTgSw2TCX22ZVY) | 2:51 | 2021-10-28 | 2021-12-01 |
-| [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 | 2023-05-03 |  |
+| [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 | 2023-05-03 | 2023-11-17 |
+| [Sweet Nothings](https://open.spotify.com/track/58fTsTMMtsbkmmfKvigaAT) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2AF660vQbgKR2QHGZ83kW3) | 2:15 | 2023-05-03 |  |
 | [Sweet Side](https://open.spotify.com/track/45qeB0SEtstG2eqbAqR15b) | [Balcony Weekend](https://open.spotify.com/artist/5T8zToy1aCHdnUQBVPTY6G) | [Sweet Side](https://open.spotify.com/album/5BkHrRwjfihwgZRgy4iK64) | 2:20 | 2021-08-26 | 2021-09-24 |
 | [Sweet Talk](https://open.spotify.com/track/6Hx8RhtsOBTHOqu6fvvig2) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Sweet Talk / Sidewalk](https://open.spotify.com/album/1SolSRS9oLJHAwl05lbCyI) | 2:29 | 2022-05-18 | 2022-06-30 |
 | [Sweet Talk](https://open.spotify.com/track/3smc46gHnjibhEqkYFoRKO) | [Tyra Chantey](https://open.spotify.com/artist/2TTmUTfsQjQb9Wx8arAZy9) | [Sweet Talk](https://open.spotify.com/album/7ohjMQr04OiiK4teFqr20f) | 2:48 | 2020-12-03 | 2020-12-08 |

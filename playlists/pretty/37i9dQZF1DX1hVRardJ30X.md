@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nicky Jam & Omar Montes
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,372 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,452 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Amar Otra Vez](https://open.spotify.com/track/1wWROnFqptp0EsNZU3JlKK) | [Cash Bently](https://open.spotify.com/artist/6yjpnGMq2yiLvJCSIVBwzd) | [Cash Corridos 3](https://open.spotify.com/album/4pM7rMUi8J9UcuJG2JtJDh) | 2:37 |
 | 50 | [2049](https://open.spotify.com/track/2EIBZFeLWN8Rda4oJ6Lxiw) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [2049](https://open.spotify.com/album/5Gki0SH1UH8UHULis3VrKa) | 4:07 |
 
-Snapshot ID: `MCxlNDU4NzNmZWM0ZTk1NTRiOGZjZmM0ZDlmNTI5Y2IzNjJmZDc5ZmM3`
+Snapshot ID: `MCxjNWI4ZTkwYzUyNGI1ZjJlODExZjEyNmVkYTU1MjBiNzg5M2FmNzI1`

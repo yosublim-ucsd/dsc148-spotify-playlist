@@ -8047,6 +8047,24 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/1otKeILDeZoK6WFqfKAH42"
+      },
+      "artists": [
+        {
+          "name": "Kempton Zalen",
+          "url": "https://open.spotify.com/artist/533FxOCnNtctm1LHR6sUj4"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124941,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/5utK9Cv1ooSgBHsEiN7OAp"
       },

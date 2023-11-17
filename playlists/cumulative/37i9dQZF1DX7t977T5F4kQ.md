@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=LG\-IJqKLQD6XidzfrXs5\_A"> Herman Suede </a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw?si=zHeqTQBjSlCgMpPiuLyaYQ"> Quamina MP </a>
 
-256 songs - 13 hr 33 min
+261 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 | 2023-05-19 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-04 |  |
 | [Aviator](https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Aviator](https://open.spotify.com/album/5VI1VyyLgDgYSm3wNRpaKx) | 3:32 | 2023-02-23 | 2023-03-18 |
+| [Baby](https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Baby](https://open.spotify.com/album/3LjAal9dJ9uYSwZWFxyaah) | 3:33 | 2023-11-17 |  |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2023-07-14 |  |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-11-04 | 2023-06-27 |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-11-04 | 2023-09-09 |
@@ -67,7 +68,9 @@
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2023-01-13 |  |
 | [Criminal](https://open.spotify.com/track/7LRvsLwnoMZYJ5ZY0Xupv7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Criminal](https://open.spotify.com/album/7x4SAE0RVgcenFP89fj7Ix) | 2:15 | 2022-11-15 | 2023-01-20 |
 | [Cryptocurrency](https://open.spotify.com/track/4QdeLIxAqo8Dh5vUNpK0Vp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Cryptocurrency](https://open.spotify.com/album/03gi4AddTZUCQwJnsDnexz) | 2:59 | 2023-02-23 |  |
+| [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:19 | 2023-11-17 |  |
 | [Deserve](https://open.spotify.com/track/2RXrtUrY8dE2ZFtKfTJmKs) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Deserve](https://open.spotify.com/album/0WQa7tJ01bmefEoYHEhxLp) | 3:13 | 2023-06-09 | 2023-06-17 |
+| [Designer](https://open.spotify.com/track/4IMmrj6wSiWwmPUGCDzXZU) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Designer](https://open.spotify.com/album/5wkIu7FT32wFoCGM81cRwJ) | 2:24 | 2023-11-17 |  |
 | [Destiny](https://open.spotify.com/track/4o288GFXXDZIo745sGSFRJ) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [Destiny](https://open.spotify.com/album/3wKyONrSgO5XaH4ojx5bw5) | 3:00 | 2023-09-14 | 2023-10-13 |
 | [Dime Piece](https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Brudda Nay](https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV) | [Dime Piece](https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y) | 3:41 | 2023-02-16 | 2023-04-28 |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-11-04 |  |
@@ -117,6 +120,7 @@
 | [I Don't Care](https://open.spotify.com/track/2FU37MmVlpgnHaP6TCm3W0) | [Kixx Alphah](https://open.spotify.com/artist/4QETJXRJe1ngdzifCC9D4a), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [I Don't Care](https://open.spotify.com/album/1HqSh0DlOiG2Sn9i5Hgdj2) | 3:01 | 2023-09-14 | 2023-10-13 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 |  |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-02-24 |
+| [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 |  |
 | [Into The Future](https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/0sV7MVjtvmIlLqA6AJxzAu) | 2:30 | 2023-06-22 |  |
 | [Jara Jara](https://open.spotify.com/track/2IvPHqPadGXpgNP0SziB3i) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Jara Jara](https://open.spotify.com/album/4aiDLfgB5nCJELL4DIFiNK) | 2:15 | 2023-08-24 | 2023-09-22 |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2022-11-04 |  |
@@ -240,6 +244,7 @@
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-12 | 2023-09-15 |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-11-04 | 2023-08-18 |
+| [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 |  |
 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 |  |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-16 |  |
 | [Vibrate](https://open.spotify.com/track/4HThzBtkiSPncs7d3kEnTp) | [Lynx](https://open.spotify.com/artist/2CRAIABBJmFohN8CgSyWp2), [DSL](https://open.spotify.com/artist/0VmssGpE5BEED12qn6DJt5), [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye) | [Coming Soon](https://open.spotify.com/album/3F2XTxYypkPziaKfYcL0he) | 2:21 | 2023-01-27 | 2023-04-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Naura Ayu",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Aziz Hedra",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -1106,6 +1106,24 @@
       "duration_ms": 180050,
       "name": "In Situ (Remix Version)",
       "url": "https://open.spotify.com/track/2BzHGy5g8keLdzk18JWd1n"
+    },
+    {
+      "album": {
+        "name": "Issa Goodbye",
+        "url": "https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216709,
+      "name": "Issa Goodbye",
+      "url": "https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae"
     },
     {
       "album": {

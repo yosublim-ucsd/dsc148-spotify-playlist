@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 444587,
+  "num_followers": 444634,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIxNGQ3ZjAwNmZlNGE0MGZkODQ1YjM4MDlkNDIxNTgxMGU2Mjc4",
+  "snapshot_id": "MCwzYWIzN2NmNGM3OWYyMzI3YTU1MmRhN2I3MTY1NDAzODliMTFlNWZj",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 329086,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Black Hole Sun",
-        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
-      },
-      "artists": [
-        {
-          "name": "Nouela",
-          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
-        }
-      ],
-      "duration_ms": 275966,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The City Holds My Heart",
-        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
+        "name": "Black Hole Sun",
+        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Nouela",
+          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
+      "duration_ms": 275966,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1355,6 +1339,22 @@
       "duration_ms": 227064,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "The City Holds My Heart",
+        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Friday I'm in Love",
-        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
-      },
-      "artists": [
-        {
-          "name": "Oselie",
-          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
-        }
-      ],
-      "duration_ms": 173475,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
         "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Friday I'm in Love",
+        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
+      },
+      "artists": [
+        {
+          "name": "Oselie",
+          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
+        }
+      ],
+      "duration_ms": 173475,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Undercover Bros.",
-        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        }
-      ],
-      "duration_ms": 248590,
-      "name": "How Deep is Your Love",
-      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "For The Young",
         "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 249400,
       "name": "Show Me The Meaning Of Being Lonely",
       "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 233413,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
     }
   ],
   "unique_name": "Chill Covers",

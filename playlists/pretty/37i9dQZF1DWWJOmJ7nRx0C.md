@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,674 likes - 120 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,774 likes - 120 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 119 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 | 120 | [Breakout](https://open.spotify.com/track/3rWtfyhHQM7PmeXJjcK2D2) | [Amber Wild](https://open.spotify.com/artist/2j6qFsDbHa8AvJu9srRBrS) | [Breakout // Silver](https://open.spotify.com/album/0IYNo3hRLEUi2FMFrsN4Uy) | 3:43 |
 
-Snapshot ID: `MCw1MzZjNzY2MzkzODVhMzBlNTE3YmY0MDUyMzgwN2NkMjE1YzRmMTNk`
+Snapshot ID: `MCw2NjVlMzFhYjc1OWY2OTRiZTBiOTRlMDAzZjM5NzdkYWE3NmY4OGQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,138 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,248 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 55 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 56 | [EVERYTHING EVERYTHING](https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [EVERYTHING EVERYTHING](https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs) | 3:20 |
 | 57 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
-| 58 | [No One But You](https://open.spotify.com/track/7LDWiCQNiCh5iL2lO6SIDR) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [No One But You](https://open.spotify.com/album/7rBwQJyYtuZ0I6HPziAISU) | 8:55 |
+| 58 | [No One But You](https://open.spotify.com/track/7LDWiCQNiCh5iL2lO6SIDR) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [No One But You](https://open.spotify.com/album/7rBwQJyYtuZ0I6HPziAISU) | 8:55 |
 | 59 | [Live Again](https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Live Again](https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh) | 5:08 |
 | 60 | [Surrounded \(Fight My Battles\) \- Live](https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [To The One \(Live\)](https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX) | 5:59 |
 | 61 | [Remember](https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Remember](https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf) | 5:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 74 | [A Thousand More](https://open.spotify.com/track/7tIrrmVZNRypgrP7FQZmLR) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:27 |
 | 75 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 |
 
-Snapshot ID: `MCxmOWFmZWEwNzUxYTcwOTZkZmE1YmJhNWEyOGRjMWY2NmQwYWYwMjIx`
+Snapshot ID: `MCxjZDQyYzQzZGMwNDk1MDE4Y2QzM2Q5NGM5ZTVlMWQwZTkxMmNjNTc5`

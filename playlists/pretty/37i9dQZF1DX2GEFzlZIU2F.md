@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 
 > ahhhhhhhhh
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,939 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,076 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 22 | [Experiment On Me](https://open.spotify.com/track/2xVuumAfdJpWCqqYZbTI1Q) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Birds of Prey: The Album](https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI) | 3:34 |
 | 23 | [UCKERS](https://open.spotify.com/track/1tZAEXxVr3W1XHPQZslOEI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/3WG0rNIPHZAaFyVm77bKaM) | 1:55 |
 | 24 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 |
-| 25 | [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 |
+| 25 | [Parasite](https://open.spotify.com/track/6CbLM1XXg4bFR6oCXXMVM6) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/6VxaPwWSbuar6T4W8D6vX2) | 1:56 |
 | 26 | [EAT](https://open.spotify.com/track/2vtGHsoRG9XXhNcGbHhnbH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [EAT \(NXT Soundtrack\)](https://open.spotify.com/album/4vi6sZcoqMQ0C0EfqgRndL) | 3:01 |
 | 27 | [Plump](https://open.spotify.com/track/2nbTJN4paC2VOCEGX1kh1x) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 2:34 |
 | 28 | [Major System Error](https://open.spotify.com/track/7DHaf24CxsjF8mbXmoJv7G) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Knowing What You Know Now](https://open.spotify.com/album/6ugcC7DaLDApGMJbGQtg5w) | 3:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 54 | [Who's Got My Lighter?](https://open.spotify.com/track/3MJekXiIAzupvp8wQop8zL) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Who's Got My Lighter?](https://open.spotify.com/album/7fqONBEazCdEoUHby6uwlm) | 3:10 |
 | 55 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
 
-Snapshot ID: `MCw5M2IxMTAxZjY0Mzk1OGM3YjVkNjMyZmUzYzAyNjY4YzIwNjc1Njg1`
+Snapshot ID: `MCxkYTI5NWQxNmEwN2ViMjlhYWJiMGNhNzg3MGMwMTYyMTlmZmI4OWNm`
