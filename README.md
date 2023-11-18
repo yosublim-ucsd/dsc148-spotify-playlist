@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7042\)
+## Playlists \(7043\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -696,6 +696,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Balearic Beats](/playlists/pretty/37i9dQZF1DWZdlSSSctCmk.md)
 - [Balec !](/playlists/pretty/37i9dQZF1DWXEtW1CELnqL.md)
 - [Balkanista Circus](/playlists/pretty/37i9dQZF1DXdxLagECufdp.md)
+- [Ballads](/playlists/pretty/5JjZ15hnHRkAds4ab4BXiz.md)
 - [Ballads Forever](/playlists/pretty/37i9dQZF1DXd4hrw8K7Pxm.md)
 - [Ballads International](/playlists/pretty/37i9dQZF1DXaFm6IhSHlyi.md)
 - [Baltimore Club](/playlists/pretty/37i9dQZF1DWWrKm37olqYM.md)
